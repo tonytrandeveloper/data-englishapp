@@ -1,0 +1,77 @@
+{
+    "id": "a5326c602d38438585e4f7375a5133c1",
+    "title": "Error correction exercise",
+    "exercises": [
+        {
+            "id": "4af17f9561184687a3df16677ed5583b",
+            "title": "Sentence Completion Exercise",
+            "questions": [
+                {
+                    "question": "Six years ................................, Alice, a French woman, left her job and accompanied her husband to India.",
+                    "description": "",
+                    "answers": [
+                        "ago",
+                        "before"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "After moving to India, Alice decided to do something different from what she .................... doing and started teaching blind children in the age group of two to five years.",
+                    "description": "",
+                    "answers": [
+                        "is",
+                        "had been doing",
+                        "has been doing"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Alice not only volunteers with her own services she ............................ other French nationals in Mumbai and gets them involved with the activities of the school.",
+                    "description": "",
+                    "answers": [
+                        "emails",
+                        "also emails"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Tata Motors .......................... into a definitive agreement with Ford on March 26 to acquire the two British luxury brands, Jaguar and Land Rover, at an estimated 3 billion dollars.",
+                    "description": "",
+                    "answers": [
+                        "entered",
+                        "has entered"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Finance Minister said that the country’s economy .................... at the slowest pace in four years in the next 12 months as a result of a global slowdown.",
+                    "description": "",
+                    "answers": [
+                        "may grow",
+                        "was growing"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "According to scientists, black carbon, ......................... from biomass burning, diesel engine exhaust and cooking fires has a warming effect in the atmosphere three to four times greater than prevailing estimates.",
+                    "description": "",
+                    "answers": [
+                        "emitting",
+                        "emitted"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "The US space shuttle Endeavour ............................ successfully in Florida after the longest mission of its kind to the International Space Station.",
+                    "description": "",
+                    "answers": [
+                        "was landing",
+                        "has been landing",
+                        "has landed"
+                    ],
+                    "correct": 2
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "id": "7309b9d2fe764d9f91cefa0d25280e0a",
+    "title": "Grammar exercise: which word is wrong?",
+    "exercises": [
+        {
+            "id": "1e547e36e4ac42718f8cb7ecfd0311dd",
+            "title": "Omission Exercise",
+            "questions": [
+                {
+                    "question": "Take the book with you in case you will see Mary.",
+                    "description": "",
+                    "answers": [
+                        "with",
+                        "in case",
+                        "will"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "That’s the house where he was born in.",
+                    "description": "",
+                    "answers": [
+                        "where",
+                        "was",
+                        "in"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "She had died a couple of years ago.",
+                    "description": "",
+                    "answers": [
+                        "had",
+                        "a",
+                        "of"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "He asked that what I was doing.",
+                    "description": "",
+                    "answers": [
+                        "that",
+                        "what",
+                        "was"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "He asked to her why she was angry.",
+                    "description": "",
+                    "answers": [
+                        "to",
+                        "why",
+                        "was"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "When I will go to Mexico, I will see him.",
+                    "description": "",
+                    "answers": [
+                        "will",
+                        "to",
+                        "when"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "He is very much angry.",
+                    "description": "",
+                    "answers": [
+                        "very",
+                        "much"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Yesterday in the evening he came to dinner.",
+                    "description": "",
+                    "answers": [
+                        "in the",
+                        "came",
+                        "to"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "This is my friend who he was at school with me.",
+                    "description": "",
+                    "answers": [
+                        "who",
+                        "he",
+                        "at"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Supposing if you fail, what will you do?",
+                    "description": "",
+                    "answers": [
+                        "if",
+                        "fail",
+                        "will"
+                    ],
+                    "correct": 0
+                }
+            ]
+        }
+    ]
+}

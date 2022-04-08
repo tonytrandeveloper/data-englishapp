@@ -1,0 +1,4394 @@
+[
+    {
+        "id": "c04e4008400c49229b4fa9dd8d56f803",
+        "word": "east",
+        "pos": "adjective",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/iːst/",
+            "us": "/iːst/"
+        },
+        "nearby": [
+            {
+                "word": "easiness",
+                "pos": "noun"
+            },
+            {
+                "word": "east",
+                "pos": "noun"
+            },
+            {
+                "word": "east",
+                "pos": "adjective"
+            },
+            {
+                "word": "east",
+                "pos": "adverb"
+            },
+            {
+                "word": "East Anglia",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "in or towards the east",
+                    "vi": "ở hoặc về phía đông"
+                },
+                "examples": [
+                    {
+                        "en": "East Africa",
+                        "vi": "Đông Phi"
+                    },
+                    {
+                        "en": "They live on the east coast.",
+                        "vi": "Họ sống ở bờ biển phía đông."
+                    },
+                    {
+                        "en": "the east bank of the river",
+                        "vi": "bờ đông của sông"
+                    },
+                    {
+                        "en": "They live on the city's east side.",
+                        "vi": "Họ sống ở phía đông của thành phố."
+                    },
+                    {
+                        "en": "The park and lake are at the east end of the complex.",
+                        "vi": "Công viên và hồ nước nằm ở cuối phía đông của khu phức hợp."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an east wind blows from the east",
+                    "vi": "một cơn gió đông thổi từ phía đông"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "bf898b57324a4ff0bd4dcd91ad0e81e8",
+        "word": "north",
+        "pos": "adjective",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/nɔːθ/",
+            "us": "/nɔːrθ/"
+        },
+        "nearby": [
+            {
+                "word": "Norse",
+                "pos": "noun"
+            },
+            {
+                "word": "north",
+                "pos": "noun"
+            },
+            {
+                "word": "north",
+                "pos": "adjective"
+            },
+            {
+                "word": "north",
+                "pos": "adverb"
+            },
+            {
+                "word": "North America",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "in or towards the north",
+                    "vi": "ở hoặc về phía bắc"
+                },
+                "examples": [
+                    {
+                        "en": "North London",
+                        "vi": "phía bắc Luân Đôn"
+                    },
+                    {
+                        "en": "the north bank of the river",
+                        "vi": "bờ bắc của sông"
+                    },
+                    {
+                        "en": "the north end/side of the building",
+                        "vi": "đầu phía bắc / phía của tòa nhà"
+                    },
+                    {
+                        "en": "We ended up on the rugged north coast of California.",
+                        "vi": "Chúng tôi đã kết thúc trên bờ biển phía bắc gồ ghề của California."
+                    },
+                    {
+                        "en": "Enter the cathedral through the north door.",
+                        "vi": "Vào nhà thờ qua cửa phía bắc."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a north wind blows from the north",
+                    "vi": "gió bắc thổi từ phương bắc"
+                },
+                "examples": [
+                    {
+                        "en": "A cold north wind blew in from the sea.",
+                        "vi": "Một cơn gió bắc lạnh giá từ biển thổi vào."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e079ca55a8bc46a7b06544c3e1bf4e43",
+        "word": "south",
+        "pos": "adjective",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/saʊθ/",
+            "us": "/saʊθ/"
+        },
+        "nearby": [
+            {
+                "word": "soused",
+                "pos": "adjective"
+            },
+            {
+                "word": "south",
+                "pos": "noun"
+            },
+            {
+                "word": "south",
+                "pos": "adjective"
+            },
+            {
+                "word": "south",
+                "pos": "adverb"
+            },
+            {
+                "word": "South Africa",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "in or towards the south",
+                    "vi": "trong hoặc về phía nam"
+                },
+                "examples": [
+                    {
+                        "en": "South Wales",
+                        "vi": "phía Nam xứ Wales"
+                    },
+                    {
+                        "en": "They live on the south coast.",
+                        "vi": "Họ sống ở bờ biển phía nam."
+                    },
+                    {
+                        "en": "The bridge connects the north and south banks of the river.",
+                        "vi": "Cây cầu nối liền hai bờ Bắc và Nam của sông."
+                    },
+                    {
+                        "en": "The south side of the house gets very hot in summer.",
+                        "vi": "Phía nam của ngôi nhà rất nóng vào mùa hè."
+                    },
+                    {
+                        "en": "The guests will proceed through the south door of the chapel.",
+                        "vi": "Các vị khách sẽ đi qua cửa nam của nhà nguyện."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a south wind blows from the south",
+                    "vi": "gió nam thổi từ nam"
+                },
+                "examples": [
+                    {
+                        "en": "A mild south wind blew all day.",
+                        "vi": "Gió nam thổi nhẹ suốt ngày."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5062c42234c040909b6ae0d6c79c16eb",
+        "word": "west",
+        "pos": "adjective",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/west/",
+            "us": "/west/"
+        },
+        "nearby": [
+            {
+                "word": "Wessex",
+                "pos": ""
+            },
+            {
+                "word": "west",
+                "pos": "noun"
+            },
+            {
+                "word": "west",
+                "pos": "adjective"
+            },
+            {
+                "word": "west",
+                "pos": "adverb"
+            },
+            {
+                "word": "Frederick and Rosemary West",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "in or towards the west",
+                    "vi": "ở hoặc về phía tây"
+                },
+                "examples": [
+                    {
+                        "en": "West Africa",
+                        "vi": "Tây Phi"
+                    },
+                    {
+                        "en": "the west coast of Scotland",
+                        "vi": "bờ biển phía tây của Scotland"
+                    },
+                    {
+                        "en": "on the west side of the building",
+                        "vi": "ở phía tây của tòa nhà"
+                    },
+                    {
+                        "en": "Australia's west coast",
+                        "vi": "Bờ biển phía tây của Úc"
+                    },
+                    {
+                        "en": "the museum's west wing",
+                        "vi": "cánh phía tây của bảo tàng"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a west wind blows from the west",
+                    "vi": "gió tây thổi từ hướng tây"
+                },
+                "examples": [
+                    {
+                        "en": "prevailing west winds",
+                        "vi": "gió tây thịnh hành"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "58ef4d3f3bb84cc4acd8ddce4f3e67c7",
+        "word": "blow",
+        "pos": "verb",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/bləʊ/",
+            "us": "/bləʊ/"
+        },
+        "nearby": [
+            {
+                "word": "blouson",
+                "pos": "noun"
+            },
+            {
+                "word": "bloviate",
+                "pos": "verb"
+            },
+            {
+                "word": "blow",
+                "pos": "verb"
+            },
+            {
+                "word": "blow",
+                "pos": "noun"
+            },
+            {
+                "word": "blow",
+                "pos": "exclamation"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to send out air from the mouth",
+                    "vi": "gửi không khí ra khỏi miệng"
+                },
+                "examples": [
+                    {
+                        "en": "+ adv./prep. You're not blowing hard enough!",
+                        "vi": "Err:509"
+                    },
+                    {
+                        "en": "The policeman asked me to blow into the breathalyser.",
+                        "vi": "Người cảnh sát yêu cầu tôi thổi vào ống thở."
+                    },
+                    {
+                        "en": "blow something + adv./prep. He drew on his cigarette and blew out a stream of smoke.",
+                        "vi": "thổi cái gì đó + adv./prep. Anh ta rút điếu thuốc và thổi ra một luồng khói."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "when the wind or a current of air blows, it is moving; when it blows, the wind is blowing",
+                    "vi": "khi gió hoặc luồng không khí thổi, nó đang chuyển động; khi nó thổi, gió đang thổi"
+                },
+                "examples": [
+                    {
+                        "en": "The birds were singing and a warm wind was blowing.",
+                        "vi": "Những chú chim đang hót và một cơn gió ấm đang thổi qua."
+                    },
+                    {
+                        "en": "+ adv./prep. A cold wind blew from the east.",
+                        "vi": "Err:509"
+                    },
+                    {
+                        "en": "It was blowing hard.",
+                        "vi": "Nó đang thổi mạnh."
+                    },
+                    {
+                        "en": "It was blowing a gale (= there was a strong wind).",
+                        "vi": "Nó đang thổi một cơn gió giật mạnh (= có một cơn gió mạnh)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be moved by the wind, somebody’s breath, etc.; to move something in this way",
+                    "vi": "được chuyển động bởi gió, hơi thở của ai đó, v.v.; để di chuyển một cái gì đó theo cách này"
+                },
+                "examples": [
+                    {
+                        "en": "+ adv./prep. My hat blew off.",
+                        "vi": "Err:509"
+                    },
+                    {
+                        "en": "+ adj. The door blew open.",
+                        "vi": "Err:509"
+                    },
+                    {
+                        "en": "blow somebody/something + adv./prep. I was almost blown over by the wind.",
+                        "vi": "thổi ai đó / cái gì đó + adv./prep. Tôi gần như bị gió thổi qua."
+                    },
+                    {
+                        "en": "She blew the dust off the book.",
+                        "vi": "Cô ấy thổi bụi khỏi cuốn sách."
+                    },
+                    {
+                        "en": "The ship was blown onto the rocks.",
+                        "vi": "Con tàu bị nổ tung trên đá."
+                    },
+                    {
+                        "en": "The bomb blast blew two passers-by across the street.",
+                        "vi": "Vụ nổ bom đã thổi bay hai người qua đường."
+                    },
+                    {
+                        "en": "blow something + adj. The wind blew the door shut.",
+                        "vi": "thổi cái gì đó + adj. Gió thổi làm cánh cửa đóng sập lại."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if you blow a whistle, musical instrument, etc. or if a whistle, etc. blows, you produce a sound by blowing into the whistle, etc.",
+                    "vi": "Nếu bạn thổi còi, nhạc cụ, v.v. hoặc nếu còi, v.v. thổi, bạn tạo ra âm thanh bằng cách thổi vào còi, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "the sound of trumpets blowing",
+                        "vi": "tiếng kèn thổi"
+                    },
+                    {
+                        "en": "blow something The referee blew his whistle.",
+                        "vi": "thổi cái gì đó Trọng tài thổi còi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to clear your nose by blowing strongly through it into a tissue or handkerchief",
+                    "vi": "để thông mũi bằng cách thổi mạnh qua nó vào khăn giấy hoặc khăn tay"
+                },
+                "examples": [
+                    {
+                        "en": "She grabbed a tissue and loudly blew her nose.",
+                        "vi": "Cô ấy lấy khăn giấy và lớn tiếng xì mũi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to kiss your hand and then pretend to blow the kiss towards somebody",
+                    "vi": "hôn tay bạn và sau đó giả vờ thổi nụ hôn về phía ai đó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to make or shape something by blowing",
+                    "vi": "để tạo ra hoặc tạo hình thứ gì đó bằng cách thổi"
+                },
+                "examples": [
+                    {
+                        "en": "to blow smoke rings",
+                        "vi": "thổi vòng khói"
+                    },
+                    {
+                        "en": "to blow bubbles (= for example, by blowing onto a thin layer of water mixed with soap)",
+                        "vi": "để thổi bong bóng (= ví dụ: bằng cách thổi vào một lớp nước mỏng trộn với xà phòng)"
+                    },
+                    {
+                        "en": "to blow glass (= to send a current of air into melted glass to shape it)",
+                        "vi": "thổi thủy tinh (= truyền một luồng không khí vào thủy tinh nóng chảy để tạo hình nó)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if a fuse blows or you blow a fuse, the electricity stops flowing suddenly because the fuse (= a thin wire) has melted because the current was too strong",
+                    "vi": "Nếu cầu chì nổ hoặc bạn thổi cầu chì, dòng điện ngừng chảy đột ngột vì cầu chì (= một dây mỏng) đã nóng chảy vì dòng điện quá mạnh."
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to break open or apart, especially because of pressure from inside; to make a tyre break in this way",
+                    "vi": "để mở hoặc tách ra, đặc biệt là do áp lực từ bên trong; để làm cho một chiếc lốp xe bị thủng theo cách này"
+                },
+                "examples": [
+                    {
+                        "en": "The car spun out of control when a tyre blew.",
+                        "vi": "Chiếc xe mất kiểm soát khi bị nổ lốp."
+                    },
+                    {
+                        "en": "The truck blew a tyre and lurched off the road.",
+                        "vi": "Chiếc xe tải nổ lốp nằm chỏng chơ bên đường."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to break something open with explosives",
+                    "vi": "để phá vỡ thứ gì đó đang mở bằng thuốc nổ"
+                },
+                "examples": [
+                    {
+                        "en": "The safe had been blown by the thieves.",
+                        "vi": "Két sắt đã bị kẻ trộm thổi tung."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make known something that was secret",
+                    "vi": "để biết điều gì đó bí mật"
+                },
+                "examples": [
+                    {
+                        "en": "One mistake could blow your cover (= make your real name, job, intentions, etc. known).",
+                        "vi": "Một sai lầm có thể thổi bay vỏ bọc của bạn (= làm cho tên thật, công việc, ý định, v.v. của bạn được biết đến)."
+                    },
+                    {
+                        "en": "We’re going to blow his operation wide open.",
+                        "vi": "Chúng tôi sẽ mở rộng hoạt động của anh ta."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to spend or waste a lot of money on something",
+                    "vi": "chi tiêu hoặc lãng phí nhiều tiền vào một thứ gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "He inherited over a million dollars and blew it all on drink and gambling.",
+                        "vi": "Anh ta thừa kế hơn một triệu đô la và tiêu hết vào rượu chè và cờ bạc."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to waste an opportunity",
+                    "vi": "lãng phí một cơ hội"
+                },
+                "examples": [
+                    {
+                        "en": "She blew her chances by arriving late for the interview.",
+                        "vi": "Cô ấy đã thổi bay cơ hội của mình bằng cách đến trễ buổi phỏng vấn."
+                    },
+                    {
+                        "en": "You had your chance and you blew it.",
+                        "vi": "Bạn đã có cơ hội của mình và bạn đã thổi bay nó."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to show that you are annoyed, surprised or do not care about something",
+                    "vi": "được sử dụng để cho thấy rằng bạn đang khó chịu, ngạc nhiên hoặc không quan tâm đến điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "Blow it! We've missed the bus.",
+                        "vi": "Hãy thổi nó đi! Chúng tôi đã bỏ lỡ chuyến xe buýt."
+                    },
+                    {
+                        "en": "Well, blow me down! I never thought I'd see you again.",
+                        "vi": "Chà, hạ gục tôi! Tôi chưa bao giờ nghĩ rằng tôi sẽ gặp lại bạn."
+                    },
+                    {
+                        "en": "I'm blowed if I'm going to (= I certainly will not) let him treat you like that.",
+                        "vi": "Tôi sẽ thất vọng nếu tôi (= Tôi chắc chắn sẽ không) để anh ta đối xử với bạn như vậy."
+                    },
+                    {
+                        "en": "Let's take a taxi and blow (= never mind) the expense.",
+                        "vi": "Hãy bắt taxi và thổi (= đừng bận tâm) chi phí."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to leave a place suddenly",
+                    "vi": "rời khỏi một nơi đột ngột"
+                },
+                "examples": [
+                    {
+                        "en": "Let's blow this joint.",
+                        "vi": "Hãy thổi khớp này."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to kill yourself/somebody by shooting yourself/them in the head",
+                    "vi": "tự giết mình / ai đó bằng cách bắn vào đầu mình / họ"
+                },
+                "examples": [
+                    {
+                        "en": "He put a gun to his head and threatened to blow his brains out.",
+                        "vi": "Anh ta dí súng vào đầu và dọa nổ não."
+                    },
+                    {
+                        "en": "While cleaning his shotgun he had accidentally blown his own brains out.",
+                        "vi": "Trong khi lau khẩu súng ngắn của mình, anh ta đã vô tình làm nổ não của chính mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to vomit",
+                    "vi": "nôn mửa"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to help somebody have a fresh, lively state of mind again",
+                    "vi": "để giúp ai đó có một trạng thái tinh thần tươi mới, sống động trở lại"
+                },
+                "examples": [
+                    {
+                        "en": "A brisk walk should blow the cobwebs away.",
+                        "vi": "Đi bộ nhanh sẽ thổi bay mạng nhện."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to get very angry",
+                    "vi": "rất tức giận"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to tell something secret, especially by mistake",
+                    "vi": "để nói điều gì đó bí mật, đặc biệt là do nhầm lẫn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to change your opinion about something often",
+                    "vi": "thay đổi quan điểm của bạn về điều gì đó thường xuyên"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to produce a very strong feeling of pleasure or shock",
+                    "vi": "để tạo ra một cảm giác rất mạnh của niềm vui hoặc sự sốc"
+                },
+                "examples": [
+                    {
+                        "en": "Wait till you hear this. It'll blow your mind.",
+                        "vi": "Chờ cho đến khi bạn nghe thấy điều này. Nó sẽ thổi bay tâm trí của bạn."
+                    },
+                    {
+                        "en": "a collection of photographs that will blow your mind",
+                        "vi": "một bộ sưu tập những bức ảnh sẽ thổi hồn bạn"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to get rid of your energy, anger or strong emotions by doing something active or noisy",
+                    "vi": "để loại bỏ năng lượng, sự tức giận hoặc cảm xúc mạnh mẽ của bạn bằng cách làm điều gì đó tích cực hoặc ồn ào"
+                },
+                "examples": [
+                    {
+                        "en": "I went for a long walk to let off steam.",
+                        "vi": "Tôi đã đi bộ một quãng dài để xả hơi."
+                    },
+                    {
+                        "en": "I like blowing off steam and I like saying things that shock people.",
+                        "vi": "Tôi thích thổi bay hơi nước và tôi thích nói những điều gây sốc cho mọi người."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to destroy somebody/something completely",
+                    "vi": "để tiêu diệt ai đó / cái gì đó hoàn toàn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to show that somebody/something is not good by being very much better than it/them",
+                    "vi": "thể hiện rằng ai đó / điều gì đó không tốt bằng cách tốt hơn rất nhiều so với nó / họ"
+                },
+                "examples": [
+                    {
+                        "en": "I like my old phone, but this new model blows it out of the water.",
+                        "vi": "Tôi thích chiếc điện thoại cũ của mình, nhưng mẫu điện thoại mới này đã khiến nó không còn nước."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to praise your own abilities and achievements",
+                    "vi": "khen ngợi khả năng và thành tích của chính bạn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to try to trick somebody or lie to somebody, particularly by saying something is better than it really is",
+                    "vi": "cố gắng lừa ai đó hoặc nói dối ai đó, đặc biệt bằng cách nói điều gì đó tốt hơn thực tế"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to surprise or impress somebody very much",
+                    "vi": "gây ngạc nhiên hoặc gây ấn tượng với ai đó rất nhiều"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used by somebody who does not want to do something because it involves too much effort",
+                    "vi": "được sử dụng bởi một người nào đó không muốn làm điều gì đó vì nó đòi hỏi quá nhiều nỗ lực"
+                },
+                "examples": [
+                    {
+                        "en": "Sod that for a lark! I'm not doing any more tonight.",
+                        "vi": "Sod đó cho một con chim! Tối nay tôi sẽ không làm gì nữa."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to use bombs or other weapons to destroy somebody/something completely",
+                    "vi": "sử dụng bom hoặc vũ khí khác để tiêu diệt hoàn toàn ai đó / thứ gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "The plane was blown to pieces when the bomb exploded.",
+                        "vi": "Máy bay bị nổ tung khi quả bom phát nổ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to completely destroy somebody/something with an explosion",
+                    "vi": "để tiêu diệt hoàn toàn ai đó / thứ gì đó bằng một vụ nổ"
+                },
+                "examples": [
+                    {
+                        "en": "The truck was blown to kingdom come.",
+                        "vi": "Chiếc xe tải đã được thổi đến vương quốc đến."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to get very angry",
+                    "vi": "rất tức giận"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "if a plan, etc. blows up in your face, it goes badly wrong in a way that causes you damage or makes you feel embarrassed",
+                    "vi": "nếu một kế hoạch, v.v. thổi vào mặt bạn, nó sẽ trở nên sai lầm nghiêm trọng theo hướng khiến bạn thiệt hại hoặc khiến bạn cảm thấy xấu hổ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to tell somebody in authority about something wrong or illegal that somebody is doing",
+                    "vi": "nói với ai đó có thẩm quyền về điều gì đó sai trái hoặc bất hợp pháp mà ai đó đang làm"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "no problem is so bad that it does not bring some advantage to somebody",
+                    "vi": "không có vấn đề gì là tệ đến nỗi nó không mang lại lợi thế cho ai đó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to tell people unpleasant facts about something",
+                    "vi": "để nói với mọi người những sự thật khó chịu về một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "Her article lifts the lid on bullying in the workplace.",
+                        "vi": "Bài báo của cô ấy đã lật tẩy tình trạng bắt nạt ở nơi làm việc."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to breathe quickly and loudly through your mouth after physical effort",
+                    "vi": "thở nhanh và to bằng miệng sau khi gắng sức"
+                },
+                "examples": [
+                    {
+                        "en": "Eventually, puffing and blowing, he arrived at the gate.",
+                        "vi": "Cuối cùng, phập phồng và thổi phồng, anh ta cũng đến cổng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to get an idea of what is likely to happen before deciding what to do",
+                    "vi": "để có ý tưởng về những gì có thể xảy ra trước khi quyết định phải làm gì"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "e0c606e592484e0fb261368405a4b474",
+        "word": "storm",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/stɔːm/",
+            "us": "/stɔːrm/"
+        },
+        "nearby": [
+            {
+                "word": "stork",
+                "pos": "noun"
+            },
+            {
+                "word": "Stork",
+                "pos": "noun"
+            },
+            {
+                "word": "storm",
+                "pos": "noun"
+            },
+            {
+                "word": "storm",
+                "pos": "verb"
+            },
+            {
+                "word": "storm cloud",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "very bad weather with strong winds and rain, and often thunder and lightning",
+                    "vi": "thời tiết rất xấu với gió mạnh và mưa, và thường xuyên có sấm sét"
+                },
+                "examples": [
+                    {
+                        "en": "fierce/heavy/severe/violent storms",
+                        "vi": "bão dữ dội / nặng / nghiêm trọng / dữ dội"
+                    },
+                    {
+                        "en": "Winter storms swept the coasts.",
+                        "vi": "Những cơn bão mùa đông quét qua các bờ biển."
+                    },
+                    {
+                        "en": "Her home was hit by two tropical storms.",
+                        "vi": "Nhà của cô đã bị hai cơn bão nhiệt đới đổ bộ."
+                    },
+                    {
+                        "en": "A few minutes later the storm broke (= began).",
+                        "vi": "Vài phút sau bão tan (= bắt đầu)."
+                    },
+                    {
+                        "en": "I think we're in for a storm (= going to have one).",
+                        "vi": "Tôi nghĩ chúng ta đang có một cơn bão (= sắp có một cơn bão)."
+                    },
+                    {
+                        "en": "Off on the horizon, dark grey storm clouds gathered.",
+                        "vi": "Ngoài đường chân trời, những đám mây bão màu xám đen tụ tập."
+                    },
+                    {
+                        "en": "Insurance companies face hefty payouts for storm damage.",
+                        "vi": "Các công ty bảo hiểm phải đối mặt với những khoản chi quá lớn cho thiệt hại do bão."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "very bad weather of the type mentioned",
+                    "vi": "thời tiết rất xấu của loại được đề cập"
+                },
+                "examples": [
+                    {
+                        "en": "She had to brave an ice storm to get to the interview.",
+                        "vi": "Cô đã phải vượt qua một cơn bão băng để đến được buổi phỏng vấn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a situation in which a lot of people suddenly express very strong feelings about something",
+                    "vi": "một tình huống trong đó nhiều người đột nhiên bày tỏ cảm xúc rất mạnh về điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "His comments created a storm of protest in the media.",
+                        "vi": "Bình luận của anh đã tạo nên một cơn bão phản đối trên các phương tiện truyền thông."
+                    },
+                    {
+                        "en": "A political storm is brewing over the prime minister's comments.",
+                        "vi": "Một cơn bão chính trị đang bùng phát về những bình luận của thủ tướng."
+                    },
+                    {
+                        "en": "The footballer has been at the centre of a media storm after remarks he made on the radio caused controversy.",
+                        "vi": "Cầu thủ bóng đá này đã trở thành tâm điểm của một cơn bão truyền thông sau khi những phát biểu mà anh ấy đưa ra trên đài phát thanh gây ra tranh cãi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a sudden loud noise that is caused by emotion or excitement",
+                    "vi": "một tiếng ồn lớn đột ngột gây ra bởi cảm xúc hoặc sự phấn khích"
+                },
+                "examples": [
+                    {
+                        "en": "a storm of applause",
+                        "vi": "một cơn bão vỗ tay"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if you are in great trouble, you take any help that is offered",
+                    "vi": "nếu bạn đang gặp khó khăn lớn, bạn thực hiện bất kỳ sự trợ giúp nào được cung cấp"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a calm time immediately before an expected period of violent activity or argument",
+                    "vi": "một khoảng thời gian yên tĩnh ngay lập tức trước một khoảng thời gian dự kiến có hoạt động bạo lực hoặc tranh cãi"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to do something with great energy and enthusiasm",
+                    "vi": "để làm điều gì đó với năng lượng và sự nhiệt tình"
+                },
+                "examples": [
+                    {
+                        "en": "Leonie was in the kitchen, cooking up a storm for her friends.",
+                        "vi": "Leonie đang ở trong bếp, nấu một món ăn cho bạn bè của cô ấy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a lot of anger or worry about something that is not important",
+                    "vi": "rất nhiều tức giận hoặc lo lắng về điều gì đó không quan trọng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be extremely successful very quickly in a particular place or among particular people",
+                    "vi": "cực kỳ thành công rất nhanh chóng ở một nơi cụ thể hoặc giữa những người cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "The play took London by storm.",
+                        "vi": "Vở kịch đã gây bão London."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to attack a place suddenly and capture it",
+                    "vi": "tấn công một nơi bất ngờ và chiếm lấy nó"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "dd7275e134af4260bf0a34c4911ce821",
+        "word": "wind",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/wɪnd/",
+            "us": "/wɪnd/"
+        },
+        "nearby": [
+            {
+                "word": "Winchester",
+                "pos": "noun"
+            },
+            {
+                "word": "wind-up",
+                "pos": "noun"
+            },
+            {
+                "word": "wind1",
+                "pos": "noun"
+            },
+            {
+                "word": "wind1",
+                "pos": "verb"
+            },
+            {
+                "word": "wind2",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "air that moves quickly as a result of natural forces",
+                    "vi": "không khí chuyển động nhanh do kết quả của các lực tự nhiên"
+                },
+                "examples": [
+                    {
+                        "en": "strong/high winds",
+                        "vi": "gió mạnh / lớn"
+                    },
+                    {
+                        "en": "gale-force winds",
+                        "vi": "gió giật mạnh"
+                    },
+                    {
+                        "en": "a light wind",
+                        "vi": "một cơn gió nhẹ"
+                    },
+                    {
+                        "en": "a north/south/east/west wind",
+                        "vi": "gió bắc / nam / đông / tây"
+                    },
+                    {
+                        "en": "westerly/easterly winds",
+                        "vi": "gió tây / đông tây"
+                    },
+                    {
+                        "en": "a chill/cold/biting wind from the north",
+                        "vi": "một cơn gió lạnh / lạnh / buốt giá từ phương bắc"
+                    },
+                    {
+                        "en": "gusty/howling winds",
+                        "vi": "gió giật / hú"
+                    },
+                    {
+                        "en": "The wind is blowing from the south.",
+                        "vi": "Gió đang thổi từ phía nam."
+                    },
+                    {
+                        "en": "in the wind The trees were swaying in the wind.",
+                        "vi": "trong gió Những cái cây đung đưa trong gió."
+                    },
+                    {
+                        "en": "A gust of wind blew my hat off.",
+                        "vi": "Một cơn gió thổi bay mũ của tôi."
+                    },
+                    {
+                        "en": "The weather was hot, without a breath of wind.",
+                        "vi": "Thời tiết nóng nực, không một chút gió."
+                    },
+                    {
+                        "en": "The wall gives some protection from the prevailing wind (= the direction the wind blows from most often).",
+                        "vi": "Bức tường có một số lớp bảo vệ khỏi gió thịnh hành (= hướng gió thổi thường xuyên nhất)."
+                    },
+                    {
+                        "en": "The wind is getting up (= starting to blow strongly).",
+                        "vi": "Gió đang dậy (= bắt đầu thổi mạnh)."
+                    },
+                    {
+                        "en": "The wind has dropped (= stopped blowing strongly).",
+                        "vi": "Gió đã giảm (= ngừng thổi mạnh)."
+                    },
+                    {
+                        "en": "wind speed/direction",
+                        "vi": "tốc độ / hướng gió"
+                    },
+                    {
+                        "en": "renewable energies like solar and wind power",
+                        "vi": "năng lượng tái tạo như năng lượng mặt trời và năng lượng gió"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "air that you swallow with food or drink; gas that is produced in your stomach or intestines that makes you feel uncomfortable",
+                    "vi": "không khí mà bạn nuốt phải cùng với thức ăn hoặc đồ uống; khí sinh ra trong dạ dày hoặc ruột khiến bạn cảm thấy khó chịu"
+                },
+                "examples": [
+                    {
+                        "en": "I can't eat beans—they give me wind.",
+                        "vi": "Tôi không thể ăn đậu — chúng cho tôi gió."
+                    },
+                    {
+                        "en": "Try to bring the baby's wind up.",
+                        "vi": "Cố gắng đưa gió cho em bé."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "breath that you need when you do exercise or blow into a musical instrument",
+                    "vi": "hơi thở mà bạn cần khi tập thể dục hoặc thổi vào một nhạc cụ"
+                },
+                "examples": [
+                    {
+                        "en": "I need time to get my wind back after that run.",
+                        "vi": "Tôi cần thời gian để lấy lại tinh thần sau buổi chạy đó."
+                    },
+                    {
+                        "en": "He kicked Gomez in the stomach, knocking the wind out of him.",
+                        "vi": "Anh ta đá vào bụng Gomez, khiến gió văng ra khỏi người anh ta."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the group of musical instruments in an orchestra that produce sounds when you blow into them, especially woodwind instruments; the musicians who play those instruments",
+                    "vi": "nhóm nhạc cụ trong dàn nhạc tạo ra âm thanh khi bạn thổi vào chúng, đặc biệt là nhạc cụ woodwind; những nhạc sĩ chơi những nhạc cụ đó"
+                },
+                "examples": [
+                    {
+                        "en": "music for wind and strings",
+                        "vi": "nhạc cho gió và dây"
+                    },
+                    {
+                        "en": "The wind section played beautifully.",
+                        "vi": "Phần gió chơi đẹp mắt."
+                    },
+                    {
+                        "en": "a wind band",
+                        "vi": "một dải gió"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to release gas from your bowels through your anus",
+                    "vi": "để giải phóng khí từ ruột của bạn qua hậu môn của bạn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a wind blowing in the same direction as a ship or other vehicle that helps it move faster",
+                    "vi": "gió thổi cùng hướng với tàu hoặc phương tiện khác giúp nó chuyển động nhanh hơn"
+                },
+                "examples": [
+                    {
+                        "en": "With a generous following wind, we sped across the lake.",
+                        "vi": "Với một luồng gió thổi sau đó, chúng tôi phóng nhanh qua hồ."
+                    },
+                    {
+                        "en": "(figurative) With a bit of luck and a following wind, the project will be completed on schedule.",
+                        "vi": "(nghĩa bóng) Với một chút may mắn và một cơn gió sau, dự án sẽ hoàn thành đúng tiến độ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to hear about something secret or private",
+                    "vi": "để nghe về điều gì đó bí mật hoặc riêng tư"
+                },
+                "examples": [
+                    {
+                        "en": "She didn’t want reporters getting wind of their plans.",
+                        "vi": "Cô ấy không muốn các phóng viên biết được kế hoạch của họ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to become/be frightened about something",
+                    "vi": "trở nên / sợ hãi về điều gì đó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "about to happen soon, although you do not know exactly how or when",
+                    "vi": "sắp xảy ra, mặc dù bạn không biết chính xác bằng cách nào hoặc khi nào"
+                },
+                "examples": [
+                    {
+                        "en": "Once again, changes are in the wind.",
+                        "vi": "Một lần nữa, những thay đổi đang có trong gió."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "no problem is so bad that it does not bring some advantage to somebody",
+                    "vi": "không có vấn đề gì là tệ đến nỗi nó không mang lại lợi thế cho ai đó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "very quickly",
+                    "vi": "rất nhanh"
+                },
+                "examples": [
+                    {
+                        "en": "We ran like the wind.",
+                        "vi": "Chúng tôi chạy như gió."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make somebody frightened",
+                    "vi": "làm cho ai đó sợ hãi"
+                },
+                "examples": [
+                    {
+                        "en": "Tell him that the police have been informed—that’ll put the wind up him.",
+                        "vi": "Hãy nói với anh ta rằng cảnh sát đã được thông báo — điều đó sẽ khiến anh ta có cơ hội."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to take a risk by doing something that is dangerous or that may be illegal",
+                    "vi": "chấp nhận rủi ro bằng cách làm điều gì đó nguy hiểm hoặc có thể là bất hợp pháp"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to get an idea of what is likely to happen before deciding what to do",
+                    "vi": "để có ý tưởng về những gì có thể xảy ra trước khi quyết định phải làm gì"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a small sign of what might happen in the future",
+                    "vi": "một dấu hiệu nhỏ về những gì có thể xảy ra trong tương lai"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to make somebody suddenly less confident or angry, especially when you do or say something that they do not expect",
+                    "vi": "khiến ai đó đột nhiên trở nên thiếu tự tin hoặc tức giận, đặc biệt là khi bạn làm hoặc nói điều gì đó mà họ không mong đợi"
+                },
+                "examples": [
+                    {
+                        "en": "When I agreed to his suggestion at once, it really took the wind out of his sails.",
+                        "vi": "Khi tôi đồng ý với lời đề nghị của anh ấy ngay lập tức, điều đó thực sự đã khiến cánh buồm của anh ấy thuận buồm xuôi gió."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to stop caring about how dangerous something might be; to start taking risks",
+                    "vi": "ngừng quan tâm đến mức độ nguy hiểm của một cái gì đó; bắt đầu chấp nhận rủi ro"
+                },
+                "examples": [
+                    {
+                        "en": "He threw caution to the wind and dived into the water after the child.",
+                        "vi": "Anh ta ném thận trọng vào gió và lặn xuống nước sau đứa trẻ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an event or a series of events that has started to happen and will cause important changes or results",
+                    "vi": "một sự kiện hoặc một chuỗi sự kiện đã bắt đầu xảy ra và sẽ gây ra những thay đổi hoặc kết quả quan trọng"
+                },
+                "examples": [
+                    {
+                        "en": "A wind of change was blowing through the banking world.",
+                        "vi": "Một làn gió thay đổi đang thổi qua thế giới ngân hàng."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "de93c729a0c74289a4e5172c3125edbf",
+        "word": "windy",
+        "pos": "adjective",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/ˈwɪndi/",
+            "us": "/ˈwɪndi/"
+        },
+        "nearby": [
+            {
+                "word": "windward",
+                "pos": "adjective"
+            },
+            {
+                "word": "windward",
+                "pos": "noun"
+            },
+            {
+                "word": "windy",
+                "pos": "adjective"
+            },
+            {
+                "word": "the Windy City",
+                "pos": "noun"
+            },
+            {
+                "word": "wine",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "with a lot of wind",
+                    "vi": "có nhiều gió"
+                },
+                "examples": [
+                    {
+                        "en": "a windy day",
+                        "vi": "một ngày gió"
+                    },
+                    {
+                        "en": "It’s too windy to go out in the boat.",
+                        "vi": "Đi thuyền ra ngoài trời quá gió."
+                    },
+                    {
+                        "en": "It’s getting very windy.",
+                        "vi": "Trời trở nên rất gió."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "getting a lot of wind",
+                    "vi": "đón nhiều gió"
+                },
+                "examples": [
+                    {
+                        "en": "windy hills",
+                        "vi": "những ngọn đồi đầy gió"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "involving speaking for longer than necessary and in a way that is complicated and not clear",
+                    "vi": "liên quan đến việc nói lâu hơn mức cần thiết và theo cách phức tạp và không rõ ràng"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "99936f2cea444cb291c2e61d6e0dbc55",
+        "word": "calm",
+        "pos": "adjective",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/kɑːm/",
+            "us": "/kɑːm/"
+        },
+        "nearby": [
+            {
+                "word": "callused",
+                "pos": "adjective"
+            },
+            {
+                "word": "call waiting",
+                "pos": "noun"
+            },
+            {
+                "word": "calm",
+                "pos": "adjective"
+            },
+            {
+                "word": "calm",
+                "pos": "verb"
+            },
+            {
+                "word": "calm",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "not excited, nervous or upset",
+                    "vi": "không phấn khích, lo lắng hoặc khó chịu"
+                },
+                "examples": [
+                    {
+                        "en": "It is important to keep calm in an emergency.",
+                        "vi": "Điều quan trọng là phải giữ bình tĩnh trong trường hợp khẩn cấp."
+                    },
+                    {
+                        "en": "He always stays calm under pressure.",
+                        "vi": "Anh ấy luôn giữ bình tĩnh trước áp lực."
+                    },
+                    {
+                        "en": "Try to remain calm.",
+                        "vi": "Cố gắng giữ bình tĩnh."
+                    },
+                    {
+                        "en": "Her voice was surprisingly calm.",
+                        "vi": "Giọng cô ấy bình tĩnh một cách đáng ngạc nhiên."
+                    },
+                    {
+                        "en": "He was calm and cool in a crisis.",
+                        "vi": "Anh bình tĩnh và điềm tĩnh trong cơn khủng hoảng."
+                    },
+                    {
+                        "en": "They were impressed by her calm demeanour.",
+                        "vi": "Họ ấn tượng trước phong thái điềm đạm của cô."
+                    },
+                    {
+                        "en": "The city is calm again (= free from trouble and fighting) after yesterday's riots.",
+                        "vi": "Thành phố yên bình trở lại (= không có rắc rối và chiến đấu) sau cuộc bạo động ngày hôm qua."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "without large waves",
+                    "vi": "không có sóng lớn"
+                },
+                "examples": [
+                    {
+                        "en": "The sea was flat calm (= with no waves at all).",
+                        "vi": "Biển phẳng lặng (= không có sóng)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "without wind",
+                    "vi": "không có gió"
+                },
+                "examples": [
+                    {
+                        "en": "a calm, cloudless day",
+                        "vi": "một ngày bình lặng, không có mây"
+                    },
+                    {
+                        "en": "The weather was calm and dry.",
+                        "vi": "Thời tiết êm đềm và khô ráo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7f3154510f1d45bf8d3b1d64d3c46275",
+        "word": "hurricane",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈhʌrɪkən/",
+            "us": "/ˈhɜːrəkeɪn/"
+        },
+        "nearby": [
+            {
+                "word": "Lake Huron",
+                "pos": ""
+            },
+            {
+                "word": "hurrah",
+                "pos": "exclamation"
+            },
+            {
+                "word": "hurricane",
+                "pos": "noun"
+            },
+            {
+                "word": "hurricane lamp",
+                "pos": "noun"
+            },
+            {
+                "word": "hurried",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a violent storm with very strong winds, especially in the western Atlantic Ocean",
+                    "vi": "một cơn bão dữ dội với gió rất mạnh, đặc biệt là ở phía tây Đại Tây Dương"
+                },
+                "examples": [
+                    {
+                        "en": "A powerful hurricane hit the Florida coast.",
+                        "vi": "Một cơn bão mạnh đã đổ bộ vào bờ biển Florida."
+                    },
+                    {
+                        "en": "Hurricane Sandy devastated the area.",
+                        "vi": "Bão Sandy đã tàn phá khu vực này."
+                    },
+                    {
+                        "en": "The hurricane season does not end until November.",
+                        "vi": "Mùa bão không kết thúc cho đến tháng mười một."
+                    },
+                    {
+                        "en": "hurricane victims",
+                        "vi": "nạn nhân bão"
+                    },
+                    {
+                        "en": "hurricane-force winds",
+                        "vi": "gió bão mạnh"
+                    },
+                    {
+                        "en": "The proceeds will go to hurricane relief.",
+                        "vi": "Số tiền thu được sẽ dùng để cứu trợ bão."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7ec1532343db45149eb2891909c2e13e",
+        "word": "strong",
+        "pos": "adjective",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/strɒŋ/",
+            "us": "/strɔːŋ/"
+        },
+        "nearby": [
+            {
+                "word": "stroller",
+                "pos": "noun"
+            },
+            {
+                "word": "strolling players",
+                "pos": "noun"
+            },
+            {
+                "word": "strong",
+                "pos": "adjective"
+            },
+            {
+                "word": "strong-arm",
+                "pos": "adjective"
+            },
+            {
+                "word": "strongbox",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "having a lot of physical power so that you can lift heavy weights, do hard physical work, etc.",
+                    "vi": "có nhiều thể lực để bạn có thể nâng tạ nặng, tập thể dục nặng nhọc, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "He's strong enough to lift a car!",
+                        "vi": "Anh ấy đủ khỏe để nâng một chiếc ô tô!"
+                    },
+                    {
+                        "en": "strong muscles",
+                        "vi": "cơ bắp khỏe mạnh"
+                    },
+                    {
+                        "en": "She wasn't a strong swimmer (= she could not swim well).",
+                        "vi": "Cô ấy không phải là một vận động viên bơi lội mạnh mẽ (= cô ấy không thể bơi giỏi)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "having great power",
+                    "vi": "có sức mạnh to lớn"
+                },
+                "examples": [
+                    {
+                        "en": "Stay indoors in the middle of the day, when the sun is strongest.",
+                        "vi": "Ở trong nhà vào giữa ngày, khi mặt trời mạnh nhất."
+                    },
+                    {
+                        "en": "a strong wind",
+                        "vi": "Một cơn gió mạnh"
+                    },
+                    {
+                        "en": "a strong magnet/current",
+                        "vi": "một nam châm mạnh / dòng điện"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "having a powerful effect on the body or mind",
+                    "vi": "có tác động mạnh mẽ đến cơ thể hoặc tâm trí"
+                },
+                "examples": [
+                    {
+                        "en": "a strong drug",
+                        "vi": "một loại thuốc mạnh"
+                    },
+                    {
+                        "en": "His imagery made a strong impression on the critics.",
+                        "vi": "Hình ảnh của ông đã gây ấn tượng mạnh đối với các nhà phê bình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "having a lot of power or influence",
+                    "vi": "có nhiều quyền lực hoặc ảnh hưởng"
+                },
+                "examples": [
+                    {
+                        "en": "a strong leader",
+                        "vi": "một nhà lãnh đạo mạnh mẽ"
+                    },
+                    {
+                        "en": "What the country needs right now is a strong government.",
+                        "vi": "Điều đất nước cần ngay bây giờ là một chính phủ mạnh."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "people who are rich or powerful",
+                    "vi": "những người giàu có hoặc quyền lực"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "difficult to attack or criticize",
+                    "vi": "khó tấn công hoặc chỉ trích"
+                },
+                "examples": [
+                    {
+                        "en": "There is strong evidence of a link between exercise and a healthy heart.",
+                        "vi": "Có bằng chứng rõ ràng về mối liên hệ giữa tập thể dục và một trái tim khỏe mạnh."
+                    },
+                    {
+                        "en": "You have a strong case for getting your job back.",
+                        "vi": "Bạn có một trường hợp mạnh mẽ để lấy lại công việc của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "very powerful and difficult for people to fight against or defeat",
+                    "vi": "rất mạnh mẽ và rất khó để mọi người chống lại hoặc đánh bại"
+                },
+                "examples": [
+                    {
+                        "en": "a strong team",
+                        "vi": "một đội mạnh"
+                    },
+                    {
+                        "en": "The proposal aroused strong opposition.",
+                        "vi": "Đề xuất đã làm dấy lên sự phản đối mạnh mẽ."
+                    },
+                    {
+                        "en": "The temptation to tell her everything was very strong.",
+                        "vi": "Sự cám dỗ để nói với cô ấy mọi thứ rất mạnh mẽ."
+                    },
+                    {
+                        "en": "He exerts an extremely strong influence on his classmates.",
+                        "vi": "Anh ấy có ảnh hưởng cực kỳ mạnh mẽ đến các bạn cùng lớp của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "very powerful",
+                    "vi": "rất mạnh"
+                },
+                "examples": [
+                    {
+                        "en": "strong support for the government",
+                        "vi": "hỗ trợ mạnh mẽ cho chính phủ"
+                    },
+                    {
+                        "en": "People have strong feelings about this issue.",
+                        "vi": "Mọi người có cảm xúc mạnh mẽ về vấn đề này."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "holding an opinion or a belief very seriously",
+                    "vi": "giữ một ý kiến hoặc một niềm tin rất nghiêm túc"
+                },
+                "examples": [
+                    {
+                        "en": "a strong supporter of the government",
+                        "vi": "một người ủng hộ mạnh mẽ của chính phủ"
+                    },
+                    {
+                        "en": "a strong opponent",
+                        "vi": "một đối thủ mạnh"
+                    },
+                    {
+                        "en": "She has long been one of the strongest advocates of sanctions.",
+                        "vi": "Cô từ lâu đã là một trong những người ủng hộ mạnh mẽ nhất các biện pháp trừng phạt."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "easy to see, hear, feel or smell; very great or intense",
+                    "vi": "dễ nhìn, nghe, cảm nhận hoặc ngửi thấy; rất tuyệt vời hoặc dữ dội"
+                },
+                "examples": [
+                    {
+                        "en": "a strong smell",
+                        "vi": "một mùi mạnh"
+                    },
+                    {
+                        "en": "a strong feeling of nausea",
+                        "vi": "một cảm giác buồn nôn mạnh mẽ"
+                    },
+                    {
+                        "en": "a strong voice (= loud)",
+                        "vi": "một giọng nói mạnh mẽ (= lớn)"
+                    },
+                    {
+                        "en": "strong colours",
+                        "vi": "màu sắc mạnh mẽ"
+                    },
+                    {
+                        "en": "a face with strong features (= large and easy to notice)",
+                        "vi": "một khuôn mặt với các đặc điểm mạnh mẽ (= lớn và dễ nhận thấy)"
+                    },
+                    {
+                        "en": "She spoke with a strong Australian accent.",
+                        "vi": "Cô ấy nói với một giọng Úc mạnh mẽ."
+                    },
+                    {
+                        "en": "He was under strong pressure to resign.",
+                        "vi": "Ông đã bị áp lực mạnh mẽ để từ chức."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "having a lot of taste",
+                    "vi": "có rất nhiều hương vị"
+                },
+                "examples": [
+                    {
+                        "en": "strong cheese",
+                        "vi": "pho mát mạnh"
+                    },
+                    {
+                        "en": "You'll need to use plenty of strong French mustard.",
+                        "vi": "Bạn sẽ cần sử dụng nhiều mù tạt Pháp mạnh."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "containing a lot of a substance",
+                    "vi": "chứa nhiều chất"
+                },
+                "examples": [
+                    {
+                        "en": "strong black coffee",
+                        "vi": "cà phê đen mạnh"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "not easily broken or damaged; made well",
+                    "vi": "không dễ bị vỡ hoặc hư hỏng; làm tốt"
+                },
+                "examples": [
+                    {
+                        "en": "The box looks strong enough.",
+                        "vi": "Hộp trông đủ mạnh."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "not easily upset or frightened; not easily influenced by other people",
+                    "vi": "không dễ dàng khó chịu hoặc sợ hãi; không dễ bị ảnh hưởng bởi người khác"
+                },
+                "examples": [
+                    {
+                        "en": "You need strong nerves to ride a bike in London.",
+                        "vi": "Bạn cần có thần kinh mạnh để đi xe đạp ở London."
+                    },
+                    {
+                        "en": "Every child needs to develop a strong sense of identity.",
+                        "vi": "Mỗi đứa trẻ cần phát triển một ý thức mạnh mẽ về bản sắc."
+                    },
+                    {
+                        "en": "It's difficult, I know. But be strong!",
+                        "vi": "Nó khó, tôi biết. Nhưng hãy mạnh mẽ lên!"
+                    },
+                    {
+                        "en": "a strong personality",
+                        "vi": "một cá tính mạnh mẽ"
+                    },
+                    {
+                        "en": "She’s had a strong will since she was a baby.",
+                        "vi": "Cô ấy đã có một ý chí mạnh mẽ từ khi còn là một đứa trẻ."
+                    },
+                    {
+                        "en": "We must stand strong in the face of adversity.",
+                        "vi": "Chúng ta phải mạnh mẽ đứng lên khi đối mặt với nghịch cảnh."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "likely to succeed or happen",
+                    "vi": "có khả năng thành công hoặc xảy ra"
+                },
+                "examples": [
+                    {
+                        "en": "a strong candidate for the job",
+                        "vi": "một ứng cử viên sáng giá cho công việc"
+                    },
+                    {
+                        "en": "You're in a strong position to negotiate a deal.",
+                        "vi": "Bạn đang ở một vị trí vững chắc để thương lượng một thỏa thuận."
+                    },
+                    {
+                        "en": "There's a strong possibility that we'll lose the game.",
+                        "vi": "Có khả năng cao là chúng tôi sẽ thua trận."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "having existed for a long time and functioning well; difficult to destroy",
+                    "vi": "tồn tại lâu đời và hoạt động tốt; khó tiêu diệt"
+                },
+                "examples": [
+                    {
+                        "en": "a strong marriage",
+                        "vi": "một cuộc hôn nhân bền chặt"
+                    },
+                    {
+                        "en": "The college has strong links with local industry.",
+                        "vi": "Trường có liên kết chặt chẽ với các ngành công nghiệp địa phương."
+                    },
+                    {
+                        "en": "I know that their relationship is growing stronger every day.",
+                        "vi": "Tôi biết rằng mối quan hệ của họ đang phát triển mạnh mẽ hơn mỗi ngày."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "having a value that is high or increasing",
+                    "vi": "có giá trị cao hoặc ngày càng tăng"
+                },
+                "examples": [
+                    {
+                        "en": "strong share prices",
+                        "vi": "giá cổ phiếu mạnh"
+                    },
+                    {
+                        "en": "The country is currently experiencing particularly strong economic growth.",
+                        "vi": "Đất nước này hiện đang có tốc độ tăng trưởng kinh tế đặc biệt mạnh mẽ."
+                    },
+                    {
+                        "en": "The euro is getting stronger against the dollar.",
+                        "vi": "Đồng euro đang trở nên mạnh hơn so với đồng đô la."
+                    },
+                    {
+                        "en": "This news helped keep the dollar relatively strong today.",
+                        "vi": "Tin tức này đã giúp giữ cho đồng đô la tương đối mạnh trong ngày hôm nay."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "in a safe financial position",
+                    "vi": "ở một vị trí tài chính an toàn"
+                },
+                "examples": [
+                    {
+                        "en": "Their catering business remained strong despite the recession.",
+                        "vi": "Hoạt động kinh doanh ăn uống của họ vẫn phát triển mạnh mẽ bất chấp suy thoái kinh tế."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "good at something; done well",
+                    "vi": "giỏi một cái gì đó; thực hiện tốt"
+                },
+                "examples": [
+                    {
+                        "en": "The play has a very strong cast.",
+                        "vi": "Vở kịch có một dàn diễn viên rất hùng hậu."
+                    },
+                    {
+                        "en": "The actors give extremely strong performances.",
+                        "vi": "Các diễn viên cống hiến vô cùng mạnh mẽ."
+                    },
+                    {
+                        "en": "Mathematics was never my strong point (= I was never very good at it).",
+                        "vi": "Toán học chưa bao giờ là điểm mạnh của tôi (= Tôi chưa bao giờ giỏi nó)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "great in number",
+                    "vi": "số lượng lớn"
+                },
+                "examples": [
+                    {
+                        "en": "There was a strong police presence at the demonstration.",
+                        "vi": "Có một sự hiện diện mạnh mẽ của cảnh sát tại cuộc biểu tình."
+                    },
+                    {
+                        "en": "Sales were surprisingly strong in the second half of the year.",
+                        "vi": "Doanh số bán hàng tăng mạnh một cách đáng ngạc nhiên trong nửa cuối năm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used after numbers to show the size of a group",
+                    "vi": "được sử dụng sau các số để hiển thị quy mô của một nhóm"
+                },
+                "examples": [
+                    {
+                        "en": "a 5 000-strong crowd",
+                        "vi": "một đám đông 5000 người"
+                    },
+                    {
+                        "en": "The crowd was 5 000 strong.",
+                        "vi": "Đám đông rất mạnh mẽ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "not easily affected by disease; healthy",
+                    "vi": "không dễ bị ảnh hưởng bởi bệnh tật; mạnh khỏe"
+                },
+                "examples": [
+                    {
+                        "en": "These vitamins are meant to keep you healthy and strong.",
+                        "vi": "Những loại vitamin này có tác dụng giữ cho bạn khỏe mạnh và cường tráng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "having a lot of force, often causing offence to people",
+                    "vi": "có nhiều vũ lực, thường xuyên gây phản cảm cho mọi người"
+                },
+                "examples": [
+                    {
+                        "en": "The movie has been criticized for strong language (= swearing).",
+                        "vi": "Phim bị chỉ trích vì ngôn từ mạnh mẽ (= chửi thề)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "forming the past tense and past participle by changing a vowel, not by adding a regular ending, for example sing, sang, sung",
+                    "vi": "hình thành thì quá khứ và phân từ quá khứ bằng cách thay đổi một nguyên âm, không phải bằng cách thêm một kết thúc thông thường, ví dụ sing, sing, sing"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used to describe the way some words are pronounced when they have stress. For example, the strong form of and is /ænd/.",
+                    "vi": "được sử dụng để mô tả cách một số từ được phát âm khi chúng có trọng âm. Ví dụ, dạng mạnh của and is / ænd /."
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used to say that you think what somebody has said is unfair or too critical",
+                    "vi": "từng nói rằng bạn nghĩ những gì ai đó đã nói là không công bằng hoặc quá chỉ trích"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "something that gives somebody an advantage over other people in a particular situation",
+                    "vi": "thứ gì đó mang lại cho ai đó lợi thế hơn những người khác trong một tình huống cụ thể"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be good at something",
+                    "vi": "trở nên giỏi hơn về cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "I'm not very strong on dates (= I can't remember the dates of important events).",
+                        "vi": "I’m not very strong on date (= Tôi không thể nhớ ngày của những sự kiện quan trọng)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to have a lot of something",
+                    "vi": "có rất nhiều thứ"
+                },
+                "examples": [
+                    {
+                        "en": "The report was strong on criticism, but short on practical suggestions.",
+                        "vi": "Báo cáo mạnh về phản biện, nhưng ngắn về đề xuất thực tế."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be a subject that somebody knows a lot about",
+                    "vi": "trở thành một chủ đề mà ai đó biết rất nhiều về"
+                },
+                "examples": [
+                    {
+                        "en": "I'm afraid geography is not my strong suit.",
+                        "vi": "Tôi e rằng địa lý không phải là điểm mạnh của tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make your feelings clear in an aggressive way, especially your sexual feelings towards somebody",
+                    "vi": "để làm rõ cảm xúc của bạn một cách hung hăng, đặc biệt là cảm xúc tình dục của bạn đối với ai đó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to continue to be healthy, active or successful",
+                    "vi": "để tiếp tục khỏe mạnh, năng động hoặc thành công"
+                },
+                "examples": [
+                    {
+                        "en": "My grandmother is 90 and still going strong.",
+                        "vi": "Bà tôi đã 90 và vẫn còn khỏe."
+                    },
+                    {
+                        "en": "The business is still going strong.",
+                        "vi": "Công việc kinh doanh vẫn đang diễn ra mạnh mẽ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be able to see or do unpleasant things without feeling sick or upset",
+                    "vi": "để có thể nhìn thấy hoặc làm những điều khó chịu mà không cảm thấy buồn nôn hoặc khó chịu"
+                },
+                "examples": [
+                    {
+                        "en": "You need a strong stomach to go on the giant roller coaster.",
+                        "vi": "Bạn cần có một cái bụng khỏe để đi trên tàu lượn khổng lồ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "d4ea1fbba25f4567bafeca33577ae170",
+        "word": "tornado",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/tɔːˈneɪdəʊ/",
+            "us": "/tɔːrˈneɪdəʊ/"
+        },
+        "nearby": [
+            {
+                "word": "tormentor",
+                "pos": "noun"
+            },
+            {
+                "word": "torn",
+                "pos": "verb"
+            },
+            {
+                "word": "tornado",
+                "pos": "noun"
+            },
+            {
+                "word": "Tornado",
+                "pos": "noun"
+            },
+            {
+                "word": "Toronto",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a violent storm with very strong winds that move in a circle. There is often also a long cloud that is narrower at the bottom than the top.",
+                    "vi": "một cơn bão dữ dội với gió rất mạnh di chuyển theo hình tròn. Cũng thường có một đám mây dài hẹp hơn ở phía dưới so với phía trên."
+                },
+                "examples": [
+                    {
+                        "en": "Tornadoes ripped into the southern United States yesterday.",
+                        "vi": "Lốc xoáy đã xé toạc miền nam nước Mỹ ngày hôm qua."
+                    },
+                    {
+                        "en": "She burst in to the room like a tornado.",
+                        "vi": "Cô lao vào phòng như một cơn lốc xoáy."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7ef31e1b849141c0ade216e429ca78b4",
+        "word": "breeze",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/briːz/",
+            "us": "/briːz/"
+        },
+        "nearby": [
+            {
+                "word": "breeding",
+                "pos": "noun"
+            },
+            {
+                "word": "breeding ground",
+                "pos": "noun"
+            },
+            {
+                "word": "breeze",
+                "pos": "noun"
+            },
+            {
+                "word": "breeze",
+                "pos": "verb"
+            },
+            {
+                "word": "breeze block",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a light wind",
+                    "vi": "một cơn gió nhẹ"
+                },
+                "examples": [
+                    {
+                        "en": "a sea breeze",
+                        "vi": "gió biển"
+                    },
+                    {
+                        "en": "The flowers were gently swaying in the breeze.",
+                        "vi": "Những bông hoa khẽ đung đưa trong gió."
+                    },
+                    {
+                        "en": "A light breeze was blowing.",
+                        "vi": "Một làn gió nhẹ thổi qua."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a thing that is easy to do",
+                    "vi": "một điều dễ làm"
+                },
+                "examples": [
+                    {
+                        "en": "It was a breeze.",
+                        "vi": "Đó là một cơn gió nhẹ."
+                    },
+                    {
+                        "en": "Going down the hill would be a breeze after the long climb up!",
+                        "vi": "Đi xuống đồi sẽ thật dễ dàng sau một chặng đường dài leo lên!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to have a conversation in an informal way",
+                    "vi": "trò chuyện một cách thân mật"
+                },
+                "examples": [
+                    {
+                        "en": "We sat around in the bar, shooting the breeze.",
+                        "vi": "Chúng tôi ngồi quanh quán bar, hóng gió."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "334f3d4cf30e48c49ffa8c5debd3af77",
+        "word": "dust storm",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈdʌst stɔːm/",
+            "us": "/ˈdʌst stɔːrm/"
+        },
+        "nearby": [
+            {
+                "word": "dustpan",
+                "pos": "noun"
+            },
+            {
+                "word": "dust sheet",
+                "pos": "noun"
+            },
+            {
+                "word": "dust storm",
+                "pos": "noun"
+            },
+            {
+                "word": "dust-up",
+                "pos": "noun"
+            },
+            {
+                "word": "dusty",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a storm that carries clouds of dust in the wind over a wide area",
+                    "vi": "một cơn bão mang theo những đám mây bụi trong gió trên một khu vực rộng lớn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "b2575151a3bb4aa3b0ede5c39c0569a7",
+        "word": "typhoon",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/taɪˈfuːn/",
+            "us": "/taɪˈfuːn/"
+        },
+        "nearby": [
+            {
+                "word": "Typhoid Mary",
+                "pos": ""
+            },
+            {
+                "word": "Typhoo",
+                "pos": ""
+            },
+            {
+                "word": "typhoon",
+                "pos": "noun"
+            },
+            {
+                "word": "typhus",
+                "pos": "noun"
+            },
+            {
+                "word": "typical",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a violent tropical storm with very strong winds",
+                    "vi": "một cơn bão nhiệt đới dữ dội với gió rất mạnh"
+                },
+                "examples": [
+                    {
+                        "en": "His home was destroyed in a typhoon.",
+                        "vi": "Nhà của ông đã bị phá hủy trong một cơn bão."
+                    },
+                    {
+                        "en": "The plantation was devastated by a typhoon.",
+                        "vi": "Đồn điền đã bị tàn phá bởi một cơn bão."
+                    },
+                    {
+                        "en": "Earthquakes, typhoons and other natural disasters are frequent in that part of the Pacific.",
+                        "vi": "Động đất, bão và các thảm họa thiên nhiên khác thường xuyên xảy ra ở khu vực đó của Thái Bình Dương."
+                    },
+                    {
+                        "en": "The hottest time of year coincides with the typhoon season.",
+                        "vi": "Thời điểm nóng nhất trong năm trùng với mùa bão."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "67926e65df7c404082bbc39d55c4752e",
+        "word": "windless",
+        "pos": "adjective",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈwɪndləs/",
+            "us": "/ˈwɪndləs/"
+        },
+        "nearby": [
+            {
+                "word": "The Wind in the Willows",
+                "pos": ""
+            },
+            {
+                "word": "windlass",
+                "pos": "noun"
+            },
+            {
+                "word": "windless",
+                "pos": "adjective"
+            },
+            {
+                "word": "wind machine",
+                "pos": "noun"
+            },
+            {
+                "word": "windmill",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "without wind",
+                    "vi": "không có gió"
+                },
+                "examples": [
+                    {
+                        "en": "a windless day",
+                        "vi": "một ngày không gió"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "73dffcf8b8e442deba8b70f917bb476b",
+        "word": "breezy",
+        "pos": "adjective",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈbriːzi/",
+            "us": "/ˈbriːzi/"
+        },
+        "nearby": [
+            {
+                "word": "breezily",
+                "pos": "adverb"
+            },
+            {
+                "word": "breeziness",
+                "pos": "noun"
+            },
+            {
+                "word": "breezy",
+                "pos": "adjective"
+            },
+            {
+                "word": "Brenda",
+                "pos": ""
+            },
+            {
+                "word": "Brendan",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "with the wind blowing quite strongly",
+                    "vi": "có gió thổi khá mạnh"
+                },
+                "examples": [
+                    {
+                        "en": "It was a bright, breezy day.",
+                        "vi": "Đó là một ngày sáng sủa, mát mẻ."
+                    },
+                    {
+                        "en": "the breezy east coast",
+                        "vi": "bờ biển phía đông mát mẻ"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "having or showing a cheerful and relaxed manner",
+                    "vi": "có hoặc thể hiện một cách vui vẻ và thoải mái"
+                },
+                "examples": [
+                    {
+                        "en": "You're very bright and breezy today!",
+                        "vi": "Hôm nay bạn rất tươi sáng và dễ chịu!"
+                    },
+                    {
+                        "en": "She tried to sound breezy on the phone.",
+                        "vi": "Cô cố nghe điện thoại."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "b412b9b1eb1f468080f77e7611ab83d3",
+        "word": "cyclone",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈsaɪkləʊn/",
+            "us": "/ˈsaɪkləʊn/"
+        },
+        "nearby": [
+            {
+                "word": "cyclist",
+                "pos": "noun"
+            },
+            {
+                "word": "cyclo-cross",
+                "pos": "noun"
+            },
+            {
+                "word": "cyclone",
+                "pos": "noun"
+            },
+            {
+                "word": "Cyclone",
+                "pos": "noun"
+            },
+            {
+                "word": "cyclonic",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a violent tropical storm in which strong winds move in a circle",
+                    "vi": "một cơn bão nhiệt đới dữ dội trong đó gió mạnh di chuyển theo hình tròn"
+                },
+                "examples": [
+                    {
+                        "en": "The cyclone struck the village late last night.",
+                        "vi": "Trận lốc xoáy vào làng đêm qua."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a weather condition in which the pressure of the air becomes lower, often causing wind and rain",
+                    "vi": "một điều kiện thời tiết trong đó áp suất của không khí trở nên thấp hơn, thường gây ra gió và mưa"
+                },
+                "examples": [
+                    {
+                        "en": "As cyclones move inland, they become an important source of rain.",
+                        "vi": "Khi lốc xoáy di chuyển vào đất liền, chúng trở thành nguồn mưa quan trọng."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "14f1ca244d3a41c79616f1fe0763dd7a",
+        "word": "force",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/fɔːs/",
+            "us": "/fɔːrs/"
+        },
+        "nearby": [
+            {
+                "word": "forbore",
+                "pos": "verb"
+            },
+            {
+                "word": "forborne",
+                "pos": "verb"
+            },
+            {
+                "word": "force",
+                "pos": "noun"
+            },
+            {
+                "word": "force",
+                "pos": "verb"
+            },
+            {
+                "word": "force back",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "violent physical action used to obtain or achieve something",
+                    "vi": "hành động bạo lực được sử dụng để đạt được hoặc đạt được điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "The release of the hostages could not be achieved without the use of force.",
+                        "vi": "Việc giải phóng con tin không thể đạt được nếu không sử dụng vũ lực."
+                    },
+                    {
+                        "en": "If persuasion doesn't work, they use force.",
+                        "vi": "Nếu thuyết phục không hiệu quả, họ sử dụng vũ lực."
+                    },
+                    {
+                        "en": "The government has relied on brute force to respond to public discontent.",
+                        "vi": "Chính phủ đã dựa vào vũ lực để đáp lại sự bất bình của công chúng."
+                    },
+                    {
+                        "en": "by force The rioters were taken away by force.",
+                        "vi": "bằng vũ lực Những kẻ bạo loạn đã bị bắt đi bằng vũ lực."
+                    },
+                    {
+                        "en": "The empire was held together by military force.",
+                        "vi": "Đế chế được tổ chức với nhau bằng lực lượng quân sự."
+                    },
+                    {
+                        "en": "plans to seize power by force of arms (= by military force)",
+                        "vi": "kế hoạch giành chính quyền bằng vũ lực (= bằng lực lượng quân sự)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "physical strength, especially as shown when something hits something else",
+                    "vi": "sức mạnh thể chất, đặc biệt là khi một thứ gì đó va vào thứ khác"
+                },
+                "examples": [
+                    {
+                        "en": "the force of the explosion/impact",
+                        "vi": "lực của vụ nổ / va chạm"
+                    },
+                    {
+                        "en": "The shopping centre took the full force of the blast.",
+                        "vi": "Trung tâm mua sắm đã chịu toàn bộ lực lượng của vụ nổ."
+                    },
+                    {
+                        "en": "You have to apply some force to move the lever.",
+                        "vi": "Bạn phải tác động một số lực để di chuyển cần gạt."
+                    },
+                    {
+                        "en": "with force She hits the ball with amazing force for someone so small.",
+                        "vi": "với lực Cô ấy đánh quả bóng với một lực đáng kinh ngạc đối với một người quá nhỏ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the strong effect or influence of something",
+                    "vi": "hiệu ứng mạnh mẽ hoặc ảnh hưởng của một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "They realized the force of her argument.",
+                        "vi": "Họ nhận ra sức mạnh của lý lẽ của cô."
+                    },
+                    {
+                        "en": "a leader who inspired others with the force of his personality",
+                        "vi": "một nhà lãnh đạo truyền cảm hứng cho những người khác bằng sức mạnh của nhân cách của mình"
+                    },
+                    {
+                        "en": "by force of something He controlled himself by sheer force of will.",
+                        "vi": "bằng sức mạnh của một cái gì đó Ngài đã kiểm soát bản thân bằng sức mạnh tuyệt đối của ý chí."
+                    },
+                    {
+                        "en": "with force Grant drove the point home with considerable force.",
+                        "vi": "với lực lượng Grant đã đẩy điểm về nhà với một lực lượng đáng kể."
+                    },
+                    {
+                        "en": "She spoke with force and deliberation.",
+                        "vi": "Cô ấy nói với lực lượng và sự cân nhắc."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person or thing that has a lot of power or influence",
+                    "vi": "một người hoặc vật có nhiều quyền lực hoặc ảnh hưởng"
+                },
+                "examples": [
+                    {
+                        "en": "the forces of good/evil",
+                        "vi": "sức mạnh của thiện / ác"
+                    },
+                    {
+                        "en": "They believe that market forces should determine prices.",
+                        "vi": "Họ tin rằng các lực lượng thị trường nên xác định giá cả."
+                    },
+                    {
+                        "en": "Ron is the driving force (= the person who has the most influence) behind the project.",
+                        "vi": "Ron là động lực (= người có ảnh hưởng nhất) đằng sau dự án."
+                    },
+                    {
+                        "en": "She's a force to be reckoned with (= a person who has a lot of power and influence and should therefore be treated seriously).",
+                        "vi": "Cô ấy là một thế lực cần được tính đến (= một người có nhiều quyền lực và ảnh hưởng và do đó cần được đối xử nghiêm túc)."
+                    },
+                    {
+                        "en": "a force for something a force for good/evil",
+                        "vi": "một lực lượng cho một cái gì đó một lực lượng cho cái thiện / cái ác"
+                    },
+                    {
+                        "en": "The expansion of higher education should be a powerful force for change.",
+                        "vi": "Việc mở rộng giáo dục đại học sẽ là một động lực mạnh mẽ để thay đổi."
+                    },
+                    {
+                        "en": "He was finally defeated by forces beyond his control.",
+                        "vi": "Cuối cùng anh ta đã bị đánh bại bởi lực lượng ngoài tầm kiểm soát của mình."
+                    },
+                    {
+                        "en": "Social media has become a major force in political campaigns.",
+                        "vi": "Truyền thông xã hội đã trở thành một lực lượng chính trong các chiến dịch chính trị."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the authority of something",
+                    "vi": "thẩm quyền của một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "The court ruled that these standards have force in English law.",
+                        "vi": "Tòa án đã phán quyết rằng những tiêu chuẩn này có hiệu lực trong luật Anh."
+                    },
+                    {
+                        "en": "The contract was not signed and has no binding force.",
+                        "vi": "Hợp đồng không được ký kết và không có hiệu lực ràng buộc."
+                    },
+                    {
+                        "en": "the force of something These guidelines do not have the force of law.",
+                        "vi": "hiệu lực của một cái gì đó Những hướng dẫn này không có hiệu lực của pháp luật."
+                    },
+                    {
+                        "en": "The culprits must expect to face the full force of the law.",
+                        "vi": "Các thủ phạm phải đối mặt với toàn bộ lực lượng của pháp luật."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a group of people who have been organized for a particular purpose",
+                    "vi": "một nhóm người đã được tổ chức cho một mục đích cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "a member of the sales force",
+                        "vi": "một thành viên của lực lượng bán hàng"
+                    },
+                    {
+                        "en": "She has attracted a force of passionate young individuals who are committed to the organization.",
+                        "vi": "Cô đã thu hút được một lực lượng gồm những cá nhân trẻ đầy nhiệt huyết và gắn bó với tổ chức."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a trained and organized group of police, soldiers or other military personnel",
+                    "vi": "một nhóm cảnh sát, binh lính hoặc quân nhân khác được đào tạo và có tổ chức"
+                },
+                "examples": [
+                    {
+                        "en": "Rebel forces now control most of the capital.",
+                        "vi": "Lực lượng nổi dậy hiện đã kiểm soát phần lớn thủ đô."
+                    },
+                    {
+                        "en": "Government forces captured the rebel positions.",
+                        "vi": "Lực lượng chính phủ đã chiếm được các vị trí của quân nổi dậy."
+                    },
+                    {
+                        "en": "coalition/allied forces",
+                        "vi": "liên minh / lực lượng đồng minh"
+                    },
+                    {
+                        "en": "a peacekeeping force",
+                        "vi": "lực lượng gìn giữ hòa bình"
+                    },
+                    {
+                        "en": "He called on the local population to rise up against the occupying forces.",
+                        "vi": "Ông kêu gọi người dân địa phương vùng lên chống lại lực lượng chiếm đóng."
+                    },
+                    {
+                        "en": "American special forces pride themselves on their elite status.",
+                        "vi": "Lực lượng đặc biệt của Mỹ tự hào về vị thế tinh nhuệ của họ."
+                    },
+                    {
+                        "en": "The government deployed military forces to attack terrorist strongholds.",
+                        "vi": "Chính phủ triển khai lực lượng quân sự tấn công các thành trì của bọn khủng bố."
+                    },
+                    {
+                        "en": "The British were ordered to withdraw their forces immediately.",
+                        "vi": "Người Anh được lệnh rút lực lượng ngay lập tức."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the army, navy and air force",
+                    "vi": "lục quân, hải quân và không quân"
+                },
+                "examples": [
+                    {
+                        "en": "life in the forces",
+                        "vi": "cuộc sống trong các lực lượng"
+                    },
+                    {
+                        "en": "Daisy intends to join the forces when she leaves school this summer.",
+                        "vi": "Daisy dự định tham gia lực lượng khi cô ấy rời trường vào mùa hè này."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the weapons and soldiers that an army, etc. has, considered as things that may be used",
+                    "vi": "vũ khí và binh lính mà quân đội, v.v. có, được coi là những thứ có thể được sử dụng"
+                },
+                "examples": [
+                    {
+                        "en": "strategic nuclear forces.",
+                        "vi": "lực lượng hạt nhân chiến lược."
+                    },
+                    {
+                        "en": "The government is negotiating cuts to nuclear forces.",
+                        "vi": "Chính phủ đang đàm phán cắt giảm các lực lượng hạt nhân."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the police force",
+                    "vi": "lực lượng cảnh sát"
+                },
+                "examples": [
+                    {
+                        "en": "He joined the force twenty years ago.",
+                        "vi": "Anh ta gia nhập lực lượng cách đây hai mươi năm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an effect that causes things to move in a particular way",
+                    "vi": "một hiệu ứng khiến mọi thứ chuyển động theo một cách cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "The moon exerts a force on the earth.",
+                        "vi": "Mặt trăng tác dụng một lực lên trái đất."
+                    },
+                    {
+                        "en": "the force of gravity",
+                        "vi": "lực hấp dẫn"
+                    },
+                    {
+                        "en": "the sun's magnetic force",
+                        "vi": "lực từ của mặt trời"
+                    },
+                    {
+                        "en": "Because of the increased mass, more force is needed to accelerate the object.",
+                        "vi": "Vì khối lượng tăng nên cần thêm lực để vật tăng tốc."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a unit for measuring the strength of the wind on the Beaufort scale",
+                    "vi": "một đơn vị đo sức mạnh của gió trên thang Beaufort"
+                },
+                "examples": [
+                    {
+                        "en": "a force 9 gale",
+                        "vi": "một lực lượng 9 gale"
+                    },
+                    {
+                        "en": "a gale force wind",
+                        "vi": "gió mạnh"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to cause a law, rule, etc. to start being used",
+                    "vi": "để khiến một luật, quy tắc, v.v. bắt đầu được sử dụng"
+                },
+                "examples": [
+                    {
+                        "en": "They are hoping to bring the new legislation into force before the end of the year.",
+                        "vi": "Họ đang hy vọng sẽ đưa luật mới có hiệu lực trước cuối năm nay."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to start being used",
+                    "vi": "để bắt đầu được sử dụng"
+                },
+                "examples": [
+                    {
+                        "en": "When do the new regulations come into force?",
+                        "vi": "Khi nào các quy định mới có hiệu lực?"
+                    },
+                    {
+                        "en": "The new law comes into force as from midnight tomorrow.",
+                        "vi": "Luật mới có hiệu lực từ nửa đêm ngày mai."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if you do something from or out of force of habit, you do it without thinking about it and in a particular way because you have always done it that way in the past",
+                    "vi": "nếu bạn làm điều gì đó do hoặc do thói quen bắt buộc, bạn làm điều đó mà không cần suy nghĩ về nó và theo một cách cụ thể bởi vì bạn đã luôn làm theo cách đó trong quá khứ"
+                },
+                "examples": [
+                    {
+                        "en": "It's force of habit that gets me out of bed at 6.15 each morning.",
+                        "vi": "Đó là thói quen khiến tôi rời khỏi giường lúc 6 giờ 15 mỗi sáng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person with a very strong personality who is full of energy, very determined and difficult for others to resist",
+                    "vi": "một người có tính cách rất mạnh mẽ, tràn đầy năng lượng, rất kiên định và khó ai có thể cưỡng lại được."
+                },
+                "examples": [
+                    {
+                        "en": "Gerard is a force of nature, continually pursuing his target when everyone else is ready to give up.",
+                        "vi": "Gerard là một sức mạnh của tự nhiên, liên tục theo đuổi mục tiêu của mình khi mọi người khác đã sẵn sàng từ bỏ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the power of the wind, rain, etc., especially when it causes damage or harm",
+                    "vi": "sức mạnh của gió, mưa, v.v., đặc biệt khi nó gây ra thiệt hại hoặc tác hại"
+                },
+                "examples": [
+                    {
+                        "en": "They were fighting a losing battle against the forces of nature.",
+                        "vi": "Họ đang chiến đấu trong một trận chiến thua cuộc trước các lực lượng của thiên nhiên."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "in large numbers",
+                    "vi": "Với số lượng lớn"
+                },
+                "examples": [
+                    {
+                        "en": "Protesters turned out in force.",
+                        "vi": "Những người biểu tình đã có hiệu lực."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "being used",
+                    "vi": "đang được sử dụng"
+                },
+                "examples": [
+                    {
+                        "en": "The new regulations are now in force.",
+                        "vi": "Các quy định mới hiện đã có hiệu lực."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to work together in order to achieve a shared aim",
+                    "vi": "làm việc cùng nhau để đạt được mục tiêu chung"
+                },
+                "examples": [
+                    {
+                        "en": "The two firms joined forces to win the contract.",
+                        "vi": "Hai công ty đã hợp lực để giành được hợp đồng."
+                    },
+                    {
+                        "en": "The two companies have joined forces to form a new consortium.",
+                        "vi": "Hai công ty đã hợp lực để thành lập một tập đoàn mới."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person or group that no longer has any power or influence",
+                    "vi": "một người hoặc một nhóm không còn quyền lực hoặc ảnh hưởng"
+                },
+                "examples": [
+                    {
+                        "en": "The opposition party is now a spent political force.",
+                        "vi": "Đảng đối lập bây giờ là một lực lượng chính trị chi tiêu."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2e943e2f04474946b4b79740a9398343",
+        "word": "gale",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ɡeɪl/",
+            "us": "/ɡeɪl/"
+        },
+        "nearby": [
+            {
+                "word": "Galaxy",
+                "pos": "noun"
+            },
+            {
+                "word": "John Kenneth Galbraith",
+                "pos": ""
+            },
+            {
+                "word": "gale",
+                "pos": "noun"
+            },
+            {
+                "word": "gali",
+                "pos": "noun"
+            },
+            {
+                "word": "gall",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an extremely strong wind",
+                    "vi": "một cơn gió cực mạnh"
+                },
+                "examples": [
+                    {
+                        "en": "The gale blew down hundreds of trees.",
+                        "vi": "Gió giật làm đổ hàng trăm cây xanh."
+                    },
+                    {
+                        "en": "gale-force winds",
+                        "vi": "gió giật mạnh"
+                    },
+                    {
+                        "en": "(British English) It's blowing a gale outside (= a strong wind is blowing).",
+                        "vi": "(Tiếng Anh Anh) Bên ngoài trời đang thổi một cơn gió giật mạnh (= một cơn gió mạnh đang thổi)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the sound of people laughing very loudly",
+                    "vi": "tiếng người cười rất to"
+                },
+                "examples": [
+                    {
+                        "en": "His speech was greeted with gales of laughter.",
+                        "vi": "Bài phát biểu của ông đã được chào đón bằng những tràng cười sảng khoái."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2f2cbc37055241ecad29934096c00461",
+        "word": "whirlwind",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈwɜːlwɪnd/",
+            "us": "/ˈwɜːrlwɪnd/"
+        },
+        "nearby": [
+            {
+                "word": "whirligig",
+                "pos": "noun"
+            },
+            {
+                "word": "whirlpool",
+                "pos": "noun"
+            },
+            {
+                "word": "whirlwind",
+                "pos": "noun"
+            },
+            {
+                "word": "whirlwind",
+                "pos": "adjective"
+            },
+            {
+                "word": "whirr",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a very strong wind that moves very fast in circles and causes a lot of damage",
+                    "vi": "một cơn gió rất mạnh di chuyển rất nhanh theo vòng tròn và gây ra nhiều thiệt hại"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a situation or series of events where a lot of things happen very quickly",
+                    "vi": "một tình huống hoặc một chuỗi sự kiện trong đó rất nhiều thứ xảy ra rất nhanh"
+                },
+                "examples": [
+                    {
+                        "en": "To recover from the divorce, I threw myself into a whirlwind of activities.",
+                        "vi": "Để hồi phục sau cuộc ly hôn, tôi đã ném mình vào vòng xoáy của các hoạt động."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8c93c172b4404e1da51f390cce0eebee",
+        "word": "anemometer",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌænɪˈmɒmɪtə(r)/",
+            "us": "/ˌænɪˈmɑːmɪtər/"
+        },
+        "nearby": [
+            {
+                "word": "anemia",
+                "pos": "noun"
+            },
+            {
+                "word": "anemic",
+                "pos": "adjective"
+            },
+            {
+                "word": "anemometer",
+                "pos": "noun"
+            },
+            {
+                "word": "anemone",
+                "pos": "noun"
+            },
+            {
+                "word": "anemone fish",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an instrument for measuring the speed of the wind or of a current of gas",
+                    "vi": "một dụng cụ để đo tốc độ của gió hoặc dòng khí"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "b8466d69db3a422298886159c95f90ab",
+        "word": "the Beaufort scale",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ðə ˈbəʊfət skeɪl/",
+            "us": "/ðə ˈbəʊfərt skeɪl/"
+        },
+        "nearby": [
+            {
+                "word": "beau",
+                "pos": "noun"
+            },
+            {
+                "word": "beaucoup",
+                "pos": "determiner"
+            },
+            {
+                "word": "the Beaufort scale",
+                "pos": "noun"
+            },
+            {
+                "word": "Beaujolais",
+                "pos": "noun"
+            },
+            {
+                "word": "Beaulieu",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a range of numbers used for measuring how strongly the wind is blowing. The lowest number 0 means that there is no wind and the highest number 12 means that there is a hurricane (= a violent storm with very strong winds).",
+                    "vi": "một dãy số được sử dụng để đo mức độ gió thổi mạnh. Số 0 thấp nhất có nghĩa là không có gió và số cao nhất 12 có nghĩa là có bão (= một cơn bão dữ dội với gió rất mạnh)."
+                },
+                "examples": [
+                    {
+                        "en": "The storm measured 10 on the Beaufort scale.",
+                        "vi": "Cơn bão đo được 10 trên thang Beaufort."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7c0160433d1b49299af9289d48585d11",
+        "word": "blustery",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈblʌstəri/",
+            "us": "/ˈblʌstəri/"
+        },
+        "nearby": [
+            {
+                "word": "bluster",
+                "pos": "verb"
+            },
+            {
+                "word": "bluster",
+                "pos": "noun"
+            },
+            {
+                "word": "blustery",
+                "pos": "adjective"
+            },
+            {
+                "word": "Blu-tack",
+                "pos": "noun"
+            },
+            {
+                "word": "Blvd.",
+                "pos": "abbreviation"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "with strong winds",
+                    "vi": "có gió mạnh"
+                },
+                "examples": [
+                    {
+                        "en": "blustery winds/conditions",
+                        "vi": "gió thổi / điều kiện"
+                    },
+                    {
+                        "en": "The day was cold and blustery.",
+                        "vi": "Ngày lạnh và hanh hao."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "77b006b52e0d486a9f159e4932c26ada",
+        "word": "crosswind",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkrɒswɪnd/",
+            "us": "/ˈkrɔːswɪnd/"
+        },
+        "nearby": [
+            {
+                "word": "cross-training",
+                "pos": "noun"
+            },
+            {
+                "word": "crosswalk",
+                "pos": "noun"
+            },
+            {
+                "word": "crosswind",
+                "pos": "noun"
+            },
+            {
+                "word": "crosswise",
+                "pos": "adverb"
+            },
+            {
+                "word": "crossword",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a wind that is blowing across the direction that you are moving in",
+                    "vi": "một cơn gió đang thổi qua hướng mà bạn đang di chuyển"
+                },
+                "examples": [
+                    {
+                        "en": "Strong crosswinds blew the plane off course.",
+                        "vi": "Gió giật mạnh đã thổi bay máy bay."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3a5aa8c1ca9d44f58f8d798e275c60d7",
+        "word": "easterly",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈiːstəli/",
+            "us": "/ˈiːstərli/"
+        },
+        "nearby": [
+            {
+                "word": "Easter egg",
+                "pos": "noun"
+            },
+            {
+                "word": "Easter egg hunt",
+                "pos": "noun"
+            },
+            {
+                "word": "easterly",
+                "pos": "adjective"
+            },
+            {
+                "word": "easterly",
+                "pos": "noun"
+            },
+            {
+                "word": "Easter Monday",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "in or towards the east",
+                    "vi": "ở hoặc về phía đông"
+                },
+                "examples": [
+                    {
+                        "en": "travelling in an easterly direction",
+                        "vi": "du hành theo hướng đông"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "blowing from the east",
+                    "vi": "thổi từ phía đông"
+                },
+                "examples": [
+                    {
+                        "en": "a cold easterly wind",
+                        "vi": "một cơn gió mùa đông lạnh giá"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a9898c6dd6cb4d95b0bca55517253b9a",
+        "word": "easterly",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈiːstəli/",
+            "us": "/ˈiːstərli/"
+        },
+        "nearby": [
+            {
+                "word": "Easter egg hunt",
+                "pos": "noun"
+            },
+            {
+                "word": "easterly",
+                "pos": "adjective"
+            },
+            {
+                "word": "easterly",
+                "pos": "noun"
+            },
+            {
+                "word": "Easter Monday",
+                "pos": "noun"
+            },
+            {
+                "word": "eastern",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a wind that blows from the east",
+                    "vi": "gió thổi từ phía đông"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "940f20504e3344939c9d14346c2a04b4",
+        "word": "get up",
+        "pos": "phrasal verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "",
+            "us": ""
+        },
+        "nearby": [
+            {
+                "word": "the Battle of Gettysburg",
+                "pos": ""
+            },
+            {
+                "word": "the Gettysburg Address",
+                "pos": ""
+            },
+            {
+                "word": "get up",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "get-up",
+                "pos": "noun"
+            },
+            {
+                "word": "get-up-and-go",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to stand up after sitting, lying, etc.",
+                    "vi": "đứng dậy sau khi ngồi, nằm, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "The class got up when the teacher came in.",
+                        "vi": "Cả lớp dậy khi cô giáo bước vào."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if the sea or wind gets up, it increases in strength and becomes violent",
+                    "vi": "nếu biển hoặc gió nổi lên, nó sẽ tăng sức mạnh và trở nên hung dữ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to get out of bed; to make somebody get out of bed",
+                    "vi": "ra khỏi giường; làm cho ai đó ra khỏi giường"
+                },
+                "examples": [
+                    {
+                        "en": "He always gets up early.",
+                        "vi": "Anh ấy luôn dậy sớm."
+                    },
+                    {
+                        "en": "Could you get me up at 6.30 tomorrow?",
+                        "vi": "Bạn có thể gọi tôi dậy lúc 6h30 ngày mai được không?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to arrange or organize something",
+                    "vi": "sắp xếp hoặc tổ chức một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "We're getting up a party for her birthday.",
+                        "vi": "Chúng tôi sắp tổ chức một bữa tiệc cho sinh nhật của cô ấy."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8dfc531772014992bfe6911f59bbebe5",
+        "word": "gust",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ɡʌst/",
+            "us": "/ɡʌst/"
+        },
+        "nearby": [
+            {
+                "word": "gussy",
+                "pos": "verb"
+            },
+            {
+                "word": "gussy up",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "gust",
+                "pos": "noun"
+            },
+            {
+                "word": "gust",
+                "pos": "verb"
+            },
+            {
+                "word": "gustatory",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a sudden strong increase in the amount and speed of wind that is blowing",
+                    "vi": "sự gia tăng đột ngột mạnh mẽ về lượng và tốc độ gió thổi"
+                },
+                "examples": [
+                    {
+                        "en": "A gust of wind blew his hat off.",
+                        "vi": "Một cơn gió thổi bay chiếc mũ của anh ta."
+                    },
+                    {
+                        "en": "The wind was blowing in gusts.",
+                        "vi": "Gió thổi từng cơn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a sudden strong expression of emotion",
+                    "vi": "một biểu hiện cảm xúc mạnh mẽ đột ngột"
+                },
+                "examples": [
+                    {
+                        "en": "a gust of laughter",
+                        "vi": "một tràng cười"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c8768b81001040c0a1910689fb11c488",
+        "word": "gust",
+        "pos": "verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ɡʌst/",
+            "us": "/ɡʌst/"
+        },
+        "nearby": [
+            {
+                "word": "gussy up",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "gust",
+                "pos": "noun"
+            },
+            {
+                "word": "gust",
+                "pos": "verb"
+            },
+            {
+                "word": "gustatory",
+                "pos": "adjective"
+            },
+            {
+                "word": "gusto",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to suddenly blow very hard",
+                    "vi": "đột ngột thổi rất mạnh"
+                },
+                "examples": [
+                    {
+                        "en": "winds gusting up to 60 mph",
+                        "vi": "gió giật lên đến 60 dặm / giờ"
+                    },
+                    {
+                        "en": "The wind gusted through the branches.",
+                        "vi": "Gió lồng lộng thổi qua cành cây."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "dd4e49f025004ae5896961275c5b8613",
+        "word": "gusty",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈɡʌsti/",
+            "us": "/ˈɡʌsti/"
+        },
+        "nearby": [
+            {
+                "word": "gustatory",
+                "pos": "adjective"
+            },
+            {
+                "word": "gusto",
+                "pos": "noun"
+            },
+            {
+                "word": "gusty",
+                "pos": "adjective"
+            },
+            {
+                "word": "gut",
+                "pos": "noun"
+            },
+            {
+                "word": "gut",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "with the wind blowing in gusts",
+                    "vi": "có gió thổi mạnh"
+                },
+                "examples": [
+                    {
+                        "en": "a gusty morning",
+                        "vi": "một buổi sáng đẹp trời"
+                    },
+                    {
+                        "en": "gusty winds",
+                        "vi": "gió có gió"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "b6441ab6b7df4b29a4b03e8995d79f4e",
+        "word": "headwind",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈhedwɪnd/",
+            "us": "/ˈhedwɪnd/"
+        },
+        "nearby": [
+            {
+                "word": "headwaters",
+                "pos": "noun"
+            },
+            {
+                "word": "headway",
+                "pos": "noun"
+            },
+            {
+                "word": "headwind",
+                "pos": "noun"
+            },
+            {
+                "word": "headword",
+                "pos": "noun"
+            },
+            {
+                "word": "heady",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a wind that is blowing towards a person or vehicle, so that it is blowing from the direction in which the person or vehicle is moving",
+                    "vi": "gió thổi về phía người hoặc phương tiện, sao cho nó thổi từ hướng người hoặc phương tiện đang chuyển động"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "04cf0e228b5841df98567f980fb9a3f3",
+        "word": "mistral",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈmɪstrəl/",
+            "us": "/ˈmɪstrəl/"
+        },
+        "nearby": [
+            {
+                "word": "mistletoe",
+                "pos": "noun"
+            },
+            {
+                "word": "mistook",
+                "pos": "verb"
+            },
+            {
+                "word": "mistral",
+                "pos": "noun"
+            },
+            {
+                "word": "mistreat",
+                "pos": "verb"
+            },
+            {
+                "word": "mistreatment",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a strong cold wind that blows through southern France from the north, mainly in winter",
+                    "vi": "một cơn gió lạnh mạnh thổi qua miền nam nước Pháp từ phía bắc, chủ yếu vào mùa đông"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "fe29bed7aa374b88a134c28ef6bfc400",
+        "word": "nor'easter",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌnɔːrˈiːstə(r)/",
+            "us": "/ˌnɔːrˈiːstər/"
+        },
+        "nearby": [
+            {
+                "word": "Nordic skiing",
+                "pos": "noun"
+            },
+            {
+                "word": "Nordic walking",
+                "pos": "noun"
+            },
+            {
+                "word": "nor'easter",
+                "pos": "noun"
+            },
+            {
+                "word": "Norfolk",
+                "pos": ""
+            },
+            {
+                "word": "the Norfolk Broads",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a strong wind or storm that comes from the north-east, especially in New England in the United States",
+                    "vi": "gió mạnh hoặc bão đến từ phía đông bắc, đặc biệt là ở New England, Hoa Kỳ"
+                },
+                "examples": [
+                    {
+                        "en": "There was a nor'easter that blanketed Manhattan with two feet of snow.",
+                        "vi": "Có một tàu cao tốc đã bao phủ Manhattan bằng hai feet tuyết."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5ad5b003066447dbbdb260d4b24fff59",
+        "word": "northerly",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈnɔːðəli/",
+            "us": "/ˈnɔːrðərli/"
+        },
+        "nearby": [
+            {
+                "word": "north-eastward",
+                "pos": "adjective"
+            },
+            {
+                "word": "north-eastwards",
+                "pos": "adverb"
+            },
+            {
+                "word": "northerly",
+                "pos": "adjective"
+            },
+            {
+                "word": "northerly",
+                "pos": "noun"
+            },
+            {
+                "word": "northern",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "in or towards the north",
+                    "vi": "ở hoặc về phía bắc"
+                },
+                "examples": [
+                    {
+                        "en": "travelling in a northerly direction",
+                        "vi": "đi theo hướng bắc"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "blowing from the north",
+                    "vi": "thổi từ phía bắc"
+                },
+                "examples": [
+                    {
+                        "en": "a northerly breeze",
+                        "vi": "một làn gió phương bắc"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5f6fe3be28134c1aa42e4cba33f595d9",
+        "word": "northerly",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈnɔːðəli/",
+            "us": "/ˈnɔːrðərli/"
+        },
+        "nearby": [
+            {
+                "word": "north-eastwards",
+                "pos": "adverb"
+            },
+            {
+                "word": "northerly",
+                "pos": "adjective"
+            },
+            {
+                "word": "northerly",
+                "pos": "noun"
+            },
+            {
+                "word": "northern",
+                "pos": "adjective"
+            },
+            {
+                "word": "northerner",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a wind that blows from the north",
+                    "vi": "gió thổi từ phương bắc"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "1193f295c9734adeb18cb7be6e370db9",
+        "word": "prevailing",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/prɪˈveɪlɪŋ/",
+            "us": "/prɪˈveɪlɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "pretzel",
+                "pos": "noun"
+            },
+            {
+                "word": "prevail",
+                "pos": "verb"
+            },
+            {
+                "word": "prevailing",
+                "pos": "adjective"
+            },
+            {
+                "word": "prevail on to do",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "prevail upon to do",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "existing or most common at a particular time",
+                    "vi": "hiện có hoặc phổ biến nhất tại một thời điểm cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "the prevailing economic conditions",
+                        "vi": "điều kiện kinh tế phổ biến"
+                    },
+                    {
+                        "en": "the attitude towards science prevailing at the time",
+                        "vi": "thái độ đối với khoa học thịnh hành vào thời điểm đó"
+                    },
+                    {
+                        "en": "The prevailing view seems to be that they will find her guilty.",
+                        "vi": "Quan điểm phổ biến dường như là họ sẽ thấy cô ấy có tội."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the prevailing wind in an area is the one that blows over it most frequently",
+                    "vi": "gió thịnh hành trong một khu vực là gió thổi qua nó thường xuyên nhất"
+                },
+                "examples": [
+                    {
+                        "en": "The prevailing wind here is from the east.",
+                        "vi": "Gió thịnh hành ở đây là từ phía đông."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e7cb99597b464ec0b95e6c2ef2939564",
+        "word": "sirocco",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/sɪˈrɒkəʊ/",
+            "us": "/sɪˈrɑːkəʊ/"
+        },
+        "nearby": [
+            {
+                "word": "siren",
+                "pos": "noun"
+            },
+            {
+                "word": "sirloin",
+                "pos": "noun"
+            },
+            {
+                "word": "sirocco",
+                "pos": "noun"
+            },
+            {
+                "word": "sis",
+                "pos": "noun"
+            },
+            {
+                "word": "sisal",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a hot wind that blows from Africa into southern Europe",
+                    "vi": "một cơn gió nóng thổi từ Châu Phi vào Nam Âu"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "ab2d33a9309d4d64b49ce254c5456f63",
+        "word": "southerly",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈsʌðəli/",
+            "us": "/ˈsʌðərli/"
+        },
+        "nearby": [
+            {
+                "word": "south-eastwards",
+                "pos": "adverb"
+            },
+            {
+                "word": "Southend",
+                "pos": ""
+            },
+            {
+                "word": "southerly",
+                "pos": "adjective"
+            },
+            {
+                "word": "southerly",
+                "pos": "noun"
+            },
+            {
+                "word": "southern",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "in or towards the south",
+                    "vi": "trong hoặc về phía nam"
+                },
+                "examples": [
+                    {
+                        "en": "travelling in a southerly direction",
+                        "vi": "đi theo hướng nam"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "blowing from the south",
+                    "vi": "thổi từ phía nam"
+                },
+                "examples": [
+                    {
+                        "en": "a warm southerly breeze",
+                        "vi": "một làn gió ấm áp phương nam"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "aad6bb041d154017b56dd352515ce309",
+        "word": "southerly",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈsʌðəli/",
+            "us": "/ˈsʌðərli/"
+        },
+        "nearby": [
+            {
+                "word": "Southend",
+                "pos": ""
+            },
+            {
+                "word": "southerly",
+                "pos": "adjective"
+            },
+            {
+                "word": "southerly",
+                "pos": "noun"
+            },
+            {
+                "word": "southern",
+                "pos": "adjective"
+            },
+            {
+                "word": "southern belle",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a wind that blows from the south",
+                    "vi": "gió thổi từ phương nam"
+                },
+                "examples": [
+                    {
+                        "en": "warm southerlies",
+                        "vi": "miền nam ấm áp"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6862a7f0004c4c65bb9f64b0e1e842a9",
+        "word": "squall",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/skwɔːl/",
+            "us": "/skwɔːl/"
+        },
+        "nearby": [
+            {
+                "word": "squadron leader",
+                "pos": "noun"
+            },
+            {
+                "word": "squalid",
+                "pos": "adjective"
+            },
+            {
+                "word": "squall",
+                "pos": "noun"
+            },
+            {
+                "word": "squall",
+                "pos": "verb"
+            },
+            {
+                "word": "squally",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a sudden strong and violent wind, often with rain or snow during a storm",
+                    "vi": "gió đột ngột mạnh và dữ dội, thường có mưa hoặc tuyết trong cơn bão"
+                },
+                "examples": [
+                    {
+                        "en": "A sudden vicious squall knocked her to the ground.",
+                        "vi": "Một tiếng hét ác độc đột ngột làm cô ngã xuống đất."
+                    },
+                    {
+                        "en": "We got caught in a sudden squall of rain.",
+                        "vi": "Chúng tôi bị dính một cơn mưa bất chợt."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c1665bfb413c43ad9f5f5691e444af12",
+        "word": "tailwind",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈteɪlwɪnd/",
+            "us": "/ˈteɪlwɪnd/"
+        },
+        "nearby": [
+            {
+                "word": "tailplane",
+                "pos": "noun"
+            },
+            {
+                "word": "tailspin",
+                "pos": "noun"
+            },
+            {
+                "word": "tailwind",
+                "pos": "noun"
+            },
+            {
+                "word": "Taino",
+                "pos": "noun"
+            },
+            {
+                "word": "taint",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a wind that blows from behind a moving vehicle, a runner, etc.",
+                    "vi": "gió thổi từ phía sau xe đang chuyển động, người chạy, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "A tail wind made the ride home very relaxing.",
+                        "vi": "Một cơn gió ở đuôi làm cho chuyến đi về nhà rất thư thái."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9c431560f2c941d987c3d6979ab6f4e8",
+        "word": "tempest",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtempɪst/",
+            "us": "/ˈtempɪst/"
+        },
+        "nearby": [
+            {
+                "word": "temperate zone",
+                "pos": "noun"
+            },
+            {
+                "word": "temperature",
+                "pos": "noun"
+            },
+            {
+                "word": "tempest",
+                "pos": "noun"
+            },
+            {
+                "word": "The Tempest",
+                "pos": ""
+            },
+            {
+                "word": "tempestuous",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a violent storm",
+                    "vi": "một cơn bão dữ dội"
+                },
+                "examples": [
+                    {
+                        "en": "The screaming tempest whipped into the house, hurling furniture across the room.",
+                        "vi": "Cơn thịnh nộ la hét xông vào nhà, ném đồ đạc khắp phòng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a lot of anger or worry about something that is not important",
+                    "vi": "rất nhiều tức giận hoặc lo lắng về điều gì đó không quan trọng"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "e2e5da50895b4f76b3570d8978a391f0",
+        "word": "twister",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtwɪstə(r)/",
+            "us": "/ˈtwɪstər/"
+        },
+        "nearby": [
+            {
+                "word": "twist",
+                "pos": "noun"
+            },
+            {
+                "word": "twisted",
+                "pos": "adjective"
+            },
+            {
+                "word": "twister",
+                "pos": "noun"
+            },
+            {
+                "word": "twist off",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "twist tie",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a violent storm with very strong winds that move in circles",
+                    "vi": "một cơn bão dữ dội với gió rất mạnh di chuyển theo vòng tròn"
+                },
+                "examples": [
+                    {
+                        "en": "The twister, reported to be about 100 yards wide, caused major damage to the high school.",
+                        "vi": "Đoạn đường xoắn, được cho là rộng khoảng 100 mét, đã gây ra thiệt hại lớn cho trường trung học."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "dc194f77d2374ad5b67d18bfff3c40a5",
+        "word": "weathervane",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈweðəveɪn/",
+            "us": "/ˈweðərveɪn/"
+        },
+        "nearby": [
+            {
+                "word": "weatherstrip",
+                "pos": "noun"
+            },
+            {
+                "word": "weatherstripping",
+                "pos": "noun"
+            },
+            {
+                "word": "weathervane",
+                "pos": "noun"
+            },
+            {
+                "word": "weave",
+                "pos": "verb"
+            },
+            {
+                "word": "weave",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a metal object on the roof of a building that turns easily in the wind and shows which direction the wind is blowing from",
+                    "vi": "một vật kim loại trên mái của một tòa nhà dễ dàng quay theo gió và cho biết gió đang thổi từ hướng nào"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "d926e82477994245b68e0651456fa157",
+        "word": "westerly",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈwestəli/",
+            "us": "/ˈwestərli/"
+        },
+        "nearby": [
+            {
+                "word": "the West Country",
+                "pos": ""
+            },
+            {
+                "word": "the West End",
+                "pos": "noun"
+            },
+            {
+                "word": "westerly",
+                "pos": "adjective"
+            },
+            {
+                "word": "westerly",
+                "pos": "noun"
+            },
+            {
+                "word": "western",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "in or towards the west",
+                    "vi": "ở hoặc về phía tây"
+                },
+                "examples": [
+                    {
+                        "en": "travelling in a westerly direction",
+                        "vi": "đi du lịch theo hướng tây"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "blowing from the west",
+                    "vi": "thổi từ phía tây"
+                },
+                "examples": [
+                    {
+                        "en": "westerly gales",
+                        "vi": "gales phương tây"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "56e50fa969fe4ee3a3c24380348cc345",
+        "word": "westerly",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈwestəli/",
+            "us": "/ˈwestərli/"
+        },
+        "nearby": [
+            {
+                "word": "the West End",
+                "pos": "noun"
+            },
+            {
+                "word": "westerly",
+                "pos": "adjective"
+            },
+            {
+                "word": "westerly",
+                "pos": "noun"
+            },
+            {
+                "word": "western",
+                "pos": "adjective"
+            },
+            {
+                "word": "western",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a wind that blows from the west",
+                    "vi": "gió thổi từ phía tây"
+                },
+                "examples": [
+                    {
+                        "en": "light westerlies",
+                        "vi": "ánh sáng phương tây"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "94bb9e4f03ff4e678a79b3dc944606d7",
+        "word": "wind gauge",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈwɪnd ɡeɪdʒ/",
+            "us": "/ˈwɪnd ɡeɪdʒ/"
+        },
+        "nearby": [
+            {
+                "word": "windfall",
+                "pos": "noun"
+            },
+            {
+                "word": "wind farm",
+                "pos": "noun"
+            },
+            {
+                "word": "wind gauge",
+                "pos": "noun"
+            },
+            {
+                "word": "the Windies",
+                "pos": "noun"
+            },
+            {
+                "word": "winding",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an instrument for measuring the speed of the wind or of a current of gas",
+                    "vi": "một dụng cụ để đo tốc độ của gió hoặc dòng khí"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "4bd6b215668143e19929ca1039bb8060",
+        "word": "zephyr",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈzefə(r)/",
+            "us": "/ˈzefər/"
+        },
+        "nearby": [
+            {
+                "word": "zenith",
+                "pos": "noun"
+            },
+            {
+                "word": "Zenith",
+                "pos": ""
+            },
+            {
+                "word": "zephyr",
+                "pos": "noun"
+            },
+            {
+                "word": "Zeppelin",
+                "pos": "noun"
+            },
+            {
+                "word": "zero",
+                "pos": "number"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a soft gentle wind",
+                    "vi": "một cơn gió nhẹ dịu dàng"
+                },
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,1127 @@
+[
+    {
+        "id": "9daf12c40ced4edfa39433ea25b6f045",
+        "word": "patch",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/pætʃ/",
+            "us": "/pætʃ/"
+        },
+        "nearby": [
+            {
+                "word": "pat",
+                "pos": "adverb"
+            },
+            {
+                "word": "Pat",
+                "pos": ""
+            },
+            {
+                "word": "patch",
+                "pos": "noun"
+            },
+            {
+                "word": "patch",
+                "pos": "verb"
+            },
+            {
+                "word": "patchily",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small area of something, especially one which is different from the area around it",
+                    "vi": "một khu vực nhỏ của thứ gì đó, đặc biệt là khu vực khác với khu vực xung quanh nó"
+                },
+                "examples": [
+                    {
+                        "en": "a black dog with a white patch on its back",
+                        "vi": "một con chó đen với một mảng trắng trên lưng"
+                    },
+                    {
+                        "en": "a bald patch on the top of his head",
+                        "vi": "một mảng hói trên đỉnh đầu của anh ấy"
+                    },
+                    {
+                        "en": "damp patches on the wall",
+                        "vi": "mảng ẩm trên tường"
+                    },
+                    {
+                        "en": "patches of dense fog",
+                        "vi": "những mảng sương mù dày đặc"
+                    },
+                    {
+                        "en": "We sat in a patch of shade under a tree.",
+                        "vi": "Chúng tôi ngồi trong một bóng râm dưới tán cây."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a small piece of material that is used to cover a hole in something or to make a weak area stronger, or as decoration",
+                    "vi": "một mảnh vật liệu nhỏ được sử dụng để che một lỗ trên vật gì đó hoặc để làm cho khu vực yếu trở nên mạnh mẽ hơn hoặc làm vật trang trí"
+                },
+                "examples": [
+                    {
+                        "en": "I sewed patches on the knees of my jeans.",
+                        "vi": "Tôi khâu những miếng vá trên đầu gối của chiếc quần jean của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a piece of material that you wear over an eye, usually because the eye is damaged",
+                    "vi": "một mảnh vật liệu mà bạn đeo trên mắt, thường là do mắt bị hỏng"
+                },
+                "examples": [
+                    {
+                        "en": "He had a black patch over one eye.",
+                        "vi": "Anh ta có một mảng đen trên một bên mắt."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a piece of material that you sew onto clothes as part of a uniform",
+                    "vi": "một phần vật liệu mà bạn may vào quần áo như một phần của đồng phục"
+                },
+                "examples": [
+                    {
+                        "en": "He wears a patch from his employer, Verizon.",
+                        "vi": "Anh ta mặc một miếng vá từ chủ của mình, Verizon."
+                    },
+                    {
+                        "en": "It has a UPS patch sewn on the right shoulder.",
+                        "vi": "Nó có một miếng vá UPS được khâu trên vai phải."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a piece of material that people can wear on their skin to help them to stop smoking",
+                    "vi": "một mảnh vật liệu mà mọi người có thể đeo trên da để giúp họ ngừng hút thuốc"
+                },
+                "examples": [
+                    {
+                        "en": "nicotine patches",
+                        "vi": "Những miếng dán Nicotine"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a small piece of land, especially one used for growing vegetables or fruit",
+                    "vi": "một mảnh đất nhỏ, đặc biệt là một mảnh đất được sử dụng để trồng rau hoặc trái cây"
+                },
+                "examples": [
+                    {
+                        "en": "a vegetable patch",
+                        "vi": "một vá rau"
+                    },
+                    {
+                        "en": "We had a strawberry patch beside the greenhouse.",
+                        "vi": "Chúng tôi có một vườn dâu tây bên cạnh nhà kính."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an area that somebody works in, knows well or comes from",
+                    "vi": "một khu vực mà ai đó làm việc, biết rõ hoặc đến từ"
+                },
+                "examples": [
+                    {
+                        "en": "He knows every house in his patch.",
+                        "vi": "Anh ấy biết mọi ngôi nhà trong bản vá của mình."
+                    },
+                    {
+                        "en": "She has had a lot of success in her home patch.",
+                        "vi": "Cô ấy đã gặt hái được nhiều thành công trong quá trình vá áo tại nhà của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a period of time of the type mentioned, usually a difficult or unhappy one",
+                    "vi": "một khoảng thời gian thuộc loại được đề cập, thường là khoảng thời gian khó khăn hoặc không hạnh phúc"
+                },
+                "examples": [
+                    {
+                        "en": "to go through a bad/difficult/sticky patch",
+                        "vi": "vượt qua một bản vá xấu / khó / dính"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a small piece of code (= instructions that a computer can understand) which can be added to a computer program to improve it or to correct a fault",
+                    "vi": "một đoạn mã nhỏ (= hướng dẫn mà máy tính có thể hiểu được) có thể được thêm vào chương trình máy tính để cải thiện chương trình đó hoặc sửa lỗi"
+                },
+                "examples": [
+                    {
+                        "en": "Follow the instructions below to download and install the patch.",
+                        "vi": "Làm theo hướng dẫn bên dưới để tải xuống và cài đặt bản vá."
+                    },
+                    {
+                        "en": "Update and apply all security patches to your browser, as soon as possible.",
+                        "vi": "Cập nhật và áp dụng tất cả các bản vá bảo mật cho trình duyệt của bạn, càng sớm càng tốt."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be much less good, attractive, etc. than somebody/something else",
+                    "vi": "kém tốt, hấp dẫn, v.v. hơn ai đó / cái gì khác"
+                },
+                "examples": [
+                    {
+                        "en": "This book isn’t a patch on her others.",
+                        "vi": "Cuốn sách này không phải là một bản vá của những cuốn sách khác của cô ấy."
+                    },
+                    {
+                        "en": "She was no great beauty. Not a patch on Martha.",
+                        "vi": "Cô ấy không có vẻ đẹp tuyệt vời. Không phải là một bản vá cho Martha."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "b88aa0867e4d4e829ae3d02060601f2a",
+        "word": "pixel",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpɪksl/",
+            "us": "/ˈpɪksl/"
+        },
+        "nearby": [
+            {
+                "word": "pivot on",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "pix",
+                "pos": "noun"
+            },
+            {
+                "word": "pixel",
+                "pos": "noun"
+            },
+            {
+                "word": "pixelate",
+                "pos": "verb"
+            },
+            {
+                "word": "pixie",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "any of the small individual areas on a computer screen, which together form the whole image",
+                    "vi": "bất kỳ khu vực riêng lẻ nhỏ nào trên màn hình máy tính, chúng cùng nhau tạo thành toàn bộ hình ảnh"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "b4ff79f342c24bdfbf96267152984626",
+        "word": "pixelate",
+        "pos": "verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpɪksəleɪt/",
+            "us": "/ˈpɪksəleɪt/"
+        },
+        "nearby": [
+            {
+                "word": "pix",
+                "pos": "noun"
+            },
+            {
+                "word": "pixel",
+                "pos": "noun"
+            },
+            {
+                "word": "pixelate",
+                "pos": "verb"
+            },
+            {
+                "word": "pixie",
+                "pos": "noun"
+            },
+            {
+                "word": "pizza",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to divide an image into pixels",
+                    "vi": "để chia một hình ảnh thành các pixel"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to show an unclear image on television, consisting of a small number of large pixels, especially in order to hide somebody’s identity",
+                    "vi": "để hiển thị hình ảnh không rõ ràng trên truyền hình, bao gồm một số lượng nhỏ pixel lớn, đặc biệt là để che giấu danh tính của ai đó"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "b05e2ad64ce24117b7ccd68bde0f5ed9",
+        "word": "Plug and Play",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌplʌɡ ən ˈpleɪ/",
+            "us": "/ˌplʌɡ ən ˈpleɪ/"
+        },
+        "nearby": [
+            {
+                "word": "plug",
+                "pos": "verb"
+            },
+            {
+                "word": "plug",
+                "pos": "noun"
+            },
+            {
+                "word": "Plug and Play",
+                "pos": "noun"
+            },
+            {
+                "word": "plug-and-play",
+                "pos": "adjective"
+            },
+            {
+                "word": "plug away",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a system that makes it possible for a piece of equipment, such as a printer, to be connected to a computer and to work immediately, without the user needing to do anything",
+                    "vi": "một hệ thống giúp một thiết bị, chẳng hạn như máy in, có thể được kết nối với máy tính và hoạt động ngay lập tức mà người dùng không cần phải làm gì cả"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "20cc82194f45477eb0901cc26a03cd97",
+        "word": "programmatically",
+        "pos": "adverb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌprəʊɡrəˈmætɪkli/",
+            "us": "/ˌprəʊɡrəˈmætɪkli/"
+        },
+        "nearby": [
+            {
+                "word": "programmable",
+                "pos": "adjective"
+            },
+            {
+                "word": "programmatic",
+                "pos": "adjective"
+            },
+            {
+                "word": "programmatically",
+                "pos": "adverb"
+            },
+            {
+                "word": "programme",
+                "pos": "noun"
+            },
+            {
+                "word": "programme",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "in a way that is connected with, suggests or follows a plan",
+                    "vi": "theo cách được kết nối với, đề xuất hoặc theo dõi một kế hoạch"
+                },
+                "examples": [
+                    {
+                        "en": "Programmatically, not a great deal separated the two parties in the electoral contest last year.",
+                        "vi": "Về mặt chương trình, không có gì to tát ngăn cách hai đảng trong cuộc tranh cử năm ngoái."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "by using a computer program",
+                    "vi": "bằng cách sử dụng một chương trình máy tính"
+                },
+                "examples": [
+                    {
+                        "en": "Is it better to make the change manually or programmatically?",
+                        "vi": "Thực hiện thay đổi theo cách thủ công hay theo chương trình sẽ tốt hơn?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4b611868f0cb49b288022c5e70ed21ed",
+        "word": "query language",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkwɪəri læŋɡwɪdʒ/",
+            "us": "/ˈkwɪri læŋɡwɪdʒ/"
+        },
+        "nearby": [
+            {
+                "word": "query",
+                "pos": "noun"
+            },
+            {
+                "word": "query",
+                "pos": "verb"
+            },
+            {
+                "word": "query language",
+                "pos": "noun"
+            },
+            {
+                "word": "quesadilla",
+                "pos": "noun"
+            },
+            {
+                "word": "quest",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a system of words and symbols that you type in order to ask a computer to give you information from a database or an information system",
+                    "vi": "một hệ thống các từ và ký hiệu mà bạn nhập để yêu cầu máy tính cung cấp cho bạn thông tin từ cơ sở dữ liệu hoặc hệ thống thông tin"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "729f060ff7e443c48155acfe887c5980",
+        "word": "reserved word",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/rɪˌzɜːvd ˈwɜːd/",
+            "us": "/rɪˌzɜːrvd ˈwɜːrd/"
+        },
+        "nearby": [
+            {
+                "word": "reserve bank",
+                "pos": "noun"
+            },
+            {
+                "word": "reserved",
+                "pos": "adjective"
+            },
+            {
+                "word": "reserved word",
+                "pos": "noun"
+            },
+            {
+                "word": "reservist",
+                "pos": "noun"
+            },
+            {
+                "word": "reservoir",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a word that has a special meaning to a computer program, and so cannot be used in other ways when entering data",
+                    "vi": "một từ có ý nghĩa đặc biệt đối với chương trình máy tính và do đó không thể được sử dụng theo những cách khác khi nhập dữ liệu"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "3606271b94ab4ce0a2e991aa33dca148",
+        "word": "retrieval",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/rɪˈtriːvl/",
+            "us": "/rɪˈtriːvl/"
+        },
+        "nearby": [
+            {
+                "word": "retributive",
+                "pos": "adjective"
+            },
+            {
+                "word": "retrievable",
+                "pos": "adjective"
+            },
+            {
+                "word": "retrieval",
+                "pos": "noun"
+            },
+            {
+                "word": "retrieve",
+                "pos": "verb"
+            },
+            {
+                "word": "retriever",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the process of getting something back, especially from a place where it should not be",
+                    "vi": "quá trình lấy lại thứ gì đó, đặc biệt là từ một nơi không nên có"
+                },
+                "examples": [
+                    {
+                        "en": "The ship was buried, beyond retrieval, at the bottom of the sea.",
+                        "vi": "Con tàu đã bị chôn vùi dưới đáy biển."
+                    },
+                    {
+                        "en": "beyond retrieval (figurative) By then the situation was beyond retrieval (= impossible to put right).",
+                        "vi": "Vượt quá khả năng truy xuất (nghĩa bóng) Đến lúc đó, tình huống vượt quá khả năng truy xuất (= không thể nói đúng được)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the process of getting back information that is stored on a computer",
+                    "vi": "quá trình lấy lại thông tin được lưu trữ trên máy tính"
+                },
+                "examples": [
+                    {
+                        "en": "methods of information retrieval",
+                        "vi": "phương pháp truy xuất thông tin"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "75cd8f80ab964389820d5ed786709c91",
+        "word": "script",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/skrɪpt/",
+            "us": "/skrɪpt/"
+        },
+        "nearby": [
+            {
+                "word": "scrimp",
+                "pos": "verb"
+            },
+            {
+                "word": "scrip",
+                "pos": "noun"
+            },
+            {
+                "word": "script",
+                "pos": "noun"
+            },
+            {
+                "word": "script",
+                "pos": "verb"
+            },
+            {
+                "word": "scripted",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a written text of a play, film, broadcast, talk, etc.",
+                    "vi": "một văn bản của một vở kịch, bộ phim, chương trình phát sóng, bài nói chuyện, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "That line isn't in the original script.",
+                        "vi": "Dòng đó không có trong kịch bản gốc."
+                    },
+                    {
+                        "en": "a film script",
+                        "vi": "một kịch bản phim"
+                    },
+                    {
+                        "en": "to write/read a script",
+                        "vi": "để viết / đọc một kịch bản"
+                    },
+                    {
+                        "en": "We're currently working on a script.",
+                        "vi": "Chúng tôi hiện đang làm việc trên một kịch bản."
+                    },
+                    {
+                        "en": "He was reading from a prepared script.",
+                        "vi": "Anh ấy đang đọc từ một kịch bản đã chuẩn bị sẵn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "writing done by hand",
+                    "vi": "viết bằng tay"
+                },
+                "examples": [
+                    {
+                        "en": "She admired his neat script.",
+                        "vi": "Cô ngưỡng mộ kịch bản gọn gàng của anh ta."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a set of letters in which a language is written",
+                    "vi": "một tập hợp các chữ cái trong đó một ngôn ngữ được viết"
+                },
+                "examples": [
+                    {
+                        "en": "a document in Cyrillic script (= used to write Russian and some other languages)",
+                        "vi": "một tài liệu bằng chữ viết Kirin (= dùng để viết tiếng Nga và một số ngôn ngữ khác)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a candidate’s written answer or answers in an exam",
+                    "vi": "câu trả lời bằng văn bản của ứng viên hoặc câu trả lời trong một kỳ thi"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a series of instructions for a computer, carried out in a particular order, for example when a link in a website is clicked",
+                    "vi": "một loạt các hướng dẫn cho máy tính, được thực hiện theo một thứ tự cụ thể, chẳng hạn như khi một liên kết trong một trang web được nhấp vào"
+                },
+                "examples": [
+                    {
+                        "en": "The bug was caused by an error in the script.",
+                        "vi": "Lỗi là do lỗi trong tập lệnh."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2641473f53c940da9f7cc035304edaca",
+        "word": "seek time",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈsiːk taɪm/",
+            "us": "/ˈsiːk taɪm/"
+        },
+        "nearby": [
+            {
+                "word": "seeker",
+                "pos": "noun"
+            },
+            {
+                "word": "seek out",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "seek time",
+                "pos": "noun"
+            },
+            {
+                "word": "seem",
+                "pos": "linking verb"
+            },
+            {
+                "word": "seeming",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the amount of time that a computer takes to find data",
+                    "vi": "lượng thời gian máy tính cần để tìm dữ liệu"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "ff1151848f59471f96f4c8bd95fb861b",
+        "word": "SGML",
+        "pos": "abbreviation",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌes dʒiː em ˈel/",
+            "us": "/ˌes dʒiː em ˈel/"
+        },
+        "nearby": [
+            {
+                "word": "SFO",
+                "pos": ""
+            },
+            {
+                "word": "SFX",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "SGML",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "Sgt",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "sh",
+                "pos": "exclamation"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "Standard Generalized Mark-up Language (a system used for marking text on a computer so that the text can be read on a different computer system or displayed in different forms)",
+                    "vi": "Ngôn ngữ đánh dấu tổng quát tiêu chuẩn (một hệ thống được sử dụng để đánh dấu văn bản trên máy tính để văn bản có thể được đọc trên một hệ thống máy tính khác hoặc được hiển thị ở các dạng khác nhau)"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "b8046adb017a4c7f816b974a772b50ad",
+        "word": "source code",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈsɔːs kəʊd/",
+            "us": "/ˈsɔːrs kəʊd/"
+        },
+        "nearby": [
+            {
+                "word": "source",
+                "pos": "verb"
+            },
+            {
+                "word": "sourcebook",
+                "pos": "noun"
+            },
+            {
+                "word": "source code",
+                "pos": "noun"
+            },
+            {
+                "word": "source program",
+                "pos": "noun"
+            },
+            {
+                "word": "sour cream",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a computer program written in text form that must be translated into another form, such as machine code, before it can run on a computer",
+                    "vi": "một chương trình máy tính được viết dưới dạng văn bản phải được dịch sang một dạng khác, chẳng hạn như mã máy, trước khi có thể chạy trên máy tính"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "f8a711c51f0c404b85ee28016cc680c7",
+        "word": "stack",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/stæk/",
+            "us": "/stæk/"
+        },
+        "nearby": [
+            {
+                "word": "staccato",
+                "pos": "adjective, adverb"
+            },
+            {
+                "word": "Stacey",
+                "pos": ""
+            },
+            {
+                "word": "stack",
+                "pos": "noun"
+            },
+            {
+                "word": "stack",
+                "pos": "verb"
+            },
+            {
+                "word": "stacked",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a pile of something, usually neatly arranged",
+                    "vi": "một đống thứ gì đó, thường được sắp xếp gọn gàng"
+                },
+                "examples": [
+                    {
+                        "en": "a stack of books",
+                        "vi": "một chồng sách"
+                    },
+                    {
+                        "en": "She added her tray to the stack.",
+                        "vi": "Cô ấy thêm khay của mình vào ngăn xếp."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a large number or amount of something; a lot of something",
+                    "vi": "một số lượng lớn hoặc số lượng của một cái gì đó; rất nhiều thứ"
+                },
+                "examples": [
+                    {
+                        "en": "stacks of money",
+                        "vi": "đống tiền"
+                    },
+                    {
+                        "en": "There's a stack of unopened mail waiting for you at the house.",
+                        "vi": "Có một chồng thư chưa mở đang đợi bạn ở nhà."
+                    },
+                    {
+                        "en": "I've got stacks of work to do.",
+                        "vi": "Tôi có nhiều việc phải làm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a tall chimney, especially on a factory",
+                    "vi": "một ống khói cao, đặc biệt là trong một nhà máy"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the part of a library, sometimes not open to the public, where books that are not often needed are stored",
+                    "vi": "một phần của thư viện, đôi khi không mở cửa cho công chúng, nơi lưu trữ những cuốn sách không thường xuyên cần thiết"
+                },
+                "examples": [
+                    {
+                        "en": "The books you need will have to be brought up from the stacks.",
+                        "vi": "Những cuốn sách bạn cần sẽ phải được mang lên từ các ngăn xếp."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a way of storing information in a computer in which the most recently stored item is the first to be retrieved (= found or got back)",
+                    "vi": "một cách lưu trữ thông tin trong máy tính, trong đó mục được lưu trữ gần đây nhất là mục đầu tiên được truy xuất (= tìm thấy hoặc lấy lại)"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a tall thin part of a cliff that has been separated from the land and stands on its own in the sea",
+                    "vi": "một phần cao gầy của vách đá tách khỏi đất liền và tự đứng trên biển"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to get very angry",
+                    "vi": "rất tức giận"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "0935bf208a574423bc6be3277750f638",
+        "word": "systems analysis",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌsɪstəmz əˈnæləsɪs/",
+            "us": "/ˌsɪstəmz əˈnæləsɪs/"
+        },
+        "nearby": [
+            {
+                "word": "systemically",
+                "pos": "adverb"
+            },
+            {
+                "word": "system operator",
+                "pos": "noun"
+            },
+            {
+                "word": "systems analysis",
+                "pos": "noun"
+            },
+            {
+                "word": "systems analyst",
+                "pos": "noun"
+            },
+            {
+                "word": "system unit",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the job of analysing the needs of a business company or an organization and then designing processes for working efficiently using computer programs",
+                    "vi": "công việc phân tích nhu cầu của một công ty kinh doanh hoặc một tổ chức và sau đó thiết kế các quy trình để làm việc hiệu quả bằng cách sử dụng các chương trình máy tính"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "ad40b6de96024eae92f6d012b3fcb715",
+        "word": "systems analyst",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌsɪstəmz ˈænəlɪst/",
+            "us": "/ˌsɪstəmz ˈænəlɪst/"
+        },
+        "nearby": [
+            {
+                "word": "system operator",
+                "pos": "noun"
+            },
+            {
+                "word": "systems analysis",
+                "pos": "noun"
+            },
+            {
+                "word": "systems analyst",
+                "pos": "noun"
+            },
+            {
+                "word": "system unit",
+                "pos": "noun"
+            },
+            {
+                "word": "systole",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person whose job is to analyse the needs of a business company or an organization and then design processes for working efficiently using computer programs",
+                    "vi": "một người có công việc là phân tích nhu cầu của một công ty kinh doanh hoặc một tổ chức và sau đó thiết kế các quy trình để làm việc hiệu quả bằng cách sử dụng các chương trình máy tính"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "bf63a834eb4c4fb8a60da8dc51ca69ee",
+        "word": "timestamp",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtaɪmstæmp/",
+            "us": "/ˈtaɪmstæmp/"
+        },
+        "nearby": [
+            {
+                "word": "Times Square",
+                "pos": ""
+            },
+            {
+                "word": "times table",
+                "pos": "noun"
+            },
+            {
+                "word": "timestamp",
+                "pos": "noun"
+            },
+            {
+                "word": "timestamp",
+                "pos": "verb"
+            },
+            {
+                "word": "time switch",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a mark or record that shows when something happened, especially a digital record of when something was done in a computer or other electronic system",
+                    "vi": "một nhãn hiệu hoặc bản ghi cho biết thời điểm điều gì đó xảy ra, đặc biệt là bản ghi kỹ thuật số về thời điểm điều gì đó được thực hiện trong máy tính hoặc hệ thống điện tử khác"
+                },
+                "examples": [
+                    {
+                        "en": "Every message you send has a location and timestamp on it.",
+                        "vi": "Mỗi tin nhắn bạn gửi đều có vị trí và dấu thời gian trên đó."
+                    },
+                    {
+                        "en": "The timestamp on the video shows 4.45 a.m. on the morning of January 2nd.",
+                        "vi": "Dấu thời gian trên video hiển thị 4 giờ 45 phút sáng ngày 2 tháng 1."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e1058ef76c724ab4a23556e44fe44e8f",
+        "word": "timestamp",
+        "pos": "verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtaɪmstæmp/",
+            "us": "/ˈtaɪmstæmp/"
+        },
+        "nearby": [
+            {
+                "word": "times table",
+                "pos": "noun"
+            },
+            {
+                "word": "timestamp",
+                "pos": "noun"
+            },
+            {
+                "word": "timestamp",
+                "pos": "verb"
+            },
+            {
+                "word": "time switch",
+                "pos": "noun"
+            },
+            {
+                "word": "timetable",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to mark something with a record that shows when something happened, especially a digital record of when something was done in a computer or other electronic system",
+                    "vi": "để đánh dấu điều gì đó bằng bản ghi cho biết thời điểm điều gì đó xảy ra, đặc biệt là bản ghi kỹ thuật số về thời điểm điều gì đó được thực hiện trong máy tính hoặc hệ thống điện tử khác"
+                },
+                "examples": [
+                    {
+                        "en": "The software will timestamp any revisions and preserve all the previously saved versions.",
+                        "vi": "Phần mềm sẽ đánh dấu thời gian cho bất kỳ bản sửa đổi nào và bảo toàn tất cả các phiên bản đã lưu trước đó."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "286fc6beb4534edba75f41defb8248f4",
+        "word": "unencrypted",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌʌnɪnˈkrɪptɪd/",
+            "us": "/ˌʌnɪnˈkrɪptɪd/"
+        },
+        "nearby": [
+            {
+                "word": "unemployment",
+                "pos": "noun"
+            },
+            {
+                "word": "unemployment benefit",
+                "pos": "noun"
+            },
+            {
+                "word": "unencrypted",
+                "pos": "adjective"
+            },
+            {
+                "word": "unencumbered",
+                "pos": "adjective"
+            },
+            {
+                "word": "unending",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "not put into a special code that would prevent people from looking at it without authority",
+                    "vi": "không được đưa vào một mã đặc biệt có thể ngăn mọi người nhìn vào nó khi không có thẩm quyền"
+                },
+                "examples": [
+                    {
+                        "en": "The communication unit recieves the image data which is either encrypted or unencrypted.",
+                        "vi": "Đơn vị giao tiếp nhận dữ liệu hình ảnh được mã hóa hoặc không được mã hóa."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "fbbdef7789564363b27ae9d33ae48412",
+        "word": "XML",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌeks em ˈel/",
+            "us": "/ˌeks em ˈel/"
+        },
+        "nearby": [
+            {
+                "word": "xlnt",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "Xmas",
+                "pos": "noun"
+            },
+            {
+                "word": "XML",
+                "pos": "noun"
+            },
+            {
+                "word": "XP",
+                "pos": "noun"
+            },
+            {
+                "word": "X-rated",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "Extensible Markup Language (a system used for marking the structure of text on a computer, for example when creating website pages)",
+                    "vi": "Ngôn ngữ đánh dấu có thể mở rộng (một hệ thống được sử dụng để đánh dấu cấu trúc của văn bản trên máy tính, ví dụ khi tạo các trang web)"
+                },
+                "examples": []
+            }
+        ]
+    }
+]

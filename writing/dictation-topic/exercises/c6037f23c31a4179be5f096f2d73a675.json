@@ -1,0 +1,177 @@
+{
+    "id": "c6037f23c31a4179be5f096f2d73a675",
+    "title": "On the Phone",
+    "questions": [
+        {
+            "id": "0109225c33a34591ad9d4a80da6573c1",
+            "text": "Good morning, Scott and Smith Law Office. May I help you?",
+            "items": [
+                "Good",
+                "morning,",
+                "Scott",
+                "and",
+                "Smith",
+                "Law",
+                "Office.",
+                "May",
+                "I",
+                "help",
+                "you?"
+            ]
+        },
+        {
+            "id": "99de0313805b462ea8cf216eabada188",
+            "text": "Yes. May I speak to David Waller, please?",
+            "items": [
+                "Yes.",
+                "May",
+                "I",
+                "speak",
+                "to",
+                "David",
+                "Waller,",
+                "please?"
+            ]
+        },
+        {
+            "id": "17bfd4d8a3194c3d82e2e4240f51648d",
+            "text": "I'm sorry, he isn't here yet. May I take a message?",
+            "items": [
+                "I'm",
+                "sorry,",
+                "he",
+                "isn't",
+                "here",
+                "yet.",
+                "May",
+                "I",
+                "take",
+                "a",
+                "message?"
+            ]
+        },
+        {
+            "id": "0fb54fb41ce94c3899136d7238531ca7",
+            "text": "Yes. Could you ask him to call Marjorie Vale?",
+            "items": [
+                "Yes.",
+                "Could",
+                "you",
+                "ask",
+                "him",
+                "to",
+                "call",
+                "Marjorie",
+                "Vale?"
+            ]
+        },
+        {
+            "id": "69c66b0e2ecb4da8a98a8d6ebc4a418d",
+            "text": "How do you spell your last name?",
+            "items": [
+                "How",
+                "do",
+                "you",
+                "spell",
+                "your",
+                "last",
+                "name?"
+            ]
+        },
+        {
+            "id": "3338b52cc903447b8ee1031a64ef9c7f",
+            "text": "V-A-L-E.",
+            "items": [
+                [
+                    "V-A-L-E.",
+                    "V A L E."
+                ]
+            ]
+        },
+        {
+            "id": "b264c30a0e8241e5ba9b280678abf5ec",
+            "text": "What's your phone number? Does Mr. Waller have it?",
+            "items": [
+                "What's",
+                "your",
+                "phone",
+                "number?",
+                "Does",
+                "Mr.",
+                "Waller",
+                "have",
+                "it?"
+            ]
+        },
+        {
+            "id": "78e0040324774706a8917a4480e0fb29",
+            "text": "Uh, no, he doesn't.",
+            "items": [
+                "Uh,",
+                "no,",
+                "he",
+                "doesn't."
+            ]
+        },
+        {
+            "id": "94c3191f06dd4362acfd418d4ebc10a5",
+            "text": "It's 680-5290.",
+            "items": [
+                "It's",
+                [
+                    "680-5290.",
+                    "680 5290."
+                ]
+            ]
+        },
+        {
+            "id": "68eadd3cb90248ecae4e7fdc8e550f37",
+            "text": "I'm sorry, could you repeat that?",
+            "items": [
+                "I'm",
+                "sorry,",
+                "could",
+                "you",
+                "repeat",
+                "that?"
+            ]
+        },
+        {
+            "id": "b30a9ea3805c4ca8a4f25bcc586ebbe5",
+            "text": "680-5290.",
+            "items": [
+                [
+                    "680-5290.",
+                    "680 5290."
+                ]
+            ]
+        },
+        {
+            "id": "7092a3608c4148b49288f5aec6099235",
+            "text": "I'll give him the message.",
+            "items": [
+                "I'll",
+                "give",
+                "him",
+                "the",
+                "message."
+            ]
+        },
+        {
+            "id": "c575c2e966bc48d2bbe4d4e28b7dcfcb",
+            "text": "Thank you.",
+            "items": [
+                "Thank",
+                "you."
+            ]
+        },
+        {
+            "id": "05e1aaf8cf3142e9b5f2e3645ec28c4b",
+            "text": "You're welcome.",
+            "items": [
+                "You're",
+                "welcome."
+            ]
+        }
+    ]
+}

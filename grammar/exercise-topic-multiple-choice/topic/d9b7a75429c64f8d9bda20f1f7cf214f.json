@@ -1,0 +1,72 @@
+{
+    "id": "d9b7a75429c64f8d9bda20f1f7cf214f",
+    "title": "Transforming negative sentences into the affirmative",
+    "exercises": [
+        {
+            "id": "979012277ec64cc5ab1cf19bc54b73b4",
+            "title": "No Sooner Than And As Soon As",
+            "questions": [
+                {
+                    "question": "No sooner had I reached the station .............................. the train left.",
+                    "description": "",
+                    "answers": [
+                        "than",
+                        "then",
+                        "when"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "No sooner ................................... the umpire given the batsman out than the crowd rushed on to the field.",
+                    "description": "",
+                    "answers": [
+                        "had",
+                        "did",
+                        "Either could be used here"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "No sooner ................................... the thief run out of the jail than the guard fired at him.",
+                    "description": "",
+                    "answers": [
+                        "had",
+                        "did",
+                        "have"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "................................... I reached the station, the train left.",
+                    "description": "",
+                    "answers": [
+                        "As soon as",
+                        "Hardly",
+                        "Scarcely"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Hardly ................................. the umpire given the batsman out when the crowd rushed on to the field.",
+                    "description": "",
+                    "answers": [
+                        "had",
+                        "did",
+                        "Either could be used here"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "..................................... the thief ran out of the jail, the guard fired at him.",
+                    "description": "",
+                    "answers": [
+                        "Hardly",
+                        "As soon as",
+                        "Scarcely"
+                    ],
+                    "correct": 1
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4863 @@
+[
+    {
+        "id": "6fdf2f8f021849a8a34e887075d24886",
+        "word": "group",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ɡruːp/",
+            "us": "/ɡruːp/"
+        },
+        "nearby": [
+            {
+                "word": "groundwork",
+                "pos": "noun"
+            },
+            {
+                "word": "ground zero",
+                "pos": "noun"
+            },
+            {
+                "word": "group",
+                "pos": "noun"
+            },
+            {
+                "word": "group",
+                "pos": "verb"
+            },
+            {
+                "word": "group captain",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a number of people or things that are together in the same place or that are connected in some way",
+                    "vi": "một số người hoặc những thứ ở cùng một nơi hoặc được kết nối theo một cách nào đó"
+                },
+                "examples": [
+                    {
+                        "en": "group of somebody/something a group of people/students/friends",
+                        "vi": "nhóm ai đó / cái gì đó một nhóm người / sinh viên / bạn bè"
+                    },
+                    {
+                        "en": "A group of us are going to the theatre this evening.",
+                        "vi": "Một nhóm chúng tôi sẽ đến rạp hát tối nay."
+                    },
+                    {
+                        "en": "a group of islands in the Indian ocean",
+                        "vi": "một nhóm các hòn đảo ở Ấn Độ Dương"
+                    },
+                    {
+                        "en": "English is a member of the Germanic group of languages.",
+                        "vi": "Tiếng Anh là một thành viên của nhóm ngôn ngữ Đức."
+                    },
+                    {
+                        "en": "in groups People were standing around in small groups.",
+                        "vi": "theo nhóm Mọi người đứng xung quanh thành từng nhóm nhỏ."
+                    },
+                    {
+                        "en": "as a group The gorillas go foraging for food as a group.",
+                        "vi": "như một nhóm Những con khỉ đột đi kiếm ăn như một nhóm."
+                    },
+                    {
+                        "en": "The proportion of single-parent families varies between different income groups.",
+                        "vi": "Tỷ lệ các gia đình đơn thân làm cha mẹ khác nhau giữa các nhóm thu nhập khác nhau."
+                    },
+                    {
+                        "en": "Members of some ethnic groups say that the law is discriminatory.",
+                        "vi": "Các thành viên của một số nhóm dân tộc nói rằng luật pháp là phân biệt đối xử."
+                    },
+                    {
+                        "en": "Disabled drivers are an ever-growing minority group.",
+                        "vi": "Người lái xe khuyết tật là một nhóm thiểu số ngày càng gia tăng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a number of people who work or do something together or share particular beliefs",
+                    "vi": "một số người làm việc hoặc làm điều gì đó cùng nhau hoặc chia sẻ niềm tin cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "The residents formed a community action group.",
+                        "vi": "Các cư dân đã thành lập một nhóm hành động cộng đồng."
+                    },
+                    {
+                        "en": "I've joined a writing group.",
+                        "vi": "Tôi đã tham gia một nhóm viết."
+                    },
+                    {
+                        "en": "a research/study/discussion group",
+                        "vi": "một nhóm nghiên cứu / học tập / thảo luận"
+                    },
+                    {
+                        "en": "a human rights group",
+                        "vi": "một nhóm nhân quyền"
+                    },
+                    {
+                        "en": "a militant/rebel/terrorist group",
+                        "vi": "một nhóm dân quân / phiến quân / khủng bố"
+                    },
+                    {
+                        "en": "Other members of the group agree.",
+                        "vi": "Các thành viên khác trong nhóm đồng ý."
+                    },
+                    {
+                        "en": "group of somebody She leads a group of scientists at the Medical Research Centre.",
+                        "vi": "nhóm người nào đó Cô ấy dẫn đầu một nhóm các nhà khoa học tại Trung tâm Nghiên cứu Y khoa."
+                    },
+                    {
+                        "en": "in a group There are fifteen of us in the group.",
+                        "vi": "trong một nhóm Có mười lăm người trong chúng tôi trong nhóm."
+                    },
+                    {
+                        "en": "to work in groups",
+                        "vi": "làm việc theo nhóm"
+                    },
+                    {
+                        "en": "into groups The students were divided into groups of four.",
+                        "vi": "thành các nhóm Các học sinh được chia thành các nhóm bốn người."
+                    },
+                    {
+                        "en": "Classes will involve both individual and group activities.",
+                        "vi": "Các lớp học sẽ bao gồm cả hoạt động cá nhân và hoạt động nhóm."
+                    },
+                    {
+                        "en": "Only group members are allowed to vote.",
+                        "vi": "Chỉ các thành viên trong nhóm mới được phép bỏ phiếu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a number of companies that are owned by the same person or organization",
+                    "vi": "một số công ty được sở hữu bởi cùng một người hoặc một tổ chức"
+                },
+                "examples": [
+                    {
+                        "en": "This acquisition will make them the largest newspaper group in the world.",
+                        "vi": "Việc mua lại này sẽ đưa họ trở thành tập đoàn báo chí lớn nhất thế giới."
+                    },
+                    {
+                        "en": "The Burton group announced its quarterly figures yesterday.",
+                        "vi": "Tập đoàn Burton đã công bố số liệu hàng quý vào ngày hôm qua."
+                    },
+                    {
+                        "en": "Our group sales director attended the conference in Munich this year.",
+                        "vi": "Giám đốc kinh doanh nhóm của chúng tôi đã tham dự hội nghị ở Munich năm nay."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a number of musicians who perform together, especially to play pop music",
+                    "vi": "một số nhạc sĩ biểu diễn cùng nhau, đặc biệt là chơi nhạc pop"
+                },
+                "examples": [
+                    {
+                        "en": "She sings in a rock group.",
+                        "vi": "Cô ấy hát trong một nhóm nhạc rock."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "253b363556ac46328ac5bc3a824bb870",
+        "word": "community",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/kəˈmjuːnəti/",
+            "us": "/kəˈmjuːnəti/"
+        },
+        "nearby": [
+            {
+                "word": "the Communist Party of Britain",
+                "pos": ""
+            },
+            {
+                "word": "the Communist Party of the United States of America",
+                "pos": ""
+            },
+            {
+                "word": "community",
+                "pos": "noun"
+            },
+            {
+                "word": "community care",
+                "pos": "noun"
+            },
+            {
+                "word": "community centre",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "all the people who live in a particular area, country, etc. when talked about as a group",
+                    "vi": "tất cả những người sống ở một khu vực, quốc gia cụ thể, v.v. khi được nói đến như một nhóm"
+                },
+                "examples": [
+                    {
+                        "en": "The local community supported us from the start.",
+                        "vi": "Cộng đồng địa phương đã hỗ trợ chúng tôi ngay từ đầu."
+                    },
+                    {
+                        "en": "the international community (= the countries of the world as a group)",
+                        "vi": "cộng đồng quốc tế (= các quốc gia trên thế giới như một nhóm)"
+                    },
+                    {
+                        "en": "It is hoped that the campaign will encourage members of the community to get active.",
+                        "vi": "Hy vọng rằng chiến dịch sẽ khuyến khích các thành viên của cộng đồng hoạt động tích cực."
+                    },
+                    {
+                        "en": "the problems faced by rural communities",
+                        "vi": "những vấn đề mà cộng đồng nông thôn phải đối mặt"
+                    },
+                    {
+                        "en": "good community relations with the police",
+                        "vi": "quan hệ cộng đồng tốt với cảnh sát"
+                    },
+                    {
+                        "en": "community groups/leaders",
+                        "vi": "nhóm / lãnh đạo cộng đồng"
+                    },
+                    {
+                        "en": "in/within the community health workers based in the community (= working with people in a local area)",
+                        "vi": "trong / trong cộng đồng nhân viên y tế tại cộng đồng (= làm việc với người dân trong khu vực địa phương)"
+                    },
+                    {
+                        "en": "(North American English) community parks/libraries (= paid for by the local town/city)",
+                        "vi": "(Tiếng Anh Bắc Mỹ) công viên / thư viện cộng đồng (= do thị trấn / thành phố địa phương chi trả)"
+                    },
+                    {
+                        "en": "the wider/entire/whole community",
+                        "vi": "rộng hơn / toàn bộ / toàn bộ cộng đồng"
+                    },
+                    {
+                        "en": "She comes from a small island community.",
+                        "vi": "Cô ấy đến từ một cộng đồng nhỏ trên đảo."
+                    },
+                    {
+                        "en": "Our aim is to serve the community.",
+                        "vi": "Mục đích của chúng tôi là phục vụ cộng đồng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a group of people who share the same religion, race, job, etc.",
+                    "vi": "một nhóm người có cùng tôn giáo, chủng tộc, công việc, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "the Polish community in London",
+                        "vi": "cộng đồng người Ba Lan ở London"
+                    },
+                    {
+                        "en": "the business/scientific community",
+                        "vi": "cộng đồng kinh doanh / khoa học"
+                    },
+                    {
+                        "en": "the Muslim/Jewish/Christian community",
+                        "vi": "cộng đồng Hồi giáo / Do Thái / Cơ đốc giáo"
+                    },
+                    {
+                        "en": "the gay community",
+                        "vi": "cộng đồng đồng tính nam"
+                    },
+                    {
+                        "en": "the intelligence community (= all the people whose job is to collect secret information)",
+                        "vi": "cộng đồng tình báo (= tất cả những người có công việc là thu thập thông tin bí mật)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the feeling of sharing things and belonging to a group in the place where you live",
+                    "vi": "cảm giác được chia sẻ mọi thứ và thuộc về một nhóm ở nơi bạn sống"
+                },
+                "examples": [
+                    {
+                        "en": "There is a strong sense of community here.",
+                        "vi": "Có một ý thức cộng đồng mạnh mẽ ở đây."
+                    },
+                    {
+                        "en": "The town has a strong community spirit.",
+                        "vi": "Thị trấn có một tinh thần cộng đồng mạnh mẽ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a group of people who live together and all equally own and share what they have",
+                    "vi": "một nhóm người sống cùng nhau và tất cả đều sở hữu và chia sẻ những gì họ có"
+                },
+                "examples": [
+                    {
+                        "en": "The nuns live in a closed community.",
+                        "vi": "Các nữ tu sống trong một cộng đồng khép kín."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a group of plants and animals growing or living in the same place or environment",
+                    "vi": "một nhóm thực vật và động vật phát triển hoặc sống ở cùng một nơi hoặc cùng một môi trường"
+                },
+                "examples": [
+                    {
+                        "en": "a community fish tank",
+                        "vi": "một bể cá cộng đồng"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3862712b5f6245f98705b16bb89adcae",
+        "word": "organization",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/ˌɔːɡənaɪˈzeɪʃn/",
+            "us": "/ˌɔːrɡənəˈzeɪʃn/"
+        },
+        "nearby": [
+            {
+                "word": "organism",
+                "pos": "noun"
+            },
+            {
+                "word": "organist",
+                "pos": "noun"
+            },
+            {
+                "word": "organization",
+                "pos": "noun"
+            },
+            {
+                "word": "organizational",
+                "pos": "adjective"
+            },
+            {
+                "word": "organizationally",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a group of people who form a business, club, etc. together in order to achieve a particular aim",
+                    "vi": "một nhóm người cùng nhau thành lập một doanh nghiệp, câu lạc bộ, v.v. để đạt được một mục tiêu cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "He's the president of a large international organization.",
+                        "vi": "Anh ấy là chủ tịch của một tổ chức quốc tế lớn."
+                    },
+                    {
+                        "en": "She works with local community organizations.",
+                        "vi": "Cô làm việc với các tổ chức cộng đồng địa phương."
+                    },
+                    {
+                        "en": "a voluntary/non-profit/non-governmental organization",
+                        "vi": "một tổ chức tự nguyện / phi lợi nhuận / phi chính phủ"
+                    },
+                    {
+                        "en": "a news/media organization",
+                        "vi": "một tổ chức tin tức / truyền thông"
+                    },
+                    {
+                        "en": "The Mafia began as a secret terrorist organization.",
+                        "vi": "Mafia bắt đầu là một tổ chức khủng bố bí mật."
+                    },
+                    {
+                        "en": "Sarah joined a student organization.",
+                        "vi": "Sarah tham gia một tổ chức sinh viên."
+                    },
+                    {
+                        "en": "to found/form/establish an organization",
+                        "vi": "thành lập / hình thành / thành lập một tổ chức"
+                    },
+                    {
+                        "en": "The organization provides housing and support services for homeless young people.",
+                        "vi": "Tổ chức cung cấp nhà ở và các dịch vụ hỗ trợ cho những người trẻ vô gia cư."
+                    },
+                    {
+                        "en": "the World Health Organization",
+                        "vi": "Tổ chức y tế thế giới"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the act of making arrangements or preparations for something",
+                    "vi": "hành động sắp xếp hoặc chuẩn bị cho một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "I leave most of the organization of these conferences to my assistant.",
+                        "vi": "Tôi giao hầu hết việc tổ chức các hội nghị này cho trợ lý của mình."
+                    },
+                    {
+                        "en": "A wedding on that scale takes a lot of organization.",
+                        "vi": "Một đám cưới quy mô như vậy cần rất nhiều công sức tổ chức."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the way in which the different parts of something are arranged",
+                    "vi": "cách mà các phần khác nhau của một cái gì đó được sắp xếp"
+                },
+                "examples": [
+                    {
+                        "en": "The report studies the organization of labour within the company.",
+                        "vi": "Báo cáo nghiên cứu việc tổ chức lao động trong công ty."
+                    },
+                    {
+                        "en": "They experimented with new forms of social organization.",
+                        "vi": "Họ đã thử nghiệm các hình thức tổ chức xã hội mới."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the quality of being arranged in a neat, careful and logical way",
+                    "vi": "chất lượng của việc sắp xếp một cách ngăn nắp, cẩn thận và hợp lý"
+                },
+                "examples": [
+                    {
+                        "en": "She is highly intelligent but her work lacks organization.",
+                        "vi": "Cô ấy rất thông minh nhưng công việc của cô ấy thiếu tổ chức."
+                    },
+                    {
+                        "en": "The website would be more effective with better organization.",
+                        "vi": "Trang web sẽ hiệu quả hơn với tổ chức tốt hơn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e55c2bf0c47f4d229e733e4f241f1e05",
+        "word": "public",
+        "pos": "adjective",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/ˈpʌblɪk/",
+            "us": "/ˈpʌblɪk/"
+        },
+        "nearby": [
+            {
+                "word": "pubic",
+                "pos": "adjective"
+            },
+            {
+                "word": "pubis",
+                "pos": "noun"
+            },
+            {
+                "word": "public",
+                "pos": "adjective"
+            },
+            {
+                "word": "public",
+                "pos": "noun"
+            },
+            {
+                "word": "public access",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "connected with ordinary people in society in general",
+                    "vi": "kết nối với những người bình thường trong xã hội nói chung"
+                },
+                "examples": [
+                    {
+                        "en": "The campaign is designed to increase public awareness of the issues.",
+                        "vi": "Chiến dịch được thiết kế để nâng cao nhận thức của cộng đồng về các vấn đề này."
+                    },
+                    {
+                        "en": "Levels of waste from the factory may be a danger to public health.",
+                        "vi": "Mức độ chất thải từ nhà máy có thể gây nguy hiểm cho sức khỏe cộng đồng."
+                    },
+                    {
+                        "en": "Public safety must come first.",
+                        "vi": "An toàn công cộng phải đặt lên hàng đầu."
+                    },
+                    {
+                        "en": "Why would the closure of hospitals be in the public interest (= useful to ordinary people)?",
+                        "vi": "Tại sao việc đóng cửa các bệnh viện lại vì lợi ích công cộng (= hữu ích cho những người bình thường)?"
+                    },
+                    {
+                        "en": "The government had to bow to public pressure.",
+                        "vi": "Chính phủ đã phải cúi đầu trước áp lực của dư luận."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "provided, especially by the government, for the use of people in general",
+                    "vi": "được cung cấp, đặc biệt bởi chính phủ, để người dân nói chung sử dụng"
+                },
+                "examples": [
+                    {
+                        "en": "a public education system",
+                        "vi": "hệ thống giáo dục công lập"
+                    },
+                    {
+                        "en": "a public library",
+                        "vi": "một thư viện công cộng"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "connected with the government and the services it provides",
+                    "vi": "được kết nối với chính phủ và các dịch vụ mà chính phủ cung cấp"
+                },
+                "examples": [
+                    {
+                        "en": "public money/spending/funding",
+                        "vi": "tiền công / chi tiêu / tài trợ"
+                    },
+                    {
+                        "en": "He spent much of his career in public office (= working in the government).",
+                        "vi": "Ông đã dành phần lớn sự nghiệp của mình trong các văn phòng công quyền (= làm việc trong chính phủ)."
+                    },
+                    {
+                        "en": "(British English) the public purse (= the money that the government can spend)",
+                        "vi": "(Tiếng Anh Anh) ví công cộng (= số tiền mà chính phủ có thể chi tiêu)"
+                    },
+                    {
+                        "en": "The rail industry is no longer in public ownership (= controlled by the government).",
+                        "vi": "Ngành đường sắt không còn thuộc sở hữu công cộng (= do chính phủ kiểm soát)."
+                    },
+                    {
+                        "en": "Schools are worried about public spending cuts.",
+                        "vi": "Các trường học đang lo lắng về việc cắt giảm chi tiêu công."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "known to people in general",
+                    "vi": "được mọi người nói chung biết đến"
+                },
+                "examples": [
+                    {
+                        "en": "Details of the government report have not yet been made public.",
+                        "vi": "Chi tiết về báo cáo của chính phủ vẫn chưa được công bố rộng rãi."
+                    },
+                    {
+                        "en": "a public figure (= a person who is well known because they are often on the television, radio, etc.)",
+                        "vi": "một nhân vật của công chúng (= một người được nhiều người biết đến vì họ thường xuyên xuất hiện trên truyền hình, đài phát thanh, v.v.)"
+                    },
+                    {
+                        "en": "She entered public life (= started a job in which she became known to the public) at the age of 25.",
+                        "vi": "Cô ấy bước vào cuộc sống công cộng (= bắt đầu một công việc mà cô ấy được công chúng biết đến) năm 25 tuổi."
+                    },
+                    {
+                        "en": "This latest scandal will not have done their public image (= the opinion that people have of them) any good.",
+                        "vi": "Vụ bê bối mới nhất này sẽ không ảnh hưởng đến công chúng của họ (= ý kiến mà mọi người có về họ) bất kỳ tốt đẹp nào."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "open to people in general; intended to be seen or heard by people in general",
+                    "vi": "cởi mở với mọi người nói chung; dự định để mọi người nhìn thấy hoặc nghe thấy"
+                },
+                "examples": [
+                    {
+                        "en": "There is a ban on smoking in public places.",
+                        "vi": "Có biển cấm hút thuốc nơi công cộng."
+                    },
+                    {
+                        "en": "A public meeting to discuss the issue will be held tomorrow night.",
+                        "vi": "Một cuộc họp công khai để thảo luận về vấn đề này sẽ được tổ chức vào tối mai."
+                    },
+                    {
+                        "en": "The company was forced to issue a public apology.",
+                        "vi": "Công ty buộc phải đưa ra lời xin lỗi công khai."
+                    },
+                    {
+                        "en": "The painting will be put on public display next week.",
+                        "vi": "Bức tranh sẽ được trưng bày trước công chúng vào tuần sau."
+                    },
+                    {
+                        "en": "This may be the band's last public appearance together.",
+                        "vi": "Đây có thể là lần xuất hiện công khai cuối cùng của ban nhạc cùng nhau."
+                    },
+                    {
+                        "en": "The reception and other public areas have been refurbished.",
+                        "vi": "Lễ tân và các khu vực chung khác đã được tân trang lại."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "where there are a lot of people who can see and hear you",
+                    "vi": "nơi có rất nhiều người có thể nhìn thấy và nghe thấy bạn"
+                },
+                "examples": [
+                    {
+                        "en": "Let's go somewhere a little less public.",
+                        "vi": "Hãy đến một nơi nào đó ít công khai hơn một chút."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be something that everyone knows, especially in a particular community or group",
+                    "vi": "trở thành thứ mà mọi người đều biết, đặc biệt là trong một cộng đồng hoặc một nhóm cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "Their relationship is common knowledge.",
+                        "vi": "Mối quan hệ của họ là kiến thức chung."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to tell people about something that is a secret",
+                    "vi": "nói với mọi người về điều gì đó là bí mật"
+                },
+                "examples": [
+                    {
+                        "en": "A court order failed to stop her going public with the story.",
+                        "vi": "Một lệnh tòa không ngăn được cô ấy công khai câu chuyện."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to start selling shares on the stock exchange",
+                    "vi": "bắt đầu bán cổ phiếu trên thị trường chứng khoán"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "well known to many people through television, newspapers, the internet, etc.",
+                    "vi": "được nhiều người biết đến qua tivi, báo chí, mạng internet, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "She doesn't want her children growing up in the public eye.",
+                        "vi": "Cô ấy không muốn con mình lớn lên trong mắt công chúng."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0834e66ec0934fbc875dcde9b9a39839",
+        "word": "public",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/ˈpʌblɪk/",
+            "us": "/ˈpʌblɪk/"
+        },
+        "nearby": [
+            {
+                "word": "pubis",
+                "pos": "noun"
+            },
+            {
+                "word": "public",
+                "pos": "adjective"
+            },
+            {
+                "word": "public",
+                "pos": "noun"
+            },
+            {
+                "word": "public access",
+                "pos": "noun"
+            },
+            {
+                "word": "public access channel",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "ordinary people in society in general",
+                    "vi": "những người bình thường trong xã hội nói chung"
+                },
+                "examples": [
+                    {
+                        "en": "The palace is now open to the public.",
+                        "vi": "Cung điện hiện đã mở cửa cho công chúng tham quan."
+                    },
+                    {
+                        "en": "There have been many complaints from members of the public.",
+                        "vi": "Đã có rất nhiều lời phàn nàn từ các thành viên của công chúng."
+                    },
+                    {
+                        "en": "The public has/have a right to know what is contained in the report.",
+                        "vi": "Công chúng có / có quyền biết những gì có trong báo cáo."
+                    },
+                    {
+                        "en": "The campaign aims to educate the public about the dangers of solvent abuse.",
+                        "vi": "Chiến dịch nhằm mục đích giáo dục công chúng về sự nguy hiểm của việc lạm dụng dung môi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a group of people who share a particular interest or who are involved in the same activity",
+                    "vi": "một nhóm những người có chung mối quan tâm cụ thể hoặc những người tham gia vào cùng một hoạt động"
+                },
+                "examples": [
+                    {
+                        "en": "the theatre-going public",
+                        "vi": "công chúng đến rạp hát"
+                    },
+                    {
+                        "en": "She is an author who knows how to keep her public (= the people who buy her books) satisfied.",
+                        "vi": "Cô ấy là một tác giả biết cách khiến công chúng (= những người mua sách của cô ấy) hài lòng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to discuss your personal affairs in public, especially something embarrassing",
+                    "vi": "để thảo luận về công việc cá nhân của bạn ở nơi công cộng, đặc biệt là điều gì đó đáng xấu hổ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "when other people, especially people you do not know, are present",
+                    "vi": "khi những người khác, đặc biệt là những người bạn không biết, có mặt"
+                },
+                "examples": [
+                    {
+                        "en": "She doesn't like to be seen in public without her make-up on.",
+                        "vi": "Cô ấy không thích xuất hiện trước công chúng mà không trang điểm."
+                    },
+                    {
+                        "en": "They never argue in public.",
+                        "vi": "Họ không bao giờ tranh cãi ở nơi công cộng."
+                    },
+                    {
+                        "en": "He rarely appears in public these days.",
+                        "vi": "Anh ấy hiếm khi xuất hiện trước công chúng những ngày này."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e9390695311c41a9839a3d22cd1ca403",
+        "word": "society",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/səˈsaɪəti/",
+            "us": "/səˈsaɪəti/"
+        },
+        "nearby": [
+            {
+                "word": "social worker",
+                "pos": "noun"
+            },
+            {
+                "word": "societal",
+                "pos": "adjective"
+            },
+            {
+                "word": "society",
+                "pos": "noun"
+            },
+            {
+                "word": "the Society for Promoting Christian Knowledge",
+                "pos": ""
+            },
+            {
+                "word": "the Society of Friends",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "people in general, living together in communities",
+                    "vi": "mọi người nói chung, sống cùng nhau trong cộng đồng"
+                },
+                "examples": [
+                    {
+                        "en": "She believes that the arts benefit society as a whole.",
+                        "vi": "Cô ấy tin rằng nghệ thuật mang lại lợi ích cho toàn xã hội."
+                    },
+                    {
+                        "en": "Racism exists at all levels of society.",
+                        "vi": "Sự phân biệt chủng tộc tồn tại ở mọi tầng lớp trong xã hội."
+                    },
+                    {
+                        "en": "These children have grown up to be useful and productive members of society.",
+                        "vi": "Những đứa trẻ này đã lớn lên trở thành những thành viên hữu ích và có ích cho xã hội."
+                    },
+                    {
+                        "en": "Every section of society must have access to education.",
+                        "vi": "Mọi thành phần trong xã hội phải được tiếp cận với giáo dục."
+                    },
+                    {
+                        "en": "in society They carried out research into the roles of men and women in today’s society.",
+                        "vi": "trong xã hội Họ đã thực hiện nghiên cứu về vai trò của nam giới và phụ nữ trong xã hội ngày nay."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a particular community of people who share the same customs, laws, etc.",
+                    "vi": "một cộng đồng cụ thể gồm những người có cùng phong tục tập quán, luật pháp, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "modern industrial societies",
+                        "vi": "xã hội công nghiệp hiện đại"
+                    },
+                    {
+                        "en": "demand created by a consumer society",
+                        "vi": "nhu cầu được tạo ra bởi một xã hội tiêu dùng"
+                    },
+                    {
+                        "en": "Can Britain ever be a classless society?",
+                        "vi": "Nước Anh có thể là một xã hội không giai cấp?"
+                    },
+                    {
+                        "en": "They were discussing the problems of Western society.",
+                        "vi": "Họ đang thảo luận về các vấn đề của xã hội phương Tây."
+                    },
+                    {
+                        "en": "in a society We live in a society that is obsessed with how people look.",
+                        "vi": "trong một xã hội Chúng ta đang sống trong một xã hội luôn bị ám ảnh bởi vẻ ngoài của mọi người."
+                    },
+                    {
+                        "en": "These rights are necessary in a democratic society.",
+                        "vi": "Những quyền này là cần thiết trong một xã hội dân chủ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a group of people who join together for a particular purpose",
+                    "vi": "một nhóm người tham gia cùng nhau vì một mục đích cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "a member of the drama society",
+                        "vi": "một thành viên của hội kịch"
+                    },
+                    {
+                        "en": "the American Society of Newspaper Editors",
+                        "vi": "Hiệp hội biên tập báo Hoa Kỳ"
+                    },
+                    {
+                        "en": "I joined the local Genealogy Society.",
+                        "vi": "Tôi tham gia Hội Gia phả địa phương."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the group of people in a country who are fashionable, rich and powerful",
+                    "vi": "nhóm người ở một đất nước thời trang, giàu có và quyền lực"
+                },
+                "examples": [
+                    {
+                        "en": "Their daughter married into high society.",
+                        "vi": "Con gái của họ kết hôn vào xã hội cao."
+                    },
+                    {
+                        "en": "a society wedding",
+                        "vi": "một đám cưới xã hội"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the state of being with other people",
+                    "vi": "trạng thái của bạn với những người khác"
+                },
+                "examples": [
+                    {
+                        "en": "He was a solitary man who avoided the society of others.",
+                        "vi": "Anh là một người đơn độc, trốn tránh xã hội của những người khác."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f4c95ccf15994d259757aa666338a0c3",
+        "word": "generation",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˌdʒenəˈreɪʃn/",
+            "us": "/ˌdʒenəˈreɪʃn/"
+        },
+        "nearby": [
+            {
+                "word": "the General Synod",
+                "pos": ""
+            },
+            {
+                "word": "generate",
+                "pos": "verb"
+            },
+            {
+                "word": "generation",
+                "pos": "noun"
+            },
+            {
+                "word": "generational",
+                "pos": "adjective"
+            },
+            {
+                "word": "the generation gap",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "all the people who were born at about the same time",
+                    "vi": "tất cả những người được sinh ra vào cùng một thời điểm"
+                },
+                "examples": [
+                    {
+                        "en": "the younger/older generation",
+                        "vi": "thế hệ trẻ / già"
+                    },
+                    {
+                        "en": "My generation have grown up with the internet.",
+                        "vi": "Thế hệ của tôi đã lớn lên cùng với internet."
+                    },
+                    {
+                        "en": "I often wonder what future generations will make of our efforts.",
+                        "vi": "Tôi thường tự hỏi thế hệ tương lai sẽ làm được gì cho những nỗ lực của chúng ta."
+                    },
+                    {
+                        "en": "The hopes and dreams of youth today are different from those of previous generations.",
+                        "vi": "Những hy vọng và ước mơ của tuổi trẻ hôm nay khác với những thế hệ trước."
+                    },
+                    {
+                        "en": "generation of somebody Her books have delighted generations of children.",
+                        "vi": "thế hệ của ai đó Những cuốn sách của cô đã làm hài lòng nhiều thế hệ trẻ em."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the average time in which children grow up, become adults and have children of their own, (usually considered to be about 30 years)",
+                    "vi": "thời gian trung bình mà trẻ em lớn lên, trở thành người lớn và có con riêng, (thường được coi là khoảng 30 tuổi)"
+                },
+                "examples": [
+                    {
+                        "en": "Many more people go to university now than a generation ago.",
+                        "vi": "Nhiều người đã vào đại học bây giờ hơn một thế hệ trước."
+                    },
+                    {
+                        "en": "for a generation My family have lived in this house for generations",
+                        "vi": "trong một thế hệ Gia đình tôi đã sống trong ngôi nhà này qua nhiều thế hệ"
+                    },
+                    {
+                        "en": "These decisions will affect our children for generations to come.",
+                        "vi": "Những quyết định này sẽ ảnh hưởng đến con cái của chúng ta cho các thế hệ sau."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a single stage in the history of a family",
+                    "vi": "một giai đoạn duy nhất trong lịch sử của một gia đình"
+                },
+                "examples": [
+                    {
+                        "en": "stories passed down from generation to generation",
+                        "vi": "những câu chuyện được truyền từ thế hệ này sang thế hệ khác"
+                    },
+                    {
+                        "en": "Five generations of his family had been farmers.",
+                        "vi": "Năm thế hệ trong gia đình ông đều là nông dân."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a group of people of similar age involved in a particular activity",
+                    "vi": "một nhóm người ở độ tuổi tương tự tham gia vào một hoạt động cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "He influenced my generation more than any other actor.",
+                        "vi": "Anh ấy ảnh hưởng đến thế hệ của tôi nhiều hơn bất kỳ diễn viên nào khác."
+                    },
+                    {
+                        "en": "of your generation He was by far the most talented player of his generation.",
+                        "vi": "của thế hệ của bạn cho đến nay Anh ấy là cầu thủ tài năng nhất trong thế hệ của anh ấy."
+                    },
+                    {
+                        "en": "generation of somebody the current generation of writers",
+                        "vi": "thế hệ của ai đó thế hệ nhà văn hiện tại"
+                    },
+                    {
+                        "en": "She has inspired a whole generation of fashion school graduates.",
+                        "vi": "Cô đã truyền cảm hứng cho cả một thế hệ sinh viên tốt nghiệp trường thời trang."
+                    },
+                    {
+                        "en": "The system is failing an entire generation of students.",
+                        "vi": "Hệ thống đang làm hỏng cả một thế hệ học sinh."
+                    },
+                    {
+                        "en": "It is a book that has captivated generation after generation of readers.",
+                        "vi": "Đó là cuốn sách đã làm say đắm biết bao thế hệ độc giả."
+                    },
+                    {
+                        "en": "a transfer of power to a new generation of leaders",
+                        "vi": "sự chuyển giao quyền lực cho một thế hệ lãnh đạo mới"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a stage in the development of a product, usually a technical one",
+                    "vi": "một giai đoạn phát triển sản phẩm, thường là một giai đoạn kỹ thuật"
+                },
+                "examples": [
+                    {
+                        "en": "fifth-generation computing",
+                        "vi": "máy tính thế hệ thứ năm"
+                    },
+                    {
+                        "en": "a new generation of vehicle",
+                        "vi": "một thế hệ xe mới"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the production of something, especially electricity, heat, etc.",
+                    "vi": "sản xuất một thứ gì đó, đặc biệt là điện, nhiệt, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "the generation of electricity",
+                        "vi": "sản xuất điện"
+                    },
+                    {
+                        "en": "methods of income generation",
+                        "vi": "các phương pháp tạo thu nhập"
+                    },
+                    {
+                        "en": "different methods of power generation",
+                        "vi": "các phương pháp sản xuất điện khác nhau"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1137210c0a704d24b3581f4d0643614d",
+        "word": "global",
+        "pos": "adjective",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈɡləʊbl/",
+            "us": "/ˈɡləʊbl/"
+        },
+        "nearby": [
+            {
+                "word": "gloating",
+                "pos": "adjective"
+            },
+            {
+                "word": "glob",
+                "pos": "noun"
+            },
+            {
+                "word": "global",
+                "pos": "adjective"
+            },
+            {
+                "word": "global heating",
+                "pos": "noun"
+            },
+            {
+                "word": "globalism",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "covering or affecting the whole world",
+                    "vi": "bao trùm hoặc ảnh hưởng đến toàn thế giới"
+                },
+                "examples": [
+                    {
+                        "en": "This year the global economy will grow by about 4 per cent.",
+                        "vi": "Năm nay, nền kinh tế toàn cầu sẽ tăng trưởng khoảng 4%."
+                    },
+                    {
+                        "en": "a global financial/economic crisis",
+                        "vi": "một cuộc khủng hoảng kinh tế / tài chính toàn cầu"
+                    },
+                    {
+                        "en": "the struggle to stay competitive in global markets",
+                        "vi": "cuộc đấu tranh để duy trì tính cạnh tranh trên thị trường toàn cầu"
+                    },
+                    {
+                        "en": "the country's ability to compete on a global scale",
+                        "vi": "khả năng của đất nước để cạnh tranh trên quy mô toàn cầu"
+                    },
+                    {
+                        "en": "global trade/capitalism",
+                        "vi": "thương mại toàn cầu / chủ nghĩa tư bản"
+                    },
+                    {
+                        "en": "the global war on terror",
+                        "vi": "cuộc chiến chống khủng bố toàn cầu"
+                    },
+                    {
+                        "en": "the global ban on commercial whaling",
+                        "vi": "lệnh cấm toàn cầu về đánh bắt cá voi thương mại"
+                    },
+                    {
+                        "en": "a global network of 64 national, regional and international organizations",
+                        "vi": "mạng lưới toàn cầu gồm 64 tổ chức quốc gia, khu vực và quốc tế"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "considering or including all parts of something",
+                    "vi": "xem xét hoặc bao gồm tất cả các phần của một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "We need to take a more global approach to the problem.",
+                        "vi": "Chúng ta cần có một cách tiếp cận toàn cầu hơn đối với vấn đề."
+                    },
+                    {
+                        "en": "They sent a global email to all staff.",
+                        "vi": "Họ đã gửi một email toàn cầu cho tất cả nhân viên."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "operating or applying through the whole of a file, program, etc.",
+                    "vi": "vận hành hoặc áp dụng toàn bộ tệp, chương trình, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "We ran a global search on the database.",
+                        "vi": "Chúng tôi đã chạy một tìm kiếm toàn cầu trên cơ sở dữ liệu."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "87daefdc45e3476da53f96c480a06916",
+        "word": "represent",
+        "pos": "verb",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˌreprɪˈzent/",
+            "us": "/ˌreprɪˈzent/"
+        },
+        "nearby": [
+            {
+                "word": "repossession",
+                "pos": "noun"
+            },
+            {
+                "word": "reprehensible",
+                "pos": "adjective"
+            },
+            {
+                "word": "represent",
+                "pos": "verb"
+            },
+            {
+                "word": "re-present",
+                "pos": "verb"
+            },
+            {
+                "word": "representation",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to be a member of a group of people and act or speak for them at an event, a meeting, etc.",
+                    "vi": "trở thành thành viên của một nhóm người và hành động hoặc phát biểu cho họ tại một sự kiện, một cuộc họp, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "The competition attracted over 500 contestants representing eight different countries.",
+                        "vi": "Cuộc thi thu hút hơn 500 thí sinh đại diện cho tám quốc gia khác nhau."
+                    },
+                    {
+                        "en": "Local businesses are well represented on the committee (= there are a lot of people from them on the committee).",
+                        "vi": "Các doanh nghiệp địa phương được đại diện tốt trong ủy ban (= có rất nhiều người từ họ trong ủy ban)."
+                    },
+                    {
+                        "en": "The opening speech was by Bob Alan representing Amnesty International.",
+                        "vi": "Bài phát biểu khai mạc là Bob Alan đại diện cho Tổ chức Ân xá Quốc tế."
+                    },
+                    {
+                        "en": "The President was represented at the ceremony by the Vice-President.",
+                        "vi": "Phó Chủ tịch nước đại diện tại buổi lễ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to act or speak officially for somebody and defend their interests",
+                    "vi": "hành động hoặc nói chuyện chính thức cho ai đó và bảo vệ lợi ích của họ"
+                },
+                "examples": [
+                    {
+                        "en": "The union represents over 200 000 teachers.",
+                        "vi": "Công đoàn đại diện cho hơn 200 000 giáo viên."
+                    },
+                    {
+                        "en": "The association was formed to represent the interests of women artists.",
+                        "vi": "Hiệp hội được thành lập để đại diện cho quyền lợi của các nữ nghệ sĩ."
+                    },
+                    {
+                        "en": "Ms Dale is representing the defendant (= is his/her lawyer) in the case.",
+                        "vi": "Cô Dale đang đại diện cho bị đơn (= là luật sư của anh ấy / cô ấy) trong vụ án."
+                    },
+                    {
+                        "en": "As an MP, it is my duty to represent my constituents.",
+                        "vi": "Là một nghị sĩ, tôi có nhiệm vụ đại diện cho các cử tri của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to take part in a sports event for a particular country, city, etc.",
+                    "vi": "tham gia một sự kiện thể thao cho một quốc gia, thành phố cụ thể, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "He's been chosen to represent Scotland in next year's World Cup Finals.",
+                        "vi": "Anh ấy đã được chọn để đại diện cho Scotland trong Vòng chung kết World Cup năm sau."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be a symbol of something",
+                    "vi": "trở thành biểu tượng của một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "Each colour on the chart represents a different department.",
+                        "vi": "Mỗi màu trên biểu đồ đại diện cho một bộ phận khác nhau."
+                    },
+                    {
+                        "en": "Wind direction is represented by arrows.",
+                        "vi": "Hướng gió được biểu diễn bằng các mũi tên."
+                    },
+                    {
+                        "en": "The artist uses doves to represent peace.",
+                        "vi": "Người nghệ sĩ sử dụng chim bồ câu để đại diện cho hòa bình."
+                    },
+                    {
+                        "en": "It is not clear what these symbols were intended to represent.",
+                        "vi": "Không rõ những biểu tượng này được dùng để đại diện cho điều gì."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be something",
+                    "vi": "trở thành một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "This contract represents 20% of the company's annual revenue.",
+                        "vi": "Hợp đồng này chiếm 20% doanh thu hàng năm của công ty."
+                    },
+                    {
+                        "en": "The final figure represents a 12% increase on the number of new jobs created the previous year.",
+                        "vi": "Con số cuối cùng thể hiện mức tăng 12% về số lượng việc làm mới được tạo ra trong năm trước."
+                    },
+                    {
+                        "en": "They're investing in low-carbon technologies that represent value for money.",
+                        "vi": "Họ đang đầu tư vào các công nghệ carbon thấp thể hiện giá trị đồng tiền."
+                    },
+                    {
+                        "en": "He got rid of anyone who represented a threat to his authority.",
+                        "vi": "Anh ta loại bỏ bất cứ ai đại diện cho một mối đe dọa đối với quyền lực của anh ta."
+                    },
+                    {
+                        "en": "This role represents a unique opportunity to further your career in healthcare.",
+                        "vi": "Vai trò này đại diện cho một cơ hội duy nhất để phát triển sự nghiệp của bạn trong lĩnh vực chăm sóc sức khỏe."
+                    },
+                    {
+                        "en": "The peace plan represents (= is the result of) weeks of negotiation.",
+                        "vi": "Kế hoạch hòa bình thể hiện (= là kết quả của) nhiều tuần thương lượng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be present in something to a particular degree",
+                    "vi": "hiện diện trong một cái gì đó ở một mức độ cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "Women and men were represented equally on the teams.",
+                        "vi": "Phụ nữ và nam giới được đại diện như nhau trong các đội."
+                    },
+                    {
+                        "en": "Women are disproportionately represented among welfare recipients.",
+                        "vi": "Phụ nữ được đại diện một cách không cân đối giữa những người nhận phúc lợi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be an example or expression of something",
+                    "vi": "để trở thành một ví dụ hoặc biểu hiện của một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "The project represents all that is good in the community.",
+                        "vi": "Dự án đại diện cho tất cả những gì tốt đẹp trong cộng đồng."
+                    },
+                    {
+                        "en": "Those comments do not represent the views of us all.",
+                        "vi": "Những nhận xét đó không đại diện cho quan điểm của tất cả chúng tôi."
+                    },
+                    {
+                        "en": "The book purported to represent the lives of ordinary people.",
+                        "vi": "Cuốn sách có mục đích đại diện cho cuộc sống của những người bình thường."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to show somebody/something, especially in a picture",
+                    "vi": "để chỉ cho ai đó / cái gì đó, đặc biệt là trong một bức tranh"
+                },
+                "examples": [
+                    {
+                        "en": "represent somebody/something The carvings represent a hunting scene.",
+                        "vi": "đại diện cho ai đó / cái gì đó Các hình chạm khắc đại diện cho một cảnh săn bắn."
+                    },
+                    {
+                        "en": "The map represents Italy in the 12th century.",
+                        "vi": "Bản đồ đại diện cho Ý vào thế kỷ 12."
+                    },
+                    {
+                        "en": "The results are represented in fig. 3 below.",
+                        "vi": "Các kết quả được trình bày trong hình. 3 bên dưới."
+                    },
+                    {
+                        "en": "represent somebody/something as somebody/something The Egyptian goddess is represented as a woman with cow's horns.",
+                        "vi": "đại diện cho ai đó / cái gì đó với tư cách là ai đó / cái gì đó Nữ thần Ai Cập được biểu thị như một người phụ nữ có sừng bò."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to present or describe somebody/something in a particular way, especially when this may not be fair",
+                    "vi": "để trình bày hoặc mô tả ai đó / điều gì đó theo một cách cụ thể, đặc biệt khi điều này có thể không công bằng"
+                },
+                "examples": [
+                    {
+                        "en": "represent somebody/something as something The king is represented as a villain in the play.",
+                        "vi": "đại diện cho ai đó / cái gì đó như một cái gì đó Nhà vua được thể hiện như một nhân vật phản diện trong vở kịch."
+                    },
+                    {
+                        "en": "The risks were represented as negligible.",
+                        "vi": "Rủi ro được cho là không đáng kể."
+                    },
+                    {
+                        "en": "The film represents us as helpless victims.",
+                        "vi": "Bộ phim thể hiện chúng ta là những nạn nhân bất lực."
+                    },
+                    {
+                        "en": "represent somebody/something The film accurately represents the atmosphere of the post-war period.",
+                        "vi": "đại diện cho ai đó / cái gì đó Bộ phim thể hiện chính xác không khí của thời kỳ hậu chiến."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make a formal statement to somebody in authority to make your opinions known or to protest",
+                    "vi": "tuyên bố chính thức với ai đó có thẩm quyền để làm cho ý kiến của bạn được biết hoặc để phản đối"
+                },
+                "examples": [
+                    {
+                        "en": "represent something to somebody They represented their concerns to the authorities.",
+                        "vi": "đại diện cho một cái gì đó cho ai đó Họ đại diện cho mối quan tâm của họ với các cơ quan chức năng."
+                    },
+                    {
+                        "en": "represent (to somebody) that… He admitted falsely representing to police officers that the car had been stolen.",
+                        "vi": "đại diện (với ai đó) rằng… Anh ta thừa nhận sai khi đại diện cho các sĩ quan cảnh sát rằng chiếc xe đã bị đánh cắp."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "88438a5f3fc346e180a41eff09e4bfe2",
+        "word": "social",
+        "pos": "adjective",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈsəʊʃl/",
+            "us": "/ˈsəʊʃl/"
+        },
+        "nearby": [
+            {
+                "word": "sociable",
+                "pos": "adjective"
+            },
+            {
+                "word": "sociably",
+                "pos": "adverb"
+            },
+            {
+                "word": "social",
+                "pos": "adjective"
+            },
+            {
+                "word": "social",
+                "pos": "noun"
+            },
+            {
+                "word": "social bookmarking",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "connected with activities in which people meet each other for pleasure",
+                    "vi": "kết nối với các hoạt động trong đó mọi người gặp gỡ nhau để vui vẻ"
+                },
+                "examples": [
+                    {
+                        "en": "She has a busy social life.",
+                        "vi": "Cô ấy có một cuộc sống xã hội bận rộn."
+                    },
+                    {
+                        "en": "Team sports help to develop a child's social skills (= the ability to talk easily to other people and do things in a group).",
+                        "vi": "Các môn thể thao đồng đội giúp phát triển các kỹ năng xã hội của trẻ (= khả năng nói chuyện dễ dàng với người khác và làm mọi việc trong một nhóm)."
+                    },
+                    {
+                        "en": "Social events and training days are arranged for all the staff.",
+                        "vi": "Các sự kiện xã hội và ngày đào tạo được sắp xếp cho tất cả nhân viên."
+                    },
+                    {
+                        "en": "Join a social club to make new friends.",
+                        "vi": "Tham gia một câu lạc bộ xã hội để kết bạn mới."
+                    },
+                    {
+                        "en": "It was a purely social visit.",
+                        "vi": "Đó là một chuyến thăm hoàn toàn xã hội."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "connected with society and the way it is organized",
+                    "vi": "kết nối với xã hội và cách nó được tổ chức"
+                },
+                "examples": [
+                    {
+                        "en": "The film addresses serious social issues.",
+                        "vi": "Phim đề cập đến những vấn đề xã hội nghiêm trọng."
+                    },
+                    {
+                        "en": "The area has major social problems such as drug abuse and poverty.",
+                        "vi": "Khu vực này có các vấn đề xã hội lớn như lạm dụng ma túy và nghèo đói."
+                    },
+                    {
+                        "en": "It was a period of political upheaval and social change.",
+                        "vi": "Đó là thời kỳ biến động chính trị và thay đổi xã hội."
+                    },
+                    {
+                        "en": "He fought for social justice and civil rights.",
+                        "vi": "Ông đã đấu tranh cho công bằng xã hội và quyền công dân."
+                    },
+                    {
+                        "en": "the social welfare system",
+                        "vi": "hệ thống phúc lợi xã hội"
+                    },
+                    {
+                        "en": "the country's economic and social development",
+                        "vi": "phát triển kinh tế và xã hội của đất nước"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "connected with your position in society",
+                    "vi": "kết nối với vị trí của bạn trong xã hội"
+                },
+                "examples": [
+                    {
+                        "en": "Income differences between social classes are widening.",
+                        "vi": "Sự khác biệt về thu nhập giữa các tầng lớp xã hội ngày càng rộng."
+                    },
+                    {
+                        "en": "A major influence on health is social status.",
+                        "vi": "Một ảnh hưởng lớn đến sức khỏe là địa vị xã hội."
+                    },
+                    {
+                        "en": "social advancement (= improving your position in society)",
+                        "vi": "thăng tiến xã hội (= cải thiện vị trí của bạn trong xã hội)"
+                    },
+                    {
+                        "en": "social mobility (= the movement of people from one social class to another)",
+                        "vi": "dịch chuyển xã hội (= sự di chuyển của mọi người từ tầng lớp xã hội này sang tầng lớp xã hội khác)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "living naturally in groups, rather than alone",
+                    "vi": "sống tự nhiên trong các nhóm, thay vì một mình"
+                },
+                "examples": [
+                    {
+                        "en": "Apes are social animals.",
+                        "vi": "Vượn là động vật xã hội."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "enjoying spending time with other people",
+                    "vi": "thích dành thời gian với những người khác"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "8764164d68374b82813f3dd0466ca273",
+        "word": "citizen",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈsɪtɪzn/",
+            "us": "/ˈsɪtɪzn/"
+        },
+        "nearby": [
+            {
+                "word": "cite",
+                "pos": "verb"
+            },
+            {
+                "word": "citified",
+                "pos": "adjective"
+            },
+            {
+                "word": "citizen",
+                "pos": "noun"
+            },
+            {
+                "word": "citizen journalism",
+                "pos": "noun"
+            },
+            {
+                "word": "citizen journalist",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who has the legal right to belong to a particular country",
+                    "vi": "một người có quyền hợp pháp thuộc về một quốc gia cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "The defeat of the president did not change the lives of ordinary citizens for the better.",
+                        "vi": "Sự thất bại của tổng thống không thay đổi cuộc sống của những công dân bình thường trở nên tốt đẹp hơn."
+                    },
+                    {
+                        "en": "an economic slowdown that has left millions of our fellow citizens unemployed",
+                        "vi": "suy thoái kinh tế khiến hàng triệu đồng bào của chúng ta thất nghiệp"
+                    },
+                    {
+                        "en": "She's Italian by birth but is now an Australian citizen.",
+                        "vi": "Cô ấy là người Ý khi sinh ra nhưng hiện là công dân Úc."
+                    },
+                    {
+                        "en": "Polish citizens living in other parts of the European Union",
+                        "vi": "Công dân Ba Lan sống ở các khu vực khác của Liên minh Châu Âu"
+                    },
+                    {
+                        "en": "the government's failure to address the concerns of the average citizen",
+                        "vi": "chính phủ không giải quyết được các mối quan tâm của người dân bình thường"
+                    },
+                    {
+                        "en": "In light of the unrest in the country, the US embassy has urged private citizens to leave.",
+                        "vi": "Trước tình hình bất ổn trong nước, đại sứ quán Mỹ đã kêu gọi các công dân tư nhân rời đi."
+                    },
+                    {
+                        "en": "I became a naturalized American citizen when I was 18.",
+                        "vi": "Tôi nhập quốc tịch Mỹ khi tôi 18 tuổi."
+                    },
+                    {
+                        "en": "He said the primary responsibility of a state is to protect its citizens from attack.",
+                        "vi": "Ông cho biết trách nhiệm chính của một nhà nước là bảo vệ công dân của mình khỏi bị tấn công."
+                    },
+                    {
+                        "en": "This shows that the government respects the rights of citizens.",
+                        "vi": "Điều này cho thấy chính phủ tôn trọng quyền của công dân."
+                    },
+                    {
+                        "en": "citizen of something Some politicians seem to be treating the citizens of this country with contempt.",
+                        "vi": "công dân của một cái gì đó Một số chính trị gia dường như đang đối xử khinh thường công dân của đất nước này."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who lives in a particular place",
+                    "vi": "một người sống ở một nơi cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "When you're old, people treat you like a second-class citizen.",
+                        "vi": "Khi bạn về già, người ta đối xử với bạn như một công dân hạng hai."
+                    },
+                    {
+                        "en": "There have been meetings of concerned citizens over proposed development plans.",
+                        "vi": "Đã có các cuộc họp của các công dân liên quan về các kế hoạch phát triển được đề xuất."
+                    },
+                    {
+                        "en": "citizen of something the decent, law-abiding citizens of this city",
+                        "vi": "công dân của một cái gì đó, những công dân tử tế, tuân thủ pháp luật của thành phố này"
+                    },
+                    {
+                        "en": "the citizens of Budapest",
+                        "vi": "công dân của Budapest"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c805bcf3aa8744f1b3e5c0237badae0f",
+        "word": "committee",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/kəˈmɪti/",
+            "us": "/kəˈmɪti/"
+        },
+        "nearby": [
+            {
+                "word": "committal",
+                "pos": "noun"
+            },
+            {
+                "word": "committed",
+                "pos": "adjective"
+            },
+            {
+                "word": "committee",
+                "pos": "noun"
+            },
+            {
+                "word": "the Committee on Standards in Public Life",
+                "pos": ""
+            },
+            {
+                "word": "committee stage",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a group of people who are chosen, usually by a larger group, to make decisions or to deal with a particular subject",
+                    "vi": "một nhóm người được chọn, thường là bởi một nhóm lớn hơn, để đưa ra quyết định hoặc đối phó với một chủ đề cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "an executive/advisory/organizing committee",
+                        "vi": "một ủy ban điều hành / cố vấn / tổ chức"
+                    },
+                    {
+                        "en": "a parliamentary/congressional/Senate committee",
+                        "vi": "một ủy ban quốc hội / quốc hội / thượng viện"
+                    },
+                    {
+                        "en": "The committee has/have decided to close the restaurant.",
+                        "vi": "Ủy ban đã / đã quyết định đóng cửa nhà hàng."
+                    },
+                    {
+                        "en": "The committee unanimously approved the plan.",
+                        "vi": "Ủy ban nhất trí thông qua kế hoạch."
+                    },
+                    {
+                        "en": "to appoint/establish/form a committee",
+                        "vi": "bổ nhiệm / thành lập / thành lập một ủy ban"
+                    },
+                    {
+                        "en": "to chair/head a committee",
+                        "vi": "chủ tịch / đứng đầu một ủy ban"
+                    },
+                    {
+                        "en": "on a committee She's on the planning committee.",
+                        "vi": "trên một ủy ban Cô ấy nằm trong ủy ban kế hoạch."
+                    },
+                    {
+                        "en": "He has served on numerous committees.",
+                        "vi": "Ông đã phục vụ trong nhiều ủy ban."
+                    },
+                    {
+                        "en": "I have been invited to sit on the committee.",
+                        "vi": "Tôi đã được mời ngồi trong ủy ban."
+                    },
+                    {
+                        "en": "before a committee He will be called to give evidence before the committee.",
+                        "vi": "trước một ủy ban Anh ta sẽ được gọi để đưa ra bằng chứng trước ủy ban."
+                    },
+                    {
+                        "en": "in committee The bill was still in committee (= being considered by a committee) in early December.",
+                        "vi": "trong ủy ban Dự luật vẫn còn trong ủy ban (= đang được một ủy ban xem xét) vào đầu tháng 12."
+                    },
+                    {
+                        "en": "committee of somebody/something a committee of inquiry",
+                        "vi": "ủy ban của ai đó / cái gì đó ủy ban điều tra"
+                    },
+                    {
+                        "en": "a committee of MPs/experts",
+                        "vi": "một ủy ban gồm các nghị sĩ / chuyên gia"
+                    },
+                    {
+                        "en": "committee to do something A special committee to investigate the possible impeachment of the governor meets later today.",
+                        "vi": "Ủy ban để làm điều gì đó Một ủy ban đặc biệt để điều tra khả năng có thể bị luận tội thống đốc họp vào cuối ngày hôm nay."
+                    },
+                    {
+                        "en": "committee on something the US House of Representatives' committee on foreign affairs",
+                        "vi": "ủy ban về một cái gì đó ủy ban của Hạ viện Hoa Kỳ về các vấn đề đối ngoại"
+                    },
+                    {
+                        "en": "a committee member/chairman",
+                        "vi": "một thành viên / chủ tịch ủy ban"
+                    },
+                    {
+                        "en": "a committee meeting/report",
+                        "vi": "một cuộc họp / báo cáo của ủy ban"
+                    },
+                    {
+                        "en": "the chairman/chair of a committee",
+                        "vi": "chủ tịch / chủ tịch của một ủy ban"
+                    },
+                    {
+                        "en": "a member/meeting of a committee",
+                        "vi": "một thành viên / cuộc họp của một ủy ban"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c1ab057ea65444c48e694ed512367d40",
+        "word": "globe",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ɡləʊb/",
+            "us": "/ɡləʊb/"
+        },
+        "nearby": [
+            {
+                "word": "global village",
+                "pos": "noun"
+            },
+            {
+                "word": "global warming",
+                "pos": "noun"
+            },
+            {
+                "word": "globe",
+                "pos": "noun"
+            },
+            {
+                "word": "the Globe",
+                "pos": ""
+            },
+            {
+                "word": "globe artichoke",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the world (used especially to emphasize its size)",
+                    "vi": "thế giới (được sử dụng đặc biệt để nhấn mạnh kích thước của nó)"
+                },
+                "examples": [
+                    {
+                        "en": "tourists from every corner of the globe",
+                        "vi": "khách du lịch từ mọi nơi trên thế giới"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an object like a ball in shape with a map of the world on its surface, usually on a stand so that it can be turned",
+                    "vi": "một vật thể giống như một quả bóng với bản đồ thế giới trên bề mặt của nó, thường ở trên giá đỡ để nó có thể quay được"
+                },
+                "examples": [
+                    {
+                        "en": "A dusty old globe stood in the corner of the schoolroom.",
+                        "vi": "Một quả địa cầu cũ đầy bụi nằm trong góc phòng học."
+                    },
+                    {
+                        "en": "Find Laos on the globe.",
+                        "vi": "Tìm Lào trên địa cầu."
+                    },
+                    {
+                        "en": "On his desk was a globe and several maps.",
+                        "vi": "Trên bàn làm việc của anh ấy là một quả địa cầu và một số bản đồ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a thing that is like a ball in shape",
+                    "vi": "một thứ giống như một quả bóng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a light bulb (= the glass part that fits into an electric lamp, etc. to give light when it is switched on)",
+                    "vi": "bóng đèn (= phần thủy tinh lắp vào đèn điện, v.v. để phát sáng khi bật đèn)"
+                },
+                "examples": [
+                    {
+                        "en": "Halogen globes are being replaced with LEDs, which use 80 per cent less energy.",
+                        "vi": "Các quả cầu halogen đang được thay thế bằng đèn LED, sử dụng ít hơn 80% năng lượng."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "785b921d8e3a4a4fab93fbe38cec0cb5",
+        "word": "representative",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˌreprɪˈzentətɪv/",
+            "us": "/ˌreprɪˈzentətɪv/"
+        },
+        "nearby": [
+            {
+                "word": "representation",
+                "pos": "noun"
+            },
+            {
+                "word": "representational",
+                "pos": "adjective"
+            },
+            {
+                "word": "representative",
+                "pos": "noun"
+            },
+            {
+                "word": "representative",
+                "pos": "adjective"
+            },
+            {
+                "word": "repress",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who has been chosen to speak or vote for somebody else or for a group of people, or to take the place of somebody else",
+                    "vi": "một người đã được chọn để nói hoặc bỏ phiếu cho người khác hoặc cho một nhóm người, hoặc thay thế cho người khác"
+                },
+                "examples": [
+                    {
+                        "en": "Our elected representatives in government should be doing something about this.",
+                        "vi": "Các đại diện được bầu của chúng tôi trong chính phủ nên làm điều gì đó về điều này."
+                    },
+                    {
+                        "en": "Management are obliged to consult with union representatives about changes to conditions.",
+                        "vi": "Ban quản lý có nghĩa vụ tham khảo ý kiến của đại diện công đoàn về những thay đổi đối với các điều kiện."
+                    },
+                    {
+                        "en": "The actor's legal representatives have strongly denied the allegations.",
+                        "vi": "Các đại diện pháp lý của nam diễn viên đã mạnh mẽ phủ nhận các cáo buộc."
+                    },
+                    {
+                        "en": "He was the Queen's representative at the ceremony.",
+                        "vi": "Anh là đại diện của Nữ hoàng tại buổi lễ."
+                    },
+                    {
+                        "en": "representative of somebody/something a representative of the UN",
+                        "vi": "đại diện của ai đó / cái gì đó đại diện của LHQ"
+                    },
+                    {
+                        "en": "representative from something The committee includes representatives from industry.",
+                        "vi": "đại diện từ một cái gì đó Ủy ban bao gồm các đại diện từ ngành công nghiệp."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who works for a company and travels around selling its products",
+                    "vi": "một người làm việc cho một công ty và đi khắp nơi để bán các sản phẩm của công ty đó"
+                },
+                "examples": [
+                    {
+                        "en": "a sales representative",
+                        "vi": "một đại diện bán hàng"
+                    },
+                    {
+                        "en": "She's our representative in France.",
+                        "vi": "Cô ấy là đại diện của chúng tôi tại Pháp."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who is typical of a particular group",
+                    "vi": "một người tiêu biểu cho một nhóm cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "The singer is regarded as a representative of the youth of her generation.",
+                        "vi": "Nữ ca sĩ được coi là đại diện tiêu biểu cho tuổi trẻ của thế hệ mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "(in the US) a member of the House of Representatives, the Lower House of Congress; a member of the House of Representatives in the lower house of a state parliament",
+                    "vi": "(ở Mỹ) thành viên của Hạ viện, Hạ viện của Quốc hội; một thành viên của Hạ viện trong hạ viện của một quốc hội tiểu bang"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "7f5b10a37f0b41f78ec23b787bf5076a",
+        "word": "sociologist",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˌsəʊsiˈɒlədʒɪst/",
+            "us": "/ˌsəʊsiˈɑːlədʒɪst/"
+        },
+        "nearby": [
+            {
+                "word": "sociological",
+                "pos": "adjective"
+            },
+            {
+                "word": "sociologically",
+                "pos": "adverb"
+            },
+            {
+                "word": "sociologist",
+                "pos": "noun"
+            },
+            {
+                "word": "sociology",
+                "pos": "noun"
+            },
+            {
+                "word": "sociopath",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who studies sociology",
+                    "vi": "một người nghiên cứu xã hội học"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "ff9745e007a342e2b66dbe31e3d9020d",
+        "word": "sociology",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˌsəʊsiˈɒlədʒi/",
+            "us": "/ˌsəʊsiˈɑːlədʒi/"
+        },
+        "nearby": [
+            {
+                "word": "sociologically",
+                "pos": "adverb"
+            },
+            {
+                "word": "sociologist",
+                "pos": "noun"
+            },
+            {
+                "word": "sociology",
+                "pos": "noun"
+            },
+            {
+                "word": "sociopath",
+                "pos": "noun"
+            },
+            {
+                "word": "sociopolitical",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the scientific study of the nature and development of society and social behaviour",
+                    "vi": "nghiên cứu khoa học về bản chất và sự phát triển của xã hội và hành vi xã hội"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "cc596679134146ea901c2e43a29304b5",
+        "word": "tribe",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/traɪb/",
+            "us": "/traɪb/"
+        },
+        "nearby": [
+            {
+                "word": "tribalism",
+                "pos": "noun"
+            },
+            {
+                "word": "tri-band",
+                "pos": "adjective"
+            },
+            {
+                "word": "tribe",
+                "pos": "noun"
+            },
+            {
+                "word": "tribesman",
+                "pos": "noun"
+            },
+            {
+                "word": "tribespeople",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a social group in a traditional society consisting of people with the same language, culture, religion, etc., living in a particular area and often having one leader known as a chief",
+                    "vi": "một nhóm xã hội trong một xã hội truyền thống bao gồm những người có cùng ngôn ngữ, văn hóa, tôn giáo, v.v., sống trong một khu vực cụ thể và thường có một người lãnh đạo được gọi là trưởng."
+                },
+                "examples": [
+                    {
+                        "en": "They were a nomadic horse-riding tribe.",
+                        "vi": "Họ là một bộ tộc du mục cưỡi ngựa."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a group or class of people, especially of one profession",
+                    "vi": "một nhóm hoặc một lớp người, đặc biệt là một nghề"
+                },
+                "examples": [
+                    {
+                        "en": "He had a sudden outburst against the whole tribe of actors.",
+                        "vi": "Anh ta đã có một hành động bộc phát bất ngờ chống lại cả bộ tộc diễn viên."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a group of related animals or plants",
+                    "vi": "một nhóm động vật hoặc thực vật có liên quan"
+                },
+                "examples": [
+                    {
+                        "en": "a tribe of cats",
+                        "vi": "một bộ tộc mèo"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a large family",
+                    "vi": "một đại gia đình"
+                },
+                "examples": [
+                    {
+                        "en": "One or two of the grandchildren will be there, but not the whole tribe.",
+                        "vi": "Một hoặc hai người cháu sẽ ở đó, nhưng không phải toàn bộ bộ lạc."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "04c08d34a5a44b7d8a0e2b58dc1c2b60",
+        "word": "anthropological",
+        "pos": "adjective",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌænθrəpəˈlɒdʒɪkl/",
+            "us": "/ˌænθrəpəˈlɑːdʒɪkl/"
+        },
+        "nearby": [
+            {
+                "word": "anthropoid",
+                "pos": "adjective"
+            },
+            {
+                "word": "anthropoid",
+                "pos": "noun"
+            },
+            {
+                "word": "anthropological",
+                "pos": "adjective"
+            },
+            {
+                "word": "anthropologist",
+                "pos": "noun"
+            },
+            {
+                "word": "anthropology",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "connected with the study of the human race, especially its origins, development, customs and beliefs",
+                    "vi": "kết nối với việc nghiên cứu loài người, đặc biệt là nguồn gốc, sự phát triển, phong tục và tín ngưỡng của nó"
+                },
+                "examples": [
+                    {
+                        "en": "She conducted sixteen months of anthropological fieldwork with children in Uganda.",
+                        "vi": "Cô đã tiến hành mười sáu tháng thực địa nhân chủng học với trẻ em ở Uganda."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "d4e908f188d24068a3e76a31b41643d5",
+        "word": "anthropologist",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌænθrəˈpɒlədʒɪst/",
+            "us": "/ˌænθrəˈpɑːlədʒɪst/"
+        },
+        "nearby": [
+            {
+                "word": "anthropoid",
+                "pos": "noun"
+            },
+            {
+                "word": "anthropological",
+                "pos": "adjective"
+            },
+            {
+                "word": "anthropologist",
+                "pos": "noun"
+            },
+            {
+                "word": "anthropology",
+                "pos": "noun"
+            },
+            {
+                "word": "anthropomorphic",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who studies the human race, especially its origins, development, customs and beliefs",
+                    "vi": "một người nghiên cứu về loài người, đặc biệt là nguồn gốc, sự phát triển, phong tục và tín ngưỡng của nó"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "0b8169b0e0a84a64a0065b2eeccaf1ad",
+        "word": "anthropology",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌænθrəˈpɒlədʒi/",
+            "us": "/ˌænθrəˈpɑːlədʒi/"
+        },
+        "nearby": [
+            {
+                "word": "anthropological",
+                "pos": "adjective"
+            },
+            {
+                "word": "anthropologist",
+                "pos": "noun"
+            },
+            {
+                "word": "anthropology",
+                "pos": "noun"
+            },
+            {
+                "word": "anthropomorphic",
+                "pos": "adjective"
+            },
+            {
+                "word": "anthropomorphism",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the study of the human race, especially of its origins, development, customs and beliefs",
+                    "vi": "nghiên cứu về loài người, đặc biệt là về nguồn gốc, sự phát triển, phong tục và tín ngưỡng của nó"
+                },
+                "examples": [
+                    {
+                        "en": "Social anthropology examines family relationships in detail.",
+                        "vi": "Nhân học xã hội xem xét các mối quan hệ gia đình một cách chi tiết."
+                    },
+                    {
+                        "en": "Cultural anthropology covers the whole range of human activities which are learned and transmitted.",
+                        "vi": "Nhân học văn hóa bao gồm toàn bộ phạm vi hoạt động của con người được học hỏi và trao truyền."
+                    },
+                    {
+                        "en": "Physical anthropology is the study of human physical variation.",
+                        "vi": "Nhân học vật lý là nghiên cứu về sự biến đổi thể chất của con người."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e3a789dcc3604811a181699f1c270490",
+        "word": "belonging",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/bɪˈlɒŋɪŋ/",
+            "us": "/bɪˈlɔːŋɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "the Belmont Stakes",
+                "pos": ""
+            },
+            {
+                "word": "belong",
+                "pos": "verb"
+            },
+            {
+                "word": "belonging",
+                "pos": "noun"
+            },
+            {
+                "word": "belongings",
+                "pos": "noun"
+            },
+            {
+                "word": "belong to",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the feeling of being comfortable and happy in a particular situation or with a particular group of people",
+                    "vi": "cảm giác thoải mái và hạnh phúc trong một tình huống cụ thể hoặc với một nhóm người cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "to feel a sense of belonging",
+                        "vi": "để cảm thấy một cảm giác thân thuộc"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "598bfe9bf87d4815bf87c4e583a4e54c",
+        "word": "citizenship",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈsɪtɪzənʃɪp/",
+            "us": "/ˈsɪtɪzənʃɪp/"
+        },
+        "nearby": [
+            {
+                "word": "Citizens' Band",
+                "pos": "noun"
+            },
+            {
+                "word": "the Citizen's Charter",
+                "pos": ""
+            },
+            {
+                "word": "citizenship",
+                "pos": "noun"
+            },
+            {
+                "word": "citric",
+                "pos": "adjective"
+            },
+            {
+                "word": "citric acid",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the legal right to belong to a particular country",
+                    "vi": "quyền hợp pháp thuộc về một quốc gia cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "They were granted full French citizenship.",
+                        "vi": "Họ đã được nhập quốc tịch Pháp đầy đủ."
+                    },
+                    {
+                        "en": "You can apply for citizenship after five years' residency.",
+                        "vi": "Bạn có thể nộp đơn xin quốc tịch sau năm năm cư trú."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the state of being a citizen and accepting the responsibilities of it",
+                    "vi": "trạng thái của một công dân và chấp nhận các trách nhiệm của nó"
+                },
+                "examples": [
+                    {
+                        "en": "an education that prepares young people for citizenship",
+                        "vi": "một nền giáo dục chuẩn bị cho những người trẻ tuổi để có quyền công dân"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2f30148397384b83b39076876442bcfc",
+        "word": "civic",
+        "pos": "adjective",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈsɪvɪk/",
+            "us": "/ˈsɪvɪk/"
+        },
+        "nearby": [
+            {
+                "word": "citywide",
+                "pos": "adjective, adverb"
+            },
+            {
+                "word": "civet",
+                "pos": "noun"
+            },
+            {
+                "word": "civic",
+                "pos": "adjective"
+            },
+            {
+                "word": "civic centre",
+                "pos": "noun"
+            },
+            {
+                "word": "civic holiday",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "officially connected with a town or city",
+                    "vi": "kết nối chính thức với một thị trấn hoặc thành phố"
+                },
+                "examples": [
+                    {
+                        "en": "civic buildings/leaders",
+                        "vi": "tòa nhà dân sự / nhà lãnh đạo"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "connected with the people who live in a town or city",
+                    "vi": "kết nối với những người sống trong một thị trấn hoặc thành phố"
+                },
+                "examples": [
+                    {
+                        "en": "a sense of civic pride (= pride that people feel for their town or city)",
+                        "vi": "cảm giác tự hào công dân (= niềm tự hào mà mọi người cảm thấy đối với thị trấn hoặc thành phố của họ)"
+                    },
+                    {
+                        "en": "civic duties/responsibilities",
+                        "vi": "nghĩa vụ / trách nhiệm công dân"
+                    },
+                    {
+                        "en": "The competition would be an opportunity to foster civic pride.",
+                        "vi": "Cuộc thi sẽ là một cơ hội để nuôi dưỡng lòng tự hào của công dân."
+                    },
+                    {
+                        "en": "Voting should be a matter of civic duty.",
+                        "vi": "Bỏ phiếu nên là một vấn đề của nghĩa vụ công dân."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "73413ab80aed4fc1996913d2c01848c6",
+        "word": "collective",
+        "pos": "adjective",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/kəˈlektɪv/",
+            "us": "/kəˈlektɪv/"
+        },
+        "nearby": [
+            {
+                "word": "collected",
+                "pos": "adjective"
+            },
+            {
+                "word": "collection",
+                "pos": "noun"
+            },
+            {
+                "word": "collective",
+                "pos": "adjective"
+            },
+            {
+                "word": "collective",
+                "pos": "noun"
+            },
+            {
+                "word": "collective bargaining",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "done or shared by all members of a group of people; involving a whole group or society",
+                    "vi": "được thực hiện hoặc chia sẻ bởi tất cả các thành viên của một nhóm người; liên quan đến toàn bộ nhóm hoặc xã hội"
+                },
+                "examples": [
+                    {
+                        "en": "collective leadership/decision-making/responsibility",
+                        "vi": "lãnh đạo tập thể / ra quyết định / trách nhiệm"
+                    },
+                    {
+                        "en": "collective memory (= things that a group of people or a community know or remember, that are often passed from parents to children)",
+                        "vi": "trí nhớ tập thể (= những thứ mà một nhóm người hoặc một cộng đồng biết hoặc nhớ, thường được truyền từ cha mẹ sang con cái)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to refer to all members of a group",
+                    "vi": "được sử dụng để chỉ tất cả các thành viên của một nhóm"
+                },
+                "examples": [
+                    {
+                        "en": "The collective name for mast, boom and sails on a boat is the ‘rig’.",
+                        "vi": "Tên chung của cột buồm, cần và buồm trên thuyền là 'giàn khoan'."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ab7b594fcb0346f1a09692cc000d7a0c",
+        "word": "demographic",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌdeməˈɡræfɪk/",
+            "us": "/ˌdeməˈɡræfɪk/"
+        },
+        "nearby": [
+            {
+                "word": "democratize",
+                "pos": "verb"
+            },
+            {
+                "word": "demographer",
+                "pos": "noun"
+            },
+            {
+                "word": "demographic",
+                "pos": "noun"
+            },
+            {
+                "word": "demographic",
+                "pos": "adjective"
+            },
+            {
+                "word": "demographically",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "data relating to the population and different groups within it",
+                    "vi": "dữ liệu liên quan đến dân số và các nhóm khác nhau trong đó"
+                },
+                "examples": [
+                    {
+                        "en": "the demographics of radio listeners",
+                        "vi": "nhân khẩu học của người nghe đài"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a section of the population who are of a similar age, the same sex, etc.",
+                    "vi": "một bộ phận dân cư ở cùng độ tuổi, cùng giới tính, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "The products are designed to appeal to a young demographic.",
+                        "vi": "Các sản phẩm được thiết kế để thu hút người dân trẻ tuổi."
+                    },
+                    {
+                        "en": "the 18–30 demographic",
+                        "vi": "nhân khẩu học 18–30"
+                    },
+                    {
+                        "en": "The target demographic is children aged 6–12.",
+                        "vi": "Đối tượng nhân khẩu học là trẻ em từ 6–12 tuổi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "b49ac1e17aff4d13b836dbe85f804431",
+        "word": "demographic",
+        "pos": "adjective",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌdeməˈɡræfɪk/",
+            "us": "/ˌdeməˈɡræfɪk/"
+        },
+        "nearby": [
+            {
+                "word": "demographer",
+                "pos": "noun"
+            },
+            {
+                "word": "demographic",
+                "pos": "noun"
+            },
+            {
+                "word": "demographic",
+                "pos": "adjective"
+            },
+            {
+                "word": "demographically",
+                "pos": "adverb"
+            },
+            {
+                "word": "demography",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "relating to the population and different groups within it",
+                    "vi": "liên quan đến dân số và các nhóm khác nhau trong đó"
+                },
+                "examples": [
+                    {
+                        "en": "demographic changes/trends/factors",
+                        "vi": "thay đổi nhân khẩu học / xu hướng / yếu tố"
+                    },
+                    {
+                        "en": "demographical data from the 1950s",
+                        "vi": "dữ liệu nhân khẩu học từ những năm 1950"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "59800f5fe90e4937adbb330126675dcc",
+        "word": "integrate",
+        "pos": "verb",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈɪntɪɡreɪt/",
+            "us": "/ˈɪntɪɡreɪt/"
+        },
+        "nearby": [
+            {
+                "word": "integral calculus",
+                "pos": "noun"
+            },
+            {
+                "word": "integrally",
+                "pos": "adverb"
+            },
+            {
+                "word": "integrate",
+                "pos": "verb"
+            },
+            {
+                "word": "integrated",
+                "pos": "adjective"
+            },
+            {
+                "word": "integrated circuit",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to combine two or more things so that they work together; to combine with something else in this way",
+                    "vi": "để kết hợp hai hoặc nhiều thứ để chúng hoạt động cùng nhau; để kết hợp với một cái gì đó khác theo cách này"
+                },
+                "examples": [
+                    {
+                        "en": "integrate into/with something These programs will integrate with your existing software.",
+                        "vi": "tích hợp vào / với một cái gì đó Các chương trình này sẽ tích hợp với phần mềm hiện có của bạn."
+                    },
+                    {
+                        "en": "integrate A (into/with B) | integrate A and B These programs can be integrated with your existing software.",
+                        "vi": "tích hợp A (vào / với B) | tích hợp A và B Các chương trình này có thể được tích hợp với phần mềm hiện có của bạn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to become or make somebody become accepted as a member of a social group, especially when they come from a different culture",
+                    "vi": "trở thành hoặc khiến ai đó được chấp nhận là thành viên của một nhóm xã hội, đặc biệt là khi họ đến từ một nền văn hóa khác"
+                },
+                "examples": [
+                    {
+                        "en": "integrate (into/with something) They have not made any effort to integrate with the local community.",
+                        "vi": "hòa nhập (vào / với điều gì đó) Họ chưa nỗ lực để hòa nhập với cộng đồng địa phương."
+                    },
+                    {
+                        "en": "integrate somebody (into/with something) The policy is to integrate children with special needs into ordinary schools.",
+                        "vi": "hòa nhập ai đó (vào / với một cái gì đó) Chính sách này là hòa nhập trẻ em có nhu cầu đặc biệt vào các trường học bình thường."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8e1ee90a8c9b414f87fde74655adc1fc",
+        "word": "integration",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌɪntɪˈɡreɪʃn/",
+            "us": "/ˌɪntɪˈɡreɪʃn/"
+        },
+        "nearby": [
+            {
+                "word": "integrated",
+                "pos": "adjective"
+            },
+            {
+                "word": "integrated circuit",
+                "pos": "noun"
+            },
+            {
+                "word": "integration",
+                "pos": "noun"
+            },
+            {
+                "word": "integrity",
+                "pos": "noun"
+            },
+            {
+                "word": "intellect",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the act or process of combining two or more things so that they work together",
+                    "vi": "hành động hoặc quá trình kết hợp hai hoặc nhiều thứ để chúng hoạt động cùng nhau"
+                },
+                "examples": [
+                    {
+                        "en": "The aim is to promote closer economic integration.",
+                        "vi": "Mục đích là để thúc đẩy hội nhập kinh tế chặt chẽ hơn."
+                    },
+                    {
+                        "en": "integration of A and/with B His music is an integration of tradition and new technology.",
+                        "vi": "sự tích hợp của A và / với B Âm nhạc của anh ấy là sự tích hợp của truyền thống và công nghệ mới."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the act or process of mixing people who have previously been separated, usually because of colour, race, religion, etc.",
+                    "vi": "hành động hoặc quá trình trộn lẫn những người trước đây đã từng xa cách, thường là vì màu da, chủng tộc, tôn giáo, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "racial integration in schools",
+                        "vi": "hội nhập chủng tộc trong trường học"
+                    },
+                    {
+                        "en": "measures to promote the social integration of people with learning difficulties",
+                        "vi": "các biện pháp thúc đẩy sự hòa nhập xã hội của những người có hoàn cảnh khó khăn trong học tập"
+                    },
+                    {
+                        "en": "integration (of somebody) into something the integration of disabled students into the general education system",
+                        "vi": "sự hòa nhập (của ai đó) vào cái gì đó là sự hòa nhập của học sinh khuyết tật vào hệ thống giáo dục phổ thông"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "b40ffe80ec2d4287ac9790c68105f398",
+        "word": "military service",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌmɪlətri ˈsɜːvɪs/",
+            "us": "/ˌmɪləteri ˈsɜːrvɪs/"
+        },
+        "nearby": [
+            {
+                "word": "the Military Medal",
+                "pos": ""
+            },
+            {
+                "word": "military police",
+                "pos": "noun"
+            },
+            {
+                "word": "military service",
+                "pos": "noun"
+            },
+            {
+                "word": "militate",
+                "pos": "verb"
+            },
+            {
+                "word": "militate against",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a period during which young people serve in the armed forces",
+                    "vi": "thời kỳ thanh niên phục vụ trong lực lượng vũ trang"
+                },
+                "examples": [
+                    {
+                        "en": "to be called up for military service",
+                        "vi": "được gọi đi nghĩa vụ quân sự"
+                    },
+                    {
+                        "en": "She has to do her military service.",
+                        "vi": "Cô ấy phải thực hiện nghĩa vụ quân sự của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the time somebody spends in the armed forces",
+                    "vi": "thời gian ai đó dành cho lực lượng vũ trang"
+                },
+                "examples": [
+                    {
+                        "en": "He's completed 30 years of active military service.",
+                        "vi": "Anh ấy đã hoàn thành 30 năm phục vụ trong quân đội."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3a352faf167b49e4bbee992278363207",
+        "word": "multicultural",
+        "pos": "adjective",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌmʌltiˈkʌltʃərəl/",
+            "us": "/ˌmʌltiˈkʌltʃərəl/"
+        },
+        "nearby": [
+            {
+                "word": "multichannel",
+                "pos": "adjective"
+            },
+            {
+                "word": "multicoloured",
+                "pos": "adjective"
+            },
+            {
+                "word": "multicultural",
+                "pos": "adjective"
+            },
+            {
+                "word": "multiculturalism",
+                "pos": "noun"
+            },
+            {
+                "word": "multidimensional",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "for or including people of several different cultures (= beliefs, languages, customs and traditions, etc.)",
+                    "vi": "cho hoặc bao gồm những người thuộc một số nền văn hóa khác nhau (= tín ngưỡng, ngôn ngữ, phong tục và truyền thống, v.v.)"
+                },
+                "examples": [
+                    {
+                        "en": "We live in a multicultural society.",
+                        "vi": "Chúng ta đang sống trong một xã hội đa văn hóa."
+                    },
+                    {
+                        "en": "a multicultural approach to education",
+                        "vi": "một cách tiếp cận đa văn hóa để giáo dục"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "984a0dc5bb414b3c87513fc090313960",
+        "word": "representation",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌreprɪzenˈteɪʃn/",
+            "us": "/ˌreprɪzenˈteɪʃn/"
+        },
+        "nearby": [
+            {
+                "word": "represent",
+                "pos": "verb"
+            },
+            {
+                "word": "re-present",
+                "pos": "verb"
+            },
+            {
+                "word": "representation",
+                "pos": "noun"
+            },
+            {
+                "word": "representational",
+                "pos": "adjective"
+            },
+            {
+                "word": "representative",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the act of presenting somebody/something in a particular way; something that shows or describes something",
+                    "vi": "hành động trình bày ai đó / điều gì đó theo một cách cụ thể; một cái gì đó cho thấy hoặc mô tả một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "the negative representation of single mothers in the media",
+                        "vi": "đại diện tiêu cực của các bà mẹ đơn thân trên các phương tiện truyền thông"
+                    },
+                    {
+                        "en": "The snake swallowing its tail is a representation of infinity.",
+                        "vi": "Con rắn nuốt chửng cái đuôi của nó là đại diện cho sự vô hạn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the fact of having representatives who will speak or vote for you or act in your place",
+                    "vi": "thực tế là có những người đại diện sẽ phát biểu hoặc bỏ phiếu cho bạn hoặc hành động thay cho bạn"
+                },
+                "examples": [
+                    {
+                        "en": "The green movement lacks effective representation in Parliament.",
+                        "vi": "Phong trào xanh thiếu sự đại diện hiệu quả trong Quốc hội."
+                    },
+                    {
+                        "en": "The accused was not allowed legal representation.",
+                        "vi": "Bị cáo không được phép đại diện trước pháp luật."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "formal statements made to somebody in authority, especially in order to make your opinions known or to protest",
+                    "vi": "các tuyên bố chính thức được đưa ra cho người nào đó có thẩm quyền, đặc biệt là để làm cho ý kiến của bạn được biết hoặc để phản đối"
+                },
+                "examples": [
+                    {
+                        "en": "We have made representations to the prime minister, but without success.",
+                        "vi": "Chúng tôi đã trình bày với thủ tướng, nhưng không thành công."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "844dc40c7899433ba305608762c28c06",
+        "word": "senior citizen",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌsiːniə ˈsɪtɪzn/",
+            "us": "/ˌsiːniər ˈsɪtɪzn/"
+        },
+        "nearby": [
+            {
+                "word": "senior aircraftwoman",
+                "pos": "noun"
+            },
+            {
+                "word": "senior chief petty officer",
+                "pos": "noun"
+            },
+            {
+                "word": "senior citizen",
+                "pos": "noun"
+            },
+            {
+                "word": "senior common room",
+                "pos": "noun"
+            },
+            {
+                "word": "senior high school",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an older person, especially somebody who has retired from work. People often call somebody a ‘senior citizen’ to avoid saying that they are old or using the expression ‘old-age pensioner’.",
+                    "vi": "một người lớn tuổi, đặc biệt là một số người đã nghỉ việc. Mọi người thường gọi ai đó là 'người cao tuổi' để tránh nói rằng họ đã già hoặc sử dụng cụm từ 'người già hưu trí'."
+                },
+                "examples": [
+                    {
+                        "en": "discounts/travel concessions for senior citizens",
+                        "vi": "giảm giá / ưu đãi du lịch cho người cao tuổi"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "d6dde2f5d80e485dbbcfc7fd172a199e",
+        "word": "sociological",
+        "pos": "adjective",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌsəʊsiəˈlɒdʒɪkl/",
+            "us": "/ˌsəʊsiəˈlɑːdʒɪkl/"
+        },
+        "nearby": [
+            {
+                "word": "sociolinguistic",
+                "pos": "adjective"
+            },
+            {
+                "word": "sociolinguistics",
+                "pos": "noun"
+            },
+            {
+                "word": "sociological",
+                "pos": "adjective"
+            },
+            {
+                "word": "sociologically",
+                "pos": "adverb"
+            },
+            {
+                "word": "sociologist",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "connected with sociology (= the scientific study of the nature and development of society and social behaviour)",
+                    "vi": "kết nối với xã hội học (= nghiên cứu khoa học về bản chất và sự phát triển của xã hội và hành vi xã hội)"
+                },
+                "examples": [
+                    {
+                        "en": "sociological theories",
+                        "vi": "lý thuyết xã hội học"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "528651bf671a46b1942821bed844c81d",
+        "word": "town meeting",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌtaʊn ˈmiːtɪŋ/",
+            "us": "/ˌtaʊn ˈmiːtɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "town house",
+                "pos": "noun"
+            },
+            {
+                "word": "townie",
+                "pos": "noun"
+            },
+            {
+                "word": "town meeting",
+                "pos": "noun"
+            },
+            {
+                "word": "town planner",
+                "pos": "noun"
+            },
+            {
+                "word": "town planning",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a meeting when people in a town come together to discuss problems that affect the town and to give their opinions on various issues",
+                    "vi": "một cuộc họp khi mọi người trong thị trấn cùng nhau thảo luận về các vấn đề ảnh hưởng đến thị trấn và đưa ra ý kiến của họ về các vấn đề khác nhau"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "306ae2967e3e48e1afa5427e3d7d5a05",
+        "word": "acculturate",
+        "pos": "verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/əˈkʌltʃəreɪt/",
+            "us": "/əˈkʌltʃəreɪt/"
+        },
+        "nearby": [
+            {
+                "word": "accrue",
+                "pos": "verb"
+            },
+            {
+                "word": "acct.",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "acculturate",
+                "pos": "verb"
+            },
+            {
+                "word": "acculturation",
+                "pos": "noun"
+            },
+            {
+                "word": "accumulate",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to learn to live successfully in a different culture; to help somebody to do this",
+                    "vi": "học cách sống thành công trong một nền văn hóa khác; để giúp ai đó làm điều này"
+                },
+                "examples": [
+                    {
+                        "en": "people who have acculturated to the United States",
+                        "vi": "những người đã di cư đến Hoa Kỳ"
+                    },
+                    {
+                        "en": "The course is designed to acculturate new staff.",
+                        "vi": "Khóa học được thiết kế để bổ sung văn hóa cho nhân viên mới."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3472ea56dff14951824663a6321965e2",
+        "word": "acculturation",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/əˌkʌltʃəˈreɪʃn/",
+            "us": "/əˌkʌltʃəˈreɪʃn/"
+        },
+        "nearby": [
+            {
+                "word": "acct.",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "acculturate",
+                "pos": "verb"
+            },
+            {
+                "word": "acculturation",
+                "pos": "noun"
+            },
+            {
+                "word": "accumulate",
+                "pos": "verb"
+            },
+            {
+                "word": "accumulation",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the process of learning to live successfully in a different culture; the process of helping somebody to do this",
+                    "vi": "quá trình học tập để sống thành công trong một nền văn hóa khác; quá trình giúp ai đó làm điều này"
+                },
+                "examples": [
+                    {
+                        "en": "the acculturation of immigrants to American society",
+                        "vi": "sự tiếp biến văn hóa của những người nhập cư vào xã hội Mỹ"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "afb64020515e4dab99a783cb9c1291a2",
+        "word": "active citizen",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌæktɪv ˈsɪtɪzn/",
+            "us": "/ˌæktɪv ˈsɪtɪzn/"
+        },
+        "nearby": [
+            {
+                "word": "active",
+                "pos": "adjective"
+            },
+            {
+                "word": "active",
+                "pos": "noun"
+            },
+            {
+                "word": "active citizen",
+                "pos": "noun"
+            },
+            {
+                "word": "active duty",
+                "pos": "noun"
+            },
+            {
+                "word": "active list",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who is actively involved in trying to improve things in their local community",
+                    "vi": "một người tích cực tham gia vào việc cố gắng cải thiện mọi thứ trong cộng đồng địa phương của họ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "462860ee80a74421aecb7fc587f2a123",
+        "word": "the chattering classes",
+        "pos": "idiom",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtʃætə(r)/",
+            "us": "/ˈtʃætər/"
+        },
+        "nearby": [
+            {
+                "word": "Chattanooga",
+                "pos": ""
+            },
+            {
+                "word": "chattel",
+                "pos": "noun"
+            },
+            {
+                "word": "chatter",
+                "pos": "verb"
+            },
+            {
+                "word": "chatter",
+                "pos": "noun"
+            },
+            {
+                "word": "chatterbox",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to talk quickly and continuously, especially about things that are not important",
+                    "vi": "nói nhanh và liên tục, đặc biệt là về những thứ không quan trọng"
+                },
+                "examples": [
+                    {
+                        "en": "chatter away They chattered away happily for a while.",
+                        "vi": "nói chuyện phiếm Họ nói chuyện phiếm đi một cách vui vẻ trong một thời gian."
+                    },
+                    {
+                        "en": "chatter on He chattered on happily for about half an hour.",
+                        "vi": "chatter on Anh ấy huyên thuyên vui vẻ trong khoảng nửa giờ."
+                    },
+                    {
+                        "en": "chatter to somebody He chattered excitedly to his friends.",
+                        "vi": "huyên thuyên với ai đó Anh ấy huyên thuyên hào hứng với bạn bè của mình."
+                    },
+                    {
+                        "en": "chatter about something We chattered about work.",
+                        "vi": "nói chuyện phiếm về điều gì đó Chúng ta nói chuyện phiếm về công việc."
+                    },
+                    {
+                        "en": "chatter (away/on) (to somebody) (about something) The children chattered to each other excitedly about the next day's events.",
+                        "vi": "chatter (đi / về) (với ai đó) (về điều gì đó) Bọn trẻ nói chuyện với nhau một cách hào hứng về các sự kiện của ngày hôm sau."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to knock together continuously because you are cold or frightened",
+                    "vi": "liên tục gõ vào nhau vì bạn lạnh hoặc sợ hãi"
+                },
+                "examples": [
+                    {
+                        "en": "Her teeth chattered as she dressed.",
+                        "vi": "Răng cô ấy kêu lên khi cô ấy mặc quần áo."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make a series of short high sounds",
+                    "vi": "để tạo ra một loạt âm thanh cao ngắn"
+                },
+                "examples": [
+                    {
+                        "en": "The only sounds we could hear were the birds chattering in the trees.",
+                        "vi": "Âm thanh duy nhất mà chúng tôi có thể nghe thấy là tiếng chim hót trên cây."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the people in society who like to give their opinions on political or social issues",
+                    "vi": "những người trong xã hội thích đưa ra ý kiến của họ về các vấn đề chính trị hoặc xã hội"
+                },
+                "examples": [
+                    {
+                        "en": "Constitutional reform is popular among the chattering classes.",
+                        "vi": "Cải cách hiến pháp là phổ biến trong các tầng lớp huyên thuyên."
+                    },
+                    {
+                        "en": "topics being discussed at the breakfast tables of the chattering classes",
+                        "vi": "chủ đề đang được thảo luận trên bàn ăn sáng của các lớp học nói chuyện phiếm"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e87deabc8cbc40ff83c21ceafa5f3dbe",
+        "word": "civics",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈsɪvɪks/",
+            "us": "/ˈsɪvɪks/"
+        },
+        "nearby": [
+            {
+                "word": "civic centre",
+                "pos": "noun"
+            },
+            {
+                "word": "civic holiday",
+                "pos": "noun"
+            },
+            {
+                "word": "civics",
+                "pos": "noun"
+            },
+            {
+                "word": "the Civic Trust",
+                "pos": ""
+            },
+            {
+                "word": "civil",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the school subject that studies the way government works and deals with the rights and duties that you have as a citizen and a member of a particular society",
+                    "vi": "môn học nghiên cứu cách thức hoạt động của chính phủ và giải quyết các quyền và nghĩa vụ mà bạn có với tư cách là một công dân và một thành viên của một xã hội cụ thể"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "2d4a1c879f84447c981b7ab142a1054a",
+        "word": "denizen",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈdenɪzn/",
+            "us": "/ˈdenɪzn/"
+        },
+        "nearby": [
+            {
+                "word": "denitrification",
+                "pos": "noun"
+            },
+            {
+                "word": "denitrify",
+                "pos": "verb"
+            },
+            {
+                "word": "denizen",
+                "pos": "noun"
+            },
+            {
+                "word": "Denmark",
+                "pos": "noun"
+            },
+            {
+                "word": "den mother",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person, an animal or a plant that lives, grows or is often found in a particular place",
+                    "vi": "một người, một động vật hoặc một thực vật sống, phát triển hoặc thường được tìm thấy ở một nơi cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "polar bears, denizens of the frozen north",
+                        "vi": "gấu bắc cực, cư dân sống ở phương bắc băng giá"
+                    },
+                    {
+                        "en": "the denizens of the local pub",
+                        "vi": "các cư dân của quán rượu địa phương"
+                    },
+                    {
+                        "en": "The denizens of the canteen were mainly the accountants and IT staff.",
+                        "vi": "Cư dân căng tin chủ yếu là kế toán và nhân viên IT."
+                    },
+                    {
+                        "en": "The food was so hard that even the small denizens of the forest had left it untouched.",
+                        "vi": "Thức ăn khó đến nỗi ngay cả những cư dân nhỏ trong rừng cũng bỏ hoang."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0ed3c2d2c2ee47d2b9e30d21fe02e21e",
+        "word": "Generation X",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌdʒenəreɪʃn ˈeks/",
+            "us": "/ˌdʒenəreɪʃn ˈeks/"
+        },
+        "nearby": [
+            {
+                "word": "generational",
+                "pos": "adjective"
+            },
+            {
+                "word": "the generation gap",
+                "pos": "noun"
+            },
+            {
+                "word": "Generation X",
+                "pos": "noun"
+            },
+            {
+                "word": "Generation Xer",
+                "pos": "noun"
+            },
+            {
+                "word": "Generation Y",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the group of people who were born between the middle of the1960s and the late 1970s, who seem to lack a sense of direction in life and to feel that they have no part to play in society",
+                    "vi": "Nhóm những người sinh từ giữa những năm 1960 đến cuối những năm 1970, những người dường như thiếu định hướng trong cuộc sống và cảm thấy rằng họ không có vai trò gì trong xã hội"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "f2abae793bab449e80a046d583476258",
+        "word": "Generation Xer",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌdʒenəreɪʃn ˈeksə(r)/",
+            "us": "/ˌdʒenəreɪʃn ˈeksər/"
+        },
+        "nearby": [
+            {
+                "word": "the generation gap",
+                "pos": "noun"
+            },
+            {
+                "word": "Generation X",
+                "pos": "noun"
+            },
+            {
+                "word": "Generation Xer",
+                "pos": "noun"
+            },
+            {
+                "word": "Generation Y",
+                "pos": "noun"
+            },
+            {
+                "word": "Generation Yer",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who was born between the middle of the 1960s and the late 1970s, which makes them a member of Generation X",
+                    "vi": "một người sinh từ giữa những năm 1960 đến cuối những năm 1970, khiến họ trở thành thành viên của Thế hệ X"
+                },
+                "examples": [
+                    {
+                        "en": "Generation Xers were hit hard during the 2007 economic downturn.",
+                        "vi": "Thế hệ Xers đã bị ảnh hưởng nặng nề trong cuộc suy thoái kinh tế năm 2007."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1653fe1427d84d8495e29f3c601552b7",
+        "word": "Generation Y",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌdʒenəreɪʃn ˈwaɪ/",
+            "us": "/ˌdʒenəreɪʃn ˈwaɪ/"
+        },
+        "nearby": [
+            {
+                "word": "Generation X",
+                "pos": "noun"
+            },
+            {
+                "word": "Generation Xer",
+                "pos": "noun"
+            },
+            {
+                "word": "Generation Y",
+                "pos": "noun"
+            },
+            {
+                "word": "Generation Yer",
+                "pos": "noun"
+            },
+            {
+                "word": "Generation Z",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the group of people who were born between the early 1980s and the late 1990s, who are mainly the children of the baby boomers and who are regarded as being very familiar with computers and electronic technology",
+                    "vi": "nhóm những người sinh từ đầu những năm 1980 đến cuối những năm 1990, chủ yếu là con cái của những người mới thành lập và được coi là rất quen thuộc với máy tính và công nghệ điện tử"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "7641f2754bc2490294855eb27e49b7ce",
+        "word": "Generation Yer",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌdʒenəreɪʃn ˈwaɪə(r)/",
+            "us": "/ˌdʒenəreɪʃn ˈwaɪər/"
+        },
+        "nearby": [
+            {
+                "word": "Generation Xer",
+                "pos": "noun"
+            },
+            {
+                "word": "Generation Y",
+                "pos": "noun"
+            },
+            {
+                "word": "Generation Yer",
+                "pos": "noun"
+            },
+            {
+                "word": "Generation Z",
+                "pos": "noun"
+            },
+            {
+                "word": "Generation Zer",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who was born between the early 1980s and the late 1990s, which makes them a member of Generation Y",
+                    "vi": "một người sinh từ đầu những năm 1980 đến cuối những năm 1990, khiến họ trở thành thành viên của Thế hệ Y"
+                },
+                "examples": [
+                    {
+                        "en": "he brand is looking to attract tech-savvy millennials and Generation Yers.",
+                        "vi": "thương hiệu của anh ấy đang tìm cách thu hút những người thuộc thế hệ Y và Thế hệ Y hiểu biết về công nghệ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "233ab570e57c410fb960690350ee0350",
+        "word": "Generation Z",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌdʒenəreɪʃn ˈzed/",
+            "us": "/ˌdʒenəreɪʃn ˈziː/"
+        },
+        "nearby": [
+            {
+                "word": "Generation Y",
+                "pos": "noun"
+            },
+            {
+                "word": "Generation Yer",
+                "pos": "noun"
+            },
+            {
+                "word": "Generation Z",
+                "pos": "noun"
+            },
+            {
+                "word": "Generation Zer",
+                "pos": "noun"
+            },
+            {
+                "word": "generative",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the group of people who were born between the late 1990s and the early 2010s, who are regarded as being very familiar with the internet",
+                    "vi": "nhóm những người sinh từ cuối những năm 1990 đến đầu những năm 2010, những người được coi là rất quen thuộc với Internet"
+                },
+                "examples": [
+                    {
+                        "en": "Shifts in workplace culture driven by Generation Z will shape the future of work.",
+                        "vi": "Những thay đổi trong văn hóa công sở do Thế hệ Z thúc đẩy sẽ định hình tương lai của công việc."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2a2851997837464e87c48f0e482a6116",
+        "word": "Generation Zer",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌdʒenəreɪʃn ˈzedə(r)/",
+            "us": "/ˌdʒenəreɪʃn ˈziːər/"
+        },
+        "nearby": [
+            {
+                "word": "Generation Yer",
+                "pos": "noun"
+            },
+            {
+                "word": "Generation Z",
+                "pos": "noun"
+            },
+            {
+                "word": "Generation Zer",
+                "pos": "noun"
+            },
+            {
+                "word": "generative",
+                "pos": "adjective"
+            },
+            {
+                "word": "generative grammar",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who was born between the late 1990s and the early 2010s, which makes them a member of Generation Z",
+                    "vi": "một người sinh từ cuối những năm 1990 đến đầu những năm 2010, khiến họ trở thành thành viên của Thế hệ Z"
+                },
+                "examples": [
+                    {
+                        "en": "Generation Zers have been posting viral videos on the topic.",
+                        "vi": "Thế hệ Zers đã đăng các video lan truyền về chủ đề này."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1c7c072aaeb945e9b5e56705a083835f",
+        "word": "Gen X",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌdʒen ˈeks/",
+            "us": "/ˌdʒen ˈeks/"
+        },
+        "nearby": [
+            {
+                "word": "gen up",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "genus",
+                "pos": "noun"
+            },
+            {
+                "word": "Gen X",
+                "pos": "noun"
+            },
+            {
+                "word": "Gen Xer",
+                "pos": "noun"
+            },
+            {
+                "word": "Gen Y",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the group of people who were born between the middle of the 1960s and the late 1970s, who seem to lack a sense of direction in life and to feel that they have no part to play in society",
+                    "vi": "nhóm những người sinh từ giữa những năm 1960 đến cuối những năm 1970, những người dường như thiếu định hướng trong cuộc sống và cảm thấy rằng họ không có vai trò gì trong xã hội"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "ba106e2bdd0140e1bb04d461a1ea4a56",
+        "word": "Gen Xer",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌdʒen ˈeksə(r)/",
+            "us": "/ˌdʒen ˈeksər/"
+        },
+        "nearby": [
+            {
+                "word": "genus",
+                "pos": "noun"
+            },
+            {
+                "word": "Gen X",
+                "pos": "noun"
+            },
+            {
+                "word": "Gen Xer",
+                "pos": "noun"
+            },
+            {
+                "word": "Gen Y",
+                "pos": "noun"
+            },
+            {
+                "word": "Gen Yer",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who was born between the middle of the 1960s and the late 1970s, which makes them a member of Generation X",
+                    "vi": "một người sinh từ giữa những năm 1960 đến cuối những năm 1970, khiến họ trở thành thành viên của Thế hệ X"
+                },
+                "examples": [
+                    {
+                        "en": "1 in 3 Gen Xers said they were most concerned about saving enough for retirement.",
+                        "vi": "1 trong 3 Gen Xers cho biết họ lo lắng nhất về việc tiết kiệm đủ để nghỉ hưu."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ab120e62ca5645aca33a44d8b4939cd1",
+        "word": "Gen Y",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌdʒen ˈwaɪ/",
+            "us": "/ˌdʒen ˈwaɪ/"
+        },
+        "nearby": [
+            {
+                "word": "Gen X",
+                "pos": "noun"
+            },
+            {
+                "word": "Gen Xer",
+                "pos": "noun"
+            },
+            {
+                "word": "Gen Y",
+                "pos": "noun"
+            },
+            {
+                "word": "Gen Yer",
+                "pos": "noun"
+            },
+            {
+                "word": "Gen Z",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the group of people who were born between the early 1980s and the late 1990s, who are mainly the children of the baby boomers and who are regarded as being very familiar with computers and electronic technology",
+                    "vi": "nhóm những người sinh từ đầu những năm 1980 đến cuối những năm 1990, chủ yếu là con cái của những người mới thành lập và được coi là rất quen thuộc với máy tính và công nghệ điện tử"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "6932d6b909754d1885d533cc42a194c7",
+        "word": "Gen Yer",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌdʒen ˈwaɪə(r)/",
+            "us": "/ˌdʒen ˈwaɪər/"
+        },
+        "nearby": [
+            {
+                "word": "Gen Xer",
+                "pos": "noun"
+            },
+            {
+                "word": "Gen Y",
+                "pos": "noun"
+            },
+            {
+                "word": "Gen Yer",
+                "pos": "noun"
+            },
+            {
+                "word": "Gen Z",
+                "pos": "noun"
+            },
+            {
+                "word": "Gen Zer",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who was born between the early 1980s and the late 1990s, which makes them a member of Generation Y",
+                    "vi": "một người sinh từ đầu những năm 1980 đến cuối những năm 1990, khiến họ trở thành thành viên của Thế hệ Y"
+                },
+                "examples": [
+                    {
+                        "en": "The brand is looking to attract tech-savvy millennials and Gen Yers.",
+                        "vi": "Thương hiệu đang tìm cách thu hút thế hệ millennials hiểu biết về công nghệ và thế hệ Yers."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f3cf16fe977b4b5d82f191e3acdd0835",
+        "word": "Gen Z",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌdʒen ˈzed/",
+            "us": "/ˌdʒen ˈziː/"
+        },
+        "nearby": [
+            {
+                "word": "Gen Y",
+                "pos": "noun"
+            },
+            {
+                "word": "Gen Yer",
+                "pos": "noun"
+            },
+            {
+                "word": "Gen Z",
+                "pos": "noun"
+            },
+            {
+                "word": "Gen Zer",
+                "pos": "noun"
+            },
+            {
+                "word": "geo-",
+                "pos": "combining form"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the group of people who were born between the late 1990s and the early 2010s, who are regarded as being very familiar with the internet",
+                    "vi": "nhóm những người sinh từ cuối những năm 1990 đến đầu những năm 2010, những người được coi là rất quen thuộc với Internet"
+                },
+                "examples": [
+                    {
+                        "en": "Gen Z rely heavily on smartphones to manage all aspects of their lives.",
+                        "vi": "Thế hệ Z chủ yếu dựa vào điện thoại thông minh để quản lý mọi khía cạnh trong cuộc sống của họ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7f881a0641b040b2a63ae61a029e5d8f",
+        "word": "Gen Zer",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌdʒen ˈzedə(r)/",
+            "us": "/ˌdʒen ˈziːər/"
+        },
+        "nearby": [
+            {
+                "word": "Gen Yer",
+                "pos": "noun"
+            },
+            {
+                "word": "Gen Z",
+                "pos": "noun"
+            },
+            {
+                "word": "Gen Zer",
+                "pos": "noun"
+            },
+            {
+                "word": "geo-",
+                "pos": "combining form"
+            },
+            {
+                "word": "geocache",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who was born between the late 1990s and the early 2010s, which makes them a member of Generation Z",
+                    "vi": "một người sinh từ cuối những năm 1990 đến đầu những năm 2010, khiến họ trở thành thành viên của Thế hệ Z"
+                },
+                "examples": [
+                    {
+                        "en": "Millennials and Gen Zers make up the majority of the workforce these days.",
+                        "vi": "Millennials và Gen Zers chiếm phần lớn lực lượng lao động ngày nay."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5aa9885220d1407caaa418888fa8c310",
+        "word": "global village",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌɡləʊbl ˈvɪlɪdʒ/",
+            "us": "/ˌɡləʊbl ˈvɪlɪdʒ/"
+        },
+        "nearby": [
+            {
+                "word": "global positioning system",
+                "pos": "noun"
+            },
+            {
+                "word": "the Global South",
+                "pos": "noun"
+            },
+            {
+                "word": "global village",
+                "pos": "noun"
+            },
+            {
+                "word": "global warming",
+                "pos": "noun"
+            },
+            {
+                "word": "globe",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the whole world, looked at as a single community that is connected by electronic communication systems",
+                    "vi": "toàn thế giới, được xem như một cộng đồng duy nhất được kết nối bằng các hệ thống liên lạc điện tử"
+                },
+                "examples": [
+                    {
+                        "en": "Television has helped to create a global village.",
+                        "vi": "Truyền hình đã giúp tạo ra một ngôi làng toàn cầu."
+                    },
+                    {
+                        "en": "Technology has turned the world into a global village.",
+                        "vi": "Công nghệ đã biến thế giới thành một ngôi làng toàn cầu."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7cc48c8097fa406aafabff4bc5b81efe",
+        "word": "grassroots",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌɡrɑːsˈruːts/",
+            "us": "/ˌɡræsˈruːts/"
+        },
+        "nearby": [
+            {
+                "word": "grassland",
+                "pos": "noun"
+            },
+            {
+                "word": "grass over",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "grassroots",
+                "pos": "noun"
+            },
+            {
+                "word": "grass skirt",
+                "pos": "noun"
+            },
+            {
+                "word": "grass snake",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "ordinary people in society or in an organization, rather than the leaders or people who make decisions",
+                    "vi": "những người bình thường trong xã hội hoặc trong một tổ chức, chứ không phải là những người lãnh đạo hoặc những người đưa ra quyết định"
+                },
+                "examples": [
+                    {
+                        "en": "the grassroots of the party",
+                        "vi": "cơ sở của đảng"
+                    },
+                    {
+                        "en": "We need support at grassroots level.",
+                        "vi": "Chúng tôi cần hỗ trợ ở cấp cơ sở."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "21684fb7aa8f4a059c5f93b22372864a",
+        "word": "inclusionary",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ɪnˈkluːʒənri/",
+            "us": "/ɪnˈkluːʒəneri/"
+        },
+        "nearby": [
+            {
+                "word": "including",
+                "pos": "preposition"
+            },
+            {
+                "word": "inclusion",
+                "pos": "noun"
+            },
+            {
+                "word": "inclusionary",
+                "pos": "adjective"
+            },
+            {
+                "word": "inclusive",
+                "pos": "adjective"
+            },
+            {
+                "word": "inclusively",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "designed to give everybody equal access to resources and opportunities, whatever their physical or mental abilities, ethnic group, etc.",
+                    "vi": "được thiết kế để cung cấp cho mọi người quyền tiếp cận bình đẳng với các nguồn lực và cơ hội, bất kể khả năng thể chất hoặc tinh thần của họ, nhóm dân tộc, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "The company's inclusionary vision is in keeping with our values.",
+                        "vi": "Tầm nhìn toàn diện của công ty phù hợp với các giá trị của chúng tôi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "cdc2ed1c9f674fd28b3be3b54e68dacc",
+        "word": "intersectional",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌɪntəˈsekʃənl/",
+            "us": "/ˌɪntərˈsekʃənl/"
+        },
+        "nearby": [
+            {
+                "word": "intersect",
+                "pos": "verb"
+            },
+            {
+                "word": "intersection",
+                "pos": "noun"
+            },
+            {
+                "word": "intersectional",
+                "pos": "adjective"
+            },
+            {
+                "word": "intersectionality",
+                "pos": "noun"
+            },
+            {
+                "word": "intersex",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "relating to different social categories such as race, class and gender and the way that these can combine to result in additional disadvantage or discrimination",
+                    "vi": "liên quan đến các nhóm xã hội khác nhau như chủng tộc, giai cấp và giới tính và cách mà chúng có thể kết hợp để dẫn đến bất lợi hoặc phân biệt đối xử bổ sung"
+                },
+                "examples": [
+                    {
+                        "en": "Intersectional feminism includes all women, whatever their ethnicity, class, sexual orientation, etc.",
+                        "vi": "Chủ nghĩa nữ quyền xen kẽ bao gồm tất cả phụ nữ, bất kể dân tộc, giai cấp, khuynh hướng tình dục, v.v."
+                    },
+                    {
+                        "en": "She is excited to represent her intersectional identities as a low-income student and a woman of color in STEM.",
+                        "vi": "Cô ấy rất vui mừng khi được đại diện cho các đặc điểm nhận dạng khác nhau của mình với tư cách là một sinh viên có thu nhập thấp và một phụ nữ da màu trong STEM."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ae46f7574f5e4e48a1de356ca114f1ee",
+        "word": "intersectionality",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌɪntəsekʃəˈnæləti/",
+            "us": "/ˌɪntərsekʃəˈnæləti/"
+        },
+        "nearby": [
+            {
+                "word": "intersection",
+                "pos": "noun"
+            },
+            {
+                "word": "intersectional",
+                "pos": "adjective"
+            },
+            {
+                "word": "intersectionality",
+                "pos": "noun"
+            },
+            {
+                "word": "intersex",
+                "pos": "adjective"
+            },
+            {
+                "word": "intersex",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the network of connections between social categories such as race, class and gender, especially when this may result in additional disadvantage or discrimination",
+                    "vi": "mạng lưới kết nối giữa các nhóm xã hội như chủng tộc, giai cấp và giới tính, đặc biệt khi điều này có thể dẫn đến bất lợi hoặc phân biệt đối xử"
+                },
+                "examples": [
+                    {
+                        "en": "An awareness of intersectionality can allow us to better understand our unconscious prejudices.",
+                        "vi": "Nhận thức về tính giao nhau có thể cho phép chúng ta hiểu rõ hơn về những định kiến vô thức của mình."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "663924b91f664e478865ad600060a61d",
+        "word": "multiculturalism",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌmʌltiˈkʌltʃərəlɪzəm/",
+            "us": "/ˌmʌltiˈkʌltʃərəlɪzəm/"
+        },
+        "nearby": [
+            {
+                "word": "multicoloured",
+                "pos": "adjective"
+            },
+            {
+                "word": "multicultural",
+                "pos": "adjective"
+            },
+            {
+                "word": "multiculturalism",
+                "pos": "noun"
+            },
+            {
+                "word": "multidimensional",
+                "pos": "adjective"
+            },
+            {
+                "word": "multidisciplinary",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the practice of giving importance to all cultures in a society",
+                    "vi": "thực hành coi trọng tất cả các nền văn hóa trong một xã hội"
+                },
+                "examples": [
+                    {
+                        "en": "an organization that promotes multiculturalism",
+                        "vi": "một tổ chức thúc đẩy chủ nghĩa đa văn hóa"
+                    },
+                    {
+                        "en": "critics of multiculturalism",
+                        "vi": "những người chỉ trích chủ nghĩa đa văn hóa"
+                    },
+                    {
+                        "en": "We want to celebrate diversity and multiculturalism in this city.",
+                        "vi": "Chúng tôi muốn tôn vinh sự đa dạng và đa văn hóa ở thành phố này."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "bc47e18696384896aa6682c52647a9a3",
+        "word": "nimby",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈnɪmbi/",
+            "us": "/ˈnɪmbi/"
+        },
+        "nearby": [
+            {
+                "word": "nimbostratus",
+                "pos": "noun"
+            },
+            {
+                "word": "nimbus",
+                "pos": "noun"
+            },
+            {
+                "word": "nimby",
+                "pos": "noun"
+            },
+            {
+                "word": "Chester Nimitz",
+                "pos": ""
+            },
+            {
+                "word": "nincompoop",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who claims to be in favour of a new development or project, but objects if it is too near their home and will affect them in some way",
+                    "vi": "một người tuyên bố ủng hộ một sự phát triển hoặc dự án mới, nhưng lại phản đối nếu nó quá gần nhà của họ và sẽ ảnh hưởng đến họ theo một cách nào đó"
+                },
+                "examples": [
+                    {
+                        "en": "The nimbies were out in force against proposals for a high-speed rail link.",
+                        "vi": "Các nimbies đã có hiệu lực chống lại các đề xuất về một liên kết đường sắt tốc độ cao."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "38de4bdaa72a4d76a432ef64d1c437f9",
+        "word": "plural",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈplʊərəl/",
+            "us": "/ˈplʊrəl/"
+        },
+        "nearby": [
+            {
+                "word": "pluperfect",
+                "pos": "noun"
+            },
+            {
+                "word": "plural",
+                "pos": "noun"
+            },
+            {
+                "word": "plural",
+                "pos": "adjective"
+            },
+            {
+                "word": "pluralism",
+                "pos": "noun"
+            },
+            {
+                "word": "pluralist",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "connected with or having the plural form",
+                    "vi": "được kết nối với hoặc có dạng số nhiều"
+                },
+                "examples": [
+                    {
+                        "en": "Most plural nouns in English end in ‘s’.",
+                        "vi": "Hầu hết các danh từ số nhiều trong tiếng Anh đều kết thúc bằng 's'."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "relating to more than one",
+                    "vi": "liên quan đến nhiều hơn một"
+                },
+                "examples": [
+                    {
+                        "en": "a plural society (= one with more than one racial, religious, etc. group)",
+                        "vi": "một xã hội số nhiều (= một xã hội có nhiều hơn một nhóm chủng tộc, tôn giáo, v.v.)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "48e4d9a8449a4bcaba20866f29fe8c8b",
+        "word": "pluralism",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈplʊərəlɪzəm/",
+            "us": "/ˈplʊrəlɪzəm/"
+        },
+        "nearby": [
+            {
+                "word": "plural",
+                "pos": "noun"
+            },
+            {
+                "word": "plural",
+                "pos": "adjective"
+            },
+            {
+                "word": "pluralism",
+                "pos": "noun"
+            },
+            {
+                "word": "pluralist",
+                "pos": "adjective"
+            },
+            {
+                "word": "pluralist",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the existence of many different groups of people in one society, for example people of different political or religious beliefs, or people from different ethnic groups",
+                    "vi": "sự tồn tại của nhiều nhóm người khác nhau trong một xã hội, ví dụ những người có niềm tin chính trị hoặc tôn giáo khác nhau, hoặc những người từ các nhóm dân tộc khác nhau"
+                },
+                "examples": [
+                    {
+                        "en": "cultural pluralism",
+                        "vi": "đa nguyên văn hóa"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the belief that it is possible and good for different groups of people to live together in peace in one society",
+                    "vi": "niềm tin rằng có thể và tốt cho các nhóm người khác nhau cùng chung sống hòa bình trong một xã hội"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the fact of having more than one job or position at the same time, especially in the Church",
+                    "vi": "thực tế là có nhiều công việc hoặc chức vụ cùng một lúc, đặc biệt là trong Giáo hội"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "6b901381cf8d443ab08103aec1a94475",
+        "word": "pluralist",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈplʊərəlɪst/",
+            "us": "/ˈplʊrəlɪst/"
+        },
+        "nearby": [
+            {
+                "word": "plural",
+                "pos": "adjective"
+            },
+            {
+                "word": "pluralism",
+                "pos": "noun"
+            },
+            {
+                "word": "pluralist",
+                "pos": "adjective"
+            },
+            {
+                "word": "pluralist",
+                "pos": "noun"
+            },
+            {
+                "word": "plurality",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "having many different groups of people and different political parties in it",
+                    "vi": "có nhiều nhóm người khác nhau và các đảng phái chính trị khác nhau trong đó"
+                },
+                "examples": [
+                    {
+                        "en": "a pluralist democracy",
+                        "vi": "một nền dân chủ đa nguyên"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "not based on a single set of principles or beliefs",
+                    "vi": "không dựa trên một bộ nguyên tắc hoặc niềm tin duy nhất"
+                },
+                "examples": [
+                    {
+                        "en": "a pluralist approach to politics",
+                        "vi": "một cách tiếp cận đa nguyên đối với chính trị"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9c7b804304c4458cb8ec01d055f931f7",
+        "word": "pluralist",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈplʊərəlɪst/",
+            "us": "/ˈplʊrəlɪst/"
+        },
+        "nearby": [
+            {
+                "word": "pluralism",
+                "pos": "noun"
+            },
+            {
+                "word": "pluralist",
+                "pos": "adjective"
+            },
+            {
+                "word": "pluralist",
+                "pos": "noun"
+            },
+            {
+                "word": "plurality",
+                "pos": "noun"
+            },
+            {
+                "word": "pluralization",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who believes that it is possible and good for different groups of people to live together in peace in our society",
+                    "vi": "một người tin rằng có thể và tốt cho các nhóm người khác nhau cùng chung sống hòa bình trong xã hội của chúng ta"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person who has more than one job or position at the same time, especially in the Church",
+                    "vi": "một người có nhiều công việc hoặc chức vụ cùng một lúc, đặc biệt là trong Giáo hội"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "e2b11d3de85d422486ca822e0eb3d240",
+        "word": "polity",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpɒləti/",
+            "us": "/ˈpɑːləti/"
+        },
+        "nearby": [
+            {
+                "word": "politico",
+                "pos": "noun"
+            },
+            {
+                "word": "politics",
+                "pos": "noun"
+            },
+            {
+                "word": "polity",
+                "pos": "noun"
+            },
+            {
+                "word": "James K Polk",
+                "pos": ""
+            },
+            {
+                "word": "polka",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a society as a political unit",
+                    "vi": "một xã hội với tư cách là một đơn vị chính trị"
+                },
+                "examples": [
+                    {
+                        "en": "Such institutions have special significance in a democratic polity.",
+                        "vi": "Những thể chế như vậy có ý nghĩa đặc biệt trong một chính thể dân chủ."
+                    },
+                    {
+                        "en": "The book offers an introduction to the distinctive nature of the British polity.",
+                        "vi": "Cuốn sách giới thiệu về bản chất đặc biệt của chính thể Anh."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the form or process of government",
+                    "vi": "hình thức hoặc quy trình của chính phủ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "8ccf48ea2279483887c4b160d62873ce",
+        "word": "public spirit",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌpʌblɪk ˈspɪrɪt/",
+            "us": "/ˌpʌblɪk ˈspɪrɪt/"
+        },
+        "nearby": [
+            {
+                "word": "public spending",
+                "pos": "noun"
+            },
+            {
+                "word": "public spending round",
+                "pos": "noun"
+            },
+            {
+                "word": "public spirit",
+                "pos": "noun"
+            },
+            {
+                "word": "public-spirited",
+                "pos": "adjective"
+            },
+            {
+                "word": "public television",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the quality of being willing to do things that will help other people in society",
+                    "vi": "phẩm chất sẵn sàng làm những việc có ích cho người khác trong xã hội"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "d24a6711bb8f4cd88b687abea2fc4be7",
+        "word": "public-spirited",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌpʌblɪk ˈspɪrɪtɪd/",
+            "us": "/ˌpʌblɪk ˈspɪrɪtɪd/"
+        },
+        "nearby": [
+            {
+                "word": "public spending round",
+                "pos": "noun"
+            },
+            {
+                "word": "public spirit",
+                "pos": "noun"
+            },
+            {
+                "word": "public-spirited",
+                "pos": "adjective"
+            },
+            {
+                "word": "public television",
+                "pos": "noun"
+            },
+            {
+                "word": "public transit",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "willing to do things that will help other people in society",
+                    "vi": "sẵn sàng làm những việc có ích cho những người khác trong xã hội"
+                },
+                "examples": [
+                    {
+                        "en": "a public-spirited act",
+                        "vi": "một hành động tinh thần công cộng"
+                    },
+                    {
+                        "en": "That was very public-spirited of you.",
+                        "vi": "Đó là tinh thần công cộng của bạn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "81b2ff63684244d29d37abb7ac998dfe",
+        "word": "social capital",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌsəʊʃl ˈkæpɪtl/",
+            "us": "/ˌsəʊʃl ˈkæpɪtl/"
+        },
+        "nearby": [
+            {
+                "word": "social bookmarking",
+                "pos": "noun"
+            },
+            {
+                "word": "social bubble",
+                "pos": "noun"
+            },
+            {
+                "word": "social capital",
+                "pos": "noun"
+            },
+            {
+                "word": "the Social Chapter",
+                "pos": ""
+            },
+            {
+                "word": "social climber",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the networks of relationships among people who live and work in a particular society that enable the society to exist and be successful",
+                    "vi": "mạng lưới quan hệ giữa những người sống và làm việc trong một xã hội cụ thể giúp xã hội tồn tại và thành công"
+                },
+                "examples": [
+                    {
+                        "en": "Building social capital requires trust and participation among individuals.",
+                        "vi": "Xây dựng vốn xã hội đòi hỏi sự tin tưởng và tham gia giữa các cá nhân."
+                    },
+                    {
+                        "en": "The middle-class kid, whose dad knows the company director, is said to have more social capital.",
+                        "vi": "Đứa trẻ thuộc tầng lớp trung lưu, có bố biết giám đốc công ty, được cho là có nhiều vốn xã hội hơn."
+                    },
+                    {
+                        "en": "Corporations transform social capital into economic capital.",
+                        "vi": "Các tập đoàn biến vốn xã hội thành vốn kinh tế."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0520870f4c814c32b66ac81e3404a809",
+        "word": "social contract",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌsəʊʃl ˈkɒntrækt/",
+            "us": "/ˌsəʊʃl ˈkɑːntrækt/"
+        },
+        "nearby": [
+            {
+                "word": "social climber",
+                "pos": "noun"
+            },
+            {
+                "word": "social conscience",
+                "pos": "noun"
+            },
+            {
+                "word": "social contract",
+                "pos": "noun"
+            },
+            {
+                "word": "social Darwinism",
+                "pos": "noun"
+            },
+            {
+                "word": "social democracy",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the agreement among citizens to behave in a way that benefits everybody that forms the basis of society",
+                    "vi": "thỏa thuận giữa các công dân để cư xử theo cách có lợi cho tất cả mọi người, vốn là nền tảng của xã hội"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "4fba337a9a9140aa8bc7b164b7a4c890",
+        "word": "sociopolitical",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌsəʊsiəʊpəˈlɪtɪkl/",
+            "us": "/ˌsəʊsiəʊpəˈlɪtɪkl/"
+        },
+        "nearby": [
+            {
+                "word": "sociology",
+                "pos": "noun"
+            },
+            {
+                "word": "sociopath",
+                "pos": "noun"
+            },
+            {
+                "word": "sociopolitical",
+                "pos": "adjective"
+            },
+            {
+                "word": "sock",
+                "pos": "noun"
+            },
+            {
+                "word": "sock",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "relating to society and politics",
+                    "vi": "liên quan đến xã hội và chính trị"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "3184758b25e444ce8c8f74afaf3cb051",
+        "word": "stateless",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈsteɪtləs/",
+            "us": "/ˈsteɪtləs/"
+        },
+        "nearby": [
+            {
+                "word": "statehood",
+                "pos": "noun"
+            },
+            {
+                "word": "state house",
+                "pos": "noun"
+            },
+            {
+                "word": "stateless",
+                "pos": "adjective"
+            },
+            {
+                "word": "statelessness",
+                "pos": "noun"
+            },
+            {
+                "word": "statelet",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "not officially a citizen of any country",
+                    "vi": "không chính thức là công dân của bất kỳ quốc gia nào"
+                },
+                "examples": [
+                    {
+                        "en": "The children of illegal immigrants will in many cases be born stateless.",
+                        "vi": "Con cái của những người nhập cư bất hợp pháp trong nhiều trường hợp sẽ được sinh ra không quốc tịch."
+                    }
+                ]
+            }
+        ]
+    }
+]

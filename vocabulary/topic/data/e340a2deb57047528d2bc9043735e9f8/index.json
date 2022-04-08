@@ -1,0 +1,5402 @@
+[
+    {
+        "id": "0e6492bc61224828b95fb3bc207e97f3",
+        "word": "criminal",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/ˈkrɪmɪnl/",
+            "us": "/ˈkrɪmɪnl/"
+        },
+        "nearby": [
+            {
+                "word": "Crimewatch",
+                "pos": ""
+            },
+            {
+                "word": "crime wave",
+                "pos": "noun"
+            },
+            {
+                "word": "criminal",
+                "pos": "noun"
+            },
+            {
+                "word": "criminal",
+                "pos": "adjective"
+            },
+            {
+                "word": "criminal damage",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who commits a crime",
+                    "vi": "một người phạm tội"
+                },
+                "examples": [
+                    {
+                        "en": "a convicted criminal",
+                        "vi": "một tội phạm bị kết án"
+                    },
+                    {
+                        "en": "Police sometimes put themselves in danger when arresting violent criminals.",
+                        "vi": "Cảnh sát đôi khi tự đặt mình vào tình thế nguy hiểm khi bắt giữ những tên tội phạm hung hãn."
+                    },
+                    {
+                        "en": "Society does not know how to deal with hardened criminals (= people who regularly commit crimes and are not sorry for what they do).",
+                        "vi": "Xã hội không biết làm thế nào để đối phó với những tên tội phạm cứng rắn (= những người thường xuyên phạm tội và không hối tiếc về những gì họ đã làm)."
+                    },
+                    {
+                        "en": "(especially North American English) a career criminal (= who earns their income through criminal activities)",
+                        "vi": "(đặc biệt là tiếng Anh ở Bắc Mỹ) tội phạm nghề nghiệp (= kẻ kiếm được thu nhập thông qua các hoạt động tội phạm)"
+                    },
+                    {
+                        "en": "He admits to being a petty criminal (= who commits crimes that are not very serious).",
+                        "vi": "Anh ta thừa nhận là một tội phạm nhỏ (= người phạm tội không nghiêm trọng lắm)."
+                    },
+                    {
+                        "en": "white-collar criminals",
+                        "vi": "tội phạm cổ cồn trắng"
+                    },
+                    {
+                        "en": "a gang of criminals",
+                        "vi": "một băng nhóm tội phạm"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c647eb8dc4c34e2a8b0debb852a01a16",
+        "word": "thief",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/θiːf/",
+            "us": "/θiːf/"
+        },
+        "nearby": [
+            {
+                "word": "thickset",
+                "pos": "adjective"
+            },
+            {
+                "word": "thick-skinned",
+                "pos": "adjective"
+            },
+            {
+                "word": "thief",
+                "pos": "noun"
+            },
+            {
+                "word": "thievery",
+                "pos": "noun"
+            },
+            {
+                "word": "thieving",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who steals something from another person or place",
+                    "vi": "một người ăn cắp một cái gì đó từ người khác hoặc địa điểm"
+                },
+                "examples": [
+                    {
+                        "en": "a car/jewel thief",
+                        "vi": "một tên trộm xe hơi / đồ trang sức"
+                    },
+                    {
+                        "en": "a gang of thieves",
+                        "vi": "một băng nhóm trộm"
+                    },
+                    {
+                        "en": "Thieves stole £70 000 worth of jewellery from his home.",
+                        "vi": "Những tên trộm đã lấy trộm đồ trang sức trị giá £ 70 000 từ nhà của anh ta."
+                    },
+                    {
+                        "en": "a petty thief (= who steals items of quite low value)",
+                        "vi": "một tên trộm vặt (= kẻ trộm những món đồ có giá trị khá thấp)"
+                    },
+                    {
+                        "en": "It is the fourth time the shop has been targeted by thieves.",
+                        "vi": "Đây là lần thứ tư cửa hàng là mục tiêu của bọn trộm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to say that even criminals have standards of behaviour that they respect",
+                    "vi": "được sử dụng để nói rằng ngay cả tội phạm cũng có các tiêu chuẩn hành vi mà họ tôn trọng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "very friendly, especially in a way that makes other people suspect that something wrong, illegal or dishonest is involved in the situation",
+                    "vi": "rất thân thiện, đặc biệt là theo cách khiến người khác nghi ngờ rằng có điều gì đó sai trái, bất hợp pháp hoặc không trung thực có liên quan đến tình huống"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "b52c9dd503664da486ce6c242a0698e4",
+        "word": "attacker",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/əˈtækə(r)/",
+            "us": "/əˈtækər/"
+        },
+        "nearby": [
+            {
+                "word": "attack ad",
+                "pos": "noun"
+            },
+            {
+                "word": "attack dog",
+                "pos": "noun"
+            },
+            {
+                "word": "attacker",
+                "pos": "noun"
+            },
+            {
+                "word": "attagirl",
+                "pos": "exclamation"
+            },
+            {
+                "word": "attain",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who attacks somebody",
+                    "vi": "một người tấn công ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "She didn't really see her attacker.",
+                        "vi": "Cô ấy không thực sự nhìn thấy kẻ tấn công mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a player who tries to score in games such as football (soccer), hockey, etc.",
+                    "vi": "một cầu thủ cố gắng ghi bàn trong các trò chơi như bóng đá (bóng đá), khúc côn cầu, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "At home we play with three attackers and three midfielders.",
+                        "vi": "Trên sân nhà, chúng tôi chơi với 3 cầu thủ tấn công và 3 tiền vệ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ae9b4c668e3943a89e5864f68dcc8d8c",
+        "word": "bomber",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈbɒmə(r)/",
+            "us": "/ˈbɑːmər/"
+        },
+        "nearby": [
+            {
+                "word": "bombe",
+                "pos": "noun"
+            },
+            {
+                "word": "bombed",
+                "pos": "adjective"
+            },
+            {
+                "word": "bomber",
+                "pos": "noun"
+            },
+            {
+                "word": "bomber jacket",
+                "pos": "noun"
+            },
+            {
+                "word": "bombing",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a plane that carries and drops bombs",
+                    "vi": "một chiếc máy bay mang và thả bom"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person who puts a bomb somewhere illegally",
+                    "vi": "một người đặt bom ở đâu đó bất hợp pháp"
+                },
+                "examples": [
+                    {
+                        "en": "The bomber was caught by security officers before he could arm the device.",
+                        "vi": "Kẻ đánh bom đã bị các nhân viên an ninh bắt trước khi hắn có thể trang bị thiết bị."
+                    },
+                    {
+                        "en": "The suicide bomber blew himself up in a crowded restaurant, killing twelve people.",
+                        "vi": "Kẻ đánh bom liều chết đã tự nổ tung trong một nhà hàng đông đúc, giết chết 12 người."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "dc357c1546c94cbbb40dcb2d70bb8a3d",
+        "word": "burglar",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈbɜːɡlə(r)/",
+            "us": "/ˈbɜːrɡlər/"
+        },
+        "nearby": [
+            {
+                "word": "Lord Burghley",
+                "pos": ""
+            },
+            {
+                "word": "Burghley House",
+                "pos": ""
+            },
+            {
+                "word": "burglar",
+                "pos": "noun"
+            },
+            {
+                "word": "burglar alarm",
+                "pos": "noun"
+            },
+            {
+                "word": "burglary",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who enters a building illegally in order to steal",
+                    "vi": "một người vào một tòa nhà bất hợp pháp để ăn trộm"
+                },
+                "examples": [
+                    {
+                        "en": "Burglars broke into the gallery and stole dozens of priceless paintings.",
+                        "vi": "Kẻ trộm đã đột nhập phòng trưng bày và lấy trộm hàng chục bức tranh vô giá."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "56cccd46d96840c5a672d21697df2c2d",
+        "word": "killer",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈkɪlə(r)/",
+            "us": "/ˈkɪlər/"
+        },
+        "nearby": [
+            {
+                "word": "kill",
+                "pos": "verb"
+            },
+            {
+                "word": "kill",
+                "pos": "noun"
+            },
+            {
+                "word": "killer",
+                "pos": "noun"
+            },
+            {
+                "word": "killer app",
+                "pos": "noun"
+            },
+            {
+                "word": "killer bee",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person, an animal or a thing that kills",
+                    "vi": "một người, một con vật hoặc một thứ giết chết"
+                },
+                "examples": [
+                    {
+                        "en": "Police are hunting his killer.",
+                        "vi": "Cảnh sát đang truy lùng kẻ giết anh ta."
+                    },
+                    {
+                        "en": "Heart disease is the biggest killer in Scotland.",
+                        "vi": "Bệnh tim là kẻ giết người lớn nhất ở Scotland."
+                    },
+                    {
+                        "en": "an electric insect killer",
+                        "vi": "một kẻ giết côn trùng bằng điện"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "something that is very difficult, very exciting or shows a lot of skill",
+                    "vi": "một cái gì đó rất khó, rất thú vị hoặc thể hiện nhiều kỹ năng"
+                },
+                "examples": [
+                    {
+                        "en": "The exam was a real killer.",
+                        "vi": "Kỳ thi là một kẻ giết người thực sự."
+                    },
+                    {
+                        "en": "The new movie is a killer.",
+                        "vi": "Phim mới là một kẻ giết người."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "88d5c80b0a29415bba7bb02d723faeef",
+        "word": "murderer",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈmɜːdərə(r)/",
+            "us": "/ˈmɜːrdərər/"
+        },
+        "nearby": [
+            {
+                "word": "murder",
+                "pos": "noun"
+            },
+            {
+                "word": "murder",
+                "pos": "verb"
+            },
+            {
+                "word": "murderer",
+                "pos": "noun"
+            },
+            {
+                "word": "murderess",
+                "pos": "noun"
+            },
+            {
+                "word": "murderous",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who has killed somebody deliberately and illegally",
+                    "vi": "một người đã giết ai đó một cách có chủ ý và bất hợp pháp"
+                },
+                "examples": [
+                    {
+                        "en": "A convicted murderer was on the run last night.",
+                        "vi": "Một kẻ giết người bị kết án đã chạy trốn đêm qua."
+                    },
+                    {
+                        "en": "a mass murderer (= who has killed a lot of people)",
+                        "vi": "một kẻ giết người hàng loạt (= kẻ đã giết rất nhiều người)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "47c845c5142844fa887598711932d405",
+        "word": "prisoner",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈprɪznə(r)/",
+            "us": "/ˈprɪznər/"
+        },
+        "nearby": [
+            {
+                "word": "prison",
+                "pos": "noun"
+            },
+            {
+                "word": "prison camp",
+                "pos": "noun"
+            },
+            {
+                "word": "prisoner",
+                "pos": "noun"
+            },
+            {
+                "word": "prisoner of conscience",
+                "pos": "noun"
+            },
+            {
+                "word": "prisoner of war",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who is kept in prison as a punishment, or while they are waiting for trial",
+                    "vi": "một người bị giam giữ trong tù như một hình phạt, hoặc trong khi họ đang chờ xét xử"
+                },
+                "examples": [
+                    {
+                        "en": "The number of prisoners serving life sentences has fallen.",
+                        "vi": "Số lượng phạm nhân chấp hành án chung thân đã giảm xuống."
+                    },
+                    {
+                        "en": "They called for the prisoners to be released.",
+                        "vi": "Họ kêu gọi trả tự do cho các tù nhân."
+                    },
+                    {
+                        "en": "They are demanding the release of all political prisoners.",
+                        "vi": "Họ đang đòi trả tự do cho tất cả các tù nhân chính trị."
+                    },
+                    {
+                        "en": "international minimum standards for the treatment of prisoners",
+                        "vi": "tiêu chuẩn tối thiểu quốc tế về đối xử với tù nhân"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who has been captured, for example by an enemy, and is being kept somewhere",
+                    "vi": "một người đã bị bắt, chẳng hạn bởi kẻ thù, và đang bị giam giữ ở đâu đó"
+                },
+                "examples": [
+                    {
+                        "en": "He was taken prisoner by rebel soldiers.",
+                        "vi": "Anh ta bị bắt làm tù binh bởi những người lính nổi dậy."
+                    },
+                    {
+                        "en": "They are holding her prisoner and demanding a large ransom.",
+                        "vi": "Họ đang giam giữ cô ấy làm tù nhân và đòi một khoản tiền chuộc lớn."
+                    },
+                    {
+                        "en": "For three days they kept him a prisoner.",
+                        "vi": "Trong ba ngày, họ giam giữ anh ta làm tù nhân."
+                    },
+                    {
+                        "en": "(figurative) She is afraid to go out and has become a virtual prisoner in her own home.",
+                        "vi": "(nghĩa bóng) Cô ấy sợ ra ngoài và đã trở thành một tù nhân ảo trong chính ngôi nhà của mình."
+                    },
+                    {
+                        "en": "(figurative) He was a prisoner of his own ignorance.",
+                        "vi": "(nghĩa bóng) Anh ta là tù nhân của sự thiếu hiểu biết của chính mình."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c93a6ac1df8d4a27af7e81937a0e0d47",
+        "word": "robber",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈrɒbə(r)/",
+            "us": "/ˈrɑːbər/"
+        },
+        "nearby": [
+            {
+                "word": "rob",
+                "pos": "verb"
+            },
+            {
+                "word": "Rob",
+                "pos": ""
+            },
+            {
+                "word": "robber",
+                "pos": "noun"
+            },
+            {
+                "word": "robber baron",
+                "pos": "noun"
+            },
+            {
+                "word": "robbery",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who steals from a person or place, especially using violence or threats",
+                    "vi": "một người ăn cắp từ một người hoặc địa điểm, đặc biệt là sử dụng bạo lực hoặc đe dọa"
+                },
+                "examples": [
+                    {
+                        "en": "a bank robber",
+                        "vi": "một tên cướp ngân hàng"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "25c2eeec50b64edba9e4e6869f795503",
+        "word": "alien",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈeɪliən/",
+            "us": "/ˈeɪliən/"
+        },
+        "nearby": [
+            {
+                "word": "Alice-in-Wonderland",
+                "pos": "adjective"
+            },
+            {
+                "word": "Alice Springs",
+                "pos": ""
+            },
+            {
+                "word": "alien",
+                "pos": "noun"
+            },
+            {
+                "word": "alien",
+                "pos": "adjective"
+            },
+            {
+                "word": "alienable",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who is not a citizen of the country in which they live or work",
+                    "vi": "một người không phải là công dân của quốc gia mà họ sinh sống hoặc làm việc"
+                },
+                "examples": [
+                    {
+                        "en": "an illegal alien",
+                        "vi": "một người nước ngoài bất hợp pháp"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a creature from another world",
+                    "vi": "một sinh vật từ thế giới khác"
+                },
+                "examples": [
+                    {
+                        "en": "aliens from outer space",
+                        "vi": "người ngoài hành tinh từ vũ trụ"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "82f8696753e04a16acc8a3abfd6375d8",
+        "word": "dealer",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈdiːlə(r)/",
+            "us": "/ˈdiːlər/"
+        },
+        "nearby": [
+            {
+                "word": "deal",
+                "pos": "noun"
+            },
+            {
+                "word": "deal-breaker",
+                "pos": "noun"
+            },
+            {
+                "word": "dealer",
+                "pos": "noun"
+            },
+            {
+                "word": "dealership",
+                "pos": "noun"
+            },
+            {
+                "word": "deal in",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person whose business is buying and selling a particular product",
+                    "vi": "một người có doanh nghiệp đang mua và bán một sản phẩm cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "an art/antique dealer",
+                        "vi": "một nhà buôn đồ cổ / nghệ thuật"
+                    },
+                    {
+                        "en": "dealer in something He's a dealer in second-hand cars.",
+                        "vi": "đại lý một cái gì đó Anh ấy là một đại lý ô tô đã qua sử dụng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who sells illegal drugs",
+                    "vi": "một người bán ma túy bất hợp pháp"
+                },
+                "examples": [
+                    {
+                        "en": "a crack dealer",
+                        "vi": "một đại lý crack"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the person who gives out the cards in a card game",
+                    "vi": "người đưa ra các thẻ trong một trò chơi bài"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "d6e653904200407eb73f769a6f28b269",
+        "word": "drug dealer",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈdrʌɡ diːlə(r)/",
+            "us": "/ˈdrʌɡ diːlər/"
+        },
+        "nearby": [
+            {
+                "word": "drug",
+                "pos": "verb"
+            },
+            {
+                "word": "drug baron",
+                "pos": "noun"
+            },
+            {
+                "word": "drug dealer",
+                "pos": "noun"
+            },
+            {
+                "word": "the Drug Enforcement Administration",
+                "pos": ""
+            },
+            {
+                "word": "druggie",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who sells illegal drugs",
+                    "vi": "một người bán ma túy bất hợp pháp"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "4cb182309fcb419d83319b35c0943341",
+        "word": "gunman",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈɡʌnmən/",
+            "us": "/ˈɡʌnmən/"
+        },
+        "nearby": [
+            {
+                "word": "gunky",
+                "pos": "adjective"
+            },
+            {
+                "word": "gun laws",
+                "pos": "noun"
+            },
+            {
+                "word": "gunman",
+                "pos": "noun"
+            },
+            {
+                "word": "gunmetal",
+                "pos": "noun"
+            },
+            {
+                "word": "gunnel",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a man who uses a gun to steal from or kill people",
+                    "vi": "một người đàn ông sử dụng súng để ăn trộm hoặc giết người"
+                },
+                "examples": [
+                    {
+                        "en": "Two gunmen opened fire on the car.",
+                        "vi": "Hai tay súng đã nổ súng vào ô tô."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f563c4274b2f4232ac482cd5003bdb9e",
+        "word": "identity thief",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/aɪˈdentəti θiːf/",
+            "us": "/aɪˈdentəti θiːf/"
+        },
+        "nearby": [
+            {
+                "word": "identity politics",
+                "pos": "noun"
+            },
+            {
+                "word": "identity theft",
+                "pos": "noun"
+            },
+            {
+                "word": "identity thief",
+                "pos": "noun"
+            },
+            {
+                "word": "ideogram",
+                "pos": "noun"
+            },
+            {
+                "word": "ideological",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who somebody else’s name and personal information in order to obtain credit cards and other goods or to take money out of the person’s bank accounts",
+                    "vi": "một người lấy tên và thông tin cá nhân của người khác để lấy thẻ tín dụng và các hàng hóa khác hoặc lấy tiền từ tài khoản ngân hàng của người đó"
+                },
+                "examples": [
+                    {
+                        "en": "Identity thieves can wreck a consumer's credit for years.",
+                        "vi": "Những kẻ trộm danh tính có thể phá hủy tín dụng của người tiêu dùng trong nhiều năm."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "379ebdbb84eb4b28afe7244ed90de777",
+        "word": "offender",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/əˈfendə(r)/",
+            "us": "/əˈfendər/"
+        },
+        "nearby": [
+            {
+                "word": "offend",
+                "pos": "verb"
+            },
+            {
+                "word": "offended",
+                "pos": "adjective"
+            },
+            {
+                "word": "offender",
+                "pos": "noun"
+            },
+            {
+                "word": "offending",
+                "pos": "adjective"
+            },
+            {
+                "word": "offense",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who commits a crime",
+                    "vi": "một người phạm tội"
+                },
+                "examples": [
+                    {
+                        "en": "a persistent/serious/violent, etc. offender",
+                        "vi": "một người phạm tội dai dẳng / nghiêm trọng / bạo lực, v.v."
+                    },
+                    {
+                        "en": "a young offender institution",
+                        "vi": "một cơ sở phạm nhân trẻ"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person or thing that does something wrong",
+                    "vi": "một người hoặc một điều gì đó làm sai"
+                },
+                "examples": [
+                    {
+                        "en": "The report on sexual discrimination at work shows that some of the worst offenders are women.",
+                        "vi": "Báo cáo về phân biệt giới tính tại nơi làm việc cho thấy một số người phạm tội nặng nhất là phụ nữ."
+                    },
+                    {
+                        "en": "When it comes to pollution, the chemical industry is a major offender.",
+                        "vi": "Khi nói đến ô nhiễm, ngành công nghiệp hóa chất là một trong những tác nhân chính."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "b32c5d79fcaf40d291d97c984820ebbb",
+        "word": "pickpocket",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈpɪkpɒkɪt/",
+            "us": "/ˈpɪkpɑːkɪt/"
+        },
+        "nearby": [
+            {
+                "word": "pick out",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "pick over",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "pickpocket",
+                "pos": "noun"
+            },
+            {
+                "word": "pick through",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "pick up",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who steals money, etc. from other people’s pockets, especially in crowded places",
+                    "vi": "kẻ trộm tiền, v.v. từ túi người khác, đặc biệt là ở những nơi đông người"
+                },
+                "examples": [
+                    {
+                        "en": "Watch out for pickpockets, especially at the train station.",
+                        "vi": "Đề phòng những kẻ móc túi, đặc biệt là ở ga tàu."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "99a4252dfd9e4248bb04e4bea2f73ae7",
+        "word": "shoplifter",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈʃɒplɪftə(r)/",
+            "us": "/ˈʃɑːplɪftər/"
+        },
+        "nearby": [
+            {
+                "word": "shopkeeper",
+                "pos": "noun"
+            },
+            {
+                "word": "shoplift",
+                "pos": "verb"
+            },
+            {
+                "word": "shoplifter",
+                "pos": "noun"
+            },
+            {
+                "word": "shoplifting",
+                "pos": "noun"
+            },
+            {
+                "word": "shoplot",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who steals goods from a shop by deliberately leaving without paying for them",
+                    "vi": "một người ăn cắp hàng hóa từ cửa hàng bằng cách cố tình bỏ đi mà không trả tiền cho họ"
+                },
+                "examples": [
+                    {
+                        "en": "Shoplifters will be prosecuted.",
+                        "vi": "Nhưng kẻ căp se bị truy na."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "81886c73999446a2be87a93ef90f9ef4",
+        "word": "suspect",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈsʌspekt/",
+            "us": "/ˈsʌspekt/"
+        },
+        "nearby": [
+            {
+                "word": "Susie",
+                "pos": ""
+            },
+            {
+                "word": "suspect",
+                "pos": "verb"
+            },
+            {
+                "word": "suspect",
+                "pos": "noun"
+            },
+            {
+                "word": "suspect",
+                "pos": "adjective"
+            },
+            {
+                "word": "suspected",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who is suspected of a crime or of having done something wrong",
+                    "vi": "một người bị nghi ngờ phạm tội hoặc đã làm điều gì đó sai trái"
+                },
+                "examples": [
+                    {
+                        "en": "a murder suspect",
+                        "vi": "một nghi phạm giết người"
+                    },
+                    {
+                        "en": "He is the prime suspect in the case.",
+                        "vi": "Anh ta là nghi phạm chính trong vụ án."
+                    },
+                    {
+                        "en": "Five suspects have been detained for questioning.",
+                        "vi": "Năm nghi phạm đã bị tạm giữ để thẩm vấn."
+                    },
+                    {
+                        "en": "Do you have a list of likely suspects?",
+                        "vi": "Bạn có danh sách những người có khả năng bị tình nghi không?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the people you would usually expect to do something or be included in something",
+                    "vi": "những người bạn thường mong đợi để làm một cái gì đó hoặc được bao gồm trong một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "She thanked all the usual suspects in her acceptance speech: her family, the director, the cast and the crew.",
+                        "vi": "Cô cảm ơn tất cả những nghi phạm thường thấy trong bài phát biểu nhận giải của mình: gia đình, đạo diễn, dàn diễn viên và đoàn làm phim."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1342bf1c8b1f482a9d5ae6304ab4eaab",
+        "word": "terrorist",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈterərɪst/",
+            "us": "/ˈterərɪst/"
+        },
+        "nearby": [
+            {
+                "word": "terrorism",
+                "pos": "noun"
+            },
+            {
+                "word": "the Terrorism Act",
+                "pos": ""
+            },
+            {
+                "word": "terrorist",
+                "pos": "noun"
+            },
+            {
+                "word": "terrorize",
+                "pos": "verb"
+            },
+            {
+                "word": "terror-stricken",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who takes part in terrorism",
+                    "vi": "một người tham gia khủng bố"
+                },
+                "examples": [
+                    {
+                        "en": "The terrorists are threatening to blow up the plane.",
+                        "vi": "Những kẻ khủng bố đang đe dọa cho nổ tung chiếc máy bay."
+                    },
+                    {
+                        "en": "a terrorist attack/bomb/group",
+                        "vi": "một cuộc tấn công / bom / nhóm khủng bố"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "000ec26cd376422b9ab64d49798a5ba0",
+        "word": "vandal",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈvændl/",
+            "us": "/ˈvændl/"
+        },
+        "nearby": [
+            {
+                "word": "Vancouver",
+                "pos": ""
+            },
+            {
+                "word": "the V and A",
+                "pos": ""
+            },
+            {
+                "word": "vandal",
+                "pos": "noun"
+            },
+            {
+                "word": "vandalism",
+                "pos": "noun"
+            },
+            {
+                "word": "vandalize",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who deliberately destroys or damages public property",
+                    "vi": "người cố ý hủy hoại, làm hư hỏng tài sản công"
+                },
+                "examples": [
+                    {
+                        "en": "Vandals broke into the factory and set fire to a cabin.",
+                        "vi": "Những kẻ phá hoại đã đột nhập vào nhà máy và phóng hỏa một cabin."
+                    },
+                    {
+                        "en": "The glass has been specially treated to stop vandals from smashing it.",
+                        "vi": "Kính đã được xử lý đặc biệt để ngăn những kẻ phá hoại đập vỡ kính."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5d536486d26842c98aaa3fe3c6d641ce",
+        "word": "war criminal",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈwɔː krɪmɪnl/",
+            "us": "/ˈwɔːr krɪmɪnl/"
+        },
+        "nearby": [
+            {
+                "word": "war chest",
+                "pos": "noun"
+            },
+            {
+                "word": "war crime",
+                "pos": "noun"
+            },
+            {
+                "word": "war criminal",
+                "pos": "noun"
+            },
+            {
+                "word": "war cry",
+                "pos": "noun"
+            },
+            {
+                "word": "ward",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who has committed war crimes",
+                    "vi": "một người đã phạm tội ác chiến tranh"
+                },
+                "examples": [
+                    {
+                        "en": "He was tried as a war criminal.",
+                        "vi": "Anh ta đã bị xét xử như một tội phạm chiến tranh."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "571de40c3c4843afa06ee1c866c5c219",
+        "word": "accomplice",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/əˈkʌmplɪs/",
+            "us": "/əˈkɑːmplɪs/"
+        },
+        "nearby": [
+            {
+                "word": "accompany",
+                "pos": "verb"
+            },
+            {
+                "word": "accompanying",
+                "pos": "adjective"
+            },
+            {
+                "word": "accomplice",
+                "pos": "noun"
+            },
+            {
+                "word": "accomplish",
+                "pos": "verb"
+            },
+            {
+                "word": "accomplished",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who helps another to commit a crime or to do something wrong",
+                    "vi": "một người giúp người khác phạm tội hoặc làm điều gì đó sai trái"
+                },
+                "examples": [
+                    {
+                        "en": "She became his unwitting accomplice in the robbery.",
+                        "vi": "Cô trở thành đồng phạm vô tình của anh trong vụ cướp."
+                    },
+                    {
+                        "en": "an accomplice to murder",
+                        "vi": "đồng phạm giết người"
+                    },
+                    {
+                        "en": "The police suspect that he had an accomplice.",
+                        "vi": "Cảnh sát nghi ngờ anh ta có đồng phạm."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e6b41e25b1bf4e6b92ea0ff4979cdbdb",
+        "word": "arsonist",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈɑːsənɪst/",
+            "us": "/ˈɑːrsənɪst/"
+        },
+        "nearby": [
+            {
+                "word": "arsey",
+                "pos": "adjective"
+            },
+            {
+                "word": "arson",
+                "pos": "noun"
+            },
+            {
+                "word": "arsonist",
+                "pos": "noun"
+            },
+            {
+                "word": "art",
+                "pos": "noun"
+            },
+            {
+                "word": "art",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who commits the crime of arson",
+                    "vi": "một người phạm tội đốt phá"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "83d2cf27cfe9431f9674c26cedd8e3a4",
+        "word": "assassin",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/əˈsæsɪn/",
+            "us": "/əˈsæsn/"
+        },
+        "nearby": [
+            {
+                "word": "assail",
+                "pos": "verb"
+            },
+            {
+                "word": "assailant",
+                "pos": "noun"
+            },
+            {
+                "word": "assassin",
+                "pos": "noun"
+            },
+            {
+                "word": "assassinate",
+                "pos": "verb"
+            },
+            {
+                "word": "assassination",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who murders somebody important or famous, for money or for political reasons",
+                    "vi": "một người giết ai đó quan trọng hoặc nổi tiếng, vì tiền hoặc vì lý do chính trị"
+                },
+                "examples": [
+                    {
+                        "en": "a hired/professional assassin",
+                        "vi": "một sát thủ được thuê / chuyên nghiệp"
+                    },
+                    {
+                        "en": "He was killed by a hired assassin.",
+                        "vi": "Anh ta bị giết bởi một sát thủ được thuê."
+                    },
+                    {
+                        "en": "They hired a professional assassin to do the job for them.",
+                        "vi": "Họ đã thuê một sát thủ chuyên nghiệp để thực hiện công việc cho họ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "fe3670dd826d48eeac8f124fa53c70f9",
+        "word": "bandit",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈbændɪt/",
+            "us": "/ˈbændɪt/"
+        },
+        "nearby": [
+            {
+                "word": "bandicoot",
+                "pos": "noun"
+            },
+            {
+                "word": "banding",
+                "pos": "noun"
+            },
+            {
+                "word": "bandit",
+                "pos": "noun"
+            },
+            {
+                "word": "bandito",
+                "pos": "noun"
+            },
+            {
+                "word": "banditry",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a member of an armed group of thieves who attack travellers",
+                    "vi": "một thành viên của một nhóm trộm có vũ trang tấn công du khách"
+                },
+                "examples": [
+                    {
+                        "en": "Buses driving through the mountains have been attacked by bandits.",
+                        "vi": "Xe buýt chạy qua núi đã bị tấn công bởi những tên cướp."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "b0adb5eca13441649187f678145e66f5",
+        "word": "blackmailer",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈblækmeɪlə(r)/",
+            "us": "/ˈblækmeɪlər/"
+        },
+        "nearby": [
+            {
+                "word": "blackmail",
+                "pos": "noun"
+            },
+            {
+                "word": "blackmail",
+                "pos": "verb"
+            },
+            {
+                "word": "blackmailer",
+                "pos": "noun"
+            },
+            {
+                "word": "Black Maria",
+                "pos": "noun"
+            },
+            {
+                "word": "black mark",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who commits blackmail",
+                    "vi": "một người phạm tội tống tiền"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "a727cb483317489aac8d875b98fe8d4a",
+        "word": "conspirator",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/kənˈspɪrətə(r)/",
+            "us": "/kənˈspɪrətər/"
+        },
+        "nearby": [
+            {
+                "word": "conspiracy theorist",
+                "pos": "noun"
+            },
+            {
+                "word": "conspiracy theory",
+                "pos": "noun"
+            },
+            {
+                "word": "conspirator",
+                "pos": "noun"
+            },
+            {
+                "word": "conspiratorial",
+                "pos": "adjective"
+            },
+            {
+                "word": "conspiratorially",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who is involved in a conspiracy (= a secret plan to do something illegal)",
+                    "vi": "một người có liên quan đến một âm mưu (= một kế hoạch bí mật để làm điều gì đó bất hợp pháp)"
+                },
+                "examples": [
+                    {
+                        "en": "political conspirators",
+                        "vi": "những kẻ âm mưu chính trị"
+                    },
+                    {
+                        "en": "The emperor pardoned five of the conspirators.",
+                        "vi": "Hoàng đế ân xá cho 5 kẻ chủ mưu."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "16058c86231d41e3b087cfca8b6ded27",
+        "word": "convict",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈkɒnvɪkt/",
+            "us": "/ˈkɑːnvɪkt/"
+        },
+        "nearby": [
+            {
+                "word": "conveyor belt",
+                "pos": "noun"
+            },
+            {
+                "word": "convict",
+                "pos": "verb"
+            },
+            {
+                "word": "convict",
+                "pos": "noun"
+            },
+            {
+                "word": "conviction",
+                "pos": "noun"
+            },
+            {
+                "word": "convince",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who has been found guilty of a crime and sent to prison",
+                    "vi": "một người bị kết tội và bị tống vào tù"
+                },
+                "examples": [
+                    {
+                        "en": "The novel begins with Pip’s meeting with an escaped convict from the prison ship.",
+                        "vi": "Cuốn tiểu thuyết bắt đầu với cuộc gặp gỡ của Pip với một tên tội phạm trốn thoát khỏi con tàu của nhà tù."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "b43552621a824a3f9dd6167f389bfd0a",
+        "word": "drink-driver",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌdrɪŋk ˈdraɪvə(r)/",
+            "us": "/ˌdrɪŋk ˈdraɪvər/"
+        },
+        "nearby": [
+            {
+                "word": "drink",
+                "pos": "verb"
+            },
+            {
+                "word": "drinkable",
+                "pos": "adjective"
+            },
+            {
+                "word": "drink-driver",
+                "pos": "noun"
+            },
+            {
+                "word": "drink-driving",
+                "pos": "noun"
+            },
+            {
+                "word": "drinker",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who drives a vehicle after drinking too much alcohol",
+                    "vi": "một người lái xe sau khi uống quá nhiều rượu"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "665cf4dc63d243f4a84ae28ca6a0963c",
+        "word": "fire starter",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈfaɪəstɑːtə(r)/",
+            "us": "/ˈfaɪərstɑːrtər/"
+        },
+        "nearby": [
+            {
+                "word": "fireside",
+                "pos": "noun"
+            },
+            {
+                "word": "fireside chat",
+                "pos": "noun"
+            },
+            {
+                "word": "fire starter",
+                "pos": "noun"
+            },
+            {
+                "word": "fire station",
+                "pos": "noun"
+            },
+            {
+                "word": "firestorm",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a device that allows you to start a fire, usually by hitting a piece of flint (= a hard grey stone) against a piece of steel",
+                    "vi": "một thiết bị cho phép bạn bắt lửa, thường bằng cách đập một miếng đá lửa (= một loại đá cứng màu xám) vào một miếng thép"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a block of material that burns easily and is used to help start a coal or wood fire",
+                    "vi": "một khối vật liệu dễ cháy và được sử dụng để giúp bắt đầu ngọn lửa than hoặc củi"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person who commits the crime of deliberately setting fire to something",
+                    "vi": "một người phạm tội cố ý đốt một cái gì đó"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "0a783c3a0dd949f389b363c36b39a08a",
+        "word": "first offender",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌfɜːst əˈfendə(r)/",
+            "us": "/ˌfɜːrst əˈfendər/"
+        },
+        "nearby": [
+            {
+                "word": "First Nation",
+                "pos": "noun"
+            },
+            {
+                "word": "first night",
+                "pos": "noun"
+            },
+            {
+                "word": "first offender",
+                "pos": "noun"
+            },
+            {
+                "word": "first officer",
+                "pos": "noun"
+            },
+            {
+                "word": "first-past-the-post",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who has been found guilty of a crime for the first time",
+                    "vi": "một người đã bị kết tội lần đầu tiên"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "9cdbefec67f947929ec58503c97f3440",
+        "word": "fraudster",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈfrɔːdstə(r)/",
+            "us": "/ˈfrɔːdstər/"
+        },
+        "nearby": [
+            {
+                "word": "fraud",
+                "pos": "noun"
+            },
+            {
+                "word": "fraud squad",
+                "pos": "noun"
+            },
+            {
+                "word": "fraudster",
+                "pos": "noun"
+            },
+            {
+                "word": "fraudulence",
+                "pos": "noun"
+            },
+            {
+                "word": "fraudulent",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who commits fraud",
+                    "vi": "một người lừa đảo"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "6fc81bf9c25f4aec8ba8b74a228a86dd",
+        "word": "gangster",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈɡæŋstə(r)/",
+            "us": "/ˈɡæŋstər/"
+        },
+        "nearby": [
+            {
+                "word": "gang show",
+                "pos": "noun"
+            },
+            {
+                "word": "gangsta",
+                "pos": "noun"
+            },
+            {
+                "word": "gangster",
+                "pos": "noun"
+            },
+            {
+                "word": "gang together",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "gang up",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a member of a group of violent criminals",
+                    "vi": "một thành viên của một nhóm tội phạm bạo lực"
+                },
+                "examples": [
+                    {
+                        "en": "Chicago gangsters",
+                        "vi": "Xã hội đen Chicago"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "05e2360db27b4045976206a69948fc02",
+        "word": "hacker",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈhækə(r)/",
+            "us": "/ˈhækər/"
+        },
+        "nearby": [
+            {
+                "word": "hackathon",
+                "pos": "noun"
+            },
+            {
+                "word": "hacked off",
+                "pos": "adjective"
+            },
+            {
+                "word": "hacker",
+                "pos": "noun"
+            },
+            {
+                "word": "hacking",
+                "pos": "noun"
+            },
+            {
+                "word": "hacking cough",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who uses computers to get access to data in somebody else's computer or phone system without permission",
+                    "vi": "một người sử dụng máy tính để truy cập vào dữ liệu trong hệ thống máy tính hoặc điện thoại của người khác mà không được phép"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person who uses or writes computer programs with enthusiasm and skill",
+                    "vi": "một người sử dụng hoặc viết các chương trình máy tính với sự nhiệt tình và kỹ năng"
+                },
+                "examples": [
+                    {
+                        "en": "The software is so complicated that only experienced hackers can use it.",
+                        "vi": "Phần mềm này rất phức tạp nên chỉ những hacker có kinh nghiệm mới có thể sử dụng nó."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "deb502c5a14c45e4bd26decf9bad17a3",
+        "word": "hijacker",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈhaɪdʒækə(r)/",
+            "us": "/ˈhaɪdʒækər/"
+        },
+        "nearby": [
+            {
+                "word": "hijab",
+                "pos": "noun"
+            },
+            {
+                "word": "hijack",
+                "pos": "verb"
+            },
+            {
+                "word": "hijacker",
+                "pos": "noun"
+            },
+            {
+                "word": "hijacking",
+                "pos": "noun"
+            },
+            {
+                "word": "hijinks",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who hijacks a plane or other vehicle",
+                    "vi": "một người cướp máy bay hoặc phương tiện khác"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "13858850cb8545d2aa5b4f0ad6f90eb7",
+        "word": "intruder",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ɪnˈtruːdə(r)/",
+            "us": "/ɪnˈtruːdər/"
+        },
+        "nearby": [
+            {
+                "word": "introverted",
+                "pos": "adjective"
+            },
+            {
+                "word": "intrude",
+                "pos": "verb"
+            },
+            {
+                "word": "intruder",
+                "pos": "noun"
+            },
+            {
+                "word": "intrusion",
+                "pos": "noun"
+            },
+            {
+                "word": "intrusive",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who enters a building or an area illegally",
+                    "vi": "một người vào một tòa nhà hoặc một khu vực bất hợp pháp"
+                },
+                "examples": [
+                    {
+                        "en": "The intruder fired at least one more shot at the guard, then fled.",
+                        "vi": "Kẻ đột nhập đã bắn thêm ít nhất một phát vào người bảo vệ, sau đó bỏ chạy."
+                    },
+                    {
+                        "en": "Intruder alarms are being fitted in many schools as a way of improving security.",
+                        "vi": "Hệ thống báo động có kẻ xâm nhập đang được trang bị trong nhiều trường học như một cách để cải thiện an ninh."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who is somewhere where they are not wanted",
+                    "vi": "một người ở một nơi nào đó mà họ không muốn"
+                },
+                "examples": [
+                    {
+                        "en": "The people in the room seemed to regard her as an unwelcome intruder.",
+                        "vi": "Những người trong phòng dường như coi cô như một kẻ xâm nhập không mong muốn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "68185cccc4ae4c0987479c5f0b65b25e",
+        "word": "juvenile delinquent",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌdʒuːvənaɪl dɪˈlɪŋkwənt/",
+            "us": "/ˌdʒuːvənl dɪˈlɪŋkwənt/"
+        },
+        "nearby": [
+            {
+                "word": "juvenile court",
+                "pos": "noun"
+            },
+            {
+                "word": "juvenile delinquency",
+                "pos": "noun"
+            },
+            {
+                "word": "juvenile delinquent",
+                "pos": "noun"
+            },
+            {
+                "word": "juvenilia",
+                "pos": "noun"
+            },
+            {
+                "word": "juxtapose",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a young person who is not yet an adult and who is guilty of committing a crime",
+                    "vi": "thanh niên chưa thành niên mà phạm tội."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "20ab5262c50d4e489aa881528aeafaa7",
+        "word": "kidnapper",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈkɪdnæpə(r)/",
+            "us": "/ˈkɪdnæpər/"
+        },
+        "nearby": [
+            {
+                "word": "kidnap",
+                "pos": "verb"
+            },
+            {
+                "word": "Kidnapped",
+                "pos": ""
+            },
+            {
+                "word": "kidnapper",
+                "pos": "noun"
+            },
+            {
+                "word": "kidnapping",
+                "pos": "noun"
+            },
+            {
+                "word": "kidney",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who takes somebody away illegally and keeps them as a prisoner, especially in order to get money or something else for returning them",
+                    "vi": "một người mang ai đó đi bất hợp pháp và giữ họ như một tù nhân, đặc biệt là để lấy tiền hoặc thứ gì đó khác để trả lại họ"
+                },
+                "examples": [
+                    {
+                        "en": "The kidnappers are demanding a ransom of $1 million.",
+                        "vi": "Những kẻ bắt cóc đang đòi số tiền chuộc là 1 triệu USD."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "261aaad48cf8497b89a210bec0ad8a65",
+        "word": "mugger",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈmʌɡə(r)/",
+            "us": "/ˈmʌɡər/"
+        },
+        "nearby": [
+            {
+                "word": "mug",
+                "pos": "noun"
+            },
+            {
+                "word": "mug",
+                "pos": "verb"
+            },
+            {
+                "word": "mugger",
+                "pos": "noun"
+            },
+            {
+                "word": "mugging",
+                "pos": "noun"
+            },
+            {
+                "word": "muggins",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who threatens or attacks somebody in order to steal their money, jewellery, etc., especially in a public place",
+                    "vi": "một người đe dọa hoặc tấn công ai đó để lấy cắp tiền, đồ trang sức, v.v. của họ, đặc biệt là ở nơi công cộng"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "4915c330c2854e33801c5c494610b47a",
+        "word": "outlaw",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈaʊtlɔː/",
+            "us": "/ˈaʊtlɔː/"
+        },
+        "nearby": [
+            {
+                "word": "outlast",
+                "pos": "verb"
+            },
+            {
+                "word": "outlaw",
+                "pos": "verb"
+            },
+            {
+                "word": "outlaw",
+                "pos": "noun"
+            },
+            {
+                "word": "outlay",
+                "pos": "noun"
+            },
+            {
+                "word": "outlet",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "(used especially about people in the past) a person who has done something illegal and is hiding to avoid being caught; a person who is not protected by the law",
+                    "vi": "(được sử dụng đặc biệt để nói về những người trong quá khứ) một người đã làm điều gì đó bất hợp pháp và đang lẩn trốn để tránh bị bắt; một người không được pháp luật bảo vệ"
+                },
+                "examples": [
+                    {
+                        "en": "Robin Hood, the world’s most famous outlaw",
+                        "vi": "Robin Hood, kẻ sống ngoài vòng pháp luật nổi tiếng nhất thế giới"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "64924117ebbc4023b0fef5ed7dcb3700",
+        "word": "pirate",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈpaɪrət/",
+            "us": "/ˈpaɪrət/"
+        },
+        "nearby": [
+            {
+                "word": "piracy",
+                "pos": "noun"
+            },
+            {
+                "word": "piranha",
+                "pos": "noun"
+            },
+            {
+                "word": "pirate",
+                "pos": "noun"
+            },
+            {
+                "word": "pirate",
+                "pos": "verb"
+            },
+            {
+                "word": "The Pirates of Penzance",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "(especially in the past) a person on a ship who attacks other ships at sea in order to steal from them",
+                    "vi": "(đặc biệt là trong quá khứ) một người trên tàu tấn công các tàu khác trên biển để cướp của họ"
+                },
+                "examples": [
+                    {
+                        "en": "There were reports that a pirate ship had come looking for treasure in the cove.",
+                        "vi": "Có báo cáo rằng một con tàu cướp biển đã đến tìm kiếm kho báu trong vịnh nhỏ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who makes illegal copies of books, computer programs, etc., in order to sell them",
+                    "vi": "một người sao chép bất hợp pháp sách, chương trình máy tính, v.v., để bán chúng"
+                },
+                "examples": [
+                    {
+                        "en": "a pirate edition",
+                        "vi": "một phiên bản cướp biển"
+                    },
+                    {
+                        "en": "software pirates",
+                        "vi": "cướp biển phần mềm"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person or an organization that broadcasts illegally",
+                    "vi": "một người hoặc một tổ chức phát sóng bất hợp pháp"
+                },
+                "examples": [
+                    {
+                        "en": "a pirate radio station",
+                        "vi": "một đài phát thanh cướp biển"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "02ee32c27d884868b95ce264c63a2961",
+        "word": "poacher",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈpəʊtʃə(r)/",
+            "us": "/ˈpəʊtʃər/"
+        },
+        "nearby": [
+            {
+                "word": "PO",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "poach",
+                "pos": "verb"
+            },
+            {
+                "word": "poacher",
+                "pos": "noun"
+            },
+            {
+                "word": "PO box",
+                "pos": "noun"
+            },
+            {
+                "word": "Pocahontas",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who illegally hunts birds, animals or fish on somebody’s else’s property",
+                    "vi": "một người săn bắt trái phép chim, động vật hoặc cá trên tài sản của người khác"
+                },
+                "examples": [
+                    {
+                        "en": "The measures are designed to protect the fish from poachers.",
+                        "vi": "Các biện pháp được thiết kế để bảo vệ cá khỏi những kẻ săn trộm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a special pan for poaching eggs",
+                    "vi": "một cái chảo đặc biệt để luộc trứng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a player who waits near the opposite team’s goal in order to try to score if they get the ball",
+                    "vi": "một cầu thủ chờ đợi gần khung thành của đội đối diện để cố gắng ghi bàn nếu họ nhận được bóng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person who has changed from one situation or attitude to the opposite one, especially somebody who used to oppose people in authority but is now in a position of authority",
+                    "vi": "một người đã thay đổi từ tình huống hoặc thái độ này sang thái độ ngược lại, đặc biệt là một người đã từng chống lại những người có chức quyền nhưng hiện đang có chức vụ quyền hạn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "ba321c7781f64a36bd46a7fb239e58fd",
+        "word": "raider",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈreɪdə(r)/",
+            "us": "/ˈreɪdər/"
+        },
+        "nearby": [
+            {
+                "word": "raid",
+                "pos": "noun"
+            },
+            {
+                "word": "raid",
+                "pos": "verb"
+            },
+            {
+                "word": "raider",
+                "pos": "noun"
+            },
+            {
+                "word": "rail",
+                "pos": "noun"
+            },
+            {
+                "word": "rail",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who makes a criminal raid on a place",
+                    "vi": "một người thực hiện một cuộc đột kích tội phạm vào một nơi"
+                },
+                "examples": [
+                    {
+                        "en": "armed/masked raiders",
+                        "vi": "những kẻ đột kích có vũ trang / đeo mặt nạ"
+                    },
+                    {
+                        "en": "Raiders broke into the warehouse and stole goods worth £20 000.",
+                        "vi": "Những kẻ đột nhập đã đột nhập vào nhà kho và lấy trộm hàng hóa trị giá 20 000 bảng Anh."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8f34e0e8930d498c9e8ebc96277c3126",
+        "word": "rapist",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈreɪpɪst/",
+            "us": "/ˈreɪpɪst/"
+        },
+        "nearby": [
+            {
+                "word": "rapid transit",
+                "pos": "noun"
+            },
+            {
+                "word": "rapier",
+                "pos": "noun"
+            },
+            {
+                "word": "rapist",
+                "pos": "noun"
+            },
+            {
+                "word": "rappel",
+                "pos": "noun"
+            },
+            {
+                "word": "rappel",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who forces somebody to have sex when they do not want to (= rapes them)",
+                    "vi": "một người ép buộc ai đó quan hệ tình dục khi họ không muốn (= cưỡng hiếp họ)"
+                },
+                "examples": [
+                    {
+                        "en": "The serial rapist has struck again.",
+                        "vi": "Kẻ hiếp dâm hàng loạt đã tấn công một lần nữa."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5f2b3430171f4d15b28d31a37ee9853d",
+        "word": "rioter",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈraɪətə(r)/",
+            "us": "/ˈraɪətər/"
+        },
+        "nearby": [
+            {
+                "word": "riot",
+                "pos": "verb"
+            },
+            {
+                "word": "the Riot Act",
+                "pos": ""
+            },
+            {
+                "word": "rioter",
+                "pos": "noun"
+            },
+            {
+                "word": "riot gear",
+                "pos": "noun"
+            },
+            {
+                "word": "rioting",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "one of a group of people who behave in a violent way in a public place, often as a protest",
+                    "vi": "một trong những người có hành vi bạo lực ở nơi công cộng, thường là để phản đối"
+                },
+                "examples": [
+                    {
+                        "en": "Rioters set fire to parked cars.",
+                        "vi": "Những kẻ bạo loạn phóng hỏa những chiếc ô tô đang đậu."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "fb4f9c93e84d401fac933df0246b5712",
+        "word": "smuggler",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈsmʌɡlə(r)/",
+            "us": "/ˈsmʌɡlər/"
+        },
+        "nearby": [
+            {
+                "word": "smug",
+                "pos": "adjective"
+            },
+            {
+                "word": "smuggle",
+                "pos": "verb"
+            },
+            {
+                "word": "smuggler",
+                "pos": "noun"
+            },
+            {
+                "word": "smuggling",
+                "pos": "noun"
+            },
+            {
+                "word": "smugly",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who takes goods into or out of a country illegally",
+                    "vi": "một người đưa hàng hóa vào hoặc ra khỏi đất nước một cách bất hợp pháp"
+                },
+                "examples": [
+                    {
+                        "en": "a drug smuggler",
+                        "vi": "một kẻ buôn lậu ma túy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e692bdf9c97848ffb8b32ebe52cbd1ca",
+        "word": "trafficker",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈtræfɪkə(r)/",
+            "us": "/ˈtræfɪkər/"
+        },
+        "nearby": [
+            {
+                "word": "traffic island",
+                "pos": "noun"
+            },
+            {
+                "word": "traffic jam",
+                "pos": "noun"
+            },
+            {
+                "word": "trafficker",
+                "pos": "noun"
+            },
+            {
+                "word": "trafficking",
+                "pos": "noun"
+            },
+            {
+                "word": "traffic light",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who buys and sells something illegally",
+                    "vi": "một người mua và bán một cái gì đó bất hợp pháp"
+                },
+                "examples": [
+                    {
+                        "en": "a drugs trafficker",
+                        "vi": "một kẻ buôn bán ma túy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0b3a8010b98a46d2adbfd5609fd586c0",
+        "word": "abductor",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/æbˈdʌktə(r)/",
+            "us": "/æbˈdʌktər/"
+        },
+        "nearby": [
+            {
+                "word": "abductee",
+                "pos": "noun"
+            },
+            {
+                "word": "abduction",
+                "pos": "noun"
+            },
+            {
+                "word": "abductor",
+                "pos": "noun"
+            },
+            {
+                "word": "Abe",
+                "pos": ""
+            },
+            {
+                "word": "abed",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who abducts somebody",
+                    "vi": "một người bắt cóc ai đó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a muscle that moves a body part away from the middle of the body or from another part",
+                    "vi": "cơ di chuyển một phần cơ thể ra khỏi phần giữa cơ thể hoặc từ phần khác"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "34a9e6fd533a40018622e2a6be8f337c",
+        "word": "accessory",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/əkˈsesəri/",
+            "us": "/əkˈsesəri/"
+        },
+        "nearby": [
+            {
+                "word": "accession",
+                "pos": "noun"
+            },
+            {
+                "word": "accessorize",
+                "pos": "verb"
+            },
+            {
+                "word": "accessory",
+                "pos": "noun"
+            },
+            {
+                "word": "accessory",
+                "pos": "adjective"
+            },
+            {
+                "word": "access provider",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an extra piece of equipment that is useful but not essential or that can be added to something else as a decoration",
+                    "vi": "một phần thiết bị bổ sung hữu ích nhưng không cần thiết hoặc có thể được thêm vào một thứ khác như một vật trang trí"
+                },
+                "examples": [
+                    {
+                        "en": "We stock a large range of bicycle accessories.",
+                        "vi": "Chúng tôi có một lượng lớn các phụ kiện xe đạp."
+                    },
+                    {
+                        "en": "Our catalogue now includes a range of furnishings and accessories for the home.",
+                        "vi": "Danh mục của chúng tôi hiện bao gồm một loạt các đồ nội thất và phụ kiện cho ngôi nhà."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a thing that you can wear or carry that matches your clothes, for example a belt or a bag",
+                    "vi": "một thứ mà bạn có thể mặc hoặc mang theo phù hợp với quần áo của mình, ví dụ như thắt lưng hoặc túi xách"
+                },
+                "examples": [
+                    {
+                        "en": "fashion accessories to dress up your wardrobe",
+                        "vi": "phụ kiện thời trang để trang điểm cho tủ quần áo của bạn"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who helps somebody to commit a crime or who knows about it and protects the person from the police",
+                    "vi": "người giúp ai đó phạm tội hoặc người biết về điều đó và bảo vệ người đó khỏi cảnh sát"
+                },
+                "examples": [
+                    {
+                        "en": "He was charged with being an accessory to murder.",
+                        "vi": "Anh ta bị buộc tội là một phụ kiện cho tội giết người."
+                    },
+                    {
+                        "en": "(old-fashioned) an accessory before/after the fact (= before/after the crime was committed)",
+                        "vi": "(kiểu cũ) một phụ kiện trước / sau sự việc (= trước / sau khi tội ác được thực hiện)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2f7330cfa3a142f2a87fd0e651e88d0e",
+        "word": "assailant",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/əˈseɪlənt/",
+            "us": "/əˈseɪlənt/"
+        },
+        "nearby": [
+            {
+                "word": "assagai",
+                "pos": "noun"
+            },
+            {
+                "word": "assail",
+                "pos": "verb"
+            },
+            {
+                "word": "assailant",
+                "pos": "noun"
+            },
+            {
+                "word": "assassin",
+                "pos": "noun"
+            },
+            {
+                "word": "assassinate",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who attacks somebody, especially physically",
+                    "vi": "một người tấn công ai đó, đặc biệt là về mặt thể chất"
+                },
+                "examples": [
+                    {
+                        "en": "Police have issued a description and an artist’s impression of the assailant.",
+                        "vi": "Cảnh sát đã đưa ra một mô tả và ấn tượng của một nghệ sĩ về kẻ tấn công."
+                    },
+                    {
+                        "en": "He was immune to the criticisms of his assailants.",
+                        "vi": "Anh ta miễn nhiễm với những lời chỉ trích của những kẻ tấn công mình."
+                    },
+                    {
+                        "en": "The alleged assailants appeared in court.",
+                        "vi": "Những kẻ tấn công bị cáo buộc đã ra hầu tòa."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4eed4aac062c4b6190b6554fbba91434",
+        "word": "bigamist",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbɪɡəmɪst/",
+            "us": "/ˈbɪɡəmɪst/"
+        },
+        "nearby": [
+            {
+                "word": "big",
+                "pos": "verb"
+            },
+            {
+                "word": "big air",
+                "pos": "noun"
+            },
+            {
+                "word": "bigamist",
+                "pos": "noun"
+            },
+            {
+                "word": "bigamous",
+                "pos": "adjective"
+            },
+            {
+                "word": "bigamy",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who commits the crime of bigamy",
+                    "vi": "một người phạm tội cố chấp"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "ad1acae6abe2474f8906fb21b3ffb670",
+        "word": "bootlegger",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbuːtleɡə(r)/",
+            "us": "/ˈbuːtleɡər/"
+        },
+        "nearby": [
+            {
+                "word": "bootleg",
+                "pos": "noun"
+            },
+            {
+                "word": "bootleg",
+                "pos": "verb"
+            },
+            {
+                "word": "bootlegger",
+                "pos": "noun"
+            },
+            {
+                "word": "bootlegging",
+                "pos": "noun"
+            },
+            {
+                "word": "bootlicker",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who makes or sells goods, especially alcohol, illegally",
+                    "vi": "một người sản xuất hoặc bán hàng hóa, đặc biệt là rượu, bất hợp pháp"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "f653adcbd4964f7fad4f5f80c9cab34a",
+        "word": "carjacker",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkɑːdʒækə(r)/",
+            "us": "/ˈkɑːrdʒækər/"
+        },
+        "nearby": [
+            {
+                "word": "carious",
+                "pos": "adjective"
+            },
+            {
+                "word": "carjack",
+                "pos": "verb"
+            },
+            {
+                "word": "carjacker",
+                "pos": "noun"
+            },
+            {
+                "word": "carjacking",
+                "pos": "noun"
+            },
+            {
+                "word": "Carl",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who forces the driver of a car to take them somewhere or takes their car, using threats and violence",
+                    "vi": "một người ép người điều khiển ô tô chở họ đi đâu đó hoặc lấy xe của họ, đe dọa và bạo lực"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "559231cca95045528ab1c8eee379e035",
+        "word": "cat burglar",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkæt bɜːɡlə(r)/",
+            "us": "/ˈkæt bɜːrɡlər/"
+        },
+        "nearby": [
+            {
+                "word": "catatonic",
+                "pos": "adjective"
+            },
+            {
+                "word": "catbird",
+                "pos": "noun"
+            },
+            {
+                "word": "cat burglar",
+                "pos": "noun"
+            },
+            {
+                "word": "catcall",
+                "pos": "noun"
+            },
+            {
+                "word": "Catch-22",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a thief who climbs up the outside of a building in order to enter it and steal something",
+                    "vi": "một tên trộm trèo lên bên ngoài của một tòa nhà để vào đó và lấy trộm một thứ gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "The jury heard that he was a professional cat burglar.",
+                        "vi": "Ban giám khảo nghe nói rằng anh ta là một tên trộm mèo chuyên nghiệp."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "b5cf3273a03845a3a7be5c9ed695b15a",
+        "word": "conman",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkɒnmæn/",
+            "us": "/ˈkɑːnmæn/"
+        },
+        "nearby": [
+            {
+                "word": "conker",
+                "pos": "noun"
+            },
+            {
+                "word": "conk out",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "conman",
+                "pos": "noun"
+            },
+            {
+                "word": "con moto",
+                "pos": "adverb"
+            },
+            {
+                "word": "connect",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a man who tricks others into giving him money, etc.",
+                    "vi": "một người đàn ông lừa người khác để đưa tiền cho anh ta, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "The screenplay focuses on the friendship between a dim-witted stud and a petty conman.",
+                        "vi": "Kịch bản phim tập trung vào tình bạn giữa một chú nhóc ngốc nghếch và một tên lừa đảo nhỏ nhen."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "96b673c972f7402691a9cbd87a72de9e",
+        "word": "delinquent",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/dɪˈlɪŋkwənt/",
+            "us": "/dɪˈlɪŋkwənt/"
+        },
+        "nearby": [
+            {
+                "word": "delineation",
+                "pos": "noun"
+            },
+            {
+                "word": "delinquency",
+                "pos": "noun"
+            },
+            {
+                "word": "delinquent",
+                "pos": "noun"
+            },
+            {
+                "word": "delinquent",
+                "pos": "adjective"
+            },
+            {
+                "word": "deliquesce",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a young person who tends to commit crimes",
+                    "vi": "một người trẻ tuổi có xu hướng phạm tội"
+                },
+                "examples": [
+                    {
+                        "en": "teenage delinquents",
+                        "vi": "phạm pháp tuổi vị thành niên"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who has failed to pay money that is owed",
+                    "vi": "một người không trả được tiền nợ"
+                },
+                "examples": [
+                    {
+                        "en": "credit deliquents",
+                        "vi": "tín dụng thích hợp"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9bde89937bcb45849fcc97ebd7284e3c",
+        "word": "delinquent",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/dɪˈlɪŋkwənt/",
+            "us": "/dɪˈlɪŋkwənt/"
+        },
+        "nearby": [
+            {
+                "word": "delinquency",
+                "pos": "noun"
+            },
+            {
+                "word": "delinquent",
+                "pos": "noun"
+            },
+            {
+                "word": "delinquent",
+                "pos": "adjective"
+            },
+            {
+                "word": "deliquesce",
+                "pos": "verb"
+            },
+            {
+                "word": "deliquescence",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "tending to commit crimes",
+                    "vi": "có xu hướng phạm tội"
+                },
+                "examples": [
+                    {
+                        "en": "delinquent teenagers",
+                        "vi": "thanh thiếu niên phạm pháp"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "having failed to pay money that is owed",
+                    "vi": "không trả được tiền nợ"
+                },
+                "examples": [
+                    {
+                        "en": "a delinquent borrower",
+                        "vi": "một người vay quá hạn"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "not having been paid in time",
+                    "vi": "không được thanh toán kịp thời"
+                },
+                "examples": [
+                    {
+                        "en": "a delinquent loan",
+                        "vi": "một khoản vay quá hạn"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "d7035e8665924b0ca54edea375e158f5",
+        "word": "desperado",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌdespəˈrɑːdəʊ/",
+            "us": "/ˌdespəˈrɑːdəʊ/"
+        },
+        "nearby": [
+            {
+                "word": "despatch",
+                "pos": "noun"
+            },
+            {
+                "word": "despatch box",
+                "pos": "noun"
+            },
+            {
+                "word": "desperado",
+                "pos": "noun"
+            },
+            {
+                "word": "desperate",
+                "pos": "adjective"
+            },
+            {
+                "word": "Desperate Dan",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a man who does dangerous and criminal things without caring about himself or other people",
+                    "vi": "một người đàn ông làm những việc nguy hiểm và tội phạm mà không quan tâm đến bản thân hoặc người khác"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "e0ef31ab479541cba69dd20b559cd44a",
+        "word": "detainee",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌdiːteɪˈniː/",
+            "us": "/ˌdiːteɪˈniː/"
+        },
+        "nearby": [
+            {
+                "word": "detailing",
+                "pos": "noun"
+            },
+            {
+                "word": "detain",
+                "pos": "verb"
+            },
+            {
+                "word": "detainee",
+                "pos": "noun"
+            },
+            {
+                "word": "detect",
+                "pos": "verb"
+            },
+            {
+                "word": "detectable",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who is kept in prison, usually because of his or her political opinions",
+                    "vi": "một người bị giam giữ trong tù, thường là vì quan điểm chính trị của họ"
+                },
+                "examples": [
+                    {
+                        "en": "The detainee can make a formal complaint after release.",
+                        "vi": "Người bị giam giữ có thể khiếu nại chính thức sau khi được thả."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "64c43abe8b854366aaa8aca0b2dc853b",
+        "word": "embezzler",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ɪmˈbezlə(r)/",
+            "us": "/ɪmˈbezlər/"
+        },
+        "nearby": [
+            {
+                "word": "embezzle",
+                "pos": "verb"
+            },
+            {
+                "word": "embezzlement",
+                "pos": "noun"
+            },
+            {
+                "word": "embezzler",
+                "pos": "noun"
+            },
+            {
+                "word": "embitter",
+                "pos": "verb"
+            },
+            {
+                "word": "embittered",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who steals money that they are responsible for or that belongs to their employer",
+                    "vi": "một người ăn cắp tiền mà họ phải chịu trách nhiệm hoặc của chủ nhân của họ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "f3f0515045474bb1b19946191ffaf246",
+        "word": "escapee",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ɪˌskeɪˈpiː/",
+            "us": "/ɪˌskeɪˈpiː/"
+        },
+        "nearby": [
+            {
+                "word": "escape clause",
+                "pos": "noun"
+            },
+            {
+                "word": "escaped",
+                "pos": "adjective"
+            },
+            {
+                "word": "escapee",
+                "pos": "noun"
+            },
+            {
+                "word": "escapement",
+                "pos": "noun"
+            },
+            {
+                "word": "escapism",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person or an animal that has escaped from somewhere, especially somebody who has escaped from prison",
+                    "vi": "một người hoặc một con vật đã trốn thoát khỏi một nơi nào đó, đặc biệt là một người nào đó đã trốn thoát khỏi nhà tù"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "e24d5dd451974fb090561b1a36e27f44",
+        "word": "felon",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈfelən/",
+            "us": "/ˈfelən/"
+        },
+        "nearby": [
+            {
+                "word": "fellowship",
+                "pos": "noun"
+            },
+            {
+                "word": "fellow traveller",
+                "pos": "noun"
+            },
+            {
+                "word": "felon",
+                "pos": "noun"
+            },
+            {
+                "word": "felonious",
+                "pos": "adjective"
+            },
+            {
+                "word": "felony",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who has committed a serious crime such as murder or rape",
+                    "vi": "một người đã phạm tội nghiêm trọng như giết người hoặc hiếp dâm"
+                },
+                "examples": [
+                    {
+                        "en": "felons who have served their sentence",
+                        "vi": "những người phạm tội đã chấp hành bản án của họ"
+                    },
+                    {
+                        "en": "The law requires convicted felons entering the state to register their address with the police.",
+                        "vi": "Luật pháp yêu cầu những người bị kết án phạm tội khi vào tiểu bang phải đăng ký địa chỉ của họ với cảnh sát."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "19b7f8f4b25e42b2b212cb07f72b448c",
+        "word": "flasher",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈflæʃə(r)/",
+            "us": "/ˈflæʃər/"
+        },
+        "nearby": [
+            {
+                "word": "flash card",
+                "pos": "noun"
+            },
+            {
+                "word": "flash drive",
+                "pos": "noun"
+            },
+            {
+                "word": "flasher",
+                "pos": "noun"
+            },
+            {
+                "word": "flash flood",
+                "pos": "noun"
+            },
+            {
+                "word": "flash-forward",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a man who shows his sexual organs in public, especially in order to shock or frighten women",
+                    "vi": "một người đàn ông để lộ bộ phận sinh dục của mình ở nơi công cộng, đặc biệt là để gây sốc hoặc sợ hãi cho phụ nữ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a device that turns a light on and off quickly",
+                    "vi": "một thiết bị bật và tắt đèn nhanh chóng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a light on a vehicle that you can turn on and off quickly as a signal",
+                    "vi": "đèn trên xe mà bạn có thể bật và tắt nhanh chóng như một tín hiệu"
+                },
+                "examples": [
+                    {
+                        "en": "four-way flashers (= four lights that flash together to warn other drivers of possible danger)",
+                        "vi": "đèn nháy bốn chiều (= bốn đèn cùng nhấp nháy để cảnh báo những người lái xe khác về nguy hiểm có thể xảy ra)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "eea630b4b3e5446296df02bed5294830",
+        "word": "fratricide",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈfrætrɪsaɪd/",
+            "us": "/ˈfrætrɪsaɪd/"
+        },
+        "nearby": [
+            {
+                "word": "fraternize",
+                "pos": "verb"
+            },
+            {
+                "word": "fratricidal",
+                "pos": "adjective"
+            },
+            {
+                "word": "fratricide",
+                "pos": "noun"
+            },
+            {
+                "word": "fraud",
+                "pos": "noun"
+            },
+            {
+                "word": "fraud squad",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the crime of killing your brother or sister; a person who is guilty of this crime",
+                    "vi": "tội giết anh, chị, em của bạn; một người phạm tội này"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the crime of killing people of your own country or group; a person who is guilty of this crime",
+                    "vi": "tội giết người của đất nước hoặc nhóm của bạn; một người phạm tội này"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the act of killing by accident your own forces in war",
+                    "vi": "hành động vô tình giết chết lực lượng của bạn trong chiến tranh"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "afed13a7491247de99aa05b3473889b1",
+        "word": "frontman",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈfrʌntmæn/",
+            "us": "/ˈfrʌntmæn/"
+        },
+        "nearby": [
+            {
+                "word": "the front line",
+                "pos": "noun"
+            },
+            {
+                "word": "front-load",
+                "pos": "verb"
+            },
+            {
+                "word": "frontman",
+                "pos": "noun"
+            },
+            {
+                "word": "front office",
+                "pos": "noun"
+            },
+            {
+                "word": "front of house",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who represents an organization and tries to make its activities seem acceptable to the public, although in fact they may be illegal or dishonest",
+                    "vi": "một người đại diện cho một tổ chức và cố gắng làm cho các hoạt động của tổ chức đó có vẻ được công chúng chấp nhận, mặc dù trên thực tế, chúng có thể là bất hợp pháp hoặc không trung thực"
+                },
+                "examples": [
+                    {
+                        "en": "He acted as a frontman for a drugs cartel.",
+                        "vi": "Anh ta hoạt động như một bình phong cho một tập đoàn ma túy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a man who is the main singer in a pop or rock band",
+                    "vi": "một người đàn ông là ca sĩ chính trong ban nhạc pop hoặc rock"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person who presents a television programme",
+                    "vi": "một người trình bày một chương trình truyền hình"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "ef139b3876ad4db58c1ebb2a2f2b31db",
+        "word": "fugitive",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈfjuːdʒətɪv/",
+            "us": "/ˈfjuːdʒətɪv/"
+        },
+        "nearby": [
+            {
+                "word": "fug",
+                "pos": "noun"
+            },
+            {
+                "word": "fugal",
+                "pos": "adjective"
+            },
+            {
+                "word": "fugitive",
+                "pos": "noun"
+            },
+            {
+                "word": "The Fugitive",
+                "pos": ""
+            },
+            {
+                "word": "fugitive",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who has escaped or is running away from somewhere and is trying to avoid being caught",
+                    "vi": "một người đã trốn thoát hoặc đang chạy trốn khỏi một nơi nào đó và đang cố gắng tránh bị bắt"
+                },
+                "examples": [
+                    {
+                        "en": "a fugitive from justice",
+                        "vi": "một kẻ chạy trốn khỏi công lý"
+                    },
+                    {
+                        "en": "one of the most wanted fugitives sought by the Italian police",
+                        "vi": "một trong những kẻ đào tẩu bị truy nã gắt gao nhất bị cảnh sát Ý truy lùng"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7864e2f5eb8742dea7aa27a9cb65830a",
+        "word": "gangmaster",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈɡæŋmɑːstə(r)/",
+            "us": "/ˈɡæŋmæstər/"
+        },
+        "nearby": [
+            {
+                "word": "gangling",
+                "pos": "adjective"
+            },
+            {
+                "word": "ganglion",
+                "pos": "noun"
+            },
+            {
+                "word": "gangmaster",
+                "pos": "noun"
+            },
+            {
+                "word": "gangplank",
+                "pos": "noun"
+            },
+            {
+                "word": "gang rape",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person or company that organizes groups of workers on a temporary basis to do manual work (= physical work using their hands), especially work on farms",
+                    "vi": "một người hoặc công ty tổ chức các nhóm công nhân tạm thời làm công việc chân tay (= công việc chân tay), đặc biệt là làm việc trong các trang trại"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "0f60a08af81f44e09b4f4ecf87cc9ecf",
+        "word": "gunrunner",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈɡʌnrʌnə(r)/",
+            "us": "/ˈɡʌnrʌnər/"
+        },
+        "nearby": [
+            {
+                "word": "gunpowder",
+                "pos": "noun"
+            },
+            {
+                "word": "the Gunpowder Plot",
+                "pos": ""
+            },
+            {
+                "word": "gunrunner",
+                "pos": "noun"
+            },
+            {
+                "word": "gunrunning",
+                "pos": "noun"
+            },
+            {
+                "word": "gunship",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who secretly and illegally brings guns into a country",
+                    "vi": "một người bí mật và bất hợp pháp mang súng vào một quốc gia"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "519d850b90c9468891ea5f1ddb9d8bf9",
+        "word": "hitman",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈhɪtmæn/",
+            "us": "/ˈhɪtmæn/"
+        },
+        "nearby": [
+            {
+                "word": "hitherto",
+                "pos": "adverb"
+            },
+            {
+                "word": "hit list",
+                "pos": "noun"
+            },
+            {
+                "word": "hitman",
+                "pos": "noun"
+            },
+            {
+                "word": "hit on",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "hit-or-miss",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a criminal who is paid to kill somebody",
+                    "vi": "một tên tội phạm được trả tiền để giết ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "Maybe somebody hired a hitman.",
+                        "vi": "Có lẽ ai đó đã thuê một sát thủ."
+                    },
+                    {
+                        "en": "He claimed that a hitman had been paid $20 000 to kill him.",
+                        "vi": "Anh ta khai rằng một sát thủ đã được trả 20.000 đô la để giết anh ta."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ce927a7040944a99b606888e5e2add23",
+        "word": "hoodlum",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈhuːdləm/",
+            "us": "/ˈhʊdləm/"
+        },
+        "nearby": [
+            {
+                "word": "-hood",
+                "pos": "suffix"
+            },
+            {
+                "word": "hooded",
+                "pos": "adjective"
+            },
+            {
+                "word": "hoodlum",
+                "pos": "noun"
+            },
+            {
+                "word": "hoodoo",
+                "pos": "noun"
+            },
+            {
+                "word": "hoodwink",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a violent criminal, especially one who is part of a gang",
+                    "vi": "một tội phạm bạo lực, đặc biệt là một thành viên của băng đảng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a violent and noisy young man",
+                    "vi": "một thanh niên bạo lực và ồn ào"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "e3c0446c71d440c48d7a55de68929c9b",
+        "word": "housebreaker",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈhaʊsbreɪkə(r)/",
+            "us": "/ˈhaʊsbreɪkər/"
+        },
+        "nearby": [
+            {
+                "word": "housebound",
+                "pos": "adjective"
+            },
+            {
+                "word": "houseboy",
+                "pos": "noun"
+            },
+            {
+                "word": "housebreaker",
+                "pos": "noun"
+            },
+            {
+                "word": "housebreaking",
+                "pos": "noun"
+            },
+            {
+                "word": "house-broken",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who enters a house illegally by using force, in order to steal things from it",
+                    "vi": "một người vào nhà bất hợp pháp bằng cách sử dụng vũ lực, để lấy cắp những thứ từ đó"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "f56b17adabd84bc9a230412afdb8e050",
+        "word": "hustler",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈhʌslə(r)/",
+            "us": "/ˈhʌslər/"
+        },
+        "nearby": [
+            {
+                "word": "hustle",
+                "pos": "verb"
+            },
+            {
+                "word": "hustle",
+                "pos": "noun"
+            },
+            {
+                "word": "hustler",
+                "pos": "noun"
+            },
+            {
+                "word": "John Huston",
+                "pos": ""
+            },
+            {
+                "word": "hut",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who tries to trick somebody into giving them money",
+                    "vi": "một người cố gắng lừa ai đó đưa tiền cho họ"
+                },
+                "examples": [
+                    {
+                        "en": "Johnny was a small-time pool room hustler.",
+                        "vi": "Johnny là một người thích chơi bi-a trong thời gian nhỏ."
+                    },
+                    {
+                        "en": "a street hustler selling fake designer T-shirts",
+                        "vi": "một người hối hả bán áo phông hàng hiệu giả"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who works as a prostitute",
+                    "vi": "một người hành nghề mại dâm"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "b6f1e20eae5b4e87a8a4713a87ce6955",
+        "word": "jailbird",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈdʒeɪlbɜːd/",
+            "us": "/ˈdʒeɪlbɜːrd/"
+        },
+        "nearby": [
+            {
+                "word": "jail",
+                "pos": "verb"
+            },
+            {
+                "word": "jailbait",
+                "pos": "noun"
+            },
+            {
+                "word": "jailbird",
+                "pos": "noun"
+            },
+            {
+                "word": "jailbreak",
+                "pos": "noun"
+            },
+            {
+                "word": "jailer",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who has spent a lot of time in prison",
+                    "vi": "một người đã ở tù nhiều thời gian"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "08267df9574c4f8cb68cb5ca82061fa8",
+        "word": "joyrider",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈdʒɔɪraɪdə(r)/",
+            "us": "/ˈdʒɔɪraɪdər/"
+        },
+        "nearby": [
+            {
+                "word": "joypad",
+                "pos": "noun"
+            },
+            {
+                "word": "joyride",
+                "pos": "noun"
+            },
+            {
+                "word": "joyrider",
+                "pos": "noun"
+            },
+            {
+                "word": "joyriding",
+                "pos": "noun"
+            },
+            {
+                "word": "joystick",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who steals a car and drives it for pleasure, usually in a fast and dangerous way",
+                    "vi": "một người ăn trộm xe và lái nó cho vui, thường là một cách nhanh chóng và nguy hiểm"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "575ca1347075466fa3f93b6cf8336864",
+        "word": "kerb-crawler",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkɜːb krɔːlə(r)/",
+            "us": "/ˈkɜːrb krɔːlər/"
+        },
+        "nearby": [
+            {
+                "word": "keratin",
+                "pos": "noun"
+            },
+            {
+                "word": "kerb",
+                "pos": "noun"
+            },
+            {
+                "word": "kerb-crawler",
+                "pos": "noun"
+            },
+            {
+                "word": "kerb-crawling",
+                "pos": "noun"
+            },
+            {
+                "word": "kerbside",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who drives slowly along a road looking for somebody who will have sex with them in their car in exchange for money",
+                    "vi": "một người lái xe chậm dọc trên con đường tìm kiếm ai đó sẽ quan hệ tình dục với họ trong xe của họ để đổi lấy tiền"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "fbd6b162c95c4d938a938a95204ee5d4",
+        "word": "launderer",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈlɔːndərə(r)/",
+            "us": "/ˈlɔːndərər/"
+        },
+        "nearby": [
+            {
+                "word": "launch yourself into",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "launder",
+                "pos": "verb"
+            },
+            {
+                "word": "launderer",
+                "pos": "noun"
+            },
+            {
+                "word": "launderette",
+                "pos": "noun"
+            },
+            {
+                "word": "laundry",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person or company whose work or business is washing, drying and ironing clothes, etc.",
+                    "vi": "một người hoặc công ty có công việc hoặc cơ sở kinh doanh của họ là giặt, sấy và ủi quần áo, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "They worked in the homes of wealthy families as cooks, launderers and gardeners.",
+                        "vi": "Họ làm việc trong nhà của những gia đình giàu có với tư cách là đầu bếp, thợ giặt và người làm vườn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who commits the crime of money laundering",
+                    "vi": "một người phạm tội rửa tiền"
+                },
+                "examples": [
+                    {
+                        "en": "These banks were among the biggest launderers of drug money.",
+                        "vi": "Các ngân hàng này là một trong những nơi rửa tiền ma túy lớn nhất."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "59b36ef1489a422ebf03a0e9f56e8be3",
+        "word": "lifer",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈlaɪfə(r)/",
+            "us": "/ˈlaɪfər/"
+        },
+        "nearby": [
+            {
+                "word": "life peer",
+                "pos": "noun"
+            },
+            {
+                "word": "life preserver",
+                "pos": "noun"
+            },
+            {
+                "word": "lifer",
+                "pos": "noun"
+            },
+            {
+                "word": "life raft",
+                "pos": "noun"
+            },
+            {
+                "word": "lifesaver",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who has been sent to prison for their whole life",
+                    "vi": "một người đã bị đi tù cả đời"
+                },
+                "examples": [
+                    {
+                        "en": "There are many more lifers in jail than there used to be.",
+                        "vi": "Có nhiều người sống trong tù hơn trước đây."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e3c8198b8f6a4908adc966d33a34cafb",
+        "word": "looter",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈluːtə(r)/",
+            "us": "/ˈluːtər/"
+        },
+        "nearby": [
+            {
+                "word": "loot",
+                "pos": "verb"
+            },
+            {
+                "word": "loot",
+                "pos": "noun"
+            },
+            {
+                "word": "looter",
+                "pos": "noun"
+            },
+            {
+                "word": "looting",
+                "pos": "noun"
+            },
+            {
+                "word": "lop",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who steals things from shops or buildings after a riot, fire, etc.",
+                    "vi": "một người ăn cắp đồ đạc từ các cửa hàng hoặc tòa nhà sau một cuộc bạo loạn, hỏa hoạn, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "Hundreds of looters and rioters taunted police.",
+                        "vi": "Hàng trăm kẻ cướp bóc và bạo loạn đã chế nhạo cảnh sát."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who steals money or property from a person or place",
+                    "vi": "một người ăn cắp tiền hoặc tài sản của một người hoặc một nơi"
+                },
+                "examples": [
+                    {
+                        "en": "He denounced his opponents as looters of national resources.",
+                        "vi": "Ông tố cáo đối thủ của mình là những kẻ cướp bóc tài nguyên quốc gia."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0b29c2f4927743fdbd4e9be7818cd474",
+        "word": "mobster",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈmɒbstə(r)/",
+            "us": "/ˈmɑːbstər/"
+        },
+        "nearby": [
+            {
+                "word": "mobilize",
+                "pos": "verb"
+            },
+            {
+                "word": "Möbius strip",
+                "pos": "noun"
+            },
+            {
+                "word": "mobster",
+                "pos": "noun"
+            },
+            {
+                "word": "Moby-Dick",
+                "pos": ""
+            },
+            {
+                "word": "moccasin",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a member of a group of people who are involved in organized crime",
+                    "vi": "thành viên của một nhóm người có liên quan đến tội phạm có tổ chức"
+                },
+                "examples": [
+                    {
+                        "en": "De Niro plays the most menacing mobster of all.",
+                        "vi": "De Niro đóng vai một tên cướp đáng sợ nhất trong tất cả."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7983c7dc805f4a1e955ff800aa9cfd4d",
+        "word": "money launderer",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈmʌni lɔːndərə(r)/",
+            "us": "/ˈmʌni lɔːndərər/"
+        },
+        "nearby": [
+            {
+                "word": "money-grubber",
+                "pos": "noun"
+            },
+            {
+                "word": "money-grubbing",
+                "pos": "adjective"
+            },
+            {
+                "word": "money launderer",
+                "pos": "noun"
+            },
+            {
+                "word": "money laundering",
+                "pos": "noun"
+            },
+            {
+                "word": "moneylender",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who commits the crime of money laundering",
+                    "vi": "một người phạm tội rửa tiền"
+                },
+                "examples": [
+                    {
+                        "en": "Money launderers hide billions each year.",
+                        "vi": "Những kẻ rửa tiền cất giấu hàng tỷ USD mỗi năm."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5efdde41ca534d56bdc70faeffd2399d",
+        "word": "mule",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/mjuːl/",
+            "us": "/mjuːl/"
+        },
+        "nearby": [
+            {
+                "word": "mulch",
+                "pos": "noun"
+            },
+            {
+                "word": "mulch",
+                "pos": "verb"
+            },
+            {
+                "word": "mule",
+                "pos": "noun"
+            },
+            {
+                "word": "muleteer",
+                "pos": "noun"
+            },
+            {
+                "word": "mulish",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an animal that has a female horse and a male donkey as parents, used especially for carrying loads",
+                    "vi": "một con vật có một con ngựa cái và một con lừa đực làm bố mẹ, được sử dụng đặc biệt để chở hàng"
+                },
+                "examples": [
+                    {
+                        "en": "He's as stubborn as a mule.",
+                        "vi": "Anh ta cứng đầu như một con la."
+                    },
+                    {
+                        "en": "a man on a mule",
+                        "vi": "một người đàn ông trên con la"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who is paid to take drugs illegally from one country to another",
+                    "vi": "một người được trả tiền để đưa ma túy bất hợp pháp từ nước này sang nước khác"
+                },
+                "examples": [
+                    {
+                        "en": "a drug/drugs mule",
+                        "vi": "ma túy / ma túy con la"
+                    },
+                    {
+                        "en": "The authorities believe these men are important figures in the drug trade, not merely mules.",
+                        "vi": "Các nhà chức trách tin rằng những người đàn ông này là những nhân vật quan trọng trong việc buôn bán ma túy, không chỉ đơn thuần là những con la."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a slipper (= a soft shoe for wearing indoors) or a woman's shoe that is open around the heel",
+                    "vi": "dép (= giày mềm để đi trong nhà) hoặc giày nữ hở gót"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "05a30e6946ec4f58aafc97bcb3341af7",
+        "word": "murderess",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈmɜːdəres/",
+            "us": "/ˈmɜːrdəres/"
+        },
+        "nearby": [
+            {
+                "word": "murder",
+                "pos": "verb"
+            },
+            {
+                "word": "murderer",
+                "pos": "noun"
+            },
+            {
+                "word": "murderess",
+                "pos": "noun"
+            },
+            {
+                "word": "murderous",
+                "pos": "adjective"
+            },
+            {
+                "word": "murderously",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a woman who has killed somebody deliberately and illegally; a female murderer",
+                    "vi": "một người phụ nữ đã giết ai đó một cách có chủ ý và bất hợp pháp; một nữ sát nhân"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "7857ec5e674c4a22a3583192e746f028",
+        "word": "non-citizen",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌnɒn ˈsɪtɪzn/",
+            "us": "/ˌnɑːn ˈsɪtɪzn/"
+        },
+        "nearby": [
+            {
+                "word": "nonchalant",
+                "pos": "adjective"
+            },
+            {
+                "word": "nonchalantly",
+                "pos": "adverb"
+            },
+            {
+                "word": "non-citizen",
+                "pos": "noun"
+            },
+            {
+                "word": "non-combatant",
+                "pos": "noun"
+            },
+            {
+                "word": "non-commissioned officer",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who is not a citizen of the country in which they live or work",
+                    "vi": "một người không phải là công dân của quốc gia mà họ sinh sống hoặc làm việc"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "6896e356545440b0bc54ce157fce9172",
+        "word": "perjurer",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpɜːdʒərə(r)/",
+            "us": "/ˈpɜːrdʒərər/"
+        },
+        "nearby": [
+            {
+                "word": "periwinkle",
+                "pos": "noun"
+            },
+            {
+                "word": "perjure",
+                "pos": "verb"
+            },
+            {
+                "word": "perjurer",
+                "pos": "noun"
+            },
+            {
+                "word": "perjury",
+                "pos": "noun"
+            },
+            {
+                "word": "perk",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who tells a lie in court after they have sworn to tell the truth",
+                    "vi": "một người nói dối trước tòa sau khi họ đã tuyên thệ nói sự thật"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "2bf5468d1e194e6c9feda28edf3837ed",
+        "word": "perp",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/pɜːp/",
+            "us": "/pɜːrp/"
+        },
+        "nearby": [
+            {
+                "word": "peroration",
+                "pos": "noun"
+            },
+            {
+                "word": "peroxide",
+                "pos": "noun"
+            },
+            {
+                "word": "perp",
+                "pos": "noun"
+            },
+            {
+                "word": "perpendicular",
+                "pos": "adjective"
+            },
+            {
+                "word": "perpendicular",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a perpetrator (= a person who commits a crime or does something that is wrong or evil)",
+                    "vi": "một thủ phạm (= một người phạm tội hoặc làm điều gì đó sai trái hoặc xấu xa)"
+                },
+                "examples": [
+                    {
+                        "en": "The perp stole a police car and got away.",
+                        "vi": "Kẻ gian đã đánh cắp một chiếc xe cảnh sát và chạy đi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "776ea1929d984269a3426c62ab314c6e",
+        "word": "perpetrator",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpɜːpətreɪtə(r)/",
+            "us": "/ˈpɜːrpətreɪtər/"
+        },
+        "nearby": [
+            {
+                "word": "perpetrate",
+                "pos": "verb"
+            },
+            {
+                "word": "perpetration",
+                "pos": "noun"
+            },
+            {
+                "word": "perpetrator",
+                "pos": "noun"
+            },
+            {
+                "word": "perpetual",
+                "pos": "adjective"
+            },
+            {
+                "word": "perpetually",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who commits a crime or does something that is wrong or evil",
+                    "vi": "một người phạm tội hoặc làm điều gì đó sai trái hoặc xấu xa"
+                },
+                "examples": [
+                    {
+                        "en": "the perpetrators of the crime",
+                        "vi": "thủ phạm của tội ác"
+                    },
+                    {
+                        "en": "We will do everything in our power to bring the perpetrators to justice.",
+                        "vi": "Chúng tôi sẽ làm mọi thứ trong khả năng của mình để đưa những thủ phạm ra trước công lý."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6fda9b2762af45d1b7585651e65ae885",
+        "word": "pilferer",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpɪlfərə(r)/",
+            "us": "/ˈpɪlfərər/"
+        },
+        "nearby": [
+            {
+                "word": "pilfer",
+                "pos": "verb"
+            },
+            {
+                "word": "pilferage",
+                "pos": "noun"
+            },
+            {
+                "word": "pilferer",
+                "pos": "noun"
+            },
+            {
+                "word": "pilfering",
+                "pos": "noun"
+            },
+            {
+                "word": "pilgrim",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who steals things of little value or in small quantities, especially from the place where they work",
+                    "vi": "một người ăn cắp những thứ có giá trị nhỏ hoặc với số lượng nhỏ, đặc biệt là từ nơi họ làm việc"
+                },
+                "examples": [
+                    {
+                        "en": "Certain types of goods are preferred by pilferers.",
+                        "vi": "Một số loại hàng hóa được ưa thích bởi những người ăn cắp vặt."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8274c84b9bac498e95f6d4b19b489bf6",
+        "word": "pimp",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/pɪmp/",
+            "us": "/pɪmp/"
+        },
+        "nearby": [
+            {
+                "word": "pimento",
+                "pos": "noun"
+            },
+            {
+                "word": "Pimm's",
+                "pos": "noun"
+            },
+            {
+                "word": "pimp",
+                "pos": "noun"
+            },
+            {
+                "word": "pimp",
+                "pos": "verb"
+            },
+            {
+                "word": "pimpernel",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a man who controls people working as prostitutes and lives on the money that they earn",
+                    "vi": "một người đàn ông kiểm soát những người làm gái mại dâm và sống bằng số tiền họ kiếm được"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "b060d7512dd9416485b458d254a723d3",
+        "word": "prisoner of conscience",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌprɪznər əv ˈkɒnʃəns/",
+            "us": "/ˌprɪznər əv ˈkɑːnʃəns/"
+        },
+        "nearby": [
+            {
+                "word": "prison camp",
+                "pos": "noun"
+            },
+            {
+                "word": "prisoner",
+                "pos": "noun"
+            },
+            {
+                "word": "prisoner of conscience",
+                "pos": "noun"
+            },
+            {
+                "word": "prisoner of war",
+                "pos": "noun"
+            },
+            {
+                "word": "prison visitor",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who is kept in prison because of his or her political or religious beliefs",
+                    "vi": "một người bị giữ trong tù vì niềm tin chính trị hoặc tôn giáo của họ"
+                },
+                "examples": [
+                    {
+                        "en": "The former prisoner of conscience was elected president of the new democracy.",
+                        "vi": "Cựu tù nhân lương tâm được bầu làm tổng thống của nền dân chủ mới."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e6fa30dd32f6449a94a9eae2789fb563",
+        "word": "pusher",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpʊʃə(r)/",
+            "us": "/ˈpʊʃər/"
+        },
+        "nearby": [
+            {
+                "word": "pushchair",
+                "pos": "noun"
+            },
+            {
+                "word": "pushed",
+                "pos": "adjective"
+            },
+            {
+                "word": "pusher",
+                "pos": "noun"
+            },
+            {
+                "word": "push for",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "push forward",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who sells illegal drugs",
+                    "vi": "một người bán ma túy bất hợp pháp"
+                },
+                "examples": [
+                    {
+                        "en": "drug pushers",
+                        "vi": "thuốc đẩy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f1c4a81dc35743449e15d12938ff3212",
+        "word": "ring",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/rɪŋ/",
+            "us": "/rɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "rind",
+                "pos": "noun"
+            },
+            {
+                "word": "rinderpest",
+                "pos": "noun"
+            },
+            {
+                "word": "ring1",
+                "pos": "noun"
+            },
+            {
+                "word": "ring1",
+                "pos": "verb"
+            },
+            {
+                "word": "ring2",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a piece of jewellery that you wear on your finger, consisting of a round band of gold, silver, etc., sometimes decorated with precious stones",
+                    "vi": "một món đồ trang sức mà bạn đeo trên ngón tay, bao gồm một dải tròn bằng vàng, bạc, v.v., đôi khi được trang trí bằng đá quý"
+                },
+                "examples": [
+                    {
+                        "en": "a gold ring",
+                        "vi": "một chiếc nhẫn vàng"
+                    },
+                    {
+                        "en": "a diamond ring (= a ring with a diamond on it)",
+                        "vi": "một chiếc nhẫn kim cương (= một chiếc nhẫn có một viên kim cương trên đó)"
+                    },
+                    {
+                        "en": "He was wearing a ring on his middle finger.",
+                        "vi": "Anh ấy đang đeo một chiếc nhẫn ở ngón giữa của mình."
+                    },
+                    {
+                        "en": "Her mother gave her a beautiful ring.",
+                        "vi": "Mẹ cô đã tặng cô một chiếc nhẫn rất đẹp."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an object in the shape of a circle with a large hole in the middle",
+                    "vi": "một vật thể có dạng hình tròn với một lỗ lớn ở giữa"
+                },
+                "examples": [
+                    {
+                        "en": "a key ring",
+                        "vi": "một chiếc nhẫn chìa khóa"
+                    },
+                    {
+                        "en": "curtain rings",
+                        "vi": "vòng rèm"
+                    },
+                    {
+                        "en": "the rings of Saturn",
+                        "vi": "các vành đai của sao Thổ"
+                    },
+                    {
+                        "en": "The villagers were literally surrounded by a ring of fire.",
+                        "vi": "Dân làng bị bao vây bởi một vòng lửa theo đúng nghĩa đen."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a round mark or shape",
+                    "vi": "một dấu tròn hoặc hình dạng"
+                },
+                "examples": [
+                    {
+                        "en": "She had dark rings around her eyes from lack of sleep.",
+                        "vi": "Cô có quầng thâm quanh mắt vì thiếu ngủ."
+                    },
+                    {
+                        "en": "The children sat on the floor in a ring.",
+                        "vi": "Những đứa trẻ ngồi trên sàn trong một vòng."
+                    },
+                    {
+                        "en": "The army formed a protective ring around the presidential palace.",
+                        "vi": "Quân đội tạo thành vòng bảo vệ xung quanh dinh tổng thống."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an area in which animals or people perform or compete, with seats around the outside for the audience",
+                    "vi": "một khu vực mà động vật hoặc con người biểu diễn hoặc thi đấu, với những chỗ ngồi xung quanh bên ngoài cho khán giả"
+                },
+                "examples": [
+                    {
+                        "en": "a boxing ring",
+                        "vi": "một võ đài quyền anh"
+                    },
+                    {
+                        "en": "a circus ring",
+                        "vi": "một vòng xiếc"
+                    },
+                    {
+                        "en": "The next competitor rode into the ring.",
+                        "vi": "Các đối thủ tiếp theo cưỡi vào vòng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a small flat place on a cooker that is heated by gas or electricity and is used for cooking on",
+                    "vi": "một nơi bằng phẳng nhỏ trên bếp được làm nóng bằng gas hoặc điện và được sử dụng để nấu ăn trên"
+                },
+                "examples": [
+                    {
+                        "en": "to turn off the gas ring",
+                        "vi": "để tắt vòng ga"
+                    },
+                    {
+                        "en": "I put the saucepan on the ring.",
+                        "vi": "Tôi đặt cái chảo lên trên chiếc nhẫn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a group of people who are working together, especially in secret or illegally",
+                    "vi": "một nhóm người đang làm việc cùng nhau, đặc biệt là trong bí mật hoặc bất hợp pháp"
+                },
+                "examples": [
+                    {
+                        "en": "a spy ring",
+                        "vi": "một vòng gián điệp"
+                    },
+                    {
+                        "en": "a drugs ring",
+                        "vi": "một chiếc nhẫn ma túy"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the opportunity to be successful; success that you have worked hard to get",
+                    "vi": "cơ hội để thành công; thành công mà bạn đã làm việc chăm chỉ để có được"
+                },
+                "examples": [
+                    {
+                        "en": "The girls' outdoor track team has grabbed the brass ring seven times.",
+                        "vi": "Đội điền kinh ngoài trời của các cô gái đã bảy lần giành lấy chiếc vòng đồng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be much better at doing something than somebody else",
+                    "vi": "giỏi hơn nhiều trong việc làm điều gì đó hơn người khác"
+                },
+                "examples": [
+                    {
+                        "en": "I used to beat my son at chess but now he runs rings around me.",
+                        "vi": "Tôi đã từng đánh con trai mình ở môn cờ vua nhưng bây giờ nó chạy vòng quanh tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to announce officially that you are going to compete in an election, a competition, etc.",
+                    "vi": "để thông báo chính thức rằng bạn sẽ cạnh tranh trong một cuộc bầu cử, một cuộc thi, v.v."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "e6dd236eedfd4ab2a978f3167d678d02",
+        "word": "ringleader",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈrɪŋliːdə(r)/",
+            "us": "/ˈrɪŋliːdər/"
+        },
+        "nearby": [
+            {
+                "word": "ringing",
+                "pos": "adjective"
+            },
+            {
+                "word": "ringing",
+                "pos": "noun"
+            },
+            {
+                "word": "ringleader",
+                "pos": "noun"
+            },
+            {
+                "word": "ringlet",
+                "pos": "noun"
+            },
+            {
+                "word": "Ringling Bros and Barnum & Bailey Circus",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who leads others in crime or in causing trouble",
+                    "vi": "một người dẫn dắt người khác phạm tội hoặc gây rắc rối"
+                },
+                "examples": [
+                    {
+                        "en": "The ringleaders were jailed for 15 years.",
+                        "vi": "Những kẻ cầm đầu bị bỏ tù trong 15 năm."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "d20052fbe87c4f59b1dd380df39b3cc2",
+        "word": "runner",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈrʌnə(r)/",
+            "us": "/ˈrʌnər/"
+        },
+        "nearby": [
+            {
+                "word": "run into",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "runnel",
+                "pos": "noun"
+            },
+            {
+                "word": "runner",
+                "pos": "noun"
+            },
+            {
+                "word": "runner bean",
+                "pos": "noun"
+            },
+            {
+                "word": "runner-up",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person or an animal that runs, especially one taking part in a race",
+                    "vi": "một người hoặc một động vật chạy, đặc biệt là một người đang tham gia một cuộc đua"
+                },
+                "examples": [
+                    {
+                        "en": "a long-distance/cross-country/marathon runner",
+                        "vi": "vận động viên chạy đường dài / việt dã / marathon"
+                    },
+                    {
+                        "en": "He was a fast runner.",
+                        "vi": "Anh ấy là một người chạy nhanh."
+                    },
+                    {
+                        "en": "a list of runners (= horses in a race) and riders",
+                        "vi": "danh sách các vận động viên chạy (= ngựa trong cuộc đua) và các tay đua"
+                    },
+                    {
+                        "en": "She is the world's greatest marathon runner.",
+                        "vi": "Cô ấy là vận động viên marathon vĩ đại nhất thế giới."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who takes goods illegally into or out of a place",
+                    "vi": "một người đưa hàng hóa vào hoặc ra một nơi bất hợp pháp"
+                },
+                "examples": [
+                    {
+                        "en": "a drug runner",
+                        "vi": "một người chạy ma túy"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a narrow piece of metal, plastic or wood that something slides on or can move along on",
+                    "vi": "một mảnh kim loại, nhựa hoặc gỗ hẹp có thứ gì đó trượt lên hoặc có thể di chuyển theo"
+                },
+                "examples": [
+                    {
+                        "en": "the runners of a sledge",
+                        "vi": "người chạy xe trượt"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a plant stem that grows along the ground and puts down roots to form a new plant",
+                    "vi": "thân cây mọc dọc theo mặt đất và cắm rễ xuống để hình thành cây mới"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a long narrow piece of cloth or carpet on a piece of furniture or on the floor",
+                    "vi": "một mảnh vải dài hẹp hoặc tấm thảm trên đồ nội thất hoặc trên sàn nhà"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person in a company or an organization whose job is to take messages, documents, etc. from one place to another",
+                    "vi": "một người trong một công ty hoặc một tổ chức có công việc là mang tin nhắn, tài liệu, v.v. từ nơi này sang nơi khác"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a shoe that is used for running or doing other sport in",
+                    "vi": "một đôi giày được sử dụng để chạy hoặc chơi các môn thể thao khác trong"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to leave or run away from somewhere in a hurry, especially to avoid paying a bill or receiving a punishment",
+                    "vi": "rời đi hoặc chạy trốn khỏi nơi nào đó một cách vội vàng, đặc biệt là để tránh thanh toán hóa đơn hoặc nhận hình phạt"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "215a17a50dda470dacf3361245e4ac37",
+        "word": "rustler",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈrʌslə(r)/",
+            "us": "/ˈrʌslər/"
+        },
+        "nearby": [
+            {
+                "word": "rustle",
+                "pos": "verb"
+            },
+            {
+                "word": "rustle",
+                "pos": "noun"
+            },
+            {
+                "word": "rustler",
+                "pos": "noun"
+            },
+            {
+                "word": "rustle up",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "rustling",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who steals farm animals",
+                    "vi": "một người ăn trộm động vật trang trại"
+                },
+                "examples": [
+                    {
+                        "en": "He was shot dead trying to stop cattle rustlers raiding a farm.",
+                        "vi": "Anh ta đã bị bắn chết khi cố gắng ngăn chặn những người chăn trâu bò tấn công một trang trại."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "494148a24b2542e89fffd85089465b8c",
+        "word": "scalper",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈskælpə(r)/",
+            "us": "/ˈskælpər/"
+        },
+        "nearby": [
+            {
+                "word": "scalp",
+                "pos": "verb"
+            },
+            {
+                "word": "scalpel",
+                "pos": "noun"
+            },
+            {
+                "word": "scalper",
+                "pos": "noun"
+            },
+            {
+                "word": "scaly",
+                "pos": "adjective"
+            },
+            {
+                "word": "scaly anteater",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who buys tickets for concerts, sports events, etc. and then sells them to other people at a higher price",
+                    "vi": "một người mua vé cho các buổi hòa nhạc, sự kiện thể thao, v.v. và sau đó bán chúng cho người khác với giá cao hơn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "f75914caf3074f8190a3cceeb719ff3a",
+        "word": "serial killer",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈsɪəriəl kɪlə(r)/",
+            "us": "/ˈsɪriəl kɪlər/"
+        },
+        "nearby": [
+            {
+                "word": "serialization",
+                "pos": "noun"
+            },
+            {
+                "word": "serialize",
+                "pos": "verb"
+            },
+            {
+                "word": "serial killer",
+                "pos": "noun"
+            },
+            {
+                "word": "serially",
+                "pos": "adverb"
+            },
+            {
+                "word": "serial monogamy",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who murders several people one after the other in a similar way",
+                    "vi": "một người giết nhiều người lần lượt theo cách tương tự"
+                },
+                "examples": [
+                    {
+                        "en": "Police say that they have no proof that a serial killer is responsible for the four murders.",
+                        "vi": "Cảnh sát nói rằng họ không có bằng chứng cho thấy một kẻ giết người hàng loạt phải chịu trách nhiệm cho bốn vụ giết người."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "fe313e8ef5a240fba810ab42b3a9ef8c",
+        "word": "stalker",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈstɔːkə(r)/",
+            "us": "/ˈstɔːkər/"
+        },
+        "nearby": [
+            {
+                "word": "stalk",
+                "pos": "noun"
+            },
+            {
+                "word": "stalk",
+                "pos": "verb"
+            },
+            {
+                "word": "stalker",
+                "pos": "noun"
+            },
+            {
+                "word": "stalking",
+                "pos": "noun"
+            },
+            {
+                "word": "stalking horse",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who follows and watches another person over a long period of time in a way that is annoying or frightening",
+                    "vi": "một người theo dõi và quan sát người khác trong một thời gian dài theo cách gây khó chịu hoặc sợ hãi"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person who follows an animal quietly and slowly, especially in order to kill or capture it",
+                    "vi": "một người theo dõi một con vật một cách lặng lẽ và chậm rãi, đặc biệt là để giết hoặc bắt nó"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "5313e6ed35c641228b460adfa47b0281",
+        "word": "supergrass",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈsuːpəɡrɑːs/",
+            "us": "/ˈsuːpərɡræs/"
+        },
+        "nearby": [
+            {
+                "word": "Superfund",
+                "pos": "noun"
+            },
+            {
+                "word": "superglue",
+                "pos": "noun"
+            },
+            {
+                "word": "supergrass",
+                "pos": "noun"
+            },
+            {
+                "word": "supergroup",
+                "pos": "noun"
+            },
+            {
+                "word": "superheated",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a criminal who informs the police about the activities of a large number of other criminals, usually in order to get a less severe punishment",
+                    "vi": "một tên tội phạm thông báo cho cảnh sát về hoạt động của một số lượng lớn tội phạm khác, thường để nhận được hình phạt nhẹ hơn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "da93e760b8554e20af258e6c8eecbd22",
+        "word": "swindler",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈswɪndlə(r)/",
+            "us": "/ˈswɪndlər/"
+        },
+        "nearby": [
+            {
+                "word": "swindle",
+                "pos": "verb"
+            },
+            {
+                "word": "swindle",
+                "pos": "noun"
+            },
+            {
+                "word": "swindler",
+                "pos": "noun"
+            },
+            {
+                "word": "Swindon",
+                "pos": ""
+            },
+            {
+                "word": "swine",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who cheats somebody in order to get something, especially money, from them",
+                    "vi": "một người lừa ai đó để lấy thứ gì đó, đặc biệt là tiền, từ họ"
+                },
+                "examples": [
+                    {
+                        "en": "a bunch of thieves and swindlers",
+                        "vi": "một lũ trộm và những kẻ lừa đảo"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "093c95c64afd4cd6b76e0f6328737ea7",
+        "word": "thug",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/θʌɡ/",
+            "us": "/θʌɡ/"
+        },
+        "nearby": [
+            {
+                "word": "thud",
+                "pos": "noun"
+            },
+            {
+                "word": "thud",
+                "pos": "verb"
+            },
+            {
+                "word": "thug",
+                "pos": "noun"
+            },
+            {
+                "word": "thuggery",
+                "pos": "noun"
+            },
+            {
+                "word": "thuggish",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a violent person, especially a criminal",
+                    "vi": "một người bạo lực, đặc biệt là tội phạm"
+                },
+                "examples": [
+                    {
+                        "en": "He was beaten up by a gang of thugs.",
+                        "vi": "Anh bị một nhóm côn đồ đánh cho tơi tả."
+                    },
+                    {
+                        "en": "The people who do these sorts of things are just mindless thugs.",
+                        "vi": "Những người làm những việc này chỉ là những tên côn đồ có đầu óc."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "64050316cfcd46b08d1bc567df1ab12d",
+        "word": "tout",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/taʊt/",
+            "us": "/taʊt/"
+        },
+        "nearby": [
+            {
+                "word": "tousled",
+                "pos": "adjective"
+            },
+            {
+                "word": "tout",
+                "pos": "verb"
+            },
+            {
+                "word": "tout",
+                "pos": "noun"
+            },
+            {
+                "word": "tout court",
+                "pos": "adverb"
+            },
+            {
+                "word": "tow",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who buys tickets for concerts, sports events, etc. and then sells them to other people at a higher price",
+                    "vi": "một người mua vé cho các buổi hòa nhạc, sự kiện thể thao, v.v. và sau đó bán chúng cho người khác với giá cao hơn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "a8ce02979a364eeeb1357cedcb4a81ad",
+        "word": "traitor",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtreɪtə(r)/",
+            "us": "/ˈtreɪtər/"
+        },
+        "nearby": [
+            {
+                "word": "traipse",
+                "pos": "verb"
+            },
+            {
+                "word": "trait",
+                "pos": "noun"
+            },
+            {
+                "word": "traitor",
+                "pos": "noun"
+            },
+            {
+                "word": "traitorous",
+                "pos": "adjective"
+            },
+            {
+                "word": "traitorously",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who gives away secrets about their friends, their country, etc.",
+                    "vi": "một người tiết lộ bí mật về bạn bè, đất nước của họ, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "He was seen as a traitor to the socialist cause.",
+                        "vi": "Ông bị coi là kẻ phản bội sự nghiệp xã hội chủ nghĩa."
+                    },
+                    {
+                        "en": "She denied that she had turned traitor (= become a traitor).",
+                        "vi": "Cô ấy phủ nhận rằng cô ấy đã trở thành kẻ phản bội (= trở thành kẻ phản bội)."
+                    },
+                    {
+                        "en": "He turned traitor and joined the opposition.",
+                        "vi": "Anh trở thành kẻ phản bội và gia nhập phe đối lập."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4e6ba7e1085c44f6a61b720df0682ba9",
+        "word": "trespasser",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtrespəsə(r)/",
+            "us": "/ˈtrespæsər/"
+        },
+        "nearby": [
+            {
+                "word": "trespass",
+                "pos": "verb"
+            },
+            {
+                "word": "trespass",
+                "pos": "noun"
+            },
+            {
+                "word": "trespasser",
+                "pos": "noun"
+            },
+            {
+                "word": "trespass on",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "tresses",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who goes onto somebody’s land without their permission",
+                    "vi": "một người đi vào đất của ai đó mà không có sự cho phép của họ"
+                },
+                "examples": [
+                    {
+                        "en": "The notice read: ‘Trespassers will be prosecuted.’",
+                        "vi": "Thông báo viết: 'Những kẻ xâm phạm sẽ bị truy tố.'"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e7964ec048d9429389a5c2b557a8a467",
+        "word": "vagrant",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈveɪɡrənt/",
+            "us": "/ˈveɪɡrənt/"
+        },
+        "nearby": [
+            {
+                "word": "vaginally",
+                "pos": "adverb"
+            },
+            {
+                "word": "vagrancy",
+                "pos": "noun"
+            },
+            {
+                "word": "vagrant",
+                "pos": "noun"
+            },
+            {
+                "word": "vagrant",
+                "pos": "adjective"
+            },
+            {
+                "word": "vague",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who has no home or job, especially one who begs (= asks for money) from people",
+                    "vi": "một người không có nhà hoặc không có việc làm, đặc biệt là người ăn xin (= xin tiền) từ mọi người"
+                },
+                "examples": [
+                    {
+                        "en": "The accused was a vagrant who travelled around, sleeping in parks and bus shelters.",
+                        "vi": "Bị cáo là một kẻ lang thang, đi khắp nơi, ngủ trong công viên và nhà chờ xe buýt."
+                    }
+                ]
+            }
+        ]
+    }
+]

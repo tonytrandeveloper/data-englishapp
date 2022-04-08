@@ -1,0 +1,4421 @@
+[
+    {
+        "id": "f1ffc3c2894b424f8a012446a7194e9f",
+        "word": "fight",
+        "pos": "verb",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/faɪt/",
+            "us": "/faɪt/"
+        },
+        "nearby": [
+            {
+                "word": "fig",
+                "pos": "noun"
+            },
+            {
+                "word": "fig.",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "fight",
+                "pos": "verb"
+            },
+            {
+                "word": "fight",
+                "pos": "noun"
+            },
+            {
+                "word": "fight back",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to take part in a war or battle against an enemy",
+                    "vi": "tham gia vào một cuộc chiến hoặc trận chiến chống lại kẻ thù"
+                },
+                "examples": [
+                    {
+                        "en": "soldiers trained to fight",
+                        "vi": "những người lính được huấn luyện để chiến đấu"
+                    },
+                    {
+                        "en": "He fought in Vietnam.",
+                        "vi": "Anh ấy đã chiến đấu ở Việt Nam."
+                    },
+                    {
+                        "en": "fight against somebody My grandfather fought against the Fascists in Spain.",
+                        "vi": "chiến đấu chống lại ai đó Ông tôi đã chiến đấu chống lại Phát xít ở Tây Ban Nha."
+                    },
+                    {
+                        "en": "fight somebody/something to fight a war/battle",
+                        "vi": "chiến đấu với ai đó / cái gì đó để chống lại một cuộc chiến tranh / trận chiến"
+                    },
+                    {
+                        "en": "They gathered soldiers to fight the invading army.",
+                        "vi": "Họ tập hợp binh lính để chống lại đội quân xâm lược."
+                    },
+                    {
+                        "en": "fight for something They fought for control of the island.",
+                        "vi": "chiến đấu cho một cái gì đó Họ đã chiến đấu để kiểm soát hòn đảo."
+                    },
+                    {
+                        "en": "fight somebody/something for something Didn't we fight a war for freedom?",
+                        "vi": "chiến đấu với ai đó / cái gì đó vì điều gì đó Chẳng phải chúng ta đã chiến đấu vì tự do sao?"
+                    },
+                    {
+                        "en": "fight over something They were fighting over disputed land.",
+                        "vi": "tranh giành một thứ gì đó Họ đang tranh giành đất đai."
+                    },
+                    {
+                        "en": "fight somebody/something over something Future wars will be fought over water supplies.",
+                        "vi": "chiến đấu với ai đó / cái gì đó vì cái gì đó Các cuộc chiến tranh trong tương lai sẽ diễn ra để tranh giành nguồn cung cấp nước."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to struggle physically with somebody",
+                    "vi": "đấu tranh thể chất với ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "My little brothers are always fighting.",
+                        "vi": "Những đứa em nhỏ của tôi luôn chiến đấu."
+                    },
+                    {
+                        "en": "He taught me how to fight with a sword.",
+                        "vi": "Anh ấy dạy tôi cách chiến đấu bằng kiếm."
+                    },
+                    {
+                        "en": "fight with somebody Riot police fought with demonstrators.",
+                        "vi": "chiến đấu với ai đó Cảnh sát chống bạo động đã chiến đấu với những người biểu tình."
+                    },
+                    {
+                        "en": "He sometimes fights with other children in the playground.",
+                        "vi": "Nó đôi khi đánh nhau với những đứa trẻ khác trong sân chơi."
+                    },
+                    {
+                        "en": "fight somebody She fought her attacker, eventually forcing him to flee.",
+                        "vi": "chiến đấu với ai đó Cô đã chiến đấu với kẻ tấn công mình, cuối cùng buộc anh ta phải chạy trốn."
+                    },
+                    {
+                        "en": "fight over something Children will fight even over small things.",
+                        "vi": "tranh giành thứ gì đó Trẻ em sẽ tranh giành ngay cả những điều nhỏ nhặt."
+                    },
+                    {
+                        "en": "dogs fighting over scraps of food",
+                        "vi": "những con chó tranh giành thức ăn thừa"
+                    },
+                    {
+                        "en": "fight somebody over something They were fighting each other over a toy.",
+                        "vi": "đánh nhau với ai đó về thứ gì đó Họ đang đánh nhau vì một món đồ chơi."
+                    },
+                    {
+                        "en": "fight (somebody) for something Paris offers to fight Menelaus for Helen's hand.",
+                        "vi": "chiến đấu (ai đó) vì một thứ gì đó mà Paris đưa ra để đấu với Menelaus để giành lấy bàn tay của Helen."
+                    },
+                    {
+                        "en": "fight against somebody/something She fought hard against his strong grip.",
+                        "vi": "chống lại ai đó / cái gì đó Cô ấy đã chiến đấu hết mình trước sự kìm kẹp mạnh mẽ của anh ấy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to have an argument with somebody about something",
+                    "vi": "tranh luận với ai đó về điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "I remember lying in bed listening to my parents fighting.",
+                        "vi": "Tôi nhớ mình nằm trên giường nghe bố mẹ đánh nhau."
+                    },
+                    {
+                        "en": "fight about something It's a trivial matter and not worth fighting about.",
+                        "vi": "đấu tranh về điều gì đó Đó là một vấn đề tầm thường và không đáng để đấu tranh."
+                    },
+                    {
+                        "en": "fight over something Scholars have long fought over this point.",
+                        "vi": "đấu tranh về một cái gì đó Các học giả đã tranh cãi từ lâu về điểm này."
+                    },
+                    {
+                        "en": "fight with somebody I'm always fighting with my sister.",
+                        "vi": "chiến đấu với ai đó Tôi luôn chiến đấu với em gái tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to try hard to stop, deal with or oppose something bad or something that you disagree with",
+                    "vi": "cố gắng hết sức để ngăn chặn, đối phó hoặc phản đối điều gì đó tồi tệ hoặc điều gì đó mà bạn không đồng ý"
+                },
+                "examples": [
+                    {
+                        "en": "We will continue to fight for as long as it takes.",
+                        "vi": "Chúng tôi sẽ tiếp tục chiến đấu cho đến chừng nào còn cần thiết."
+                    },
+                    {
+                        "en": "She fought bravely, but died of the disease.",
+                        "vi": "Cô đã chiến đấu dũng cảm, nhưng đã chết vì bạo bệnh."
+                    },
+                    {
+                        "en": "fight something to fight terrorism/crime/corruption/poverty",
+                        "vi": "chiến đấu một cái gì đó để chống khủng bố / tội phạm / tham nhũng / nghèo đói"
+                    },
+                    {
+                        "en": "Vitamin C helps your body to fight disease.",
+                        "vi": "Vitamin C giúp cơ thể bạn chống lại bệnh tật."
+                    },
+                    {
+                        "en": "Workers are fighting the decision to close the factory.",
+                        "vi": "Các công nhân đang chống lại quyết định đóng cửa nhà máy."
+                    },
+                    {
+                        "en": "The fire crews had problems fighting the blaze.",
+                        "vi": "Các đội cứu hỏa gặp khó khăn khi chữa cháy."
+                    },
+                    {
+                        "en": "She fought a long battle against cancer.",
+                        "vi": "Cô đã chiến đấu một trận chiến dài chống lại căn bệnh ung thư."
+                    },
+                    {
+                        "en": "fight against something They are committed to fighting against racism.",
+                        "vi": "chiến đấu chống lại một cái gì đó Họ cam kết đấu tranh chống lại phân biệt chủng tộc."
+                    },
+                    {
+                        "en": "fight for somebody She spent her life fighting for the poor.",
+                        "vi": "chiến đấu cho ai đó Cô ấy đã dành cả cuộc đời mình để chiến đấu vì người nghèo."
+                    },
+                    {
+                        "en": "fight something with something We must fight hatred with love.",
+                        "vi": "đấu tranh với một cái gì đó với một cái gì đó Chúng ta phải chiến đấu hận thù bằng tình yêu."
+                    },
+                    {
+                        "en": "fight to do something She'll fight like a tiger to protect her children.",
+                        "vi": "chiến đấu để làm điều gì đó Cô ấy sẽ chiến đấu như một con hổ để bảo vệ con mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to try very hard to get something or to achieve something",
+                    "vi": "cố gắng rất nhiều để đạt được điều gì đó hoặc đạt được điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "We fought for years before we got the recognition we deserved.",
+                        "vi": "Chúng tôi đã chiến đấu trong nhiều năm trước khi nhận được sự công nhận xứng đáng."
+                    },
+                    {
+                        "en": "fight for something Women fought for the right to vote.",
+                        "vi": "đấu tranh cho điều gì đó Phụ nữ đã đấu tranh cho quyền bầu cử."
+                    },
+                    {
+                        "en": "He's still fighting for compensation after the accident.",
+                        "vi": "Anh ấy vẫn đang đấu tranh để được bồi thường sau vụ tai nạn."
+                    },
+                    {
+                        "en": "fight to do something Doctors fought for more than six hours to save his life.",
+                        "vi": "chiến đấu để làm điều gì đó Các bác sĩ đã chiến đấu trong hơn sáu giờ để cứu sống anh ta."
+                    },
+                    {
+                        "en": "She fought hard to get this film made.",
+                        "vi": "Cô ấy đã đấu tranh rất vất vả để có được bộ phim này."
+                    },
+                    {
+                        "en": "fight your way… She gradually fought her way to the top of the company.",
+                        "vi": "chiến đấu theo cách của bạn… Cô ấy dần dần chiến đấu theo cách của mình để đứng đầu công ty."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to take part in a contest against somebody",
+                    "vi": "tham gia vào một cuộc thi chống lại ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "fight somebody/something (for something) to fight an election/a campaign",
+                        "vi": "chống lại ai đó / cái gì đó (vì cái gì đó) để chống lại một cuộc bầu cử / một chiến dịch"
+                    },
+                    {
+                        "en": "fight for something She's fighting for a place in the national team.",
+                        "vi": "chiến đấu vì điều gì đó Cô ấy đang chiến đấu để có một vị trí trong đội tuyển quốc gia."
+                    },
+                    {
+                        "en": "There are twelve parties fighting the election.",
+                        "vi": "Có mười hai đảng chống lại cuộc bầu cử."
+                    },
+                    {
+                        "en": "The second half was fiercely fought, but neither side managed to score.",
+                        "vi": "Hiệp hai diễn ra quyết liệt nhưng không bên nào ghi được bàn thắng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to take part in a boxing match",
+                    "vi": "tham gia một trận đấu quyền anh"
+                },
+                "examples": [
+                    {
+                        "en": "Doctors fear he may never fight again.",
+                        "vi": "Các bác sĩ lo ngại anh ta có thể không bao giờ chiến đấu nữa."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to try to get what you want in court",
+                    "vi": "để cố gắng đạt được những gì bạn muốn tại tòa án"
+                },
+                "examples": [
+                    {
+                        "en": "fight (somebody) for something He fought his wife for custody of the children.",
+                        "vi": "đấu tranh (ai đó) vì điều gì đó Anh ta đã chiến đấu với vợ mình để giành quyền nuôi con."
+                    },
+                    {
+                        "en": "fight something I'm determined to fight the case.",
+                        "vi": "chiến đấu một cái gì đó tôi quyết tâm đấu tranh vụ án."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to defend your/somebody’s position against other people",
+                    "vi": "để bảo vệ lập trường của bạn / ai đó trước những người khác"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to use similar methods in a fight or an argument to those your opponent is using",
+                    "vi": "để sử dụng các phương pháp tương tự trong một cuộc chiến hoặc một cuộc tranh cãi với những người mà đối thủ của bạn đang sử dụng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to make a great effort to stay alive, especially when you are badly injured or seriously ill",
+                    "vi": "nỗ lực rất nhiều để duy trì sự sống, đặc biệt là khi bạn bị thương nặng hoặc bệnh nặng"
+                },
+                "examples": [
+                    {
+                        "en": "A young cyclist is fighting for his life after the accident.",
+                        "vi": "Một người đi xe đạp trẻ tuổi đang chiến đấu để giành lấy sự sống của mình sau vụ tai nạn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be able to win an argument or get what you want without anyone’s help",
+                    "vi": "để có thể thắng trong một cuộc tranh luận hoặc đạt được những gì bạn muốn mà không cần sự trợ giúp của bất kỳ ai"
+                },
+                "examples": [
+                    {
+                        "en": "I wouldn't get involved—he's old enough to fight his own battles.",
+                        "vi": "Tôi sẽ không tham gia — anh ấy đủ lớn để chiến đấu trong các trận chiến của riêng mình."
+                    },
+                    {
+                        "en": "My parents believed in leaving me to fight my own battles.",
+                        "vi": "Cha mẹ tôi đã tin tưởng khi để tôi chiến đấu trong những trận chiến của chính mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be unwilling to accept something or do something, and to try to avoid it",
+                    "vi": "không sẵn sàng chấp nhận điều gì đó hoặc làm điều gì đó và cố gắng tránh nó"
+                },
+                "examples": [
+                    {
+                        "en": "Successive governments have fought shy of such measures.",
+                        "vi": "Các chính phủ kế nhiệm đã đấu tranh với các biện pháp như vậy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to fight until one of the two people or groups is dead, or until one person or group defeats the other",
+                    "vi": "chiến đấu cho đến khi một trong hai người hoặc nhóm chết, hoặc cho đến khi một người hoặc nhóm đánh bại người kia"
+                },
+                "examples": [
+                    {
+                        "en": "The soldiers were prepared to fight to the death if they had to.",
+                        "vi": "Những người lính đã sẵn sàng chiến đấu đến chết nếu họ phải làm vậy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to fight in a very determined way for what you want",
+                    "vi": "chiến đấu một cách rất quyết tâm cho những gì bạn muốn"
+                },
+                "examples": [
+                    {
+                        "en": "The residents are fighting tooth and nail to stop the new development.",
+                        "vi": "Các cư dân đang chiến đấu răng và móng tay để ngăn chặn sự phát triển mới."
+                    },
+                    {
+                        "en": "She fought tooth and nail to keep custody of the children.",
+                        "vi": "Cô đã chiến đấu tận răng để giành quyền nuôi các con."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to say that although you have failed or had a bad experience, you will continue",
+                    "vi": "được sử dụng để nói rằng mặc dù bạn đã thất bại hoặc có một trải nghiệm tồi tệ, bạn sẽ tiếp tục"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "(to try to do) something that you will probably never succeed in doing",
+                    "vi": "(cố gắng làm) điều gì đó mà bạn có thể sẽ không bao giờ thành công khi làm"
+                },
+                "examples": [
+                    {
+                        "en": "I’m fighting a losing battle against the mess in this house!",
+                        "vi": "Tôi đang chiến đấu một trận thua với mớ hỗn độn trong ngôi nhà này!"
+                    },
+                    {
+                        "en": "She wanted him to take some responsibility for his actions, but she knew it was a losing battle.",
+                        "vi": "Cô muốn anh phải chịu trách nhiệm về hành động của mình, nhưng cô biết đó là một trận thua."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2588edde2b954f3fa76cf76fadd40d7b",
+        "word": "fight",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/faɪt/",
+            "us": "/faɪt/"
+        },
+        "nearby": [
+            {
+                "word": "fig.",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "fight",
+                "pos": "verb"
+            },
+            {
+                "word": "fight",
+                "pos": "noun"
+            },
+            {
+                "word": "fight back",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "fightback",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a struggle against somebody/something using physical force",
+                    "vi": "một cuộc đấu tranh chống lại ai đó / thứ gì đó sử dụng vũ lực"
+                },
+                "examples": [
+                    {
+                        "en": "a street/gang fight",
+                        "vi": "một cuộc chiến đường phố / băng đảng"
+                    },
+                    {
+                        "en": "fight with somebody/something He got into a fight with a man in the bar.",
+                        "vi": "đánh nhau với ai đó / cái gì đó Anh ta đã đánh nhau với một người đàn ông trong quán bar."
+                    },
+                    {
+                        "en": "(figurative) I had a fight with the ticket machine, which was being temperamental.",
+                        "vi": "(nghĩa bóng) Tôi đã đánh nhau với cái máy bán vé, lúc này đang thất thường."
+                    },
+                    {
+                        "en": "fight between A and B A fight broke out between rival groups of fans.",
+                        "vi": "cuộc chiến giữa A và BA cuộc chiến nổ ra giữa các nhóm người hâm mộ đối thủ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an occasion when people fight as a sport, especially in boxing",
+                    "vi": "một dịp khi mọi người chiến đấu như một môn thể thao, đặc biệt là trong quyền anh"
+                },
+                "examples": [
+                    {
+                        "en": "They got tickets to watch the world title fight.",
+                        "vi": "Họ có vé để xem trận đấu tranh chức vô địch thế giới."
+                    },
+                    {
+                        "en": "He is unbeaten in 34 fights.",
+                        "vi": "Anh ấy bất bại trong 34 trận đấu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an argument about something",
+                    "vi": "một cuộc tranh cãi về một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "Paul and I had this terrible fight last night.",
+                        "vi": "Paul và tôi đã có cuộc chiến khủng khiếp này đêm qua."
+                    },
+                    {
+                        "en": "fight with somebody Did you have a fight with him?",
+                        "vi": "đánh nhau với ai đó Bạn có đánh nhau với anh ta không?"
+                    },
+                    {
+                        "en": "He is still engaged in a bitter fight with his old company.",
+                        "vi": "Anh ta vẫn đang tham gia vào một cuộc chiến gay gắt với công ty cũ của mình."
+                    },
+                    {
+                        "en": "fight (with somebody) over something We had a fight over money.",
+                        "vi": "đấu tranh (với ai đó) về điều gì đó Chúng tôi đã có một cuộc chiến về tiền bạc."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the work of trying to destroy, prevent or achieve something",
+                    "vi": "công việc cố gắng phá hủy, ngăn chặn hoặc đạt được điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "fight against something the fight against crime/terrorism",
+                        "vi": "chiến đấu chống lại một cái gì đó cuộc chiến chống tội phạm / khủng bố"
+                    },
+                    {
+                        "en": "He lost his fight against cancer earlier this year.",
+                        "vi": "Anh ấy đã mất cuộc chiến chống lại căn bệnh ung thư vào đầu năm nay."
+                    },
+                    {
+                        "en": "fight for something a fight for justice/survival",
+                        "vi": "chiến đấu cho một cái gì đó một cuộc chiến cho công lý / sự sống còn"
+                    },
+                    {
+                        "en": "She just gave up her fight for life.",
+                        "vi": "Cô ấy vừa từ bỏ cuộc chiến giành sự sống của mình."
+                    },
+                    {
+                        "en": "fight to do something Workers won their fight to stop compulsory redundancies.",
+                        "vi": "đấu tranh để làm điều gì đó Người lao động đã chiến thắng trong cuộc chiến ngăn chặn tình trạng dư thừa bắt buộc."
+                    },
+                    {
+                        "en": "The workers are determined to put up a fight (= to fight hard) to save their jobs.",
+                        "vi": "Những người công nhân quyết tâm đấu tranh (= đánh hết mình) để cứu lấy công ăn việc làm của họ."
+                    },
+                    {
+                        "en": "Union leaders know that they have a real fight on their hands (= will have to fight very hard).",
+                        "vi": "Các nhà lãnh đạo công đoàn biết rằng họ có một cuộc chiến thực sự trong tay (= sẽ phải chiến đấu rất khó khăn)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a competition or an act of competing, especially in a sport",
+                    "vi": "một cuộc thi hoặc một hành động cạnh tranh, đặc biệt là trong một môn thể thao"
+                },
+                "examples": [
+                    {
+                        "en": "The team put up a good fight (= they played well) but were finally beaten.",
+                        "vi": "Đội đã giao tranh tốt (= họ đã chơi tốt) nhưng cuối cùng vẫn bị đánh bại."
+                    },
+                    {
+                        "en": "She now has a fight on her hands (= will have to play very well) to make it through to the next round.",
+                        "vi": "Bây giờ cô ấy có một trận đấu trên tay của mình (= sẽ phải chơi thật tốt) để lọt vào vòng tiếp theo."
+                    },
+                    {
+                        "en": "fight between A and B This will be a straight fight between the two parties.",
+                        "vi": "cuộc chiến giữa A và B Đây sẽ là cuộc chiến thẳng thắn giữa hai bên."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a battle, especially for a particular place or position",
+                    "vi": "một trận chiến, đặc biệt là đối với một địa điểm hoặc vị trí cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "In the fight for Lemburg, the Austrians were defeated.",
+                        "vi": "Trong cuộc chiến giành Lemburg, quân Áo đã bị đánh bại."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the desire or ability to keep fighting for something",
+                    "vi": "mong muốn hoặc khả năng tiếp tục chiến đấu cho một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "In spite of many defeats, they still had plenty of fight left in them.",
+                        "vi": "Bất chấp nhiều trận thua, họ vẫn còn rất nhiều chiến đấu."
+                    },
+                    {
+                        "en": "Losing their leader took all the fight out of them.",
+                        "vi": "Mất đi người lãnh đạo của họ đã lấy đi tất cả cuộc chiến của họ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to want to fight with somebody very much",
+                    "vi": "muốn chiến đấu với ai đó rất nhiều"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a sports competition, election, etc. between sides that are so equal in ability that they continue fighting very hard until the end",
+                    "vi": "một cuộc thi đấu thể thao, bầu cử, v.v. giữa các bên ngang nhau về khả năng đến nỗi họ tiếp tục chiến đấu hết mình cho đến cuối cùng"
+                },
+                "examples": [
+                    {
+                        "en": "Six teams are bitter rivals in what will be a fight to the finish.",
+                        "vi": "Sáu đội là những đối thủ khó chịu trong cuộc chiến đến cùng."
+                    },
+                    {
+                        "en": "If the polls are wrong and it's a fight to the finish, the result may not be known until all the votes have been counted.",
+                        "vi": "Nếu các cuộc thăm dò sai và đó là một cuộc chiến đến cùng, kết quả có thể không được biết cho đến khi tất cả các phiếu bầu đã được kiểm tra."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be involved in a situation so that you will gain or lose according to the result",
+                    "vi": "tham gia vào một tình huống để bạn sẽ được hoặc mất tùy theo kết quả"
+                },
+                "examples": [
+                    {
+                        "en": "I really don't have a dog in this fight, so I can just enjoy the game.",
+                        "vi": "Tôi thực sự không có một con chó trong cuộc chiến này, vì vậy tôi chỉ có thể tận hưởng trò chơi."
+                    },
+                    {
+                        "en": "The employees have a dog in the hunt, so their views should be listened to.",
+                        "vi": "Các nhân viên có một con chó trong cuộc đi săn, vì vậy quan điểm của họ nên được lắng nghe."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to deliberately start a fight or an argument with somebody",
+                    "vi": "cố tình bắt đầu một cuộc chiến hoặc một cuộc tranh cãi với ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "He had drunk too much and was ready to pick a fight with anyone who crossed his path.",
+                        "vi": "Anh ta đã uống quá nhiều và sẵn sàng gây gổ với bất cứ ai băng qua đường của mình."
+                    },
+                    {
+                        "en": "She tried to pick a quarrel with me.",
+                        "vi": "Cô ấy cố cãi nhau với tôi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "95d9cced31c64634b9caea2a7d1c0043",
+        "word": "karate",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/kəˈrɑːti/",
+            "us": "/kəˈrɑːti/"
+        },
+        "nearby": [
+            {
+                "word": "karaoke",
+                "pos": "noun"
+            },
+            {
+                "word": "karat",
+                "pos": "noun"
+            },
+            {
+                "word": "karate",
+                "pos": "noun"
+            },
+            {
+                "word": "Karen",
+                "pos": ""
+            },
+            {
+                "word": "Boris Karloff",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a Japanese system of fighting in which you use your hands and feet as weapons",
+                    "vi": "một hệ thống chiến đấu của Nhật Bản trong đó bạn sử dụng tay và chân của mình làm vũ khí"
+                },
+                "examples": [
+                    {
+                        "en": "a karate chop (= a blow with the side of the hand)",
+                        "vi": "một đòn chặt karate (= một đòn bằng mặt của bàn tay)"
+                    },
+                    {
+                        "en": "She has a brown belt in karate.",
+                        "vi": "Cô ấy có đai nâu môn karate."
+                    },
+                    {
+                        "en": "a 34-year-old karate black belt",
+                        "vi": "đai đen karate 34 tuổi"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ac97da31393145b684606cf3b39a4e9e",
+        "word": "box",
+        "pos": "verb",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/bɒks/",
+            "us": "/bɑːks/"
+        },
+        "nearby": [
+            {
+                "word": "bow-wow",
+                "pos": "noun"
+            },
+            {
+                "word": "box",
+                "pos": "noun"
+            },
+            {
+                "word": "box",
+                "pos": "verb"
+            },
+            {
+                "word": "boxcar",
+                "pos": "noun"
+            },
+            {
+                "word": "boxed",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to fight somebody in the sport of boxing",
+                    "vi": "chiến đấu với ai đó trong môn thể thao quyền anh"
+                },
+                "examples": [
+                    {
+                        "en": "He boxed for Ireland in the Olympics.",
+                        "vi": "Anh ấy đã đóng hộp cho Ireland tại Thế vận hội."
+                    },
+                    {
+                        "en": "The newcomer boxed the champion for the full twelve rounds.",
+                        "vi": "Người mới đánh hộp vô địch trong mười hai hiệp đấu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to put something in a box",
+                    "vi": "để một cái gì đó vào một cái hộp"
+                },
+                "examples": [
+                    {
+                        "en": "She boxed the decorations up and put them in the attic.",
+                        "vi": "Cô đóng hộp đồ trang trí và đặt chúng trên gác xép."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to act in a clever way to get what you want, sometimes tricking somebody",
+                    "vi": "hành động một cách thông minh để đạt được những gì bạn muốn, đôi khi lừa ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "Suzie realized that she had to box clever. She had to let Adam think she trusted him.",
+                        "vi": "Suzie nhận ra rằng cô ấy phải đóng hộp khéo léo. Cô phải để Adam nghĩ rằng cô tin tưởng anh ta."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to hit somebody with your hand on the side of their head as a punishment",
+                    "vi": "đánh ai đó bằng bàn tay của bạn trên đầu của họ như một hình phạt"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "0d82f14c8947412e999b697e686e26f1",
+        "word": "boxer",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈbɒksə(r)/",
+            "us": "/ˈbɑːksər/"
+        },
+        "nearby": [
+            {
+                "word": "boxcar",
+                "pos": "noun"
+            },
+            {
+                "word": "boxed",
+                "pos": "adjective"
+            },
+            {
+                "word": "boxer",
+                "pos": "noun"
+            },
+            {
+                "word": "Boxercise",
+                "pos": "noun"
+            },
+            {
+                "word": "boxer shorts",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who boxes, especially as a job",
+                    "vi": "một người đóng hộp, đặc biệt là với tư cách là một công việc"
+                },
+                "examples": [
+                    {
+                        "en": "a professional/amateur/heavyweight boxer",
+                        "vi": "một võ sĩ quyền anh chuyên nghiệp / nghiệp dư / hạng nặng"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a large dog with smooth hair, a short flat nose and a tail that has often been cut very short",
+                    "vi": "một con chó lớn có lông mượt, mũi tẹt ngắn và cái đuôi thường bị cắt rất ngắn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "1a536134ffed42fa820fe6a5ee77ecec",
+        "word": "boxing",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈbɒksɪŋ/",
+            "us": "/ˈbɑːksɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "boxful",
+                "pos": "noun"
+            },
+            {
+                "word": "box in",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "boxing",
+                "pos": "noun"
+            },
+            {
+                "word": "Boxing Day",
+                "pos": "noun"
+            },
+            {
+                "word": "box junction",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a sport in which two people fight each other with their hands, while wearing very large thick gloves (called boxing gloves)",
+                    "vi": "một môn thể thao trong đó hai người đánh nhau bằng tay của họ, trong khi đeo găng tay dày rất lớn (gọi là găng tay đấm bốc)"
+                },
+                "examples": [
+                    {
+                        "en": "a boxing champion/match",
+                        "vi": "một nhà vô địch quyền anh / trận đấu"
+                    },
+                    {
+                        "en": "heavyweight boxing",
+                        "vi": "quyền anh hạng nặng"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "98d6aea40b18417e890cf0877b4b220f",
+        "word": "hold",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/həʊld/",
+            "us": "/həʊld/"
+        },
+        "nearby": [
+            {
+                "word": "Holby City",
+                "pos": ""
+            },
+            {
+                "word": "hold",
+                "pos": "verb"
+            },
+            {
+                "word": "hold",
+                "pos": "noun"
+            },
+            {
+                "word": "hold against",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "holdall",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the action of holding somebody/something; the way you are holding somebody/something",
+                    "vi": "hành động giữ ai đó / cái gì đó; cách bạn đang ôm ai đó / cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "hold on somebody/something His hold on her arm tightened.",
+                        "vi": "giữ chặt ai đó / cái gì đó Anh ấy ôm chặt lấy cánh tay của cô ấy."
+                    },
+                    {
+                        "en": "He lost his hold on the rock and was swept away by the tide.",
+                        "vi": "Anh ta mất khả năng bám vào tảng đá và bị thủy triều cuốn trôi."
+                    },
+                    {
+                        "en": "Make sure you've got a steady hold on the camera.",
+                        "vi": "Đảm bảo bạn đã cầm chắc máy ảnh."
+                    },
+                    {
+                        "en": "She tried to keep hold of the child's hand.",
+                        "vi": "Cô cố gắng giữ tay đứa trẻ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a particular way of holding somebody, especially in a fight or in a sport such as wrestling",
+                    "vi": "một cách cụ thể để giữ ai đó, đặc biệt là trong một cuộc chiến hoặc trong một môn thể thao như đấu vật"
+                },
+                "examples": [
+                    {
+                        "en": "in a hold He still had me in a tight hold.",
+                        "vi": "trong tình trạng bế tắc Anh vẫn giữ chặt tôi."
+                    },
+                    {
+                        "en": "The wrestler put his opponent into a head hold.",
+                        "vi": "Đô vật đặt đối thủ của mình vào thế ôm đầu."
+                    },
+                    {
+                        "en": "The exercise called for the recruits to get out of various holds.",
+                        "vi": "Cuộc tập trận kêu gọi các tân binh thoát ra khỏi các đợt giam giữ khác nhau."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "influence, power or control over somebody/something",
+                    "vi": "ảnh hưởng, quyền lực hoặc quyền kiểm soát ai đó / cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "He struggled to get a hold of his anger.",
+                        "vi": "Anh cố gắng kìm chế cơn tức giận của mình."
+                    },
+                    {
+                        "en": "hold over somebody/something What she knew about his past gave her a hold over him.",
+                        "vi": "nắm giữ ai đó / điều gì đó Những gì cô ấy biết về quá khứ của anh ấy đã giúp cô ấy nắm giữ anh ấy."
+                    },
+                    {
+                        "en": "hold on somebody/something This crisis had weakened his hold on power.",
+                        "vi": "giữ chặt ai đó / cái gì đó Cuộc khủng hoảng này đã làm suy yếu khả năng nắm giữ quyền lực của anh ta."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a place where you can put your hands or feet when climbing",
+                    "vi": "nơi bạn có thể đặt tay hoặc chân khi leo núi"
+                },
+                "examples": [
+                    {
+                        "en": "in a hold She put her foot firmly in the hold and pulled herself up.",
+                        "vi": "Cô ấy đặt chân vào chỗ giữ và kéo người lên."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the part of a ship or plane where the goods being carried are stored",
+                    "vi": "phần của một con tàu hoặc máy bay nơi hàng hóa được vận chuyển được lưu trữ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to have or take somebody/something in your hands",
+                    "vi": "có hoặc nắm lấy ai đó / thứ gì đó trong tay bạn"
+                },
+                "examples": [
+                    {
+                        "en": "He caught hold of her wrists so she couldn't get away.",
+                        "vi": "Anh nắm lấy cổ tay cô để cô không thể thoát ra."
+                    },
+                    {
+                        "en": "Lee got hold of the dog by its collar.",
+                        "vi": "Lee đã nắm lấy cổ của con chó."
+                    },
+                    {
+                        "en": "Quick, grab a hold of that rope.",
+                        "vi": "Nhanh lên, nắm lấy sợi dây đó."
+                    },
+                    {
+                        "en": "Gently, she took hold of the door handle and turned it.",
+                        "vi": "Nhẹ nhàng, cô nắm lấy tay nắm cửa và xoay nó."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to contact or find somebody",
+                    "vi": "để liên hệ hoặc tìm ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "Where have you been? I've been trying to get hold of you all day.",
+                        "vi": "Bạn đã ở đâu Tôi đã cố gắng giữ lấy bạn cả ngày."
+                    },
+                    {
+                        "en": "Eventually, we got hold of Dan in New York.",
+                        "vi": "Cuối cùng, chúng tôi đã nắm được Dan ở New York."
+                    },
+                    {
+                        "en": "Do you know where I can get hold of a good plumber?",
+                        "vi": "Bạn có biết tôi có thể tìm được một thợ sửa ống nước giỏi ở đâu không?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to find something that you want or need",
+                    "vi": "để tìm một cái gì đó mà bạn muốn hoặc cần"
+                },
+                "examples": [
+                    {
+                        "en": "I need to get hold of Tom's address.",
+                        "vi": "Tôi cần biết địa chỉ của Tom."
+                    },
+                    {
+                        "en": "It's almost impossible to get hold of tickets for the final.",
+                        "vi": "Gần như không thể cầm được vé xem trận chung kết."
+                    },
+                    {
+                        "en": "The police do not know how the boy got hold of the knife.",
+                        "vi": "Cảnh sát không biết làm thế nào mà cậu bé cầm được con dao."
+                    },
+                    {
+                        "en": "How did the press get hold of the story?",
+                        "vi": "Làm thế nào mà báo chí nắm bắt được câu chuyện?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to learn or understand something",
+                    "vi": "để học hoặc hiểu điều gì đó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to understand something in the wrong way",
+                    "vi": "hiểu sai điều gì đó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "with no rules or limits on what somebody is allowed to do",
+                    "vi": "không có quy tắc hoặc giới hạn về những gì ai đó được phép làm"
+                },
+                "examples": [
+                    {
+                        "en": "There will be no holds barred in his interview with the president this evening.",
+                        "vi": "Sẽ không có bất kỳ điều gì bị cấm trong cuộc phỏng vấn của anh ấy với tổng thống vào tối nay."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "delayed until a later time or date",
+                    "vi": "bị trì hoãn cho đến một thời gian hoặc ngày sau đó"
+                },
+                "examples": [
+                    {
+                        "en": "She put her career on hold to have a baby.",
+                        "vi": "Cô tạm gác sự nghiệp để sinh con."
+                    },
+                    {
+                        "en": "The project is on hold until more money is available.",
+                        "vi": "Dự án đang tạm dừng cho đến khi có thêm tiền."
+                    },
+                    {
+                        "en": "The department has placed its plans on hold pending the results of the elections.",
+                        "vi": "Bộ đã tạm dừng các kế hoạch của mình trong khi chờ kết quả của cuộc bầu cử."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if a person on the phone is put on hold, they have to wait until the person they want to talk to becomes free or has found out the information that is needed",
+                    "vi": "nếu một người đang gọi điện thoại, họ phải đợi cho đến khi người mà họ muốn trò chuyện trở nên rảnh rỗi hoặc đã tìm ra thông tin cần thiết"
+                },
+                "examples": [
+                    {
+                        "en": "(British English) I’ll just pop you on hold.",
+                        "vi": "(Anh Anh) Tôi sẽ chỉ cho bạn biết."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to begin to have complete control over somebody/something; to become very strong",
+                    "vi": "để bắt đầu có toàn quyền kiểm soát ai đó / cái gì đó; trở nên rất mạnh mẽ"
+                },
+                "examples": [
+                    {
+                        "en": "Panic took hold of him and he couldn't move.",
+                        "vi": "Sự hoảng loạn nắm lấy anh và anh không thể di chuyển."
+                    },
+                    {
+                        "en": "They got out of the house just before the flames took hold.",
+                        "vi": "Họ ra khỏi nhà ngay trước khi ngọn lửa bùng lên."
+                    },
+                    {
+                        "en": "It is best to treat the disease early before it takes a hold.",
+                        "vi": "Tốt nhất bạn nên điều trị bệnh sớm trước khi khỏi bệnh."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9f0a31581ca147779f833fca4f4ecebc",
+        "word": "judo",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈdʒuːdəʊ/",
+            "us": "/ˈdʒuːdəʊ/"
+        },
+        "nearby": [
+            {
+                "word": "judiciously",
+                "pos": "adverb"
+            },
+            {
+                "word": "Judith",
+                "pos": ""
+            },
+            {
+                "word": "judo",
+                "pos": "noun"
+            },
+            {
+                "word": "Judy",
+                "pos": ""
+            },
+            {
+                "word": "jug",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a sport in which two people fight and try to throw each other to the ground",
+                    "vi": "một môn thể thao trong đó hai người đánh nhau và cố gắng ném nhau xuống đất"
+                },
+                "examples": [
+                    {
+                        "en": "He does judo.",
+                        "vi": "Anh ấy chơi judo."
+                    },
+                    {
+                        "en": "She's a black belt in judo.",
+                        "vi": "Cô ấy là đai đen judo."
+                    },
+                    {
+                        "en": "She managed to get the man in a judo hold.",
+                        "vi": "Cô ấy đã xoay sở để khiến người đàn ông trong môn judo cầm cự."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8555fbddfe29431d86c4042cae5d3fb2",
+        "word": "martial art",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˌmɑːʃl ˈɑːt/",
+            "us": "/ˌmɑːrʃl ˈɑːrt/"
+        },
+        "nearby": [
+            {
+                "word": "Martha's Vineyard",
+                "pos": ""
+            },
+            {
+                "word": "martial",
+                "pos": "adjective"
+            },
+            {
+                "word": "martial art",
+                "pos": "noun"
+            },
+            {
+                "word": "martial law",
+                "pos": "noun"
+            },
+            {
+                "word": "Martian",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "any of the fighting sports that include judo and karate",
+                    "vi": "bất kỳ môn thể thao đối kháng nào bao gồm judo và karate"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "b9e823cdc836448a9e95a4b5e36fae7c",
+        "word": "black belt",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈblæk belt/",
+            "us": "/ˈblæk belt/"
+        },
+        "nearby": [
+            {
+                "word": "Blackbeard",
+                "pos": ""
+            },
+            {
+                "word": "Black Beauty",
+                "pos": ""
+            },
+            {
+                "word": "black belt",
+                "pos": "noun"
+            },
+            {
+                "word": "blackberry",
+                "pos": "noun"
+            },
+            {
+                "word": "BlackBerry",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a belt that you can earn in a sport such as judo or karate which shows that you have reached a very high standard",
+                    "vi": "một chiếc thắt lưng mà bạn có thể kiếm được trong một môn thể thao như judo hoặc karate, điều này cho thấy rằng bạn đã đạt đến tiêu chuẩn rất cao"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person who has gained a black belt",
+                    "vi": "một người đã đạt được đai đen"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "b6a3ebc2ceee4446b83db05e466e18c9",
+        "word": "heavyweight",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈheviweɪt/",
+            "us": "/ˈheviweɪt/"
+        },
+        "nearby": [
+            {
+                "word": "heavyset",
+                "pos": "adjective"
+            },
+            {
+                "word": "heavy water",
+                "pos": "noun"
+            },
+            {
+                "word": "heavyweight",
+                "pos": "noun"
+            },
+            {
+                "word": "Hebraic",
+                "pos": "adjective"
+            },
+            {
+                "word": "Hebrew",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a weight in boxing and other sports, the heaviest class in normal use, in boxing usually 81 kilograms or more; a boxer or other competitor in this class",
+                    "vi": "trọng lượng trong môn quyền anh và các môn thể thao khác, hạng nặng nhất khi sử dụng bình thường, trong môn quyền anh thường từ 81 kilôgam trở lên; một võ sĩ quyền anh hoặc đối thủ khác trong lớp này"
+                },
+                "examples": [
+                    {
+                        "en": "a heavyweight champion",
+                        "vi": "một nhà vô địch hạng nặng"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person or thing that weighs more than is usual",
+                    "vi": "một người hoặc vật nặng hơn bình thường"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a very important person, organization or thing that influences others",
+                    "vi": "một người, tổ chức hoặc điều rất quan trọng có ảnh hưởng đến người khác"
+                },
+                "examples": [
+                    {
+                        "en": "a political heavyweight",
+                        "vi": "một đối thủ nặng ký về chính trị"
+                    },
+                    {
+                        "en": "a heavyweight journal",
+                        "vi": "một tạp chí nặng ký"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8a803ad6cc5144178342de5028b50256",
+        "word": "kick-boxing",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈkɪk bɒksɪŋ/",
+            "us": "/ˈkɪk bɑːksɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "kickback",
+                "pos": "noun"
+            },
+            {
+                "word": "kickball",
+                "pos": "noun"
+            },
+            {
+                "word": "kick-boxing",
+                "pos": "noun"
+            },
+            {
+                "word": "kick drum",
+                "pos": "noun"
+            },
+            {
+                "word": "kicker",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a form of boxing in which the people fighting each other can kick as well as hit with their fists (= closed hands)",
+                    "vi": "một hình thức quyền anh trong đó những người chiến đấu với nhau có thể đá cũng như đánh bằng nắm đấm của họ (= bàn tay khép lại)"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "5f989de161384ae9a2ed36c06482e88a",
+        "word": "lightweight",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈlaɪtweɪt/",
+            "us": "/ˈlaɪtweɪt/"
+        },
+        "nearby": [
+            {
+                "word": "light water",
+                "pos": "noun"
+            },
+            {
+                "word": "lightweight",
+                "pos": "adjective"
+            },
+            {
+                "word": "lightweight",
+                "pos": "noun"
+            },
+            {
+                "word": "light year",
+                "pos": "noun"
+            },
+            {
+                "word": "lignite",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a weight in boxing and other sports, between featherweight and welterweight, in boxing usually between 57 and 60 kilograms; a boxer or other competitor in this class",
+                    "vi": "trọng lượng trong quyền anh và các môn thể thao khác, giữa hạng lông và hạng cân, trong quyền anh thường từ 57 đến 60 kilôgam; một võ sĩ quyền anh hoặc đối thủ khác trong lớp này"
+                },
+                "examples": [
+                    {
+                        "en": "a lightweight champion",
+                        "vi": "một nhà vô địch hạng nhẹ"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person or thing that weighs less than is usual",
+                    "vi": "một người hoặc vật nặng hơn bình thường"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person or thing of little importance or influence",
+                    "vi": "một người hoặc một thứ có tầm quan trọng hoặc ít ảnh hưởng"
+                },
+                "examples": [
+                    {
+                        "en": "a political lightweight",
+                        "vi": "một trọng lượng nhẹ"
+                    },
+                    {
+                        "en": "He's an intellectual lightweight (= he does not think very deeply or seriously).",
+                        "vi": "Anh ấy là một người nhẹ nhàng trí tuệ (= anh ấy không suy nghĩ sâu sắc hay nghiêm túc)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "22f1c86b3d7742339fadc0005b99fc6b",
+        "word": "prizefight",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈpraɪzfaɪt/",
+            "us": "/ˈpraɪzfaɪt/"
+        },
+        "nearby": [
+            {
+                "word": "prize",
+                "pos": "verb"
+            },
+            {
+                "word": "prized",
+                "pos": "adjective"
+            },
+            {
+                "word": "prizefight",
+                "pos": "noun"
+            },
+            {
+                "word": "prizefighter",
+                "pos": "noun"
+            },
+            {
+                "word": "prizefighting",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a boxing match that is fought for money, especially when the match has not been officially licensed",
+                    "vi": "một trận đấu quyền anh được đánh vì tiền, đặc biệt là khi trận đấu chưa được cấp phép chính thức"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "9cad45313eca441d8f7275be380edff3",
+        "word": "ringside",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈrɪŋsaɪd/",
+            "us": "/ˈrɪŋsaɪd/"
+        },
+        "nearby": [
+            {
+                "word": "ring road",
+                "pos": "noun"
+            },
+            {
+                "word": "ring round",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "ringside",
+                "pos": "noun"
+            },
+            {
+                "word": "ring through",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "ringtone",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the area closest to the space in which a boxing match or circus takes place",
+                    "vi": "khu vực gần nhất với không gian diễn ra trận đấu quyền anh hoặc rạp xiếc"
+                },
+                "examples": [
+                    {
+                        "en": "According to law, a doctor must be present at the ringside.",
+                        "vi": "Theo luật, một bác sĩ phải có mặt tại sàn đấu."
+                    },
+                    {
+                        "en": "a ringside seat",
+                        "vi": "một chiếc ghế bên cạnh"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e60f7f33e2f44bed97196b903ef90136",
+        "word": "sumo",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈsuːməʊ/",
+            "us": "/ˈsuːməʊ/"
+        },
+        "nearby": [
+            {
+                "word": "summons",
+                "pos": "verb"
+            },
+            {
+                "word": "summon up",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "sumo",
+                "pos": "noun"
+            },
+            {
+                "word": "sump",
+                "pos": "noun"
+            },
+            {
+                "word": "sumptuous",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a Japanese style of wrestling, in which the people taking part are extremely large",
+                    "vi": "một phong cách đấu vật của Nhật Bản, trong đó người dân tham gia rất đông"
+                },
+                "examples": [
+                    {
+                        "en": "a sumo wrestler",
+                        "vi": "một đô vật sumo"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7f732b26da104dac96f4753851833de9",
+        "word": "tae kwon do",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌtaɪ ˌkwɒn ˈdəʊ/",
+            "us": "/ˌtaɪ ˌkwɑːn ˈdəʊ/"
+        },
+        "nearby": [
+            {
+                "word": "ta-da",
+                "pos": "exclamation"
+            },
+            {
+                "word": "tadpole",
+                "pos": "noun"
+            },
+            {
+                "word": "tae kwon do",
+                "pos": "noun"
+            },
+            {
+                "word": "taffeta",
+                "pos": "noun"
+            },
+            {
+                "word": "taffy",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a Korean system of fighting without weapons, similar to karate",
+                    "vi": "một hệ thống chiến đấu không có vũ khí của Hàn Quốc, tương tự như karate"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "4be736eb9661439aa36db55f0bbd1478",
+        "word": "wrestle",
+        "pos": "verb",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈresl/",
+            "us": "/ˈresl/"
+        },
+        "nearby": [
+            {
+                "word": "wrest",
+                "pos": "verb"
+            },
+            {
+                "word": "wrest from",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "wrestle",
+                "pos": "verb"
+            },
+            {
+                "word": "wrestler",
+                "pos": "noun"
+            },
+            {
+                "word": "wrestling",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to fight somebody by holding them and trying to throw or force them to the ground, sometimes as a sport",
+                    "vi": "chiến đấu với ai đó bằng cách giữ họ và cố ném hoặc ép họ xuống đất, đôi khi như một môn thể thao"
+                },
+                "examples": [
+                    {
+                        "en": "As a boy he had boxed and wrestled.",
+                        "vi": "Khi còn là một cậu bé, anh ấy đã đấm bốc và đấu vật."
+                    },
+                    {
+                        "en": "wrestle with somebody Armed guards wrestled with the intruder.",
+                        "vi": "vật lộn với ai đó Bảo vệ có vũ trang vật lộn với kẻ đột nhập."
+                    },
+                    {
+                        "en": "She tried to wrestle with her attacker.",
+                        "vi": "Cô cố gắng vật lộn với kẻ tấn công mình."
+                    },
+                    {
+                        "en": "wrestle somebody (+ adv./prep.) Shoppers wrestled the raider to the ground.",
+                        "vi": "vật lộn với ai đó (+ adv./prep.) Người mua hàng vật người raider xuống đất."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to struggle physically to move or manage something",
+                    "vi": "đấu tranh thể chất để di chuyển hoặc quản lý một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "wrestle with something He wrestled with the controls as the plane plunged.",
+                        "vi": "vật lộn với một cái gì đó Anh ta vật lộn với các điều khiển khi máy bay lao xuống."
+                    },
+                    {
+                        "en": "wrestle something + adv./prep. She wrestled the keys out of the ignition.",
+                        "vi": "giành giật cái gì đó + adv./prep. Cô giật chìa khóa ra khỏi ổ điện."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to struggle to deal with something that is difficult",
+                    "vi": "đấu tranh để đối phó với một cái gì đó khó khăn"
+                },
+                "examples": [
+                    {
+                        "en": "wrestle with something She had spent the whole weekend wrestling with the problem.",
+                        "vi": "vật lộn với một thứ gì đó Cô ấy đã dành cả cuối tuần để vật lộn với vấn đề này."
+                    },
+                    {
+                        "en": "We wrestled for hours with the problem of which job to do first.",
+                        "vi": "Chúng tôi đánh vật hàng giờ đồng hồ với vấn đề nên làm công việc nào trước."
+                    },
+                    {
+                        "en": "wrestle to do something She has been wrestling to raise the money all year.",
+                        "vi": "vật lộn để làm điều gì đó Cô ấy đã vật lộn để quyên góp tiền cả năm."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "81e2dcfd0d54437e8a65bcd9decc78ed",
+        "word": "wrestler",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈreslə(r)/",
+            "us": "/ˈreslər/"
+        },
+        "nearby": [
+            {
+                "word": "wrest from",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "wrestle",
+                "pos": "verb"
+            },
+            {
+                "word": "wrestler",
+                "pos": "noun"
+            },
+            {
+                "word": "wrestling",
+                "pos": "noun"
+            },
+            {
+                "word": "wretch",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who takes part in the sport of wrestling",
+                    "vi": "một người tham gia môn thể thao đấu vật"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "1e0643c39f2d4929a28e4e22f1a707a9",
+        "word": "wrestling",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈreslɪŋ/",
+            "us": "/ˈreslɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "wrestle",
+                "pos": "verb"
+            },
+            {
+                "word": "wrestler",
+                "pos": "noun"
+            },
+            {
+                "word": "wrestling",
+                "pos": "noun"
+            },
+            {
+                "word": "wretch",
+                "pos": "noun"
+            },
+            {
+                "word": "wretched",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a sport in which two people fight by holding each other and trying to throw or force their opponent to the ground",
+                    "vi": "một môn thể thao trong đó hai người chiến đấu bằng cách giữ nhau và cố gắng ném hoặc ép đối thủ của họ xuống đất"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "fc08f6aee11e4e9083b2b2f8f1aeddbc",
+        "word": "aikido",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/aɪˈkiːdəʊ/",
+            "us": "/aɪˈkiːdəʊ/"
+        },
+        "nearby": [
+            {
+                "word": "aiding",
+                "pos": "noun"
+            },
+            {
+                "word": "AIDS",
+                "pos": "noun"
+            },
+            {
+                "word": "aikido",
+                "pos": "noun"
+            },
+            {
+                "word": "ail",
+                "pos": "verb"
+            },
+            {
+                "word": "aileron",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a Japanese system of fighting in which you hold and throw your opponent",
+                    "vi": "một hệ thống chiến đấu của Nhật Bản, trong đó bạn cầm và ném đối thủ của mình"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "e7f24e6388c9481eaca37816b6910982",
+        "word": "all-in wrestling",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌɔːl ɪn ˈreslɪŋ/",
+            "us": "/ˌɔːl ɪn ˈreslɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "all-inclusive",
+                "pos": "adjective"
+            },
+            {
+                "word": "all-in-one",
+                "pos": "adjective"
+            },
+            {
+                "word": "all-in wrestling",
+                "pos": "noun"
+            },
+            {
+                "word": "alliteration",
+                "pos": "noun"
+            },
+            {
+                "word": "alliterative",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a form of wrestling in which there are very few rules",
+                    "vi": "một hình thức đấu vật trong đó có rất ít quy tắc"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "c402c922d91a4764a265c4e59b063728",
+        "word": "bantamweight",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbæntəmweɪt/",
+            "us": "/ˈbæntəmweɪt/"
+        },
+        "nearby": [
+            {
+                "word": "banshee",
+                "pos": "noun"
+            },
+            {
+                "word": "bantam",
+                "pos": "noun"
+            },
+            {
+                "word": "bantamweight",
+                "pos": "noun"
+            },
+            {
+                "word": "banter",
+                "pos": "noun"
+            },
+            {
+                "word": "banter",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a weight in boxing and other sports, between flyweight and featherweight, in boxing usually between 51 and 54 kilograms; a boxer or other competitor in this class",
+                    "vi": "trọng lượng trong quyền anh và các môn thể thao khác, giữa hạng ruồi và hạng lông, trong quyền anh thường từ 51 đến 54 kilôgam; một võ sĩ quyền anh hoặc đối thủ khác trong lớp này"
+                },
+                "examples": [
+                    {
+                        "en": "a bantamweight champion",
+                        "vi": "một nhà vô địch hạng bantamweight"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "17c6852f3f2743759484689b0fa9f0d4",
+        "word": "bout",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/baʊt/",
+            "us": "/baʊt/"
+        },
+        "nearby": [
+            {
+                "word": "Bournville",
+                "pos": ""
+            },
+            {
+                "word": "bourse",
+                "pos": "noun"
+            },
+            {
+                "word": "bout",
+                "pos": "noun"
+            },
+            {
+                "word": "boutique",
+                "pos": "noun"
+            },
+            {
+                "word": "boutique",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a short period of great activity; a short period during which there is a lot of a particular thing, usually something unpleasant",
+                    "vi": "một khoảng thời gian ngắn của hoạt động tuyệt vời; một khoảng thời gian ngắn trong đó có rất nhiều điều cụ thể, thường là điều gì đó khó chịu"
+                },
+                "examples": [
+                    {
+                        "en": "They had been fighting after a drinking bout.",
+                        "vi": "Họ đã đánh nhau sau một cuộc nhậu."
+                    },
+                    {
+                        "en": "bout of something/of doing something the latest bout of inflation",
+                        "vi": "cơn lạm phát"
+                    },
+                    {
+                        "en": "There has been a severe bout of inflation over recent months.",
+                        "vi": "Đã có một đợt lạm phát nghiêm trọng trong những tháng gần đây."
+                    },
+                    {
+                        "en": "Regular exercise is better than occasional bouts of strenuous activity.",
+                        "vi": "Tập thể dục thường xuyên sẽ tốt hơn so với những hoạt động gắng sức không thường xuyên."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an attack or period of illness",
+                    "vi": "một cuộc tấn công hoặc thời gian bị bệnh"
+                },
+                "examples": [
+                    {
+                        "en": "a severe bout of flu/coughing",
+                        "vi": "một cơn cúm / ho dữ dội"
+                    },
+                    {
+                        "en": "He suffered occasional bouts of depression.",
+                        "vi": "Anh ấy thỉnh thoảng bị trầm cảm."
+                    },
+                    {
+                        "en": "bout (with something) (North American English) a bout with the flu",
+                        "vi": "cơn (với cái gì đó) (tiếng Anh Bắc Mỹ) một cơn bị cúm"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a boxing or wrestling match",
+                    "vi": "một trận đấu quyền anh hoặc đấu vật"
+                },
+                "examples": [
+                    {
+                        "en": "A karate bout lasts for two or three minutes.",
+                        "vi": "Một trận karate kéo dài trong hai hoặc ba phút."
+                    },
+                    {
+                        "en": "It was hailed as one of the best heavyweight bouts of recent times.",
+                        "vi": "Nó được ca ngợi là một trong những trận đấu hạng nặng hay nhất trong thời gian gần đây."
+                    },
+                    {
+                        "en": "The doctor halted their bout after the ninth round.",
+                        "vi": "Các bác sĩ đã tạm dừng cuộc chơi của họ sau hiệp thứ chín."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7faf78667459485fba3ff1ac476db83c",
+        "word": "cage fighting",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkeɪdʒ faɪtɪŋ/",
+            "us": "/ˈkeɪdʒ faɪtɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "caged",
+                "pos": "adjective"
+            },
+            {
+                "word": "cage fighter",
+                "pos": "noun"
+            },
+            {
+                "word": "cage fighting",
+                "pos": "noun"
+            },
+            {
+                "word": "cagey",
+                "pos": "adjective"
+            },
+            {
+                "word": "cagily",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a form of mixed martial arts that takes place in a confined area",
+                    "vi": "một hình thức võ thuật tổng hợp diễn ra trong một khu vực hạn chế"
+                },
+                "examples": [
+                    {
+                        "en": "Having recovered from his injuries, he returned to the cage fighting ring on Saturday.",
+                        "vi": "Sau khi bình phục chấn thương, anh ấy đã trở lại sàn đấu vào thứ Bảy."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6c6d8e96d426411e93cf1438206c04fb",
+        "word": "cruiserweight",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkruːzəweɪt/",
+            "us": "/ˈkruːzərweɪt/"
+        },
+        "nearby": [
+            {
+                "word": "cruise missile",
+                "pos": "noun"
+            },
+            {
+                "word": "cruiser",
+                "pos": "noun"
+            },
+            {
+                "word": "cruiserweight",
+                "pos": "noun"
+            },
+            {
+                "word": "crumb",
+                "pos": "noun"
+            },
+            {
+                "word": "crumble",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a weight in boxing and other sports, between middleweight and heavyweight, in boxing usually between 75 and 81 kilograms; a boxer or other competitor in this class",
+                    "vi": "trọng lượng trong quyền anh và các môn thể thao khác, giữa hạng trung và hạng nặng, trong quyền anh thường từ 75 đến 81 kilôgam; một võ sĩ quyền anh hoặc đối thủ khác trong lớp này"
+                },
+                "examples": [
+                    {
+                        "en": "a cruiserweight champion",
+                        "vi": "một nhà vô địch hạng tuần dương"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "b1ab3d57f37c454a94cb327994091673",
+        "word": "dan",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/dæn/",
+            "us": "/dæn/"
+        },
+        "nearby": [
+            {
+                "word": "damselfly",
+                "pos": "noun"
+            },
+            {
+                "word": "damson",
+                "pos": "noun"
+            },
+            {
+                "word": "dan",
+                "pos": "noun"
+            },
+            {
+                "word": "Dan",
+                "pos": ""
+            },
+            {
+                "word": "dance",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "one of the levels in karate or judo",
+                    "vi": "một trong những cấp độ trong karate hoặc judo"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person who has reached a particular level in karate or judo",
+                    "vi": "một người đã đạt đến trình độ cụ thể về karate hoặc judo"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "518b27a2ec2f4e53819aafede2b999cb",
+        "word": "dojo",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈdəʊdʒəʊ/",
+            "us": "/ˈdəʊdʒəʊ/"
+        },
+        "nearby": [
+            {
+                "word": "do-it-yourself",
+                "pos": "noun"
+            },
+            {
+                "word": "do-it-yourselfer",
+                "pos": "noun"
+            },
+            {
+                "word": "dojo",
+                "pos": "noun"
+            },
+            {
+                "word": "Dolby",
+                "pos": "noun"
+            },
+            {
+                "word": "dolce",
+                "pos": "adverb, adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a hall or school where judo or other similar martial arts (= fighting sports) are practised",
+                    "vi": "hội trường hoặc trường học nơi tập judo hoặc các môn võ thuật tương tự khác (= thể thao đối kháng)"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "e74a6dc6743942d290ad5ebd8686296b",
+        "word": "extreme fighting",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ɪkˌstriːm ˈfaɪtɪŋ/",
+            "us": "/ɪkˌstriːm ˈfaɪtɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "extreme",
+                "pos": "adjective"
+            },
+            {
+                "word": "extreme",
+                "pos": "noun"
+            },
+            {
+                "word": "extreme fighting",
+                "pos": "noun"
+            },
+            {
+                "word": "extremely",
+                "pos": "adverb"
+            },
+            {
+                "word": "extreme sport",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a sport that combines different styles of fighting such as boxing, wrestling and martial arts and in which there are not many rules",
+                    "vi": "một môn thể thao kết hợp các phong cách chiến đấu khác nhau như quyền anh, đấu vật và võ thuật và trong đó không có nhiều quy tắc"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "c9d8211617a6469286975c57b338a90b",
+        "word": "featherweight",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈfeðəweɪt/",
+            "us": "/ˈfeðərweɪt/"
+        },
+        "nearby": [
+            {
+                "word": "feather duster",
+                "pos": "noun"
+            },
+            {
+                "word": "feathered",
+                "pos": "adjective"
+            },
+            {
+                "word": "featherweight",
+                "pos": "noun"
+            },
+            {
+                "word": "feathery",
+                "pos": "adjective"
+            },
+            {
+                "word": "feature",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a weight in boxing and other sports, between bantamweight and lightweight, in boxing usually between 54 and 57 kilograms; a boxer or other competitor in this class",
+                    "vi": "trọng lượng trong quyền anh và các môn thể thao khác, giữa hạng bantamweight và hạng nhẹ, trong quyền anh thường từ 54 đến 57 kilôgam; một võ sĩ quyền anh hoặc đối thủ khác trong lớp này"
+                },
+                "examples": [
+                    {
+                        "en": "a featherweight champion",
+                        "vi": "nhà vô địch hạng lông"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "79b5f7ecc88a4d378ba0ecb16f21e686",
+        "word": "fence",
+        "pos": "verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/fens/",
+            "us": "/fens/"
+        },
+        "nearby": [
+            {
+                "word": "fen",
+                "pos": "noun"
+            },
+            {
+                "word": "fence",
+                "pos": "noun"
+            },
+            {
+                "word": "fence",
+                "pos": "verb"
+            },
+            {
+                "word": "fence in",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "fence-mending",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to surround or divide an area with a fence",
+                    "vi": "bao quanh hoặc phân chia khu vực bằng hàng rào"
+                },
+                "examples": [
+                    {
+                        "en": "His property is fenced with barbed wire.",
+                        "vi": "Tài sản của ông được rào bằng dây thép gai."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to take part in the sport of fencing",
+                    "vi": "tham gia vào môn thể thao đấu kiếm"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to speak to somebody in a clever way in order to gain an advantage in the conversation",
+                    "vi": "nói chuyện với ai đó một cách thông minh để đạt được lợi thế trong cuộc trò chuyện"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "07bfad6f8ba34a5a87441f50c46e2e1f",
+        "word": "fencer",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈfensə(r)/",
+            "us": "/ˈfensər/"
+        },
+        "nearby": [
+            {
+                "word": "fence-mending",
+                "pos": "noun"
+            },
+            {
+                "word": "fence off",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "fencer",
+                "pos": "noun"
+            },
+            {
+                "word": "fencing",
+                "pos": "noun"
+            },
+            {
+                "word": "fend",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who takes part in the sport of fencing",
+                    "vi": "một người tham gia môn thể thao đấu kiếm"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "164e45190e034f6e88fa597406e4dc38",
+        "word": "fencing",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈfensɪŋ/",
+            "us": "/ˈfensɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "fence off",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "fencer",
+                "pos": "noun"
+            },
+            {
+                "word": "fencing",
+                "pos": "noun"
+            },
+            {
+                "word": "fend",
+                "pos": "verb"
+            },
+            {
+                "word": "fender",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the sport of fighting with long thin swords",
+                    "vi": "môn thể thao chiến đấu với thanh kiếm dài mỏng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "fences; wood, wire, or other material used for making fences",
+                    "vi": "hàng rào; gỗ, dây hoặc vật liệu khác được sử dụng để làm hàng rào"
+                },
+                "examples": [
+                    {
+                        "en": "The factory is surrounded by electric fencing.",
+                        "vi": "Nhà máy được bao quanh bởi hàng rào điện."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f91efd3ff5424225ab40e85b43a02667",
+        "word": "flyweight",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈflaɪweɪt/",
+            "us": "/ˈflaɪweɪt/"
+        },
+        "nearby": [
+            {
+                "word": "fly-tipper",
+                "pos": "noun"
+            },
+            {
+                "word": "fly-tipping",
+                "pos": "noun"
+            },
+            {
+                "word": "flyweight",
+                "pos": "noun"
+            },
+            {
+                "word": "flywheel",
+                "pos": "noun"
+            },
+            {
+                "word": "FM",
+                "pos": "abbreviation"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a weight in boxing and other sports, lighter than bantamweight, usually between 48 and 51 kilograms; a boxer or other competitor in this class",
+                    "vi": "trọng lượng trong môn quyền anh và các môn thể thao khác, nhẹ hơn hạng cân bantamweight, thường từ 48 đến 51 kg; một võ sĩ quyền anh hoặc đối thủ khác trong lớp này"
+                },
+                "examples": [
+                    {
+                        "en": "a flyweight champion",
+                        "vi": "nhà vô địch hạng ruồi"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "29cdf461f4eb4a2280ae9e269cd58b62",
+        "word": "foil",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/fɔɪl/",
+            "us": "/fɔɪl/"
+        },
+        "nearby": [
+            {
+                "word": "foible",
+                "pos": "noun"
+            },
+            {
+                "word": "foie gras",
+                "pos": "noun"
+            },
+            {
+                "word": "foil",
+                "pos": "noun"
+            },
+            {
+                "word": "foil",
+                "pos": "verb"
+            },
+            {
+                "word": "foist",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "metal made into very thin sheets that is used for covering or wrapping things, especially food",
+                    "vi": "kim loại được làm thành các tấm rất mỏng được sử dụng để bao phủ hoặc gói mọi thứ, đặc biệt là thực phẩm"
+                },
+                "examples": [
+                    {
+                        "en": "(British English) aluminium foil",
+                        "vi": "(Anh Anh) lá nhôm"
+                    },
+                    {
+                        "en": "(North American English) aluminum foil",
+                        "vi": "(Tiếng Anh Bắc Mỹ) lá nhôm"
+                    },
+                    {
+                        "en": "Cover the fish loosely with foil and bake for 30 minutes.",
+                        "vi": "Dùng giấy bạc bọc kín cá và nướng trong 30 phút."
+                    },
+                    {
+                        "en": "I wrapped the sandwiches in kitchen foil.",
+                        "vi": "Tôi gói bánh mì trong giấy bạc nhà bếp."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "paper that is covered in very thin sheets of metal",
+                    "vi": "giấy được bọc trong những tấm kim loại rất mỏng"
+                },
+                "examples": [
+                    {
+                        "en": "The chocolates are individually wrapped in gold foil.",
+                        "vi": "Các viên sôcôla được gói riêng trong lá vàng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person or thing that contrasts with, and therefore emphasizes, the qualities of another person or thing",
+                    "vi": "một người hoặc vật tương phản và do đó nhấn mạnh, các phẩm chất của người hoặc vật khác"
+                },
+                "examples": [
+                    {
+                        "en": "The pale walls provide a perfect foil for the furniture.",
+                        "vi": "Những bức tường nhạt màu mang đến một lớp giấy bạc hoàn hảo cho đồ nội thất."
+                    },
+                    {
+                        "en": "His mellow guitar technique is the ideal foil for her soaring voice.",
+                        "vi": "Kỹ thuật guitar êm dịu của anh ấy là lớp lá lý tưởng cho giọng hát cao vút của cô."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a long thin light sword used in the sport of fencing",
+                    "vi": "một thanh kiếm dài mỏng nhẹ được sử dụng trong môn thể thao đấu kiếm"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "e52d66216ca54a9faa271b46a6a5277b",
+        "word": "Graeco-Roman wrestling",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌɡriːkəʊ ˌrəʊmən ˈreslɪŋ/",
+            "us": "/ˌɡrekəʊ ˌrəʊmən ˈreslɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "graduation",
+                "pos": "noun"
+            },
+            {
+                "word": "Graeco-",
+                "pos": "combining form"
+            },
+            {
+                "word": "Graeco-Roman wrestling",
+                "pos": "noun"
+            },
+            {
+                "word": "graffiti",
+                "pos": "noun"
+            },
+            {
+                "word": "graft",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a form of wrestling in which those taking part are not allowed to hold each other below the middle part of the body",
+                    "vi": "một hình thức đấu vật trong đó những người tham gia không được phép giữ nhau dưới phần giữa của cơ thể"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "45ad090af52b4a9c86834db4ef3f09c9",
+        "word": "guard",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ɡɑːd/",
+            "us": "/ɡɑːrd/"
+        },
+        "nearby": [
+            {
+                "word": "guarantee",
+                "pos": "noun"
+            },
+            {
+                "word": "guarantor",
+                "pos": "noun"
+            },
+            {
+                "word": "guard",
+                "pos": "noun"
+            },
+            {
+                "word": "guard",
+                "pos": "verb"
+            },
+            {
+                "word": "guard against",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person, such as a soldier, a police officer or a prison officer, who protects a place or people, or prevents prisoners from escaping",
+                    "vi": "một người, chẳng hạn như một người lính, một sĩ quan cảnh sát hoặc một viên chức quản giáo, người bảo vệ một địa điểm hoặc người dân, hoặc ngăn cản các tù nhân trốn thoát"
+                },
+                "examples": [
+                    {
+                        "en": "prison/border guards",
+                        "vi": "nhà tù / lính biên phòng"
+                    },
+                    {
+                        "en": "The building is protected by armed guards.",
+                        "vi": "Tòa nhà được bảo vệ bởi lực lượng bảo vệ có vũ trang."
+                    },
+                    {
+                        "en": "The prisoner slipped past the guards on the gate and escaped.",
+                        "vi": "Người tù vượt qua các lính canh trên cổng và trốn thoát."
+                    },
+                    {
+                        "en": "A guard was posted outside the building.",
+                        "vi": "Một bảo vệ được bố trí bên ngoài tòa nhà."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the act or duty of protecting property, places or people from attack or danger; the act or duty of preventing prisoners from escaping",
+                    "vi": "hành động hoặc nghĩa vụ bảo vệ tài sản, địa điểm hoặc con người khỏi bị tấn công hoặc nguy hiểm; hành động hoặc nhiệm vụ ngăn cản tù nhân trốn thoát"
+                },
+                "examples": [
+                    {
+                        "en": "on guard a sentry on guard (= at his or her post, on duty)",
+                        "vi": "canh gác một lính canh canh gác (= tại trụ sở của anh ta hoặc cô ta, đang làm nhiệm vụ)"
+                    },
+                    {
+                        "en": "to be on guard duty",
+                        "vi": "làm nhiệm vụ bảo vệ"
+                    },
+                    {
+                        "en": "under guard The escaped prisoner was brought back under armed guard.",
+                        "vi": "dưới sự canh gác Người tù vượt ngục được đưa trở lại dưới sự canh gác có vũ trang."
+                    },
+                    {
+                        "en": "The terrorist was kept under police guard.",
+                        "vi": "Kẻ khủng bố đã bị cảnh sát canh giữ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a group of people, such as soldiers or police officers, who protect somebody/something",
+                    "vi": "một nhóm người, chẳng hạn như binh lính hoặc cảnh sát, những người bảo vệ ai đó / cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "the captain of the guard",
+                        "vi": "đội trưởng đội bảo vệ"
+                    },
+                    {
+                        "en": "the changing of the guard (= when one group replaces another)",
+                        "vi": "sự thay đổi của người bảo vệ (= khi một nhóm thay thế nhóm khác)"
+                    },
+                    {
+                        "en": "The guard is/are being inspected today.",
+                        "vi": "Người bảo vệ đã / đang được kiểm tra ngày hôm nay."
+                    },
+                    {
+                        "en": "Fellow airmen provided a guard of honour at his wedding.",
+                        "vi": "Các phi công đã bảo vệ danh dự cho đám cưới của anh ta."
+                    },
+                    {
+                        "en": "The president always travels with an armed guard.",
+                        "vi": "Tổng thống luôn đi cùng một vệ sĩ có vũ trang."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "(in the UK and some other countries) special regiments of soldiers whose original duty was to protect the king or queen",
+                    "vi": "(ở Anh và một số quốc gia khác) các trung đoàn lính đặc biệt có nhiệm vụ ban đầu là bảo vệ nhà vua hoặc nữ hoàng"
+                },
+                "examples": [
+                    {
+                        "en": "the Scots Guards",
+                        "vi": "Đội bảo vệ người Scotland"
+                    },
+                    {
+                        "en": "a Guards officer",
+                        "vi": "một sĩ quan bảo vệ"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "something that covers a part of a person’s body or a dangerous part of a machine to prevent injury",
+                    "vi": "thứ gì đó che phủ một phần cơ thể của một người hoặc một bộ phận nguy hiểm của máy móc để ngăn ngừa thương tích"
+                },
+                "examples": [
+                    {
+                        "en": "All players wear helmets and face guards.",
+                        "vi": "Tất cả các cầu thủ đều đội mũ bảo hiểm và đeo kính bảo vệ mặt."
+                    },
+                    {
+                        "en": "Ensure the guard is in place before operating the machine.",
+                        "vi": "Đảm bảo có thiết bị bảo vệ trước khi vận hành máy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "conductor (= a person who is in charge of a train and travels with it, but does not drive it)",
+                    "vi": "người điều khiển (= người phụ trách đoàn tàu và đi cùng với nó, nhưng không lái nó)"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a position you take to defend yourself, especially in a sport such as boxing or fencing",
+                    "vi": "một vị trí bạn thực hiện để tự vệ, đặc biệt là trong một môn thể thao như quyền anh hoặc đấu kiếm"
+                },
+                "examples": [
+                    {
+                        "en": "to drop/keep up your guard",
+                        "vi": "để giảm / giữ cảnh giác của bạn"
+                    },
+                    {
+                        "en": "(figurative) In spite of the awkward questions the minister never let his guard fall for a moment.",
+                        "vi": "(nghĩa bóng) Bất chấp những câu hỏi khó xử, bộ trưởng không bao giờ để mất cảnh giác trong giây lát."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "one of the two players on a basketball team who are mainly responsible for staying close to players of the other team to stop them from scoring",
+                    "vi": "một trong hai cầu thủ của đội bóng rổ chịu trách nhiệm chính trong việc theo sát các cầu thủ của đội kia để ngăn họ ghi bàn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "one of the two players on an American football team who play either side of the centre forward",
+                    "vi": "một trong hai cầu thủ của đội bóng đá Mỹ chơi ở hai bên tiền đạo trung tâm"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be very careful and prepared for something difficult or dangerous",
+                    "vi": "phải rất cẩn thận và chuẩn bị cho một cái gì đó khó khăn hoặc nguy hiểm"
+                },
+                "examples": [
+                    {
+                        "en": "He was always on his guard against moneymaking schemes.",
+                        "vi": "Anh luôn cảnh giác trước những âm mưu kiếm tiền."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to stop being careful and preparing yourself for possible danger or difficulty",
+                    "vi": "ngừng cẩn thận và chuẩn bị cho mình đối với nguy hiểm hoặc khó khăn có thể xảy ra"
+                },
+                "examples": [
+                    {
+                        "en": "You can never drop your guard with a two-year-old.",
+                        "vi": "Bạn không bao giờ có thể mất cảnh giác với một đứa trẻ hai tuổi."
+                    },
+                    {
+                        "en": "Even when he's winning, he never drops his guard.",
+                        "vi": "Ngay cả khi anh ấy đang chiến thắng, anh ấy không bao giờ mất cảnh giác."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to watch or protect somebody/something",
+                    "vi": "để theo dõi hoặc bảo vệ ai đó / cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "Four soldiers stood guard over the coffin.",
+                        "vi": "Bốn người lính đứng canh quan tài."
+                    },
+                    {
+                        "en": "One of the men kept guard, while the other broke into the house.",
+                        "vi": "Một trong hai người đàn ông canh giữ, trong khi người kia đột nhập vào nhà."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "not careful or prepared for something difficult or dangerous",
+                    "vi": "không cẩn thận hoặc chuẩn bị cho một cái gì đó khó khăn hoặc nguy hiểm"
+                },
+                "examples": [
+                    {
+                        "en": "The lawyer’s apparently innocent question was designed to catch the witness off (his) guard.",
+                        "vi": "Câu hỏi có vẻ vô tội của luật sư được thiết kế để khiến nhân chứng mất cảnh giác (của anh ta)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2776a166747b4e43994a7ef5307f24fe",
+        "word": "jiu-jitsu",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/dʒu ˈdʒɪtsuː/",
+            "us": "/dʒu ˈdʒɪtsuː/"
+        },
+        "nearby": [
+            {
+                "word": "jitters",
+                "pos": "noun"
+            },
+            {
+                "word": "jittery",
+                "pos": "adjective"
+            },
+            {
+                "word": "jiu-jitsu",
+                "pos": "noun"
+            },
+            {
+                "word": "jive",
+                "pos": "noun"
+            },
+            {
+                "word": "jive",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a Japanese system of fighting from which the sport of judo was developed",
+                    "vi": "một hệ thống chiến đấu của Nhật Bản mà từ đó môn thể thao judo được phát triển"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "c5787ce043d64654a4701ef0a8555aa9",
+        "word": "ju-jitsu",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/dʒu ˈdʒɪtsuː/",
+            "us": "/dʒu ˈdʒɪtsuː/"
+        },
+        "nearby": [
+            {
+                "word": "juicy",
+                "pos": "adjective"
+            },
+            {
+                "word": "the Juilliard School",
+                "pos": ""
+            },
+            {
+                "word": "ju-jitsu",
+                "pos": "noun"
+            },
+            {
+                "word": "juju",
+                "pos": "noun"
+            },
+            {
+                "word": "juke",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a Japanese system of fighting from which the sport of judo was developed",
+                    "vi": "một hệ thống chiến đấu của Nhật Bản mà từ đó môn thể thao judo được phát triển"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "88584ca0125340dfa5b2de2f56d38fc3",
+        "word": "kendo",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkendəʊ/",
+            "us": "/ˈkendəʊ/"
+        },
+        "nearby": [
+            {
+                "word": "Ken",
+                "pos": ""
+            },
+            {
+                "word": "Kendal mint cake",
+                "pos": "noun"
+            },
+            {
+                "word": "kendo",
+                "pos": "noun"
+            },
+            {
+                "word": "Kenilworth Castle",
+                "pos": ""
+            },
+            {
+                "word": "Kenmore",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a Japanese form of the sport of fencing, using light wooden weapons",
+                    "vi": "một hình thức thể thao đấu kiếm của Nhật Bản, sử dụng vũ khí gỗ hạng nhẹ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "e8937c6ebdc34b1fbd595ee9c27a1d78",
+        "word": "knockout",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈnɒkaʊt/",
+            "us": "/ˈnɑːkaʊt/"
+        },
+        "nearby": [
+            {
+                "word": "knock-on",
+                "pos": "adjective"
+            },
+            {
+                "word": "knock out",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "knockout",
+                "pos": "noun"
+            },
+            {
+                "word": "knockout",
+                "pos": "adjective"
+            },
+            {
+                "word": "knock over",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a hard hit that makes an opponent fall to the ground and be unable to get up, so that they lose the fight",
+                    "vi": "một cú đánh mạnh khiến đối thủ ngã xuống đất và không thể đứng dậy, để họ thua cuộc."
+                },
+                "examples": [
+                    {
+                        "en": "The match ended in knockout in the fifth round.",
+                        "vi": "Trận đấu kết thúc loại trực tiếp ở hiệp thứ năm."
+                    },
+                    {
+                        "en": "Sanchez won by a second-round knockout.",
+                        "vi": "Sanchez đã thắng bằng loại trực tiếp vòng hai."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person or thing that is very attractive or impressive",
+                    "vi": "một người hoặc vật rất hấp dẫn hoặc ấn tượng"
+                },
+                "examples": [
+                    {
+                        "en": "She’s an absolute knockout.",
+                        "vi": "Cô ấy là một loại trực tiếp tuyệt đối."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "134929c88dec4e37a3f6068fa6fc7fa2",
+        "word": "knockout",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈnɒkaʊt/",
+            "us": "/ˈnɑːkaʊt/"
+        },
+        "nearby": [
+            {
+                "word": "knock out",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "knockout",
+                "pos": "noun"
+            },
+            {
+                "word": "knockout",
+                "pos": "adjective"
+            },
+            {
+                "word": "knock over",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "knock together",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a knockout competition is one in which the winning player/team at each stage competes in the next stage and the losing one no longer takes part in the competition",
+                    "vi": "đấu loại trực tiếp là đấu mà người chơi / đội thắng ở mỗi giai đoạn sẽ thi đấu ở giai đoạn tiếp theo và người thua không còn tham gia thi đấu nữa"
+                },
+                "examples": [
+                    {
+                        "en": "the knockout stages of the tournament",
+                        "vi": "vòng loại trực tiếp của giải đấu"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a knockout blow is something that hits somebody so hard that they can no longer get up",
+                    "vi": "một đòn loại trực tiếp là một cái gì đó đánh ai đó quá mạnh đến mức họ không thể đứng dậy được nữa"
+                },
+                "examples": [
+                    {
+                        "en": "The cancellation of the flight delivered the knockout blow to his plans.",
+                        "vi": "Việc hủy bỏ chuyến bay đã giáng một đòn giáng vào kế hoạch của anh ta."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "d297fe65970a48498d83236a18507e41",
+        "word": "kung fu",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌkʌŋ ˈfuː/",
+            "us": "/ˌkʌŋ ˈfuː/"
+        },
+        "nearby": [
+            {
+                "word": "kumquat",
+                "pos": "noun"
+            },
+            {
+                "word": "kund",
+                "pos": "noun"
+            },
+            {
+                "word": "kung fu",
+                "pos": "noun"
+            },
+            {
+                "word": "Kurd",
+                "pos": "noun"
+            },
+            {
+                "word": "Kurdish",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a Chinese system of fighting without weapons, similar to karate",
+                    "vi": "một hệ thống chiến đấu không có vũ khí của Trung Quốc, tương tự như karate"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "ae6f761e389a4cef95565a9c10d5dd4b",
+        "word": "light heavyweight",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌlaɪt ˈheviweɪt/",
+            "us": "/ˌlaɪt ˈheviweɪt/"
+        },
+        "nearby": [
+            {
+                "word": "light-hearted",
+                "pos": "adjective"
+            },
+            {
+                "word": "light-heartedly",
+                "pos": "adverb"
+            },
+            {
+                "word": "light heavyweight",
+                "pos": "noun"
+            },
+            {
+                "word": "lighthouse",
+                "pos": "noun"
+            },
+            {
+                "word": "light industry",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a weight in boxing and other sports, between middleweight and heavyweight, in boxing usually between 75 and 81 kilograms; a boxer or other competitor in this class",
+                    "vi": "trọng lượng trong quyền anh và các môn thể thao khác, giữa hạng trung và hạng nặng, trong quyền anh thường từ 75 đến 81 kilôgam; một võ sĩ quyền anh hoặc đối thủ khác trong lớp này"
+                },
+                "examples": [
+                    {
+                        "en": "a light heavyweight champion",
+                        "vi": "một nhà vô địch hạng nặng nhẹ"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7585db015e9440ff8840ea63ac0d991f",
+        "word": "middleweight",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈmɪdlweɪt/",
+            "us": "/ˈmɪdlweɪt/"
+        },
+        "nearby": [
+            {
+                "word": "the Middlesex Hospital",
+                "pos": ""
+            },
+            {
+                "word": "middleware",
+                "pos": "noun"
+            },
+            {
+                "word": "middleweight",
+                "pos": "noun"
+            },
+            {
+                "word": "the Middle West",
+                "pos": "noun"
+            },
+            {
+                "word": "middling",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a weight in boxing and other sports, between welterweight and light heavyweight, in boxing usually between 67 and 75 kilograms; a boxer or other competitor in this class",
+                    "vi": "trọng lượng trong quyền anh và các môn thể thao khác, giữa hạng cân nặng và hạng nặng nhẹ, trong quyền anh thường từ 67 đến 75 kg; một võ sĩ quyền anh hoặc đối thủ khác trong lớp này"
+                },
+                "examples": [
+                    {
+                        "en": "a middleweight champion",
+                        "vi": "một nhà vô địch hạng trung"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1fe6be838ebb432a8f814886c301edef",
+        "word": "mixed martial arts",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌmɪkst ˌmɑːʃl ˈɑːts/",
+            "us": "/ˌmɪkst ˌmɑːrʃl ˈɑːrts/"
+        },
+        "nearby": [
+            {
+                "word": "mixed farming",
+                "pos": "noun"
+            },
+            {
+                "word": "mixed grill",
+                "pos": "noun"
+            },
+            {
+                "word": "mixed martial arts",
+                "pos": "noun"
+            },
+            {
+                "word": "mixed media",
+                "pos": "noun"
+            },
+            {
+                "word": "mixed message",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an extreme sport in which two people fight each other using the techniques of boxing, wrestling and martial arts",
+                    "vi": "một môn thể thao mạo hiểm trong đó hai người chiến đấu với nhau bằng các kỹ thuật đấm bốc, đấu vật và võ thuật"
+                },
+                "examples": [
+                    {
+                        "en": "Mixed martial arts is a dangerous but rapidly growing sport.",
+                        "vi": "Võ thuật tổng hợp là một môn thể thao nguy hiểm nhưng đang phát triển nhanh chóng."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "26624587088546e7958382ecb13d8d47",
+        "word": "MMA",
+        "pos": "abbreviation",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌem em ˈeɪ/",
+            "us": "/ˌem em ˈeɪ/"
+        },
+        "nearby": [
+            {
+                "word": "mm",
+                "pos": "exclamation"
+            },
+            {
+                "word": "MM",
+                "pos": ""
+            },
+            {
+                "word": "MMA",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "MMO",
+                "pos": "noun"
+            },
+            {
+                "word": "MMR",
+                "pos": "abbreviation"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "mixed martial arts (= an extreme sport in which two people fight each other using the techniques of boxing, wrestling and martial arts)",
+                    "vi": "võ tổng hợp (= một môn thể thao mạo hiểm trong đó hai người chiến đấu với nhau bằng các kỹ thuật đấm bốc, đấu vật và võ thuật)"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "a961e2fe8db847be988f7389489d7a55",
+        "word": "purse",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/pɜːs/",
+            "us": "/pɜːrs/"
+        },
+        "nearby": [
+            {
+                "word": "purr",
+                "pos": "noun"
+            },
+            {
+                "word": "purr",
+                "pos": "verb"
+            },
+            {
+                "word": "purse",
+                "pos": "noun"
+            },
+            {
+                "word": "purse",
+                "pos": "verb"
+            },
+            {
+                "word": "purser",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small bag made of leather, plastic, etc. for carrying coins and often also paper money, cards, etc., used especially by women",
+                    "vi": "một chiếc túi nhỏ bằng da, nhựa, v.v. để đựng tiền xu và thường là tiền giấy, thẻ, v.v., được phụ nữ đặc biệt sử dụng"
+                },
+                "examples": [
+                    {
+                        "en": "I took a coin out of my purse and gave it to the child.",
+                        "vi": "Tôi lấy một đồng xu ra khỏi ví và đưa cho đứa trẻ."
+                    },
+                    {
+                        "en": "She handed him a bulging velvet purse.",
+                        "vi": "Cô đưa cho anh một chiếc ví nhung căng phồng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a small bag for money, keys, etc., carried especially by women",
+                    "vi": "một chiếc túi nhỏ đựng tiền, chìa khóa, v.v., được phụ nữ đặc biệt mang theo"
+                },
+                "examples": [
+                    {
+                        "en": "She grabbed her purse and headed out the door.",
+                        "vi": "Cô nắm lấy ví của mình và đi ra cửa."
+                    },
+                    {
+                        "en": "I rummaged through my purse for my lip gloss.",
+                        "vi": "Tôi lục trong ví lấy son bóng."
+                    },
+                    {
+                        "en": "She had her purse snatched.",
+                        "vi": "Cô ấy đã bị giật ví."
+                    },
+                    {
+                        "en": "She slung her black leather purse over her shoulder.",
+                        "vi": "Cô đeo chiếc ví da đen của mình qua vai."
+                    },
+                    {
+                        "en": "She wore pink heels with a matching clutch purse.",
+                        "vi": "Cô đi giày cao gót màu hồng với một chiếc ví cầm tay phù hợp."
+                    },
+                    {
+                        "en": "She fumbled in her purse for her glasses.",
+                        "vi": "Cô lần mò trong ví lấy cặp kính."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the amount of money that is available to a person, an organization or a government to spend",
+                    "vi": "số tiền mà một người, một tổ chức hoặc chính phủ có thể chi tiêu"
+                },
+                "examples": [
+                    {
+                        "en": "We have holidays to suit every purse.",
+                        "vi": "Chúng tôi có những ngày lễ phù hợp với mọi túi tiền."
+                    },
+                    {
+                        "en": "Should spending on the arts be met out of the public purse (= from government money)?",
+                        "vi": "Chi tiêu cho nghệ thuật có nên được đáp ứng từ hầu bao công cộng (= từ tiền của chính phủ)?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a sum of money given as a prize in a boxing match",
+                    "vi": "một khoản tiền được trao như một giải thưởng trong một trận đấu quyền anh"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "(you won't) succeed in making something good out of material that does not seem very good at all",
+                    "vi": "(bạn sẽ không) thành công trong việc tạo ra một thứ gì đó tốt từ những thứ có vẻ không tốt chút nào"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "68a3e2379608425dbd66b9d9f5dcfd10",
+        "word": "Queensberry Rules",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌkwiːnzbəri ˈruːlz/",
+            "us": "/ˌkwiːnzberi ˈruːlz/"
+        },
+        "nearby": [
+            {
+                "word": "Queen's Award for Enterprise",
+                "pos": "noun"
+            },
+            {
+                "word": "Queen's Bench",
+                "pos": "noun"
+            },
+            {
+                "word": "Queensberry Rules",
+                "pos": "noun"
+            },
+            {
+                "word": "Queen's Birthday",
+                "pos": "noun"
+            },
+            {
+                "word": "the Queen's Birthday",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the standard rules of boxing",
+                    "vi": "các quy tắc tiêu chuẩn của quyền anh"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the rules of polite and acceptable behaviour",
+                    "vi": "các quy tắc cư xử lịch sự và được chấp nhận"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "9c70c7acea2041498a5c61b6b2066707",
+        "word": "rope",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/rəʊp/",
+            "us": "/rəʊp/"
+        },
+        "nearby": [
+            {
+                "word": "rootsy",
+                "pos": "adjective"
+            },
+            {
+                "word": "root up",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "rope",
+                "pos": "noun"
+            },
+            {
+                "word": "rope",
+                "pos": "verb"
+            },
+            {
+                "word": "ropeable",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "very strong thick string made by twisting thinner strings, wires, etc. together",
+                    "vi": "dây dày rất chắc chắn được làm bằng cách xoắn các dây mỏng hơn, dây điện, v.v. với nhau"
+                },
+                "examples": [
+                    {
+                        "en": "The rope broke and she fell 50 metres onto the rocks.",
+                        "vi": "Sợi dây bị đứt và cô rơi xuống đá 50 mét."
+                    },
+                    {
+                        "en": "We tied his hands together with rope.",
+                        "vi": "Chúng tôi buộc hai tay anh ấy lại với nhau bằng dây thừng."
+                    },
+                    {
+                        "en": "The anchor was attached to a length of rope.",
+                        "vi": "Cái neo được gắn vào một sợi dây dài."
+                    },
+                    {
+                        "en": "Coils of rope lay on the quayside.",
+                        "vi": "Những cuộn dây nằm trên bờ sông."
+                    },
+                    {
+                        "en": "I tripped over the guy rope of the tent in the dark.",
+                        "vi": "Tôi vấp phải sợi dây của gã trong lều trong bóng tối."
+                    },
+                    {
+                        "en": "One of the bouncers lifted the velvet rope to let us enter the club.",
+                        "vi": "Một trong những vận động viên nảy đã nâng sợi dây nhung lên để chúng tôi vào câu lạc bộ."
+                    },
+                    {
+                        "en": "a rope bridge/swing/ladder (= made from rope)",
+                        "vi": "cầu dây / xích đu / thang (= làm từ dây)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the fence made of rope that is around the edge of the area where a boxing or wrestling match takes place",
+                    "vi": "hàng rào làm bằng dây xung quanh rìa khu vực diễn ra trận đấu quyền anh hoặc đấu vật"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a number of similar things attached together by a string or thread",
+                    "vi": "một số thứ tương tự được gắn với nhau bằng một chuỗi hoặc một sợi"
+                },
+                "examples": [
+                    {
+                        "en": "a rope of pearls",
+                        "vi": "một sợi dây ngọc trai"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to feel that you cannot deal with a difficult situation any more because you are too tired, worried, etc.",
+                    "vi": "cảm thấy rằng bạn không thể đối phó với một tình huống khó khăn nữa vì bạn quá mệt mỏi, lo lắng, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "You’d better let her know you’re safe. She’s at the end of her rope.",
+                        "vi": "Tốt hơn hết bạn nên cho cô ấy biết bạn an toàn. Cô ấy đang ở cuối sợi dây của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to allow somebody freedom to do what they want, especially in the hope that they will make a mistake or look silly",
+                    "vi": "để cho phép ai đó tự do làm những gì họ muốn, đặc biệt với hy vọng rằng họ sẽ mắc sai lầm hoặc trông ngớ ngẩn"
+                },
+                "examples": [
+                    {
+                        "en": "The question was vague, giving the interviewee enough rope to hang herself.",
+                        "vi": "Câu hỏi mơ hồ, đủ để người được phỏng vấn tự treo cổ mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "money that is earned very easily, for something that needs little effort",
+                    "vi": "tiền kiếm được rất dễ dàng, cho thứ gì đó cần ít nỗ lực"
+                },
+                "examples": [
+                    {
+                        "en": "The job only took about an hour—it was money for old rope.",
+                        "vi": "Công việc chỉ mất khoảng một giờ - đó là tiền cho sợi dây cũ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "very close to being defeated",
+                    "vi": "rất gần với việc bị đánh bại"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to show somebody/know/learn how a particular job should be done",
+                    "vi": "để chỉ cho ai đó / biết / tìm hiểu cách thực hiện một công việc cụ thể"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "4ebdd055d5fb465487e5cf225b303fe2",
+        "word": "round",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/raʊnd/",
+            "us": "/raʊnd/"
+        },
+        "nearby": [
+            {
+                "word": "round",
+                "pos": "adverb"
+            },
+            {
+                "word": "round",
+                "pos": "preposition"
+            },
+            {
+                "word": "round",
+                "pos": "noun"
+            },
+            {
+                "word": "round",
+                "pos": "verb"
+            },
+            {
+                "word": "roundabout",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a stage in a competition or sports event",
+                    "vi": "một sân khấu trong một cuộc thi hoặc sự kiện thể thao"
+                },
+                "examples": [
+                    {
+                        "en": "the qualifying rounds of the National Championships",
+                        "vi": "các vòng loại của Giải vô địch quốc gia"
+                    },
+                    {
+                        "en": "Anderson was knocked out of the tournament in the third round.",
+                        "vi": "Anderson đã bị loại khỏi giải đấu ở vòng ba."
+                    },
+                    {
+                        "en": "He beat Fischer in the opening round.",
+                        "vi": "Anh ấy đã đánh bại Fischer ở vòng mở màn."
+                    },
+                    {
+                        "en": "She made it through to the final round.",
+                        "vi": "Cô ấy đã lọt vào đến vòng cuối cùng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a stage in a boxing or wrestling match",
+                    "vi": "một giai đoạn trong một trận đấu quyền anh hoặc đấu vật"
+                },
+                "examples": [
+                    {
+                        "en": "The fight only lasted five rounds.",
+                        "vi": "Cuộc chiến chỉ kéo dài năm hiệp."
+                    },
+                    {
+                        "en": "Ali won the next round convincingly.",
+                        "vi": "Ali đã giành chiến thắng trong vòng tiếp theo một cách thuyết phục."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a complete game of golf; a complete way around the course in some other sports, such as showjumping",
+                    "vi": "một trò chơi gôn hoàn chỉnh; một cách hoàn chỉnh về khóa học trong một số môn thể thao khác, chẳng hạn như thể thao"
+                },
+                "examples": [
+                    {
+                        "en": "We played a round of golf.",
+                        "vi": "Chúng tôi đã chơi một vòng gôn."
+                    },
+                    {
+                        "en": "I finished the practice round and went in to have lunch.",
+                        "vi": "Tôi đã hoàn thành vòng luyện tập và đi vào để ăn trưa."
+                    },
+                    {
+                        "en": "the first horse to jump a clear round",
+                        "vi": "con ngựa đầu tiên nhảy một vòng rõ ràng"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a set of events which form part of a longer process",
+                    "vi": "một tập hợp các sự kiện tạo thành một phần của quá trình dài hơn"
+                },
+                "examples": [
+                    {
+                        "en": "the next round of peace talks",
+                        "vi": "vòng đàm phán hòa bình tiếp theo"
+                    },
+                    {
+                        "en": "a new round of pay bargaining",
+                        "vi": "một vòng thương lượng trả lương mới"
+                    },
+                    {
+                        "en": "the final round of voting in the election",
+                        "vi": "vòng bỏ phiếu cuối cùng trong cuộc bầu cử"
+                    },
+                    {
+                        "en": "This latest round of redundancies follows the loss of 250 jobs in January.",
+                        "vi": "Đợt dư thừa mới nhất này sau khi mất 250 việc làm vào tháng Giêng."
+                    },
+                    {
+                        "en": "There were two important rounds of negotiations.",
+                        "vi": "Có hai vòng đàm phán quan trọng."
+                    },
+                    {
+                        "en": "He won the second round of the elections.",
+                        "vi": "Ông đã giành chiến thắng trong vòng hai của cuộc bầu cử."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a regular series of activities",
+                    "vi": "một loạt các hoạt động thường xuyên"
+                },
+                "examples": [
+                    {
+                        "en": "the daily round of school life",
+                        "vi": "vòng đời hàng ngày của trường học"
+                    },
+                    {
+                        "en": "Her life is one long round of parties and fun.",
+                        "vi": "Cuộc sống của cô ấy là một vòng dài của những bữa tiệc và niềm vui."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a regular route that somebody takes when delivering or collecting something; a regular series of visits that somebody makes",
+                    "vi": "một lộ trình thông thường mà ai đó thực hiện khi giao hàng hoặc thu thập một thứ gì đó; một loạt các chuyến thăm thường xuyên mà ai đó thực hiện"
+                },
+                "examples": [
+                    {
+                        "en": "on your round Dr Green was on her daily ward rounds.",
+                        "vi": "trong vòng của bạn, Tiến sĩ Green đã có mặt trong vòng phường hàng ngày của cô ấy."
+                    },
+                    {
+                        "en": "(British English) a postman on his delivery round",
+                        "vi": "(Anh Anh) một người đưa thư trong chuyến giao hàng của anh ấy"
+                    },
+                    {
+                        "en": "Four soldiers patrolled the area and an officer made his rounds at frequent intervals.",
+                        "vi": "Bốn người lính đi tuần quanh khu vực và một sĩ quan thực hiện các vòng vây của mình đều đặn."
+                    },
+                    {
+                        "en": "The milkman does his round very early.",
+                        "vi": "Người vắt sữa thực hiện vòng của mình từ rất sớm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a number of drinks bought by one person for all the others in a group",
+                    "vi": "một số đồ uống do một người mua cho tất cả những người khác trong nhóm"
+                },
+                "examples": [
+                    {
+                        "en": "a round of drinks",
+                        "vi": "một vòng đồ uống"
+                    },
+                    {
+                        "en": "It's my round (= it is my turn to pay for the next set of drinks).",
+                        "vi": "Đến lượt của tôi (= đến lượt tôi thanh toán cho set đồ uống tiếp theo)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a whole slice of bread; sandwiches made from two whole slices of bread",
+                    "vi": "cả một lát bánh mì; sandwich làm từ hai lát bánh mì"
+                },
+                "examples": [
+                    {
+                        "en": "Who's for another round of toast?",
+                        "vi": "Ai cho một vòng bánh mì nướng nữa?"
+                    },
+                    {
+                        "en": "two rounds of beef sandwiches",
+                        "vi": "hai vòng bánh mì thịt bò"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a round object or piece of something",
+                    "vi": "một vật tròn hoặc một mảnh của cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "Cut the pastry into rounds.",
+                        "vi": "Cắt bánh ngọt thành từng viên tròn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a short period during which people show their approval of somebody/something by clapping",
+                    "vi": "một khoảng thời gian ngắn trong đó mọi người thể hiện sự tán thành của họ đối với ai đó / điều gì đó bằng cách vỗ tay"
+                },
+                "examples": [
+                    {
+                        "en": "There was a great round of applause when the dance ended.",
+                        "vi": "Có một tràng pháo tay vang dội khi điệu múa kết thúc."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a single shot from a gun; a bullet for one shot",
+                    "vi": "một phát súng duy nhất từ một khẩu súng; một viên đạn cho một lần bắn"
+                },
+                "examples": [
+                    {
+                        "en": "They fired several rounds at the crowd.",
+                        "vi": "Họ bắn nhiều phát vào đám đông."
+                    },
+                    {
+                        "en": "We only have three rounds of ammunition left.",
+                        "vi": "Chúng tôi chỉ còn ba viên đạn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a song for two or more voices in which each sings the same tune but starts at a different time",
+                    "vi": "một bài hát cho hai hoặc nhiều giọng, trong đó mỗi giọng hát cùng một giai điệu nhưng bắt đầu ở một thời điểm khác nhau"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "if news or a joke does the rounds, it is passed on quickly from one person to another",
+                    "vi": "nếu tin tức hoặc một trò đùa xảy ra vòng, nó được truyền nhanh chóng từ người này sang người khác"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to go around from place to place, especially when looking for work or support for a political campaign, etc.",
+                    "vi": "đi khắp nơi, đặc biệt là khi tìm việc làm hoặc hỗ trợ cho một chiến dịch chính trị, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "He’s doing the rounds of insurance firms.",
+                        "vi": "Anh ấy đang đi vòng quanh các công ty bảo hiểm."
+                    },
+                    {
+                        "en": "The Vice-President made the rounds of television talk shows.",
+                        "vi": "Phó Chủ tịch đã thực hiện các vòng đối thoại trên truyền hình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "made so that it can be seen from all sides",
+                    "vi": "được làm để nó có thể được nhìn thấy từ mọi phía"
+                },
+                "examples": [
+                    {
+                        "en": "an opportunity to see Canova’s work in the round",
+                        "vi": "một cơ hội để xem công việc của Canova trong vòng"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "with the people watching all around a central stage",
+                    "vi": "với những người đang xem xung quanh một sân khấu trung tâm"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "86c576955760477ebe6a3cab4a10a240",
+        "word": "roundhouse kick",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈraʊndhaʊs kɪk/",
+            "us": "/ˈraʊndhaʊs kɪk/"
+        },
+        "nearby": [
+            {
+                "word": "Roundhead",
+                "pos": "noun"
+            },
+            {
+                "word": "roundhouse",
+                "pos": "noun"
+            },
+            {
+                "word": "roundhouse kick",
+                "pos": "noun"
+            },
+            {
+                "word": "rounding",
+                "pos": "noun"
+            },
+            {
+                "word": "roundly",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a move in karate and other martial arts, in which you turn on one foot as you make a high kick with the other",
+                    "vi": "một động tác trong karate và các môn võ thuật khác, trong đó bạn bật một chân khi thực hiện cú đá cao với chân kia"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "1c530c91d087410e9b4a06158740e78c",
+        "word": "saber",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈseɪbə(r)/",
+            "us": "/ˈseɪbər/"
+        },
+        "nearby": [
+            {
+                "word": "sabbath",
+                "pos": "noun"
+            },
+            {
+                "word": "sabbatical",
+                "pos": "noun"
+            },
+            {
+                "word": "saber",
+                "pos": "noun"
+            },
+            {
+                "word": "sabji",
+                "pos": "noun"
+            },
+            {
+                "word": "sable",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a heavy sword with a curved blade (= metal cutting edge)",
+                    "vi": "một thanh kiếm nặng với một lưỡi cong (= lưỡi cắt bằng kim loại)"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a light sword with a thin blade used in the sport of fencing",
+                    "vi": "một thanh kiếm nhẹ với một lưỡi mỏng được sử dụng trong thể thao đấu kiếm"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "1d400453915c45dda39f9528e8f1ed9e",
+        "word": "sabre",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈseɪbə(r)/",
+            "us": "/ˈseɪbər/"
+        },
+        "nearby": [
+            {
+                "word": "sabotage",
+                "pos": "verb"
+            },
+            {
+                "word": "saboteur",
+                "pos": "noun"
+            },
+            {
+                "word": "sabre",
+                "pos": "noun"
+            },
+            {
+                "word": "sabre-rattling",
+                "pos": "noun"
+            },
+            {
+                "word": "sabretooth",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a heavy sword with a curved blade (= metal cutting edge)",
+                    "vi": "một thanh kiếm nặng với một lưỡi cong (= lưỡi cắt bằng kim loại)"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a light sword with a thin blade used in the sport of fencing",
+                    "vi": "một thanh kiếm nhẹ với một lưỡi mỏng được sử dụng trong thể thao đấu kiếm"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "1de2fca345be41b5b59da249cda22893",
+        "word": "Shotokan",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈʃəʊtəʊkɑːn/",
+            "us": "/ˈʃəʊtəʊkɑːn/"
+        },
+        "nearby": [
+            {
+                "word": "shotgun wedding",
+                "pos": "noun"
+            },
+            {
+                "word": "shotmaking",
+                "pos": "noun"
+            },
+            {
+                "word": "Shotokan",
+                "pos": "noun"
+            },
+            {
+                "word": "shot-put",
+                "pos": "noun"
+            },
+            {
+                "word": "should",
+                "pos": "modal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a popular form of karate",
+                    "vi": "một hình thức phổ biến của karate"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "226c8c2714b24679974bac7e0a71bcce",
+        "word": "southpaw",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈsaʊθpɔː/",
+            "us": "/ˈsaʊθpɔː/"
+        },
+        "nearby": [
+            {
+                "word": "South Pacific",
+                "pos": ""
+            },
+            {
+                "word": "South Park",
+                "pos": ""
+            },
+            {
+                "word": "southpaw",
+                "pos": "noun"
+            },
+            {
+                "word": "the South Pole",
+                "pos": "noun"
+            },
+            {
+                "word": "south-south-east",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who prefers to use their left hand rather than their right, especially in a sport such as boxing",
+                    "vi": "một người thích sử dụng tay trái hơn là tay phải, đặc biệt là trong một môn thể thao như quyền anh"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "265db463395a45859d3bcb4b80ef2628",
+        "word": "spar",
+        "pos": "verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/spɑː(r)/",
+            "us": "/spɑːr/"
+        },
+        "nearby": [
+            {
+                "word": "spanking",
+                "pos": "adjective"
+            },
+            {
+                "word": "spanner",
+                "pos": "noun"
+            },
+            {
+                "word": "spar",
+                "pos": "verb"
+            },
+            {
+                "word": "spar",
+                "pos": "noun"
+            },
+            {
+                "word": "spare",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to make the movements used in boxing, either in training or to test the speed of your opponent’s reaction",
+                    "vi": "để thực hiện các chuyển động được sử dụng trong quyền anh, trong huấn luyện hoặc để kiểm tra tốc độ phản ứng của đối thủ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to argue with somebody, usually in a friendly way",
+                    "vi": "tranh luận với ai đó, thường là một cách thân thiện"
+                },
+                "examples": [
+                    {
+                        "en": "political sparring",
+                        "vi": "đấu tranh chính trị"
+                    },
+                    {
+                        "en": "verbal sparring",
+                        "vi": "chia sẻ bằng lời nói"
+                    },
+                    {
+                        "en": "spar with somebody He liked to spar with colleagues during weekly meetings.",
+                        "vi": "tranh luận với ai đó Anh ấy thích tranh cãi với đồng nghiệp trong các cuộc họp hàng tuần."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "d83d68776a1848679cf539238d6fa6bc",
+        "word": "superheavyweight",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌsuːpəˈheviweɪt/",
+            "us": "/ˌsuːpərˈheviweɪt/"
+        },
+        "nearby": [
+            {
+                "word": "supergroup",
+                "pos": "noun"
+            },
+            {
+                "word": "superheated",
+                "pos": "adjective"
+            },
+            {
+                "word": "superheavyweight",
+                "pos": "noun"
+            },
+            {
+                "word": "superhero",
+                "pos": "noun"
+            },
+            {
+                "word": "superhighway",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a weight above heavyweight in boxing and other sports, in boxing usually 91 kilograms or more; a boxer or other competitor in this class",
+                    "vi": "hạng cân trên hạng nặng trong quyền anh và các môn thể thao khác, trong quyền anh thường từ 91 kilôgam trở lên; một võ sĩ quyền anh hoặc đối thủ khác trong lớp này"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "4f3b9f4e755541ba866e5b7dbda01ce3",
+        "word": "swordplay",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈsɔːdpleɪ/",
+            "us": "/ˈsɔːrdpleɪ/"
+        },
+        "nearby": [
+            {
+                "word": "swordfish",
+                "pos": "noun"
+            },
+            {
+                "word": "the sword in the stone",
+                "pos": ""
+            },
+            {
+                "word": "swordplay",
+                "pos": "noun"
+            },
+            {
+                "word": "swordsman",
+                "pos": "noun"
+            },
+            {
+                "word": "swordsmanship",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the sport or skill of fencing",
+                    "vi": "môn thể thao hoặc kỹ năng đấu kiếm"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "clever and funny comments and replies that are made quickly",
+                    "vi": "nhận xét và trả lời thông minh và hài hước được thực hiện nhanh chóng"
+                },
+                "examples": [
+                    {
+                        "en": "The two rivals engage in verbal swordplay.",
+                        "vi": "Hai đối thủ tham gia vào các màn đấu kiếm bằng lời nói."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8cd6a59b780f4f40a0f7416430a24234",
+        "word": "technical knockout",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌteknɪkl ˈnɒkaʊt/",
+            "us": "/ˌteknɪkl ˈnɑːkaʊt/"
+        },
+        "nearby": [
+            {
+                "word": "technical hitch",
+                "pos": "noun"
+            },
+            {
+                "word": "technicality",
+                "pos": "noun"
+            },
+            {
+                "word": "technical knockout",
+                "pos": "noun"
+            },
+            {
+                "word": "technically",
+                "pos": "adverb"
+            },
+            {
+                "word": "technical school",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a victory when the opponent is still standing but is unable to continue fighting",
+                    "vi": "chiến thắng khi đối thủ vẫn đứng nhưng không thể tiếp tục chiến đấu"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "e735a763ed4e47aeb4890ca82fafbd62",
+        "word": "Ultimate Fighting™",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌʌltɪmət ˈfaɪtɪŋ/",
+            "us": "/ˌʌltɪmət ˈfaɪtɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "ultimate",
+                "pos": "adjective"
+            },
+            {
+                "word": "ultimate",
+                "pos": "noun"
+            },
+            {
+                "word": "Ultimate Fighting",
+                "pos": "noun"
+            },
+            {
+                "word": "Ultimate Frisbee",
+                "pos": "noun"
+            },
+            {
+                "word": "ultimately",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a sport that combines different styles of fighting such as boxing, wrestling and martial arts and in which there are not many rules",
+                    "vi": "một môn thể thao kết hợp các phong cách chiến đấu khác nhau như quyền anh, đấu vật và võ thuật và trong đó không có nhiều quy tắc"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "886f606a10654edfa59f3c112753db39",
+        "word": "welterweight",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈweltəweɪt/",
+            "us": "/ˈweltərweɪt/"
+        },
+        "nearby": [
+            {
+                "word": "Weltanschauung",
+                "pos": "noun"
+            },
+            {
+                "word": "welter",
+                "pos": "noun"
+            },
+            {
+                "word": "welterweight",
+                "pos": "noun"
+            },
+            {
+                "word": "Weltschmerz",
+                "pos": "noun"
+            },
+            {
+                "word": "Eudora Welty",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a weight in boxing and other sports, between lightweight and middleweight, in boxing usually between 60 and 67 kilograms; a boxer or other competitor in this class",
+                    "vi": "trọng lượng trong quyền anh và các môn thể thao khác, giữa hạng nhẹ và hạng trung, trong quyền anh thường từ 60 đến 67 kilôgam; một võ sĩ quyền anh hoặc đối thủ khác trong lớp này"
+                },
+                "examples": [
+                    {
+                        "en": "a welterweight champion",
+                        "vi": "nhà vô địch hạng cân hàn"
+                    }
+                ]
+            }
+        ]
+    }
+]

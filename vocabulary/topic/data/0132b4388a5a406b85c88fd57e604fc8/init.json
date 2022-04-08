@@ -1,0 +1,2902 @@
+[
+    {
+        "id": "72fc422254714f2aac8b25f075cccd24",
+        "word": "hospital",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˈhɒspɪtl/",
+            "us": "/ˈhɑːspɪtl/"
+        },
+        "nearby": [
+            {
+                "word": "hospitable",
+                "pos": "adjective"
+            },
+            {
+                "word": "hospitably",
+                "pos": "adverb"
+            },
+            {
+                "word": "hospital",
+                "pos": "noun"
+            },
+            {
+                "word": "hospital corners",
+                "pos": "noun"
+            },
+            {
+                "word": "the Hospital for Sick Children",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a large building where people who are ill or injured are given medical treatment and care",
+                    "vi": "một tòa nhà lớn nơi những người bị bệnh hoặc bị thương được chăm sóc và điều trị y tế"
+                },
+                "examples": [
+                    {
+                        "en": "to/into (the) hospital (British English) He had to go to/into hospital for treatment.",
+                        "vi": "to / into (the) Hospital (Anh Anh) Anh ấy phải đi đến / vào bệnh viện để điều trị."
+                    },
+                    {
+                        "en": "(North American English) He had to go to/into the hospital for treatment.",
+                        "vi": "(Tiếng Anh Bắc Mỹ) Anh ấy phải đến / vào bệnh viện để điều trị."
+                    },
+                    {
+                        "en": "I'm going to the hospital to visit my brother.",
+                        "vi": "Tôi sẽ đến bệnh viện để thăm anh trai tôi."
+                    },
+                    {
+                        "en": "to be admitted to/into (the) hospital",
+                        "vi": "được đưa vào / vào (bệnh viện)"
+                    },
+                    {
+                        "en": "Arrangements have been made for his admission to (the) hospital.",
+                        "vi": "Việc sắp xếp đã được thực hiện để anh ấy nhập viện (bệnh viện)."
+                    },
+                    {
+                        "en": "He's been taken to (the) hospital for tests.",
+                        "vi": "Anh ấy đã được đưa đến (bệnh viện) để xét nghiệm."
+                    },
+                    {
+                        "en": "The injured were rushed to (the) hospital in an ambulance.",
+                        "vi": "Những người bị thương được nhanh chóng đến (bệnh viện) trên xe cấp cứu."
+                    },
+                    {
+                        "en": "to leave (the) hospital",
+                        "vi": "rời khỏi (bệnh viện)"
+                    },
+                    {
+                        "en": "to be discharged/released from (the) hospital",
+                        "vi": "được xuất viện / xuất viện"
+                    },
+                    {
+                        "en": "to visit a hospital",
+                        "vi": "đến thăm một bệnh viện"
+                    },
+                    {
+                        "en": "in (the) hospital He died in hospital.",
+                        "vi": "trong (the) bệnh viện Anh ta chết trong bệnh viện."
+                    },
+                    {
+                        "en": "He was treated in the hospital for burns.",
+                        "vi": "Anh ấy đã được điều trị trong bệnh viện vì bỏng."
+                    },
+                    {
+                        "en": "I spent four days in hospital.",
+                        "vi": "Tôi đã nằm viện bốn ngày."
+                    },
+                    {
+                        "en": "I was in the hospital for four days.",
+                        "vi": "Tôi đã ở bệnh viện bốn ngày."
+                    },
+                    {
+                        "en": "in a hospital She works in a hospital in New York.",
+                        "vi": "trong một bệnh viện Cô ấy làm việc trong một bệnh viện ở New York."
+                    },
+                    {
+                        "en": "out of (the) hospital She came out of the hospital this morning.",
+                        "vi": "out of (the) bệnh viện Cô ấy đã ra khỏi bệnh viện sáng nay."
+                    },
+                    {
+                        "en": "at a hospital Doctors at the hospital decided to keep her in overnight.",
+                        "vi": "tại một bệnh viện Các bác sĩ tại bệnh viện quyết định giữ cô ấy lại qua đêm."
+                    },
+                    {
+                        "en": "a private/local hospital",
+                        "vi": "một bệnh viện tư nhân / địa phương"
+                    },
+                    {
+                        "en": "a psychiatric/mental hospital",
+                        "vi": "một bệnh viện tâm thần / tâm thần"
+                    },
+                    {
+                        "en": "a children's hospital",
+                        "vi": "bệnh viện nhi đồng"
+                    },
+                    {
+                        "en": "The procedure requires a two-to-three-night hospital stay.",
+                        "vi": "Quy trình này yêu cầu nằm viện từ hai đến ba đêm."
+                    },
+                    {
+                        "en": "There is an urgent need for more hospital beds.",
+                        "vi": "Cần gấp thêm giường bệnh."
+                    },
+                    {
+                        "en": "hospital admissions",
+                        "vi": "nhập viện"
+                    },
+                    {
+                        "en": "hospital staff",
+                        "vi": "nhân viên bệnh viện"
+                    },
+                    {
+                        "en": "a hospital ward/room",
+                        "vi": "một khu / phòng bệnh viện"
+                    },
+                    {
+                        "en": "hospital treatment/care",
+                        "vi": "điều trị / chăm sóc tại bệnh viện"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0024740d2a284a2abb7dfa6fa870ea1c",
+        "word": "patient",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/ˈpeɪʃnt/",
+            "us": "/ˈpeɪʃnt/"
+        },
+        "nearby": [
+            {
+                "word": "pathway",
+                "pos": "noun"
+            },
+            {
+                "word": "patience",
+                "pos": "noun"
+            },
+            {
+                "word": "patient",
+                "pos": "noun"
+            },
+            {
+                "word": "patient",
+                "pos": "adjective"
+            },
+            {
+                "word": "patiently",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who is receiving medical treatment, especially in a hospital",
+                    "vi": "một người đang được điều trị y tế, đặc biệt là trong bệnh viện"
+                },
+                "examples": [
+                    {
+                        "en": "cancer/AIDS/heart patients",
+                        "vi": "bệnh nhân ung thư / AIDS / tim"
+                    },
+                    {
+                        "en": "critically ill/elderly patients",
+                        "vi": "bệnh nhân nặng / cao tuổi"
+                    },
+                    {
+                        "en": "Hospitals are treating more patients than ever before.",
+                        "vi": "Các bệnh viện đang điều trị cho nhiều bệnh nhân hơn bao giờ hết."
+                    },
+                    {
+                        "en": "patients receiving/undergoing treatment",
+                        "vi": "bệnh nhân đang điều trị"
+                    },
+                    {
+                        "en": "patient with something patients with heart disease",
+                        "vi": "bệnh nhân với một cái gì đó bệnh nhân bị bệnh tim"
+                    },
+                    {
+                        "en": "patient care/safety",
+                        "vi": "chăm sóc bệnh nhân / an toàn"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who receives treatment from a particular doctor, dentist, etc.",
+                    "vi": "một người được điều trị từ một bác sĩ, nha sĩ cụ thể, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "He's one of Dr Shaw's patients.",
+                        "vi": "Anh ấy là một trong những bệnh nhân của bác sĩ Shaw."
+                    },
+                    {
+                        "en": "He only takes private patients.",
+                        "vi": "Anh ta chỉ nhận bệnh nhân tư nhân."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the person or thing that is affected by the action of the verb. In the sentence ‘I started the car’, the patient is car.",
+                    "vi": "người hoặc vật bị ảnh hưởng bởi hành động của động từ. Trong câu 'I started the car', bệnh nhân là ô tô."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "72872d596c774b5b8afbe9e34f3c9037",
+        "word": "accident and emergency",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˌæksɪdənt ən ɪˈmɜːdʒənsi/",
+            "us": "/ˌæksɪdənt ən ɪˈmɜːrdʒənsi/"
+        },
+        "nearby": [
+            {
+                "word": "accidental",
+                "pos": "adjective"
+            },
+            {
+                "word": "accidentally",
+                "pos": "adverb"
+            },
+            {
+                "word": "accident and emergency",
+                "pos": "noun"
+            },
+            {
+                "word": "accident-prone",
+                "pos": "adjective"
+            },
+            {
+                "word": "acclaim",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the part of a hospital where people who need immediate treatment are taken",
+                    "vi": "một phần của bệnh viện nơi đưa những người cần điều trị ngay lập tức"
+                },
+                "examples": [
+                    {
+                        "en": "The teenager was rushed to accident and emergency.",
+                        "vi": "Thiếu niên được đưa đi cấp cứu kịp thời."
+                    },
+                    {
+                        "en": "the hospital accident and emergency department",
+                        "vi": "bệnh viện tai nạn và khoa cấp cứu"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a181fa00caec4bdca3f26cf38a7a6166",
+        "word": "ambulance",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈæmbjələns/",
+            "us": "/ˈæmbjələns/"
+        },
+        "nearby": [
+            {
+                "word": "Ambridge",
+                "pos": ""
+            },
+            {
+                "word": "ambrosia",
+                "pos": "noun"
+            },
+            {
+                "word": "ambulance",
+                "pos": "noun"
+            },
+            {
+                "word": "ambulance chaser",
+                "pos": "noun"
+            },
+            {
+                "word": "ambulance worker",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a vehicle with special equipment, used for taking sick or injured people to a hospital",
+                    "vi": "một phương tiện có thiết bị đặc biệt, dùng để đưa người bị bệnh hoặc bị thương đến bệnh viện"
+                },
+                "examples": [
+                    {
+                        "en": "Call an ambulance!",
+                        "vi": "Gọi xe cấp cứu!"
+                    },
+                    {
+                        "en": "the ambulance service",
+                        "vi": "dịch vụ xe cứu thương"
+                    },
+                    {
+                        "en": "The ambulance crew rushed her to the hospital.",
+                        "vi": "Đội xe cấp cứu vội vàng đưa cô đến bệnh viện."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "31f1d6e166f8483aac89eb5430b8014c",
+        "word": "clinic",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈklɪnɪk/",
+            "us": "/ˈklɪnɪk/"
+        },
+        "nearby": [
+            {
+                "word": "cling on to",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "cling to",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "clinic",
+                "pos": "noun"
+            },
+            {
+                "word": "clinical",
+                "pos": "adjective"
+            },
+            {
+                "word": "clinically",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a building or part of a hospital where people can go for special medical treatment or advice",
+                    "vi": "một tòa nhà hoặc một phần của bệnh viện nơi mọi người có thể đến để được điều trị hoặc tư vấn y tế đặc biệt"
+                },
+                "examples": [
+                    {
+                        "en": "Your local family planning clinic can give you advice about birth control.",
+                        "vi": "Phòng khám kế hoạch hóa gia đình địa phương của bạn có thể cho bạn lời khuyên về biện pháp ngừa thai."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a period of time during which doctors give special medical treatment or advice",
+                    "vi": "khoảng thời gian mà bác sĩ đưa ra lời khuyên hoặc điều trị y tế đặc biệt"
+                },
+                "examples": [
+                    {
+                        "en": "The antenatal clinic is on Wednesdays.",
+                        "vi": "Phòng khám thai vào thứ 4 hàng tuần."
+                    },
+                    {
+                        "en": "Doctors held a special clinic to talk to worried parents after a child at the school died of meningitis.",
+                        "vi": "Các bác sĩ đã tổ chức một phòng khám đặc biệt để nói chuyện với các phụ huynh lo lắng sau khi một đứa trẻ tại trường chết vì viêm màng não."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a private hospital or one that treats health problems of a particular kind",
+                    "vi": "một bệnh viện tư nhân hoặc một bệnh viện điều trị các vấn đề sức khỏe của một loại cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "He is being treated at the London clinic.",
+                        "vi": "Anh ấy đang được điều trị tại phòng khám ở London."
+                    },
+                    {
+                        "en": "a rehabilitation clinic for alcoholics",
+                        "vi": "một phòng khám phục hồi chức năng cho người nghiện rượu"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a building shared by a group of doctors who work together",
+                    "vi": "một tòa nhà được chia sẻ bởi một nhóm bác sĩ làm việc cùng nhau"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "an occasion in a hospital when medical students learn by watching a specialist examine and treat patients",
+                    "vi": "một dịp trong bệnh viện khi sinh viên y khoa học bằng cách xem bác sĩ chuyên khoa khám và điều trị cho bệnh nhân"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "an occasion at which a professional person, especially a sportsman or sportswoman gives advice and training",
+                    "vi": "một dịp mà một người chuyên nghiệp, đặc biệt là vận động viên thể thao hoặc vận động viên đưa ra lời khuyên và đào tạo"
+                },
+                "examples": [
+                    {
+                        "en": "a coaching clinic for young tennis players",
+                        "vi": "một phòng khám huấn luyện cho các vận động viên quần vợt trẻ"
+                    },
+                    {
+                        "en": "Holmes put on a boxing clinic and beat Shavers twelve out of twelve rounds.",
+                        "vi": "Holmes tham gia vào một phòng khám quyền anh và đánh bại Shavers mười hai trong số mười hai hiệp."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c996ebdfdc5740188ede16d40599ab26",
+        "word": "emergency room",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ɪˈmɜːdʒənsi ruːm/",
+            "us": "/ɪˈmɜːrdʒənsi ruːm/"
+        },
+        "nearby": [
+            {
+                "word": "emergency",
+                "pos": "noun"
+            },
+            {
+                "word": "emergency brake",
+                "pos": "noun"
+            },
+            {
+                "word": "emergency room",
+                "pos": "noun"
+            },
+            {
+                "word": "emergency services",
+                "pos": "noun"
+            },
+            {
+                "word": "emergent",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the part of a hospital where people who need immediate treatment are taken",
+                    "vi": "một phần của bệnh viện nơi đưa những người cần điều trị ngay lập tức"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "5ce9529d27054dd483a96fcad12f1f97",
+        "word": "maternity",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/məˈtɜːnəti/",
+            "us": "/məˈtɜːrnəti/"
+        },
+        "nearby": [
+            {
+                "word": "maternal",
+                "pos": "adjective"
+            },
+            {
+                "word": "maternally",
+                "pos": "adverb"
+            },
+            {
+                "word": "maternity",
+                "pos": "noun"
+            },
+            {
+                "word": "maternity leave",
+                "pos": "noun"
+            },
+            {
+                "word": "mateship",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the state of being or becoming a mother",
+                    "vi": "trạng thái của việc trở thành một người mẹ"
+                },
+                "examples": [
+                    {
+                        "en": "maternity clothes (= clothes for women who are pregnant)",
+                        "vi": "quần áo thai sản (= quần áo cho phụ nữ mang thai)"
+                    },
+                    {
+                        "en": "a maternity ward/hospital (= one where women go to give birth to their babies)",
+                        "vi": "khoa sản / bệnh viện (= một nơi phụ nữ đến sinh con)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "89d8008432f14cbfaf3362bc1bd7531f",
+        "word": "round",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/raʊnd/",
+            "us": "/raʊnd/"
+        },
+        "nearby": [
+            {
+                "word": "round",
+                "pos": "adverb"
+            },
+            {
+                "word": "round",
+                "pos": "preposition"
+            },
+            {
+                "word": "round",
+                "pos": "noun"
+            },
+            {
+                "word": "round",
+                "pos": "verb"
+            },
+            {
+                "word": "roundabout",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a stage in a competition or sports event",
+                    "vi": "một sân khấu trong một cuộc thi hoặc sự kiện thể thao"
+                },
+                "examples": [
+                    {
+                        "en": "the qualifying rounds of the National Championships",
+                        "vi": "các vòng loại của Giải vô địch quốc gia"
+                    },
+                    {
+                        "en": "Anderson was knocked out of the tournament in the third round.",
+                        "vi": "Anderson đã bị loại khỏi giải đấu ở vòng ba."
+                    },
+                    {
+                        "en": "He beat Fischer in the opening round.",
+                        "vi": "Anh ấy đã đánh bại Fischer ở vòng mở màn."
+                    },
+                    {
+                        "en": "She made it through to the final round.",
+                        "vi": "Cô ấy đã lọt vào đến vòng cuối cùng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a stage in a boxing or wrestling match",
+                    "vi": "một giai đoạn trong một trận đấu quyền anh hoặc đấu vật"
+                },
+                "examples": [
+                    {
+                        "en": "The fight only lasted five rounds.",
+                        "vi": "Cuộc chiến chỉ kéo dài năm hiệp."
+                    },
+                    {
+                        "en": "Ali won the next round convincingly.",
+                        "vi": "Ali đã giành chiến thắng trong vòng tiếp theo một cách thuyết phục."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a complete game of golf; a complete way around the course in some other sports, such as showjumping",
+                    "vi": "một trò chơi gôn hoàn chỉnh; một cách hoàn chỉnh về khóa học trong một số môn thể thao khác, chẳng hạn như thể thao"
+                },
+                "examples": [
+                    {
+                        "en": "We played a round of golf.",
+                        "vi": "Chúng tôi đã chơi một vòng gôn."
+                    },
+                    {
+                        "en": "I finished the practice round and went in to have lunch.",
+                        "vi": "Tôi đã hoàn thành vòng luyện tập và đi vào để ăn trưa."
+                    },
+                    {
+                        "en": "the first horse to jump a clear round",
+                        "vi": "con ngựa đầu tiên nhảy một vòng rõ ràng"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a set of events which form part of a longer process",
+                    "vi": "một tập hợp các sự kiện tạo thành một phần của quá trình dài hơn"
+                },
+                "examples": [
+                    {
+                        "en": "the next round of peace talks",
+                        "vi": "vòng đàm phán hòa bình tiếp theo"
+                    },
+                    {
+                        "en": "a new round of pay bargaining",
+                        "vi": "một vòng thương lượng trả lương mới"
+                    },
+                    {
+                        "en": "the final round of voting in the election",
+                        "vi": "vòng bỏ phiếu cuối cùng trong cuộc bầu cử"
+                    },
+                    {
+                        "en": "This latest round of redundancies follows the loss of 250 jobs in January.",
+                        "vi": "Đợt dư thừa mới nhất này sau khi mất 250 việc làm vào tháng Giêng."
+                    },
+                    {
+                        "en": "There were two important rounds of negotiations.",
+                        "vi": "Có hai vòng đàm phán quan trọng."
+                    },
+                    {
+                        "en": "He won the second round of the elections.",
+                        "vi": "Ông đã giành chiến thắng trong vòng hai của cuộc bầu cử."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a regular series of activities",
+                    "vi": "một loạt các hoạt động thường xuyên"
+                },
+                "examples": [
+                    {
+                        "en": "the daily round of school life",
+                        "vi": "vòng đời hàng ngày của trường học"
+                    },
+                    {
+                        "en": "Her life is one long round of parties and fun.",
+                        "vi": "Cuộc sống của cô ấy là một vòng dài của những bữa tiệc và niềm vui."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a regular route that somebody takes when delivering or collecting something; a regular series of visits that somebody makes",
+                    "vi": "một lộ trình thông thường mà ai đó thực hiện khi giao hàng hoặc thu thập một thứ gì đó; một loạt các chuyến thăm thường xuyên mà ai đó thực hiện"
+                },
+                "examples": [
+                    {
+                        "en": "on your round Dr Green was on her daily ward rounds.",
+                        "vi": "trong vòng của bạn, Tiến sĩ Green đã có mặt trong vòng phường hàng ngày của cô ấy."
+                    },
+                    {
+                        "en": "(British English) a postman on his delivery round",
+                        "vi": "(Anh Anh) một người đưa thư trong chuyến giao hàng của anh ấy"
+                    },
+                    {
+                        "en": "Four soldiers patrolled the area and an officer made his rounds at frequent intervals.",
+                        "vi": "Bốn người lính đi tuần quanh khu vực và một sĩ quan thực hiện các vòng vây của mình đều đặn."
+                    },
+                    {
+                        "en": "The milkman does his round very early.",
+                        "vi": "Người vắt sữa thực hiện vòng của mình từ rất sớm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a number of drinks bought by one person for all the others in a group",
+                    "vi": "một số đồ uống do một người mua cho tất cả những người khác trong nhóm"
+                },
+                "examples": [
+                    {
+                        "en": "a round of drinks",
+                        "vi": "một vòng đồ uống"
+                    },
+                    {
+                        "en": "It's my round (= it is my turn to pay for the next set of drinks).",
+                        "vi": "Đến lượt của tôi (= đến lượt tôi thanh toán cho set đồ uống tiếp theo)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a whole slice of bread; sandwiches made from two whole slices of bread",
+                    "vi": "cả một lát bánh mì; sandwich làm từ hai lát bánh mì"
+                },
+                "examples": [
+                    {
+                        "en": "Who's for another round of toast?",
+                        "vi": "Ai cho một vòng bánh mì nướng nữa?"
+                    },
+                    {
+                        "en": "two rounds of beef sandwiches",
+                        "vi": "hai vòng bánh mì thịt bò"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a round object or piece of something",
+                    "vi": "một vật tròn hoặc một mảnh của cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "Cut the pastry into rounds.",
+                        "vi": "Cắt bánh ngọt thành từng viên tròn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a short period during which people show their approval of somebody/something by clapping",
+                    "vi": "một khoảng thời gian ngắn trong đó mọi người thể hiện sự tán thành của họ đối với ai đó / điều gì đó bằng cách vỗ tay"
+                },
+                "examples": [
+                    {
+                        "en": "There was a great round of applause when the dance ended.",
+                        "vi": "Có một tràng pháo tay vang dội khi điệu múa kết thúc."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a single shot from a gun; a bullet for one shot",
+                    "vi": "một phát súng duy nhất từ một khẩu súng; một viên đạn cho một lần bắn"
+                },
+                "examples": [
+                    {
+                        "en": "They fired several rounds at the crowd.",
+                        "vi": "Họ bắn nhiều phát vào đám đông."
+                    },
+                    {
+                        "en": "We only have three rounds of ammunition left.",
+                        "vi": "Chúng tôi chỉ còn ba viên đạn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a song for two or more voices in which each sings the same tune but starts at a different time",
+                    "vi": "một bài hát cho hai hoặc nhiều giọng, trong đó mỗi giọng hát cùng một giai điệu nhưng bắt đầu ở một thời điểm khác nhau"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "if news or a joke does the rounds, it is passed on quickly from one person to another",
+                    "vi": "nếu tin tức hoặc một trò đùa xảy ra vòng, nó được truyền nhanh chóng từ người này sang người khác"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to go around from place to place, especially when looking for work or support for a political campaign, etc.",
+                    "vi": "đi khắp nơi, đặc biệt là khi tìm việc làm hoặc hỗ trợ cho một chiến dịch chính trị, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "He’s doing the rounds of insurance firms.",
+                        "vi": "Anh ấy đang đi vòng quanh các công ty bảo hiểm."
+                    },
+                    {
+                        "en": "The Vice-President made the rounds of television talk shows.",
+                        "vi": "Phó Chủ tịch đã thực hiện các vòng đối thoại trên truyền hình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "made so that it can be seen from all sides",
+                    "vi": "được làm để nó có thể được nhìn thấy từ mọi phía"
+                },
+                "examples": [
+                    {
+                        "en": "an opportunity to see Canova’s work in the round",
+                        "vi": "một cơ hội để xem công việc của Canova trong vòng"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "with the people watching all around a central stage",
+                    "vi": "với những người đang xem xung quanh một sân khấu trung tâm"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "47fd9cb6d58b444cb3a43a66bf485acb",
+        "word": "unit",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈjuːnɪt/",
+            "us": "/ˈjuːnɪt/"
+        },
+        "nearby": [
+            {
+                "word": "unison",
+                "pos": "noun"
+            },
+            {
+                "word": "UNISON",
+                "pos": ""
+            },
+            {
+                "word": "unit",
+                "pos": "noun"
+            },
+            {
+                "word": "Unitarian",
+                "pos": "adjective"
+            },
+            {
+                "word": "Unitarian",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a single thing, person or group that is complete by itself but can also form part of something larger",
+                    "vi": "một thứ đơn lẻ, một người hoặc một nhóm tự nó hoàn chỉnh nhưng cũng có thể tạo thành một phần của thứ gì đó lớn hơn"
+                },
+                "examples": [
+                    {
+                        "en": "After 1946 the British Government treated the four territorial divisions as a single unit.",
+                        "vi": "Sau năm 1946, Chính phủ Anh coi bốn đơn vị lãnh thổ như một đơn vị duy nhất."
+                    },
+                    {
+                        "en": "The basic unit of society is the family.",
+                        "vi": "Đơn vị cơ bản của xã hội là gia đình."
+                    },
+                    {
+                        "en": "The cell is the unit of which all living organisms are composed.",
+                        "vi": "Tế bào là đơn vị cấu tạo nên tất cả các cơ thể sống."
+                    },
+                    {
+                        "en": "the role of the family unit in the community",
+                        "vi": "vai trò của đơn vị gia đình trong cộng đồng"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a single item of the type of product that a company sells",
+                    "vi": "một mặt hàng duy nhất của loại sản phẩm mà một công ty bán"
+                },
+                "examples": [
+                    {
+                        "en": "The game's selling price was $15 per unit.",
+                        "vi": "Giá bán của trò chơi là 15 đô la một chiếc."
+                    },
+                    {
+                        "en": "What's the unit cost?",
+                        "vi": "Đơn giá là bao nhiêu?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "one of the parts into which a textbook or a series of lessons is divided",
+                    "vi": "một trong những phần mà sách giáo khoa hoặc một chuỗi bài học được chia thành"
+                },
+                "examples": [
+                    {
+                        "en": "Each unit of the course that we completed felt like a real achievement.",
+                        "vi": "Mỗi đơn vị của khóa học mà chúng tôi đã hoàn thành đều cảm thấy như một thành tích thực sự."
+                    },
+                    {
+                        "en": "in a unit The present perfect is covered in Unit 8.",
+                        "vi": "in a unit Thì hiện tại hoàn hảo được đề cập trong Unit 8."
+                    },
+                    {
+                        "en": "The university is recruiting staff to teach the new units.",
+                        "vi": "Trường đại học đang tuyển dụng nhân viên để giảng dạy cho các đơn vị mới."
+                    },
+                    {
+                        "en": "You learned this in the first unit.",
+                        "vi": "Bạn đã học được điều này trong đơn vị đầu tiên."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a group of people who work or live together, especially for a particular purpose",
+                    "vi": "một nhóm người làm việc hoặc sống cùng nhau, đặc biệt là cho một mục đích cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "army/military/combat/police units",
+                        "vi": "quân đội / quân đội / chiến đấu / đơn vị cảnh sát"
+                    },
+                    {
+                        "en": "a special unit of the FBI",
+                        "vi": "một đơn vị đặc biệt của FBI"
+                    },
+                    {
+                        "en": "Medical units were operating in the disaster area.",
+                        "vi": "Các đơn vị y tế đã hoạt động trong vùng thiên tai."
+                    },
+                    {
+                        "en": "Two members of the unit died on the mission.",
+                        "vi": "Hai thành viên của đơn vị đã hy sinh khi thực hiện nhiệm vụ."
+                    },
+                    {
+                        "en": "They formed small units of 15 to 20 people.",
+                        "vi": "Họ thành lập các đơn vị nhỏ từ 15 đến 20 người."
+                    },
+                    {
+                        "en": "The marching column encountered large units of the enemy.",
+                        "vi": "Cột quân hành quân gặp phải các đơn vị lớn của địch."
+                    },
+                    {
+                        "en": "in a unit Soldiers in the unit are trained to survive in the snow and cold.",
+                        "vi": "trong một đơn vị Các binh sĩ trong đơn vị được huấn luyện để tồn tại trong tuyết và lạnh."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a department, especially in a hospital, that provides a particular type of care or treatment",
+                    "vi": "một bộ phận, đặc biệt là trong bệnh viện, cung cấp một loại hình chăm sóc hoặc điều trị cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "the intensive care unit",
+                        "vi": "đơn vị chăm sóc đặc biệt"
+                    },
+                    {
+                        "en": "a maternity unit",
+                        "vi": "một đơn vị thai sản"
+                    },
+                    {
+                        "en": "The cancer research unit is attached to the local university.",
+                        "vi": "Đơn vị nghiên cứu ung thư trực thuộc trường đại học địa phương."
+                    },
+                    {
+                        "en": "patients in the psychiatric unit",
+                        "vi": "bệnh nhân trong đơn vị tâm thần"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a piece of furniture, especially a cupboard, that fits with and matches others of the same type",
+                    "vi": "một món đồ nội thất, đặc biệt là một cái tủ, vừa vặn và phù hợp với những món đồ khác cùng loại"
+                },
+                "examples": [
+                    {
+                        "en": "a fitted kitchen with white units",
+                        "vi": "một nhà bếp đầy đủ tiện nghi với các đơn vị màu trắng"
+                    },
+                    {
+                        "en": "floor/wall units",
+                        "vi": "đơn vị sàn / tường"
+                    },
+                    {
+                        "en": "bedroom/kitchen units",
+                        "vi": "phòng ngủ / phòng bếp"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a fixed quantity, etc. that is used as a standard measurement",
+                    "vi": "một đại lượng cố định, v.v. được sử dụng làm phép đo tiêu chuẩn"
+                },
+                "examples": [
+                    {
+                        "en": "a unit of measurement",
+                        "vi": "một đơn vị đo lường"
+                    },
+                    {
+                        "en": "Women are advised not to drink more than fourteen units of alcohol per week.",
+                        "vi": "Phụ nữ được khuyến cáo không nên uống nhiều hơn 14 đơn vị rượu mỗi tuần."
+                    },
+                    {
+                        "en": "a unit of time/length/weight",
+                        "vi": "một đơn vị thời gian / chiều dài / trọng lượng"
+                    },
+                    {
+                        "en": "a unit of currency, such as the euro or the dollar",
+                        "vi": "một đơn vị tiền tệ, chẳng hạn như đồng euro hoặc đồng đô la"
+                    },
+                    {
+                        "en": "per unit Electricity is ten pence per unit.",
+                        "vi": "mỗi đơn vị Điện là mười pence trên một đơn vị."
+                    },
+                    {
+                        "en": "The law requires almost all federal agencies to use metric units.",
+                        "vi": "Luật yêu cầu hầu hết tất cả các cơ quan liên bang sử dụng đơn vị hệ mét."
+                    },
+                    {
+                        "en": "The highest carbon emissions per unit of energy are from coal.",
+                        "vi": "Lượng khí thải carbon cao nhất trên một đơn vị năng lượng là từ than đá."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a small machine that has a particular purpose or is part of a larger machine",
+                    "vi": "một máy nhỏ có mục đích cụ thể hoặc là một phần của máy lớn hơn"
+                },
+                "examples": [
+                    {
+                        "en": "a waste disposal unit",
+                        "vi": "một đơn vị xử lý chất thải"
+                    },
+                    {
+                        "en": "the central processing unit of a computer",
+                        "vi": "đơn vị xử lý trung tâm của máy tính"
+                    },
+                    {
+                        "en": "an air-conditioning unit",
+                        "vi": "một đơn vị điều hòa không khí"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a single flat, house or section in a building or group of buildings",
+                    "vi": "một căn hộ, một ngôi nhà hoặc một phần trong một tòa nhà hoặc một nhóm tòa nhà"
+                },
+                "examples": [
+                    {
+                        "en": "a housing/residential unit",
+                        "vi": "một nhà ở / đơn vị ở"
+                    },
+                    {
+                        "en": "to build new affordable housing units",
+                        "vi": "xây dựng các đơn vị nhà ở giá rẻ mới"
+                    },
+                    {
+                        "en": "(Australian English, New Zealand English) The site is being redeveloped for 62 home units.",
+                        "vi": "(Tiếng Anh Úc, Tiếng Anh New Zealand) Trang web đang được phát triển lại cho 62 đơn vị gia đình."
+                    },
+                    {
+                        "en": "a single dwelling unit",
+                        "vi": "một đơn vị ở"
+                    },
+                    {
+                        "en": "a retail/business unit",
+                        "vi": "một đơn vị bán lẻ / kinh doanh"
+                    },
+                    {
+                        "en": "an industrial unit",
+                        "vi": "một đơn vị công nghiệp"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "any whole number from 0 to 9",
+                    "vi": "bất kỳ số nguyên nào từ 0 đến 9"
+                },
+                "examples": [
+                    {
+                        "en": "a column for the tens and a column for the units",
+                        "vi": "một cột cho hàng chục và một cột cho hàng đơn vị"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "59e517e4a812454f9c9db4ff8f699cff",
+        "word": "admission",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ədˈmɪʃn/",
+            "us": "/ədˈmɪʃn/"
+        },
+        "nearby": [
+            {
+                "word": "admissibility",
+                "pos": "noun"
+            },
+            {
+                "word": "admissible",
+                "pos": "adjective"
+            },
+            {
+                "word": "admission",
+                "pos": "noun"
+            },
+            {
+                "word": "admit",
+                "pos": "verb"
+            },
+            {
+                "word": "admit of",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the act of accepting somebody into an institution, organization, etc.; the right to enter a place or to join an institution or organization",
+                    "vi": "hành động chấp nhận một người nào đó vào một cơ quan, tổ chức, v.v.; quyền vào một địa điểm hoặc gia nhập một cơ quan hoặc tổ chức"
+                },
+                "examples": [
+                    {
+                        "en": "Hospital admission is not necessary in most cases.",
+                        "vi": "Nhập viện là không cần thiết trong hầu hết các trường hợp."
+                    },
+                    {
+                        "en": "Hospital admissions for asthma attacks have doubled.",
+                        "vi": "Số người nhập viện vì các cơn hen suyễn đã tăng gấp đôi."
+                    },
+                    {
+                        "en": "the university admissions policy/office",
+                        "vi": "văn phòng / chính sách tuyển sinh đại học"
+                    },
+                    {
+                        "en": "They tried to get into the club but were refused admission.",
+                        "vi": "Họ đã cố gắng vào câu lạc bộ nhưng bị từ chối nhập học."
+                    },
+                    {
+                        "en": "She failed to gain admission to the university of her choice.",
+                        "vi": "Cô không thể trúng tuyển vào trường đại học mà mình đã chọn."
+                    },
+                    {
+                        "en": "Is there any charge for admission?",
+                        "vi": "Nhập học có mất phí không?"
+                    },
+                    {
+                        "en": "There was a steady decline in cinema admissions during the 1960s.",
+                        "vi": "Số lượng tuyển sinh vào rạp chiếu phim đã giảm dần trong những năm 1960."
+                    },
+                    {
+                        "en": "admission to something countries applying for admission to the European Union",
+                        "vi": "nhập học vào một số quốc gia đăng ký gia nhập Liên minh Châu Âu"
+                    },
+                    {
+                        "en": "Last admissions to the park are at 4 p.m.",
+                        "vi": "Lần cuối vào công viên lúc 4 giờ chiều"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a statement in which somebody admits that something is true, especially something wrong or bad that they have done",
+                    "vi": "một tuyên bố trong đó ai đó thừa nhận rằng điều gì đó là đúng, đặc biệt là điều gì đó sai hoặc xấu mà họ đã làm"
+                },
+                "examples": [
+                    {
+                        "en": "He is a thief by his own admission (= he has admitted it).",
+                        "vi": "Anh ta là một tên trộm bởi sự thừa nhận của chính anh ta (= anh ta đã thừa nhận điều đó)."
+                    },
+                    {
+                        "en": "admission of something an admission of guilt/failure/defeat",
+                        "vi": "thừa nhận điều gì đó là thừa nhận tội lỗi / thất bại / thất bại"
+                    },
+                    {
+                        "en": "admission that… The minister's resignation was an admission that she had lied.",
+                        "vi": "thừa nhận rằng… Bộ trưởng từ chức là một thừa nhận rằng cô ấy đã nói dối."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the amount of money that you pay to go into a building or to an event",
+                    "vi": "số tiền bạn phải trả để đi vào một tòa nhà hoặc một sự kiện"
+                },
+                "examples": [
+                    {
+                        "en": "admission charges/prices",
+                        "vi": "phí / giá nhập học"
+                    },
+                    {
+                        "en": "£5 admission",
+                        "vi": "Nhập học £ 5"
+                    },
+                    {
+                        "en": "What's the admission?",
+                        "vi": "Nhập học là gì?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1d50c5352f5948fe9e404382defae563",
+        "word": "admit",
+        "pos": "verb",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ədˈmɪt/",
+            "us": "/ədˈmɪt/"
+        },
+        "nearby": [
+            {
+                "word": "admissible",
+                "pos": "adjective"
+            },
+            {
+                "word": "admission",
+                "pos": "noun"
+            },
+            {
+                "word": "admit",
+                "pos": "verb"
+            },
+            {
+                "word": "admit of",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "admittance",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to agree, often unwillingly, that something is true",
+                    "vi": "đồng ý, thường một cách miễn cưỡng, rằng điều gì đó là đúng"
+                },
+                "examples": [
+                    {
+                        "en": "It was a stupid thing to do, I admit.",
+                        "vi": "Tôi thừa nhận đó là một điều ngu ngốc."
+                    },
+                    {
+                        "en": "+ speech ‘I'm very nervous,’ she admitted reluctantly.",
+                        "vi": "Err:509"
+                    },
+                    {
+                        "en": "admit to something Don't be afraid to admit to your mistakes.",
+                        "vi": "thừa nhận điều gì đó Đừng ngại thừa nhận sai lầm của bạn."
+                    },
+                    {
+                        "en": "admit to doing something She admits to being strict with her children.",
+                        "vi": "thừa nhận làm điều gì đó Cô thừa nhận là nghiêm khắc với con cái của mình."
+                    },
+                    {
+                        "en": "admit something He admitted all his mistakes.",
+                        "vi": "thừa nhận điều gì đó Anh ấy đã thừa nhận tất cả những sai lầm của mình."
+                    },
+                    {
+                        "en": "She stubbornly refuses to admit the truth.",
+                        "vi": "Cô ngoan cố không chịu thừa nhận sự thật."
+                    },
+                    {
+                        "en": "Why don't you just admit defeat (= recognize that you cannot do something) and let someone else try?",
+                        "vi": "Tại sao bạn không thừa nhận thất bại (= thừa nhận rằng bạn không thể làm điều gì đó) và để người khác thử?"
+                    },
+                    {
+                        "en": "I hate to admit it, but I think he is right.",
+                        "vi": "Tôi ghét phải thừa nhận điều đó, nhưng tôi nghĩ anh ấy đúng."
+                    },
+                    {
+                        "en": "Admit it! You were terrified!",
+                        "vi": "Thừa nhận đi! Bạn đã vô cùng kinh hãi!"
+                    },
+                    {
+                        "en": "I'm almost ashamed to admit it, but I watch this show.",
+                        "vi": "Tôi gần như xấu hổ khi thừa nhận điều đó, nhưng tôi xem chương trình này."
+                    },
+                    {
+                        "en": "admit (that)… They freely admit (that) they still have a lot to learn.",
+                        "vi": "thừa nhận (điều đó)… Họ thoải mái thừa nhận (rằng) họ vẫn còn rất nhiều điều để học hỏi."
+                    },
+                    {
+                        "en": "You must admit that it all sounds very strange.",
+                        "vi": "Bạn phải thừa nhận rằng tất cả nghe rất lạ."
+                    },
+                    {
+                        "en": "She readily admits mistakes were made.",
+                        "vi": "Cô ấy sẵn sàng thừa nhận những sai lầm đã được thực hiện."
+                    },
+                    {
+                        "en": "admit to somebody that… I couldn't admit to my parents that I was finding the course difficult.",
+                        "vi": "thừa nhận với ai đó rằng… Tôi không thể thừa nhận với bố mẹ rằng tôi thấy khóa học khó."
+                    },
+                    {
+                        "en": "be admitted that… It was generally admitted that the government had acted too quickly.",
+                        "vi": "thừa nhận rằng… Người ta thường thừa nhận rằng chính phủ đã hành động quá nhanh."
+                    },
+                    {
+                        "en": "be admitted to be/have something The appointment is now generally admitted to have been a mistake.",
+                        "vi": "được thừa nhận là / có một cái gì đó Cuộc hẹn bây giờ thường được thừa nhận là có một sai lầm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to say that you have done something wrong or illegal",
+                    "vi": "để nói rằng bạn đã làm điều gì đó sai trái hoặc bất hợp pháp"
+                },
+                "examples": [
+                    {
+                        "en": "admit to something He refused to admit to the other charges.",
+                        "vi": "thừa nhận điều gì đó Anh ta từ chối thừa nhận các cáo buộc khác."
+                    },
+                    {
+                        "en": "admit to doing something She admitted to having stolen the car.",
+                        "vi": "thừa nhận đã làm điều gì đó Cô thừa nhận đã lấy trộm chiếc xe."
+                    },
+                    {
+                        "en": "admit something She admitted theft.",
+                        "vi": "thừa nhận điều gì đó Cô ấy đã thừa nhận hành vi trộm cắp."
+                    },
+                    {
+                        "en": "He refused to admit his guilt.",
+                        "vi": "Anh ta không chịu thừa nhận tội lỗi của mình."
+                    },
+                    {
+                        "en": "The hospital has admitted liability for the accident.",
+                        "vi": "Bệnh viện đã thừa nhận trách nhiệm về vụ tai nạn."
+                    },
+                    {
+                        "en": "admit doing something She admitted having driven the car without insurance.",
+                        "vi": "thừa nhận đã làm điều gì đó Cô thừa nhận đã lái chiếc xe mà không có bảo hiểm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to allow somebody/something to enter a place",
+                    "vi": "để cho phép ai đó / thứ gì đó vào một địa điểm"
+                },
+                "examples": [
+                    {
+                        "en": "admit somebody/something Each ticket admits one adult.",
+                        "vi": "thừa nhận ai đó / cái gì Mỗi vé chỉ nhận một người lớn."
+                    },
+                    {
+                        "en": "admit somebody/something to/into something You will not be admitted to the theatre after the performance has started.",
+                        "vi": "thừa nhận ai đó / cái gì đó vào / vào cái gì đó Bạn sẽ không được nhận vào rạp sau khi buổi biểu diễn đã bắt đầu."
+                    },
+                    {
+                        "en": "The narrow windows admit little light into the room.",
+                        "vi": "Các cửa sổ nhỏ hẹp thừa nhận ít ánh sáng vào phòng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to allow somebody to become a member of a club, a school or an organization",
+                    "vi": "để cho phép ai đó trở thành thành viên của một câu lạc bộ, một trường học hoặc một tổ chức"
+                },
+                "examples": [
+                    {
+                        "en": "admit somebody The society admits all US citizens over 21.",
+                        "vi": "thừa nhận ai đó Xã hội thừa nhận tất cả công dân Hoa Kỳ trên 21 tuổi."
+                    },
+                    {
+                        "en": "admit somebody to/into something Women were only admitted into the club last year.",
+                        "vi": "thừa nhận ai đó vào / tham gia điều gì đó Phụ nữ chỉ mới được nhận vào câu lạc bộ năm ngoái."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to take somebody to a hospital or other institution where they can receive special care",
+                    "vi": "đưa ai đó đến bệnh viện hoặc tổ chức khác nơi họ có thể nhận được sự chăm sóc đặc biệt"
+                },
+                "examples": [
+                    {
+                        "en": "be admitted to something Two crash victims were admitted to the local hospital.",
+                        "vi": "được đưa vào một cái gì đó Hai nạn nhân vụ tai nạn đã được đưa vào bệnh viện địa phương."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to accept that evidence is legally valid and can be presented in court",
+                    "vi": "chấp nhận rằng bằng chứng có giá trị pháp lý và có thể được trình bày trước tòa"
+                },
+                "examples": [
+                    {
+                        "en": "Judge Neilson refused to admit the evidence because it had been illegally obtained.",
+                        "vi": "Thẩm phán Neilson từ chối thừa nhận bằng chứng vì nó đã được thu thập bất hợp pháp."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "bf42f741d6bf4c399abc9a98b3e8b6f1",
+        "word": "casualty",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈkæʒuəlti/",
+            "us": "/ˈkæʒuəlti/"
+        },
+        "nearby": [
+            {
+                "word": "casually",
+                "pos": "adverb"
+            },
+            {
+                "word": "casualness",
+                "pos": "noun"
+            },
+            {
+                "word": "casualty",
+                "pos": "noun"
+            },
+            {
+                "word": "Casualty",
+                "pos": ""
+            },
+            {
+                "word": "casuistry",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who is killed or injured in war or in an accident",
+                    "vi": "một người bị chết hoặc bị thương trong chiến tranh hoặc trong một tai nạn"
+                },
+                "examples": [
+                    {
+                        "en": "Our primary objective is reducing road casualties.",
+                        "vi": "Mục tiêu chính của chúng tôi là giảm thương vong trên đường."
+                    },
+                    {
+                        "en": "Both sides had suffered heavy casualties (= many people had been killed).",
+                        "vi": "Cả hai bên đều bị thương vong nặng nề (= nhiều người đã thiệt mạng)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who suffers or a thing that is destroyed when something else takes place",
+                    "vi": "một người đau khổ hoặc một thứ bị phá hủy khi một thứ khác xảy ra"
+                },
+                "examples": [
+                    {
+                        "en": "She became a casualty of the reduction in part-time work (= she lost her job).",
+                        "vi": "Cô ấy trở thành nạn nhân của việc giảm công việc bán thời gian (= cô ấy mất việc)."
+                    },
+                    {
+                        "en": "Small shops have been a casualty of the recession.",
+                        "vi": "Các cửa hàng nhỏ là nạn nhân của suy thoái kinh tế."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the part of a hospital where people who need immediate treatment are taken",
+                    "vi": "một phần của bệnh viện nơi đưa những người cần điều trị ngay lập tức"
+                },
+                "examples": [
+                    {
+                        "en": "The victims were rushed to casualty.",
+                        "vi": "Các nạn nhân được cấp tốc dẫn đến thương vong."
+                    },
+                    {
+                        "en": "We waited in casualty until a doctor could see us.",
+                        "vi": "Chúng tôi chờ đợi trong tình trạng thương vong cho đến khi bác sĩ có thể khám cho chúng tôi."
+                    },
+                    {
+                        "en": "He works as a doctor in casualty.",
+                        "vi": "Anh ấy làm bác sĩ cứu nạn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2f4e84c308254cc1b70efd31510db411",
+        "word": "community hospital",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/kəˌmjuːnəti ˈhɒspɪtl/",
+            "us": "/kəˌmjuːnəti ˈhɑːspɪtl/"
+        },
+        "nearby": [
+            {
+                "word": "community college",
+                "pos": "noun"
+            },
+            {
+                "word": "community garden",
+                "pos": "noun"
+            },
+            {
+                "word": "community hospital",
+                "pos": "noun"
+            },
+            {
+                "word": "community language learning",
+                "pos": "noun"
+            },
+            {
+                "word": "community order",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small hospital for the local community",
+                    "vi": "một bệnh viện nhỏ cho cộng đồng địa phương"
+                },
+                "examples": [
+                    {
+                        "en": "I admitted an elderly woman with severe leg pain to the community hospital.",
+                        "vi": "Tôi đã đưa một phụ nữ lớn tuổi bị đau chân dữ dội vào bệnh viện cộng đồng."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5c4daffcb6704747a4a3504e2134d412",
+        "word": "discharge",
+        "pos": "verb",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/dɪsˈtʃɑːdʒ/",
+            "us": "/dɪsˈtʃɑːrdʒ/"
+        },
+        "nearby": [
+            {
+                "word": "discerning",
+                "pos": "adjective"
+            },
+            {
+                "word": "discernment",
+                "pos": "noun"
+            },
+            {
+                "word": "discharge",
+                "pos": "verb"
+            },
+            {
+                "word": "discharge",
+                "pos": "noun"
+            },
+            {
+                "word": "disciple",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to give somebody official permission to leave the police or the armed forces; to make somebody leave the police or the armed forces",
+                    "vi": "cho phép ai đó chính thức rời khỏi cảnh sát hoặc lực lượng vũ trang; để khiến ai đó rời bỏ cảnh sát hoặc lực lượng vũ trang"
+                },
+                "examples": [
+                    {
+                        "en": "be discharged from something He was discharged from the army following his injury.",
+                        "vi": "được giải ngũ vì điều gì đó Anh ấy đã xuất ngũ sau khi bị thương."
+                    },
+                    {
+                        "en": "She was discharged from the police force for bad conduct.",
+                        "vi": "Cô ấy đã bị giải ngũ khỏi lực lượng cảnh sát vì hạnh kiểm xấu."
+                    },
+                    {
+                        "en": "He was found guilty and dishonourably discharged from the army.",
+                        "vi": "Anh ta bị kết tội và giải ngũ một cách đáng tiếc."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to allow somebody to leave hospital because they are well enough to leave",
+                    "vi": "cho phép ai đó xuất viện vì họ đủ khỏe để ra đi"
+                },
+                "examples": [
+                    {
+                        "en": "be discharged (from something) Patients were being discharged from the hospital too early.",
+                        "vi": "được xuất viện (từ một cái gì đó) Bệnh nhân đã được xuất viện quá sớm."
+                    },
+                    {
+                        "en": "All the people involved in the accident have now been discharged from hospital.",
+                        "vi": "Tất cả những người liên quan đến vụ tai nạn hiện đã được xuất viện."
+                    },
+                    {
+                        "en": "discharge somebody/yourself (from something) She had discharged herself against medical advice.",
+                        "vi": "thải độc cho ai đó / bản thân (khỏi điều gì đó) Cô ấy đã tự xả thân theo lời khuyên của bác sĩ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to allow somebody to leave prison or court",
+                    "vi": "để cho phép ai đó rời khỏi nhà tù hoặc tòa án"
+                },
+                "examples": [
+                    {
+                        "en": "be discharged He was conditionally discharged after admitting the theft.",
+                        "vi": "được xuất viện Anh ta đã được xuất viện có điều kiện sau khi thừa nhận hành vi trộm cắp."
+                    },
+                    {
+                        "en": "She was formally discharged by the court.",
+                        "vi": "Cô chính thức được tòa cho xuất viện."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to allow a member of a jury to stop serving in a court case",
+                    "vi": "để cho phép một thành viên của bồi thẩm đoàn ngừng phục vụ trong một vụ án"
+                },
+                "examples": [
+                    {
+                        "en": "If the jury cannot agree, it should be discharged.",
+                        "vi": "Nếu hội đồng xét xử không thống nhất được thì nên cho xuất viện."
+                    },
+                    {
+                        "en": "The judge took the unusual step of discharging the entire jury halfway through the trial.",
+                        "vi": "Thẩm phán đã thực hiện một bước bất thường khi đuổi toàn bộ bồi thẩm đoàn giữa chừng phiên tòa."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "when a gas or a liquid discharges or is discharged, or somebody discharges it, it flows somewhere",
+                    "vi": "Khi một chất khí hoặc một chất lỏng phóng ra hoặc được thải ra, hoặc ai đó xả nó, nó sẽ chảy đi đâu đó"
+                },
+                "examples": [
+                    {
+                        "en": "discharge (into something) The river is diverted through the power station before discharging into the sea.",
+                        "vi": "xả (vào một cái gì đó) Dòng sông được chuyển hướng qua nhà máy điện trước khi xả ra biển."
+                    },
+                    {
+                        "en": "discharge something (from something) (into something) The factory was fined for discharging chemicals into the river.",
+                        "vi": "xả cái gì đó (from something) (vào cái gì đó) Nhà máy bị phạt vì xả hóa chất ra sông."
+                    },
+                    {
+                        "en": "Raw sewage was discharged from the treatment plant directly into the river.",
+                        "vi": "Nước thải thô từ nhà máy xử lý được xả thẳng ra sông."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if part of the body discharges something, a liquid such as pus comes out of it",
+                    "vi": "nếu một phần của cơ thể thải ra thứ gì đó, một chất lỏng như mủ sẽ chảy ra từ đó"
+                },
+                "examples": [
+                    {
+                        "en": "The wound started discharging pus.",
+                        "vi": "Vết thương bắt đầu chảy mủ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to release force or power",
+                    "vi": "để giải phóng lực lượng hoặc sức mạnh"
+                },
+                "examples": [
+                    {
+                        "en": "Lightning is caused by clouds discharging electricity.",
+                        "vi": "Sét là do các đám mây phóng điện."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to do everything that is necessary to perform and complete a particular duty",
+                    "vi": "làm mọi thứ cần thiết để thực hiện và hoàn thành một nhiệm vụ cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "to discharge your duties/responsibilities/obligations",
+                        "vi": "để hoàn thành nhiệm vụ / trách nhiệm / nghĩa vụ của bạn"
+                    },
+                    {
+                        "en": "to discharge a debt (= to pay it)",
+                        "vi": "để xả một khoản nợ (= để trả nó)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to fire a gun, etc.; (of a gun, etc.) to be fired",
+                    "vi": "bắn súng, v.v ...; (của một khẩu súng, v.v.) được bắn"
+                },
+                "examples": [
+                    {
+                        "en": "The police officer accidentally discharged a firearm while unloading it.",
+                        "vi": "Nhân viên cảnh sát đã vô tình xả súng khi đang dỡ hàng."
+                    },
+                    {
+                        "en": "They gave a cheer and charged, discharging a volley of arrows as they came.",
+                        "vi": "Họ cổ vũ và lao tới, phóng hàng loạt mũi tên khi họ đến."
+                    },
+                    {
+                        "en": "He knocked her hand down and the gun discharged into the floor.",
+                        "vi": "Anh hạ gục tay cô và khẩu súng rơi xuống sàn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "eb60771e8c6c4e3eb958c943df8f3644",
+        "word": "hospitalization",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌhɒspɪtəlaɪˈzeɪʃn/",
+            "us": "/ˌhɑːspɪtələˈzeɪʃn/"
+        },
+        "nearby": [
+            {
+                "word": "hospitality",
+                "pos": "noun"
+            },
+            {
+                "word": "hospitality tray",
+                "pos": "noun"
+            },
+            {
+                "word": "hospitalization",
+                "pos": "noun"
+            },
+            {
+                "word": "hospitalize",
+                "pos": "verb"
+            },
+            {
+                "word": "hospital pass",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the fact of having to stay in a hospital for treatment",
+                    "vi": "thực tế là phải ở lại bệnh viện để điều trị"
+                },
+                "examples": [
+                    {
+                        "en": "a long period of hospitalization",
+                        "vi": "một thời gian dài nằm viện"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c42c6ce051274e1ba9cb18fc40b7f984",
+        "word": "hospitalize",
+        "pos": "verb",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈhɒspɪtəlaɪz/",
+            "us": "/ˈhɑːspɪtəlaɪz/"
+        },
+        "nearby": [
+            {
+                "word": "hospitality tray",
+                "pos": "noun"
+            },
+            {
+                "word": "hospitalization",
+                "pos": "noun"
+            },
+            {
+                "word": "hospitalize",
+                "pos": "verb"
+            },
+            {
+                "word": "hospital pass",
+                "pos": "noun"
+            },
+            {
+                "word": "hospital trust",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to send somebody to a hospital for treatment",
+                    "vi": "gửi ai đó đến bệnh viện để điều trị"
+                },
+                "examples": [
+                    {
+                        "en": "be hospitalized Eight people were hospitalized after receiving bullet wounds.",
+                        "vi": "8 người nhập viện sau khi bị đạn bắn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ce50f3d47d62450494a7d9e6cefe2e51",
+        "word": "ward",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/wɔːd/",
+            "us": "/wɔːrd/"
+        },
+        "nearby": [
+            {
+                "word": "war criminal",
+                "pos": "noun"
+            },
+            {
+                "word": "war cry",
+                "pos": "noun"
+            },
+            {
+                "word": "ward",
+                "pos": "noun"
+            },
+            {
+                "word": "-ward",
+                "pos": "suffix"
+            },
+            {
+                "word": "ward",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a separate room or area in a hospital for people with the same type of medical condition",
+                    "vi": "một phòng hoặc khu vực riêng biệt trong bệnh viện dành cho những người có cùng loại bệnh trạng"
+                },
+                "examples": [
+                    {
+                        "en": "a maternity/surgical/psychiatric/children’s ward",
+                        "vi": "phòng hộ sinh / phẫu thuật / tâm thần / trẻ em"
+                    },
+                    {
+                        "en": "on the ward He worked as a nurse on the children's ward.",
+                        "vi": "on the ward Anh ấy làm y tá ở khu trẻ em."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "(in the UK) one of the areas into which a city or town is divided and which elects and is represented by a member of the local council",
+                    "vi": "(ở Vương quốc Anh) một trong những khu vực mà thành phố hoặc thị trấn được phân chia và bầu cử và được đại diện bởi một thành viên của hội đồng địa phương"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person, especially a child, who is under the legal protection of a court or another person (called a guardian)",
+                    "vi": "một người, đặc biệt là trẻ em, người được bảo vệ hợp pháp của tòa án hoặc người khác (được gọi là người giám hộ)"
+                },
+                "examples": [
+                    {
+                        "en": "The child was made a ward of court.",
+                        "vi": "Đứa trẻ đã được đưa ra làm phường của tòa án."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "621f311b80c248c6badb384fe4346c0b",
+        "word": "aftercare",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈɑːftəkeə(r)/",
+            "us": "/ˈæftərker/"
+        },
+        "nearby": [
+            {
+                "word": "afterbirth",
+                "pos": "noun"
+            },
+            {
+                "word": "afterburner",
+                "pos": "noun"
+            },
+            {
+                "word": "aftercare",
+                "pos": "noun"
+            },
+            {
+                "word": "after-effect",
+                "pos": "noun"
+            },
+            {
+                "word": "afterglow",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "care or treatment given to a person who has just left hospital, prison, etc.",
+                    "vi": "chăm sóc hoặc điều trị cho một người vừa rời bệnh viện, nhà tù, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "aftercare services",
+                        "vi": "dịch vụ chăm sóc sau"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "support and advice offered to customers after they have bought a product or service",
+                    "vi": "hỗ trợ và tư vấn cho khách hàng sau khi họ đã mua một sản phẩm hoặc dịch vụ"
+                },
+                "examples": [
+                    {
+                        "en": "When you buy one of our products you will receive details of our comprehensive aftercare package.",
+                        "vi": "Khi bạn mua một trong những sản phẩm của chúng tôi, bạn sẽ nhận được thông tin chi tiết về gói chăm sóc toàn diện của chúng tôi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "498c2831fcc74613b1cea6c8c8e3e6cd",
+        "word": "CCU",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌsiː siː ˈjuː/",
+            "us": "/ˌsiː siː ˈjuː/"
+        },
+        "nearby": [
+            {
+                "word": "CCRA",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "CCTV",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "CCU",
+                "pos": "noun"
+            },
+            {
+                "word": "CD",
+                "pos": "noun"
+            },
+            {
+                "word": "CD burner",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "part of a hospital that provides intensive care (the abbreviation for ‘critical care unit’)",
+                    "vi": "một phần của bệnh viện cung cấp dịch vụ chăm sóc đặc biệt (viết tắt của 'đơn vị chăm sóc quan trọng')"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "part of a hospital that provides care for people with heart conditions (the abbreviation for ‘coronary care unit’ or ‘cardiac care unit’)",
+                    "vi": "một phần của bệnh viện cung cấp dịch vụ chăm sóc cho những người bị bệnh tim (viết tắt của 'đơn vị chăm sóc mạch vành' hoặc 'đơn vị chăm sóc tim')"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "cf2bbdfa039d4b4bb772582d8f8c1fff",
+        "word": "cottage hospital",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌkɒtɪdʒ ˈhɒspɪtl/",
+            "us": "/ˌkɑːtɪdʒ ˈhɑːspɪtl/"
+        },
+        "nearby": [
+            {
+                "word": "cottage",
+                "pos": "noun"
+            },
+            {
+                "word": "cottage cheese",
+                "pos": "noun"
+            },
+            {
+                "word": "cottage hospital",
+                "pos": "noun"
+            },
+            {
+                "word": "cottage industry",
+                "pos": "noun"
+            },
+            {
+                "word": "cottage loaf",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small hospital in a country area",
+                    "vi": "một bệnh viện nhỏ ở một vùng quê"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "a7c6ea3ebb794b46b633af2ec8ce9f4a",
+        "word": "dispensary",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/dɪˈspensəri/",
+            "us": "/dɪˈspensəri/"
+        },
+        "nearby": [
+            {
+                "word": "dispel",
+                "pos": "verb"
+            },
+            {
+                "word": "dispensable",
+                "pos": "adjective"
+            },
+            {
+                "word": "dispensary",
+                "pos": "noun"
+            },
+            {
+                "word": "dispensation",
+                "pos": "noun"
+            },
+            {
+                "word": "dispense",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a place in a hospital, shop, etc. where medicines are prepared for patients",
+                    "vi": "một nơi trong bệnh viện, cửa hàng, v.v. nơi chuẩn bị thuốc cho bệnh nhân"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a place where patients are treated, especially one run by a charity",
+                    "vi": "một nơi mà bệnh nhân được điều trị, đặc biệt là một nơi do một tổ chức từ thiện điều hành"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "b2f5e95154be422fb5e1134df0d396bf",
+        "word": "ENT",
+        "pos": "abbreviation",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌiː en ˈtiː/",
+            "us": "/ˌiː en ˈtiː/"
+        },
+        "nearby": [
+            {
+                "word": "en-suite",
+                "pos": "noun"
+            },
+            {
+                "word": "ensure",
+                "pos": "verb"
+            },
+            {
+                "word": "ENT",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "-ent",
+                "pos": "suffix"
+            },
+            {
+                "word": "entail",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "ear, nose and throat (as a department in a hospital or a branch of medicine)",
+                    "vi": "tai mũi họng (là khoa trong bệnh viện, ngành y)"
+                },
+                "examples": [
+                    {
+                        "en": "the ENT department",
+                        "vi": "khoa tai mũi họng"
+                    },
+                    {
+                        "en": "an ENT surgeon/specialist",
+                        "vi": "một bác sĩ phẫu thuật / chuyên gia tai mũi họng"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "32519fba337945059df7e11f34166b2f",
+        "word": "hospice",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈhɒspɪs/",
+            "us": "/ˈhɑːspɪs/"
+        },
+        "nearby": [
+            {
+                "word": "hoser",
+                "pos": "noun"
+            },
+            {
+                "word": "hosiery",
+                "pos": "noun"
+            },
+            {
+                "word": "hospice",
+                "pos": "noun"
+            },
+            {
+                "word": "the hospice movement",
+                "pos": ""
+            },
+            {
+                "word": "hospitable",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a hospital for people who are dying",
+                    "vi": "bệnh viện dành cho những người sắp chết"
+                },
+                "examples": [
+                    {
+                        "en": "She founded an AIDS hospice with the help of a local doctor.",
+                        "vi": "Cô đã thành lập một trại tế bần về AIDS với sự giúp đỡ của một bác sĩ địa phương."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f841a8f615914927849f19c0d35124b5",
+        "word": "ICU",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌaɪ siː ˈjuː/",
+            "us": "/ˌaɪ siː ˈjuː/"
+        },
+        "nearby": [
+            {
+                "word": "ICT",
+                "pos": "noun"
+            },
+            {
+                "word": "ictus",
+                "pos": "noun"
+            },
+            {
+                "word": "ICU",
+                "pos": "noun"
+            },
+            {
+                "word": "icy",
+                "pos": "adjective"
+            },
+            {
+                "word": "ICYMI",
+                "pos": "abbreviation"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "intensive care unit (in a hospital)",
+                    "vi": "đơn vị chăm sóc đặc biệt (trong bệnh viện)"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "58f2c32cc8e24d10a979e9e80ee64a5b",
+        "word": "infirmary",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ɪnˈfɜːməri/",
+            "us": "/ɪnˈfɜːrməri/"
+        },
+        "nearby": [
+            {
+                "word": "infinity pool",
+                "pos": "noun"
+            },
+            {
+                "word": "infirm",
+                "pos": "adjective"
+            },
+            {
+                "word": "infirmary",
+                "pos": "noun"
+            },
+            {
+                "word": "infirmity",
+                "pos": "noun"
+            },
+            {
+                "word": "infix",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "(often used in names) a hospital",
+                    "vi": "(thường được sử dụng trong tên) một bệnh viện"
+                },
+                "examples": [
+                    {
+                        "en": "He had his leg bandaged in the infirmary.",
+                        "vi": "Anh ấy đã được băng bó chân trong bệnh xá."
+                    },
+                    {
+                        "en": "Surgeons at the Radcliffe Infirmary successfully removed a blood clot from her brain.",
+                        "vi": "Các bác sĩ phẫu thuật tại Bệnh viện Radcliffe đã loại bỏ thành công một cục máu đông trong não của cô."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a special room in a school, prison, etc. for people who are ill",
+                    "vi": "một căn phòng đặc biệt trong trường học, nhà tù, v.v. dành cho những người bị bệnh"
+                },
+                "examples": [
+                    {
+                        "en": "He had to remain in the college infirmary for about a fortnight.",
+                        "vi": "Anh ta phải ở lại bệnh xá của trường đại học trong khoảng hai tuần."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5a9cee255a1e45e5b2746fedcaec7b93",
+        "word": "inpatient",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈɪnpeɪʃnt/",
+            "us": "/ˈɪnpeɪʃnt/"
+        },
+        "nearby": [
+            {
+                "word": "inorganic",
+                "pos": "adjective"
+            },
+            {
+                "word": "inorganic chemistry",
+                "pos": "noun"
+            },
+            {
+                "word": "inpatient",
+                "pos": "noun"
+            },
+            {
+                "word": "in-person",
+                "pos": "adjective"
+            },
+            {
+                "word": "input",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who stays in a hospital while receiving treatment",
+                    "vi": "một người ở lại bệnh viện trong khi điều trị"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "60e01ef8ed0842c2a084212e1daff420",
+        "word": "internship",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈɪntɜːnʃɪp/",
+            "us": "/ˈɪntɜːrnʃɪp/"
+        },
+        "nearby": [
+            {
+                "word": "internist",
+                "pos": "noun"
+            },
+            {
+                "word": "internment",
+                "pos": "noun"
+            },
+            {
+                "word": "internship",
+                "pos": "noun"
+            },
+            {
+                "word": "interoffice",
+                "pos": "adjective"
+            },
+            {
+                "word": "interoperability",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a period of time during which a student or new graduate gets practical experience in a job, for example during the summer holiday",
+                    "vi": "khoảng thời gian mà sinh viên hoặc sinh viên mới tốt nghiệp có được kinh nghiệm thực tế trong công việc, ví dụ như trong kỳ nghỉ hè"
+                },
+                "examples": [
+                    {
+                        "en": "an internship at a television station",
+                        "vi": "thực tập ở đài truyền hình"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a job that an advanced student of medicine, whose training is nearly finished, does in a hospital to get further practical experience",
+                    "vi": "một công việc mà một sinh viên y khoa tiên tiến, người đã được đào tạo gần xong, làm trong bệnh viện để có thêm kinh nghiệm thực tế"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "ca00ec36e0ac4057968a7c27ce7a7560",
+        "word": "mortuary",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈmɔːtʃəri/",
+            "us": "/ˈmɔːrtʃueri/"
+        },
+        "nearby": [
+            {
+                "word": "mortise lock",
+                "pos": "noun"
+            },
+            {
+                "word": "'Jelly Roll' Morton",
+                "pos": ""
+            },
+            {
+                "word": "mortuary",
+                "pos": "noun"
+            },
+            {
+                "word": "mosaic",
+                "pos": "noun"
+            },
+            {
+                "word": "Moselle",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a room or building, for example part of a hospital, in which dead bodies are kept before they are buried or cremated (= burned)",
+                    "vi": "một căn phòng hoặc tòa nhà, ví dụ như một phần của bệnh viện, trong đó xác người chết được lưu giữ trước khi chôn cất hoặc hỏa táng (= thiêu)"
+                },
+                "examples": [
+                    {
+                        "en": "They put the body in the hospital mortuary.",
+                        "vi": "Họ đưa thi thể vào nhà xác của bệnh viện."
+                    },
+                    {
+                        "en": "He works at the public mortuary.",
+                        "vi": "Anh ấy làm việc tại nhà xác."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a place where dead people are prepared for being buried or cremated (= burned) and where visitors can see the body",
+                    "vi": "nơi người chết được chuẩn bị để chôn cất hoặc hỏa táng (= thiêu) và nơi du khách có thể nhìn thấy thi thể"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "f31b9337f75042efa05ecbab40118758",
+        "word": "MRSA",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌem ɑːr es ˈeɪ/",
+            "us": "/ˌem ɑːr es ˈeɪ/"
+        },
+        "nearby": [
+            {
+                "word": "Mr Rogers' Neighborhood",
+                "pos": ""
+            },
+            {
+                "word": "Mrs",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "MRSA",
+                "pos": "noun"
+            },
+            {
+                "word": "Mrs O'Leary's cow",
+                "pos": ""
+            },
+            {
+                "word": "MS",
+                "pos": "abbreviation"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a type of bacteria that cannot be killed by standard antibiotics (the abbreviation for ‘methicillin-resistant Staphylococcus aureus’)",
+                    "vi": "một loại vi khuẩn không thể bị tiêu diệt bằng kháng sinh tiêu chuẩn (viết tắt của 'Staphylococcus aureus kháng methicillin')"
+                },
+                "examples": [
+                    {
+                        "en": "rising rates of MRSA infections in hospitals",
+                        "vi": "tăng tỷ lệ nhiễm trùng MRSA trong bệnh viện"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0dd9025657194cd784c357c921ecc2af",
+        "word": "outpatient",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈaʊtpeɪʃnt/",
+            "us": "/ˈaʊtpeɪʃnt/"
+        },
+        "nearby": [
+            {
+                "word": "out-of-work",
+                "pos": "adjective"
+            },
+            {
+                "word": "outpace",
+                "pos": "verb"
+            },
+            {
+                "word": "outpatient",
+                "pos": "noun"
+            },
+            {
+                "word": "outperform",
+                "pos": "verb"
+            },
+            {
+                "word": "outperformance",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who goes to a hospital for treatment but does not stay there",
+                    "vi": "một người đến bệnh viện để điều trị nhưng không ở lại đó"
+                },
+                "examples": [
+                    {
+                        "en": "an outpatient clinic",
+                        "vi": "một phòng khám ngoại trú"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "67b03de4a2194347a3fe9bdf93a0802d",
+        "word": "polyclinic",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpɒliklɪnɪk/",
+            "us": "/ˈpɑːliklɪnɪk/"
+        },
+        "nearby": [
+            {
+                "word": "polyanthus",
+                "pos": "noun"
+            },
+            {
+                "word": "polycarbonate",
+                "pos": "noun"
+            },
+            {
+                "word": "polyclinic",
+                "pos": "noun"
+            },
+            {
+                "word": "polycotton",
+                "pos": "noun"
+            },
+            {
+                "word": "polyester",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a medical centre that is not part of a hospital, where both general doctors and specialists work",
+                    "vi": "một trung tâm y tế không phải là một phần của bệnh viện, nơi cả bác sĩ đa khoa và chuyên gia đều làm việc"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "4be40fa5fbcd4bac8875c1b4716eada0",
+        "word": "radiography",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌreɪdiˈɒɡrəfi/",
+            "us": "/ˌreɪdiˈɑːɡrəfi/"
+        },
+        "nearby": [
+            {
+                "word": "Radio Free Europe/Radio Liberty",
+                "pos": ""
+            },
+            {
+                "word": "radiographer",
+                "pos": "noun"
+            },
+            {
+                "word": "radiography",
+                "pos": "noun"
+            },
+            {
+                "word": "Radiohead",
+                "pos": ""
+            },
+            {
+                "word": "radioisotope",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the process or job of taking X-ray photographs",
+                    "vi": "quy trình hoặc công việc chụp ảnh X-quang"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "bc4421cd609c4f068aa502e5204ccbf8",
+        "word": "readmit",
+        "pos": "verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌriːədˈmɪt/",
+            "us": "/ˌriːədˈmɪt/"
+        },
+        "nearby": [
+            {
+                "word": "readjustment",
+                "pos": "noun"
+            },
+            {
+                "word": "readmission",
+                "pos": "noun"
+            },
+            {
+                "word": "readmit",
+                "pos": "verb"
+            },
+            {
+                "word": "read on",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "read-only",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to allow somebody to join a group, an organization or an institution again",
+                    "vi": "để cho phép ai đó tham gia lại vào một nhóm, một tổ chức hoặc một tổ chức"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to take somebody into a hospital again after they had been allowed to leave",
+                    "vi": "đưa ai đó vào bệnh viện một lần nữa sau khi họ được phép rời đi"
+                },
+                "examples": [
+                    {
+                        "en": "He was readmitted only a week after being discharged.",
+                        "vi": "Anh ấy đã được tái nhập viện chỉ một tuần sau khi xuất viện."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "63e68a79dc2e43538e115e3a50218a48",
+        "word": "recovery",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/rɪˈkʌvəri/",
+            "us": "/rɪˈkʌvəri/"
+        },
+        "nearby": [
+            {
+                "word": "recoverable",
+                "pos": "adjective"
+            },
+            {
+                "word": "recovered",
+                "pos": "adjective"
+            },
+            {
+                "word": "recovery",
+                "pos": "noun"
+            },
+            {
+                "word": "recovery position",
+                "pos": "noun"
+            },
+            {
+                "word": "recreant",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the process of becoming well again after an illness or injury",
+                    "vi": "quá trình trở nên khỏe mạnh trở lại sau một trận ốm hoặc chấn thương"
+                },
+                "examples": [
+                    {
+                        "en": "My father has made a full recovery from the operation.",
+                        "vi": "Cha tôi đã bình phục hoàn toàn sau ca phẫu thuật."
+                    },
+                    {
+                        "en": "to make a remarkable/quick/speedy/slow recovery",
+                        "vi": "để thực hiện một sự phục hồi đáng chú ý / nhanh chóng / nhanh chóng / chậm"
+                    },
+                    {
+                        "en": "She is on the road to (= making progress towards) recovery.",
+                        "vi": "Cô ấy đang trên con đường để (= đang tiến tới) phục hồi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the process of improving or becoming stronger again",
+                    "vi": "quá trình cải thiện hoặc trở nên mạnh mẽ hơn một lần nữa"
+                },
+                "examples": [
+                    {
+                        "en": "The government is forecasting an economic recovery.",
+                        "vi": "Chính phủ đang dự báo một sự phục hồi kinh tế."
+                    },
+                    {
+                        "en": "The economy is showing signs of recovery.",
+                        "vi": "Nền kinh tế đang có dấu hiệu phục hồi."
+                    },
+                    {
+                        "en": "recovery in something a recovery in consumer spending",
+                        "vi": "sự phục hồi trong một cái gì đó, sự phục hồi trong chi tiêu của người tiêu dùng"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the action or process of getting something back that has been lost or stolen",
+                    "vi": "hành động hoặc quy trình lấy lại thứ gì đó đã bị mất hoặc bị đánh cắp"
+                },
+                "examples": [
+                    {
+                        "en": "There is a reward for information leading to the recovery of the missing diamonds.",
+                        "vi": "Có một phần thưởng cho thông tin dẫn đến việc thu hồi những viên kim cương bị mất."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the room in a hospital where patients are kept immediately after an operation",
+                    "vi": "phòng trong bệnh viện nơi bệnh nhân được giữ lại ngay sau khi phẫu thuật"
+                },
+                "examples": [
+                    {
+                        "en": "Your mother is now in recovery.",
+                        "vi": "Mẹ của bạn hiện đã bình phục."
+                    },
+                    {
+                        "en": "After the operation she was taken to the recovery room.",
+                        "vi": "Sau ca phẫu thuật, cô được đưa vào phòng hồi sức."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3109719503ee4fc49f93072b804ab8ad",
+        "word": "sanatorium",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌsænəˈtɔːriəm/",
+            "us": "/ˌsænəˈtɔːriəm/"
+        },
+        "nearby": [
+            {
+                "word": "San Andreas Fault",
+                "pos": ""
+            },
+            {
+                "word": "San Antonio",
+                "pos": ""
+            },
+            {
+                "word": "sanatorium",
+                "pos": "noun"
+            },
+            {
+                "word": "sanctification",
+                "pos": "noun"
+            },
+            {
+                "word": "sanctify",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a place like a hospital where patients who have a long-term illness or who are getting better after an illness are treated",
+                    "vi": "một nơi như bệnh viện, nơi những bệnh nhân mắc bệnh lâu năm hoặc những người đang khỏe hơn sau một trận ốm được điều trị"
+                },
+                "examples": [
+                    {
+                        "en": "In the early twentieth century, tuberculosis sanatoriums were common in the US.",
+                        "vi": "Vào đầu thế kỷ XX, các viện điều dưỡng bệnh lao rất phổ biến ở Mỹ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "07e386d34bd8418ea02b7943ca3b35f8",
+        "word": "sanitarium",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌsænəˈteəriəm/",
+            "us": "/ˌsænəˈteriəm/"
+        },
+        "nearby": [
+            {
+                "word": "sanguine",
+                "pos": "adjective"
+            },
+            {
+                "word": "sanguinely",
+                "pos": "adverb"
+            },
+            {
+                "word": "sanitarium",
+                "pos": "noun"
+            },
+            {
+                "word": "sanitary",
+                "pos": "adjective"
+            },
+            {
+                "word": "sanitary towel",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a place like a hospital where patients who have a long-term illness or who are getting better after an illness are treated",
+                    "vi": "một nơi như bệnh viện, nơi những bệnh nhân mắc bệnh lâu năm hoặc những người đang khỏe hơn sau một trận ốm được điều trị"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "671e22abe7994bc9a104283e6d791d4e",
+        "word": "triage",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtriːɑːʒ/",
+            "us": "/ˈtriːɑːʒ/"
+        },
+        "nearby": [
+            {
+                "word": "triacetate",
+                "pos": "noun"
+            },
+            {
+                "word": "triad",
+                "pos": "noun"
+            },
+            {
+                "word": "triage",
+                "pos": "noun"
+            },
+            {
+                "word": "trial",
+                "pos": "noun"
+            },
+            {
+                "word": "trial",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the process of deciding how seriously ill or injured a person is, so that the most serious cases can be treated first",
+                    "vi": "quy trình quyết định mức độ bệnh nặng hoặc thương tật của một người, để những trường hợp nghiêm trọng nhất có thể được điều trị trước"
+                },
+                "examples": []
+            }
+        ]
+    }
+]

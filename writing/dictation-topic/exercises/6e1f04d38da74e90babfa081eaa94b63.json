@@ -1,0 +1,243 @@
+{
+    "id": "6e1f04d38da74e90babfa081eaa94b63",
+    "title": "Making a Reservation",
+    "questions": [
+        {
+            "id": "a93a4aa246f948499ddfe20952f54af3",
+            "text": "Can I get some tickets for plays?",
+            "items": [
+                "Can",
+                "I",
+                "get",
+                "some",
+                "tickets",
+                "for",
+                "plays?"
+            ]
+        },
+        {
+            "id": "931327ceb4ea4adaba79f8bda525b890",
+            "text": "Yes. Is there a specific play that you want to see?",
+            "items": [
+                "Yes.",
+                "Is",
+                "there",
+                "a",
+                "specific",
+                "play",
+                "that",
+                "you",
+                "want",
+                "to",
+                "see?"
+            ]
+        },
+        {
+            "id": "7e14947bcb9449588aae8a1a6e4572d2",
+            "text": "What plays are on tonight?",
+            "items": [
+                "What",
+                "plays",
+                "are",
+                "on",
+                "tonight?"
+            ]
+        },
+        {
+            "id": "fe40d5bc97a245d79a5d2ade39843a3a",
+            "text": "Cats. But it's sold out.",
+            "items": [
+                "Cats.",
+                "But",
+                "it's",
+                "sold",
+                "out."
+            ]
+        },
+        {
+            "id": "5179acc489274c4e814e3727ec4d6b79",
+            "text": "Are there any seats left for tomorrow night?",
+            "items": [
+                "Are",
+                "there",
+                "any",
+                "seats",
+                "left",
+                "for",
+                "tomorrow",
+                "night?"
+            ]
+        },
+        {
+            "id": "a10ae75251c7450a8bca613a57ff8fd1",
+            "text": "Yes. How many tickets do you want?",
+            "items": [
+                "Yes.",
+                "How",
+                "many",
+                "tickets",
+                "do",
+                "you",
+                "want?"
+            ]
+        },
+        {
+            "id": "b1b75e662c08403cace9b221ff544d5c",
+            "text": "Two, please.",
+            "items": [
+                [
+                    "Two,",
+                    "II",
+                    "2"
+                ],
+                "please."
+            ]
+        },
+        {
+            "id": "8bc71b36a80848bcad400b81e30a76d6",
+            "text": "Where would you like to sit?",
+            "items": [
+                "Where",
+                "would",
+                "you",
+                "like",
+                "to",
+                "sit?"
+            ]
+        },
+        {
+            "id": "ff7748fc899c478c980bd63cdfab2719",
+            "text": "I'm not sure.",
+            "items": [
+                "I'm",
+                "not",
+                "sure."
+            ]
+        },
+        {
+            "id": "3346345c8f9048c596839d55e32eecd8",
+            "text": "Well, here's a seating plan of the concert hall.",
+            "items": [
+                "Well,",
+                "here's",
+                "a",
+                "seating",
+                "plan",
+                "of",
+                "the",
+                "concert",
+                "hall."
+            ]
+        },
+        {
+            "id": "5ee7359271fe4dcea2ae3799ba3584ac",
+            "text": "How much is it in the middle section?",
+            "items": [
+                "How",
+                "much",
+                "is",
+                "it",
+                "in",
+                "the",
+                "middle",
+                "section?"
+            ]
+        },
+        {
+            "id": "06c868af147c4a2db74013302f27f882",
+            "text": "$50.",
+            "items": [
+                [
+                    "$50.",
+                    "50 dollars",
+                    "fifty dollars"
+                ]
+            ]
+        },
+        {
+            "id": "1bf865a2a5354a98b28839ca1c716b43",
+            "text": "$50! That's a little too expensive for us.",
+            "items": [
+                [
+                    "$50!",
+                    "50 dollars",
+                    "fifty dollars"
+                ],
+                "That's",
+                "a",
+                "little",
+                "too",
+                "expensive",
+                "for",
+                "us."
+            ]
+        },
+        {
+            "id": "c0cfaa568037449f8aa4e66df8faa99b",
+            "text": "How much is it in the back?",
+            "items": [
+                "How",
+                "much",
+                "is",
+                "it",
+                "in",
+                "the",
+                "back?"
+            ]
+        },
+        {
+            "id": "dcdffc747d264668b189e1479f379106",
+            "text": "$35.",
+            "items": [
+                "$35."
+            ]
+        },
+        {
+            "id": "35c97b2981ed415c9b4156597231b6e3",
+            "text": "That's fine. What time does the play start?",
+            "items": [
+                "That's",
+                "fine.",
+                "What",
+                "time",
+                "does",
+                "the",
+                "play",
+                "start?"
+            ]
+        },
+        {
+            "id": "c390552e9ee94cfe9f3f2f720e64c7ed",
+            "text": "At 7 o'clock.",
+            "items": [
+                "At",
+                [
+                    "7",
+                    "seven"
+                ],
+                "o'clock."
+            ]
+        },
+        {
+            "id": "fcc11f82baf84988aecc67e4c10df12d",
+            "text": "What time will the play be over?",
+            "items": [
+                "What",
+                "time",
+                "will",
+                "the",
+                "play",
+                "be",
+                "over?"
+            ]
+        },
+        {
+            "id": "1087fecec8384621bf45a7ca22e92b7c",
+            "text": "At 9:30.",
+            "items": [
+                "At",
+                "9:30."
+            ]
+        }
+    ]
+}

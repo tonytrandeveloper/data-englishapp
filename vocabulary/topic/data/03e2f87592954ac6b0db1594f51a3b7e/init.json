@@ -1,0 +1,2977 @@
+[
+    {
+        "id": "44a621f888e248fd9eb3c786aacb136a",
+        "word": "message",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˈmesɪdʒ/",
+            "us": "/ˈmesɪdʒ/"
+        },
+        "nearby": [
+            {
+                "word": "mess",
+                "pos": "verb"
+            },
+            {
+                "word": "mess about",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "message",
+                "pos": "noun"
+            },
+            {
+                "word": "message",
+                "pos": "verb"
+            },
+            {
+                "word": "message board",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a written or spoken piece of information, etc. that you send to somebody or leave for somebody when you cannot speak to them yourself",
+                    "vi": "một đoạn thông tin bằng văn bản hoặc lời nói, v.v. mà bạn gửi cho ai đó hoặc để lại cho ai đó khi bạn không thể tự mình nói chuyện với họ"
+                },
+                "examples": [
+                    {
+                        "en": "There were no messages for me at the hotel.",
+                        "vi": "Không có tin nhắn nào cho tôi ở khách sạn."
+                    },
+                    {
+                        "en": "I never got your message.",
+                        "vi": "Tôi không bao giờ nhận được tin nhắn của bạn."
+                    },
+                    {
+                        "en": "We've had an urgent message saying that your father's ill.",
+                        "vi": "Chúng tôi đã có một tin nhắn khẩn cấp nói rằng bố bạn bị ốm."
+                    },
+                    {
+                        "en": "Jenny's not here at the moment. Can I take a message?",
+                        "vi": "Jenny không có ở đây vào lúc này. Tôi có thể gửi một lời nhắn hay không?"
+                    },
+                    {
+                        "en": "I left a message on her voicemail.",
+                        "vi": "Tôi đã để lại một tin nhắn trong hộp thư thoại của cô ấy."
+                    },
+                    {
+                        "en": "I've been trying to get you all day—don't you ever listen to your messages?",
+                        "vi": "Tôi đã cố gắng để có được bạn cả ngày — bạn không bao giờ nghe tin nhắn của bạn?"
+                    },
+                    {
+                        "en": "message (from somebody) (to somebody) Messages of support have been arriving from all over the country.",
+                        "vi": "tin nhắn (từ ai đó) (đến ai đó) Tin nhắn ủng hộ đã đến từ khắp nơi trên đất nước."
+                    },
+                    {
+                        "en": "a televised message from the president to the American people",
+                        "vi": "một thông điệp truyền hình từ tổng thống tới người dân Mỹ"
+                    },
+                    {
+                        "en": "A radio message was sent out to all ships in the area.",
+                        "vi": "Một thông điệp vô tuyến đã được gửi đến tất cả các tàu trong khu vực."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a piece of information sent in electronic form, for example by email or mobile phone",
+                    "vi": "một phần thông tin được gửi dưới dạng điện tử, ví dụ như qua email hoặc điện thoại di động"
+                },
+                "examples": [
+                    {
+                        "en": "an email/a text/an SMS message",
+                        "vi": "một email / một văn bản / một tin nhắn SMS"
+                    },
+                    {
+                        "en": "There were four messages in my inbox.",
+                        "vi": "Có bốn tin nhắn trong hộp thư đến của tôi."
+                    },
+                    {
+                        "en": "He sent me a message.",
+                        "vi": "Anh ấy đã gửi cho tôi một tin nhắn."
+                    },
+                    {
+                        "en": "I turned on my cell phone to check my messages.",
+                        "vi": "Tôi bật điện thoại di động để kiểm tra tin nhắn của mình."
+                    },
+                    {
+                        "en": "Fans post messages on her website.",
+                        "vi": "Người hâm mộ đăng tin nhắn trên trang web của cô ấy."
+                    },
+                    {
+                        "en": "I keep getting an error message when I try to connect to the internet.",
+                        "vi": "Tôi tiếp tục nhận được thông báo lỗi khi cố gắng kết nối với Internet."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an important moral, social or political idea that a book, speech, etc. is trying to communicate",
+                    "vi": "một ý tưởng đạo đức, xã hội hoặc chính trị quan trọng mà một cuốn sách, bài phát biểu, v.v. đang cố gắng truyền đạt"
+                },
+                "examples": [
+                    {
+                        "en": "a film with a strong religious message",
+                        "vi": "một bộ phim mang thông điệp tôn giáo mạnh mẽ"
+                    },
+                    {
+                        "en": "The campaign is trying to get the message across to young people that drugs are dangerous.",
+                        "vi": "Chiến dịch đang cố gắng truyền tải thông điệp đến những người trẻ tuổi rằng ma túy rất nguy hiểm."
+                    },
+                    {
+                        "en": "The clear message coming from the government is that they are getting tough on crime.",
+                        "vi": "Thông điệp rõ ràng đến từ chính phủ là họ đang trở nên cứng rắn hơn với tội phạm."
+                    },
+                    {
+                        "en": "I think this movie sends the wrong message to her young fans.",
+                        "vi": "Tôi nghĩ rằng bộ phim này đã gửi sai thông điệp đến những người hâm mộ trẻ tuổi của cô ấy."
+                    },
+                    {
+                        "en": "He uses his art to convey a political message.",
+                        "vi": "Anh ấy sử dụng nghệ thuật của mình để truyền tải một thông điệp chính trị."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a piece of information that is sent from the brain to a part of the body, or from a part of the body to the brain",
+                    "vi": "một phần thông tin được gửi từ não đến một phần của cơ thể hoặc từ một phần của cơ thể đến não"
+                },
+                "examples": [
+                    {
+                        "en": "The message arrives in your brain in a fraction of a second.",
+                        "vi": "Thông điệp đến trong não của bạn trong một phần nhỏ của giây."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "shopping",
+                    "vi": "mua đồ"
+                },
+                "examples": [
+                    {
+                        "en": "to do the messages",
+                        "vi": "để thực hiện các tin nhắn"
+                    },
+                    {
+                        "en": "to go for the messages",
+                        "vi": "để đi cho các tin nhắn"
+                    },
+                    {
+                        "en": "You can leave your messages (= the things that you have bought) here.",
+                        "vi": "Bạn có thể để lại tin nhắn của mình (= những thứ bạn đã mua) tại đây."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to understand what somebody is trying to tell you indirectly",
+                    "vi": "để hiểu những gì ai đó đang cố gắng nói với bạn một cách gián tiếp"
+                },
+                "examples": [
+                    {
+                        "en": "When he started looking at his watch, I got the message and left.",
+                        "vi": "Khi anh ấy bắt đầu nhìn đồng hồ, tôi nhận được tin nhắn và rời đi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "stating/not stating the official view of the political party or organization you represent",
+                    "vi": "nêu / không nêu quan điểm chính thức của đảng chính trị hoặc tổ chức mà bạn đại diện"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "b0dab996cee940cd8fe1d1c99f46af84",
+        "word": "phone number",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˈfəʊn nʌmbə(r)/",
+            "us": "/ˈfəʊn nʌmbər/"
+        },
+        "nearby": [
+            {
+                "word": "phoneme",
+                "pos": "noun"
+            },
+            {
+                "word": "phonemic",
+                "pos": "adjective"
+            },
+            {
+                "word": "phone number",
+                "pos": "noun"
+            },
+            {
+                "word": "phone tag",
+                "pos": "noun"
+            },
+            {
+                "word": "phone tapping",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the number of a particular phone, that you use when you make a call to it",
+                    "vi": "số của một điện thoại cụ thể mà bạn sử dụng khi thực hiện cuộc gọi đến nó"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "ad75e09fa6914f2788feac945f212aa5",
+        "word": "telephone",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˈtelɪfəʊn/",
+            "us": "/ˈtelɪfəʊn/"
+        },
+        "nearby": [
+            {
+                "word": "telepathically",
+                "pos": "adverb"
+            },
+            {
+                "word": "telepathy",
+                "pos": "noun"
+            },
+            {
+                "word": "telephone",
+                "pos": "noun"
+            },
+            {
+                "word": "telephone",
+                "pos": "verb"
+            },
+            {
+                "word": "telephone banking",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a system for talking to somebody else over long distances, using wires or radio; a machine used for this",
+                    "vi": "một hệ thống để nói chuyện với người khác trong khoảng cách xa, sử dụng dây hoặc radio; một chiếc máy được sử dụng cho việc này"
+                },
+                "examples": [
+                    {
+                        "en": "The telephone rang and Pat answered it.",
+                        "vi": "Điện thoại reo và Pat trả lời."
+                    },
+                    {
+                        "en": "I need to make a telephone call.",
+                        "vi": "Tôi cần gọi điện thoại."
+                    },
+                    {
+                        "en": "over the telephone You can reserve seats over the telephone.",
+                        "vi": "qua điện thoại Bạn có thể đặt chỗ qua điện thoại."
+                    },
+                    {
+                        "en": "by telephone Can I get in touch by telephone?",
+                        "vi": "qua điện thoại Tôi có thể liên lạc qua điện thoại không?"
+                    },
+                    {
+                        "en": "on the telephone They talk on the telephone much more often than they meet.",
+                        "vi": "trên điện thoại Họ nói chuyện qua điện thoại thường xuyên hơn nhiều so với gặp gỡ."
+                    },
+                    {
+                        "en": "She spoke by telephone to the French President.",
+                        "vi": "Cô đã nói chuyện qua điện thoại với Tổng thống Pháp."
+                    },
+                    {
+                        "en": "a telephone conversation/interview",
+                        "vi": "một cuộc trò chuyện / phỏng vấn qua điện thoại"
+                    },
+                    {
+                        "en": "telephone lines/services",
+                        "vi": "đường dây điện thoại / dịch vụ"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the part of the phone that you hold in your hand and speak into",
+                    "vi": "phần điện thoại bạn cầm trên tay và nói"
+                },
+                "examples": [
+                    {
+                        "en": "I picked up the telephone and called some people I knew.",
+                        "vi": "Tôi nhấc điện thoại và gọi cho một số người tôi biết."
+                    },
+                    {
+                        "en": "She put down the telephone and burst into tears.",
+                        "vi": "Cô đặt điện thoại xuống và bật khóc."
+                    },
+                    {
+                        "en": "I've been trying to phone him all day—he must have left his telephone off the hook.",
+                        "vi": "Tôi đã cố gắng gọi điện cho anh ấy cả ngày - chắc chắn anh ấy đã để quên điện thoại."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be using the phone",
+                    "vi": "sử dụng điện thoại"
+                },
+                "examples": [
+                    {
+                        "en": "He's on the telephone at the moment.",
+                        "vi": "Anh ấy đang nghe điện thoại vào lúc này."
+                    },
+                    {
+                        "en": "You're wanted (= somebody wants to speak to you) on the telephone.",
+                        "vi": "Bạn đang muốn (= ai đó muốn nói chuyện với bạn) qua điện thoại."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to have a phone in your home or place of work",
+                    "vi": "để có điện thoại ở nhà hoặc nơi làm việc của bạn"
+                },
+                "examples": [
+                    {
+                        "en": "We were not on the telephone at the cottage.",
+                        "vi": "Chúng tôi không nói chuyện điện thoại ở ngôi nhà nhỏ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "791d3b7e278e4765bfcec7df7f16629c",
+        "word": "telephone number",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˈtelɪfəʊn nʌmbə(r)/",
+            "us": "/ˈtelɪfəʊn nʌmbər/"
+        },
+        "nearby": [
+            {
+                "word": "telephone exchange",
+                "pos": "noun"
+            },
+            {
+                "word": "telephone kiosk",
+                "pos": "noun"
+            },
+            {
+                "word": "telephone number",
+                "pos": "noun"
+            },
+            {
+                "word": "telephone pole",
+                "pos": "noun"
+            },
+            {
+                "word": "telephone tag",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the number of a particular phone, that you use when you make a call to it",
+                    "vi": "số của một điện thoại cụ thể mà bạn sử dụng khi thực hiện cuộc gọi đến nó"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "ffe095f556284826867ccea94b6055c6",
+        "word": "local call",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈləʊkl kɔːl/",
+            "us": "/ˈləʊkl kɔːl/"
+        },
+        "nearby": [
+            {
+                "word": "local authority",
+                "pos": "noun"
+            },
+            {
+                "word": "local bus",
+                "pos": "noun"
+            },
+            {
+                "word": "local call",
+                "pos": "noun"
+            },
+            {
+                "word": "local colour",
+                "pos": "noun"
+            },
+            {
+                "word": "locale",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a phone call to a place that is near",
+                    "vi": "một cuộc điện thoại đến một nơi gần đó"
+                },
+                "examples": [
+                    {
+                        "en": "Some cable companies offer free local calls.",
+                        "vi": "Một số công ty truyền hình cáp cung cấp các cuộc gọi nội hạt miễn phí."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5111771f18fb409f86a3a18c83d17e72",
+        "word": "telephone banking",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˌtelɪfəʊn ˈbæŋkɪŋ/",
+            "us": "/ˌtelɪfəʊn ˈbæŋkɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "telephone",
+                "pos": "noun"
+            },
+            {
+                "word": "telephone",
+                "pos": "verb"
+            },
+            {
+                "word": "telephone banking",
+                "pos": "noun"
+            },
+            {
+                "word": "telephone booth",
+                "pos": "noun"
+            },
+            {
+                "word": "telephone box",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "activities relating to your bank account that you do using the phone",
+                    "vi": "các hoạt động liên quan đến tài khoản ngân hàng của bạn mà bạn sử dụng điện thoại"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "fa64ecaeb6dd40b69d72a4e44eb835c8",
+        "word": "voicemail",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈvɔɪsmeɪl/",
+            "us": "/ˈvɔɪsmeɪl/"
+        },
+        "nearby": [
+            {
+                "word": "voiced",
+                "pos": "adjective"
+            },
+            {
+                "word": "voiceless",
+                "pos": "adjective"
+            },
+            {
+                "word": "voicemail",
+                "pos": "noun"
+            },
+            {
+                "word": "voice message",
+                "pos": "noun"
+            },
+            {
+                "word": "the Voice of America",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an electronic system that can store phone messages, so that somebody can listen to them later",
+                    "vi": "một hệ thống điện tử có thể lưu trữ tin nhắn điện thoại để ai đó có thể nghe chúng sau này"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "4d9a0c435f3946e1b0dbf623ec0509c6",
+        "word": "voice message",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈvɔɪs mesɪdʒ/",
+            "us": "/ˈvɔɪs mesɪdʒ/"
+        },
+        "nearby": [
+            {
+                "word": "voiceless",
+                "pos": "adjective"
+            },
+            {
+                "word": "voicemail",
+                "pos": "noun"
+            },
+            {
+                "word": "voice message",
+                "pos": "noun"
+            },
+            {
+                "word": "the Voice of America",
+                "pos": "noun"
+            },
+            {
+                "word": "voice-over",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a recording of a spoken message",
+                    "vi": "bản ghi âm một tin nhắn đã nói"
+                },
+                "examples": [
+                    {
+                        "en": "I left a voice message on his phone.",
+                        "vi": "Tôi đã để lại một tin nhắn thoại trên điện thoại của anh ấy."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7092f7e7dc364a1787abc6470884ec45",
+        "word": "alarm call",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/əˈlɑːm kɔːl/",
+            "us": "/əˈlɑːrm kɔːl/"
+        },
+        "nearby": [
+            {
+                "word": "alarm",
+                "pos": "noun"
+            },
+            {
+                "word": "alarm",
+                "pos": "verb"
+            },
+            {
+                "word": "alarm call",
+                "pos": "noun"
+            },
+            {
+                "word": "alarm clock",
+                "pos": "noun"
+            },
+            {
+                "word": "alarmed",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a phone call that is intended to wake you up",
+                    "vi": "một cuộc điện thoại nhằm đánh thức bạn"
+                },
+                "examples": [
+                    {
+                        "en": "Could I have an alarm call at 5.30 tomorrow, please?",
+                        "vi": "Làm ơn cho tôi một cuộc gọi báo thức lúc 5h30 ngày mai được không?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a sound of warning made by a bird or animal",
+                    "vi": "một âm thanh cảnh báo bởi một con chim hoặc động vật"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "aa2f23cb04fd48a994d947c5677db52b",
+        "word": "helpline",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈhelplaɪn/",
+            "us": "/ˈhelplaɪn/"
+        },
+        "nearby": [
+            {
+                "word": "helplessly",
+                "pos": "adverb"
+            },
+            {
+                "word": "helplessness",
+                "pos": "noun"
+            },
+            {
+                "word": "helpline",
+                "pos": "noun"
+            },
+            {
+                "word": "helpmate",
+                "pos": "noun"
+            },
+            {
+                "word": "help off with",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a phone or online service that provides advice and information about particular problems",
+                    "vi": "điện thoại hoặc dịch vụ trực tuyến cung cấp lời khuyên và thông tin về các vấn đề cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "to set up/run a helpline",
+                        "vi": "để thiết lập / chạy một đường dây trợ giúp"
+                    },
+                    {
+                        "en": "an AIDS helpline",
+                        "vi": "một đường dây trợ giúp AIDS"
+                    },
+                    {
+                        "en": "Our online helpline service is a chat service for people with questions about mental health issues.",
+                        "vi": "Dịch vụ đường dây trợ giúp trực tuyến của chúng tôi là dịch vụ trò chuyện dành cho những người có thắc mắc về các vấn đề sức khỏe tâm thần."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "cd551207fe3f4ad5af387f5d9a578576",
+        "word": "operator",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈɒpəreɪtə(r)/",
+            "us": "/ˈɑːpəreɪtər/"
+        },
+        "nearby": [
+            {
+                "word": "operative",
+                "pos": "noun"
+            },
+            {
+                "word": "operative",
+                "pos": "adjective"
+            },
+            {
+                "word": "operator",
+                "pos": "noun"
+            },
+            {
+                "word": "operetta",
+                "pos": "noun"
+            },
+            {
+                "word": "ophthalmic",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who operates equipment or a machine",
+                    "vi": "một người vận hành thiết bị hoặc máy móc"
+                },
+                "examples": [
+                    {
+                        "en": "a computer/machine operator",
+                        "vi": "một người vận hành máy tính / máy móc"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person or company that runs a particular business",
+                    "vi": "một người hoặc công ty điều hành một doanh nghiệp cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "a tour operator",
+                        "vi": "một nhà điều hành tour du lịch"
+                    },
+                    {
+                        "en": "a bus operator",
+                        "vi": "một nhà điều hành xe buýt"
+                    },
+                    {
+                        "en": "a train operator that runs services between London and Scotland",
+                        "vi": "một nhà điều hành xe lửa chạy các dịch vụ giữa London và Scotland"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who works on the phone switchboard of a large company or organization, especially at a telephone exchange",
+                    "vi": "một người làm việc trên tổng đài điện thoại của một công ty hoặc tổ chức lớn, đặc biệt là ở tổng đài điện thoại"
+                },
+                "examples": [
+                    {
+                        "en": "Dial 100 and ask for the operator.",
+                        "vi": "Quay số 100 và yêu cầu nhà điều hành."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who shows skill at getting what they want, especially when this involves behaving in a dishonest way",
+                    "vi": "một người thể hiện kỹ năng đạt được những gì họ muốn, đặc biệt khi điều này liên quan đến hành vi không trung thực"
+                },
+                "examples": [
+                    {
+                        "en": "a smooth/slick/shrewd operator",
+                        "vi": "một nhà điều hành trơn tru / mượt mà / khôn ngoan"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a symbol or function which represents an operation in mathematics",
+                    "vi": "một biểu tượng hoặc hàm đại diện cho một phép toán trong toán học"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "9108641198064cb394ff82d271859cf9",
+        "word": "Skype™",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/skaɪp/",
+            "us": "/skaɪp/"
+        },
+        "nearby": [
+            {
+                "word": "skyline",
+                "pos": "noun"
+            },
+            {
+                "word": "sky marshal",
+                "pos": "noun"
+            },
+            {
+                "word": "Skype",
+                "pos": "noun"
+            },
+            {
+                "word": "Skype",
+                "pos": "verb"
+            },
+            {
+                "word": "Skypecast",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a phone system that works by direct communication between users’ computers on the internet, often using webcams so the callers can see each other",
+                    "vi": "một hệ thống điện thoại hoạt động bằng cách giao tiếp trực tiếp giữa các máy tính của người dùng trên internet, thường sử dụng webcam để người gọi có thể nhìn thấy nhau"
+                },
+                "examples": [
+                    {
+                        "en": "Broadcasters are using Skype for interviews.",
+                        "vi": "Các đài truyền hình đang sử dụng Skype để phỏng vấn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "42509971de954031bd488400fdd0cfd1",
+        "word": "Skype™",
+        "pos": "verb",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/skaɪp/",
+            "us": "/skaɪp/"
+        },
+        "nearby": [
+            {
+                "word": "sky marshal",
+                "pos": "noun"
+            },
+            {
+                "word": "Skype",
+                "pos": "noun"
+            },
+            {
+                "word": "Skype",
+                "pos": "verb"
+            },
+            {
+                "word": "Skypecast",
+                "pos": "noun"
+            },
+            {
+                "word": "skyrocket",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to speak (with somebody) using Skype",
+                    "vi": "nói chuyện (với ai đó) bằng Skype"
+                },
+                "examples": [
+                    {
+                        "en": "Skype somebody I'll Skype you later.",
+                        "vi": "Skype ai đó Tôi sẽ Skype cho bạn sau."
+                    },
+                    {
+                        "en": "Skype (with somebody) She Skypes with her grandchildren.",
+                        "vi": "Skype (với ai đó) Cô ấy Skypes với các cháu của cô ấy."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "89c85124f6a9494db07a7e8dbf0fbf34",
+        "word": "trace",
+        "pos": "verb",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/treɪs/",
+            "us": "/treɪs/"
+        },
+        "nearby": [
+            {
+                "word": "TPS",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "TQM",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "trace",
+                "pos": "verb"
+            },
+            {
+                "word": "trace",
+                "pos": "noun"
+            },
+            {
+                "word": "traceable",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to find or discover somebody/something by looking carefully for them/it",
+                    "vi": "để tìm hoặc khám phá ai đó / điều gì đó bằng cách tìm kiếm cẩn thận cho họ / nó"
+                },
+                "examples": [
+                    {
+                        "en": "We finally traced him to an address in Chicago.",
+                        "vi": "Cuối cùng chúng tôi cũng lần ra được anh ta đến một địa chỉ ở Chicago."
+                    },
+                    {
+                        "en": "I have been unable to trace the letter you mentioned.",
+                        "vi": "Tôi đã không thể theo dõi bức thư mà bạn đã đề cập."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to find the origin or cause of something",
+                    "vi": "để tìm nguồn gốc hoặc nguyên nhân của một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "She could trace her family tree back to the 16th century.",
+                        "vi": "Cô có thể truy tìm cây gia đình của mình từ thế kỷ 16."
+                    },
+                    {
+                        "en": "The leak was eventually traced to a broken seal.",
+                        "vi": "Rò rỉ cuối cùng được bắt nguồn từ một con dấu bị hỏng."
+                    },
+                    {
+                        "en": "The police traced the call (= used special electronic equipment to find out who made the phone call) to her ex-husband's number.",
+                        "vi": "Cảnh sát đã lần theo dấu vết cuộc gọi (= sử dụng thiết bị điện tử đặc biệt để tìm ra ai đã gọi điện) đến số của chồng cũ của cô."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to describe a process or the development of something",
+                    "vi": "để mô tả một quá trình hoặc sự phát triển của một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "Her book traces the town's history from Saxon times to the present day.",
+                        "vi": "Cuốn sách của cô ghi lại lịch sử của thị trấn từ thời Saxon cho đến ngày nay."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to draw a line or lines on a surface",
+                    "vi": "để vẽ một đường hoặc các đường trên bề mặt"
+                },
+                "examples": [
+                    {
+                        "en": "She traced a line in the sand.",
+                        "vi": "Cô vạch một đường trên cát."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to follow the shape or outline of something",
+                    "vi": "để làm theo hình dạng hoặc đường viền của một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "He traced the route on the map.",
+                        "vi": "Anh ta lần theo lộ trình trên bản đồ."
+                    },
+                    {
+                        "en": "A tear traced a path down her cheek.",
+                        "vi": "Một giọt nước mắt chảy dài trên má cô."
+                    },
+                    {
+                        "en": "She lightly traced the outline of his face with her finger.",
+                        "vi": "Cô dùng ngón tay vạch nhẹ từng đường nét trên khuôn mặt anh."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to copy a map, drawing, etc. by drawing on tracing paper (= paper that you can see through) placed over it",
+                    "vi": "để sao chép bản đồ, bản vẽ, v.v. bằng cách vẽ trên giấy có dấu vết (= giấy mà bạn có thể nhìn qua) đặt trên đó"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "5a9158b046c04c75bfb5d7cabc2fa78d",
+        "word": "conference call",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈkɒnfərəns kɔːl/",
+            "us": "/ˈkɑːnfərəns kɔːl/"
+        },
+        "nearby": [
+            {
+                "word": "confer",
+                "pos": "verb"
+            },
+            {
+                "word": "conference",
+                "pos": "noun"
+            },
+            {
+                "word": "conference call",
+                "pos": "noun"
+            },
+            {
+                "word": "conference committee",
+                "pos": "noun"
+            },
+            {
+                "word": "conferencing",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a phone call in which three or more people take part",
+                    "vi": "một cuộc gọi điện thoại trong đó ba người trở lên tham gia"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "46ac51ae9b614f86bbb0b1bf7f7c2919",
+        "word": "directory",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/dəˈrektəri/",
+            "us": "/dəˈrektəri/"
+        },
+        "nearby": [
+            {
+                "word": "director's cut",
+                "pos": "noun"
+            },
+            {
+                "word": "directorship",
+                "pos": "noun"
+            },
+            {
+                "word": "directory",
+                "pos": "noun"
+            },
+            {
+                "word": "directory enquiries",
+                "pos": "noun"
+            },
+            {
+                "word": "direct rule",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a book or electronic resource containing lists of information, usually in alphabetical order, for example people’s phone numbers or the names and addresses of businesses in a particular area",
+                    "vi": "một cuốn sách hoặc tài nguyên điện tử chứa danh sách thông tin, thường theo thứ tự bảng chữ cái, ví dụ: số điện thoại của mọi người hoặc tên và địa chỉ của các doanh nghiệp trong một khu vực cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "a telephone/trade directory",
+                        "vi": "danh bạ điện thoại / thương mại"
+                    },
+                    {
+                        "en": "a directory of European Trade Associations",
+                        "vi": "một thư mục của các Hiệp hội Thương mại Châu Âu"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a file containing a group of other files or programs in a computer",
+                    "vi": "một tệp chứa một nhóm các tệp hoặc chương trình khác trong máy tính"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a board in an organization or large store listing the names of departments and where to find them",
+                    "vi": "một bảng trong một tổ chức hoặc một cửa hàng lớn liệt kê tên các phòng ban và tìm chúng ở đâu"
+                },
+                "examples": [
+                    {
+                        "en": "There's a store directory over there.",
+                        "vi": "Có một thư mục cửa hàng ở đó."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "af8de9bccee64612ae46cb4100db80a5",
+        "word": "disconnect",
+        "pos": "verb",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌdɪskəˈnekt/",
+            "us": "/ˌdɪskəˈnekt/"
+        },
+        "nearby": [
+            {
+                "word": "disconcerting",
+                "pos": "adjective"
+            },
+            {
+                "word": "disconcertingly",
+                "pos": "adverb"
+            },
+            {
+                "word": "disconnect",
+                "pos": "verb"
+            },
+            {
+                "word": "disconnect",
+                "pos": "noun"
+            },
+            {
+                "word": "disconnected",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to remove a piece of equipment from a supply of gas, water or electricity",
+                    "vi": "để tháo một phần thiết bị khỏi nguồn cung cấp khí đốt, nước hoặc điện"
+                },
+                "examples": [
+                    {
+                        "en": "First, disconnect the boiler from the water mains.",
+                        "vi": "Đầu tiên, ngắt kết nối lò hơi khỏi nguồn nước."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to officially stop the supply of phone lines, water, electricity or gas to a building",
+                    "vi": "chính thức ngừng cung cấp đường dây điện thoại, nước, điện hoặc khí đốt cho một tòa nhà"
+                },
+                "examples": [
+                    {
+                        "en": "be disconnected You may be disconnected if you do not pay the bill.",
+                        "vi": "bị ngắt kết nối Bạn có thể bị ngắt kết nối nếu bạn không thanh toán hóa đơn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to separate something from something",
+                    "vi": "để tách một cái gì đó khỏi một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "be/become disconnected (from something) The ski had become disconnected from the boot.",
+                        "vi": "be / trở nên ngắt kết nối (từ một cái gì đó) Chiếc xe trượt tuyết đã bị ngắt kết nối khỏi khởi động."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to break the contact between two people who are talking on the phone",
+                    "vi": "phá vỡ liên lạc giữa hai người đang nói chuyện điện thoại"
+                },
+                "examples": [
+                    {
+                        "en": "be disconnected We were suddenly disconnected.",
+                        "vi": "bị ngắt kết nối Chúng tôi đột ngột bị ngắt kết nối."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to end a connection to the internet",
+                    "vi": "để kết thúc kết nối với internet"
+                },
+                "examples": [
+                    {
+                        "en": "be/get disconnected (from something) I keep getting disconnected when I'm online.",
+                        "vi": "bị / bị ngắt kết nối (từ một cái gì đó) Tôi tiếp tục bị ngắt kết nối khi tôi trực tuyến."
+                    },
+                    {
+                        "en": "disconnect (from something) My computer crashes every time I disconnect from the internet.",
+                        "vi": "ngắt kết nối (khỏi thứ gì đó) Máy tính của tôi bị treo mỗi khi tôi ngắt kết nối Internet."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to remove somebody's connection to a piece of equipment, especially a life support machine",
+                    "vi": "để loại bỏ kết nối của ai đó với một phần thiết bị, đặc biệt là một máy hỗ trợ sự sống"
+                },
+                "examples": [
+                    {
+                        "en": "It was the family's decision to disconnect her from the life support machine.",
+                        "vi": "Đó là quyết định của gia đình để ngắt kết nối cô với máy hỗ trợ sự sống."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "428cc7a4b5df4fc29e455d605b4e9bee",
+        "word": "fax",
+        "pos": "verb",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/fæks/",
+            "us": "/fæks/"
+        },
+        "nearby": [
+            {
+                "word": "fawn",
+                "pos": "verb"
+            },
+            {
+                "word": "fax",
+                "pos": "noun"
+            },
+            {
+                "word": "fax",
+                "pos": "verb"
+            },
+            {
+                "word": "Fay",
+                "pos": ""
+            },
+            {
+                "word": "fayre",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to send somebody a document, message, etc. by fax",
+                    "vi": "gửi cho ai đó tài liệu, tin nhắn, v.v. bằng fax"
+                },
+                "examples": [
+                    {
+                        "en": "fax somebody something Could you fax me the latest version?",
+                        "vi": "fax ai đó cái gì đó Bạn có thể fax cho tôi phiên bản mới nhất được không?"
+                    },
+                    {
+                        "en": "fax something to somebody Could you fax it to me?",
+                        "vi": "fax cái gì đó cho ai đó Bạn có thể fax nó cho tôi được không?"
+                    },
+                    {
+                        "en": "fax something I faxed the list of hotels through to them.",
+                        "vi": "fax cái gì đó Tôi đã fax danh sách các khách sạn cho họ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3733f9c2053a4597b1386663d77a9078",
+        "word": "teleconference",
+        "pos": "verb",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈtelikɒnfrəns/",
+            "us": "/ˈtelikɑːnfrəns/"
+        },
+        "nearby": [
+            {
+                "word": "telecommuter",
+                "pos": "noun"
+            },
+            {
+                "word": "telecommuting",
+                "pos": "noun"
+            },
+            {
+                "word": "teleconference",
+                "pos": "verb"
+            },
+            {
+                "word": "teleconference",
+                "pos": "noun"
+            },
+            {
+                "word": "teleconferencing",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to attend a conference or discussion at which members are in different places and speak to each other using phone and video connections",
+                    "vi": "tham dự một hội nghị hoặc cuộc thảo luận mà các thành viên ở những nơi khác nhau và nói chuyện với nhau bằng kết nối điện thoại và video"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "b8a98c6387094674a58c5ff2a29eb3c1",
+        "word": "teleconference",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈtelikɒnfrəns/",
+            "us": "/ˈtelikɑːnfrəns/"
+        },
+        "nearby": [
+            {
+                "word": "telecommuting",
+                "pos": "noun"
+            },
+            {
+                "word": "teleconference",
+                "pos": "verb"
+            },
+            {
+                "word": "teleconference",
+                "pos": "noun"
+            },
+            {
+                "word": "teleconferencing",
+                "pos": "noun"
+            },
+            {
+                "word": "telefilm",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a conference or discussion at which members are in different places and speak to each other using phone, internet and video connections",
+                    "vi": "một hội nghị hoặc cuộc thảo luận trong đó các thành viên ở những nơi khác nhau và nói chuyện với nhau bằng kết nối điện thoại, internet và video"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "a4c1498223b147e493da1ceb651b453c",
+        "word": "teleconferencing",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈtelikɒnfrənsɪŋ/",
+            "us": "/ˈtelikɑːnfrənsɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "teleconference",
+                "pos": "verb"
+            },
+            {
+                "word": "teleconference",
+                "pos": "noun"
+            },
+            {
+                "word": "teleconferencing",
+                "pos": "noun"
+            },
+            {
+                "word": "telefilm",
+                "pos": "noun"
+            },
+            {
+                "word": "telegenic",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the practice of holding conferences or discussions at which members are in different places and speak to each other using phone and video connections",
+                    "vi": "thực hành tổ chức hội nghị hoặc thảo luận mà các thành viên ở những nơi khác nhau và nói chuyện với nhau bằng kết nối điện thoại và video"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "631ab7ea49164ac0b3e8d1cce65e1f9b",
+        "word": "unblock",
+        "pos": "verb",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌʌnˈblɒk/",
+            "us": "/ˌʌnˈblɑːk/"
+        },
+        "nearby": [
+            {
+                "word": "unblinking",
+                "pos": "adjective"
+            },
+            {
+                "word": "unblinkingly",
+                "pos": "adverb"
+            },
+            {
+                "word": "unblock",
+                "pos": "verb"
+            },
+            {
+                "word": "unborn",
+                "pos": "adjective"
+            },
+            {
+                "word": "unbounded",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to clean something, for example a pipe, by removing something that is blocking it",
+                    "vi": "để làm sạch thứ gì đó, ví dụ như đường ống, bằng cách loại bỏ thứ gì đó đang chặn nó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to make it possible to use a mobile phone again after it has been stopped from working as a security measure",
+                    "vi": "để có thể sử dụng lại điện thoại di động sau khi nó không còn hoạt động như một biện pháp bảo mật"
+                },
+                "examples": [
+                    {
+                        "en": "Does anyone know how I can get my phone unblocked?",
+                        "vi": "Có ai biết cách tôi có thể mở khóa điện thoại của mình không?"
+                    },
+                    {
+                        "en": "You will need a code to unblock your phone.",
+                        "vi": "Bạn sẽ cần một mã để mở khóa điện thoại của mình."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f7358b27d7f54db9b47c8d7d1c251608",
+        "word": "blue pages",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌbluː ˈpeɪdʒɪz/",
+            "us": "/ˌbluː ˈpeɪdʒɪz/"
+        },
+        "nearby": [
+            {
+                "word": "blue note",
+                "pos": "noun"
+            },
+            {
+                "word": "blue-on-blue",
+                "pos": "adjective"
+            },
+            {
+                "word": "blue pages",
+                "pos": "noun"
+            },
+            {
+                "word": "Blue Peter",
+                "pos": ""
+            },
+            {
+                "word": "blue plaque",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "(in the US) the blue pages in a phone directory that give a list of government departments and their phone numbers",
+                    "vi": "(ở Hoa Kỳ) các trang màu xanh lam trong danh bạ điện thoại cung cấp danh sách các cơ quan chính phủ và số điện thoại của họ"
+                },
+                "examples": [
+                    {
+                        "en": "Look in the blue pages, under US Department of State.",
+                        "vi": "Tìm trong các trang màu xanh lam, thuộc Bộ Ngoại giao Hoa Kỳ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4332f1f0281245a5b8c871adb8f2924b",
+        "word": "caller ID",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌkɔːlər ˌaɪ ˈdiː/",
+            "us": "/ˌkɔːlər ˌaɪ ˈdiː/"
+        },
+        "nearby": [
+            {
+                "word": "call centre",
+                "pos": "noun"
+            },
+            {
+                "word": "caller",
+                "pos": "noun"
+            },
+            {
+                "word": "caller ID",
+                "pos": "noun"
+            },
+            {
+                "word": "call for",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "call forth",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a system that uses a device on your phone to identify and display the phone number of the person who is calling you",
+                    "vi": "một hệ thống sử dụng một thiết bị trên điện thoại của bạn để xác định và hiển thị số điện thoại của người đang gọi cho bạn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "914fca3d2f0c4d00997f7fbf631b31a3",
+        "word": "call waiting",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌkɔːl ˈweɪtɪŋ/",
+            "us": "/ˌkɔːl ˈweɪtɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "callus",
+                "pos": "noun"
+            },
+            {
+                "word": "callused",
+                "pos": "adjective"
+            },
+            {
+                "word": "call waiting",
+                "pos": "noun"
+            },
+            {
+                "word": "calm",
+                "pos": "adjective"
+            },
+            {
+                "word": "calm",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a phone service that tells you if somebody is trying to call you when you are using the phone",
+                    "vi": "một dịch vụ điện thoại cho bạn biết nếu ai đó đang cố gắng gọi cho bạn khi bạn đang sử dụng điện thoại"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "0e2bd120383f4297b175d576f95815b9",
+        "word": "careline",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkeəlaɪn/",
+            "us": "/ˈkerlaɪn/"
+        },
+        "nearby": [
+            {
+                "word": "carelessly",
+                "pos": "adverb"
+            },
+            {
+                "word": "carelessness",
+                "pos": "noun"
+            },
+            {
+                "word": "careline",
+                "pos": "noun"
+            },
+            {
+                "word": "carer",
+                "pos": "noun"
+            },
+            {
+                "word": "caress",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a phone service that you can call to get advice or information, for example on a company’s products, or on a medical condition, etc.",
+                    "vi": "một dịch vụ điện thoại mà bạn có thể gọi để nhận lời khuyên hoặc thông tin, chẳng hạn như về các sản phẩm của công ty, hoặc về tình trạng sức khỏe, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "Call our customer careline for advice.",
+                        "vi": "Hãy gọi đến đường dây chăm sóc khách hàng của chúng tôi để được tư vấn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e891e55ea2f44e9ea36a963a54cc588d",
+        "word": "chatline",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtʃætlaɪn/",
+            "us": "/ˈtʃætlaɪn/"
+        },
+        "nearby": [
+            {
+                "word": "Chatham",
+                "pos": ""
+            },
+            {
+                "word": "the Earl of Chatham",
+                "pos": ""
+            },
+            {
+                "word": "chatline",
+                "pos": "noun"
+            },
+            {
+                "word": "chat room",
+                "pos": "noun"
+            },
+            {
+                "word": "chat show",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a phone service that allows a number of people who call in separately to have a conversation, especially for fun",
+                    "vi": "một dịch vụ điện thoại cho phép một số người gọi đến trò chuyện riêng, đặc biệt là để giải trí"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a phone service that people can call to talk to somebody about sex in order to feel sexually excited",
+                    "vi": "một dịch vụ điện thoại mà mọi người có thể gọi để nói chuyện với ai đó về tình dục để cảm thấy hưng phấn tình dục"
+                },
+                "examples": [
+                    {
+                        "en": "premium-rate sex chatlines",
+                        "vi": "đường dây trò chuyện tình dục giá cao"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "59d599fc40cc413a828f5cdff6cfd7f2",
+        "word": "cold-calling",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌkəʊld ˈkɔːlɪŋ/",
+            "us": "/ˌkəʊld ˈkɔːlɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "cold call",
+                "pos": "noun"
+            },
+            {
+                "word": "cold-call",
+                "pos": "verb"
+            },
+            {
+                "word": "cold-calling",
+                "pos": "noun"
+            },
+            {
+                "word": "cold case",
+                "pos": "noun"
+            },
+            {
+                "word": "cold cash",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the practice of phoning somebody that you do not know, in order to sell them something",
+                    "vi": "thực hành gọi điện cho ai đó mà bạn không biết, để bán cho họ thứ gì đó"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "fd9b0c6e57bb459d94724770f4556e7e",
+        "word": "courtesy call",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkɜːtəsi kɔːl/",
+            "us": "/ˈkɜːrtəsi kɔːl/"
+        },
+        "nearby": [
+            {
+                "word": "courtesy",
+                "pos": "noun"
+            },
+            {
+                "word": "courtesy",
+                "pos": "adjective"
+            },
+            {
+                "word": "courtesy call",
+                "pos": "noun"
+            },
+            {
+                "word": "courtesy light",
+                "pos": "noun"
+            },
+            {
+                "word": "courtesy title",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a formal or official visit, usually by one important person to another, just to be polite, not to discuss important business",
+                    "vi": "một chuyến thăm chính thức hoặc chính thức, thường là của một người quan trọng với người khác, chỉ để lịch sự, không thảo luận về công việc quan trọng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a phone call from a company to one of its customers, for example to see if they are satisfied with the company’s service",
+                    "vi": "một cuộc gọi điện thoại từ một công ty đến một trong những khách hàng của họ, chẳng hạn để xem liệu họ có hài lòng với dịch vụ của công ty hay không"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "2000a5d5e62e4318ad4def334e29f9d4",
+        "word": "dialling code",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈdaɪəlɪŋ kəʊd/",
+            "us": "/ˈdaɪəlɪŋ kəʊd/"
+        },
+        "nearby": [
+            {
+                "word": "dial into",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "dialler",
+                "pos": "noun"
+            },
+            {
+                "word": "dialling code",
+                "pos": "noun"
+            },
+            {
+                "word": "dialling tone",
+                "pos": "noun"
+            },
+            {
+                "word": "dialog box",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the numbers that are used for a particular town, area or country, in front of an individual phone number",
+                    "vi": "các số được sử dụng cho một thị trấn, khu vực hoặc quốc gia cụ thể, phía trước một số điện thoại riêng lẻ"
+                },
+                "examples": [
+                    {
+                        "en": "international dialling codes",
+                        "vi": "mã quay số quốc tế"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "501c0541737c401bb9b2f16a2b18ca56",
+        "word": "direct dialling",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/dəˌrekt ˈdaɪəlɪŋ/",
+            "us": "/dəˌrekt ˈdaɪəlɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "direct debit",
+                "pos": "noun"
+            },
+            {
+                "word": "direct deposit",
+                "pos": "noun"
+            },
+            {
+                "word": "direct dialling",
+                "pos": "noun"
+            },
+            {
+                "word": "direct investment",
+                "pos": "noun"
+            },
+            {
+                "word": "direction",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the ability to make phone calls without needing to be connected by the operator",
+                    "vi": "khả năng gọi điện thoại mà không cần nhà điều hành kết nối"
+                },
+                "examples": [
+                    {
+                        "en": "All our rooms have direct dialling telephones.",
+                        "vi": "Tất cả các phòng của chúng tôi đều có điện thoại quay số trực tiếp."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3a97b46952df48c78f85f3154cdcb124",
+        "word": "direct marketing",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/dəˌrekt ˈmɑːkɪtɪŋ/",
+            "us": "/dəˌrekt ˈmɑːrkɪtɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "directly",
+                "pos": "conjunction"
+            },
+            {
+                "word": "direct mail",
+                "pos": "noun"
+            },
+            {
+                "word": "direct marketing",
+                "pos": "noun"
+            },
+            {
+                "word": "direct message",
+                "pos": "noun"
+            },
+            {
+                "word": "the direct method",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the business of selling products or services directly to customers who order by mail, phone or email, or over the internet, instead of going to a shop",
+                    "vi": "kinh doanh bán sản phẩm hoặc dịch vụ trực tiếp cho khách hàng đặt hàng qua thư, điện thoại hoặc email, hoặc qua internet, thay vì đến cửa hàng"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "70568aebebb7450a9055062766448a6b",
+        "word": "directory enquiries",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/dəˌrektəri ɪnˈkwaɪəriz/",
+            "us": "/dəˌrektəri ɪnˈkwaɪəriz/"
+        },
+        "nearby": [
+            {
+                "word": "directorship",
+                "pos": "noun"
+            },
+            {
+                "word": "directory",
+                "pos": "noun"
+            },
+            {
+                "word": "directory enquiries",
+                "pos": "noun"
+            },
+            {
+                "word": "direct rule",
+                "pos": "noun"
+            },
+            {
+                "word": "direct speech",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a phone service that you can use to find out a person’s phone number",
+                    "vi": "một dịch vụ điện thoại mà bạn có thể sử dụng để tìm ra số điện thoại của một người"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "525c6e26832e4f018d9baf7338075d7e",
+        "word": "EMS",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌiː em ˈes/",
+            "us": "/ˌiː em ˈes/"
+        },
+        "nearby": [
+            {
+                "word": "empty nest",
+                "pos": "noun"
+            },
+            {
+                "word": "empty nester",
+                "pos": "noun"
+            },
+            {
+                "word": "EMS",
+                "pos": "noun"
+            },
+            {
+                "word": "EMT",
+                "pos": "noun"
+            },
+            {
+                "word": "emu",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a system for sending pictures, music and long written messages from one mobile phone to another (the abbreviation for ‘enhanced messaging service’)",
+                    "vi": "một hệ thống để gửi hình ảnh, nhạc và tin nhắn dài từ điện thoại di động này sang điện thoại di động khác (viết tắt của 'dịch vụ nhắn tin nâng cao')"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a message sent by EMS",
+                    "vi": "một tin nhắn được gửi bởi EMS"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "b12ce659a76644759de25d1792b2b5d0",
+        "word": "ex-directory",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌeks dəˈrektəri/",
+            "us": "/ˌeks dəˈrektəri/"
+        },
+        "nearby": [
+            {
+                "word": "excuse",
+                "pos": "noun"
+            },
+            {
+                "word": "excuse",
+                "pos": "verb"
+            },
+            {
+                "word": "ex-directory",
+                "pos": "adjective"
+            },
+            {
+                "word": "exeat",
+                "pos": "noun"
+            },
+            {
+                "word": "exec",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "not listed in the public phone book and not available through directory enquiries, at the request of the owner of the phone",
+                    "vi": "không được liệt kê trong danh bạ điện thoại công cộng và không có sẵn thông qua các cuộc điều tra danh bạ, theo yêu cầu của chủ sở hữu điện thoại"
+                },
+                "examples": [
+                    {
+                        "en": "an ex-directory number",
+                        "vi": "một số thư mục cũ"
+                    },
+                    {
+                        "en": "She's ex-directory.",
+                        "vi": "Cô ấy là danh bạ cũ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a48e18d1507e4a7eb17ceb97cf29ee0f",
+        "word": "fixed-line",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌfɪkst ˈlaɪn/",
+            "us": "/ˌfɪkst ˈlaɪn/"
+        },
+        "nearby": [
+            {
+                "word": "fixed assets",
+                "pos": "noun"
+            },
+            {
+                "word": "fixed costs",
+                "pos": "noun"
+            },
+            {
+                "word": "fixed-line",
+                "pos": "adjective"
+            },
+            {
+                "word": "fixedly",
+                "pos": "adverb"
+            },
+            {
+                "word": "fixed mindset",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "relating to phone or internet connections that use wires carried on poles or under the ground, in contrast to wireless connections",
+                    "vi": "liên quan đến kết nối điện thoại hoặc internet sử dụng dây dẫn trên cột điện hoặc dưới mặt đất, trái ngược với kết nối không dây"
+                },
+                "examples": [
+                    {
+                        "en": "fixed-line broadband",
+                        "vi": "băng thông rộng cố định"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4adc1554c45a4f418acd05f532c93424",
+        "word": "Freephone",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈfriːfəʊn/",
+            "us": "/ˈfriːfəʊn/"
+        },
+        "nearby": [
+            {
+                "word": "free pardon",
+                "pos": "noun"
+            },
+            {
+                "word": "free period",
+                "pos": "noun"
+            },
+            {
+                "word": "Freephone",
+                "pos": "noun"
+            },
+            {
+                "word": "free port",
+                "pos": "noun"
+            },
+            {
+                "word": "Freepost",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "(in the UK) a system in which the cost of a phone call is paid for by the organization being called, rather than by the person making the call",
+                    "vi": "(ở Vương quốc Anh) một hệ thống trong đó chi phí của một cuộc điện thoại được trả bởi tổ chức được gọi, thay vì người thực hiện cuộc gọi"
+                },
+                "examples": [
+                    {
+                        "en": "Call now on Freephone 0800 89216 for further details.",
+                        "vi": "Gọi ngay qua số miễn phí 0800 89216 để biết thêm chi tiết."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8a62bc37ed544a7b823bd606694e1ce9",
+        "word": "hotline",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈhɒtlaɪn/",
+            "us": "/ˈhɑːtlaɪn/"
+        },
+        "nearby": [
+            {
+                "word": "hothouse",
+                "pos": "noun"
+            },
+            {
+                "word": "hot key",
+                "pos": "noun"
+            },
+            {
+                "word": "hotline",
+                "pos": "noun"
+            },
+            {
+                "word": "hotlink",
+                "pos": "noun"
+            },
+            {
+                "word": "hotlist",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a special phone line that people can use in order to get information or to talk about something",
+                    "vi": "một đường dây điện thoại đặc biệt mà mọi người có thể sử dụng để nhận thông tin hoặc để nói về điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "a 24-hour confidential hotline",
+                        "vi": "đường dây nóng bảo mật 24 giờ"
+                    },
+                    {
+                        "en": "An emergency hotline has been set up for the relatives of those involved in the disaster.",
+                        "vi": "Một đường dây nóng khẩn cấp đã được thiết lập cho thân nhân của những người có liên quan đến thảm họa."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a direct phone line between the heads of government in different countries",
+                    "vi": "đường dây điện thoại trực tiếp giữa những người đứng đầu chính phủ ở các quốc gia khác nhau"
+                },
+                "examples": [
+                    {
+                        "en": "the hotline to the White House",
+                        "vi": "đường dây nóng tới Nhà Trắng"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6d9d40a392484a5da7277ddc1dc72359",
+        "word": "person-to-person",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌpɜːsn tə ˈpɜːsn/",
+            "us": "/ˌpɜːrsn tə ˈpɜːrsn/"
+        },
+        "nearby": [
+            {
+                "word": "personnel carrier",
+                "pos": "noun"
+            },
+            {
+                "word": "person of colour",
+                "pos": "noun"
+            },
+            {
+                "word": "person-to-person",
+                "pos": "adjective"
+            },
+            {
+                "word": "perspective",
+                "pos": "noun"
+            },
+            {
+                "word": "Perspex",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "happening between two or more people who deal directly with each other rather than through another person",
+                    "vi": "xảy ra giữa hai hoặc nhiều người giao dịch trực tiếp với nhau thay vì thông qua một người khác"
+                },
+                "examples": [
+                    {
+                        "en": "Technical support is offered on a person-to-person basis.",
+                        "vi": "Hỗ trợ kỹ thuật được cung cấp trên cơ sở cá nhân."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "made by calling the operator (= a person who works at a telephone exchange) and asking to speak to a particular person. If that person is not available, the call does not have to be paid for.",
+                    "vi": "được thực hiện bằng cách gọi cho nhà điều hành (= một người làm việc tại một tổng đài điện thoại) và yêu cầu nói chuyện với một người cụ thể. Nếu người đó không có mặt, cuộc gọi không phải trả phí."
+                },
+                "examples": [
+                    {
+                        "en": "a person-to-person call",
+                        "vi": "một cuộc gọi giữa người với người"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8345ba061f3845fb9e072ad85a8538e7",
+        "word": "redial",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈriːdaɪəl/",
+            "us": "/ˈriːdaɪəl/"
+        },
+        "nearby": [
+            {
+                "word": "Red Hot Organization",
+                "pos": ""
+            },
+            {
+                "word": "redial",
+                "pos": "verb"
+            },
+            {
+                "word": "redial",
+                "pos": "noun"
+            },
+            {
+                "word": "redid",
+                "pos": "verb"
+            },
+            {
+                "word": "Red Indian",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a feature on a phone that means it can redial a number that has just been called when you press a button",
+                    "vi": "một tính năng trên điện thoại có nghĩa là nó có thể gọi lại một số vừa được gọi khi bạn nhấn một nút"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the button that calls the last number that was called",
+                    "vi": "nút gọi số cuối cùng đã được gọi"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "a3e30a29c0b64eeda27a9c9a5b880185",
+        "word": "reverse-charge",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/rɪˌvɜːs ˈtʃɑːdʒ/",
+            "us": "/rɪˌvɜːrs ˈtʃɑːrdʒ/"
+        },
+        "nearby": [
+            {
+                "word": "reverse",
+                "pos": "noun"
+            },
+            {
+                "word": "reverse",
+                "pos": "adjective"
+            },
+            {
+                "word": "reverse-charge",
+                "pos": "adjective"
+            },
+            {
+                "word": "reverse-charge",
+                "pos": "adverb"
+            },
+            {
+                "word": "reverse discrimination",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a reverse-charge phone call is paid for by the person who receives the call, not by the person who makes it",
+                    "vi": "một cuộc điện thoại tính phí ngược lại được trả bởi người nhận cuộc gọi, không phải bởi người thực hiện cuộc gọi"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "a1d23bd6b1c1449a951fbc39ee597c93",
+        "word": "reverse-charge",
+        "pos": "adverb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/rɪˌvɜːs ˈtʃɑːdʒ/",
+            "us": "/rɪˌvɜːrs ˈtʃɑːrdʒ/"
+        },
+        "nearby": [
+            {
+                "word": "reverse",
+                "pos": "adjective"
+            },
+            {
+                "word": "reverse-charge",
+                "pos": "adjective"
+            },
+            {
+                "word": "reverse-charge",
+                "pos": "adverb"
+            },
+            {
+                "word": "reverse discrimination",
+                "pos": "noun"
+            },
+            {
+                "word": "reverse engineering",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "by asking the person who receives a phone call to pay for it rather than the person who makes it",
+                    "vi": "bằng cách yêu cầu người nhận cuộc gọi trả tiền thay vì người thực hiện cuộc gọi"
+                },
+                "examples": [
+                    {
+                        "en": "I didn't have any money so I had to call reverse-charge.",
+                        "vi": "Tôi không có tiền nên tôi phải gọi ngược lại."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "12211ff763f94f6b9c53a3ac24ac539c",
+        "word": "ringback",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈrɪŋbæk/",
+            "us": "/ˈrɪŋbæk/"
+        },
+        "nearby": [
+            {
+                "word": "ring around",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "ring back",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "ringback",
+                "pos": "noun"
+            },
+            {
+                "word": "ring bearer",
+                "pos": "noun"
+            },
+            {
+                "word": "ring binder",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a phone service that you can use if you call somebody and their phone is being used, so that your phone will ring when the line is free; a call made using this service",
+                    "vi": "một dịch vụ điện thoại mà bạn có thể sử dụng nếu bạn gọi cho ai đó và điện thoại của họ đang được sử dụng, để điện thoại của bạn sẽ đổ chuông khi đường dây miễn phí; một cuộc gọi được thực hiện bằng dịch vụ này"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "ccd33010c7b840fb95f23aadffbfde3e",
+        "word": "telebanking",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtelibæŋkɪŋ/",
+            "us": "/ˈtelibæŋkɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "telco",
+                "pos": "noun"
+            },
+            {
+                "word": "tele-",
+                "pos": "combining form"
+            },
+            {
+                "word": "telebanking",
+                "pos": "noun"
+            },
+            {
+                "word": "telecast",
+                "pos": "verb"
+            },
+            {
+                "word": "telecast",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "activities relating to your bank account that you do using the phone",
+                    "vi": "các hoạt động liên quan đến tài khoản ngân hàng của bạn mà bạn sử dụng điện thoại"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "1b210ce1640548c292030c6516eaf027",
+        "word": "telephonist",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/təˈlefənɪst/",
+            "us": "/təˈlefənɪst/"
+        },
+        "nearby": [
+            {
+                "word": "telephone tag",
+                "pos": "noun"
+            },
+            {
+                "word": "telephone tapping",
+                "pos": "noun"
+            },
+            {
+                "word": "telephonist",
+                "pos": "noun"
+            },
+            {
+                "word": "telephony",
+                "pos": "noun"
+            },
+            {
+                "word": "telephoto lens",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who works on the phone switchboard of a large company or organization, especially at a telephone exchange",
+                    "vi": "một người làm việc trên tổng đài điện thoại của một công ty hoặc tổ chức lớn, đặc biệt là ở tổng đài điện thoại"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "37bd7ba395f34f48bb0417adafce3449",
+        "word": "telesales",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtelɪseɪlz/",
+            "us": "/ˈtelɪseɪlz/"
+        },
+        "nearby": [
+            {
+                "word": "teleprinter",
+                "pos": "noun"
+            },
+            {
+                "word": "teleprompter",
+                "pos": "noun"
+            },
+            {
+                "word": "telesales",
+                "pos": "noun"
+            },
+            {
+                "word": "telescope",
+                "pos": "noun"
+            },
+            {
+                "word": "telescope",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a method of selling things and taking orders for sales by phone",
+                    "vi": "một phương pháp bán hàng và nhận đơn đặt hàng qua điện thoại"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "0464713bd2bf4bd087e3415bff0502db",
+        "word": "teleshopping",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈteliʃɒpɪŋ/",
+            "us": "/ˈteliʃɑːpɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "telescopic",
+                "pos": "adjective"
+            },
+            {
+                "word": "telescopically",
+                "pos": "adverb"
+            },
+            {
+                "word": "teleshopping",
+                "pos": "noun"
+            },
+            {
+                "word": "teletext",
+                "pos": "noun"
+            },
+            {
+                "word": "telethon",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "shopping that is done using the phone or television",
+                    "vi": "mua sắm được thực hiện bằng điện thoại hoặc tivi"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "a66af24b1f064370b21f0d21025ed532",
+        "word": "telex",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈteleks/",
+            "us": "/ˈteleks/"
+        },
+        "nearby": [
+            {
+                "word": "teleworker",
+                "pos": "noun"
+            },
+            {
+                "word": "teleworking",
+                "pos": "noun"
+            },
+            {
+                "word": "telex",
+                "pos": "noun"
+            },
+            {
+                "word": "telex",
+                "pos": "verb"
+            },
+            {
+                "word": "Thomas Telford",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an international system of communication in which messages are typed on a special machine and sent by the phone system",
+                    "vi": "một hệ thống liên lạc quốc tế trong đó tin nhắn được nhập trên một máy đặc biệt và được gửi bởi hệ thống điện thoại"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a message sent or received by telex",
+                    "vi": "một tin nhắn được gửi hoặc nhận bằng telex"
+                },
+                "examples": [
+                    {
+                        "en": "Several telexes arrived this morning.",
+                        "vi": "Một số telex đã đến sáng nay."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a machine for sending and receiving messages by telex",
+                    "vi": "máy gửi và nhận tin nhắn bằng telex"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "5af6f7c3315945bca5a325ed99073851",
+        "word": "toll",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/təʊl/",
+            "us": "/təʊl/"
+        },
+        "nearby": [
+            {
+                "word": "toleration",
+                "pos": "noun"
+            },
+            {
+                "word": "J R R Tolkien",
+                "pos": ""
+            },
+            {
+                "word": "toll",
+                "pos": "noun"
+            },
+            {
+                "word": "toll",
+                "pos": "verb"
+            },
+            {
+                "word": "tollbooth",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "money that you pay to use a particular road or bridge",
+                    "vi": "số tiền bạn phải trả để sử dụng một con đường hoặc cây cầu cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "motorway tolls",
+                        "vi": "phí cầu đường ô tô"
+                    },
+                    {
+                        "en": "a toll bridge",
+                        "vi": "một cây cầu thu phí"
+                    },
+                    {
+                        "en": "the possibility of imposing tolls on some motorways",
+                        "vi": "khả năng thu phí trên một số đường cao tốc"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the amount of damage or the number of deaths and injuries that are caused in a particular war, disaster, etc.",
+                    "vi": "số lượng thiệt hại hoặc số người chết và bị thương do một cuộc chiến tranh, thảm họa cụ thể, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "the war’s growing casualty toll",
+                        "vi": "số thương vong ngày càng tăng của chiến tranh"
+                    },
+                    {
+                        "en": "Every hour, the news bulletin reported the mounting toll of casualties.",
+                        "vi": "Mỗi giờ, bản tin đều đưa tin về số thương vong ngày càng tăng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the sound of a bell ringing with slow, regular sounds",
+                    "vi": "tiếng chuông ngân vang với những âm thanh chậm rãi, đều đặn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a charge for a phone call that is calculated at a higher rate than a local call",
+                    "vi": "phí cho một cuộc điện thoại được tính ở mức cước phí cao hơn một cuộc gọi nội hạt"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to have a bad effect on somebody/something; to cause a lot of damage, deaths, pain, etc.",
+                    "vi": "có ảnh hưởng xấu đến ai đó / cái gì đó; để gây ra rất nhiều thiệt hại, chết chóc, đau đớn, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "Illness had taken a heavy toll on her.",
+                        "vi": "Bệnh tật đã khiến cô ấy bị ảnh hưởng nặng nề."
+                    },
+                    {
+                        "en": "The recession is taking its toll on the housing markets.",
+                        "vi": "Suy thoái đang ảnh hưởng đến thị trường nhà ở."
+                    },
+                    {
+                        "en": "The pressure of fame can take a terrible toll.",
+                        "vi": "Áp lực của sự nổi tiếng có thể phải trả một cái giá khủng khiếp."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8f413cbdc9694dc3ad1bbf57757daaea",
+        "word": "unlisted",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌʌnˈlɪstɪd/",
+            "us": "/ˌʌnˈlɪstɪd/"
+        },
+        "nearby": [
+            {
+                "word": "unlimited",
+                "pos": "adjective"
+            },
+            {
+                "word": "unlined",
+                "pos": "adjective"
+            },
+            {
+                "word": "unlisted",
+                "pos": "adjective"
+            },
+            {
+                "word": "unlit",
+                "pos": "adjective"
+            },
+            {
+                "word": "unload",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "not on a published list, especially of stock exchange prices",
+                    "vi": "không có trong danh sách được công bố, đặc biệt là giá cổ phiếu trên sàn giao dịch"
+                },
+                "examples": [
+                    {
+                        "en": "an unlisted company",
+                        "vi": "một công ty chưa niêm yết"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "not listed in the public phone book or online directory, at the request of the owner of the phone. The phone company will not give unlisted numbers to people who ask for them.",
+                    "vi": "không được liệt kê trong danh bạ điện thoại công cộng hoặc danh bạ trực tuyến, theo yêu cầu của chủ sở hữu điện thoại. Công ty điện thoại sẽ không cung cấp các số không công khai cho những người yêu cầu chúng."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "3b0dfb98dce443299f4ad90a04ccbd67",
+        "word": "unlock",
+        "pos": "verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌʌnˈlɒk/",
+            "us": "/ˌʌnˈlɑːk/"
+        },
+        "nearby": [
+            {
+                "word": "unlit",
+                "pos": "adjective"
+            },
+            {
+                "word": "unload",
+                "pos": "verb"
+            },
+            {
+                "word": "unlock",
+                "pos": "verb"
+            },
+            {
+                "word": "unlocked",
+                "pos": "adjective"
+            },
+            {
+                "word": "unlooked for",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to open the lock of a door, window, etc., usually using a key",
+                    "vi": "để mở khóa cửa ra vào, cửa sổ, v.v., thường sử dụng chìa khóa"
+                },
+                "examples": [
+                    {
+                        "en": "to unlock the door",
+                        "vi": "mở khóa cửa"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to discover something and let it be known",
+                    "vi": "để khám phá điều gì đó và để nó được biết đến"
+                },
+                "examples": [
+                    {
+                        "en": "The divers hoped to unlock some of the secrets of the seabed.",
+                        "vi": "Các thợ lặn hy vọng có thể mở khóa một số bí mật dưới đáy biển."
+                    },
+                    {
+                        "en": "Drama helps to unlock young people’s creative talents.",
+                        "vi": "Phim truyền hình giúp khai mở tài năng sáng tạo của những người trẻ tuổi."
+                    },
+                    {
+                        "en": "the key to unlock the mystery",
+                        "vi": "chìa khóa để mở ra bí ẩn"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to enable a mobile phone to use any network rather than only one particular one",
+                    "vi": "để cho phép điện thoại di động sử dụng bất kỳ mạng nào thay vì chỉ một mạng cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "Have an old phone lying around? Unlock it and keep it as a spare.",
+                        "vi": "Có một chiếc điện thoại cũ nằm xung quanh? Mở khóa và giữ nó như một vật dự phòng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to use a code or password to get access to more data or features on a computer or phone, or in a computer game",
+                    "vi": "sử dụng mã hoặc mật khẩu để có quyền truy cập vào nhiều dữ liệu hoặc tính năng hơn trên máy tính hoặc điện thoại hoặc trong trò chơi trên máy tính"
+                },
+                "examples": [
+                    {
+                        "en": "Players complete goals, unlock new levels and progress through the game.",
+                        "vi": "Người chơi hoàn thành mục tiêu, mở khóa cấp độ mới và tiến bộ trong trò chơi."
+                    },
+                    {
+                        "en": "Additional features can be unlocked in-app for $5.99.",
+                        "vi": "Các tính năng bổ sung có thể được mở khóa trong ứng dụng với giá $ 5,99."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f910d0588df34052b65c69582a267af3",
+        "word": "the white pages",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ðə ˌwaɪt ˈpeɪdʒɪz/",
+            "us": "/ðə ˌwaɪt ˈpeɪdʒɪz/"
+        },
+        "nearby": [
+            {
+                "word": "white noise",
+                "pos": "noun"
+            },
+            {
+                "word": "white-out",
+                "pos": "noun"
+            },
+            {
+                "word": "the white pages",
+                "pos": "noun"
+            },
+            {
+                "word": "White Paper",
+                "pos": "noun"
+            },
+            {
+                "word": "white pepper",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a phone book (on white paper), or a section of a book, that lists the names, addresses and phone numbers of people living in a particular area",
+                    "vi": "danh bạ điện thoại (trên giấy trắng) hoặc một phần của sách liệt kê tên, địa chỉ và số điện thoại của những người sống trong một khu vực cụ thể"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "5644a4da3ad54c3aab8deccc870d91da",
+        "word": "Yellow Pages™",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌjeləʊ ˈpeɪdʒɪz/",
+            "us": "/ˈjeləʊ peɪdʒɪz/"
+        },
+        "nearby": [
+            {
+                "word": "yellow line",
+                "pos": "noun"
+            },
+            {
+                "word": "yellowness",
+                "pos": "noun"
+            },
+            {
+                "word": "Yellow Pages",
+                "pos": "noun"
+            },
+            {
+                "word": "yellow ribbon",
+                "pos": "noun"
+            },
+            {
+                "word": "Yellowstone National Park",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a book with yellow pages that gave a list of companies and organizations and their phone numbers, arranged according to the type of services they offered",
+                    "vi": "một cuốn sách với những trang màu vàng cung cấp danh sách các công ty và tổ chức và số điện thoại của họ, được sắp xếp theo loại dịch vụ mà họ cung cấp"
+                },
+                "examples": []
+            }
+        ]
+    }
+]

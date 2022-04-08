@@ -1,0 +1,120 @@
+{
+    "id": "41b0412a972b4495ae321bbf8b28fd4a",
+    "title": "Transitive Or Intransitive Verb Exercise",
+    "exercises": [
+        {
+            "id": "ba93f6b6a9cc4ab18a383269379f4cc2",
+            "title": "Transitive Or Intransitive Verbs Exercise",
+            "questions": [
+                {
+                    "question": "She advised me to consult a doctor.",
+                    "description": "Here the verb has an object (me) and hence it is transitive.",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Let’s invite your cousins as well.",
+                    "description": "Here the verb has an object (cousins) and hence it is transitive.",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "I waited for an hour.",
+                    "description": "Here the verb does not have an object and hence it is intransitive.",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "I received your letter in the morning.",
+                    "description": "Here the verb has an object (letter) and hence it is transitive.",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "I am going to send her some flowers.",
+                    "description": "Here the verb has two objects (her and flowers) and hence it is transitive.",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "He has changed a lot since he got married.",
+                    "description": "Here the verb does not have an object and hence it is intransitive.",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Suddenly the child woke up.",
+                    "description": "Here the verb does not have an object and hence it is intransitive.",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "The loud noise woke me.",
+                    "description": "Here the verb woke has an object (me) and hence it is transitive.",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Let’s discuss your plans.",
+                    "description": "Here the verb discuss has an object (plans) and hence it is transitive.",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "I heard a lovely song in the morning.",
+                    "description": "Here the verb heard has an object (song) and hence it is transitive.",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Can you lend me a few pounds?",
+                    "description": "Here the verb lend has two objects (me and pounds) and hence it is transitive.",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "The wind was blowing fiercely.",
+                    "description": "Here the verb has no object and hence it is intransitive.",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 1
+                }
+            ]
+        }
+    ]
+}

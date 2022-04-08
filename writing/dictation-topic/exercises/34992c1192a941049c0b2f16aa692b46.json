@@ -1,0 +1,100 @@
+{
+    "id": "34992c1192a941049c0b2f16aa692b46",
+    "title": "Eating out",
+    "questions": [
+        {
+            "id": "1efef4b9f2414da993e51ae9873cfbbb",
+            "text": "Waiter! Could we have the bill, please?",
+            "items": [
+                "Waiter!",
+                "Could",
+                "we",
+                "have",
+                "the",
+                "bill,",
+                "please?"
+            ]
+        },
+        {
+            "id": "f450488f0fd44dd899cb5f73089ddadf",
+            "text": "Can I put it all on one bill?",
+            "items": [
+                "Can",
+                "I",
+                "put",
+                "it",
+                "all",
+                "on",
+                [
+                    "one",
+                    "i,",
+                    "1"
+                ],
+                "bill?"
+            ]
+        },
+        {
+            "id": "5120826095bd4b1f8cc4085d02594403",
+            "text": "No, we'd prefer separate checks.",
+            "items": [
+                "No,",
+                "we'd",
+                "prefer",
+                "separate",
+                "checks."
+            ]
+        },
+        {
+            "id": "c97405c7b4e34bf8817d0b00eb9fa00e",
+            "text": "Your bill's $18.",
+            "items": [
+                "Your",
+                "bill's",
+                [
+                    "$18.",
+                    "18 dollars",
+                    "eighteen dollars"
+                ]
+            ]
+        },
+        {
+            "id": "18a6819a05e042ac9f5a0fe8f8991cfd",
+            "text": "That seems expensive. Would you check it again please?",
+            "items": [
+                "That",
+                "seems",
+                "expensive.",
+                "Would",
+                "you",
+                "check",
+                "it",
+                "again",
+                "please?"
+            ]
+        },
+        {
+            "id": "0654ba10968841bdac4220470c60ecde",
+            "text": "Sorry, ma'am. This is your friend's bill.",
+            "items": [
+                "Sorry,",
+                "ma'am.",
+                "This",
+                "is",
+                "your",
+                "friend's",
+                "bill."
+            ]
+        },
+        {
+            "id": "bd84dab33be449699631fdbd7e995f99",
+            "text": "Here is yours; it's $24.16!",
+            "items": [
+                "Here",
+                "is",
+                "yours;",
+                "it's",
+                "$24.16!"
+            ]
+        }
+    ]
+}

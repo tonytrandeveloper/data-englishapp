@@ -1,0 +1,753 @@
+[
+    {
+        "id": "8ca518394dd64501830d850eea961ec2",
+        "word": "beard",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/bɪəd/",
+            "us": "/bɪrd/"
+        },
+        "nearby": [
+            {
+                "word": "bear",
+                "pos": "noun"
+            },
+            {
+                "word": "bearable",
+                "pos": "adjective"
+            },
+            {
+                "word": "beard",
+                "pos": "noun"
+            },
+            {
+                "word": "James Beard",
+                "pos": ""
+            },
+            {
+                "word": "beard",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "hair that grows on the chin and sides of somebody's face; similar hair that grows on some animals",
+                    "vi": "tóc mọc ở cằm và hai bên mặt của ai đó; lông tương tự mọc trên một số động vật"
+                },
+                "examples": [
+                    {
+                        "en": "He has decided to grow a beard and a moustache.",
+                        "vi": "Anh ấy đã quyết định để râu và ria mép."
+                    },
+                    {
+                        "en": "a week’s growth of beard",
+                        "vi": "râu mọc trong một tuần"
+                    },
+                    {
+                        "en": "a goat’s beard",
+                        "vi": "râu dê"
+                    },
+                    {
+                        "en": "a false beard",
+                        "vi": "một bộ râu giả"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "d7c910fe63f34a8eb8e3049b8feca40a",
+        "word": "moustache",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈmʌstæʃ/",
+            "us": "/ˈmʌstæʃ/"
+        },
+        "nearby": [
+            {
+                "word": "mousse",
+                "pos": "noun"
+            },
+            {
+                "word": "mousseline",
+                "pos": "noun"
+            },
+            {
+                "word": "moustache",
+                "pos": "noun"
+            },
+            {
+                "word": "moustached",
+                "pos": "adjective"
+            },
+            {
+                "word": "mousy",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a line of hair that a man allows to grow on his upper lip",
+                    "vi": "một người đàn ông để tóc mọc ở môi trên"
+                },
+                "examples": [
+                    {
+                        "en": "He's trying to grow a moustache.",
+                        "vi": "Anh ấy đang cố mọc ria mép."
+                    },
+                    {
+                        "en": "An enormous black moustache drooped over his mouth.",
+                        "vi": "Một bộ ria mép đen khổng lồ rũ xuống trên miệng anh ta."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a very long moustache",
+                    "vi": "một bộ ria mép rất dài"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "6c98d991fdd5431bb6b4ee8774cfb2bb",
+        "word": "eyebrow",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈaɪbraʊ/",
+            "us": "/ˈaɪbraʊ/"
+        },
+        "nearby": [
+            {
+                "word": "eyeball",
+                "pos": "verb"
+            },
+            {
+                "word": "eyebath",
+                "pos": "noun"
+            },
+            {
+                "word": "eyebrow",
+                "pos": "noun"
+            },
+            {
+                "word": "eyebrow pencil",
+                "pos": "noun"
+            },
+            {
+                "word": "eye candy",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the line of hair above the eye",
+                    "vi": "đường tóc trên mắt"
+                },
+                "examples": [
+                    {
+                        "en": "Ellen looked at me with a raised eyebrow.",
+                        "vi": "Ellen nhướng mày nhìn tôi."
+                    },
+                    {
+                        "en": "She spent hours in front of the mirror, plucking her eyebrows.",
+                        "vi": "Cô dành hàng giờ trước gương, kẻ lông mày."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to have a lot of something to deal with",
+                    "vi": "có rất nhiều thứ để giải quyết"
+                },
+                "examples": [
+                    {
+                        "en": "He's in it (= trouble) up to his eyebrows.",
+                        "vi": "Anh ấy đang ở trong đó (= rắc rối) đến tận lông mày của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to show that you think something is bad or are surprised by something",
+                    "vi": "để thể hiện rằng bạn nghĩ điều gì đó tồi tệ hoặc đang ngạc nhiên trước điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "Eyebrows were raised when he arrived without his wife.",
+                        "vi": "Lông mày nhướng lên khi anh đến mà không có vợ đi cùng."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "baa3ca3131d74be2aa42a1acb65ec0e7",
+        "word": "eyelash",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈaɪlæʃ/",
+            "us": "/ˈaɪlæʃ/"
+        },
+        "nearby": [
+            {
+                "word": "eyeful",
+                "pos": "noun"
+            },
+            {
+                "word": "eyeglass",
+                "pos": "noun"
+            },
+            {
+                "word": "eyelash",
+                "pos": "noun"
+            },
+            {
+                "word": "eyelet",
+                "pos": "noun"
+            },
+            {
+                "word": "eye level",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "one of the hairs growing on the edge of the eyelids",
+                    "vi": "một trong những sợi lông mọc ở rìa mí mắt"
+                },
+                "examples": [
+                    {
+                        "en": "false eyelashes",
+                        "vi": "lông mi giả"
+                    },
+                    {
+                        "en": "She just flutters her eyelashes and the men come running!",
+                        "vi": "Cô ấy chỉ cần rung lông mi của mình và những người đàn ông chạy đến!"
+                    },
+                    {
+                        "en": "She smiled and fluttered her eyelashes at the ticket inspector.",
+                        "vi": "Cô mỉm cười và rung mi nhìn nhân viên soát vé."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to open and close your eyes quickly, in a way that is supposed to be attractive",
+                    "vi": "mở và nhắm mắt nhanh chóng, theo cách được cho là hấp dẫn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "6a8e024d7d5b4047969ff0f613670528",
+        "word": "bristle",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbrɪsl/",
+            "us": "/ˈbrɪsl/"
+        },
+        "nearby": [
+            {
+                "word": "briskly",
+                "pos": "adverb"
+            },
+            {
+                "word": "briskness",
+                "pos": "noun"
+            },
+            {
+                "word": "bristle",
+                "pos": "noun"
+            },
+            {
+                "word": "bristle",
+                "pos": "verb"
+            },
+            {
+                "word": "bristle with",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a short stiff hair",
+                    "vi": "một mái tóc ngắn cứng"
+                },
+                "examples": [
+                    {
+                        "en": "the bristles on his chin",
+                        "vi": "lông trên cằm của anh ấy"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "one of the short stiff hairs or wires in a brush",
+                    "vi": "một trong những sợi lông hoặc dây ngắn cứng trong bàn chải"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "4a654762f02a4cb7b60b7e8b46568867",
+        "word": "brow",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/braʊ/",
+            "us": "/braʊ/"
+        },
+        "nearby": [
+            {
+                "word": "brought",
+                "pos": ""
+            },
+            {
+                "word": "brouhaha",
+                "pos": "noun"
+            },
+            {
+                "word": "brow",
+                "pos": "noun"
+            },
+            {
+                "word": "browbeat",
+                "pos": "verb"
+            },
+            {
+                "word": "brown",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the part of the face above the eyes and below the hair",
+                    "vi": "một phần của khuôn mặt trên mắt và dưới tóc"
+                },
+                "examples": [
+                    {
+                        "en": "The nurse mopped his fevered brow.",
+                        "vi": "Cô y tá lau đôi mày đang sốt của anh."
+                    },
+                    {
+                        "en": "Her brow furrowed in concentration.",
+                        "vi": "Chân mày cô ấy nhíu lại đầy vẻ tập trung."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the line of hair above the eye",
+                    "vi": "đường tóc trên mắt"
+                },
+                "examples": [
+                    {
+                        "en": "One dark brow rose in surprise.",
+                        "vi": "Một đôi mày sẫm màu nhướng lên ngạc nhiên."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the top part of a hill",
+                    "vi": "phần trên cùng của một ngọn đồi"
+                },
+                "examples": [
+                    {
+                        "en": "The path disappeared over the brow of the hill.",
+                        "vi": "Con đường biến mất trên đỉnh đồi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to move your eyebrows together, to show that you are thinking hard, feeling angry, etc.",
+                    "vi": "di chuyển lông mày của bạn lại với nhau, cho thấy rằng bạn đang suy nghĩ nhiều, đang cảm thấy tức giận, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "His brows were knitted in a permanent frown.",
+                        "vi": "Lông mày của anh ta nhăn lại thành một cái cau mày vĩnh viễn."
+                    },
+                    {
+                        "en": "She knitted her brows in concentration.",
+                        "vi": "Cô nhíu mày tập trung."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2bde909cc51a41f5a194347b5afba1a6",
+        "word": "bumfluff",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbʌmflʌf/",
+            "us": "/ˈbʌmflʌf/"
+        },
+        "nearby": [
+            {
+                "word": "bumboat",
+                "pos": "noun"
+            },
+            {
+                "word": "bumf",
+                "pos": "noun"
+            },
+            {
+                "word": "bumfluff",
+                "pos": "noun"
+            },
+            {
+                "word": "bummer",
+                "pos": "noun"
+            },
+            {
+                "word": "bump",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the soft hair that grows on the upper lip and chin of a boy, as his beard begins to grow",
+                    "vi": "lông mềm mọc ở môi trên và cằm của một cậu bé, khi râu của cậu ấy bắt đầu phát triển"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "77955454bc3844c58c767a2f7b8dc0b3",
+        "word": "clean-shaven",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌkliːn ˈʃeɪvn/",
+            "us": "/ˌkliːn ˈʃeɪvn/"
+        },
+        "nearby": [
+            {
+                "word": "cleanse",
+                "pos": "verb"
+            },
+            {
+                "word": "cleanser",
+                "pos": "noun"
+            },
+            {
+                "word": "clean-shaven",
+                "pos": "adjective"
+            },
+            {
+                "word": "clean up",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "clean-up",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a man who is clean-shaven does not have a beard or moustache (= hair that has been allowed to grow on the face)",
+                    "vi": "một người đàn ông cạo râu sạch sẽ, không có râu hoặc ria mép (= lông đã được để mọc trên mặt)"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "7c61b41e9e754014a682c5ab6f97e66b",
+        "word": "down",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/daʊn/",
+            "us": "/daʊn/"
+        },
+        "nearby": [
+            {
+                "word": "down",
+                "pos": "verb"
+            },
+            {
+                "word": "down",
+                "pos": "adjective"
+            },
+            {
+                "word": "down",
+                "pos": "noun"
+            },
+            {
+                "word": "down and out",
+                "pos": "adjective"
+            },
+            {
+                "word": "down-and-out",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the very fine soft feathers of a bird",
+                    "vi": "lông mềm rất mịn của một con chim"
+                },
+                "examples": [
+                    {
+                        "en": "duck down",
+                        "vi": "vịt xuống"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "fine soft hair",
+                    "vi": "tóc mềm mịn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a period of feeling sad or depressed, or when things are not going well",
+                    "vi": "giai đoạn cảm thấy buồn hoặc chán nản, hoặc khi mọi thứ không suôn sẻ"
+                },
+                "examples": [
+                    {
+                        "en": "We all have our downs from time to time.",
+                        "vi": "Tất cả chúng ta đều có những lúc gặp khó khăn."
+                    },
+                    {
+                        "en": "Her career has had a few downs this year.",
+                        "vi": "Sự nghiệp của cô đã có một vài bước đi xuống trong năm nay."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "one of a series of four chances to carry the ball forward ten yards that a team is allowed. These series continue until the team loses the ball or fails to go forward ten yards in four downs.",
+                    "vi": "một trong bốn cơ hội để mang bóng về phía trước mười thước mà một đội được phép. Chuỗi trận này tiếp tục cho đến khi đội mất bóng hoặc không đi tiếp được mười thước trong bốn lần hạ gục."
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to have a bad opinion of a person or thing",
+                    "vi": "có ý kiến xấu về một người hoặc một sự vật"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the mixture of good and bad things in life or in a particular situation or relationship",
+                    "vi": "hỗn hợp của những điều tốt và xấu trong cuộc sống hoặc trong một tình huống hoặc mối quan hệ cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "Every business has its ups and downs.",
+                        "vi": "Mọi doanh nghiệp đều có những thăng trầm."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2a3f1e441d2d46099634bfc52d2475ba",
+        "word": "goatee",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ɡəʊˈtiː/",
+            "us": "/ɡəʊˈtiː/"
+        },
+        "nearby": [
+            {
+                "word": "GOAT",
+                "pos": "noun"
+            },
+            {
+                "word": "goat cheese",
+                "pos": "noun"
+            },
+            {
+                "word": "goatee",
+                "pos": "noun"
+            },
+            {
+                "word": "goatherd",
+                "pos": "noun"
+            },
+            {
+                "word": "goatskin",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small pointed beard (= hair growing on a man’s face) that is grown only on the chin",
+                    "vi": "râu nhọn nhỏ (= tóc mọc trên mặt đàn ông) chỉ mọc ở cằm"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "9c2a0a1542d64f8ba00469ea72ba2239",
+        "word": "sideburn",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈsaɪdbɜːn/",
+            "us": "/ˈsaɪdbɜːrn/"
+        },
+        "nearby": [
+            {
+                "word": "sidebar",
+                "pos": "noun"
+            },
+            {
+                "word": "sideboard",
+                "pos": "noun"
+            },
+            {
+                "word": "sideburn",
+                "pos": "noun"
+            },
+            {
+                "word": "sidecar",
+                "pos": "noun"
+            },
+            {
+                "word": "side dish",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "hair that grows down the sides of the face in front of the ears",
+                    "vi": "tóc mọc xuống hai bên mặt trước tai"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "f0bba9470e5d4f56882a25ff3afb3cb1",
+        "word": "side whiskers",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈsaɪd wɪskəz/",
+            "us": "/ˈsaɪd wɪskərz/"
+        },
+        "nearby": [
+            {
+                "word": "sideways",
+                "pos": "adverb"
+            },
+            {
+                "word": "sideways",
+                "pos": "adjective"
+            },
+            {
+                "word": "side whiskers",
+                "pos": "noun"
+            },
+            {
+                "word": "sidewinder",
+                "pos": "noun"
+            },
+            {
+                "word": "side with",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "hair growing on the sides of the face down to, but not on, the chin",
+                    "vi": "tóc mọc ở hai bên mặt xuống đến cằm nhưng không mọc"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "0d493667d779450590e122b200b32ec5",
+        "word": "stubble",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈstʌbl/",
+            "us": "/ˈstʌbl/"
+        },
+        "nearby": [
+            {
+                "word": "stub",
+                "pos": "noun"
+            },
+            {
+                "word": "stub",
+                "pos": "verb"
+            },
+            {
+                "word": "stubble",
+                "pos": "noun"
+            },
+            {
+                "word": "stubbly",
+                "pos": "adjective"
+            },
+            {
+                "word": "stubborn",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the lower short, stiff part of the stems of crops such as wheat that are left in the ground after the top part has been cut and collected",
+                    "vi": "phần dưới cứng, ngắn của thân cây trồng như lúa mì được để lại trên mặt đất sau khi phần ngọn đã được cắt và thu gom"
+                },
+                "examples": [
+                    {
+                        "en": "There was a mouse hiding in the stubble.",
+                        "vi": "Có một con chuột trốn trong gốc rạ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the short, stiff hairs that grow on a man’s face when he has not shaved recently",
+                    "vi": "những sợi lông ngắn và cứng mọc trên khuôn mặt của một người đàn ông khi anh ta không cạo râu gần đây"
+                },
+                "examples": [
+                    {
+                        "en": "He had a two-day growth of dark stubble on his chin.",
+                        "vi": "Hai ngày nay anh ta mọc râu sẫm màu trên cằm."
+                    }
+                ]
+            }
+        ]
+    }
+]

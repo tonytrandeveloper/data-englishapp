@@ -1,0 +1,111 @@
+{
+    "id": "fc0115b4d2334a7981d5ada8ffbc6556",
+    "title": "Sentence analysis: exercise",
+    "exercises": [
+        {
+            "id": "9c99ae8d5cd14bf88f4c409d8e48df08",
+            "title": "Relative Clauses Exercise",
+            "questions": [
+                {
+                    "question": "He is a writer ................................... works are widely known.",
+                    "description": "",
+                    "answers": [
+                        "who's",
+                        "whose",
+                        "that"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Bring me the file ............................................ is on the table.",
+                    "description": "",
+                    "answers": [
+                        "which",
+                        "what",
+                        "where"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "People ............................................... live in glass houses must not throw stones.",
+                    "description": "",
+                    "answers": [
+                        "who",
+                        "that",
+                        "which"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Napoleon, ......................................... the French admire, died at St. Helena.",
+                    "description": "",
+                    "answers": [
+                        "who",
+                        "whom",
+                        "that"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "John, ....................................... is my cousin, works abroad.",
+                    "description": "",
+                    "answers": [
+                        "who",
+                        "that",
+                        "whom"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "The boy .............................................. fell off the ladder has hurt his leg.",
+                    "description": "",
+                    "answers": [
+                        "that",
+                        "who",
+                        "Either could be used here"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "Where is the box ............................................ I left here yesterday?",
+                    "description": "",
+                    "answers": [
+                        "that",
+                        "what"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "The woman, ........................................... you were talking to, is my boss.",
+                    "description": "",
+                    "answers": [
+                        "who",
+                        "whom",
+                        "Either could be used here"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "Winston Churchill .......................................... was a great politician and statesman was also a great writer.",
+                    "description": "",
+                    "answers": [
+                        "that",
+                        "which",
+                        "who"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "Mark Twain, .......................................... wrote ‘ The Adventures of Tom Sawyer’, is my favorite writer.",
+                    "description": "",
+                    "answers": [
+                        "that",
+                        "who",
+                        "whom"
+                    ],
+                    "correct": 1
+                }
+            ]
+        }
+    ]
+}

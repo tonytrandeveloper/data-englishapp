@@ -1,0 +1,4735 @@
+[
+    {
+        "id": "30fc225cc5384834a34cf65d0b05cf71",
+        "word": "man",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/mæn/",
+            "us": "/mæn/"
+        },
+        "nearby": [
+            {
+                "word": "mammy-wagon",
+                "pos": "noun"
+            },
+            {
+                "word": "mampara",
+                "pos": "noun"
+            },
+            {
+                "word": "man",
+                "pos": "noun"
+            },
+            {
+                "word": "man",
+                "pos": "verb"
+            },
+            {
+                "word": "man",
+                "pos": "exclamation"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an adult male human",
+                    "vi": "một người đàn ông trưởng thành"
+                },
+                "examples": [
+                    {
+                        "en": "a good-looking young man",
+                        "vi": "một thanh niên đẹp trai"
+                    },
+                    {
+                        "en": "the relationships between men and women",
+                        "vi": "mối quan hệ giữa nam và nữ"
+                    },
+                    {
+                        "en": "the men's team/game/race/doubles/singles/event",
+                        "vi": "đội nam / trò chơi / cuộc đua / đôi / đơn / sự kiện"
+                    },
+                    {
+                        "en": "The board of directors is dominated by middle-aged white men.",
+                        "vi": "Ban giám đốc chủ yếu là những người đàn ông da trắng trung niên."
+                    },
+                    {
+                        "en": "He was one of the great men of history.",
+                        "vi": "Ông là một trong những vĩ nhân của lịch sử."
+                    },
+                    {
+                        "en": "Four armed men burst into the room.",
+                        "vi": "Bốn người đàn ông có vũ trang xông vào phòng."
+                    },
+                    {
+                        "en": "An elderly Indian man sat down beside me and recounted his story.",
+                        "vi": "Một người đàn ông Ấn Độ lớn tuổi ngồi xuống bên cạnh tôi và kể lại câu chuyện của mình."
+                    },
+                    {
+                        "en": "He is an average working man trying to make ends meet.",
+                        "vi": "Anh ấy là một người đàn ông lao động bình thường đang cố gắng kiếm sống qua ngày."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "humans as a group, both male and female",
+                    "vi": "con người như một nhóm, cả nam và nữ"
+                },
+                "examples": [
+                    {
+                        "en": "the damage caused by man to the environment",
+                        "vi": "những thiệt hại do con người gây ra cho môi trường"
+                    },
+                    {
+                        "en": "The common man (= ordinary people) is losing faith in democratic institutions.",
+                        "vi": "Con người bình thường (= những người bình thường) đang mất niềm tin vào các thể chế dân chủ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person, either male or female",
+                    "vi": "một người, nam hay nữ"
+                },
+                "examples": [
+                    {
+                        "en": "All men must die.",
+                        "vi": "Tất cả đàn ông đều phải chết."
+                    },
+                    {
+                        "en": "How could a human torture his fellow man?",
+                        "vi": "Làm thế nào một con người có thể hành hạ đồng loại của mình?"
+                    },
+                    {
+                        "en": "While no man is an island, we do function independently for the most part.",
+                        "vi": "Trong khi không có con người là một hòn đảo, chúng tôi hoạt động độc lập trong hầu hết các phần."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "humans from a particular period of history",
+                    "vi": "con người từ một giai đoạn lịch sử cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "early/modern/Prehistoric man",
+                        "vi": "thời kỳ đầu / hiện đại / người tiền sử"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a man who comes from the place mentioned or whose job or interest is connected with the thing mentioned",
+                    "vi": "một người đàn ông đến từ nơi được đề cập hoặc có công việc hoặc mối quan tâm có liên quan đến điều được đề cập"
+                },
+                "examples": [
+                    {
+                        "en": "a Frenchman",
+                        "vi": "một người Pháp"
+                    },
+                    {
+                        "en": "a sportsman",
+                        "vi": "một vận động viên"
+                    },
+                    {
+                        "en": "a businessman",
+                        "vi": "một doanh nhân"
+                    },
+                    {
+                        "en": "a medical man",
+                        "vi": "một người đàn ông y tế"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a man who likes or who does the thing mentioned",
+                    "vi": "một người đàn ông thích hoặc người làm điều được đề cập"
+                },
+                "examples": [
+                    {
+                        "en": "a betting/fighting/drinking man",
+                        "vi": "một người đàn ông cá cược / đánh nhau / uống rượu"
+                    },
+                    {
+                        "en": "I think he’s a beer man (= he drinks beer).",
+                        "vi": "Tôi nghĩ anh ấy là một người thích uống bia (= anh ấy uống bia)."
+                    },
+                    {
+                        "en": "I've never been a gambling man.",
+                        "vi": "Tôi chưa bao giờ là một người chơi cờ bạc."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a man who works for or supports a particular organization, comes from a particular town, etc.",
+                    "vi": "một người đàn ông làm việc cho hoặc hỗ trợ một tổ chức cụ thể, đến từ một thị trấn cụ thể, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "the BBC’s man in Moscow (= the man who reports on news from Moscow)",
+                        "vi": "người đàn ông của BBC ở Mátxcơva (= người đàn ông đưa tin về tin tức từ Mátxcơva)"
+                    },
+                    {
+                        "en": "a loyal Republican Party man",
+                        "vi": "một người đàn ông trung thành của Đảng Cộng hòa"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a soldier or a male worker who obeys the instructions of a person of higher rank",
+                    "vi": "quân nhân hoặc nam công nhân tuân theo chỉ dẫn của cấp trên"
+                },
+                "examples": [
+                    {
+                        "en": "The officer refused to let his men take part in the operation.",
+                        "vi": "Viên sĩ quan từ chối cho người của mình tham gia vào cuộc hành quân."
+                    },
+                    {
+                        "en": "The conditions in which the men were working were terrible.",
+                        "vi": "Điều kiện làm việc của những người đàn ông đó thật khủng khiếp."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a man who comes to your house to do a job",
+                    "vi": "một người đàn ông đến nhà bạn để làm một công việc"
+                },
+                "examples": [
+                    {
+                        "en": "the gas man",
+                        "vi": "người đàn ông khí"
+                    },
+                    {
+                        "en": "The man's coming to repair the TV today.",
+                        "vi": "Người đàn ông đến sửa TV hôm nay."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used for addressing a male person",
+                    "vi": "dùng để xưng hô với nam giới"
+                },
+                "examples": [
+                    {
+                        "en": "Nice shirt, man!",
+                        "vi": "Áo đẹp quá anh ơi!"
+                    },
+                    {
+                        "en": "Hey man. Back off!",
+                        "vi": "Chào bạn. Rút lui!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used for addressing a male person in an angry or impatient way",
+                    "vi": "được sử dụng để xưng hô với một người nam một cách tức giận hoặc thiếu kiên nhẫn"
+                },
+                "examples": [
+                    {
+                        "en": "Don't just stand there, man—get a doctor!",
+                        "vi": "Đừng chỉ đứng đó, anh bạn - hãy tìm bác sĩ!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person's husband, boyfriend or male partner",
+                    "vi": "chồng, bạn trai hoặc bạn tình nam của một người"
+                },
+                "examples": [
+                    {
+                        "en": "What's her new man like?",
+                        "vi": "Người đàn ông mới của cô ấy như thế nào?"
+                    },
+                    {
+                        "en": "I now pronounce you man and wife (= you are now officially married).",
+                        "vi": "Bây giờ tôi tuyên bố bạn là vợ chồng (= bạn hiện đã chính thức kết hôn)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who is strong and brave or has other qualities that some people think are typically male",
+                    "vi": "một người mạnh mẽ và dũng cảm hoặc có những phẩm chất khác mà một số người thường nghĩ là nam giới"
+                },
+                "examples": [
+                    {
+                        "en": "Come on, now—be a man.",
+                        "vi": "Nào, bây giờ - hãy là một người đàn ông."
+                    },
+                    {
+                        "en": "She's more of a man than he is.",
+                        "vi": "Cô ấy giống một người đàn ông hơn anh ấy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a group or person that is thought to be in authority or control, especially the police or white people in government",
+                    "vi": "một nhóm hoặc người được cho là nắm quyền hoặc kiểm soát, đặc biệt là cảnh sát hoặc người da trắng trong chính phủ"
+                },
+                "examples": [
+                    {
+                        "en": "Activists marched to the police station to voice their displeasure with the Man.",
+                        "vi": "Các nhà hoạt động đã đến đồn cảnh sát để bày tỏ sự bất bình của họ với Người đàn ông."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a male servant",
+                    "vi": "một người hầu nam"
+                },
+                "examples": [
+                    {
+                        "en": "My man will drive you home.",
+                        "vi": "Người của tôi sẽ chở bạn về nhà."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "one of the figures or objects that you play with in a game such as chess",
+                    "vi": "một trong những hình hoặc đồ vật mà bạn chơi cùng trong một trò chơi như cờ vua"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "with everyone doing or thinking the same thing at the same time; in agreement",
+                    "vi": "với tất cả mọi người làm hoặc nghĩ cùng một điều cùng một lúc; trong thỏa thuận"
+                },
+                "examples": [
+                    {
+                        "en": "The crowd rose to their feet as one man.",
+                        "vi": "Đám đông đứng dậy như một người đàn ông."
+                    },
+                    {
+                        "en": "The staff speak as one man on this issue.",
+                        "vi": "Các nhân viên nói chuyện với tư cách một người về vấn đề này."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to please everyone by changing your attitudes or opinions to suit different people",
+                    "vi": "để làm hài lòng tất cả mọi người bằng cách thay đổi thái độ hoặc quan điểm của bạn để phù hợp với những người khác nhau"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be understood or used in different ways by different people",
+                    "vi": "được những người khác nhau hiểu hoặc sử dụng theo những cách khác nhau"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be the best or most suitable person to do a particular job, etc.",
+                    "vi": "trở thành người tốt nhất hoặc phù hợp nhất để làm một công việc cụ thể, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "For a superb haircut, David's your man.",
+                        "vi": "Để có một mái tóc tuyệt vời, David là người đàn ông của bạn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be strong or brave enough",
+                    "vi": "đủ mạnh mẽ hoặc dũng cảm"
+                },
+                "examples": [
+                    {
+                        "en": "He was not man enough to face up to his responsibility.",
+                        "vi": "Anh không đủ đàn ông để đối mặt với trách nhiệm của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to act or think independently, not following others or being ordered",
+                    "vi": "hành động hoặc suy nghĩ độc lập, không tuân theo người khác hoặc bị ra lệnh"
+                },
+                "examples": [
+                    {
+                        "en": "Working for himself meant that he could be his own man.",
+                        "vi": "Làm việc cho bản thân có nghĩa là anh ấy có thể là người đàn ông của chính mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "people must take care of themselves and not give or expect any help",
+                    "vi": "mọi người phải tự chăm sóc bản thân và không được cho hoặc mong đợi bất kỳ sự giúp đỡ nào"
+                },
+                "examples": [
+                    {
+                        "en": "In business, it's every man for himself.",
+                        "vi": "Trong kinh doanh, mỗi người đàn ông hãy vì chính mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a man who is respected in a particular profession that he has been involved in for a long time",
+                    "vi": "một người đàn ông được kính trọng trong một nghề cụ thể mà anh ta đã tham gia trong một thời gian dài"
+                },
+                "examples": [
+                    {
+                        "en": "James Lovelock, the grand old man of environmental science",
+                        "vi": "James Lovelock, ông lớn của khoa học môi trường"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "(not) in exactly the same words as somebody says were used",
+                    "vi": "(không phải) theo đúng những từ như ai đó nói đã được sử dụng"
+                },
+                "examples": [
+                    {
+                        "en": "‘Did she say she was sorry?’ ‘Not in so many words.’",
+                        "vi": "Cô ấy có nói là cô ấy xin lỗi không?' 'Không có nhiều lời như vậy.'"
+                    },
+                    {
+                        "en": "He didn't approve of the plan and said so in as many words.",
+                        "vi": "Anh ta không tán thành kế hoạch và nói nhiều lời như vậy."
+                    },
+                    {
+                        "en": "They told me in so many words that I was no longer needed.",
+                        "vi": "Họ nói với tôi bằng rất nhiều từ mà tôi không còn cần thiết nữa."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "with a lot of force or energy",
+                    "vi": "với rất nhiều lực hoặc năng lượng"
+                },
+                "examples": [
+                    {
+                        "en": "He flew out of the room like a man possessed.",
+                        "vi": "Anh ta bay ra khỏi phòng như một kẻ bị ma nhập."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make a young man develop and become more adult",
+                    "vi": "để làm cho một người đàn ông trẻ tuổi phát triển và trở nên trưởng thành hơn"
+                },
+                "examples": [
+                    {
+                        "en": "They thought the army would make a man of him.",
+                        "vi": "Họ nghĩ rằng quân đội sẽ tạo ra một người đàn ông như anh ta."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a man who frequently goes to fashionable parties, clubs, theatres, etc.",
+                    "vi": "một người đàn ông thường xuyên đến các bữa tiệc thời trang, câu lạc bộ, nhà hát, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "In his new suit, he looked quite the man about town.",
+                        "vi": "Trong bộ đồ mới, anh ấy trông khá giống một người đàn ông của thị trấn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a man/woman who likes the same things or has the same opinions as you",
+                    "vi": "một người đàn ông / phụ nữ thích những thứ giống nhau hoặc có cùng quan điểm với bạn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "from when somebody was young to when they were old or older",
+                    "vi": "từ khi ai đó còn trẻ đến khi họ già hoặc lớn hơn"
+                },
+                "examples": [
+                    {
+                        "en": "He's been doing the same job for 50 years—man and boy.",
+                        "vi": "Anh ấy đã làm công việc tương tự trong 50 năm - một người đàn ông và một cậu bé."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an average or ordinary person, either male or female",
+                    "vi": "một người bình thường hoặc bình thường, nam hoặc nữ"
+                },
+                "examples": [
+                    {
+                        "en": "Politicians often don't understand the views of the man in the street.",
+                        "vi": "Các chính trị gia thường không hiểu quan điểm của người đàn ông trên đường phố."
+                    },
+                    {
+                        "en": "What really matters to the man and woman in the street?",
+                        "vi": "Điều gì thực sự quan trọng đối với người đàn ông và phụ nữ trên đường phố?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a religious man, especially a priest or a clergyman",
+                    "vi": "một người tôn giáo, đặc biệt là một linh mục hoặc một giáo sĩ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a man who is chosen as having given the best performance in a game of football (soccer), cricket, etc.",
+                    "vi": "một người đàn ông được chọn là người có màn trình diễn tốt nhất trong một trò chơi bóng đá (bóng đá), cricket, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "Pogba was named man of the match.",
+                        "vi": "Pogba được mệnh danh là người đàn ông của trận đấu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the man who is the best at a particular point in time",
+                    "vi": "người đàn ông giỏi nhất tại một thời điểm cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "Man of the moment Tom Ford greets the crowd at the end of his show.",
+                        "vi": "Người đàn ông của khoảnh khắc Tom Ford chào đón đám đông vào cuối buổi trình diễn của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person with many skills",
+                    "vi": "một người có nhiều kỹ năng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a man/woman who understands and supports ordinary people",
+                    "vi": "một người đàn ông / phụ nữ hiểu và ủng hộ những người bình thường"
+                },
+                "examples": [
+                    {
+                        "en": "He is not only a statesman, but also a man of the people.",
+                        "vi": "Ông không chỉ là một chính khách, mà còn là một người của nhân dân."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a rich and powerful man or woman",
+                    "vi": "một người đàn ông hoặc phụ nữ giàu có và quyền lực"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person with a lot of experience of life, who is not easily surprised or shocked",
+                    "vi": "một người có nhiều kinh nghiệm sống, không dễ bị bất ngờ hay bị sốc"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a way of describing a dog",
+                    "vi": "một cách mô tả một con chó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person’s home is a place where they can be private and safe and do as they like",
+                    "vi": "nhà của một người là nơi mà họ có thể riêng tư và an toàn và làm theo ý thích của họ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a man who is more popular with men than with women",
+                    "vi": "một người đàn ông nổi tiếng với đàn ông hơn phụ nữ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "between two men who are treating each other honestly and equally",
+                    "vi": "giữa hai người đàn ông đối xử chân thành và bình đẳng với nhau"
+                },
+                "examples": [
+                    {
+                        "en": "I'm telling you all this man to man.",
+                        "vi": "Tôi đang kể cho bạn nghe tất cả người đàn ông này với người đàn ông khác."
+                    },
+                    {
+                        "en": "a man-to-man talk",
+                        "vi": "một cuộc nói chuyện giữa con người với con người"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who is in danger because their enemies want to harm them",
+                    "vi": "một người đang gặp nguy hiểm vì kẻ thù của họ muốn làm hại họ"
+                },
+                "examples": [
+                    {
+                        "en": "He has been a marked man since he decided to cooperate with the police.",
+                        "vi": "Anh ta đã là một người đàn ông thành công kể từ khi anh ta quyết định hợp tác với cảnh sát."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the average person",
+                    "vi": "người bình thường"
+                },
+                "examples": [
+                    {
+                        "en": "I can enjoy a joke as well as the next man, but this is going too far.",
+                        "vi": "Tôi có thể thích một trò đùa cũng như người đàn ông tiếp theo, nhưng điều này đã đi quá xa."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person or thing that is different from others or does not fit easily into a group or set",
+                    "vi": "một người hoặc vật khác với những người khác hoặc không dễ dàng phù hợp với một nhóm hoặc một tập hợp"
+                },
+                "examples": [
+                    {
+                        "en": "At school he was always the odd man out.",
+                        "vi": "Ở trường, anh ấy luôn là một người đàn ông kỳ quặc."
+                    },
+                    {
+                        "en": "Dog, cat, horse, shoe—which is the odd one out?",
+                        "vi": "Con chó, con mèo, con ngựa, chiếc giày — cái nào là kỳ lạ?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to say that different people like different things; what one person likes very much, another person does not like at all",
+                    "vi": "được sử dụng để nói rằng những người khác nhau thích những thứ khác nhau; những gì một người rất thích, một người khác không thích chút nào"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person or thing that is similar to but of a lower quality than a particular famous person or thing",
+                    "vi": "người hoặc vật tương tự nhưng chất lượng thấp hơn người hoặc vật nổi tiếng cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "Sparkling white wine is the poor man's champagne.",
+                        "vi": "Rượu vang trắng sủi bọt là sâm panh của người nghèo."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to show or prove who is brave, skilful, etc. and who is not",
+                    "vi": "để thể hiện hoặc chứng minh ai là người dũng cảm, khéo léo, v.v. và ai không"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used to emphasize that something is true of all the people being described",
+                    "vi": "được sử dụng để nhấn mạnh rằng điều gì đó đúng với tất cả những người được mô tả"
+                },
+                "examples": [
+                    {
+                        "en": "They answered ‘Yes,’ to a man.",
+                        "vi": "Họ trả lời 'Có' với một người đàn ông."
+                    },
+                    {
+                        "en": "They were all destroyed, to the last man.",
+                        "vi": "Tất cả họ đã bị tiêu diệt, cho đến người đàn ông cuối cùng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who is determined or wants something very much will succeed",
+                    "vi": "một người quyết tâm hoặc mong muốn điều gì đó rất nhiều sẽ thành công"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "71b7f3cdd86549bdba0bd87ba4d41b5b",
+        "word": "woman",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˈwʊmən/",
+            "us": "/ˈwʊmən/"
+        },
+        "nearby": [
+            {
+                "word": "wolves",
+                "pos": "noun"
+            },
+            {
+                "word": "WOMAD",
+                "pos": ""
+            },
+            {
+                "word": "woman",
+                "pos": "noun"
+            },
+            {
+                "word": "Woman and Home",
+                "pos": ""
+            },
+            {
+                "word": "womanhood",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an adult female human",
+                    "vi": "một phụ nữ trưởng thành"
+                },
+                "examples": [
+                    {
+                        "en": "a 54-year-old woman",
+                        "vi": "một phụ nữ 54 tuổi"
+                    },
+                    {
+                        "en": "an interesting young woman",
+                        "vi": "một phụ nữ trẻ thú vị"
+                    },
+                    {
+                        "en": "married/single women",
+                        "vi": "phụ nữ đã kết hôn / độc thân"
+                    },
+                    {
+                        "en": "men, women and children",
+                        "vi": "đàn ông, phụ nữ và trẻ em"
+                    },
+                    {
+                        "en": "a women's group/movement",
+                        "vi": "một nhóm / phong trào phụ nữ"
+                    },
+                    {
+                        "en": "I prefer to see a woman doctor.",
+                        "vi": "Tôi thích gặp một bác sĩ phụ nữ hơn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "female humans in general",
+                    "vi": "phụ nữ nói chung"
+                },
+                "examples": [
+                    {
+                        "en": "(informal) She's all woman! (= has qualities that are typical of women)",
+                        "vi": "(thân mật) Cô ấy là tất cả phụ nữ! (= có những phẩm chất đặc trưng của phụ nữ)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a woman who comes from the place mentioned or whose job or interest is connected with the thing mentioned",
+                    "vi": "một người phụ nữ đến từ nơi được đề cập hoặc có công việc hoặc mối quan tâm liên quan đến điều được đề cập"
+                },
+                "examples": [
+                    {
+                        "en": "an Englishwoman",
+                        "vi": "một phụ nữ người Anh"
+                    },
+                    {
+                        "en": "a businesswoman",
+                        "vi": "nữ doanh nhân"
+                    },
+                    {
+                        "en": "a Congresswoman",
+                        "vi": "một nữ dân biểu"
+                    },
+                    {
+                        "en": "a horsewoman",
+                        "vi": "một người chăn ngựa"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a female worker, especially one who works with her hands",
+                    "vi": "một nữ công nhân, đặc biệt là một người làm việc bằng tay"
+                },
+                "examples": [
+                    {
+                        "en": "We used to have a woman to do the cleaning.",
+                        "vi": "Chúng tôi từng có một phụ nữ làm công việc dọn dẹp."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a rude way of addressing a female person, especially when telling her what to do",
+                    "vi": "một cách xưng hô thô lỗ với một phụ nữ, đặc biệt là khi nói với cô ấy phải làm gì"
+                },
+                "examples": [
+                    {
+                        "en": "Be quiet, woman!",
+                        "vi": "Hãy im lặng, phụ nữ!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person's wife, girlfriend or female partner",
+                    "vi": "vợ, bạn gái hoặc đối tác nữ của một người"
+                },
+                "examples": [
+                    {
+                        "en": "He's got a new woman in his life.",
+                        "vi": "Anh ấy có một người phụ nữ mới trong đời."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to act or think independently, not following others or being ordered",
+                    "vi": "hành động hoặc suy nghĩ độc lập, không tuân theo người khác hoặc bị ra lệnh"
+                },
+                "examples": [
+                    {
+                        "en": "Working for herself meant that she could be her own woman.",
+                        "vi": "Làm việc cho bản thân có nghĩa là cô ấy có thể là người phụ nữ của chính mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to refer to somebody, usually a woman, who has reacted very angrily to something, especially the fact that her husband or partner has been unfaithful",
+                    "vi": "được sử dụng để chỉ một người nào đó, thường là phụ nữ, người đã phản ứng rất tức giận với điều gì đó, đặc biệt là việc chồng hoặc bạn đời của cô ấy không chung thủy"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "with a lot of force or energy",
+                    "vi": "với rất nhiều lực hoặc năng lượng"
+                },
+                "examples": [
+                    {
+                        "en": "She flew out of the room like a woman possessed.",
+                        "vi": "Cô bay ra khỏi phòng như một người phụ nữ bị ma nhập."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to marry a woman after having had a sexual relationship with her, especially if she is pregnant",
+                    "vi": "kết hôn với một phụ nữ sau khi có quan hệ tình dục với cô ấy, đặc biệt nếu cô ấy đang mang thai"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a man/woman who likes the same things or has the same opinions as you",
+                    "vi": "một người đàn ông / phụ nữ thích những thứ giống nhau hoặc có cùng quan điểm với bạn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "an average or ordinary person, either male or female",
+                    "vi": "một người bình thường hoặc bình thường, nam hoặc nữ"
+                },
+                "examples": [
+                    {
+                        "en": "Politicians often don't understand the views of the man in the street.",
+                        "vi": "Các chính trị gia thường không hiểu quan điểm của người đàn ông trên đường phố."
+                    },
+                    {
+                        "en": "What really matters to the man and woman in the street?",
+                        "vi": "Điều gì thực sự quan trọng đối với người đàn ông và phụ nữ trên đường phố?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person with many skills",
+                    "vi": "một người có nhiều kỹ năng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a man/woman who understands and supports ordinary people",
+                    "vi": "một người đàn ông / phụ nữ hiểu và ủng hộ những người bình thường"
+                },
+                "examples": [
+                    {
+                        "en": "She wanted to seem like a woman of the people.",
+                        "vi": "Cô ấy muốn mình giống như một người phụ nữ của nhân dân."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a rich and powerful man or woman",
+                    "vi": "một người đàn ông hoặc phụ nữ giàu có và quyền lực"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person with a lot of experience of life, who is not easily surprised or shocked",
+                    "vi": "một người có nhiều kinh nghiệm sống, không dễ bị bất ngờ hay bị sốc"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "57f2aeec56ed430bb7eefdfd9674dcb0",
+        "word": "female",
+        "pos": "adjective",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/ˈfiːmeɪl/",
+            "us": "/ˈfiːmeɪl/"
+        },
+        "nearby": [
+            {
+                "word": "fem",
+                "pos": "adjective"
+            },
+            {
+                "word": "fem",
+                "pos": "noun"
+            },
+            {
+                "word": "female",
+                "pos": "adjective"
+            },
+            {
+                "word": "female",
+                "pos": "noun"
+            },
+            {
+                "word": "femicide",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "being a woman or a girl",
+                    "vi": "là một phụ nữ hay một cô gái"
+                },
+                "examples": [
+                    {
+                        "en": "a female student/employee/artist/athlete",
+                        "vi": "một nữ sinh / nhân viên / nghệ sĩ / vận động viên"
+                    },
+                    {
+                        "en": "She has written brilliant roles for strong female characters.",
+                        "vi": "Cô đã viết nên những vai diễn sáng giá cho những nhân vật nữ mạnh mẽ."
+                    },
+                    {
+                        "en": "a predominantly female audience",
+                        "vi": "khán giả chủ yếu là nữ"
+                    },
+                    {
+                        "en": "Two of the candidates must be female.",
+                        "vi": "Hai trong số các ứng cử viên phải là nữ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "belonging to the sex that can lay eggs or give birth to babies",
+                    "vi": "thuộc giới tính có thể đẻ trứng hoặc đẻ con."
+                },
+                "examples": [
+                    {
+                        "en": "a female cat",
+                        "vi": "một con mèo cái"
+                    },
+                    {
+                        "en": "female reproductive organs",
+                        "vi": "cơ quan sinh sản nữ"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "of women; typical of women; affecting women",
+                    "vi": "của phụ nữ; tiêu biểu về phụ nữ; ảnh hưởng đến phụ nữ"
+                },
+                "examples": [
+                    {
+                        "en": "female characteristics",
+                        "vi": "đặc điểm phụ nữ"
+                    },
+                    {
+                        "en": "the female role",
+                        "vi": "vai nữ"
+                    },
+                    {
+                        "en": "a female preserve (= an activity that only women do)",
+                        "vi": "một nữ bảo tồn (= một hoạt động chỉ có phụ nữ làm)"
+                    },
+                    {
+                        "en": "Weaving was a traditionally female occupation.",
+                        "vi": "Dệt vải là một nghề truyền thống của phụ nữ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "that can produce fruit",
+                    "vi": "điều đó có thể tạo ra trái cây"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "having a hole that another part fits into",
+                    "vi": "có một lỗ mà một bộ phận khác vừa vặn vào"
+                },
+                "examples": [
+                    {
+                        "en": "a female plug",
+                        "vi": "một cái phích cắm nữ"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "85cda8c47a244ed69d57afb98dff4d17",
+        "word": "male",
+        "pos": "adjective",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/meɪl/",
+            "us": "/meɪl/"
+        },
+        "nearby": [
+            {
+                "word": "The Maldives",
+                "pos": ""
+            },
+            {
+                "word": "Maldivian",
+                "pos": "noun, adjective"
+            },
+            {
+                "word": "male",
+                "pos": "adjective"
+            },
+            {
+                "word": "male",
+                "pos": "noun"
+            },
+            {
+                "word": "male bonding",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "being a man or boy",
+                    "vi": "là đàn ông hay con trai"
+                },
+                "examples": [
+                    {
+                        "en": "a male friend/colleague/partner",
+                        "vi": "một người bạn nam / đồng nghiệp / đối tác"
+                    },
+                    {
+                        "en": "a male nurse/model/dancer",
+                        "vi": "một nam y tá / người mẫu / vũ công"
+                    },
+                    {
+                        "en": "All the participants were male, aged between 25 and 30.",
+                        "vi": "Tất cả những người tham gia là nam giới, trong độ tuổi từ 25 đến 30."
+                    },
+                    {
+                        "en": "The workforce is predominantly male.",
+                        "vi": "Lực lượng lao động chủ yếu là nam giới."
+                    },
+                    {
+                        "en": "There are three lead male characters in the film.",
+                        "vi": "Có ba nhân vật nam chính trong phim."
+                    },
+                    {
+                        "en": "Female students asked more questions than their male counterparts.",
+                        "vi": "Học sinh nữ đặt nhiều câu hỏi hơn các học sinh nam."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "belonging to the sex that does not lay eggs or give birth to babies",
+                    "vi": "thuộc giới tính không đẻ trứng, đẻ con."
+                },
+                "examples": [
+                    {
+                        "en": "a male bird",
+                        "vi": "một con chim đực"
+                    },
+                    {
+                        "en": "male hormones/fertility/sexuality",
+                        "vi": "nội tiết tố nam / khả năng sinh sản / tình dục"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "of men; typical of men; affecting men",
+                    "vi": "của đàn ông; điển hình của nam giới; ảnh hưởng đến nam giới"
+                },
+                "examples": [
+                    {
+                        "en": "male attitudes to women",
+                        "vi": "thái độ của nam giới đối với phụ nữ"
+                    },
+                    {
+                        "en": "traditionally male interests",
+                        "vi": "sở thích truyền thống của nam giới"
+                    },
+                    {
+                        "en": "The club is an exclusively male preserve.",
+                        "vi": "Câu lạc bộ là một bảo tồn nam độc quyền."
+                    },
+                    {
+                        "en": "(British English) a male voice choir",
+                        "vi": "(Anh Anh) một dàn hợp xướng giọng nam"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "producing pollen",
+                    "vi": "sản xuất phấn hoa"
+                },
+                "examples": [
+                    {
+                        "en": "Live oaks produce male flowers called catkins.",
+                        "vi": "Cây sồi sống tạo ra hoa đực gọi là hoa bí."
+                    },
+                    {
+                        "en": "Pollen has not been investigated, as male flowers were not available.",
+                        "vi": "Không có phấn hoa vì không có hoa đực."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "having a part that sticks out that is designed to fit into a hole, socket, etc.",
+                    "vi": "có một bộ phận nhô ra được thiết kế để lắp vào lỗ, ổ cắm, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "male connectors/adapters",
+                        "vi": "đầu nối / bộ điều hợp nam"
+                    },
+                    {
+                        "en": "A male connector and a female connector plug into each other.",
+                        "vi": "Một đầu nối đực và một đầu nối cái cắm vào nhau."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "be014d01a7bb4357aedf661670a43fdd",
+        "word": "gay",
+        "pos": "adjective",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ɡeɪ/",
+            "us": "/ɡeɪ/"
+        },
+        "nearby": [
+            {
+                "word": "gawky",
+                "pos": "adjective"
+            },
+            {
+                "word": "gawp",
+                "pos": "verb"
+            },
+            {
+                "word": "gay",
+                "pos": "adjective"
+            },
+            {
+                "word": "John Gay",
+                "pos": ""
+            },
+            {
+                "word": "gay",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "sexually attracted to people of the same sex",
+                    "vi": "bị thu hút tình dục bởi những người cùng giới tính"
+                },
+                "examples": [
+                    {
+                        "en": "gay men",
+                        "vi": "đồng tính nam"
+                    },
+                    {
+                        "en": "I didn't know he was gay.",
+                        "vi": "Tôi không biết anh ấy là người đồng tính."
+                    },
+                    {
+                        "en": "Is she gay?",
+                        "vi": "Cô ấy có phải là người đồng tính không?"
+                    },
+                    {
+                        "en": "He is openly gay.",
+                        "vi": "Anh ấy công khai là người đồng tính."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "connected with people who are gay",
+                    "vi": "kết nối với những người đồng tính"
+                },
+                "examples": [
+                    {
+                        "en": "a gay club/bar",
+                        "vi": "một câu lạc bộ / quán bar đồng tính nam"
+                    },
+                    {
+                        "en": "the lesbian and gay community",
+                        "vi": "cộng đồng đồng tính nữ và đồng tính nam"
+                    },
+                    {
+                        "en": "the gay and lesbian section in the bookstore",
+                        "vi": "phần đồng tính nam và đồng tính nữ trong hiệu sách"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "(used especially by young people) an offensive way to describe something you find boring, stupid or not attractive",
+                    "vi": "(được giới trẻ đặc biệt sử dụng) một cách xúc phạm để mô tả điều gì đó mà bạn thấy nhàm chán, ngu ngốc hoặc không hấp dẫn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "happy and full of fun",
+                    "vi": "hạnh phúc và tràn đầy niềm vui"
+                },
+                "examples": [
+                    {
+                        "en": "gay laughter",
+                        "vi": "tiếng cười đồng tính"
+                    },
+                    {
+                        "en": "She felt lighthearted and gay.",
+                        "vi": "Cô cảm thấy lâng lâng và đồng tính."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "brightly coloured",
+                    "vi": "Màu sắc tươi sáng"
+                },
+                "examples": [
+                    {
+                        "en": "The garden was gay with red geraniums.",
+                        "vi": "Khu vườn gay gắt với những cây phong lữ thảo đỏ rực."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "without thinking about the results or effects of a particular action",
+                    "vi": "mà không cần suy nghĩ về kết quả hoặc tác động của một hành động cụ thể"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "5c09a15ccc304afaba8d1476c4293b75",
+        "word": "gender",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈdʒendə(r)/",
+            "us": "/ˈdʒendər/"
+        },
+        "nearby": [
+            {
+                "word": "Gen.",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "gendarme",
+                "pos": "noun"
+            },
+            {
+                "word": "gender",
+                "pos": "noun"
+            },
+            {
+                "word": "gender bender",
+                "pos": "noun"
+            },
+            {
+                "word": "gender binary",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the fact of being male or female, especially when considered with reference to social and cultural differences, rather than differences in biology; members of a particular gender as a group",
+                    "vi": "thực tế là nam hay nữ, đặc biệt khi được xem xét liên quan đến sự khác biệt xã hội và văn hóa, hơn là sự khác biệt về sinh học; thành viên của một giới tính cụ thể với tư cách là một nhóm"
+                },
+                "examples": [
+                    {
+                        "en": "issues of class, race and gender",
+                        "vi": "các vấn đề về giai cấp, chủng tộc và giới tính"
+                    },
+                    {
+                        "en": "traditional concepts of gender",
+                        "vi": "khái niệm truyền thống về giới tính"
+                    },
+                    {
+                        "en": "Levels of physical activity did not differ between genders.",
+                        "vi": "Mức độ hoạt động thể chất không khác nhau giữa các giới tính."
+                    },
+                    {
+                        "en": "The film has something for people of all ages, genders and backgrounds.",
+                        "vi": "Bộ phim có một cái gì đó dành cho mọi người ở mọi lứa tuổi, giới tính và hoàn cảnh."
+                    },
+                    {
+                        "en": "gender differences/relations/roles/equality",
+                        "vi": "khác biệt giới / quan hệ / vai trò / bình đẳng"
+                    },
+                    {
+                        "en": "She examines the interplay between changing gender divisions and urban change.",
+                        "vi": "Cô xem xét tác động qua lại giữa việc thay đổi phân chia giới tính và thay đổi thành thị."
+                    },
+                    {
+                        "en": "The government is working on tackling gender inequalities in employment.",
+                        "vi": "Chính phủ đang nỗ lực giải quyết tình trạng bất bình đẳng giới trong việc làm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "each of the classes (masculine, feminine and sometimes neuter) into which nouns, pronouns and adjectives are divided; the division of nouns, pronouns and adjectives into these different genders. Different genders may have different endings, etc.",
+                    "vi": "mỗi lớp (nam tính, nữ tính và đôi khi là tân ngữ) mà danh từ, đại từ và tính từ được chia thành; sự phân chia danh từ, đại từ và tính từ thành các giới tính khác nhau này. Các giới tính khác nhau có thể có kết thúc khác nhau, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "In French the adjective must agree with the noun in number and gender.",
+                        "vi": "Trong tiếng Pháp, tính từ phải đồng nhất với danh từ về số lượng và giới tính."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ba516bceb3444a0eba32de768d775f69",
+        "word": "bisexual",
+        "pos": "adjective",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌbaɪˈsekʃuəl/",
+            "us": "/ˌbaɪˈsekʃuəl/"
+        },
+        "nearby": [
+            {
+                "word": "biscuit barrel",
+                "pos": "noun"
+            },
+            {
+                "word": "bisect",
+                "pos": "verb"
+            },
+            {
+                "word": "bisexual",
+                "pos": "adjective"
+            },
+            {
+                "word": "bisexual",
+                "pos": "noun"
+            },
+            {
+                "word": "bisexuality",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "sexually attracted to people of more than one gender",
+                    "vi": "bị thu hút tình dục bởi những người thuộc nhiều giới tính"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "having both male and female sexual organs",
+                    "vi": "có cả cơ quan sinh dục nam và nữ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "911419d130e34d89aae471b0a5c7a9be",
+        "word": "bisexual",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌbaɪˈsekʃuəl/",
+            "us": "/ˌbaɪˈsekʃuəl/"
+        },
+        "nearby": [
+            {
+                "word": "bisect",
+                "pos": "verb"
+            },
+            {
+                "word": "bisexual",
+                "pos": "adjective"
+            },
+            {
+                "word": "bisexual",
+                "pos": "noun"
+            },
+            {
+                "word": "bisexuality",
+                "pos": "noun"
+            },
+            {
+                "word": "bishop",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who is bisexual",
+                    "vi": "một người song tính"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "7bf0c17c742c451483e9702762f49f8d",
+        "word": "feminine",
+        "pos": "adjective",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈfemənɪn/",
+            "us": "/ˈfemənɪn/"
+        },
+        "nearby": [
+            {
+                "word": "femicide",
+                "pos": "noun"
+            },
+            {
+                "word": "feminazi",
+                "pos": "noun"
+            },
+            {
+                "word": "feminine",
+                "pos": "adjective"
+            },
+            {
+                "word": "feminine",
+                "pos": "noun"
+            },
+            {
+                "word": "feminine rhyme",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "having the qualities or appearance considered to be typical of women; connected with women",
+                    "vi": "có phẩm chất hoặc ngoại hình được coi là tiêu biểu của phụ nữ; kết nối với phụ nữ"
+                },
+                "examples": [
+                    {
+                        "en": "I feel very feminine when I wear a dress.",
+                        "vi": "Tôi cảm thấy rất nữ tính khi tôi mặc một chiếc váy."
+                    },
+                    {
+                        "en": "He had delicate, almost feminine, features.",
+                        "vi": "Anh ta có những nét thanh tú, gần như nữ tính."
+                    },
+                    {
+                        "en": "the traditional feminine role",
+                        "vi": "vai trò nữ tính truyền thống"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "belonging to a class of words that refer to female people or animals and often have a special form",
+                    "vi": "thuộc lớp từ chỉ người hoặc động vật giống cái và thường có dạng đặc biệt"
+                },
+                "examples": [
+                    {
+                        "en": "Some people prefer not to use the feminine form ‘actress’ and use the word ‘actor’ for both sexes.",
+                        "vi": "Một số người không thích sử dụng hình thức nữ tính là 'diễn viên' và sử dụng từ 'diễn viên' cho cả hai giới."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "belonging to a class of nouns, pronouns or adjectives that have feminine gender, not masculine or neuter",
+                    "vi": "thuộc về một lớp danh từ, đại từ hoặc tính từ có giới tính giống cái, không phải giống đực hoặc giống cái"
+                },
+                "examples": [
+                    {
+                        "en": "The French word for ‘table’ is feminine.",
+                        "vi": "Từ tiếng Pháp cho 'cái bàn' là giống cái."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "b5af8cfbadcb43c7a22806b27c06c094",
+        "word": "gay",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ɡeɪ/",
+            "us": "/ɡeɪ/"
+        },
+        "nearby": [
+            {
+                "word": "gay",
+                "pos": "adjective"
+            },
+            {
+                "word": "John Gay",
+                "pos": ""
+            },
+            {
+                "word": "gay",
+                "pos": "noun"
+            },
+            {
+                "word": "gaydar",
+                "pos": "noun"
+            },
+            {
+                "word": "Marvin Gaye",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who is gay, especially a man",
+                    "vi": "một người đồng tính nam, đặc biệt là một người đàn ông"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "e60a0cc2f5a644ae91157745744ea474",
+        "word": "gender gap",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈdʒendə ɡæp/",
+            "us": "/ˈdʒendər ɡæp/"
+        },
+        "nearby": [
+            {
+                "word": "gender expression",
+                "pos": "noun"
+            },
+            {
+                "word": "gender-fluid",
+                "pos": "adjective"
+            },
+            {
+                "word": "gender gap",
+                "pos": "noun"
+            },
+            {
+                "word": "gender identity",
+                "pos": "noun"
+            },
+            {
+                "word": "genderless",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a difference that separates men and women, in terms of attitudes, opportunities and status",
+                    "vi": "sự khác biệt giữa nam và nữ, về thái độ, cơ hội và địa vị"
+                },
+                "examples": [
+                    {
+                        "en": "Women have closed the gender gap in education in recent years.",
+                        "vi": "Phụ nữ đã thu hẹp khoảng cách giới trong giáo dục trong những năm gần đây."
+                    },
+                    {
+                        "en": "Progress on equal pay has slowed and the gender gap has widened again.",
+                        "vi": "Tiến bộ về trả lương bình đẳng đã chậm lại và khoảng cách giới lại gia tăng."
+                    },
+                    {
+                        "en": "Motivational factors may widen or narrow the gender gap in students' academic performance.",
+                        "vi": "Các yếu tố thúc đẩy có thể mở rộng hoặc thu hẹp khoảng cách giới trong kết quả học tập của học sinh."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "62c746ac60164982a3466bd53aeeb17e",
+        "word": "gender identity",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈdʒendər aɪdentəti/",
+            "us": "/ˈdʒendər aɪdentəti/"
+        },
+        "nearby": [
+            {
+                "word": "gender-fluid",
+                "pos": "adjective"
+            },
+            {
+                "word": "gender gap",
+                "pos": "noun"
+            },
+            {
+                "word": "gender identity",
+                "pos": "noun"
+            },
+            {
+                "word": "genderless",
+                "pos": "adjective"
+            },
+            {
+                "word": "gender-neutral",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the way somebody considers their own gender (= whether they are male, female, etc.), which may be different from the sex they were said to have at birth",
+                    "vi": "cách ai đó xem xét giới tính của chính họ (= cho dù họ là nam, nữ, v.v.), có thể khác với giới tính mà họ được cho là có lúc sinh"
+                },
+                "examples": [
+                    {
+                        "en": "Different influences may help shape a child's gender identity.",
+                        "vi": "Những ảnh hưởng khác nhau có thể giúp hình thành bản dạng giới của trẻ."
+                    },
+                    {
+                        "en": "There were calls to ban discrimination based on gender identity.",
+                        "vi": "Đã có những lời kêu gọi cấm phân biệt đối xử dựa trên bản dạng giới."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "b600305013c34450bf6a2f10e2963b61",
+        "word": "genderless",
+        "pos": "adjective",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈdʒendələs/",
+            "us": "/ˈdʒendərləs/"
+        },
+        "nearby": [
+            {
+                "word": "gender gap",
+                "pos": "noun"
+            },
+            {
+                "word": "gender identity",
+                "pos": "noun"
+            },
+            {
+                "word": "genderless",
+                "pos": "adjective"
+            },
+            {
+                "word": "gender-neutral",
+                "pos": "adjective"
+            },
+            {
+                "word": "genderqueer",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "not having, not suggesting or not identifying as (= considering yourself to have) a particular gender",
+                    "vi": "không có, không gợi ý hoặc không xác định là (= coi bạn có) một giới tính cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "The couple adopted the genderless pronouns of s/he and he/r.",
+                        "vi": "Cặp đôi đã thông qua các đại từ không giới tính là s / he và he / r."
+                    },
+                    {
+                        "en": "genderless clothes/fashion",
+                        "vi": "quần áo / thời trang phi giới tính"
+                    },
+                    {
+                        "en": "This character is genderless and can swap between male and female appearances by changing costumes.",
+                        "vi": "Nhân vật này không phân biệt giới tính và có thể hoán đổi ngoại hình giữa nam và nữ bằng cách thay đổi trang phục."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f0c01628687d4250943cac72c827472f",
+        "word": "gender-neutral",
+        "pos": "adjective",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌdʒendə ˈnjuːtrəl/",
+            "us": "/ˌdʒendər ˈnuːtrəl/"
+        },
+        "nearby": [
+            {
+                "word": "gender identity",
+                "pos": "noun"
+            },
+            {
+                "word": "genderless",
+                "pos": "adjective"
+            },
+            {
+                "word": "gender-neutral",
+                "pos": "adjective"
+            },
+            {
+                "word": "genderqueer",
+                "pos": "adjective"
+            },
+            {
+                "word": "gender reassignment",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "suitable for or shared by people of both sexes; not making a difference between men and women",
+                    "vi": "phù hợp với hoặc được chia sẻ bởi những người của cả hai giới; không tạo ra sự khác biệt giữa nam và nữ"
+                },
+                "examples": [
+                    {
+                        "en": "gender-neutral toys/washrooms",
+                        "vi": "phòng vệ sinh / đồ chơi phân biệt giới tính"
+                    },
+                    {
+                        "en": "She argued that the law should always be gender-neutral.",
+                        "vi": "Cô lập luận rằng luật pháp phải luôn phân biệt giới tính."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "that does not refer specifically to men or women, and so can be understood to include both sexes",
+                    "vi": "không đề cập cụ thể đến nam giới hoặc phụ nữ, và do đó có thể được hiểu là bao gồm cả hai giới"
+                },
+                "examples": [
+                    {
+                        "en": "‘They’ may be used as a gender-neutral pronoun instead of ‘he’ or ‘she’.",
+                        "vi": "Họ' có thể được sử dụng như một đại từ trung tính thay vì 'anh ấy' hoặc 'cô ấy'."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2380f462fa2d4752b92a66b37799accb",
+        "word": "gender-specific",
+        "pos": "adjective",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌdʒendə spəˈsɪfɪk/",
+            "us": "/ˌdʒendər spəˈsɪfɪk/"
+        },
+        "nearby": [
+            {
+                "word": "gender reassignment",
+                "pos": "noun"
+            },
+            {
+                "word": "gender reveal",
+                "pos": "noun"
+            },
+            {
+                "word": "gender-specific",
+                "pos": "adjective"
+            },
+            {
+                "word": "gender studies",
+                "pos": "noun"
+            },
+            {
+                "word": "gene",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "connected with women only or with men only",
+                    "vi": "chỉ kết nối với phụ nữ hoặc chỉ với nam giới"
+                },
+                "examples": [
+                    {
+                        "en": "The report was redrafted to remove gender-specific language.",
+                        "vi": "Báo cáo đã được soạn thảo lại để loại bỏ ngôn ngữ dành riêng cho giới tính."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a8d2de9044604127ba41424e1fa58567",
+        "word": "heterosexual",
+        "pos": "adjective",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌhetərəˈsekʃuəl/",
+            "us": "/ˌhetərəˈsekʃuəl/"
+        },
+        "nearby": [
+            {
+                "word": "heterogeneous",
+                "pos": "adjective"
+            },
+            {
+                "word": "heteronym",
+                "pos": "noun"
+            },
+            {
+                "word": "heterosexual",
+                "pos": "adjective"
+            },
+            {
+                "word": "heterosexual",
+                "pos": "noun"
+            },
+            {
+                "word": "heterosexuality",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "sexually attracted to people of the opposite sex; showing this",
+                    "vi": "bị hấp dẫn tình dục bởi những người khác giới; hiển thị cái này"
+                },
+                "examples": [
+                    {
+                        "en": "a heterosexual relationship",
+                        "vi": "một mối quan hệ khác giới"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "680682c213e14be89b5beea71f85f346",
+        "word": "homosexual",
+        "pos": "adjective",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌhəʊməˈsekʃuəl/",
+            "us": "/ˌhəʊməˈsekʃuəl/"
+        },
+        "nearby": [
+            {
+                "word": "homophonous",
+                "pos": "adjective"
+            },
+            {
+                "word": "Homo sapiens",
+                "pos": "noun"
+            },
+            {
+                "word": "homosexual",
+                "pos": "adjective"
+            },
+            {
+                "word": "homosexual",
+                "pos": "noun"
+            },
+            {
+                "word": "homosexuality",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "sexually attracted to people of the same sex; showing this",
+                    "vi": "bị hấp dẫn tình dục bởi những người cùng giới tính; hiển thị cái này"
+                },
+                "examples": [
+                    {
+                        "en": "a homosexual act/relationship",
+                        "vi": "một hành động / quan hệ đồng tính"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "28b32ba0ce994cf49a5d988c853cd784",
+        "word": "homosexual",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌhəʊməˈsekʃuəl/",
+            "us": "/ˌhəʊməˈsekʃuəl/"
+        },
+        "nearby": [
+            {
+                "word": "Homo sapiens",
+                "pos": "noun"
+            },
+            {
+                "word": "homosexual",
+                "pos": "adjective"
+            },
+            {
+                "word": "homosexual",
+                "pos": "noun"
+            },
+            {
+                "word": "homosexuality",
+                "pos": "noun"
+            },
+            {
+                "word": "homozygote",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person, usually a man, who is sexually attracted to people of the same sex",
+                    "vi": "một người, thường là đàn ông, bị thu hút tình dục bởi những người cùng giới tính"
+                },
+                "examples": [
+                    {
+                        "en": "He came out as a homosexual after his mother died.",
+                        "vi": "Anh ta trở thành một người đồng tính luyến ái sau khi mẹ anh ta qua đời."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "09985a957ade4dc5aefb0f4ce03db05f",
+        "word": "lesbian",
+        "pos": "adjective",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈlezbiən/",
+            "us": "/ˈlezbiən/"
+        },
+        "nearby": [
+            {
+                "word": "Lerwick",
+                "pos": ""
+            },
+            {
+                "word": "Les",
+                "pos": ""
+            },
+            {
+                "word": "lesbian",
+                "pos": "adjective"
+            },
+            {
+                "word": "lesbian",
+                "pos": "noun"
+            },
+            {
+                "word": "lesbianism",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "sexually attracted to other women; connected with lesbians",
+                    "vi": "bị thu hút tình dục bởi những phụ nữ khác; kết nối với đồng tính nữ"
+                },
+                "examples": [
+                    {
+                        "en": "the lesbian and gay community",
+                        "vi": "cộng đồng đồng tính nữ và đồng tính nam"
+                    },
+                    {
+                        "en": "a lesbian relationship/couple",
+                        "vi": "một mối quan hệ đồng tính nữ / cặp đôi"
+                    },
+                    {
+                        "en": "a lesbian wedding",
+                        "vi": "một đám cưới đồng tính nữ"
+                    },
+                    {
+                        "en": "The singer has become a lesbian icon.",
+                        "vi": "Nữ ca sĩ đã trở thành một biểu tượng đồng tính nữ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c3ba6c51e60b4372be80fbb21cb38fdc",
+        "word": "lesbian",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈlezbiən/",
+            "us": "/ˈlezbiən/"
+        },
+        "nearby": [
+            {
+                "word": "Les",
+                "pos": ""
+            },
+            {
+                "word": "lesbian",
+                "pos": "adjective"
+            },
+            {
+                "word": "lesbian",
+                "pos": "noun"
+            },
+            {
+                "word": "lesbianism",
+                "pos": "noun"
+            },
+            {
+                "word": "lese-majesty",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a woman who is sexually attracted to other women",
+                    "vi": "một người phụ nữ bị hấp dẫn bởi những người phụ nữ khác"
+                },
+                "examples": [
+                    {
+                        "en": "lesbians and gays",
+                        "vi": "đồng tính nữ và đồng tính"
+                    },
+                    {
+                        "en": "She is a lesbian married to her partner, Anne.",
+                        "vi": "Cô ấy là một người đồng tính nữ đã kết hôn với bạn đời của mình, Anne."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "81db283262a845dabfd69ca47239779c",
+        "word": "LGBT",
+        "pos": "abbreviation",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌel dʒiː biː ˈtiː/",
+            "us": "/ˌel dʒiː biː ˈtiː/"
+        },
+        "nearby": [
+            {
+                "word": "Leyland cypress",
+                "pos": "noun"
+            },
+            {
+                "word": "lezzy",
+                "pos": "noun, adjective"
+            },
+            {
+                "word": "LGBT",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "LGBTI",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "LGBTQ",
+                "pos": "abbreviation"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "lesbian, gay, bisexual and transgender",
+                    "vi": "đồng tính nữ, đồng tính nam, song tính và chuyển giới"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "cc2d7e694a404875864e4a570c270675",
+        "word": "LGBTQ",
+        "pos": "abbreviation",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌel dʒiː ˌbiː tiː ˈkjuː/",
+            "us": "/ˌel dʒiː ˌbiː tiː ˈkjuː/"
+        },
+        "nearby": [
+            {
+                "word": "LGBT",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "LGBTI",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "LGBTQ",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "LGBTQI",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "LGBTQIA",
+                "pos": "abbreviation"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "lesbian, gay, bisexual, transgender and queer (or questioning)",
+                    "vi": "đồng tính nữ, đồng tính nam, song tính, chuyển giới và đồng tính (hoặc nghi vấn)"
+                },
+                "examples": [
+                    {
+                        "en": "the LGBTQ community",
+                        "vi": "cộng đồng LGBTQ"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ca4017831d3141bf80b24c668ac6f6d5",
+        "word": "masculine",
+        "pos": "adjective",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈmæskjəlɪn/",
+            "us": "/ˈmæskjəlɪn/"
+        },
+        "nearby": [
+            {
+                "word": "mascarpone",
+                "pos": "noun"
+            },
+            {
+                "word": "mascot",
+                "pos": "noun"
+            },
+            {
+                "word": "masculine",
+                "pos": "adjective"
+            },
+            {
+                "word": "masculine",
+                "pos": "noun"
+            },
+            {
+                "word": "masculine rhyme",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "having the qualities or appearance considered to be typical of men; connected with or like men",
+                    "vi": "có phẩm chất hoặc ngoại hình được coi là điển hình của nam giới; kết nối với hoặc thích đàn ông"
+                },
+                "examples": [
+                    {
+                        "en": "He was handsome and strong, and very masculine.",
+                        "vi": "Anh ấy đẹp trai, mạnh mẽ và rất nam tính."
+                    },
+                    {
+                        "en": "I feel quite masculine in this suit.",
+                        "vi": "Tôi cảm thấy khá nam tính trong bộ đồ này."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "belonging to a class of words that refer to male people or animals and often have a special form",
+                    "vi": "thuộc lớp từ chỉ người hoặc động vật giống đực và thường có dạng đặc biệt."
+                },
+                "examples": [
+                    {
+                        "en": "‘He’ and ‘him’ are masculine pronouns.",
+                        "vi": "Anh ấy' và 'anh ấy' là đại từ nam tính."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "belonging to a class of nouns, pronouns or adjectives that have masculine gender, not feminine or neuter",
+                    "vi": "thuộc về một lớp danh từ, đại từ hoặc tính từ có giới tính nam tính, không thuộc giống tính hoặc nữ tính"
+                },
+                "examples": [
+                    {
+                        "en": "The French word for ‘sun’ is masculine.",
+                        "vi": "Từ tiếng Pháp có nghĩa là 'mặt trời' là nam tính."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8a216f834a9b439482e9022d37f4dd64",
+        "word": "preferred pronoun",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/prɪˌfɜːd ˈprəʊnaʊn/",
+            "us": "/prɪˌfɜːrd ˈprəʊnaʊn/"
+        },
+        "nearby": [
+            {
+                "word": "preferentially",
+                "pos": "adverb"
+            },
+            {
+                "word": "preferment",
+                "pos": "noun"
+            },
+            {
+                "word": "preferred pronoun",
+                "pos": "noun"
+            },
+            {
+                "word": "preferred provider organization",
+                "pos": "noun"
+            },
+            {
+                "word": "prefigure",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the pronoun that a person prefers to be used when they are referred to, in order to indicate their gender identity",
+                    "vi": "đại từ mà một người thích được sử dụng khi họ được nhắc đến, để chỉ ra bản dạng giới của họ"
+                },
+                "examples": [
+                    {
+                        "en": "Ashley's preferred pronouns are ‘they’ and ‘them’.",
+                        "vi": "Đại từ ưa thích của Ashley là 'chúng' và 'chúng'."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "39cfa00d4a9c438c85620b707ea1a8dd",
+        "word": "sexuality",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌsekʃuˈæləti/",
+            "us": "/ˌsekʃuˈæləti/"
+        },
+        "nearby": [
+            {
+                "word": "sexual harassment",
+                "pos": "noun"
+            },
+            {
+                "word": "sexual intercourse",
+                "pos": "noun"
+            },
+            {
+                "word": "sexuality",
+                "pos": "noun"
+            },
+            {
+                "word": "sexualization",
+                "pos": "noun"
+            },
+            {
+                "word": "sexualize",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the feelings and activities connected with a person’s sexual desires",
+                    "vi": "cảm xúc và hoạt động liên quan đến ham muốn tình dục của một người"
+                },
+                "examples": [
+                    {
+                        "en": "He was confused about his sexuality.",
+                        "vi": "Anh bối rối về tình dục của mình."
+                    },
+                    {
+                        "en": "male/female sexuality",
+                        "vi": "tình dục nam / nữ"
+                    },
+                    {
+                        "en": "the psychology of human sexuality",
+                        "vi": "tâm lý của tình dục con người"
+                    },
+                    {
+                        "en": "Her overt sexuality shocked cinema audiences.",
+                        "vi": "Giới tính công khai của cô đã khiến khán giả điện ảnh bị sốc."
+                    },
+                    {
+                        "en": "Victorian women were rarely allowed to express their sexuality.",
+                        "vi": "Phụ nữ thời Victoria hiếm khi được phép thể hiện tình dục của họ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7f652e5fb308404bafb7417732ea0766",
+        "word": "straight",
+        "pos": "adjective",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/streɪt/",
+            "us": "/streɪt/"
+        },
+        "nearby": [
+            {
+                "word": "straggly",
+                "pos": "adjective"
+            },
+            {
+                "word": "straight",
+                "pos": "adverb"
+            },
+            {
+                "word": "straight",
+                "pos": "adjective"
+            },
+            {
+                "word": "straight",
+                "pos": "noun"
+            },
+            {
+                "word": "straight angle",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "without a bend or curve; going in one direction only",
+                    "vi": "không có một khúc quanh hoặc đường cong; chỉ đi theo một hướng"
+                },
+                "examples": [
+                    {
+                        "en": "a straight road",
+                        "vi": "một con đường thẳng"
+                    },
+                    {
+                        "en": "long, straight hair (= not curly)",
+                        "vi": "tóc dài, thẳng (= không xoăn)"
+                    },
+                    {
+                        "en": "a boat sailing in a straight line",
+                        "vi": "một con thuyền chèo thuyền trên một đường thẳng"
+                    },
+                    {
+                        "en": "straight-backed chairs",
+                        "vi": "ghế tựa thẳng"
+                    },
+                    {
+                        "en": "Keep the car straight when you're backing out.",
+                        "vi": "Giữ xe thẳng khi bạn đang lùi xe."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "positioned in the correct way; level, vertical or parallel to something",
+                    "vi": "được định vị theo cách chính xác; cấp độ, thẳng đứng hoặc song song với một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "Is my tie straight?",
+                        "vi": "Cà vạt của tôi có thẳng không?"
+                    },
+                    {
+                        "en": "He stepped back to make sure that the picture was straight.",
+                        "vi": "Anh lùi lại để đảm bảo rằng bức tranh được thẳng hàng."
+                    },
+                    {
+                        "en": "Her teeth were white and perfectly straight.",
+                        "vi": "Hàm răng của cô trắng và đều tăm tắp."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "not fitting close to the body and not curving away from the body",
+                    "vi": "không ôm sát cơ thể và không cong ra khỏi cơ thể"
+                },
+                "examples": [
+                    {
+                        "en": "a straight skirt",
+                        "vi": "váy liền"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "going directly to the correct place",
+                    "vi": "đi thẳng đến địa điểm chính xác"
+                },
+                "examples": [
+                    {
+                        "en": "a straight punch to the face",
+                        "vi": "một cú đấm thẳng vào mặt"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "clean and neat, with everything in the correct place",
+                    "vi": "sạch sẽ và gọn gàng, với mọi thứ ở đúng vị trí"
+                },
+                "examples": [
+                    {
+                        "en": "It took hours to get the house straight.",
+                        "vi": "Phải mất hàng giờ đồng hồ mới đưa được ngôi nhà vào thẳng."
+                    },
+                    {
+                        "en": "I'm trying to get the house straight before the weekend.",
+                        "vi": "Tôi đang cố gắng nhận nhà ngay trước cuối tuần."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "honest and direct",
+                    "vi": "trung thực và trực tiếp"
+                },
+                "examples": [
+                    {
+                        "en": "I expect a straight answer to a straight question.",
+                        "vi": "Tôi mong đợi một câu trả lời thẳng thắn cho một câu hỏi thẳng."
+                    },
+                    {
+                        "en": "straight with somebody I don't think you're being straight with me.",
+                        "vi": "thẳng thắn với ai đó Tôi không nghĩ rằng bạn đang thẳng thắn với tôi."
+                    },
+                    {
+                        "en": "It's time for some straight talking.",
+                        "vi": "Đã đến lúc nói chuyện thẳng thắn."
+                    },
+                    {
+                        "en": "You can trust Ben—he’s (as) straight as a die (= completely honest).",
+                        "vi": "Bạn có thể tin tưởng Ben — anh ấy (như) thẳng như một con chết (= hoàn toàn trung thực)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "simple; involving only two clear choices",
+                    "vi": "giản dị; chỉ liên quan đến hai lựa chọn rõ ràng"
+                },
+                "examples": [
+                    {
+                        "en": "It was a straight choice between taking the job and staying out of work.",
+                        "vi": "Đó là một sự lựa chọn thẳng thắn giữa việc làm và nghỉ việc."
+                    },
+                    {
+                        "en": "(British English) The election was a straight fight between the two main parties.",
+                        "vi": "(Tiếng Anh Anh) Cuộc bầu cử là một cuộc chiến thẳng thắn giữa hai đảng chính."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "not connected with comedy or musical theatre, but with serious theatre",
+                    "vi": "không kết nối với hài kịch hoặc sân khấu âm nhạc, nhưng với rạp hát nghiêm túc"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "one after another in a series that is not interrupted",
+                    "vi": "cái này đến cái khác trong một chuỗi không bị gián đoạn"
+                },
+                "examples": [
+                    {
+                        "en": "The team has had five straight wins.",
+                        "vi": "Đội đã có năm trận thắng liên tiếp."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "not mixed with water or anything else",
+                    "vi": "không trộn với nước hoặc bất cứ thứ gì khác"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "you can use straight to describe a person who is normal and ordinary, but who you consider boring",
+                    "vi": "bạn có thể sử dụng thẳng để mô tả một người bình thường và bình thường, nhưng người bạn cho là nhàm chán"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "heterosexual",
+                    "vi": "dị tính"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to make a situation clear; to make sure that you or somebody else understands the situation",
+                    "vi": "để làm cho một tình huống rõ ràng; để đảm bảo rằng bạn hoặc ai đó khác hiểu được tình hình"
+                },
+                "examples": [
+                    {
+                        "en": "Let's get this straight—you really had no idea where he was?",
+                        "vi": "Hãy nói thẳng điều này - bạn thực sự không biết anh ta ở đâu?"
+                    },
+                    {
+                        "en": "Let's get this absolutely straight.",
+                        "vi": "Hãy làm cho điều này hoàn toàn thẳng thắn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to give people the correct information about something in order to make it clear that what they previously believed was in fact wrong",
+                    "vi": "cung cấp cho mọi người thông tin chính xác về điều gì đó để làm rõ rằng những gì họ tin tưởng trước đây trên thực tế là sai"
+                },
+                "examples": [
+                    {
+                        "en": "To put the record straight, I do not support that idea and never have done.",
+                        "vi": "Nói thẳng ra, tôi không ủng hộ ý kiến đó và chưa bao giờ thực hiện."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to correct somebody’s mistake; to make sure that somebody knows the correct facts when they have had the wrong idea or impression",
+                    "vi": "để sửa chữa sai lầm của ai đó; để đảm bảo rằng ai đó biết sự thật chính xác khi họ có ý tưởng hoặc ấn tượng sai"
+                },
+                "examples": [
+                    {
+                        "en": "She soon set me straight about what had happened.",
+                        "vi": "Cô ấy sớm nói thẳng với tôi về những gì đã xảy ra."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "with a very straight back and looking serious and formal",
+                    "vi": "với một cái lưng rất thẳng và trông nghiêm túc và trang trọng"
+                },
+                "examples": [
+                    {
+                        "en": "Her back was ramrod straight.",
+                        "vi": "Lưng cô thẳng tắp."
+                    },
+                    {
+                        "en": "He stood there straight as a ramrod.",
+                        "vi": "Anh ta đứng thẳng ở đó như một con cừu đực."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the honest and morally acceptable way of living",
+                    "vi": "cách sống trung thực và được chấp nhận về mặt đạo đức"
+                },
+                "examples": [
+                    {
+                        "en": "His friends try to keep him on the straight and narrow.",
+                        "vi": "Bạn bè của anh ấy cố gắng giữ anh ấy trên đường thẳng và hẹp."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if you keep a straight face, you do not laugh or smile, although you find something funny",
+                    "vi": "nếu bạn giữ một khuôn mặt thẳng thắn, bạn không cười hoặc không cười, mặc dù bạn thấy điều gì đó buồn cười"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "(to get) the best grades in all your classes",
+                    "vi": "(để có được) điểm tốt nhất trong tất cả các lớp học của bạn"
+                },
+                "examples": [
+                    {
+                        "en": "a straight A student",
+                        "vi": "một học sinh thẳng thắn"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "840d86fc38924e2f91114a3b7764742a",
+        "word": "trans",
+        "pos": "adjective",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/trænz/",
+            "us": "/trænz/"
+        },
+        "nearby": [
+            {
+                "word": "tranquillizer",
+                "pos": "noun"
+            },
+            {
+                "word": "tranquilly",
+                "pos": "adverb"
+            },
+            {
+                "word": "trans",
+                "pos": "adjective"
+            },
+            {
+                "word": "trans-",
+                "pos": "prefix"
+            },
+            {
+                "word": "transact",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "having a gender identity that does not match the sex a person was said to have at birth",
+                    "vi": "có bản dạng giới không phù hợp với giới tính mà một người được cho là có khi sinh"
+                },
+                "examples": [
+                    {
+                        "en": "They campaign for rights for lesbian, gay, bi and trans people.",
+                        "vi": "Họ vận động cho quyền cho người đồng tính nữ, đồng tính nam, bi và chuyển giới."
+                    },
+                    {
+                        "en": "The cast included trans actors.",
+                        "vi": "Dàn diễn viên bao gồm các diễn viên chuyển giới."
+                    },
+                    {
+                        "en": "He is a trans man who writes a magazine column.",
+                        "vi": "Anh ấy là một người chuyển giới chuyên viết một chuyên mục tạp chí."
+                    },
+                    {
+                        "en": "She told her parents she was trans.",
+                        "vi": "Cô ấy nói với cha mẹ cô ấy rằng cô ấy đã chuyển giới."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "701a8443a00f44af8d31c535f291c730",
+        "word": "transgender",
+        "pos": "adjective",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/trænzˈdʒendə(r)/",
+            "us": "/trænzˈdʒendər/"
+        },
+        "nearby": [
+            {
+                "word": "transfuse",
+                "pos": "verb"
+            },
+            {
+                "word": "transfusion",
+                "pos": "noun"
+            },
+            {
+                "word": "transgender",
+                "pos": "adjective"
+            },
+            {
+                "word": "transgendered",
+                "pos": "adjective"
+            },
+            {
+                "word": "transgenic",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "describing or relating to people whose gender identity does not match the sex they were said to have at birth",
+                    "vi": "mô tả hoặc liên quan đến những người có bản dạng giới không phù hợp với giới tính mà họ được cho là có khi sinh"
+                },
+                "examples": [
+                    {
+                        "en": "Sam identifies as a transgender man.",
+                        "vi": "Sam xác định là một người đàn ông chuyển giới."
+                    },
+                    {
+                        "en": "transgender issues",
+                        "vi": "vấn đề chuyển giới"
+                    },
+                    {
+                        "en": "gays, lesbians, bisexuals and transgender people",
+                        "vi": "đồng tính nam, đồng tính nữ, song tính và chuyển giới"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "83464ddc51f2489e9da8af5d007e9429",
+        "word": "allyship",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈælaɪʃɪp/",
+            "us": "/ˈælaɪʃɪp/"
+        },
+        "nearby": [
+            {
+                "word": "Ally McBeal",
+                "pos": ""
+            },
+            {
+                "word": "Ally Pally",
+                "pos": ""
+            },
+            {
+                "word": "allyship",
+                "pos": "noun"
+            },
+            {
+                "word": "alma mater",
+                "pos": "noun"
+            },
+            {
+                "word": "almanac",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the state of being an ally (= a person who helps and supports somebody) to a particular group of people that you yourself do not belong to, in order to help ensure their basic rights and ability to be happy and successful in society",
+                    "vi": "trạng thái trở thành đồng minh (= một người giúp đỡ và hỗ trợ ai đó) cho một nhóm người cụ thể mà bản thân bạn không thuộc về, để giúp đảm bảo các quyền cơ bản và khả năng của họ để được hạnh phúc và thành công trong xã hội"
+                },
+                "examples": [
+                    {
+                        "en": "Activism and allyship with the LGBTQI community are important steps towards changing attitudes.",
+                        "vi": "Chủ nghĩa tích cực và đồng minh với cộng đồng LGBTQI là những bước quan trọng để thay đổi thái độ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8c42733163b848da9d8172e970b9965c",
+        "word": "binary",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbaɪnəri/",
+            "us": "/ˈbaɪnəri/"
+        },
+        "nearby": [
+            {
+                "word": "bin",
+                "pos": "noun"
+            },
+            {
+                "word": "bin",
+                "pos": "verb"
+            },
+            {
+                "word": "binary",
+                "pos": "noun"
+            },
+            {
+                "word": "binary",
+                "pos": "adjective"
+            },
+            {
+                "word": "bin bag",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a system of numbers that uses only 0 and 1",
+                    "vi": "một hệ thống các số chỉ sử dụng 0 và 1"
+                },
+                "examples": [
+                    {
+                        "en": "The computer performs calculations in binary and converts the results to decimal.",
+                        "vi": "Máy tính thực hiện các phép tính ở dạng nhị phân và chuyển đổi kết quả thành số thập phân."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a way of looking at something that divides it into just two different categories",
+                    "vi": "một cách nhìn thứ gì đó chia nó thành hai loại khác nhau"
+                },
+                "examples": [
+                    {
+                        "en": "They argue that it is important to go beyond the binaries of male and female, gay and straight.",
+                        "vi": "Họ cho rằng điều quan trọng là phải vượt ra khỏi sự phân biệt nam nữ, đồng tính và thẳng thắn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "72abb0eefbb84f289ef30fcd143f6033",
+        "word": "cis",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/sɪs/",
+            "us": "/sɪs/"
+        },
+        "nearby": [
+            {
+                "word": "cirrostratus",
+                "pos": "noun"
+            },
+            {
+                "word": "cirrus",
+                "pos": "noun"
+            },
+            {
+                "word": "cis",
+                "pos": "adjective"
+            },
+            {
+                "word": "CIS",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "cisgender",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "describing or connected with people whose sense of personal identity and gender is the same as their birth sex",
+                    "vi": "mô tả hoặc kết nối với những người có ý thức về bản dạng cá nhân và giới tính giống như giới tính khi sinh của họ"
+                },
+                "examples": [
+                    {
+                        "en": "Most of the people who have appeared on the show have been cis men.",
+                        "vi": "Hầu hết những người xuất hiện trong chương trình đều là nam giới."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "cba420a596214c01809ae9094dbd3986",
+        "word": "cisgender",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌsɪsˈdʒendə(r)/",
+            "us": "/ˌsɪsˈdʒendər/"
+        },
+        "nearby": [
+            {
+                "word": "cis",
+                "pos": "adjective"
+            },
+            {
+                "word": "CIS",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "cisgender",
+                "pos": "adjective"
+            },
+            {
+                "word": "cissy",
+                "pos": "noun"
+            },
+            {
+                "word": "cissy",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "describing or connected with people whose sense of personal identity and gender is the same as their birth sex",
+                    "vi": "mô tả hoặc kết nối với những người có ý thức về bản dạng cá nhân và giới tính giống như giới tính khi sinh của họ"
+                },
+                "examples": [
+                    {
+                        "en": "Many ask whether cisgender actors like Redmayne and Fanning should be playing trans characters.",
+                        "vi": "Nhiều người đặt câu hỏi liệu các diễn viên chuyển giới như Redmayne và Fanning có nên đóng nhân vật chuyển giới hay không."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "fa7cc5dab62044008062b1ebc8d881d6",
+        "word": "come out",
+        "pos": "phrasal verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "",
+            "us": ""
+        },
+        "nearby": [
+            {
+                "word": "come-on",
+                "pos": "noun"
+            },
+            {
+                "word": "come on to",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "come out",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "come out at",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "come out in",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "when the sun, moon or stars come out, they appear",
+                    "vi": "khi mặt trời, mặt trăng hoặc các ngôi sao xuất hiện, chúng xuất hiện"
+                },
+                "examples": [
+                    {
+                        "en": "The rain stopped and the sun came out.",
+                        "vi": "Mưa tạnh và nắng tắt."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to open",
+                    "vi": "mở"
+                },
+                "examples": [
+                    {
+                        "en": "The daffodils came out early this year.",
+                        "vi": "Hoa thủy tiên năm nay ra hoa sớm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be produced or published",
+                    "vi": "được sản xuất hoặc xuất bản"
+                },
+                "examples": [
+                    {
+                        "en": "When is her new novel coming out?",
+                        "vi": "Khi nào thì cuốn tiểu thuyết mới của cô ấy sẽ ra mắt?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to become known",
+                    "vi": "được biết đến"
+                },
+                "examples": [
+                    {
+                        "en": "The full story came out at the trial.",
+                        "vi": "Toàn bộ câu chuyện được đưa ra tại phiên tòa."
+                    },
+                    {
+                        "en": "it comes out that… It came out that he'd been telling lies.",
+                        "vi": "nó cho ra rằng ... Nó cho thấy rằng anh ta đã nói dối."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be shown clearly",
+                    "vi": "được hiển thị rõ ràng"
+                },
+                "examples": [
+                    {
+                        "en": "Her best qualities come out in a crisis.",
+                        "vi": "Những phẩm chất tốt nhất của cô ấy bộc lộ trong một cuộc khủng hoảng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "when words come out, they are spoken",
+                    "vi": "khi từ ngữ phát ra, chúng được nói ra"
+                },
+                "examples": [
+                    {
+                        "en": "I tried to say ‘I love you,’ but the words wouldn't come out.",
+                        "vi": "Tôi đã cố gắng nói 'Tôi yêu bạn,' nhưng từ đó không thể thốt ra."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to say publicly whether you agree or disagree with something",
+                    "vi": "để nói công khai cho dù bạn đồng ý hay không đồng ý với điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "He came out against the plan.",
+                        "vi": "Anh ấy đã đi ra ngoài kế hoạch."
+                    },
+                    {
+                        "en": "In her speech, the senator came out in favour of a change in the law.",
+                        "vi": "Trong bài phát biểu của mình, thượng nghị sĩ đã ủng hộ việc thay đổi luật."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to tell other people that you are gay",
+                    "vi": "nói với người khác rằng bạn là người đồng tính"
+                },
+                "examples": [
+                    {
+                        "en": "My best friend came out when she was 18.",
+                        "vi": "Cô bạn thân nhất của tôi ra mắt năm 18 tuổi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to stop work and go on strike",
+                    "vi": "ngừng công việc và đình công"
+                },
+                "examples": [
+                    {
+                        "en": "On 10 August the railway workers came out on strike.",
+                        "vi": "Ngày 10 tháng 8, công nhân đường sắt đình công."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if a photograph taken on film comes out, it is a clear picture when it is developed and printed",
+                    "vi": "nếu một bức ảnh chụp trên phim xuất hiện, đó là một bức ảnh rõ nét khi nó được phát triển và in"
+                },
+                "examples": [
+                    {
+                        "en": "In the 1950s photographs often didn't come out at all.",
+                        "vi": "Vào những năm 1950, các bức ảnh thường không xuất hiện chút nào."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be formally introduced into society",
+                    "vi": "được chính thức giới thiệu vào xã hội"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be removed from a place where it is fixed",
+                    "vi": "được loại bỏ khỏi một nơi mà nó được cố định"
+                },
+                "examples": [
+                    {
+                        "en": "This nail won't come out.",
+                        "vi": "Móng tay này sẽ không ra ngoài."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be removed from something by washing or cleaning",
+                    "vi": "được loại bỏ khỏi một cái gì đó bằng cách rửa hoặc làm sạch"
+                },
+                "examples": [
+                    {
+                        "en": "These ink stains won't come out of my dress.",
+                        "vi": "Những vết mực này sẽ không ra khỏi váy của tôi."
+                    },
+                    {
+                        "en": "Will the colour come out (= become faint or disappear) if I wash it?",
+                        "vi": "Màu có bị bay ra (= mờ đi hoặc biến mất) nếu tôi rửa không?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2a54200079734bc7a49c476212afd7fa",
+        "word": "cross-dresser",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌkrɒs ˈdresə(r)/",
+            "us": "/ˌkrɔːs ˈdresər/"
+        },
+        "nearby": [
+            {
+                "word": "cross-curricular",
+                "pos": "adjective"
+            },
+            {
+                "word": "cross-disciplinary",
+                "pos": "adjective"
+            },
+            {
+                "word": "cross-dresser",
+                "pos": "noun"
+            },
+            {
+                "word": "cross-dressing",
+                "pos": "noun"
+            },
+            {
+                "word": "crosse",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who often wears clothes usually worn by people of the opposite sex",
+                    "vi": "một người thường mặc quần áo thường mặc của người khác giới"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "a139b055f2d341d098b23031b7096867",
+        "word": "cross-dressing",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌkrɒs ˈdresɪŋ/",
+            "us": "/ˌkrɔːs ˈdresɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "cross-disciplinary",
+                "pos": "adjective"
+            },
+            {
+                "word": "cross-dresser",
+                "pos": "noun"
+            },
+            {
+                "word": "cross-dressing",
+                "pos": "noun"
+            },
+            {
+                "word": "crosse",
+                "pos": "noun"
+            },
+            {
+                "word": "Crosse & Blackwell",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the practice of wearing clothes usually worn by a person of the opposite sex",
+                    "vi": "thói quen mặc quần áo thường mặc của người khác giới"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "b717df1dc1724450960521567346eef1",
+        "word": "femininity",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌfeməˈnɪnəti/",
+            "us": "/ˌfeməˈnɪnəti/"
+        },
+        "nearby": [
+            {
+                "word": "feminine",
+                "pos": "noun"
+            },
+            {
+                "word": "feminine rhyme",
+                "pos": "noun"
+            },
+            {
+                "word": "femininity",
+                "pos": "noun"
+            },
+            {
+                "word": "feminism",
+                "pos": "noun"
+            },
+            {
+                "word": "feminist",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the fact of being a woman; the qualities that are considered to be typical of women",
+                    "vi": "thực tế là một người phụ nữ; những phẩm chất được coi là tiêu biểu của phụ nữ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "ccff8d393a104a5a905639b64eb8e0c8",
+        "word": "gender binary",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌdʒendə ˈbaɪnəri/",
+            "us": "/ˌdʒendər ˈbaɪnəri/"
+        },
+        "nearby": [
+            {
+                "word": "gender",
+                "pos": "noun"
+            },
+            {
+                "word": "gender bender",
+                "pos": "noun"
+            },
+            {
+                "word": "gender binary",
+                "pos": "noun"
+            },
+            {
+                "word": "gender dysphoria",
+                "pos": "noun"
+            },
+            {
+                "word": "gendered",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a way of considering people's gender in which all people are considered to be either male or female",
+                    "vi": "một cách xem xét giới tính của mọi người, trong đó tất cả mọi người được coi là nam hoặc nữ"
+                },
+                "examples": [
+                    {
+                        "en": "There has been an increase in the number of people who identify outside of the gender binary.",
+                        "vi": "Đã có sự gia tăng số lượng những người xác định bên ngoài giới tính nhị phân."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "b9282664d1eb4dc882551b6a3c5b2f76",
+        "word": "gendered",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈdʒendəd/",
+            "us": "/ˈdʒendərd/"
+        },
+        "nearby": [
+            {
+                "word": "gender binary",
+                "pos": "noun"
+            },
+            {
+                "word": "gender dysphoria",
+                "pos": "noun"
+            },
+            {
+                "word": "gendered",
+                "pos": "adjective"
+            },
+            {
+                "word": "gender expression",
+                "pos": "noun"
+            },
+            {
+                "word": "gender-fluid",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "specific to people of one particular gender (= for male or female only)",
+                    "vi": "dành riêng cho những người thuộc một giới tính cụ thể (= chỉ dành cho nam hoặc nữ)"
+                },
+                "examples": [
+                    {
+                        "en": "All these toy colour schemes remain gendered: pink for girls, blue for boys.",
+                        "vi": "Tất cả các phối màu đồ chơi này vẫn được giữ nguyên giới tính: màu hồng cho bé gái, màu xanh cho bé trai."
+                    },
+                    {
+                        "en": "Major retailers were pressured into removing gendered labelling of clothes in their stores.",
+                        "vi": "Các nhà bán lẻ lớn đã bị áp lực buộc phải xóa nhãn giới tính quần áo trong cửa hàng của họ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "455de9e6331a4a0396db5f8a339b3cb3",
+        "word": "gender expression",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈdʒendər ɪkspreʃn/",
+            "us": "/ˈdʒendər ɪkspreʃn/"
+        },
+        "nearby": [
+            {
+                "word": "gender dysphoria",
+                "pos": "noun"
+            },
+            {
+                "word": "gendered",
+                "pos": "adjective"
+            },
+            {
+                "word": "gender expression",
+                "pos": "noun"
+            },
+            {
+                "word": "gender-fluid",
+                "pos": "adjective"
+            },
+            {
+                "word": "gender gap",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the way in which a person shows their gender identity, usually through their appearance, clothing and behaviour",
+                    "vi": "cách một người thể hiện bản dạng giới của họ, thường thông qua ngoại hình, quần áo và hành vi của họ"
+                },
+                "examples": [
+                    {
+                        "en": "people whose gender expression or sexuality doesn't fit norms",
+                        "vi": "những người có biểu hiện giới tính hoặc tình dục không phù hợp với các chuẩn mực"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "dc4f8d33a8da460da5b75bfc37f3b39a",
+        "word": "gender-fluid",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌdʒendə ˈfluːɪd/",
+            "us": "/ˌdʒendər ˈfluːɪd/"
+        },
+        "nearby": [
+            {
+                "word": "gendered",
+                "pos": "adjective"
+            },
+            {
+                "word": "gender expression",
+                "pos": "noun"
+            },
+            {
+                "word": "gender-fluid",
+                "pos": "adjective"
+            },
+            {
+                "word": "gender gap",
+                "pos": "noun"
+            },
+            {
+                "word": "gender identity",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "having or showing a gender identity that is not fixed and changes over time",
+                    "vi": "có hoặc thể hiện bản dạng giới không cố định và thay đổi theo thời gian"
+                },
+                "examples": [
+                    {
+                        "en": "trans, non-binary and gender-fluid teens",
+                        "vi": "thanh thiếu niên chuyển đổi, phi nhị phân và thay đổi giới tính"
+                    },
+                    {
+                        "en": "gender-fluid clothing/fashion",
+                        "vi": "quần áo / thời trang đa dạng về giới tính"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "139449acb9fa4261b9fa50b918547ee0",
+        "word": "genderqueer",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈdʒendəkwɪə(r)/",
+            "us": "/ˈdʒendərkwɪr/"
+        },
+        "nearby": [
+            {
+                "word": "genderless",
+                "pos": "adjective"
+            },
+            {
+                "word": "gender-neutral",
+                "pos": "adjective"
+            },
+            {
+                "word": "genderqueer",
+                "pos": "adjective"
+            },
+            {
+                "word": "gender reassignment",
+                "pos": "noun"
+            },
+            {
+                "word": "gender reveal",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "choosing not to be identified as either male or female, but instead choosing to be neither, both or partly male and partly female",
+                    "vi": "chọn không được xác định là nam hay nữ, thay vào đó chọn không phải là cả hai hoặc một phần nam và một phần nữ"
+                },
+                "examples": [
+                    {
+                        "en": "The singer identifies as genderqueer.",
+                        "vi": "Nữ ca sĩ xác định là người theo giới tính."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "275e8fb226d544c2b8c16b965cf19be5",
+        "word": "heterosexual",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌhetərəˈsekʃuəl/",
+            "us": "/ˌhetərəˈsekʃuəl/"
+        },
+        "nearby": [
+            {
+                "word": "heteronym",
+                "pos": "noun"
+            },
+            {
+                "word": "heterosexual",
+                "pos": "adjective"
+            },
+            {
+                "word": "heterosexual",
+                "pos": "noun"
+            },
+            {
+                "word": "heterosexuality",
+                "pos": "noun"
+            },
+            {
+                "word": "heterotroph",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who is sexually attracted to people of the opposite sex",
+                    "vi": "một người bị thu hút tình dục bởi những người khác giới"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "3fda37782e344b359ef851b0f21b576d",
+        "word": "homosexuality",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌhəʊməˌsekʃuˈæləti/",
+            "us": "/ˌhəʊməˌsekʃuˈæləti/"
+        },
+        "nearby": [
+            {
+                "word": "homosexual",
+                "pos": "adjective"
+            },
+            {
+                "word": "homosexual",
+                "pos": "noun"
+            },
+            {
+                "word": "homosexuality",
+                "pos": "noun"
+            },
+            {
+                "word": "homozygote",
+                "pos": "noun"
+            },
+            {
+                "word": "homozygous",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the state of being sexually attracted to people of the same sex",
+                    "vi": "trạng thái bị thu hút tình dục bởi những người cùng giới tính"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "c1b1a39841e54e5d94eefcbb277b0e79",
+        "word": "incel",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈɪnsel/",
+            "us": "/ˈɪnsel/"
+        },
+        "nearby": [
+            {
+                "word": "incautious",
+                "pos": "adjective"
+            },
+            {
+                "word": "incautiously",
+                "pos": "adverb"
+            },
+            {
+                "word": "incel",
+                "pos": "noun"
+            },
+            {
+                "word": "incendiary",
+                "pos": "adjective"
+            },
+            {
+                "word": "incendiary",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a member of an online community of mostly young men who do not feel that they are attractive to women and who often have negative views of women",
+                    "vi": "một thành viên của cộng đồng trực tuyến chủ yếu là nam giới trẻ tuổi, những người không cảm thấy rằng họ hấp dẫn phụ nữ và thường có quan điểm tiêu cực về phụ nữ"
+                },
+                "examples": [
+                    {
+                        "en": "Incels often use the internet to find anonymous support.",
+                        "vi": "Incels thường sử dụng internet để tìm hỗ trợ ẩn danh."
+                    },
+                    {
+                        "en": "The incel movement has been linked to a number of violent incidents.",
+                        "vi": "Phong trào incel có liên quan đến một số vụ bạo lực."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "dfc1fe0bf1b64cb3b9d5774f87efde8e",
+        "word": "intersex",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈɪntəseks/",
+            "us": "/ˈɪntərseks/"
+        },
+        "nearby": [
+            {
+                "word": "intersectional",
+                "pos": "adjective"
+            },
+            {
+                "word": "intersectionality",
+                "pos": "noun"
+            },
+            {
+                "word": "intersex",
+                "pos": "adjective"
+            },
+            {
+                "word": "intersex",
+                "pos": "noun"
+            },
+            {
+                "word": "intersperse",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "describing or relating to a person or animal that has both male and female sex organs or other sexual characteristics",
+                    "vi": "mô tả hoặc liên quan đến một người hoặc động vật có cả bộ phận sinh dục nam và nữ hoặc các đặc điểm sinh dục khác"
+                },
+                "examples": [
+                    {
+                        "en": "an intersex child",
+                        "vi": "một đứa trẻ liên giới tính"
+                    },
+                    {
+                        "en": "to be born with intersex traits",
+                        "vi": "được sinh ra với các đặc điểm xen kẽ"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3880baf0f98c4845ba1232e0d6916c3f",
+        "word": "Latinx",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/læˈtiːneks/",
+            "us": "/læˈtiːneks/"
+        },
+        "nearby": [
+            {
+                "word": "Latino",
+                "pos": "adjective"
+            },
+            {
+                "word": "Latino",
+                "pos": "noun"
+            },
+            {
+                "word": "Latinx",
+                "pos": "noun"
+            },
+            {
+                "word": "Latinx",
+                "pos": "adjective"
+            },
+            {
+                "word": "latitude",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person, especially one who is living in the US, who comes from Latin America, or whose family came from there (used as a gender-neutral alternative to Latino or Latina)",
+                    "vi": "một người, đặc biệt là một người đang sống ở Hoa Kỳ, người đến từ Châu Mỹ Latinh hoặc gia đình của họ đến từ đó (được sử dụng như một sự thay thế phân biệt giới tính cho người Latinh hoặc Latina)"
+                },
+                "examples": [
+                    {
+                        "en": "As a candidate, he has appeal for Latinxs of all ages and backgrounds.",
+                        "vi": "Với tư cách là một ứng cử viên, anh ấy có sức hấp dẫn đối với những người Latin ở mọi lứa tuổi và thành phần."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "418f41cd037942b5b979fdd2a3e9d9e7",
+        "word": "Latinx",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/læˈtiːneks/",
+            "us": "/læˈtiːneks/"
+        },
+        "nearby": [
+            {
+                "word": "Latino",
+                "pos": "noun"
+            },
+            {
+                "word": "Latinx",
+                "pos": "noun"
+            },
+            {
+                "word": "Latinx",
+                "pos": "adjective"
+            },
+            {
+                "word": "latitude",
+                "pos": "noun"
+            },
+            {
+                "word": "latrine",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "describing or connected with a Latinx or Latinxs",
+                    "vi": "mô tả hoặc kết nối với Latinx hoặc Latinxs"
+                },
+                "examples": [
+                    {
+                        "en": "The company met its diversity targets for female, black and Latinx employees.",
+                        "vi": "Công ty đã đáp ứng các mục tiêu đa dạng cho nhân viên nữ, da đen và Latinx."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "49880bce09264214b5621eb06cba2be9",
+        "word": "lesbianism",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈlezbiənɪzəm/",
+            "us": "/ˈlezbiənɪzəm/"
+        },
+        "nearby": [
+            {
+                "word": "lesbian",
+                "pos": "adjective"
+            },
+            {
+                "word": "lesbian",
+                "pos": "noun"
+            },
+            {
+                "word": "lesbianism",
+                "pos": "noun"
+            },
+            {
+                "word": "lese-majesty",
+                "pos": "noun"
+            },
+            {
+                "word": "lesion",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the fact of being a lesbian",
+                    "vi": "thực tế là một người đồng tính nữ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "775ac05229024eb893afb96bb6392950",
+        "word": "LGBTI",
+        "pos": "abbreviation",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌel dʒiː ˌbiː tiː ˈaɪ/",
+            "us": "/ˌel dʒiː ˌbiː tiː ˈaɪ/"
+        },
+        "nearby": [
+            {
+                "word": "lezzy",
+                "pos": "noun, adjective"
+            },
+            {
+                "word": "LGBT",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "LGBTI",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "LGBTQ",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "LGBTQI",
+                "pos": "abbreviation"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "lesbian, gay, bisexual, transgender and intersex",
+                    "vi": "đồng tính nữ, đồng tính nam, song tính, chuyển giới và khác giới"
+                },
+                "examples": [
+                    {
+                        "en": "LGBTI rights",
+                        "vi": "Quyền LGBTI"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "02356a2272fb4e809ffd3095da02ada8",
+        "word": "LGBTQI",
+        "pos": "abbreviation",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌel dʒiː ˌbiː tiː ˌkjuː ˈaɪ/",
+            "us": "/ˌel dʒiː ˌbiː tiː ˌkjuː ˈaɪ/"
+        },
+        "nearby": [
+            {
+                "word": "LGBTI",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "LGBTQ",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "LGBTQI",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "LGBTQIA",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "l.h.",
+                "pos": "abbreviation"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "lesbian, gay, bisexual, transgender, queer (or questioning) and intersex",
+                    "vi": "đồng tính nữ, đồng tính nam, song tính, chuyển giới, đồng tính luyến ái (hoặc nghi vấn) và chuyển giới"
+                },
+                "examples": [
+                    {
+                        "en": "the LGBTQI community",
+                        "vi": "cộng đồng LGBTQI"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7d46d0c9c4cd4de28a2842feb2681a83",
+        "word": "LGBTQIA",
+        "pos": "abbreviation",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌel dʒiː ˌbiː tiː ˌkjuː aɪ ˈeɪ/",
+            "us": "/ˌel dʒiː ˌbiː tiː ˌkjuː aɪ ˈeɪ/"
+        },
+        "nearby": [
+            {
+                "word": "LGBTQ",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "LGBTQI",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "LGBTQIA",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "l.h.",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "liability",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "lesbian, gay, bisexual, transgender, queer (or questioning), intersex and asexual (or allies)",
+                    "vi": "đồng tính nữ, đồng tính nam, song tính, chuyển giới, đồng tính (hoặc nghi vấn), khác giới và vô tính (hoặc đồng minh)"
+                },
+                "examples": [
+                    {
+                        "en": "LGBTQIA people",
+                        "vi": "Người LGBTQIA"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3b5fd02592044bc0816ad4370a5a88db",
+        "word": "masculinity",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌmæskjəˈlɪnəti/",
+            "us": "/ˌmæskjəˈlɪnəti/"
+        },
+        "nearby": [
+            {
+                "word": "masculine",
+                "pos": "noun"
+            },
+            {
+                "word": "masculine rhyme",
+                "pos": "noun"
+            },
+            {
+                "word": "masculinity",
+                "pos": "noun"
+            },
+            {
+                "word": "masculinize",
+                "pos": "verb"
+            },
+            {
+                "word": "John Masefield",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the fact of being a man; the qualities that are considered to be typical of men",
+                    "vi": "thực tế là một người đàn ông; những phẩm chất được coi là điển hình của đàn ông"
+                },
+                "examples": [
+                    {
+                        "en": "He felt it was a threat to his masculinity.",
+                        "vi": "Anh cảm thấy đó là một mối đe dọa đối với nam tính của mình."
+                    },
+                    {
+                        "en": "It’s a cliché to say that science is associated with masculinity and the arts with femininity.",
+                        "vi": "Thật là sáo rỗng khi nói rằng khoa học gắn liền với nam tính và nghệ thuật với nữ tính."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a1a9b9153f40405cb8a5a39adfa11757",
+        "word": "microaggression",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈmaɪkrəʊəɡreʃn/",
+            "us": "/ˈmaɪkrəʊəɡreʃn/"
+        },
+        "nearby": [
+            {
+                "word": "Micky",
+                "pos": ""
+            },
+            {
+                "word": "micro-",
+                "pos": "combining form"
+            },
+            {
+                "word": "microaggression",
+                "pos": "noun"
+            },
+            {
+                "word": "microbe",
+                "pos": "noun"
+            },
+            {
+                "word": "microbeads",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an act or a remark that discriminates against one or more members of a minority group, either deliberately or by mistake; these kinds of remarks and behaviour",
+                    "vi": "một hành động hoặc một nhận xét phân biệt đối xử chống lại một hoặc nhiều thành viên của một nhóm thiểu số, do cố ý hoặc do nhầm lẫn; những loại nhận xét và hành vi"
+                },
+                "examples": [
+                    {
+                        "en": "Research has shown that microaggressions and unconscious bias have a negative impact on mental health.",
+                        "vi": "Nghiên cứu đã chỉ ra rằng vi phạm và thiên vị vô thức có tác động tiêu cực đến sức khỏe tâm thần."
+                    },
+                    {
+                        "en": "Examples of microaggression include making assumptions about people's abilities and preferences based on their race or gender.",
+                        "vi": "Ví dụ về vi phạm bao gồm việc đưa ra các giả định về khả năng và sở thích của mọi người dựa trên chủng tộc hoặc giới tính của họ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "383b7a9e9dac40f597c45135f24c2916",
+        "word": "misgender",
+        "pos": "verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌmɪsˈdʒendə(r)/",
+            "us": "/ˌmɪsˈdʒendər/"
+        },
+        "nearby": [
+            {
+                "word": "misfit",
+                "pos": "noun"
+            },
+            {
+                "word": "misfortune",
+                "pos": "noun"
+            },
+            {
+                "word": "misgender",
+                "pos": "verb"
+            },
+            {
+                "word": "misgiving",
+                "pos": "noun"
+            },
+            {
+                "word": "misgovern",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to refer to somebody in a way that does not represent the gender that they identify as",
+                    "vi": "để chỉ ai đó theo cách không đại diện cho giới tính mà họ xác định là"
+                },
+                "examples": [
+                    {
+                        "en": "Sections of the media continue to misgender the trans teenager as male.",
+                        "vi": "Các phương tiện truyền thông tiếp tục chuyển giới thành nam."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "70aae9005a514afd82ddc18be520202b",
+        "word": "Mx",
+        "pos": "abbreviation",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/mɪks/",
+            "us": "/mɪks/"
+        },
+        "nearby": [
+            {
+                "word": "mwalimu",
+                "pos": "noun"
+            },
+            {
+                "word": "mwananchi",
+                "pos": "noun"
+            },
+            {
+                "word": "Mx",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "my",
+                "pos": "determiner"
+            },
+            {
+                "word": "myalgia",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a title that comes before somebody's family name or before their first and family names together, used by people who wish to avoid saying whether they are male or female",
+                    "vi": "tiêu đề đứng trước họ của ai đó hoặc trước họ và tên của họ cùng nhau, được sử dụng bởi những người muốn tránh nói họ là nam hay nữ"
+                },
+                "examples": [
+                    {
+                        "en": "The airline now lets customers pick the gender-neutral honorific ‘Mx’ when booking a ticket.",
+                        "vi": "Hiện hãng hàng không cho phép khách hàng chọn kính ngữ phân biệt giới tính 'Mx' khi đặt vé."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a5891c982d1a4ecbaca6b3995d0bcdf1",
+        "word": "non-binary",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌnɒn ˈbaɪnəri/",
+            "us": "/ˌnɑːn ˈbaɪnəri/"
+        },
+        "nearby": [
+            {
+                "word": "non-attendance",
+                "pos": "noun"
+            },
+            {
+                "word": "non-believer",
+                "pos": "noun"
+            },
+            {
+                "word": "non-binary",
+                "pos": "adjective"
+            },
+            {
+                "word": "non-binding",
+                "pos": "adjective"
+            },
+            {
+                "word": "non-biodegradable",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "choosing not to be identified as either male or female",
+                    "vi": "chọn không được xác định là nam hay nữ"
+                },
+                "examples": [
+                    {
+                        "en": "The novelist identifies as non-binary.",
+                        "vi": "Tiểu thuyết gia xác định là phi nhị phân."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "da063faf04ff46ffab043e7eba416d7b",
+        "word": "out",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/aʊt/",
+            "us": "/aʊt/"
+        },
+        "nearby": [
+            {
+                "word": "out",
+                "pos": "adverb, preposition"
+            },
+            {
+                "word": "out",
+                "pos": "noun"
+            },
+            {
+                "word": "out",
+                "pos": "adjective"
+            },
+            {
+                "word": "out",
+                "pos": "verb"
+            },
+            {
+                "word": "out-",
+                "pos": "prefix"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "having told other people that you are gay or lesbian",
+                    "vi": "đã nói với người khác rằng bạn là đồng tính nam hay đồng tính nữ"
+                },
+                "examples": [
+                    {
+                        "en": "an out gay man",
+                        "vi": "một người đồng tính nam"
+                    },
+                    {
+                        "en": "I had been out since I was 17.",
+                        "vi": "Tôi đã ra ngoài từ năm 17 tuổi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "020e298d36ab4bcea4a3a20f2e489d3b",
+        "word": "pansexual",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌpænˈsekʃuəl/",
+            "us": "/ˌpænˈsekʃuəl/"
+        },
+        "nearby": [
+            {
+                "word": "pan out",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "pan pipes",
+                "pos": "noun"
+            },
+            {
+                "word": "pansexual",
+                "pos": "adjective"
+            },
+            {
+                "word": "pansexual",
+                "pos": "noun"
+            },
+            {
+                "word": "pansexuality",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "sexually attracted to people without regard to their sex or gender identity",
+                    "vi": "bị thu hút tình dục bởi mọi người mà không quan tâm đến giới tính hoặc bản dạng giới của họ"
+                },
+                "examples": [
+                    {
+                        "en": "The star identifies as pansexual and has dated men and women in the past.",
+                        "vi": "Ngôi sao xác định là cặp đôi đa tình và đã từng hẹn hò nam nữ trong quá khứ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "927f0cfeb05c46e59986bb8c215fc359",
+        "word": "pansexual",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌpænˈsekʃuəl/",
+            "us": "/ˌpænˈsekʃuəl/"
+        },
+        "nearby": [
+            {
+                "word": "pan pipes",
+                "pos": "noun"
+            },
+            {
+                "word": "pansexual",
+                "pos": "adjective"
+            },
+            {
+                "word": "pansexual",
+                "pos": "noun"
+            },
+            {
+                "word": "pansexuality",
+                "pos": "noun"
+            },
+            {
+                "word": "panstick",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who is sexually attracted to people without regard to their sex or gender identity",
+                    "vi": "một người bị thu hút tình dục bởi mọi người mà không quan tâm đến giới tính hoặc bản dạng giới của họ"
+                },
+                "examples": [
+                    {
+                        "en": "The MP has revealed that she is a pansexual.",
+                        "vi": "Nghị sĩ đã tiết lộ rằng cô ấy là một người ngoại tình."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "46579aa9aa70408cbac8053cf3484d8a",
+        "word": "pansexuality",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌpænˌsekʃuˈæləti/",
+            "us": "/ˌpænˌsekʃuˈæləti/"
+        },
+        "nearby": [
+            {
+                "word": "pansexual",
+                "pos": "adjective"
+            },
+            {
+                "word": "pansexual",
+                "pos": "noun"
+            },
+            {
+                "word": "pansexuality",
+                "pos": "noun"
+            },
+            {
+                "word": "panstick",
+                "pos": "noun"
+            },
+            {
+                "word": "pansy",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the state of being sexually attracted to people without regard to their sex or gender identity",
+                    "vi": "trạng thái bị thu hút tình dục bởi mọi người mà không quan tâm đến giới tính hoặc bản dạng giới của họ"
+                },
+                "examples": [
+                    {
+                        "en": "The celebrity has opened up about his pansexuality.",
+                        "vi": "Người nổi tiếng đã mở ra về tính cách của mình."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "d62d699a0b724b7d84d86665e1afa8b2",
+        "word": "queer",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/kwɪə(r)/",
+            "us": "/kwɪr/"
+        },
+        "nearby": [
+            {
+                "word": "the Queen's Speech",
+                "pos": "noun"
+            },
+            {
+                "word": "Queen's University, Belfast",
+                "pos": ""
+            },
+            {
+                "word": "queer",
+                "pos": "adjective"
+            },
+            {
+                "word": "queer",
+                "pos": "noun"
+            },
+            {
+                "word": "queer",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "strange or unusual",
+                    "vi": "lạ hoặc bất thường"
+                },
+                "examples": [
+                    {
+                        "en": "His face was a queer pink colour.",
+                        "vi": "Mặt anh ấy có một màu hồng kỳ lạ."
+                    },
+                    {
+                        "en": "She had a queer feeling that she was being watched.",
+                        "vi": "Cô có một cảm giác kỳ lạ rằng mình đang bị theo dõi."
+                    },
+                    {
+                        "en": "I was beginning to feel very queer.",
+                        "vi": "Tôi đã bắt đầu cảm thấy rất kỳ lạ."
+                    },
+                    {
+                        "en": "It all sounds a bit queer to me.",
+                        "vi": "Tất cả nghe có vẻ hơi kỳ lạ đối với tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an offensive way of describing a gay person, especially a man, which is, however, also used by some gay people about themselves",
+                    "vi": "Tuy nhiên, một cách xúc phạm để mô tả một người đồng tính nam, đặc biệt là một người đàn ông, điều này cũng được một số người đồng tính sử dụng để nói về họ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "describing or relating to a sexual identity or gender identity that is different from traditional ideas about sex and gender, for example if somebody is non-binary, bisexual or transgender",
+                    "vi": "mô tả hoặc liên quan đến bản dạng tình dục hoặc bản dạng giới khác với những ý tưởng truyền thống về giới tính và giới tính, ví dụ: nếu ai đó không phải là người song tính, song tính hoặc chuyển giới"
+                },
+                "examples": [
+                    {
+                        "en": "queer culture",
+                        "vi": "văn hóa đồng tính"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who is slightly strange or crazy",
+                    "vi": "một người hơi kỳ lạ hoặc điên rồ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "a67a2bc72fa54a92acdb966300987df7",
+        "word": "queerness",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkwɪənəs/",
+            "us": "/ˈkwɪrnəs/"
+        },
+        "nearby": [
+            {
+                "word": "Queer Eye",
+                "pos": ""
+            },
+            {
+                "word": "queerly",
+                "pos": "adverb"
+            },
+            {
+                "word": "queerness",
+                "pos": "noun"
+            },
+            {
+                "word": "quell",
+                "pos": "verb"
+            },
+            {
+                "word": "quench",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the quality of having or showing a sexual identity or gender identity that is different from traditional ideas about sex and gender, for example if somebody is non-binary, bisexual or transgender",
+                    "vi": "chất lượng của việc có hoặc thể hiện bản dạng tình dục hoặc bản dạng giới khác với những quan niệm truyền thống về giới tính và giới tính, ví dụ: nếu ai đó không phải là người song tính, song tính hoặc chuyển giới"
+                },
+                "examples": [
+                    {
+                        "en": "The film will explore the queerness of Wilde's original novel.",
+                        "vi": "Bộ phim sẽ khám phá sự kỳ lạ trong cuốn tiểu thuyết gốc của Wilde."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9ed65e9bc18d4ed49b26dd0bb78b3270",
+        "word": "third gender",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌθɜːd ˈdʒendə(r)/",
+            "us": "/ˌθɜːrd ˈdʒendər/"
+        },
+        "nearby": [
+            {
+                "word": "third degree",
+                "pos": "noun"
+            },
+            {
+                "word": "third-degree",
+                "pos": "adjective"
+            },
+            {
+                "word": "third gender",
+                "pos": "noun"
+            },
+            {
+                "word": "third-generation",
+                "pos": "adjective"
+            },
+            {
+                "word": "thirdly",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a category of people who choose not to be identified as either male or female, but as neither, both or a combination of the two",
+                    "vi": "một danh mục những người chọn không được xác định là nam hay nữ, nhưng cũng không phải là cả hai hoặc là sự kết hợp của cả hai"
+                },
+                "examples": [
+                    {
+                        "en": "A new law allows intersex people to self-categorize as a third gender on official documentation.",
+                        "vi": "Một luật mới cho phép những người liên giới tính tự phân loại là giới tính thứ ba trên tài liệu chính thức."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a0566dc0fecd47f7a48fe30b9727e716",
+        "word": "toxic masculinity",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌtɒksɪk mæskjəˈlɪnəti/",
+            "us": "/ˌtɑːksɪk mæskjəˈlɪnəti/"
+        },
+        "nearby": [
+            {
+                "word": "toxic",
+                "pos": "adjective"
+            },
+            {
+                "word": "toxicity",
+                "pos": "noun"
+            },
+            {
+                "word": "toxic masculinity",
+                "pos": "noun"
+            },
+            {
+                "word": "toxicological",
+                "pos": "adjective"
+            },
+            {
+                "word": "toxicologist",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "harmful beliefs about the way men should behave",
+                    "vi": "niềm tin có hại về cách đàn ông nên cư xử"
+                },
+                "examples": [
+                    {
+                        "en": "A key factor in helping eliminate domestic violence is converting toxic masculinity into healthy masculinity.",
+                        "vi": "Một yếu tố chính giúp xóa bỏ bạo lực gia đình là chuyển đổi nam tính độc hại thành nam tính khỏe mạnh."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ae38a7e4d762422aa3bd8f94072243ff",
+        "word": "transsexual",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/trænzˈsekʃuəl/",
+            "us": "/trænzˈsekʃuəl/"
+        },
+        "nearby": [
+            {
+                "word": "transpose",
+                "pos": "verb"
+            },
+            {
+                "word": "transposition",
+                "pos": "noun"
+            },
+            {
+                "word": "transsexual",
+                "pos": "noun"
+            },
+            {
+                "word": "transubstantiation",
+                "pos": "noun"
+            },
+            {
+                "word": "transverse",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person whose gender identity does not match the sex they were said to have at birth, especially a person who has a medical treatment such as hormones or surgery to change their body",
+                    "vi": "một người có bản dạng giới không phù hợp với giới tính mà họ được cho là có khi sinh ra, đặc biệt là một người đang điều trị y tế như kích thích tố hoặc phẫu thuật để thay đổi cơ thể của họ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "a14e5bf8dce24029ae728e97919c7b87",
+        "word": "transvestism",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/trænzˈvestɪzəm/",
+            "us": "/trænzˈvestɪzəm/"
+        },
+        "nearby": [
+            {
+                "word": "transverse",
+                "pos": "adjective"
+            },
+            {
+                "word": "transverse wave",
+                "pos": "noun"
+            },
+            {
+                "word": "transvestism",
+                "pos": "noun"
+            },
+            {
+                "word": "transvestite",
+                "pos": "noun"
+            },
+            {
+                "word": "Trans World Airlines",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the practice, especially by a man, of dressing in clothes usually worn by the opposite sex",
+                    "vi": "thực hành, đặc biệt là của một người đàn ông, mặc quần áo thường mặc của người khác giới"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "6e1b3fbdcc8a486bb905d6ad0375a9fa",
+        "word": "transvestite",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/trænzˈvestaɪt/",
+            "us": "/trænzˈvestaɪt/"
+        },
+        "nearby": [
+            {
+                "word": "transverse wave",
+                "pos": "noun"
+            },
+            {
+                "word": "transvestism",
+                "pos": "noun"
+            },
+            {
+                "word": "transvestite",
+                "pos": "noun"
+            },
+            {
+                "word": "Trans World Airlines",
+                "pos": ""
+            },
+            {
+                "word": "trap",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person, especially a man, who enjoys dressing in clothes usually worn by the opposite sex",
+                    "vi": "một người, đặc biệt là đàn ông, thích mặc quần áo thường mặc của người khác giới"
+                },
+                "examples": []
+            }
+        ]
+    }
+]

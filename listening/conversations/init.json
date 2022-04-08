@@ -1,0 +1,4002 @@
+[
+    {
+        "id": "b0924fd94b25400596873805f08015c3",
+        "name": "Two colleagues talk about their current projects.",
+        "transcript": "— Hi Selynn. What are you working on?— Oh hi Peter. I'm trying to finish my presentation for tomorrow's meeting. I'm way behind.— I worked late yesterday finishing mine. Is there anything I can do to help you?— Thanks, but not right now. I'll let you know if I need anything later.",
+        "questions": [
+            {
+                "id": "f407c86f11254c1f988db96fe91413cf",
+                "text": "Where is the conversation taking place?",
+                "answers": [
+                    "In a church",
+                    "In an office",
+                    "In a classroom",
+                    "In a park"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "275ac71867d4432592435c9a016ea305",
+                "text": "What problem does the woman have?",
+                "answers": [
+                    "She will be late for work.",
+                    "She cannot make the meeting.",
+                    "She is struggling with her presentation.",
+                    "She worked late yesterday."
+                ],
+                "correct": 2
+            },
+            {
+                "id": "4727eca5eb734c05b45a575950e9fcb9",
+                "text": "What does the man offer?",
+                "answers": [
+                    "To help",
+                    "To write her report",
+                    "To get coffee",
+                    "To make copies"
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    {
+        "id": "50b2b8ece80f4feaa5f9e97b56a86e5a",
+        "name": "A customer orders corporate catering services.",
+        "transcript": "— Hello, Crusty Catering. How may I help you today?— Yes, I'm with the Colbert Corporation. We're having a company party next Friday, and I need to arrange for all the food and drinks.— OK. How many people do you expect to entertain? And will it be an indoor or outdoor affair?— About 100 employees will be there. And we'll hold it indoors in one of our large conference rooms.",
+        "questions": [
+            {
+                "id": "339d67ab8af64fc0a5c2cde590c67aa3",
+                "text": "What does the man plan to do?",
+                "answers": [
+                    "Have a party",
+                    "Buy office supplies",
+                    "Take a vacation",
+                    "Ask the woman out"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "740a329fb35448bc845ee40161e40af5",
+                "text": "Why does the man call the woman?",
+                "answers": [
+                    "To inquire about prices",
+                    "To sell her food",
+                    "To invite her to a party",
+                    "To order food and drinks"
+                ],
+                "correct": 3
+            },
+            {
+                "id": "6ccbfa28930c4d1d9ccb41064fd69cc3",
+                "text": "Where will the party be held?",
+                "answers": [
+                    "In a city park",
+                    "At the man's company",
+                    "On the beach",
+                    "In a theater"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "cd8ff5af4bc240b89f5cfb17e85bca5e",
+        "name": "Talking about being self-employed.",
+        "transcript": "— Hey, Cindy. How are you doing with your new business?— Hey, Greg. It's going well. I signed up two new clients last week, and now I have five total.— Wow, five already. That's great! How do you like being self-employed?— Oh it's wonderful. I can work from home, and even from the coffee shop. And I can set my own hours. I did a conference call last week while I was wearing my night gown and bathrobe.",
+        "questions": [
+            {
+                "id": "8a6ff25e3d714d35967f2f3206cd2df0",
+                "text": "What are the speakers talking about?",
+                "answers": [
+                    "The man's job",
+                    "The man's salary",
+                    "The woman's business",
+                    "The woman's clients"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "6fadd4c1be91495c9965e129999301dc",
+                "text": "How many clients does the woman have?",
+                "answers": [
+                    "Two",
+                    "Three",
+                    "Four",
+                    "Five"
+                ],
+                "correct": 3
+            },
+            {
+                "id": "1a32257b61094a1ca94c818ca575abdd",
+                "text": "What does the woman say about self employment?",
+                "answers": [
+                    "She loves it",
+                    "She has mixed feelings",
+                    "She can sleep until noon",
+                    "She cannot set her own hours"
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    {
+        "id": "63123e329e1f4b6c959d1dadbcfe5eed",
+        "name": "A customer is getting put through to his accountant.",
+        "transcript": "— Hello, XYZ Accounting? Could I speak to Craig Robinson please?— Mr. Robinson's in a meeting right now. Can I put you through to his voice mail?— No thanks. I'll try back later. I just have a couple of quick questions about deductions for my tax return.— Oh, maybe another accountant could help you. I think Gina Bowers could answer your questions. Yes, she's in. Hold on a second; I'll transfer you.",
+        "questions": [
+            {
+                "id": "bab91415ea004cba9abb42c0e03f57d2",
+                "text": "What does the woman want to do?",
+                "answers": [
+                    "Pay taxes",
+                    "Get information",
+                    "Find a job",
+                    "Answer questions"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "652de42d373e4e59b86d52721dbd6957",
+                "text": "What position does Mr. Robinson hold?",
+                "answers": [
+                    "Accountant",
+                    "Receptionist",
+                    "Lawyer",
+                    "Professor"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "2674e572a85a4dac88dbb276128cc2af",
+                "text": "What does the man suggest the woman do?",
+                "answers": [
+                    "Call back later",
+                    "Send an e-mail",
+                    "Leave a message",
+                    "Speak with someone else"
+                ],
+                "correct": 3
+            }
+        ]
+    },
+    {
+        "id": "f98cf10568744dfc83b3ec6ef01c061f",
+        "name": "Getting directions to the library.",
+        "transcript": "— Excuse me. I'm afraid I'm a bit lost. I'm looking for the library.— The library? Let's see. The best way to get there is to go back to this street in front of the store and turn left. Go two intersections, then take a right onto 72nd Street.— A right at 72nd?— Yes. The next stoplight will be Williams street. Turn left, and you'll see the library a half block down on the left-hand side.",
+        "questions": [
+            {
+                "id": "70b48cc16b794cdca15bb4999cdde7f2",
+                "text": "What problem does the man have?",
+                "answers": [
+                    "He is injured.",
+                    "He lost his keys.",
+                    "He needs directions.",
+                    "He is broke."
+                ],
+                "correct": 2
+            },
+            {
+                "id": "10659543680f4dd7969652a00aec78e1",
+                "text": "Where does the man want to go?",
+                "answers": [
+                    "To the museum",
+                    "To 72nd Street",
+                    "To the library",
+                    "To the store"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "b8dcf0802543461099f5ada3b4a70954",
+                "text": "What should the man do at 72nd Street?",
+                "answers": [
+                    "Park his car",
+                    "Turn right",
+                    "Go straight",
+                    "Turn left"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "def650ec935f4df79da576e4e1c8eba4",
+        "name": "A couple discuss how to cut their expenses.",
+        "transcript": "— Honey, we need to cut our expenses. I think we should refinance our mortgage. I heard an ad on the radio today. It said that the interest rate right now is only 5 percent.— Hmm... That's a good idea. What's our mortgage payment now, about $300 a month?— Yes. I called the phone number on the radio ad. The gentleman said we could lower our payment to about $200 a month if we refinance soon.— Let's make an appointment with the mortgage company. We sure could use an extra hundred bucks each month.",
+        "questions": [
+            {
+                "id": "11122c7b4ef1427c9609dbb363d90916",
+                "text": "Who most likely are the speakers?",
+                "answers": [
+                    "Employer and employee",
+                    "Banker and client",
+                    "Salesman and customer",
+                    "Husband and wife"
+                ],
+                "correct": 3
+            },
+            {
+                "id": "d58f7f7c76ba46d4bc04105b91b25a4b",
+                "text": "What does the woman suggest?",
+                "answers": [
+                    "Reducing the house payment",
+                    "Increasing expenses",
+                    "Listening to the radio",
+                    "Borrowing some money"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "a6b5423653934729b102bd3dcc2b3338",
+                "text": "What will the speakers probably do next?",
+                "answers": [
+                    "Schedule a meeting",
+                    "Drive to the bank",
+                    "Spend $100",
+                    "Save 5 percent"
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    {
+        "id": "049386eca4634459a54cb7adccedb85e",
+        "name": "Two friends talk about the phone companies they use.",
+        "transcript": "— Oh no. The phone company dropped my call again, right in the middle of the conversation! I'm fed up with Z-Mobile!— I use Rewired. I hardly ever get dropped, and long distance calls in the US and Canada are free. Plus, I can choose four friends to talk with each month as long as I like.— Really? You get unlimited minutes with four people? How much do you pay each month?— I pay a flat fee of $70 for up to 700 minutes, but you can choose pay-as-you-go plans too. I really like Rewired. You should check it out.",
+        "questions": [
+            {
+                "id": "61007341e5614306b623fe921ec2a2b5",
+                "text": "What are the speakers mainly discussing?",
+                "answers": [
+                    "Dropped calls",
+                    "Cell-phone companies",
+                    "Long distance",
+                    "Types of phones"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "13aa2893c9a44cc0a4f123f955de6fa5",
+                "text": "What problem does the man have?",
+                "answers": [
+                    "He dropped his phone",
+                    "He paid too much money",
+                    "His call got cut off",
+                    "His minutes were limited"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "ac9ccf6b3a884d49a2e7ed0b4c4b3410",
+                "text": "How does the woman suggest solving the problem?",
+                "answers": [
+                    "By getting unlimited minutes",
+                    "By considering a new cell-phone carrier",
+                    "By buying a new cell phone",
+                    "By redialing a phone number"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "a9da058968724ecebabbb484685bd9b7",
+        "name": "A colleague asks how to submit vacation requests.",
+        "transcript": "— Hey Mark, what's the policy for vacation requests? I'd like to take time off in July, when the kids are out of school.— You and everybody else. You've got to submit a form to Human Resources. It's first come, first serve, based on seniority.— I see. My chances wouldn't be very good then, would they? Maybe I should try for February, when the kids have mid-winter break.",
+        "questions": [
+            {
+                "id": "81312c0e593a499296e85e750057ce22",
+                "text": "Who most likely are the speakers?",
+                "answers": [
+                    "Colleagues",
+                    "Classmates",
+                    "Strangers",
+                    "Neighbors"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "7117a2fb82344c039bc6a17c963da536",
+                "text": "What is the woman planning to do?",
+                "answers": [
+                    "Look for a job",
+                    "Work overtime",
+                    "Go back to school",
+                    "Take a vacation"
+                ],
+                "correct": 3
+            },
+            {
+                "id": "11738290e86b462096b13393da484edb",
+                "text": "What does the man say about vacation requests?",
+                "answers": [
+                    "They must be submitted by July",
+                    "The woman doesn't have a good chance",
+                    "Senior employees get first choice",
+                    "First-year employees do not get vacations"
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "e9ff270c6e504600a05adbbbd306b78b",
+        "name": "A customer books a flight to Seoul. ",
+        "transcript": "— Yes, I need a round-trip, first-class ticket to Seoul, leaving on the 13th and returning on the 20th.— Yes sir. Let's see... we have two flights on the 13th. The first is non-stop and leaves at 7 a.m. The second leaves at 11 a.m. with a two-hour layover in Tokyo. And for the return flight on the 20th, the non-stop leaves at 8 a.m., and the layover flight leaves at noon.— I'd prefer the non-stop, if it's not much more expensive.— The non-stop is $500; and the flight with the Tokyo layover is $475.",
+        "questions": [
+            {
+                "id": "2313f280515c4dcaa986a1451672ba01",
+                "text": "What does the man want to do?",
+                "answers": [
+                    "Get a refund",
+                    "Find flight information",
+                    "Buy an airline ticket",
+                    "Greet a visitor"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "d92e56476b9c420b9cbbd7b0b152b6ce",
+                "text": "What position does the woman hold?",
+                "answers": [
+                    "Pilot",
+                    "Salesperson",
+                    "Flight attendant",
+                    "Waitress"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "f9aca51a863446408cf6c6dd3b67865b",
+                "text": "What will the man probably do next?",
+                "answers": [
+                    "Buy a ticket for the non-stop flight",
+                    "Buy a ticket for the layover flight",
+                    "Make a telephone call",
+                    "Change his mind and go home"
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    {
+        "id": "aeb2dd2dba6d4afa969f43d1e701fa21",
+        "name": "Scheduling an appointment.",
+        "transcript": "— So, the 20th won't work for you. How about something the following week?— That would be the week of the 23rd. Let's see... I have time on Monday afternoon and Wednesday morning. Does either of those work for you?— Monday doesn't; I'll be out of town. Wednesday, later in the morning would. Say, 11:30?— OK, 11:30 Wednesday. Where?",
+        "questions": [
+            {
+                "id": "e03632c83d384799982a1d5080730ff2",
+                "text": "What is the main purpose of the conversation?",
+                "answers": [
+                    "To discuss a budget",
+                    "To negotiate a discount",
+                    "To arrange a surprise party",
+                    "To set an appointment"
+                ],
+                "correct": 3
+            },
+            {
+                "id": "f769eaf6b48b4914b64b95a162f700e0",
+                "text": "Why can't the woman meet the man on Monday?",
+                "answers": [
+                    "She has a conference call",
+                    "She will be travelling",
+                    "She was sick",
+                    "She will be in school"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "f45d3569c43e45c7b64c073267cf987d",
+                "text": "What will the woman probably do next?",
+                "answers": [
+                    "Say \"thank you\"",
+                    "Hang up the phone",
+                    "Suggest a location",
+                    "Arrange a different time"
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "dfe65dfea48849ce951978a2dfa59ef0",
+        "name": "Two acquaintances discuss recent rise in cost of living.",
+        "transcript": "— Look at the price of this bread. Three-ninety-nine a loaf? Can you believe it? Last summer it was only two-seventy-five!— I know. Everything's going up so fast. This coffee has jumped from four dollars to five twenty five. And eggs went from one eighty nine to three thirty two.— It's not just food either. My electricity bill's soaring, and I read this morning that garbage collection is going up 15 percent next year. I don't know how I'm going to afford it.— Me either. My salary can't keep up with inflation. Our family's had to cut back on lots of things. We just got rid of our cable television, and we're going down to one car soon.",
+        "questions": [
+            {
+                "id": "9e702523f20e4777bfed0269f363a8f8",
+                "text": "What are the speakers doing?",
+                "answers": [
+                    "Riding a bus",
+                    "Shopping for groceries",
+                    "Waiting to buy coffee",
+                    "Watching TV"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "e31e0ebeaf4948ee91788db468fc3e9d",
+                "text": "What is the main purpose of the discussion?",
+                "answers": [
+                    "To inform",
+                    "To comfort",
+                    "To debate",
+                    "To complain"
+                ],
+                "correct": 3
+            },
+            {
+                "id": "5ac63d677d4748e09227447a6958c709",
+                "text": "What does the man plan to do?",
+                "answers": [
+                    "Get rid of his second car",
+                    "Stop paying for cable TV",
+                    "Request a salary increase",
+                    "Buy some eggs"
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    {
+        "id": "45055a8a448e4b519ec880204af0d30d",
+        "name": "HR person interviews job applicant.",
+        "transcript": "— Well, Ms. Gantz, your resume is certainly impressive, and I see you have a lot of experience in the electronics field. Now I'd like to ask you a few questions. First, why do you want to join our firm?— Eldridge Electronics is one of the most well-respected companies in the industry. Not only for the quality of your products, but for the way employees are treated. Eldridge offers an opportunity to challenge myself, and to be fairly rewarded for doing so.— I see. And does your current employer know that you are in the market for a new position?— Not explicitly, but my manager understands that I've been there six years now, and I've basically reached the top of the ladder in terms of what I can do with them. In fact, he recently joked that he'd better find a way to keep me busy or else he'd lose me.",
+        "questions": [
+            {
+                "id": "9ed05493b6994642a9345a917a5790d0",
+                "text": "What is the relationship between the speakers?",
+                "answers": [
+                    "Manager-applicant",
+                    "Colleague-colleague",
+                    "CEO-manager",
+                    "Buyer-client"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "52b4dcb6730241db810a82651ae3d4fc",
+                "text": "What does the woman want to do?",
+                "answers": [
+                    "Purchase electronics",
+                    "Get a raise",
+                    "Change jobs",
+                    "Climb a ladder"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "1b1e7b21120d4c0e8b93d40711fedb5b",
+                "text": "What does the woman say about her current position?",
+                "answers": [
+                    "It doesn't pay enough money.",
+                    "It's not challenging enough.",
+                    "It's completely satisfying.",
+                    "It would be difficult to leave."
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "6065614b43e04a8fb764764a6d3be2a7",
+        "name": "Two co-workers brief each other on recent sales.",
+        "transcript": "— Hey Jessica, Merry Christmas! I haven't seen you since the last company party. What's new in the sales department?— Hello there Henry. Merry Christmas to you too! I've been busy, mate. I just got back from Hong Kong, and after the holidays I leave again for Europe. The new XP3000 is selling like hot cakes. We can't seem to keep enough in stock. How are things in accounting?— We've been hopping too, trying to get all the end-of-the-year sales figures done by next week. It looks like we're going to beat the industry analysts' fourth-quarter estimates by about 15 percent.— That's wonderful news, of course. But frankly, I could do with a bit of a rest. I hope things either cool down or we make some new hires. I've hardly had time to do Christmas shopping for my family! But anyway... cheers!",
+        "questions": [
+            {
+                "id": "01859afef65c4976829c171f8e202703",
+                "text": "Where is the conversation probably taking place?",
+                "answers": [
+                    "In the accounting department",
+                    "At a restaurant",
+                    "In the woman's home",
+                    "At a Christmas party"
+                ],
+                "correct": 3
+            },
+            {
+                "id": "1ee1a003f2044003af0f739c353f478f",
+                "text": "What position does the woman hold?",
+                "answers": [
+                    "Accounting manager",
+                    "Industry analyst",
+                    "Sales representative",
+                    "CEO"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "90ebb0655534459fa6493dfec67ffaf5",
+                "text": "What will the man and woman do next?",
+                "answers": [
+                    "Go Christmas shopping",
+                    "Drink a toast",
+                    "Travel to Hong Kong",
+                    "Hire new people"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "05d72bac215c473b931d20b5295a701c",
+        "name": "Personal assistant updates her boss on his current agenda.",
+        "transcript": "— Good morning, Mr. Wooster. Bill Callahan rang this morning, and he wants to reschedule his meeting with you from this afternoon to 8 a.m. tomorrow. Also, Ms. Flaxon from the Bermuda Group faxed a contract proposal. It's on your desk. She'd appreciate a response by Thursday, if possible.— Morning, Ms. Hobbs. Yes, go ahead and move the Callahan meeting to tomorrow, then ring Paul Frazier and ask if he has time for a conference call this afternoon, say about 3. If he doesn't, let's aim for late tomorrow morning.— Very good sir. Also, don't forget you have a noon luncheon today at the Rotary Club.— Thank you. That reminds me, could you please phone Dryden's Dry Cleaners and have them deliver my blue knit suit by 11:30? I'd like to wear that to lunch.",
+        "questions": [
+            {
+                "id": "fd67731455cf4f4fa6ecd84d19ec9078",
+                "text": "What are the speakers mainly discussing?",
+                "answers": [
+                    "Changing an appointment",
+                    "A proposed contract",
+                    "The man's schedule",
+                    "A lunch menu"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "2df63e21effb4d5dbb995c66c1de544a",
+                "text": "What is the woman's position?",
+                "answers": [
+                    "Secretary",
+                    "Administrator",
+                    "Caterer",
+                    "Dry Cleaner"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "d16286687ceb42f883fc9c10ba242cf3",
+                "text": "What will the man do at noon?",
+                "answers": [
+                    "Call Paul Frazier",
+                    "Meet with Bill Callahan",
+                    "Pick up his blue suit",
+                    "Attend a special luncheon"
+                ],
+                "correct": 3
+            }
+        ]
+    },
+    {
+        "id": "c09ebde60825440ab3ee3aa2e28086be",
+        "name": "A business man phones to say he will be late for a presentation.",
+        "transcript": "— Hello, Sue? This is Damon Guenther. My plane had an electrical problem, so my flight from Munich was delayed and I missed my connecting flight here in Chicago. The earliest flight I can catch leaves at 4:30 and arrives in Denver at 7, so I'm going to miss the presentation at 3 today.— I'm sorry to hear that, Damon. Unfortunately, we can't reschedule the presentation, because Sam Hawthorn has come from Boston to give it, and he has to return tonight. But I'd really like you to see it.— I know. Is there any way you could set it up as a videoconference? That way, I could stay in Chicago and participate online.— That's a good idea. I'll try. Let me talk with our technical support crew, and I'll get back to you soon. Meanwhile, go ahead and book the 4:30 flight. In a worst-case, we'll videotape the presentation and you can watch it tonight after you arrive.",
+        "questions": [
+            {
+                "id": "e8dba87696b34d2384b298c793e06b7b",
+                "text": "What is the man's problem?",
+                "answers": [
+                    "His flight had no electricity.",
+                    "His plane arrived late.",
+                    "He has to return to Boston.",
+                    "He can not find a hotel."
+                ],
+                "correct": 1
+            },
+            {
+                "id": "eb0a26712fb24033b2032d8fb4522ec1",
+                "text": "When will the man's flight depart?",
+                "answers": [
+                    "At 3",
+                    "At 4:30",
+                    "At 7",
+                    "At midnight"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "f51986d61abc47538742a049f55d3450",
+                "text": "Where is the man now?",
+                "answers": [
+                    "In Munich",
+                    "In Denver",
+                    "In Chicago",
+                    "In Boston"
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "90d3a855c24a4dc1a919badd19df5994",
+        "name": "Confirming an order on the phone.",
+        "transcript": "— OK, Mr. Lancaster. Let me summarize your order. You want two cases of printer ink -- one black and one color; 50 reams of copy paper -- the bright white kind; six cartons of legal envelopes; and 50 boxes of manila folders. Is that correct?— Yes it is. And can I expect that to arrive within a week? We need it by next Monday.— With standard shipping, it will get there within 7 to 10 business days. If you need it sooner, we should use expedited shipping. That would cost $30 instead of $15 for standard, but it would guarantee arrival within 3 to 5 days.— Hmm... well, I guess we'll have to go with the expedited, then. Would it be possible to order additional items for the same shipping fee?— Sure. You could add up to 25 pounds on your order. But after that, the expedited fee would be $2 per five pounds.",
+        "questions": [
+            {
+                "id": "0a291286fa2245bf912f79206e149807",
+                "text": "What is the relationship between the speakers?",
+                "answers": [
+                    "Salesman-buyer",
+                    "Employer-employee",
+                    "Manager-assistant",
+                    "Colleague-colleague"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "b0ea020468244906bd922584beca4684",
+                "text": "What is the man's problem?",
+                "answers": [
+                    "He doesn't have enough money.",
+                    "His order is too heavy.",
+                    "He needs the order within a week.",
+                    "He ordered the wrong materials."
+                ],
+                "correct": 2
+            },
+            {
+                "id": "778804dd579145cd9280d3bd9f35e146",
+                "text": "What does the woman suggest?",
+                "answers": [
+                    "Adding more weight",
+                    "Ordering more items",
+                    "Buying from another company",
+                    "Using faster shipping"
+                ],
+                "correct": 3
+            }
+        ]
+    },
+    {
+        "id": "7ecc8ab02a074ac490392709ed343a7b",
+        "name": "Customer returns cell phone to store because it doesn't work.",
+        "transcript": "— Good day, how can I help you madam?— I'm afraid I need to return this mobile phone. You see, it doesn't work properly. First of all, the numbers 5 and 9 stick when I dial. Secondly, the camera won't switch on when I want to take pictures.— I see. Terribly sorry about that. Our store policy is no refunds, but as long as you have your receipt, you can exchange the phone for any model of equal or lesser value. And I'll check to make sure your new phone works properly before you leave the store.— Thank you very much. I'll have a look around then, and decide which one I want. Do you have any recommendations?",
+        "questions": [
+            {
+                "id": "34715566e696432f8f343df8a6129992",
+                "text": "What problem does the woman have?",
+                "answers": [
+                    "Her cell phone isn't working.",
+                    "Her keyboard is stuck.",
+                    "Her camera is broken.",
+                    "Her receipt has been lost."
+                ],
+                "correct": 0
+            },
+            {
+                "id": "abdb8d5665c34f3282113bdd50e1c0df",
+                "text": "Where is this conversation taking place?",
+                "answers": [
+                    "In an office",
+                    "In a store",
+                    "At a party",
+                    "At a conference"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "c986cb97826243ed88a18ae8de442ec5",
+                "text": "What will the man probably do next?",
+                "answers": [
+                    "Return the woman's money",
+                    "Fix the woman's phone",
+                    "Help the woman choose a phone",
+                    "Help the woman find her receipt"
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "471c35e967ac4f35962a6cadbe5a76d1",
+        "name": "Employee congratulates co-worker on his job promotion.",
+        "transcript": "— Congratulations, Gino! Or should I say, \"Vice President Martenelli?\"— (chuckles) Not yet, Marie. It doesn't take effect until next month. I am excited about the new opportunity though. And a little scared too, to tell you the truth. It's more money, but also a LOT more responsibility. I'm not sure I'm ready for this.— Sure you are. And you're going to do just great! After all, Ms. Robertson wouldn't have chosen you if she didn't think you were well-qualified. You've earned your new position, so relax. I'm proud of you!— Thanks, Marie. Actually, I am going to relax for a while. I'm taking some vacation time and going to Mexico for a week before I start.",
+        "questions": [
+            {
+                "id": "e5d5e4c60377442b97693ffafd62ea8e",
+                "text": "What are the speakers mainly discussing?",
+                "answers": [
+                    "An employment interview",
+                    "A job promotion",
+                    "Hopes and fears",
+                    "A vacation"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "f7c20f82d1334ba4a9f2482827e151ab",
+                "text": "What does the woman say about the man?",
+                "answers": [
+                    "He did not earn his new position.",
+                    "He is over-qualified.",
+                    "He should be nervous.",
+                    "He will make a good vice president."
+                ],
+                "correct": 3
+            },
+            {
+                "id": "6b1aa886875f4afaa23d4a3e60682780",
+                "text": "What does the man plan to do?",
+                "answers": [
+                    "Celebrate with the woman",
+                    "Thank Ms. Robertson",
+                    "Take over the company",
+                    "Go on vacation"
+                ],
+                "correct": 3
+            }
+        ]
+    },
+    {
+        "id": "98806c34c06e453392c7f8e5b821a162",
+        "name": "Two friends meeting at the subway talking about transport options.",
+        "transcript": "— Betty, fancy seeing you here. I didn't know you rode the subway.— I don't usually. It's just that I'm fed up with driving and paying so much for gas, and the buses are crowded and unreliable. So I thought I'd give this a try.— I know what you mean. I started taking the subway two years ago, and it's wonderful! From the Scott Street station, it's only a block and a half to our building. And going home, the 52nd Street stop is only two blocks from my apartment. When I was driving, I wasn't getting nearly as much exercise.— Exactly! Plus, the subway's cheaper than gas in the long run. And the trains leave every 15 minutes, so if I miss one I don't have to wait long for another. So, did you say we should get off at Scott Street?",
+        "questions": [
+            {
+                "id": "0450cf030ed24279ade0d506f3b7e527",
+                "text": "Who most likely are the speakers?",
+                "answers": [
+                    "College roommates",
+                    "Next-door neighbors",
+                    "Business colleagues",
+                    "Best friends"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "a55fcf0173344cb2b515df308190ff40",
+                "text": "What are the speakers mainly discussing?",
+                "answers": [
+                    "The merits of the subway",
+                    "The high cost of gasoline",
+                    "Which station to get off at",
+                    "How to get more exercise"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "cf974ac959054385b2d5298be2d3c1b1",
+                "text": "What does the woman say about the subway?",
+                "answers": [
+                    "It's more expensive than driving.",
+                    "It's less reliable than a bus.",
+                    "It's more convenient than a bus.",
+                    "It's not as much fun as driving."
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "5e0fa99a2ef446dba098ca3a3f713b33",
+        "name": "Customer calls to cancel cable TV subscription",
+        "transcript": "— Hello, my name is Sarah Simmons, and I'd like to cancel my cable-TV service please.— Certainly, Mrs. Simmons. Could I ask the reason why you're canceling?— It's just too expensive right now, and there are so many channels that we never watch. We're finding it's not a good value for our money.— I understand, ma'm. I see that you have our premium package. Have you considered trying a different package, such as cable basic or basic-plus? These cost less, and also give you fewer channels.— We've considered it, but we can't afford even basic cable right now. You see, my husband was just laid-off. So I'm afraid we'll need to cancel all cable for the time being.",
+        "questions": [
+            {
+                "id": "d2b52b807c184e74b3418b03cbfe83e1",
+                "text": "What does the woman want to do?",
+                "answers": [
+                    "Sell her TV set",
+                    "Stop receiving cable television",
+                    "Cancel her latest cable bill",
+                    "Add more cable channels"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "477685b97b014475a19d5659e9f2e654",
+                "text": "What does the man suggest?",
+                "answers": [
+                    "Switching to a cheaper package",
+                    "Upgrading to premium cable",
+                    "Watching less television",
+                    "Looking for a job"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "4fc6b156594940c3b2edadcb643cb090",
+                "text": "Why does the woman say she can no longer afford cable?",
+                "answers": [
+                    "Her husband lost his job.",
+                    "There are too many channels.",
+                    "She is out of work.",
+                    "It is not a good value."
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    {
+        "id": "3062551742974288b9a7fa0d6e8d61d2",
+        "name": "Headquarters calls branch office to ask for expenses report.",
+        "transcript": "— Hello, Lance Smithers? This is Victoria Balderston in corporate headquarters. The reason I'm calling is that I haven't received last month's expense reports from your office yet, and they were due on Tuesday. Was this something that was overlooked?— No, I actually sent them to you on Monday with the company courier. I'm sure of it. You haven't received them yet? That's strange.— Yes, it is. Listen, I can check with the courier's office, but in the meantime, could you send please the expense reports again today, just to ensure that I have them by this afternoon? I'd really appreciate it.— Sure, no problem. Let's see, it's 8:45. I'll try to get them on the 9 o'clock courier run, but if I miss that I'll have them ready for the 11 o'clock pickup. Sorry about the confusion.",
+        "questions": [
+            {
+                "id": "2894b1a2bad24c14a3e9ddc7821ba3e6",
+                "text": "Who most likely are the speakers?",
+                "answers": [
+                    "Neighbors",
+                    "Friends",
+                    "Colleagues",
+                    "Parents"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "bf3f2a834df94364ae1e41c63898418c",
+                "text": "What is the woman's problem?",
+                "answers": [
+                    "She is missing important information.",
+                    "She has too many expenses.",
+                    "She cannot contact the courier.",
+                    "She missed a deadline."
+                ],
+                "correct": 0
+            },
+            {
+                "id": "a9c8f426a1d747c9a018d91f0d20dccd",
+                "text": "What does the man plan to do?",
+                "answers": [
+                    "Fax information to the woman",
+                    "Deliver reports via courier",
+                    "Finish a report by the afternoon",
+                    "Telephone the courier's office"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "e7652a9d1f3d4079b4c9c7b04cc9a122",
+        "name": "Two friends talking about the current price of their stock portfolio.",
+        "transcript": "— Oh no, the stock market's down again today! I bought Microfirm last month for $20 a share. Today it's at $12.28. All my other stocks are down too, except for a couple. Maybe I should find another place to put my money.— Hey, Fred, I know it's rough. My portfolio's decreased too. But you have to remember that the stock market is cyclical. There are always good times and bad times. The key is to be patient. You don't need your money right away, do you?— No, not immediately. But I will in about 10 years. I saw a bond mutual fund yesterday that's paying 5.2 percent. And my bank is offering a three-year Certificate of Deposit at 4.5 percent.— Bonds and CDs have their place in a financial portfolio. But for long-term investing, there's nothing better than stocks. The stock market has averaged about a 10-percent annual return over its history. It's tough to get that kind of consistent profit anywhere else.",
+        "questions": [
+            {
+                "id": "e3a9ec5c7e3049b983c7b56bd659597b",
+                "text": "What are the speakers mainly discussing?",
+                "answers": [
+                    "The stock market",
+                    "Bond funds",
+                    "Certificates of Deposit",
+                    "Interest rates"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "eaefc528b19b48e794c035418887aadc",
+                "text": "How does the man feel about the stock market?",
+                "answers": [
+                    "Confident",
+                    "Despondent",
+                    "Optimistic",
+                    "Distressed"
+                ],
+                "correct": 3
+            },
+            {
+                "id": "0787a9b3d27741539497a857fd32b60b",
+                "text": "What does the woman suggest the man do?",
+                "answers": [
+                    "Buy a bond fund",
+                    "Invest in a CD",
+                    "Be patient",
+                    "Buy more stocks"
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "57fa099069df4900a35e2f8256bd3ceb",
+        "name": "New citizen calling utility department to find out about garbage collection schedule.",
+        "transcript": "— City utility department, Mary Chambers speaking. How may I help you?— Yes, I'm new to the city and I'm trying to figure out how garbage and recycle collection work. It's my understanding that garbage is collected on Wednesdays, and recyclables such as paper, plastic and glass are collected on Thursdays. Is that correct?— No sir, it's the other way around. Recyclables are Wednesday, and garbage is Thursday. You need to put your garbage can next to the curb in front of your house by 7 a.m. Thursdays. You should have two recycling containers, one for paper and cardboard, and one for glass. Those need to be set in front of your house by 7 a.m. Wednesday. On both those days, our pick-up trucks will be there sometime between 7 and 5.— Oh I see. Thank you very much for your assistance. Just one more thing. I heard that the city is going to start collecting yard waste soon. Can you please tell me about that?",
+        "questions": [
+            {
+                "id": "bec7cd2120f244f0a192acc942998335",
+                "text": "What is the main topic of the conversation?",
+                "answers": [
+                    "Yard waste collection",
+                    "Garbage collection times",
+                    "Recyclable materials",
+                    "Collection procedures"
+                ],
+                "correct": 3
+            },
+            {
+                "id": "338f77cb229e4ac088b59c1e797ebd6a",
+                "text": "When is garbage collected?",
+                "answers": [
+                    "Wednesdays",
+                    "Thursdays",
+                    "Saturdays",
+                    "Mondays"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "9387c48fad9240459ee6a8bf9b99628d",
+                "text": "What will the woman probably do next?",
+                "answers": [
+                    "Say goodbye and hang up",
+                    "Refer the man to her supervisor",
+                    "Explain about a new service",
+                    "Answer another phone call"
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "9cc7c1861e3948f8b7ba56bc0c161ad6",
+        "name": "Employee in R&D gives update on new browser development project.",
+        "transcript": "— Thank you Karl, that was a good summary from accounting. Next on the agenda is a report from the research department. Laura, how are you coming on the new web browser?— Well, the project is a little behind schedule, because last month's storm delayed a shipment of computer chips from Taiwan. But we're testing a prototype browser, and hope to have it in beta stage within eight weeks, which will be an exciting step for the company. This browser will host an internet platform, meaning all customers will need is our browser to access the World Wide Web.— That's exciting news, indeed, Laura! Do you have all the components you need now to complete the testing before it goes to beta? Is there anything else we need to order?— We should have everything we need, barring unforeseen circumstances. Hashkeem and Martin are working on the prototype practically 24/7, and they'll let me know if anything unexpected comes up.",
+        "questions": [
+            {
+                "id": "0a14f135a1e74fc1a6444fb6edbd6a0b",
+                "text": "Where is the conversation probably taking place?",
+                "answers": [
+                    "In a laboratory",
+                    "At a staff meeting",
+                    "In a computer store",
+                    "At a company party"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "4e776b11141b40e08d8ebda0284155e4",
+                "text": "What position does the man hold?",
+                "answers": [
+                    "CEO",
+                    "Accounting manager",
+                    "Head of research",
+                    "Software engineer"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "8707f9a4f0fa416d837906d71cfa94b9",
+                "text": "What does the woman say about the new browser?",
+                "answers": [
+                    "It is ahead of schedule.",
+                    "It will soon go to beta stage.",
+                    "It needs several new parts.",
+                    "It includes a wooden platform."
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "12b51942d6e24d5682c60b8492158815",
+        "name": "Two journalists discuss the departure of one of their colleagues .",
+        "transcript": "— Hey Samuel, have you heard the news about Nathan Richmond? He's going to go over to the Herald. They're giving him his own column.— Really? Well, good for him, but I'm sorry we're losing him. He's a great reporter, and I'll miss his stupid jokes around the newsroom. How long has he been with us, about 50 years?— (chuckles). Only about 10 I think, but it does seem longer. He's kind of an institution at this paper. Word is that he asked the publisher, Mr. Frankel, for a column last year, but he was turned down.— What a shame. If anyone deserves his own column, it's Nathan Richmond. He's paid his dues, covering city politics all these years. I wonder who'll cover that beat now. Have you heard, Carla?",
+        "questions": [
+            {
+                "id": "281bcc8661f34b2f8451ce9f58636d5e",
+                "text": "Who are the speakers talking about?",
+                "answers": [
+                    "A national celebrity.",
+                    "A mutual friend.",
+                    "A co-worker.",
+                    "A newspaper publisher."
+                ],
+                "correct": 2
+            },
+            {
+                "id": "f05a72a2f06c4270b12b89d0869b0dad",
+                "text": "What does Nathan Richmond plan to do?",
+                "answers": [
+                    "Cover city politics",
+                    "Stop writing a column",
+                    "Pay his dues",
+                    "Accept a new job"
+                ],
+                "correct": 3
+            },
+            {
+                "id": "ae60d18d503546ba98ece4d734ee19e0",
+                "text": "Where do the speakers work?",
+                "answers": [
+                    "At a newspaper",
+                    "At city hall",
+                    "At an institution",
+                    "At a restaurant"
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    {
+        "id": "817456d8242c47518a56374bd2980745",
+        "name": "Cleaning service customer calls company to make a complaint.",
+        "transcript": "— Hello, Mighty Maids. Theresa Blanding speaking.— Yes Ms. Blanding, My name is Tony Dodd, I have a complaint about your service. I used Mighty Maids yesterday, and the woman who cleaned my home -- Nora, is her name -- did not do a very good job. I asked her to scrub the bathroom floors, but when she finished, they looked no cleaner than before she started. I also asked her to clean the oven and do some laundry. She did neither. I'm very disappointed, and I'd like my money back.— I'm terribly sorry to hear that, Mr. Dodd. Believe me, this is not typical of Mighty Maids service. Unfortunately, I cannot refund your money. However, what I can do is send a different person out tomorrow, who will clean your house this time free of charge. We'd like another chance to prove that yesterday was an aberration. Would that be OK?— Yes, I suppose. But if the cleaner is not good tomorrow, I will not use your service again, and I'll tell everyone I know to avoid Mighty Maids.",
+        "questions": [
+            {
+                "id": "1e4167eb60ad49e0a27b0b89f575e0d3",
+                "text": "What is the relationship between the speakers?",
+                "answers": [
+                    "Employee-employer",
+                    "Worker-customer",
+                    "Colleague-colleague",
+                    "Manager-applicant"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "c99fbf2fdd3d41b984f555bf2dae57ec",
+                "text": "What is the man's problem?",
+                "answers": [
+                    "He paid too much money.",
+                    "He received poor service.",
+                    "He forgot to do laundry.",
+                    "He lost his credit card."
+                ],
+                "correct": 1
+            },
+            {
+                "id": "f6c39c17ca3545019d8e7b27e28b5bcd",
+                "text": "What does the woman offer?",
+                "answers": [
+                    "A full refund",
+                    "A money-back guarantee",
+                    "An insincere apology",
+                    "A complimentary cleaning"
+                ],
+                "correct": 3
+            }
+        ]
+    },
+    {
+        "id": "4557c0e87aa743e7890e21c683cf1d62",
+        "name": "Two people discuss options of buying a new TV.",
+        "transcript": "— This flat-screen TV looks like a pretty good deal. It's on sale for $399. What do you think?— That's a good price, but we should compare before we buy. I saw an ad where Video Plus promises to match any competitor's offer. And TVs might be cheaper there anyway. I think we ought to look in at least two stores before we get anything.— Yeah, we could, but when you figure in the cost of time and gas getting to another store, it might end up being cheaper just to buy it here right now. What if we go to Video Plus and it's not any cheaper, but they just match the price?— Yeah, I see your point, but I'd feel better if we could compare anyway. If the TV is only $300 at the other store, then it's worth the time and gas to go there. How about if I call Video Plus and ask them?— All right, that's a good idea. While you're doing that, I'm going to check out MP-4s.",
+        "questions": [
+            {
+                "id": "43d4a4f4fe5a497eae9f41827f025a3b",
+                "text": "What are the speakers mainly discussing?",
+                "answers": [
+                    "The price of electronics",
+                    "Different TV brands",
+                    "Where to buy a television",
+                    "The cost of MP-4s"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "e705034450064df1806da23ddef692a0",
+                "text": "What does the woman want to do?",
+                "answers": [
+                    "Compare prices",
+                    "Pay $399",
+                    "Buy gas",
+                    "Match the price"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "58678d7d37c34fc2ab209a42be9ee611",
+                "text": "Where is this conversation probably taking place?",
+                "answers": [
+                    "In an office",
+                    "In a supermarket",
+                    "In an electronics store",
+                    "In a warehouse"
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "bd9da077e6714e40a8fad79b4d15975a",
+        "name": "Two co-workers discuss final stages of new advertising campaign.",
+        "transcript": "— Ah, Shelly. Back from vacation are you? You look tanned and rested. It's good to see you, actually. While you were gone we ran into a problem with the Martin account. You see, you were away, and Gino was out sick for a week, so we missed our deadline to present the new advertising campaign to Mr. Jeffries. We've rescheduled the presentation for Friday.— Friday? That's a tight deadline. All right, let's get Gino and meet in the conference room in half an hour. Bring all the design sketches that you've worked up, and have Gino bring all the ad copy he's written. I'll grab the old power point slides and videos of Martin's current commercials.— Right. Look, I know it's not much time, but I think we'll be OK. I've been working hard on the artwork, and I know that Gino was writing at home even though he was ill. We'll put our noses to the grindstone the next couple of days and everything will pull together. Don't worry, we're going to win this account!",
+        "questions": [
+            {
+                "id": "9d56d4df173643a8ac35d55be136c66f",
+                "text": "What are the speakers mainly discussing?",
+                "answers": [
+                    "A new video",
+                    "A company project",
+                    "The woman's vacation",
+                    "The man's occupation"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "509bd67320114286b3a568c549205aed",
+                "text": "What problem do the speakers have?",
+                "answers": [
+                    "They are inexperienced.",
+                    "They lost their artwork.",
+                    "They missed a deadline.",
+                    "They have no ad copy."
+                ],
+                "correct": 2
+            },
+            {
+                "id": "4d388b996a574bcc982783292fe02e04",
+                "text": "What does the man say about the presentation?",
+                "answers": [
+                    "It was rescheduled for Monday.",
+                    "There is not enough time to prepare.",
+                    "It will be easy.",
+                    "It will be successful."
+                ],
+                "correct": 3
+            }
+        ]
+    },
+    {
+        "id": "c59c50e7b7454cf9814f5a8f65933c8f",
+        "name": "Sales clerk advises customer in jewelry store.",
+        "transcript": "— All our diamonds are the highest quality, sir. Our manager hand-picks them himself. Your wife is sure to love them!— They all look pretty, but I'm not sure which kind of ring she'll like. There are so many to choose from!— Might I suggest shopping by price range, then. If you tell me your budget, I can suggest a smaller range of options, and I'm sure you'll find something to your liking. Also, we offer a full money-back guarantee, so if your wife doesn't like it or wants to exchange, it's no problem.— Oh OK, that sounds reasonable. Well, let's see. I was hoping to spend no more than $400, though I might be willing to go a little higher if I find a ring that really looks good.",
+        "questions": [
+            {
+                "id": "aa95ed670bc24906825bb3a6783df0db",
+                "text": "What is the relationship between the speakers?",
+                "answers": [
+                    "Seller and buyer",
+                    "Husband and wife",
+                    "Firm and client",
+                    "Supervisor and worker"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "b496ee21f6a545869e534755e12b9a32",
+                "text": "What does the man want to do?",
+                "answers": [
+                    "Learn how diamonds are made",
+                    "Choose a necklace",
+                    "Buy a gift for his wife",
+                    "Get his money back"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "1ba2e2193b5248af8f02f56e3d62931f",
+                "text": "What does the woman suggest?",
+                "answers": [
+                    "Hand-picking diamonds",
+                    "Narrowing the selections",
+                    "Making an exchange",
+                    "Calling the man's wife"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "663e2b9b394541b2b85581ff4d84fe09",
+        "name": "HR person reviews work performance of employee.",
+        "transcript": "— So in summary Michael, your review is mostly favorable. You met four of your seven incentive goals, which means your bonus will total $3,000. You got high marks for promptness and dedication, and need to improve your business etiquette and time management. Do you have any questions?— Yes, just a couple. What do you do with my performance review after I review it and sign it? Will you use it next year in deciding on salary increases?— Those are good questions. Your review will go into your file, which is part of your permanent employment record. It will be considered in determining salary, but it's just one factor among many. We'll also consider your overall performance since you joined the company, and any improvement made following this evaluation. In general, you're doing very nice work. Keep up the good work, and you shouldn't have any worries.— Thank you, Ms. Donaldson. I appreciate your fairness, and I enjoy working for you.",
+        "questions": [
+            {
+                "id": "0421c18e342c4526b0aea37a6b236d44",
+                "text": "What is the woman's position?",
+                "answers": [
+                    "Employee",
+                    "Manager",
+                    "Counselor",
+                    "Receptionist"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "5738bbad8eec435891e554bf0a8373a4",
+                "text": "What are the speakers mainly discussing?",
+                "answers": [
+                    "The man's performance review",
+                    "The woman's job duties",
+                    "How to get a salary increase",
+                    "What is in the man's file"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "74f53ce8b1d346f1ba4ca40ca01df6bf",
+                "text": "When does this conversation take place?",
+                "answers": [
+                    "At the beginning of the month",
+                    "In the middle of the year",
+                    "At the end of the year",
+                    "In the summer"
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "ee6e93003b10434599a92e0bf58221e9",
+        "name": "Customer books a round flight at travel agency.",
+        "transcript": "— Yes, I need to book a round-trip, business-class ticket from San Francisco to Beijing, leaving on the 18th and returning on the 29th.— OK. One minute please. I can book you on Worldwide Airways, leaving at 9 a.m. the 18th, with a two-hour layover in Seoul, and returning at 2 p.m. the 29th, with a one-hour layover in Tokyo.— I'd prefer a direct flight. Also, I'd like to depart in the morning both days, if at all possible.— Let me see. I could book a direct flight at 7 a.m. the 29th on Asia Air, and the return flight from Beijing would be late morning -- 11 a.m. -- on the 29th. Would that be all right?",
+        "questions": [
+            {
+                "id": "222afad76cc3423bb2ff573ae8891ee8",
+                "text": "What does the man want to do?",
+                "answers": [
+                    "Set an appointment",
+                    "Buy airline tickets",
+                    "Plan a holiday",
+                    "Negotiate a contract"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "080ea80c2d70451d9ae5e0dc3a6eef25",
+                "text": "What is the woman's position?",
+                "answers": [
+                    "Receptionist",
+                    "Manager",
+                    "Travel agent",
+                    "Accountant"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "8c5136b0d64a4687a143a3cb9b88348b",
+                "text": "Where is the man going?",
+                "answers": [
+                    "To San Francisco",
+                    "To Beijing",
+                    "To Seoul",
+                    "To Tokyo"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "9ecc1ebd719045d6b35b1a317d8633a7",
+        "name": "Employee is being briefed on how to get travel costs reimbursed.",
+        "transcript": "— Here are the steps for reimbursing travel expenses. First, you need to fill out a travel voucher, that's the blue form here. Take that to your manager, and get his or her signature on the bottom line. Then, take a copy of that form -- that's the yellow page underneath -- and turn it into accounting. Be sure to attach copies of all your receipts. You keep the third page, the pink form, along with all your original receipts. Reimbursement checks are cut once a month, and they are separate from your normal paycheck. They usually go out on the 15th.— OK, blue form to manager, yellow to accounting. I think I've got it. What type of expenses will the company reimburse?— Typically taxi, subway and bus fares; admission fees; meals and drinks up to $30 a day; and any necessary business supplies -- either for use on your trip or after you return. Of course, we'll also reimburse for unexpected costs, such as having to rent a hotel room if your flight is cancelled or delayed, or expenses associated with a lost wallet or natural disaster.",
+        "questions": [
+            {
+                "id": "962795cc0d374491a66ddb57dbd32efb",
+                "text": "Who most likely are the speakers?",
+                "answers": [
+                    "Business colleagues",
+                    "Hotel clerks",
+                    "Next-door neighbors",
+                    "Sales representatives"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "2e284e83c53e42f588635b4e392b6263",
+                "text": "What are the speakers mainly discussing?",
+                "answers": [
+                    "Inflation rates",
+                    "Travel destinations",
+                    "Expensive checks",
+                    "Company procedures"
+                ],
+                "correct": 3
+            },
+            {
+                "id": "055fc2b91768411c8b748724f59c1b2f",
+                "text": "What does the woman say about reimbursement checks?",
+                "answers": [
+                    "They are included in normal paychecks.",
+                    "They usually are sent on the 25th.",
+                    "They are issued once a month.",
+                    "They do not include taxi fares."
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "5de710f4b4a84b8196b19151e77a157e",
+        "name": "Catering employee calls customer to inform her about a delivery problem.",
+        "transcript": "— Hi, Kathern Kitchum? This is Dennis Chaix from Castro's Catering. I'm sorry, but there's a slight problem with your catering menu for the party Saturday night, and I wanted to ask you how best to handle it. You wanted 20 pounds of fresh caviar, but our supplier is hampered by a labor dispute, so they can deliver only 10 pounds of caviar. We could refund your money for the other 10 pounds, or substitute something else.— Oh dear. Hmmm... well, we have more than 200 guests, so it's probably best to substitute at this point. What would you recommend?— Well, you wanted five pounds of smoked sardines. How about 10 more pounds of those?— No, let's do this. Five more pounds of sardines, and double the amount of avocado dip, from three bowls to six. Hey, while you're on the phone, can we double-check the order?",
+        "questions": [
+            {
+                "id": "14b6036d2cef48469fda6f28008f4a34",
+                "text": "What is the relationship between the speakers?",
+                "answers": [
+                    "Waiter-diner",
+                    "Company-client",
+                    "Employee-customer",
+                    "Host-guest"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "dbe8c355ec714ada8badea5100a8fa38",
+                "text": "What problem does the man have?",
+                "answers": [
+                    "Too many sardines",
+                    "Too little avocado dip",
+                    "Not enough caviar",
+                    "Too many suppliers"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "7ad2ad1feea64daa81a63606cac548ed",
+                "text": "What will the speakers probably talk about next?",
+                "answers": [
+                    "Confirming arrangements",
+                    "Doubling the order",
+                    "Buying more caviar",
+                    "Inviting fewer guests"
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    {
+        "id": "429ac0ae161c437ebefdcc71c9414ab2",
+        "name": "Employee offers to help her co-worker with his report.",
+        "transcript": "— Hey James. How's your research going for the board of directors' report? Is there anything I can help you with?— Thank for offering, Liv. I've been summarizing customer satisfaction surveys for each quarter of last year. It's pretty interesting. Actually, if it's not too much trouble, would you proofreading my power-point slides? I'll have them finished in about an hour.— Sure, no problem. E-mail them to me and I'll look them over. Did you discover anything interesting in reading the surveys?— Oh yes. They're quite interesting. Probably the most fascinating thing were the opinions about the price of our product. In the first quarter, about 70 percent of the customers said it was priced fairly, but by the last quarter, when the economy had worsened, more than 80 percent said it was priced too high.",
+        "questions": [
+            {
+                "id": "f0a07b2b767343cda1b52b7cd112d38c",
+                "text": "Where is the conversation probably taking place?",
+                "answers": [
+                    "In a library",
+                    "In a university",
+                    "In a meeting",
+                    "In an office"
+                ],
+                "correct": 3
+            },
+            {
+                "id": "9eab2f03b397428b9e7fb8574050657c",
+                "text": "What does the man ask the woman to do?",
+                "answers": [
+                    "Read a report",
+                    "Check for errors",
+                    "Summarize surveys",
+                    "Share opinions"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "b01374f690284d89b3797e7a0c8256a9",
+                "text": "What does the man say about product price?",
+                "answers": [
+                    "It increased by 10 percent.",
+                    "Customers' opinions of it changed.",
+                    "Most customers paid too much.",
+                    "It is priced unfairly."
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "6803ec63b1e840d08738fec23fd55e91",
+        "name": "Company executive gives recommendations on what to order at business dinner.",
+        "transcript": "— Wow, everything looks so good! I'm not sure what to order.— Have anything you like. It's on the company. Personally, I recommend the lobster. It's fresh from Maine -- the best in town. But the steaks are also quite good. They use only grass-fed Angus cows. And for dessert, you've got to try the New York Cheesecake!— Well thank you. That all sounds delicious. I think I'll have the lobster and a bowl of clam chowder. How about you?— I'm going to try a T-bone steak and a Caesar salad. Now, what type of wine do you fancy?",
+        "questions": [
+            {
+                "id": "84973ab0afb945a7b23fb309f9c19ecf",
+                "text": "What are the speakers mainly discussing?",
+                "answers": [
+                    "What to eat for dinner",
+                    "Where to find fresh lobster",
+                    "Why steaks are good",
+                    "Which type of wine to drink"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "5a1c5f53538641bca660e44efe7f9084",
+                "text": "What does the woman suggest for the man?",
+                "answers": [
+                    "Angus lobster",
+                    "Clam chowder",
+                    "New York cheesecake",
+                    "A Caesar salad"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "31b5cb9260f74761a2f4d0cefadbbb3b",
+                "text": "Who will pay for the meal?",
+                "answers": [
+                    "The man",
+                    "The woman's company",
+                    "The man's firm",
+                    "The man and the woman"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "333759b66a77471cbcac61bd92d71fc5",
+        "name": "Two coffee shop customers discuss how to plug in laptop computer.",
+        "transcript": "— Pardon me sir. I need to plug-in my laptop computer. Would you mind if I used the outlet by your chair?— Not at all, but I'm afraid it doesn't work. I tried it earlier.— Oh, that's a problem. I guess we can't always count on the outlets. After all, this is a coffee shop, not an office. But it seems all the other outlets are being used.— Why don't you ask at the counter? Maybe they have an extension cord, so you could plug into an outlet down the hall near the restrooms.",
+        "questions": [
+            {
+                "id": "32ac5499fffc4309979f7dc5729835b8",
+                "text": "What does the woman want to do?",
+                "answers": [
+                    "Purchase an extension cord",
+                    "Plug in her laptop computer",
+                    "Borrow the man's computer",
+                    "Recharge her laptop battery"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "004245b5140b47acb5170d253ced7abd",
+                "text": "What problem do the speakers have?",
+                "answers": [
+                    "Every outlet is in use.",
+                    "The network is down.",
+                    "A file has been deleted.",
+                    "An electrical outlet does not work."
+                ],
+                "correct": 3
+            },
+            {
+                "id": "76c3a196b7c84334bea490e1256bcf7c",
+                "text": "What will the woman do next?",
+                "answers": [
+                    "Leave the coffee shop",
+                    "Get an extension cord",
+                    "Talk with an employee",
+                    "Buy a new laptop battery"
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "128ec18821c34b5691876b977c363be7",
+        "name": "HR person calls job candidate to invite her to next interview.",
+        "transcript": "— Hello, Sheila Sarkesian? This is Mark Fredricks with Watson and Williams. You interviewed with us last week.— Oh yes, Mr. Fredricks. How are you?— I'm doing well. I'm phoning to tell you that you're a finalist for the position, and we'd like you to come in for a second interview on Wednesday or Thursday.— Wednesday works great. What time should I be there?",
+        "questions": [
+            {
+                "id": "e322ccf2696d4741b93311014841a7eb",
+                "text": "How did the speakers meet?",
+                "answers": [
+                    "At university",
+                    "At a conference",
+                    "At a job interview",
+                    "Through a friend"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "1456c514209043cab03e95c7290d64cd",
+                "text": "Why is the man calling the woman?",
+                "answers": [
+                    "To schedule a meeting",
+                    "To offer her a job",
+                    "To thank her for applying",
+                    "To request more information"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "894949e9916643948758688c930f86a7",
+                "text": "When will the speakers next meet?",
+                "answers": [
+                    "On Tuesday",
+                    "On Wednesday",
+                    "On Thursday",
+                    "On Friday"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "de2507eed4d84b3691c3f51c48cee9ec",
+        "name": "Woman asks real estate agent how many of his new apartments he has found tenants for.",
+        "transcript": "— Hello, Howard. How's your new building coming along?— Pretty well. I'm waiting for the painters to finish so I can install carpets. They still have three more apartments to paint. I'm hoping they'll finish soon, because I have the units rented, but I can't let tenants move in until the carpets are down.— Have you rented all eight of the apartments?— No, not yet. I have six of them rented, and I'm advertising for the last two in the Post-News.",
+        "questions": [
+            {
+                "id": "2771cf4dc2354fc3bc9fe3869ff419a5",
+                "text": "What are the speakers mainly discussing?",
+                "answers": [
+                    "The man's business",
+                    "Carpet cleaning",
+                    "The price of rent",
+                    "An advertisement"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "860d44a3f68945a188f838c8bbd4af73",
+                "text": "What does the man say about carpets?",
+                "answers": [
+                    "The tenants will install them.",
+                    "They are too expensive.",
+                    "He will install them after painting.",
+                    "He needs to buy three more."
+                ],
+                "correct": 2
+            },
+            {
+                "id": "e31a73e92d184510801266edcf884282",
+                "text": "How does the man say he will find more tenants?",
+                "answers": [
+                    "Via word of mouth",
+                    "Through an Internet advertisement",
+                    "Via fliers",
+                    "Through a newspaper advertisement"
+                ],
+                "correct": 3
+            }
+        ]
+    },
+    {
+        "id": "3230a7a6322a4833bd5c91d46ed808c2",
+        "name": "Doctor's secretary calls client to remind her about appointment.",
+        "transcript": "— Yes, is this Phyllis Wheatley? This is Simon from Dr. Morgan's office. I'm calling to remind you that you have an appointment for a physical exam on Tuesday at 10 a.m.— Oh, thank you for calling. I completely forgot, and now I can't make it. Sorry. Can I reschedule?— Sure. We have openings at 8 Wednesday morning or 4 Wednesday afternoon, then on Thursday at 11 a.m., and Friday in the afternoon: either 1 or 3.— Let's see. I'll be out of town Tuesday and Wednesday, then I have meetings all day Thursday. OK, so put me down for Friday at 3. I promise I won't forget. Sorry again.",
+        "questions": [
+            {
+                "id": "590e6018a93c42b5b534105f4c08d5da",
+                "text": "What is the main purpose of the discussion?",
+                "answers": [
+                    "To have a physical examination",
+                    "To remind of an obligation",
+                    "To schedule an appointment",
+                    "To review an agenda"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "d1660728a1e14d9ba87733b3ad75cd89",
+                "text": "What does the woman plan to do on Tuesday?",
+                "answers": [
+                    "Visit the doctor",
+                    "Take a business trip",
+                    "Have meetings",
+                    "Write a report"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "ff083f8c38754a05a4b382eef8981f88",
+                "text": "When will the woman see the doctor?",
+                "answers": [
+                    "At 10 a.m. Tuesday",
+                    "At 4 p.m. Wednesday",
+                    "At 11 a.m. Thursday",
+                    "At 3 p.m. Friday"
+                ],
+                "correct": 3
+            }
+        ]
+    },
+    {
+        "id": "e031f3beb679484c89ef9332cdeafea5",
+        "name": "Employee asks co-worker for his suggestions on booking conference venue.",
+        "transcript": "— Paul, do you have a minute? I'm trying to book a venue for our annual conference, and I need your input.— Sure, Tanya. What are the choices?— Well, we could use the convention center, which is very nice, but also quite expensive. The exhibition hall has a lower price, and it's more convenient, but its facilities are not as nice.— Hmm. Why don't you call the convention center and see if they'll come down? If they do, go with them, and if they don't, go with the exhibition hall.— That's a good idea. Thank you, Paul. Well, I'd better get right on it. I have to decide by Friday.",
+        "questions": [
+            {
+                "id": "1dba343e416e4a07954d588b0b0e8175",
+                "text": "What does the woman want to do?",
+                "answers": [
+                    "Choose a building",
+                    "Book a concert",
+                    "Attend a conference",
+                    "Make some money"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "90da073729b445c786a4a7dca6ef02d3",
+                "text": "What does the man suggest?",
+                "answers": [
+                    "Booking the exhibition hall",
+                    "Trying to get a discount",
+                    "Choosing a different venue",
+                    "Booking the convention center"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "c61e904706364565a629ae6d59685bcf",
+                "text": "What will the woman probably do next?",
+                "answers": [
+                    "Visit the exhibition hall",
+                    "Ask for more advice",
+                    "Phone the convention center",
+                    "Make a decision"
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "c38233410cdf4aecb3fda308231f18a9",
+        "name": "Two friends meet after a long time and decide to have dinner with their respective spouses",
+        "transcript": "— Hi Thomas! I haven't seen you in awhile.— Hey Debbie. Yes, it has been a long time. How's Gabe doing? I heard he got a promotion at the Business News.— Yes, he's going to be the special-sections editor. It's a great opportunity for him, and we can really use the extra money.— Tell him congratulations for me. We should get together for dinner sometime soon and catch up.",
+        "questions": [
+            {
+                "id": "683325e235e048fc97d500ada28a6239",
+                "text": "Who are the speakers talking about?",
+                "answers": [
+                    "The woman's husband",
+                    "The woman's supervisor",
+                    "The man's colleague",
+                    "The man's roommate"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "dffe4ce5a08841bcadf3d1f6de736d94",
+                "text": "What is the relationship between the speakers?",
+                "answers": [
+                    "Colleagues",
+                    "Friends",
+                    "Neighbors",
+                    "Classmates"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "b56dd438058d4ad7953d98a032041741",
+                "text": "What does the man suggest?",
+                "answers": [
+                    "Getting a promotion",
+                    "Making more money",
+                    "Having dinner",
+                    "Catching a bus"
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "2724de7078704a119c5e44a34aa614da",
+        "name": "A convention participant gets directions from the organizer",
+        "transcript": "— Good morning. Welcome to Boston. Are you here for the management convention?— Yes, I am. Where do I go to check in?— The registration tables are on the left side of the room. After you register, go to the tables on the right for a schedule of seminars and more information about convention activities. There's free coffee and donuts in the foyer.— Thank you. Before I start, I need to use the restroom.",
+        "questions": [
+            {
+                "id": "615ee2bec09342118f2d0aa825a005ab",
+                "text": "Why is the woman in Boston?",
+                "answers": [
+                    "For vacation",
+                    "On business",
+                    "To visit friends",
+                    "To attend school"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "75bf7d3c0990417b9458b59329dad3b5",
+                "text": "What does the woman plan to do?",
+                "answers": [
+                    "Drink coffee",
+                    "Talk to management",
+                    "Register",
+                    "Take a trip"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "5b359212363347b8b1ce4d0dd8d70927",
+                "text": "What will the man probably do next?",
+                "answers": [
+                    "Check in",
+                    "Get more information",
+                    "Eat donuts",
+                    "Give directions"
+                ],
+                "correct": 3
+            }
+        ]
+    },
+    {
+        "id": "9afab50d16974690ab42a2d64b71c4b0",
+        "name": "Two friends update each other on their schedules",
+        "transcript": "— Where are you going?— London. How about you?— New York first, then Atlanta and Chicago. I've got meetings in each city the next three days.— Wow, that's a tight schedule. I'm going to hook up with friends and relax for a couple of weeks. I don't want to even think about work for awhile.",
+        "questions": [
+            {
+                "id": "a0665afd4d624f3887d532de153c5159",
+                "text": "Where is this conversation most probably taking place?",
+                "answers": [
+                    "In an office",
+                    "At a bus stop",
+                    "In an airport",
+                    "At a train station"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "5c0400c217a04a82ba83e143e5826d0d",
+                "text": "What is the purpose of the woman's trip?",
+                "answers": [
+                    "Business",
+                    "Pleasure",
+                    "Personal",
+                    "Camping"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "d4621611ccd5458daec6e7a35101fbf9",
+                "text": "What does the man plan to do?",
+                "answers": [
+                    "Take a vacation",
+                    "Work for two weeks",
+                    "Visit family",
+                    "Go to Chicago"
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    {
+        "id": "4de67140ad584a938c987ba47c34e35c",
+        "name": "A business executive asks his PA to change his schedule",
+        "transcript": "— Wanda, something personal's come up, and I need to rearrange my schedule for Wednesday. Could you please call Jim Haskell and move our Wednesday morning meeting to 8 a.m. Thursday?— Sure. Eight Thursday with Mr. Haskell. What about your Wednesday afternoon conference call with Ms. Witherspoon and Mr. Dirks?— Oh yes. See if you can push that forward to one o'clock Tuesday. If you can, reschedule any current Tuesday afternoon meetings to next week.— OK. One on Tuesday. I'll see what I can do, and I'll let you know in a few minutes.",
+        "questions": [
+            {
+                "id": "bd95a1e530874d79a3282558db769d6d",
+                "text": "What position does the woman hold?",
+                "answers": [
+                    "Manager",
+                    "Sales person",
+                    "CEO",
+                    "Secretary"
+                ],
+                "correct": 3
+            },
+            {
+                "id": "9000569efd4047e8845ce27d504b472c",
+                "text": "What is the main purpose of the discussion?",
+                "answers": [
+                    "To set appointments",
+                    "To revise a schedule",
+                    "To move a conference call",
+                    "To change a meeting time"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "dc5736de2b4b4296a07a2bc4c1c77d2f",
+                "text": "When does the man want to hold the conference call?",
+                "answers": [
+                    "Monday morning",
+                    "One o'clock Tuesday",
+                    "Wednesday afternoon",
+                    "8 a.m. Thursday"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "7aa83a70f0ba4917bfccec717f3a1d1c",
+        "name": "A customer orders a meal at a fast food counter",
+        "transcript": "— Yes, I'd like a double cheeseburger, small fries, and a chocolate milkshake please.— I'm sorry, our milkshake machine is broken. How about a Coke instead?— I think I'll have a medium root beer. Also, could you make the fries a large, please?— No problem. So, that's a double cheeseburger, large fries and a medium root beer. Would you like anything else today?",
+        "questions": [
+            {
+                "id": "58e883b60f414e3f912b7d10275c1ceb",
+                "text": "Where is this conversation probably taking place?",
+                "answers": [
+                    "At a formal restaurant",
+                    "In a school cafeteria",
+                    "At a fast-food restaurant",
+                    "At a picnic"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "584d39c610cd4000a6521d452873ffdf",
+                "text": "What problem does the man have?",
+                "answers": [
+                    "A broken appliance",
+                    "No money for change",
+                    "Sold out of Coke",
+                    "Fries aren't ready"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "897567395cdd48409e1230917f380841",
+                "text": "What does the woman say about her order?",
+                "answers": [
+                    "She wants a large root beer.",
+                    "She asks to change the size of her fries.",
+                    "She wants a triple cheeseburger.",
+                    "She agrees to substitute a Coke for a milkshake."
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "bb0b054bd48c464db8c7192bfd6cf685",
+        "name": "Two people discuss a newspaper article featuring the company profile",
+        "transcript": "— Hi Emily. I saw the article on your firm in the Times. Nice picture of Mr. Kramer.— Yes, it was a good shot. The writer was basically accurate, but unfortunately he got a couple of things wrong. First, he said that Mr. Kramer is worth of $1.5 million dollars. Actually, it's $1.5 billion.— Yeah, I thought that figure sounded too low. What was the other mistake?— Well, he reported that we were the seventh largest firm in our industry. Actually, we're the second largest.",
+        "questions": [
+            {
+                "id": "45320cf0c3ed4204857dc028467758b6",
+                "text": "What are the speakers mainly talking about?",
+                "answers": [
+                    "A photograph",
+                    "Mr. Kramer",
+                    "Money",
+                    "A newspaper story"
+                ],
+                "correct": 3
+            },
+            {
+                "id": "03cac5d7792e46e699e6ac6ade480337",
+                "text": "What does the woman say about Mr. Kramer?",
+                "answers": [
+                    "He looked good in the photo.",
+                    "He made two mistakes.",
+                    "His net worth is $1.5 billion.",
+                    "His net worth is $1.5 million."
+                ],
+                "correct": 2
+            },
+            {
+                "id": "cd4a9282f33b4c3aa169b94b43242be9",
+                "text": "What does the woman say about her firm?",
+                "answers": [
+                    "It's the second largest.",
+                    "It's the seventh largest.",
+                    "It is called the Times.",
+                    "Its president is Mr. Kramer."
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    {
+        "id": "b9a065822d6f42dfb6a290903899f62f",
+        "name": "An employee asks a colleague to help with getting the new printer to work",
+        "transcript": "— Jordan, I can't get this new printer to work. Do you have a minute?— Sure, Mandy. What's the matter?— I pressed the print button on the computer, but nothing happens. I checked, and the printer's plugged in. Can you check it out?— Let me see. Oh, here's the problem. The driver for the printer hasn't been installed on your computer. You need to use the CD-ROM that came with the printer to install the driver. After you put the CD-ROM in, just follow the instructions on the screen.",
+        "questions": [
+            {
+                "id": "8ddf03294c544966a7bd39cfe26ed356",
+                "text": "What problem does the woman have?",
+                "answers": [
+                    "Her printer is too old.",
+                    "Her printer is unplugged.",
+                    "Her printer won't print.",
+                    "Her printer is not installed."
+                ],
+                "correct": 2
+            },
+            {
+                "id": "06764338fef24584ba688451be2ba4fb",
+                "text": "What does the woman want the man to do?",
+                "answers": [
+                    "Buy a new printer",
+                    "Examine the printer",
+                    "Turn on the computer",
+                    "Get a CD-ROM"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "59861dd45877477db4cf0b7d31c620a7",
+                "text": "What does the man tell the woman?",
+                "answers": [
+                    "To plug in the printer",
+                    "To use software",
+                    "To check the hard drive",
+                    "To listen to a CD"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "f4113ace95e84c998c156db5f5ebc9c7",
+        "name": "A customer enquires about trousers in a different size",
+        "transcript": "— Excuse me, please. Do you have these Brooksbury trousers in size 38?— I'm sorry, but we're out of size 38 in Brooksbury. We do have 38s in Foster trousers. They're 100 percent cotton, very comfortable and stylish. Would you like to try on a pair of those?— Hmm, all right. How about these Brooksbury shirts? Do you have any larges in blue?— I'm afraid not. We have Foster larges in blue. Why don't you try one of those to match your pants?",
+        "questions": [
+            {
+                "id": "431df7dc3ec9421fa037f24e1ddc78ac",
+                "text": "Where is this conversation most likely taking place?",
+                "answers": [
+                    "In a clothing store",
+                    "In a pharmacy",
+                    "In an office",
+                    "In a supermarket"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "e19e76bee7804fd38ef6ad78038dd0d8",
+                "text": "What position does the woman hold?",
+                "answers": [
+                    "Customer",
+                    "Housewife",
+                    "Sales person",
+                    "Receptionist"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "dc7ef6db432f4d1dbe4d53c863233e62",
+                "text": "What does the woman suggest that the man do?",
+                "answers": [
+                    "Try a different brand",
+                    "Visit a competitor",
+                    "Get a larger size",
+                    "Try a different color"
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    {
+        "id": "358762a05df741b5bd498ad458f94fa1",
+        "name": "A cable TV customer calls technical support",
+        "transcript": "— Hello? This is Martha Hadley at 274 Bagley Boulevard. I'm having trouble with my cable TV, and I need someone to come to my home and fix it. This is the third time I've called!— Oh, I'm terribly sorry ma'm. What seems to be the trouble?— There's a loose connection with the main cable wire into my home, so none of my cable channels come in clearly. They're all fuzzy. I've already told you that! I called three days ago, and you said you'd come out the next day. I waited all day, but nobody came!— My apologies, Ms. Hadley. I can assure you we will have someone there tomorrow morning at 8 a.m. sharp.",
+        "questions": [
+            {
+                "id": "3f3f0860c24b4c6798e29c3fc241b121",
+                "text": "Why does the woman call the man?",
+                "answers": [
+                    "To compliment",
+                    "To complain",
+                    "To reschedule",
+                    "To apologize"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "65255bf2a0d44d86bfcc604f2897c8b9",
+                "text": "What problem does the woman have?",
+                "answers": [
+                    "A broken television set",
+                    "A missing wire",
+                    "A loose antenna",
+                    "Poor TV reception"
+                ],
+                "correct": 3
+            },
+            {
+                "id": "20026b9c73af46b4b42b34e307f9ae62",
+                "text": "What does the man plan to do?",
+                "answers": [
+                    "Visit the woman and apologize.",
+                    "Refer the woman to a supervisor.",
+                    "Send a worker to the woman's home.",
+                    "Refund the woman's cable money."
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "2425508a8ec746eca427bc853599c501",
+        "name": "An employee invites colleague to lunch",
+        "transcript": "— Hey Ellie. We're going to Lucky Dragon for lunch. Want to come?— I can't. I'm covering the phones for Scott. He had an 11:30 dental appointment.— Oh that's too bad. Want us to bring you something back?— Yes, thank you. I'll have the Kung Pao Chicken with Chow Mien. Could you hand me my purse, please?",
+        "questions": [
+            {
+                "id": "189da5a4997d42778ef0f3cf3c8d3d8e",
+                "text": "What is the relationship between the speakers?",
+                "answers": [
+                    "Professor-student",
+                    "Applicant-manager",
+                    "Customer-service worker",
+                    "Colleague-colleague"
+                ],
+                "correct": 3
+            },
+            {
+                "id": "d73aa9aa85324833af9e4a437a871e0d",
+                "text": "Why can't the woman go to lunch?",
+                "answers": [
+                    "She is helping a co-worker",
+                    "She is on a diet",
+                    "She has a dentist appointment",
+                    "She must fix the telephones"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "38fd5fce054a4a43ab4f23a5c108e348",
+                "text": "What will the woman probably do next?",
+                "answers": [
+                    "Answer the telephone",
+                    "Give the man money",
+                    "Order lunch",
+                    "Use the bathroom"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "7b021b8ba8bd45c79405b1647a17a2f7",
+        "name": "Two conference participants introduce themselves to each other",
+        "transcript": "— Hi, I'm Darryl Johnson with Tri-Core Industries.— Marcia Watson, Balfour Inc. Pleased to meet you. How are you enjoying the presentations so far?— Oh they're wonderful. The speakers are really well-prepared, and the visual aides are great. I'm learning so much. What do you think?— I agree, though I wish there were more sessions on niche marketing. That's my specialty.",
+        "questions": [
+            {
+                "id": "24df8648e6194b7986474fa107ad62b6",
+                "text": "Where is the conversation most likely taking place?",
+                "answers": [
+                    "In an office",
+                    "At a university",
+                    "At a conference",
+                    "In an airplanes"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "02aa094709bf4c0b9e9a4788a1a1ea8e",
+                "text": "What does the man say about the presentations?",
+                "answers": [
+                    "They are too long.",
+                    "They are informative.",
+                    "They are boring.",
+                    "They are inspirational."
+                ],
+                "correct": 1
+            },
+            {
+                "id": "b261118bcd644b3b8189f2452a030c76",
+                "text": "What does the woman want?",
+                "answers": [
+                    "Additional sessions",
+                    "Great visual aides",
+                    "Better speakers",
+                    "A marketing niche"
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    {
+        "id": "4f33a7ecf320463a9b29619ed91fedb5",
+        "name": "A prospective tenant has some questions about an apartment",
+        "transcript": "— Hello? I'm calling about the two-bedroom rental you have advertised on the Home Base website. Is that still available?— Yes it is. If you'd like to see it , we can make an appointment for this afternoon.— OK, but before I see it, I'd like a little more information. The ad said it was $1,500 a month, plus the first and last month rent in advance, plus a cleaning deposit. How much is the cleaning deposit? Also, how many bathrooms does it have?— It has two bathrooms, and the cleaning deposit is $500, half of which is non-refundable.",
+        "questions": [
+            {
+                "id": "0953749965bf46afb90d43d531c9c64c",
+                "text": "What does the woman want to do?",
+                "answers": [
+                    "Buy a house",
+                    "Rent a home",
+                    "Pay a deposit",
+                    "Place an ad"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "aac25ee7755e4b7885e71e87a81fcdb3",
+                "text": "What does the man say about the cleaning deposit?",
+                "answers": [
+                    "It is $5,000.",
+                    "It is fully refundable.",
+                    "He will waive it.",
+                    "He will keep half of it."
+                ],
+                "correct": 3
+            },
+            {
+                "id": "5e2931c28d4e4f88afc9dad80545c157",
+                "text": "What will the speakers probably do next?",
+                "answers": [
+                    "Pay first and last months' rent",
+                    "Clean the home",
+                    "Make an appointment",
+                    "Collect a deposit"
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "60876c3d2eea41769705900e0bb3c0ca",
+        "name": "A man asks a woman about a bus schedule",
+        "transcript": "— Excuse me. Do you know if I can catch the 325 express at this stop?— No, only the regular 325. You can catch the express on Fifth Street. Go up to the intersection, turn right, then take the first left onto Fifth. The stop will be on your right.— Thank you. Would you happen to know how often the 325 express runs?— Every 20 minutes, I believe. It's 3:10 now, so if you hustle you can catch the next one.",
+        "questions": [
+            {
+                "id": "fb8cd351722e4acc9408d4ccd6b3891a",
+                "text": "Where is this conversation most likely taking place?",
+                "answers": [
+                    "At a bus stop",
+                    "In a train station",
+                    "At an airport",
+                    "In an office"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "d90ca231574d444e9a5781dc8e1d79ae",
+                "text": "What does the man want to know?",
+                "answers": [
+                    "What time it is",
+                    "How to get downtown",
+                    "Where to board a bus",
+                    "Which street he is on"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "2bf9627fef72479085c620accd2a8ff8",
+                "text": "What does the woman suggest the man do?",
+                "answers": [
+                    "Relax",
+                    "Hurry",
+                    "Take a taxi",
+                    "Ride a bike"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "40581f56032e4c5ba4a3521d9884544b",
+        "name": "Two Business executives discuss profit strategies",
+        "transcript": "— Our revenues are down 20 percent this quarter. Anyone have ideas how to bring them up?— I think we need to promote more heavily. Our new X-3PO is a great product. Once more people know about it, sales will soar. This will create demand for our other products.— So, are you saying we should spend more money on advertising?— Not necessarily. But we should try different advertisements designed to get the X-3PO in customers' hands. Like 2-for-1 deals, and free downloads on new X-3POs.",
+        "questions": [
+            {
+                "id": "bc4e5abd924c4dff88fdc465f2310ae8",
+                "text": "What are the speakers mainly discussing?",
+                "answers": [
+                    "Why sales have declined",
+                    "When to launch a new product",
+                    "Where to advertise",
+                    "How to make more money"
+                ],
+                "correct": 3
+            },
+            {
+                "id": "e2d4c1c2638f459f9637b2e211c2342d",
+                "text": "When does the conversation take place?",
+                "answers": [
+                    "During a meeting",
+                    "During lunch",
+                    "During a job interview",
+                    "During a party"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "83f9eccbfaa74460a4449d7037a296b6",
+                "text": "What does the man suggest?",
+                "answers": [
+                    "More advertisements",
+                    "Additional revenue",
+                    "New promotions",
+                    "Increased discounts"
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "cc284eebc40a4ab1bee3ed61e39d79da",
+        "name": "Two women discuss recent discount sales at a store",
+        "transcript": "— Morning, Melissa. Where are you off to so early on a Saturday?— There's a huge sale today at CostLess. Most items are at least 50 percent off. The store doesn't open until 9, but I need to get in line.— Well, you'd better bring a book or a laptop with you; it's going to be a long wait. Those CostLess sales are always crazy. Good luck fighting the mob!— Oh I don't mind. I have some knitting to keep me busy, and it's worth it to get half off a new TV. Have a good day!",
+        "questions": [
+            {
+                "id": "73b9e2fb19ef46299f055b99095e2323",
+                "text": "Who most likely are the speakers?",
+                "answers": [
+                    "Colleagues",
+                    "Classmates",
+                    "Neighbors",
+                    "Best friends"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "b9aace1cd650404c8927b420a4f78651",
+                "text": "What does the woman plan to do?",
+                "answers": [
+                    "Go to work",
+                    "Go shopping",
+                    "Read a book",
+                    "Watch TV"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "f24f716ba7b84f7d9ef317e08c925df8",
+                "text": "What does the man say about the sale?",
+                "answers": [
+                    "He wants to go too.",
+                    "The items are overpriced.",
+                    "He does not need a new TV.",
+                    "There are too many people."
+                ],
+                "correct": 3
+            }
+        ]
+    },
+    {
+        "id": "81adcfd57cf34687bdf9cb30d6536763",
+        "name": "A customer pays cash in a store",
+        "transcript": "— I'll take two. Here you are.— Do you have any smaller bills? I'm afraid I don't have change for a hundred.— I'm sorry, I don't. And I don't have my checkbook with me either. Do you accept credit cards?— No, only cash and check. There's an ATM machine in the bank across the street.",
+        "questions": [
+            {
+                "id": "ff51bb2c298c43ce8fdf5266733606d9",
+                "text": "What is the relationship between the speakers?",
+                "answers": [
+                    "Salesman-buyer",
+                    "Manager-employee",
+                    "Shopper-shopper",
+                    "Applicant-manager"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "8032751d300e4b9c8fabf0f6547aa0f7",
+                "text": "What problem does the woman have?",
+                "answers": [
+                    "She cannot change his job.",
+                    "She does not have enough money.",
+                    "Her bills are too large.",
+                    "She forgot his checkbook."
+                ],
+                "correct": 2
+            },
+            {
+                "id": "5a6f269c229f4d1898616a3381b113ae",
+                "text": "What does the man suggest that the woman do?",
+                "answers": [
+                    "Put money in a bank.",
+                    "Get a smaller amount of money.",
+                    "Come back in the afternoon.",
+                    "Use her credit card to write a check."
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "ef22e4a3ea9e43cea35c24e666973130",
+        "name": "Two employees talk about one of their former colleagues",
+        "transcript": "— You know who I ran into yesterday? Lenny Ramos!— Lenny, our former programmer? What's he doing these days?— He was out of work for three months after he got laid off here, but now he has a new job with Banana Computers. He loves it, and he's making more money.— Good for him! He's such a hard worker, I knew he'd land on his feet.",
+        "questions": [
+            {
+                "id": "68b2ccdcf8f34e4aba5d841fd680d620",
+                "text": "Who are the speakers talking about?",
+                "answers": [
+                    "Their supervisor",
+                    "An ex-colleague",
+                    "The man's roommate",
+                    "The woman's brother"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "f7f02302bc8c49e8a1e8de67b8c57820",
+                "text": "What does the man say about Lenny?",
+                "answers": [
+                    "He used to work for Banana Computers.",
+                    "He was unemployed for three years.",
+                    "He took a pay cut with his new position.",
+                    "He really likes his new job."
+                ],
+                "correct": 3
+            },
+            {
+                "id": "800f76460ed34d3095bd80055eed4f62",
+                "text": "What does the woman say about Lenny?",
+                "answers": [
+                    "He is diligent.",
+                    "He is lucky.",
+                    "He is intelligent.",
+                    "He is thrifty."
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    {
+        "id": "6dce3a65a4be40bda63e93bf996d6211",
+        "name": "Two people talk about their cell phone providers",
+        "transcript": "— Oh no! I can't get a signal with my cell phone. I've just about had it with this cell company!— Hmm, I can get a signal here. Why don't you try my cell provider? I've been very happy with them. I pay $60 a month, and they gave me a free phone.— Only sixty dollars a month? My company charges $79, and I had to pay for my phone on top of that. Plus, you get better reception.— Come on, let's go to my cell phone store. I'll introduce you to my sales agent, and she'll set you up.",
+        "questions": [
+            {
+                "id": "eceb6ecb914a4c6a9d51fb97748ad5a2",
+                "text": "What are the speakers mainly discussing?",
+                "answers": [
+                    "The price of cell phones",
+                    "Signal strength",
+                    "Mobile phone service",
+                    "The economy"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "309c364465914b4ea35d935c9c48d8e6",
+                "text": "How does the woman feel about her cell phone company?",
+                "answers": [
+                    "Satisfied",
+                    "Frustrated",
+                    "Infuriated",
+                    "Ecstatic"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "3d5754596f5749578eb9b4cb6fcb2e64",
+                "text": "What does the man suggest that the woman do?",
+                "answers": [
+                    "Borrow his phone",
+                    "Get better reception",
+                    "Change vendors",
+                    "Register a complaint"
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "ed4b90b6155749b59c26aa545284b740",
+        "name": "Two patients talk about their health problems",
+        "transcript": "— I just feel exhausted lately, like I can't get enough sleep. And I seem to have a constant headache. How about you?— I fell and hurt my wrist a couple of days ago. I thought it was just a sprain, but it still throbs and it hurts when I use the keyboard, so I thought I'd better get it checked out.— That's a good idea. You can't be too careful when it comes to your health.— Ms. Westerman— Oh that's me. Nice talking with you. Good luck.",
+        "questions": [
+            {
+                "id": "59552be815014c708d4c053b903cbccd",
+                "text": "Where is this conversation most likely taking place?",
+                "answers": [
+                    "In a waiting room",
+                    "At a law firm",
+                    "In a lunchroom",
+                    "At a restaurant"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "0eed9f96c521428793ae7a6c37c051af",
+                "text": "What problem does the man have?",
+                "answers": [
+                    "He hurt his wrist.",
+                    "He is tired.",
+                    "He bumped his head.",
+                    "He can't get to sleep."
+                ],
+                "correct": 1
+            },
+            {
+                "id": "203b3353a072452db1a97b6410e22121",
+                "text": "What problem does the woman have?",
+                "answers": [
+                    "She injured her wrist.",
+                    "Her head throbs.",
+                    "She can't use a keyboard.",
+                    "She sleeps too much."
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    {
+        "id": "4e461a64d05d494f94acfec53cc3b3ee",
+        "name": "The HR manager informs A job candidate about her success",
+        "transcript": "— Hello, Ellison residence, Linda speaking.— Linda, this is Paul McCarthy from Technocratic. We've reviewed your resume, and decided we'd like you to join our team. Congratulations! Could you start next week at 8 a.m. Monday?— Thank you! That's great! Yes, Monday at 8 would be fine.— OK, super. Before you begin, we need you to fill out some additional paperwork. Is there a day this week that you could come in for an hour or two?",
+        "questions": [
+            {
+                "id": "34de8b48985a4bfcabc0ea7bda2d458a",
+                "text": "What is the relationship between the speakers?",
+                "answers": [
+                    "Colleague-colleague",
+                    "Company-client",
+                    "Salesman-buyer",
+                    "Manager-applicant"
+                ],
+                "correct": 3
+            },
+            {
+                "id": "ec91f38e9ddc45af86f3e65f30e68731",
+                "text": "Why does the man phone the woman?",
+                "answers": [
+                    "To review her resume",
+                    "To reject her application",
+                    "To offer her a job",
+                    "To ask her for a date"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "32623cf2b58e44ce876669304001f215",
+                "text": "What will the speakers probably do next?",
+                "answers": [
+                    "Hang up",
+                    "Set an appointment",
+                    "Start working",
+                    "Conduct an interview"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "d638ff61a5f945418e183acab21dd535",
+        "name": "An employee ask her co-worker for small change",
+        "transcript": "— Hey Bill, do you have any change? I need some quarters for the vending machine.— Another healthy lunch today, eh Paula? Let me see, I can change a dollar. Here you are.— Thanks. I'm working on the Pratt Project. It's due this week, and I don't have time to get out for lunch. Oh no, I need two more quarters.— Why don't you ask Theresa? She'll be back soon.",
+        "questions": [
+            {
+                "id": "77745733153b4210a9555d9ddd7c6e7d",
+                "text": "Who most likely are the speakers?",
+                "answers": [
+                    "Acquaintances",
+                    "Co-workers",
+                    "Neighbors",
+                    "Siblings"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "014f4eaf18594de087f135c6dc71d595",
+                "text": "What problem does the woman have?",
+                "answers": [
+                    "She needs coins.",
+                    "The vending machine is broken.",
+                    "Her project is overdue.",
+                    "She did not eat breakfast."
+                ],
+                "correct": 0
+            },
+            {
+                "id": "3afcd958b2d746db97bf01649d5eaa60",
+                "text": "What does the man suggest?",
+                "answers": [
+                    "To go out for lunch",
+                    "To skip lunch",
+                    "To make change for a dollar",
+                    "To wait for a colleague"
+                ],
+                "correct": 3
+            }
+        ]
+    },
+    {
+        "id": "83e403102a224ba0bb926994b5d88065",
+        "name": "A business executive calls his personal assistant to ask for an airport shuttle service",
+        "transcript": "— Hello Mary, this is Ted. My flight just landed. I thought you had arranged for someone to meet me here and take me to the hotel.— I did! Wasn't there someone there holding a sign with your name on it?— No there wasn't. I've claimed my luggage, and now I'm not sure what to do.— OK, hold tight and I'll get somebody there as soon as possible. Sorry for the inconvenience.",
+        "questions": [
+            {
+                "id": "743ca3c4c5704e96961473176c16b64d",
+                "text": "What position does the woman probably hold?",
+                "answers": [
+                    "Secretary",
+                    "Manager",
+                    "Sales person",
+                    "Lawyer"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "9a069f552956485cbd9fab634feeb925",
+                "text": "Where is the man?",
+                "answers": [
+                    "At a bus stop",
+                    "In an office",
+                    "In an airport",
+                    "At a hotel"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "23df8a4e042a417f82f71553b6478b0c",
+                "text": "What problem does the man have?",
+                "answers": [
+                    "He lost his luggage.",
+                    "He needs a ride.",
+                    "He missed his flight.",
+                    "He has no money."
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "4271fb8b6e254d4cb882ada580a6fc0f",
+        "name": "Two employees compare the features of two computers",
+        "transcript": "— I don't know. I think I like the JZ computer better. What do you think?— Well, the JZ does have more memory, and it has a lot of extra features. But I think we get more for our money with the Zell.— Yeah, the Zell is a lot cheaper. JZ and Zell are both good brands, so I'm OK with either one. It's your call.",
+        "questions": [
+            {
+                "id": "77bbede115504b80979195cd2b6d21f8",
+                "text": "What are the speakers mainly discussing?",
+                "answers": [
+                    "How much money to spend",
+                    "Where to buy a computer",
+                    "How much memory they need",
+                    "Which computer to purchase"
+                ],
+                "correct": 3
+            },
+            {
+                "id": "cb1d0a99ed44450a95834615afbbdc9a",
+                "text": "What does the man say about Zell?",
+                "answers": [
+                    "It's too expensive",
+                    "It has extra features",
+                    "It's a better value",
+                    "It's not a good brand"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "8da332b387404427ad65bf72a33428cc",
+                "text": "What does the woman suggest the man do?",
+                "answers": [
+                    "Buy the JZ",
+                    "Make the decision",
+                    "Buy the Zell",
+                    "Let her decide"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "11ae3677f458498da6e097efad57fee0",
+        "name": "A customer complains about bad service",
+        "transcript": "— Yes, I had a problem with one of your agents yesterday. She was terribly rude to me.— I'm sorry to hear that. What happened?— First, she seemed to ignore me, even though I was standing right in front of her counter. I stood there for five minutes before she spoke to me. Then, when I told her my toaster didn't work and I wanted my money back, she said, \"sorry, all sales are final\" and walked away.— Oh dear, that is a problem! Rest assured, that's not typical of our service. Now, if I could please get a little more information, I'll resolve this promptly for you.",
+        "questions": [
+            {
+                "id": "165142d656d442e98f78d164d0bf4b09",
+                "text": "For what purpose is the woman talking to the man?",
+                "answers": [
+                    "To congratulate",
+                    "To argue",
+                    "To complain",
+                    "To persuade"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "416d2346e3df4116a74af2f7a6e38c72",
+                "text": "What problem does the woman have?",
+                "answers": [
+                    "Poor customer service",
+                    "A defective cell phone",
+                    "Lack of information",
+                    "Bad personal hygiene"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "627379094f4640b7bc2691b67c679a91",
+                "text": "What does the man promise?",
+                "answers": [
+                    "More information",
+                    "Better service",
+                    "Termination",
+                    "Resolution"
+                ],
+                "correct": 3
+            }
+        ]
+    },
+    {
+        "id": "3876458f901e401d93de205f635799cb",
+        "name": "An insurance company agent explains product features to a client",
+        "transcript": "— Our plan has three basic options, each of which offers the same amount of coverage. You can choose a deductible of $1,000, $2,000 or $3,000. The higher the deductible, the lower your monthly payment.— I see. And what are the monthly payments for each plan?— For a woman your age and health condition, it's $100 a month for the $1,000 deductible, then $200 and $300 for the others.— The payments are reasonable, but I'm worried about the choice of physicians and the types of prescription medications that are covered under your plan.",
+        "questions": [
+            {
+                "id": "dfe316b9dc834643853101888f88e15a",
+                "text": "What are the speakers mainly discussing?",
+                "answers": [
+                    "Physicians",
+                    "Health insurance",
+                    "Medications",
+                    "Salaries"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "592e36e847144e2085f2c35f36c7098b",
+                "text": "How does the woman feel about monthly payments?",
+                "answers": [
+                    "They are too expensive.",
+                    "They are worrisome.",
+                    "They are agreeable.",
+                    "They are a bargain."
+                ],
+                "correct": 2
+            },
+            {
+                "id": "f3dd9fa872c046578680a093a51a9ee0",
+                "text": "What will the speakers probably discuss next?",
+                "answers": [
+                    "When coverage will start.",
+                    "Other plans.",
+                    "More details of the plan.",
+                    "How to make monthly payments."
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "1ad2e9acb945421d99a5c7a009ccaf43",
+        "name": "A job candidate calls a company to speak to the HR manager",
+        "transcript": "— Enormous Corporation. Mandy Giles speaking.— Hello. My name is Martin Holt, and I'm calling regarding the newspaper advertisement for a regional manager.— Yes, Mr. Holt. You'll need to speak to Walter Jennings. He's handling interviews for that position, but he's in a meeting this morning. I'll put you through to his voice mail.— Thank you. By the way, do you know what time Mr. Jennings will be out of his meeting? I want to make sure I'm available for his call.",
+        "questions": [
+            {
+                "id": "737aeda21bcc4cbcad7e3e290330a982",
+                "text": "Who does the man need to speak to?",
+                "answers": [
+                    "Mandy Giles",
+                    "Martin Holt",
+                    "Walter Jennings",
+                    "Voice mail"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "2c703fd5046c4e56ae2be3aa2721d908",
+                "text": "What is the purpose of the man's phone call?",
+                "answers": [
+                    "To apply for a job",
+                    "To interview the regional manager",
+                    "To inquire about a meeting",
+                    "To speak to Mandy Giles"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "21dbc744d8714af09aab16388506ba94",
+                "text": "What does the woman offer to do?",
+                "answers": [
+                    "Phone Walter Jennings",
+                    "Return the man's call",
+                    "Take a message",
+                    "Transfer the phone call"
+                ],
+                "correct": 3
+            }
+        ]
+    },
+    {
+        "id": "495f1cb811a1400ab68289ef823d9e5f",
+        "name": "A dentist's assisAnt calls a patient to remind him about an appointment",
+        "transcript": "— Hello, Stephen Schwartz? This is Terry at Dr. Driller's office, reminding you that you have an appointment at 8:30 tomorrow for a teeth cleaning.— Thanks for calling. Actually, I have a bad cold, and I don't think I'll be able to make it. Could we reschedule for next week? Say, Monday or Thursday morning?— Next week we have openings at 8 and 10:30 on Monday, and 9, 10, and 11:30 on Thursday.— Let's do 8 Monday -- oh no, wait, I have a meeting that day. Let's make it 10 o'clock Thursday.",
+        "questions": [
+            {
+                "id": "d0f632a4d9334f7ba5b96ff95ac5acbd",
+                "text": "What is the main purpose of the discussion?",
+                "answers": [
+                    "To schedule an appointment",
+                    "To issue a reminder",
+                    "To agree on an agenda",
+                    "To debate a mistake"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "ac497b69bd8549fd9b680af703b8cc46",
+                "text": "What is the man's problem?",
+                "answers": [
+                    "He is busy.",
+                    "He is sick.",
+                    "He is injured.",
+                    "He is tired."
+                ],
+                "correct": 1
+            },
+            {
+                "id": "ba3032963b24472c82644b56aa3e1c2f",
+                "text": "When will the man get his teeth cleaned?",
+                "answers": [
+                    "At 8 on Monday",
+                    "At 10:30 on Monday",
+                    "At 9 on Thursday",
+                    "At 10 on Thursday."
+                ],
+                "correct": 3
+            }
+        ]
+    },
+    {
+        "id": "58d8aabdfb914effa7a3a0a65b5ec0eb",
+        "name": "Two people discuss the latest newspaper headlines",
+        "transcript": "— Is there anything interesting in the paper today?— Well, Perry Fondue died yesterday.— Really? That's too bad. I loved him in Too Noisy on the Eastern Front. He was great in those kind of macho, tough-guy roles.— Yeah, but he wasn't one dimensional. He could also play sensitive parts. Didn't he win an Oscar for that love story, The Russian Patient?",
+        "questions": [
+            {
+                "id": "d74b89ab39684c36a1357dc3aed474a1",
+                "text": "Who are the speakers talking about?",
+                "answers": [
+                    "A singer",
+                    "A playwright",
+                    "An actor",
+                    "An artist"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "9b7ac23b0a824f0b9d02d9af21c63c3c",
+                "text": "What does the man say about Perry Fondue?",
+                "answers": [
+                    "He was one-dimensional.",
+                    "He was masculine.",
+                    "He was bad.",
+                    "He was sensitive."
+                ],
+                "correct": 1
+            },
+            {
+                "id": "50d3c2913b7841a886ca96a7480afdc4",
+                "text": "What does the woman say about Perry Fondue?",
+                "answers": [
+                    "He was versatile.",
+                    "He was handsome.",
+                    "He won an Emmy.",
+                    "He starred in a thriller."
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    {
+        "id": "573f2f27b7d14ad2a89a29e14d44e5bd",
+        "name": "A catering customer orders food by phone",
+        "transcript": "— Hello? Yes, I'd like an order to be delivered.— Certainly. Our specials today are a large pepperoni and onions for $12, and a medium Canadian Bacon and pineapple for $9.— I think I'll have a large barbeque chicken and green peppers with extra cheese. And I'd like a side order of salad with a medium Sprite.— OK, that's one large chicken-green pepper pie extra cheese, with a salad and Sprite. And where are we taking that to today?",
+        "questions": [
+            {
+                "id": "3ae518d0d718449aad8bbf2e768bdd43",
+                "text": "What does the woman want to do?",
+                "answers": [
+                    "Ask about specials",
+                    "Take an order",
+                    "Compare prices",
+                    "Buy pizza"
+                ],
+                "correct": 3
+            },
+            {
+                "id": "2579a2d157d4438ba0926bb49e988422",
+                "text": "What does the man suggest?",
+                "answers": [
+                    "A daily special",
+                    "A salad and Sprite",
+                    "Home delivery",
+                    "Extra cheese"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "72f627ec1a464664b695444726639168",
+                "text": "What will the woman probably do next?",
+                "answers": [
+                    "Change her order.",
+                    "Eat lunch.",
+                    "Ask for a discount.",
+                    "Give her address."
+                ],
+                "correct": 3
+            }
+        ]
+    },
+    {
+        "id": "c9a0e4c8418d4bb793b42d658621491e",
+        "name": "Two employees discuss a memo concerning new dress code",
+        "transcript": "— Did you get the memo on the new dress code? Wow. How ridiculous!— Yeah, I couldn't believe it. No more casual Fridays. And no more sneakers or short-sleeve shirts. We're going to be a lot more formal now.— Yeah, I guess management decided we look too unprofessional when customers come into the office. Which happens like what, twice a month?— I know. And anyway, they shouldn't judge us by our looks, they should judge us by our performance.",
+        "questions": [
+            {
+                "id": "6fe5f6b32f96416b9b7a264e2e796b64",
+                "text": "Where is the conversation most likely taking place?",
+                "answers": [
+                    "In an office",
+                    "In a mall",
+                    "At a train station",
+                    "At a hotel"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "a91f7472af624c92b7d114f2abd93dc8",
+                "text": "What are the speakers mainly discussing?",
+                "answers": [
+                    "Computer code",
+                    "A company policy",
+                    "Formal attire",
+                    "Management"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "7beff65e42804eb38b892d0ff78d4d05",
+                "text": "How do the speakers feel about the new regulation?",
+                "answers": [
+                    "They like it.",
+                    "They are ambivalent.",
+                    "They think it's unnecessary.",
+                    "They want more formality."
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "e4162cfd581840dda83872695edb2a84",
+        "name": "A bank customer is withdrawing cash from his account",
+        "transcript": "— Here's your withdrawal receipt. How would you like your bills? Are 20s OK?— Could I get three 20s, three 10s, a five and five ones?— Sure. Is there anything else I can help you with today?— No thank you.",
+        "questions": [
+            {
+                "id": "b4aac03efc4d463f8a43c0bec5cd59d6",
+                "text": "Where is this conversation most likely taking place?",
+                "answers": [
+                    "In an office",
+                    "In a store",
+                    "In a meeting",
+                    "In a bank"
+                ],
+                "correct": 3
+            },
+            {
+                "id": "505958d60e4746dc89121a096b1aef44",
+                "text": "What does the woman want?",
+                "answers": [
+                    "More money",
+                    "Different bills",
+                    "A withdrawal receipt",
+                    "A checking account"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "a5447760387e4e379ab2b7ab58ecce60",
+                "text": "What does the man offer?",
+                "answers": [
+                    "Additional assistance",
+                    "Twenty bills",
+                    "A deposit receipt",
+                    "A compliment"
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    {
+        "id": "2bd10b06784a46c79340568f5d8acc3d",
+        "name": "A customer makes an appointment to have his car serviced",
+        "transcript": "— Hello, I need to make a service appointment for my 2006 Toyashi Camelot. It doesn't shift smoothly. When I shift from second to drive, the engine stalls for a minute before it kicks in.— OK, we'll need to take a look at that. I have openings Tuesday morning at 9, Wednesday at 11, Thursday at 8 and 10, and Friday at noon and 2. — Let me see...Wednesday and Friday won't work. Tuesday's good. Wait, Thursday's better. Let's do the 8 o'clock.— Right. Eight on Thursday. What's your name?",
+        "questions": [
+            {
+                "id": "ee8194ea264f44c2ae2218bff7217ca8",
+                "text": "What is the main purpose of the conversation?",
+                "answers": [
+                    "To solve a problem",
+                    "To discuss automobiles",
+                    "To set an appointment",
+                    "To service a car"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "7a773b3ca0804246b945acfb3e0c1a70",
+                "text": "What problem does the woman have?",
+                "answers": [
+                    "She cannot get good service.",
+                    "Her car isn't working properly.",
+                    "Her engineer is stalling.",
+                    "She's busy on Wednesday and Friday."
+                ],
+                "correct": 1
+            },
+            {
+                "id": "cdbcde63ac6241718eda6967e812f4a7",
+                "text": "When is the woman's appointment?",
+                "answers": [
+                    "Tuesday at 9",
+                    "Wednesday at 11",
+                    "Thursday at 10",
+                    "Thursday at 8"
+                ],
+                "correct": 3
+            }
+        ]
+    },
+    {
+        "id": "d2b01a2c30764da8aef3206b0835b6e2",
+        "name": "A conversation at a store checkout",
+        "transcript": "— Your total comes to $53.69. Do you have one of our \"preferred shopper\" cards?— Oh yes, thank you. I almost forgot. Here you are.— OK, with this your new total is $44.33. Will that be cash, check or credit?— Visa.— All right. Please swipe it through the slot there.",
+        "questions": [
+            {
+                "id": "f525aea57b084c59b2418eebf1a6f2f3",
+                "text": "What position does the man hold?",
+                "answers": [
+                    "Banker",
+                    "Cashier",
+                    "Shopper",
+                    "Executive"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "3031984adcd04282a5384a9871c7a793",
+                "text": "Where is this conversation most likely taking place?",
+                "answers": [
+                    "In a store",
+                    "In a library",
+                    "At a cinema",
+                    "At a train station"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "ed3ba78e52454fbe936d01545188416d",
+                "text": "How does the woman pay?",
+                "answers": [
+                    "With a special card",
+                    "With cash",
+                    "With a credit card",
+                    "With a check"
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "511f9a52aef744a4b7f1d7f3c679940e",
+        "name": "A new hire gets briefed on the company's sick and vacation policy",
+        "transcript": "— In addition to two weeks' paid vacation, we allow for six annual sick days, and one personal day off each year.— Are the sick days \"use them or lose them?\"— Yes. They do not carry over. You must use all six in one year. The same with the personal day. Any more questions I can answer?— Not right now, but I might after I look through some of this material.",
+        "questions": [
+            {
+                "id": "1cce409ff9e34e5a8fb663fc2b9acbec",
+                "text": "What is the relationship between the speakers?",
+                "answers": [
+                    "Colleague-colleague",
+                    "Applicant-manager",
+                    "Company-client",
+                    "Salesman-buyer"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "f35ec8048051486c8d7ce8d524cf4d1d",
+                "text": "What does the woman say about sick days?",
+                "answers": [
+                    "They can be used as personal days.",
+                    "They can be saved for the next year.",
+                    "There is no pay for them.",
+                    "There are six per year."
+                ],
+                "correct": 3
+            },
+            {
+                "id": "6b705452d60140c0943f67e034e6444b",
+                "text": "What does the man plan to do?",
+                "answers": [
+                    "Take two weeks' paid vacation",
+                    "Accept the position",
+                    "Learn more about the job",
+                    "Use all his sick days."
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "8396cc20798246f6942ed6874f09c610",
+        "name": "An employee introduces the intern to her co-worker",
+        "transcript": "— Martha, have you met Benjamin yet? He's our new summer intern from State University.— No Scott, I haven't. I hope he's as good as the intern we had last summer. That young man worked really hard.— Benjamin seems sharp. And he's ambitious too. He said after he gets his business degree, he wants to go to law school and become a criminal lawyer.— Oh my. Maybe we'll see him on TV one day, defending a celebrity in a famous trial!",
+        "questions": [
+            {
+                "id": "bbecacd3e4324ba98bc78508323d5af1",
+                "text": "Who are the speakers talking about?",
+                "answers": [
+                    "A lawyer",
+                    "Martha",
+                    "A college student",
+                    "Scott"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "784d7ee684fc4e78beec0cf0dc0974aa",
+                "text": "What does the man say about Benjamin?",
+                "answers": [
+                    "He's intelligent.",
+                    "He's a hard worker.",
+                    "He's lazy.",
+                    "He's going to be famous."
+                ],
+                "correct": 0
+            },
+            {
+                "id": "77b48bba9b634de6b46ba989aa3d4d9b",
+                "text": "What does Benjamin plan to do?",
+                "answers": [
+                    "Get married",
+                    "Attend graduate school.",
+                    "Defend a celebrity",
+                    "Become a TV star"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "528abe9572f24ed9a22dafa81acc43cf",
+        "name": "Two old friends meet on the bus",
+        "transcript": "— Tony, fancy seeing you here. You don't usually ride the bus.— I know. My car's in the shop, so I thought I'd give this a try.— Careful, you might become addicted. Riding the bus is great!— Sure -- if you like to wait forever and walk for miles.— Actually, the bus comes every 20 minutes. And it stops only a half-block away from our building. The best thing is the price: $15 a month with an annual pass. That's less than a tank of gas.",
+        "questions": [
+            {
+                "id": "fc4961081a5746948cd0e44ef9bc9407",
+                "text": "What are the speakers mainly discussing?",
+                "answers": [
+                    "Commuting to work",
+                    "Traveling on holiday",
+                    "Transportation costs",
+                    "Waiting and walking"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "13a6682c3f88406f9957e26df98658d5",
+                "text": "Why does the man say he is taking the bus?",
+                "answers": [
+                    "Because it is cheap.",
+                    "Because it is convenient.",
+                    "Because he is tired of driving.",
+                    "Because his car is being repaired."
+                ],
+                "correct": 3
+            },
+            {
+                "id": "eb9ae38d48354364802dd3c105d4bf8d",
+                "text": "How does the man feel about riding the bus?",
+                "answers": [
+                    "Joyful",
+                    "Ambivalent",
+                    "Enthusiastic",
+                    "Skeptical"
+                ],
+                "correct": 3
+            }
+        ]
+    },
+    {
+        "id": "d293822e31b74cb485fe0c007bb1eba3",
+        "name": "A manager is asking his subordinate why sales have dropped again",
+        "transcript": "— Come in, Bethany. Have a seat. I need to talk with you about this quarter's figures. It seems that sales have dropped again. They're down 15 percent from last year.— I know, Mr. Fenner. I'm frustrated too. My team is working quite hard, but so far the results have been disappointing.— What do you think the problem is? Do we need to make changes to the sales team?— I think it's the partly economy, and partly because we had some turnover at the start of the year. I don't think we need to make changes at this time, but we might soon if things don't improve.",
+        "questions": [
+            {
+                "id": "97edabf6680046bba96cea993ce9dda9",
+                "text": "What position does the woman probably hold?",
+                "answers": [
+                    "CEO",
+                    "Sales manager",
+                    "Accountant",
+                    "Receptionist"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "493fe977fb8a48ccb160b763ac248959",
+                "text": "What problem are the speakers mainly discussing?",
+                "answers": [
+                    "A poor economy",
+                    "Employee turnover",
+                    "Declining sales",
+                    "Lazy workers"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "877e64e6ed994345a4ec7f1aa171cffa",
+                "text": "What does the woman suggest?",
+                "answers": [
+                    "Switching teams",
+                    "Staying the course",
+                    "Creating turnover",
+                    "Working harder"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "536b0106179a4bb498da5432afdcd5a9",
+        "name": "A customer orders dessert at a restaurant",
+        "transcript": "— Could I see a dessert menu please?— Here you are. I recommend the blackberry cobbler. It's made from scratch every day.— Oh, that sounds luscious! But this chocolate mousse looks good too. This is a tough call.— If you like, I could bring you a dessert platter and you could try a bite of each before you choose.",
+        "questions": [
+            {
+                "id": "f8b2449ec30444079be4a48aaeb584f8",
+                "text": "What is the relationship between the speakers?",
+                "answers": [
+                    "Master-servant",
+                    "Employer-employee",
+                    "Waiter-customer",
+                    "Company-client"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "5c3783948e804a10bd93ce2a32fd2dd3",
+                "text": "What does the woman want to do?",
+                "answers": [
+                    "Order dessert",
+                    "Make blackberry cobbler",
+                    "Eat chocolate mousse",
+                    "Call her friend"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "5eb4187d296445be818aacef54662a51",
+                "text": "What does the man suggest?",
+                "answers": [
+                    "Getting two dishes",
+                    "Trying samples",
+                    "Eating pie",
+                    "Having chocolate"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "c9bf9835b58f4381bf49ad757ac35fcc",
+        "name": "An employee asks her co-worker to help her get extra company sports tickets",
+        "transcript": "— Melanie, help! I've got a problem with the company basketball tickets for tonight's game.— What's the matter?— I booked our suite last month to take our Tokyo partners to tonight's game. But Mr. Bradley called a few minutes ago, and he needs the suite for important clients on the Pennington account. I've already invited the Tokyo guys to the game. What should I do?— Let me call my friend at Boomington's. Their company suite is next to ours. Maybe I can round up a couple of extra tickets.",
+        "questions": [
+            {
+                "id": "b4d9aa4a8bdc4c4aa4236af0900ccab7",
+                "text": "What is the main purpose of the discussion?",
+                "answers": [
+                    "To order tickets",
+                    "To entertain clients",
+                    "To resolve a dilemma",
+                    "To argue about basketball"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "c05f45720ede472095aa5d34be85144e",
+                "text": "What is the man's problem?",
+                "answers": [
+                    "His tickets were stolen.",
+                    "He can't book a flight to Tokyo.",
+                    "The basketball game was canceled.",
+                    "There was a sudden change of plans."
+                ],
+                "correct": 3
+            },
+            {
+                "id": "31edae1dcede45b5a812a5037c645b0c",
+                "text": "What will the woman probably do next?",
+                "answers": [
+                    "Make a telephone call.",
+                    "Buy extra tickets.",
+                    "Eat something sweet.",
+                    "Watch the basketball game."
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    {
+        "id": "623ef78aa8af4f97a1e3129510fd157f",
+        "name": "Negotiating the price for a used car",
+        "transcript": "— This is a very nice car. The suggested retail price is $14,825.— Yes, it is nice. But that's a bit over my budget. We were hoping to spend about $12,000.— Let me talk to my manager for a minute. I'll be right back. (Pause). I've got good news! My manager says we can lower the price to $13,995. Could you stretch your budget a little for such a great car?— I don't know. If it were $13,000, I might be able to.",
+        "questions": [
+            {
+                "id": "fae61654f1524753a9c51c2da3ef3e93",
+                "text": "What is the relationship between the speakers?",
+                "answers": [
+                    "Shopper-shopper",
+                    "Salesperson-buyer",
+                    "Manager-employee",
+                    "Company-client"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "7983080c060f4a23b7ab551307887345",
+                "text": "What does the man want to do?",
+                "answers": [
+                    "Pay $13,000",
+                    "Stretch his budget",
+                    "Negotiate a lower price",
+                    "Compromise his values"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "e66b1c126da8434eb819e893baffca61",
+                "text": "What will the woman probably do next?",
+                "answers": [
+                    "Sell the man the car",
+                    "Talk to her manager",
+                    "Raise the price",
+                    "Make a counteroffer"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "c8e9568ee1304b0e962075564335dfbc",
+        "name": "A visitor asks for directions to an office",
+        "transcript": "— Excuse me. I'm looking for Ken Anderson's office. I have a 3 o'clock appointment.— Sure. Go up the stairs and turn right. Take a left at the second hallway. Mr. Anderson's office will be the third door on your right. It's between the conference room and the employee lounge.— Thank you. So up the stairs and turn left?— No, right. Here, I'll show you.",
+        "questions": [
+            {
+                "id": "8372d221e7e04f1cb393ce38849fc5bf",
+                "text": "What does the woman want?",
+                "answers": [
+                    "A guide",
+                    "Directions",
+                    "A phone number",
+                    "An appointment"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "07544a73655f4a0f88915044f6d00f58",
+                "text": "Where is Mr. Anderson's office located?",
+                "answers": [
+                    "On the first hallway",
+                    "On the left-hand side",
+                    "On the second floor",
+                    "Between the restroom and lunch room."
+                ],
+                "correct": 2
+            },
+            {
+                "id": "225a512334b34369bbf52b6dbdc3d81c",
+                "text": "What does the man offer to do?",
+                "answers": [
+                    "Page Mr. Anderson",
+                    "Write down directions",
+                    "Escort the woman",
+                    "Reschedule the appointment"
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "67512eaeb1184a30a47eaef4f17131b0",
+        "name": "A customer returns a clock radio to the store because it doesn't work",
+        "transcript": "— Hi. I bought this clock radio here, but the alarm doesn't work. I need to get it fixed. Here's the receipt.— We can fix it for you. Hmm, looks like the timing button is stuck. That'll run about $15.— Fifteen dollars?! But I thought you said you'd fix it for free.— We do while it's under warranty. But this warranty was for 14 days. I'm afraid it's run out.",
+        "questions": [
+            {
+                "id": "3ccdf4693f744ce5a538e443d5823311",
+                "text": "What does the man want the woman to do?",
+                "answers": [
+                    "Repair an appliance",
+                    "Give him a receipt",
+                    "Exchange a product",
+                    "Offer him a warranty"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "5261845623c44eff8f03d06846edf329",
+                "text": "What does the woman say about the clock-radio?",
+                "answers": [
+                    "She cannot fix it.",
+                    "A mechanism is jammed.",
+                    "It will cost $50 to fix.",
+                    "It is under warranty."
+                ],
+                "correct": 1
+            },
+            {
+                "id": "d51bb2f3620e45af8e47bb0e7d4442c4",
+                "text": "What problem does the man have?",
+                "answers": [
+                    "He does not have any money.",
+                    "He lost the receipt.",
+                    "The radio is too loud.",
+                    "The warranty has expired."
+                ],
+                "correct": 3
+            }
+        ]
+    },
+    {
+        "id": "4bdd45910c324b7da01ea3d54af91d58",
+        "name": "An employee asks his co-worker for small change",
+        "transcript": "— John, do you have two tens for a twenty?— I have a ten and two fives. Will that work?— Yes, thank you. I'm taking my car for an emissions inspection during lunch hour, and they always want the exact amount.— I know, that's annoying. I took my car for an emissions inspection last year, and all I had was a twenty. I had to walk to a bank machine and come back!",
+        "questions": [
+            {
+                "id": "0a1a044570c94196adea1a6cbe5164b9",
+                "text": "Who most likely are the speakers?",
+                "answers": [
+                    "Roommates",
+                    "Neighbors",
+                    "Colleagues",
+                    "Students"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "6a3b4f947f9449819841862316d9d31d",
+                "text": "What does the woman want?",
+                "answers": [
+                    "Change for $20",
+                    "Two fives and a ten",
+                    "The exact amount",
+                    "An inspection"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "406f431f8409402fb325601ba13955ef",
+                "text": "What will the woman do at lunch hour?",
+                "answers": [
+                    "Go to a restaurant",
+                    "Service her car",
+                    "Purchase emissions",
+                    "Use a bank machine"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "997a63f276b9496e9e61a62cc0eae315",
+        "name": "A woman tells her friend how busy she is with her work",
+        "transcript": "— Hey Lila, is that you under all those papers?— Yes Brandon, it's me. I'm grading final exams for my world literature class. It's exhausting!— Tell me about it. I was up 'til two last night marking finals for my American History students.— I'll be so glad when this semester's finally over! I'm going to do nothing but sleep during the break.",
+        "questions": [
+            {
+                "id": "a458517843124796b135d482783451a6",
+                "text": "Where do the speakers work?",
+                "answers": [
+                    "At a newspaper",
+                    "At a law office",
+                    "At a software company",
+                    "At a university"
+                ],
+                "correct": 3
+            },
+            {
+                "id": "9292630a0ffa4c63bcc69978005c8c17",
+                "text": "What is the main purpose of the discussion?",
+                "answers": [
+                    "To debate",
+                    "To commiserate",
+                    "To negotiate",
+                    "To plan"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "86b6b2b804924b5a90ca0186da535552",
+                "text": "What does the woman plan to do?",
+                "answers": [
+                    "Work",
+                    "Sing",
+                    "Rest",
+                    "Write"
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "1afa53b736e54a2080eefee5c37d882c",
+        "name": "A woman calls up a company to accept a job offer",
+        "transcript": "— Hello, Mr. Santos? This is Brenda Carlisle.— Yes, Brenda. Have you thought about our offer?— Yes I have. And I accept. I'd love to work for Nano Tech Industries.— Wonderful. We're glad to have you aboard. Now, before you begin, there are some paperwork details to be taken care of.",
+        "questions": [
+            {
+                "id": "cea2a96a60c54d4c8313462d71a53eea",
+                "text": "What is the relationship between the speakers?",
+                "answers": [
+                    "Manager-applicant",
+                    "Teacher-student",
+                    "Colleague-colleague",
+                    "Company-client"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "5dcbb2f3c88440cb847de34ab2dc7836",
+                "text": "What is the main purpose of the discussion?",
+                "answers": [
+                    "To fill out paperwork",
+                    "To come aboard",
+                    "To clarify a point",
+                    "To confirm a job"
+                ],
+                "correct": 3
+            },
+            {
+                "id": "e9ab243e8809497c85baad8087bc1db2",
+                "text": "What will the man probably talk about next?",
+                "answers": [
+                    "Salary",
+                    "Routine procedures",
+                    "Vacation pay",
+                    "Technical specifications"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "258e1c5f7d364e59a4519b39f93c2c66",
+        "name": "A radio news anchorman asks his colleague for a weather update",
+        "transcript": "— Now let's check on Tri-County weather. Sandy, is this rain ever going to stop?— Yes Paul, it is. We expect it to slow to light drizzle by tomorrow morning, followed by a partly cloudy afternoon. And Wednesday and Thursday are shaping up to be partly sunny.— That's great! Will the sun stick around for the weekend?— It probably will. As we look at the weather map, we can see this low-pressure front moving our way is pushing out the clouds, bringing sunshine and warmer temperatures.",
+        "questions": [
+            {
+                "id": "0a868aac2b2d4e09a3c5c947d841a7cb",
+                "text": "Where does the conversation take place?",
+                "answers": [
+                    "On a beach",
+                    "At a radio station",
+                    "In a TV studio",
+                    "In an office"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "e4139a9d6f884e9f8c14052b40c89a83",
+                "text": "What position does the woman hold?",
+                "answers": [
+                    "News anchor",
+                    "Forecaster",
+                    "Director",
+                    "Producer"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "685b9195b47e48bdb969cd5fccf12072",
+                "text": "What does the woman say about the weekend?",
+                "answers": [
+                    "It will likely be sunny.",
+                    "There will be drizzle.",
+                    "Temperatures will drop.",
+                    "Clouds will come back."
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    {
+        "id": "111992538bb544228f9eb80597cf43cd",
+        "name": "A business executive gives a financial report at a meeting",
+        "transcript": "— Next on the agenda is a financial report. Simon.— Well, this was a good quarter for us. As you can see -- if I can just get this slide to work, ah there it is -- our revenues exceeded expenditures by about $10,000. Much of that was due to holiday sales. As this chart shows, this holiday season was about 10 percent better than last year's.— That's certainly good news. So how do we stand overall?— Well, despite this quarter we're still in the red, but we've closed the gap considerably. Here's what it looks like. We have $100,000 in credits against $120,000 in debits.",
+        "questions": [
+            {
+                "id": "fd117603cee74d7f8f6b4ba09b200c2e",
+                "text": "When does the conversation take place?",
+                "answers": [
+                    "During a meeting",
+                    "During an interview",
+                    "During a TV show",
+                    "During lunch"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "0b82585d366d4d04a14f5d11ccdd1d4f",
+                "text": "What does the man say about the quarter?",
+                "answers": [
+                    "Expenditures exceeded revenues.",
+                    "Holiday sales were down.",
+                    "It was profitable.",
+                    "It put the company in the black."
+                ],
+                "correct": 2
+            },
+            {
+                "id": "96aab6e0c13b4e4e8979d913d267b508",
+                "text": "What position does the woman hold?",
+                "answers": [
+                    "Receptionist",
+                    "Sales person",
+                    "Comptroller",
+                    "Manager"
+                ],
+                "correct": 3
+            }
+        ]
+    },
+    {
+        "id": "70b585ac9ec143eb98d10d34d5605357",
+        "name": "Two customers talk about the service and the food at a restaurant",
+        "transcript": "— That was better than I expected. The service was a little slow, but the salad was huge, and my chicken was excellent! What did you think?— My steak was a little too rare, but the soup was very good. I agree the service was slow, but they were busy tonight.— Yeah, I'm just happy we could get Friday reservations on such short notice.— Yes. And the evening's still young. So....?",
+        "questions": [
+            {
+                "id": "0bfe15bb91c8406bae31f2135dc1330a",
+                "text": "What are the speakers mainly talking about?",
+                "answers": [
+                    "Food",
+                    "A restaurant",
+                    "Service",
+                    "Steak"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "03a4e65f6899476abb4ad41771b41d9c",
+                "text": "How does the man feel about his dining experience?",
+                "answers": [
+                    "Mildly disappointed",
+                    "Pleasantly surprised",
+                    "Wildly enthusiastic",
+                    "Totally ambivalent"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "25f566469c30459cbf6ab33b09513cfd",
+                "text": "What will the speakers discuss next?",
+                "answers": [
+                    "Washing dishes",
+                    "Dessert",
+                    "Evening plans",
+                    "Reservations"
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "d74962bf8bd8429282c08ecf0a54b61c",
+        "name": "Two business people meet at a conference",
+        "transcript": "— Hi. I'm Patricia Pepper with Marmalade Inc.— Hello. Sean Alexander, Lincoln Tech.— Lincoln Tech? You've certainly come a long way. What do you think so far?— It's been worth it. I'm learning so many new marketing strategies, and I'm meeting all kinds of interesting people like you. So what do you do with Marmalade?",
+        "questions": [
+            {
+                "id": "5aaa585300e54cbe90aa7ec883966136",
+                "text": "What is the main purpose of the discussion?",
+                "answers": [
+                    "To introduce",
+                    "To critique",
+                    "To complain",
+                    "To celebrate"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "339d06283226440abb2da7e590383b74",
+                "text": "Where does the conversation most likely take place?",
+                "answers": [
+                    "In an airport.",
+                    "In an office.",
+                    "At a club.",
+                    "At a convention."
+                ],
+                "correct": 3
+            },
+            {
+                "id": "3ad384040cc24760b7a86de1b5821b4e",
+                "text": "What does the man ask the woman?",
+                "answers": [
+                    "Which company she works for",
+                    "How far she's traveled",
+                    "What her name is",
+                    "What position she holds"
+                ],
+                "correct": 3
+            }
+        ]
+    },
+    {
+        "id": "79aaed82f30c4d189fe8ce171d3ad102",
+        "name": "An employee asks his co-worker to help him with the photo copier",
+        "transcript": "— Colleen! The copy machine is down again.— What's the problem this time? Let's see. It has paper. It's not jammed. It has enough ink. Oh, it needs new toner.— Great. I have to make 20 copies of this report for a 1 p.m. presentation! Should I use the one on the fourth floor?— No, this won't take long to fix. Go to the supply room, and the toner is in the bottom left-hand cupboard.",
+        "questions": [
+            {
+                "id": "53ef546c1d7d46d39f042f5685594c70",
+                "text": "What problem does the man have?",
+                "answers": [
+                    "He needs to write a report.",
+                    "Colleen is busy.",
+                    "The photocopier is broken.",
+                    "He has to go to the fourth floor."
+                ],
+                "correct": 2
+            },
+            {
+                "id": "9c942d475e5a45748ffe5a936429915a",
+                "text": "What does the woman say about the copy machine?",
+                "answers": [
+                    "It is out of paper.",
+                    "It is jammed.",
+                    "It does not have enough ink.",
+                    "It lacks toner."
+                ],
+                "correct": 3
+            },
+            {
+                "id": "4a2016b8637444598f8f1715ae380b69",
+                "text": "What does the woman suggest the man do?",
+                "answers": [
+                    "Use a different machine",
+                    "Go to the supply room",
+                    "Delay his presentation",
+                    "Call a repairman"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "bfaf84d162ef465a9d5ab749e019ef0b",
+        "name": "A mother is calling to explain son's absence because of sickness",
+        "transcript": "— Hello Megan? This is Corey.— Hi Corey. How are you?— I'm fine, but Jack is sick. He's got a sore throat and a cough and he's staying home from school. So he can't make his piano lesson today.— I understand. Let's see if we can make it up later in the week.",
+        "questions": [
+            {
+                "id": "49d052dae61747d2972f6a485d6fac88",
+                "text": "What position does the woman hold?",
+                "answers": [
+                    "Manager",
+                    "Housewife",
+                    "Magician",
+                    "Teacher"
+                ],
+                "correct": 3
+            },
+            {
+                "id": "6576cf6b6f354c73a7b67539f30ba7c3",
+                "text": "Who are the speakers talking about?",
+                "answers": [
+                    "The woman's husband",
+                    "The man's son",
+                    "The man's boss",
+                    "The woman's teacher"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "40d031e153464cce95a1aa7ea4da4861",
+                "text": "What does the woman suggest?",
+                "answers": [
+                    "Canceling an appointment",
+                    "Visiting a doctor",
+                    "Going to school",
+                    "Rescheduling a lesson"
+                ],
+                "correct": 3
+            }
+        ]
+    },
+    {
+        "id": "a9a31ba69bee458caa63b482d1b61cca",
+        "name": "A client wants to speak to his accountant on the phone",
+        "transcript": "— Hello? Yes, I'm trying to reach John McKay.— I'm sorry. Mr. McKay no longer works here. Is there someone else who can help you?— I don't know. Mr. McKay filed my tax return last year, and I need to ask him a couple of questions about it.— OK. Lloyd Simpson has taken over John's clients. I'll transfer you, but Mr. Simpson's direct line is 4351, in case we get disconnected.",
+        "questions": [
+            {
+                "id": "bdf0ea4b45e348769226e8142ad304ae",
+                "text": "What problem does the woman have?",
+                "answers": [
+                    "She did not file her tax return.",
+                    "She dialed the wrong number.",
+                    "She cannot reach John McKay.",
+                    "She was disconnected from Lloyd Simpson."
+                ],
+                "correct": 2
+            },
+            {
+                "id": "89d4dd9c9df840e887bdff7237ccb193",
+                "text": "What does the man suggest?",
+                "answers": [
+                    "Talking with another person.",
+                    "Calling back later.",
+                    "Transferring to another company.",
+                    "Dialing a direct line."
+                ],
+                "correct": 0
+            },
+            {
+                "id": "16a20bd7f0af4f0ea6334fa27fcc2358",
+                "text": "What does the man offer to do?",
+                "answers": [
+                    "Phone John McKay",
+                    "Transfer the call",
+                    "Leave a message",
+                    "Answer questions"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "ad6cb68b1ab04cc78222a43ceb6a11ca",
+        "name": "Leaving a message on the phone",
+        "transcript": "— Hello, is Randy Johnson available?— Mr. Johnson is in a meeting right now. Would you like to leave a message for him?— Yes please. This is Charley Cowles from Gecko Insurance. Could you please have him call me back as soon as he can? My number is 655-829-0657.— Sure. And can I tell him what this is regarding?",
+        "questions": [
+            {
+                "id": "051820255e584b968c5db5e04185a1e5",
+                "text": "Who does the man want to speak to?",
+                "answers": [
+                    "Charley Cowles",
+                    "Randy Johnson",
+                    "Gecko Insurance",
+                    "William Beane"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "6071fcc284224865b05214fbf81ed7ce",
+                "text": "What does the woman offer to do?",
+                "answers": [
+                    "Make a phone call",
+                    "Call Charley Cowles",
+                    "Take a message",
+                    "Page Randy Johnson"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "b8975a57d63941a5ba958ff1fb4b1d6f",
+                "text": "What does the man ask Randy Johnson to do?",
+                "answers": [
+                    "Send him a fax",
+                    "Leave a message",
+                    "Write him a letter",
+                    "Return his call"
+                ],
+                "correct": 3
+            }
+        ]
+    },
+    {
+        "id": "fa49985e18654a95b5ace7214767812a",
+        "name": "A landlord talks about his business",
+        "transcript": "— So how are you doing with your apartments?— Pretty well. I had to evict a tenant last week. She was six months behind on her rent. Now I'm waiting for contractors to finish installing new windows and doors, so I can have them painted.— It sounds like things are going well. Are you enjoying it?— Sometimes. It's not easy, because they take a lot of upkeep. But when things are going well, they're quite profitable.",
+        "questions": [
+            {
+                "id": "67d6ef4cb8954152a8c62963cdb37478",
+                "text": "What are the speakers mainly discussing?",
+                "answers": [
+                    "The man's business",
+                    "Contractors",
+                    "Tenants",
+                    "An eviction notice"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "17d75f1e41d6462a8d7d3aa10cc0749a",
+                "text": "What position does the man hold?",
+                "answers": [
+                    "Tenant",
+                    "Landlord",
+                    "Contractor",
+                    "CEO"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "a74128e37bfd481c8031030dfdcd1bf1",
+                "text": "What does the man say about his job?",
+                "answers": [
+                    "He loves it.",
+                    "He has mixed feelings.",
+                    "It's easy money.",
+                    "It's too much trouble."
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "f3ca4ad3715541e08a96013b0378964f",
+        "name": "Giving directions on how to get to the stadium",
+        "transcript": "— To get from here to the stadium, you need to take two different lines, first the orange and then the blue. You can transfer at Central Station.— OK. I can catch the orange line at the Third Street Station just around the corner, can't I?— Yes. Take that line five stops to Central Station. From there catch the blue line, going west. Get off the blue line at the seventh stop; that'll be Straight Street. Exit the terminal by the north stairs, turn right, and walk one block to the stadium. To come back, just reverse the process.",
+        "questions": [
+            {
+                "id": "3f4d540c594c4df5b9b18368f42d4eab",
+                "text": "Where does the woman want to go?",
+                "answers": [
+                    "To Third Street Station",
+                    "To Central Station",
+                    "To the stadium",
+                    "To Straight Street"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "1ac966c7404e4a269355570a2ea98e95",
+                "text": "How will the woman travel?",
+                "answers": [
+                    "By subway",
+                    "By car",
+                    "By taxi",
+                    "By bus"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "bda0d1bd14254ed592abe3f19ff85f0c",
+                "text": "What will the woman do at Central Station?",
+                "answers": [
+                    "Get off at the seventh stop",
+                    "Exit by the north stairs",
+                    "Reverse the process",
+                    "Change routes"
+                ],
+                "correct": 3
+            }
+        ]
+    },
+    {
+        "id": "747944b7924e454ab8625081d88bad1e",
+        "name": "A client thanks the gardener for his good work",
+        "transcript": "— Thanks for all your hard work. The yard looks fantastic, and it's nice to have the bushes trimmed. I was wondering if you could do me a small favor?— I'll try, ma'm.— Could you please hold this check until Thursday. I don't get paid 'til then, and I don't want it to bounce.— Sure, no problem. I know how it is with a bounced check. We'll both have to pay fees. Tell you what, I'll hold it until Saturday, just to be safe.",
+        "questions": [
+            {
+                "id": "603ee24e587d476fb93afea5c51245c3",
+                "text": "What position does the man hold?",
+                "answers": [
+                    "Laborer",
+                    "Banker",
+                    "Executive",
+                    "Engineer"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "9c79073475ac428e89416e9dc3dd6e19",
+                "text": "What does the woman want the man to do?",
+                "answers": [
+                    "Bounce a check",
+                    "Delay a deposit",
+                    "Pay a fee",
+                    "Trim the bushes"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "7b0cb33aa1ce4c088dff14b79acb4218",
+                "text": "What does the man offer to do?",
+                "answers": [
+                    "Work for free",
+                    "Return on Saturday",
+                    "Hold the check longer",
+                    "Refund the woman's money"
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "758cae6dfd434f4d97c08e98789acad3",
+        "name": "Two employees talk about their respective weekends",
+        "transcript": "— Morning, Sally. Did you have a good weekend?— Yes, I did. On Saturday we went hiking at Trout Lake, and yesterday we saw Titanium Man.— Oh I've seen that. Isn't it great? The action scenes were awesome! And I think Richard Crowley Jr. should win the Oscar for best actor!— Yeah, Crowley Jr. was superb. But I thought the movie was so-so. It was too long, and wasn't as suspenseful as I thought.",
+        "questions": [
+            {
+                "id": "001e5ef22071490c824d509906b7272b",
+                "text": "What are the speakers mainly discussing?",
+                "answers": [
+                    "A weekend",
+                    "A movie",
+                    "An actor",
+                    "An award"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "f84f69b0461f46b1b65f5791fb326249",
+                "text": "When does the conversation take place?",
+                "answers": [
+                    "On Friday",
+                    "On Saturday",
+                    "On Sunday",
+                    "On Monday"
+                ],
+                "correct": 3
+            },
+            {
+                "id": "570d0a47eae24e308e66644ac49fefbc",
+                "text": "What does the woman say about Titanium Man?",
+                "answers": [
+                    "It was average.",
+                    "It was awesome.",
+                    "It was too short.",
+                    "It was exciting."
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    {
+        "id": "eb2515fcb20e42ee8e186e5224528a3b",
+        "name": "An airline customer wants to change his flight",
+        "transcript": "— Can you help me please? My flight to Boston's been delayed until 8 o'clock, but I need to be there by 5. Do you have any other flights I can take?— We have flights that leave at 2 and 3:30. But they're both full. I could book you on standby for each of them. If someone doesn't show up, you can have their seat.— What do you think my chances are of getting on? I have an important meeting that I really can't miss.— Well, there are two passengers ahead of you on the standby list. If you want to make sure you get to Boston on time, I could refund your money and you could try another airline.",
+        "questions": [
+            {
+                "id": "b3a11e82e978427da94c16fbe4892891",
+                "text": "Where does this conversation most likely take place?",
+                "answers": [
+                    "At a travel agency",
+                    "At a store",
+                    "At a ticket counter",
+                    "At a cafe"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "c15ac10f58474f97a12b100ccd6f98ca",
+                "text": "What is the woman's problem?",
+                "answers": [
+                    "Her flight has been cancelled.",
+                    "She lost her ticket.",
+                    "Her plane will depart late.",
+                    "She cannot fly standby."
+                ],
+                "correct": 2
+            },
+            {
+                "id": "113186cbd735466599b58755f2cfcb71",
+                "text": "What does the man suggest?",
+                "answers": [
+                    "Taking a train",
+                    "Trying a competitor",
+                    "Canceling a meeting",
+                    "Paying more money"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "9e91d17c8ab043dd88ca67d58eee5ff7",
+        "name": "An employee compliments his co-worker on her new briefcase",
+        "transcript": "— Jenna, new briefcase? It looks sharp. Matches your outfit.— Thanks! I got it at a garage sale Saturday. It was only $3.— Three dollars? Gee, you can't beat that. I bought a bike at a garage sale last year for $25. I ride it all the time.— That's awesome. If I had time, I'd do all my shopping at garage sales.",
+        "questions": [
+            {
+                "id": "698f6cb6f58943daaf911fd8917ce2d0",
+                "text": "What are the speakers mainly discussing?",
+                "answers": [
+                    "A briefcase",
+                    "A bicycle",
+                    "Shopping",
+                    "Garage sales"
+                ],
+                "correct": 3
+            },
+            {
+                "id": "b3404fb84a0e42d899b6f8f81c8a516b",
+                "text": "What does the man say about the woman's briefcase?",
+                "answers": [
+                    "It is stylish.",
+                    "It is too expensive.",
+                    "It clashes with her attire.",
+                    "It is made of leather."
+                ],
+                "correct": 0
+            },
+            {
+                "id": "2eb851a9ac6f40cabc8c13b2259b16e4",
+                "text": "What does the woman say about the man's bike?",
+                "answers": [
+                    "It is too expensive.",
+                    "It is a good bargain.",
+                    "It needs new tires.",
+                    "It looks brand new."
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "4d8b4bb38e0e4abf81c03ddec46cf25b",
+        "name": "Giving a customer information about his bank accounts",
+        "transcript": "— Both our savings and checking accounts pay 5 percent interest on your first $500. On amounts over that, checking pays point-five percent, and savings pays one percent.— I see. And does either account require a minimum balance?— For savings, no. The minimum for checking is $100. For amounts under that, we charge a fee of $10 a month.— OK. And what do I need to do to sign up?",
+        "questions": [
+            {
+                "id": "8af7e6690adf4d0e92d96deb5935a0b2",
+                "text": "What is the main purpose of the conversation?",
+                "answers": [
+                    "To inform",
+                    "To debate",
+                    "To entertain",
+                    "To evangelize"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "355ba99073d4473d83d245523c552c78",
+                "text": "Where is the conversation taking place?",
+                "answers": [
+                    "In an office",
+                    "In a supermarket",
+                    "In a bank",
+                    "In a school"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "df9faba90dab4c319bc5e482e7a31392",
+                "text": "What does the man plan to do?",
+                "answers": [
+                    "Withdraw money",
+                    "Open an account",
+                    "Get more interest",
+                    "Pay a $10 fee"
+                ],
+                "correct": 1
+            }
+        ]
+    }
+]

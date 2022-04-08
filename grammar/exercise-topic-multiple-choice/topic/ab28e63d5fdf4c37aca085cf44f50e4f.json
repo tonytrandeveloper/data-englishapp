@@ -1,0 +1,120 @@
+{
+    "id": "ab28e63d5fdf4c37aca085cf44f50e4f",
+    "title": "Because And Because Of Grammar Exercise",
+    "exercises": [
+        {
+            "id": "0f7b2aa7b0e843d1968adb325a48a14e",
+            "title": "Because Or Because Of",
+            "questions": [
+                {
+                    "question": "We got into trouble ............................... you.",
+                    "description": "Because of is a preposition. It is followed by a noun or pronoun.",
+                    "answers": [
+                        "because",
+                        "because of"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "We cancelled the trip ............................. bad weather.",
+                    "description": "Because of is a preposition. It should be followed by a noun or pronoun.",
+                    "answers": [
+                        "because",
+                        "because of"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "We hurried indoors ....................... it was raining.",
+                    "description": "Because is a conjunction. It should be followed by a clause. ",
+                    "answers": [
+                        "because",
+                        "because of"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "She passed the test .................................. her teacher.",
+                    "description": "",
+                    "answers": [
+                        "because of",
+                        "because"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "She passed the test .......................... she had a good teacher.",
+                    "description": "Because should be followed by a clause. ",
+                    "answers": [
+                        "because",
+                        "because of"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "I couldn't arrive on time .............................. I had missed the train.",
+                    "description": "",
+                    "answers": [
+                        "because",
+                        "because of"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "He can't walk .................................. arthritis.",
+                    "description": "Because of is followed by a noun/pronoun.",
+                    "answers": [
+                        "because",
+                        "because of"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "She didn't pass the test .......................... she hadn't studied well.",
+                    "description": "We use a clause after because. ",
+                    "answers": [
+                        "because",
+                        "because of"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Thousands of people lost their jobs ............................ the recession.",
+                    "description": "",
+                    "answers": [
+                        "because",
+                        "because of"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "I couldn't understand him .......................... his strange accent.",
+                    "description": "",
+                    "answers": [
+                        "because",
+                        "because of"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "The government banned that movie ........................ the public opinion was against it.",
+                    "description": "",
+                    "answers": [
+                        "because",
+                        "because of"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "He met with an accident ......................... he was driving too fast.",
+                    "description": "",
+                    "answers": [
+                        "because",
+                        "because of"
+                    ],
+                    "correct": 0
+                }
+            ]
+        }
+    ]
+}

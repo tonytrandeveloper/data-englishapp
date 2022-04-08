@@ -1,0 +1,258 @@
+{
+    "id": "129077b64109412aafe5e0dc0d888d29",
+    "title": "Simple, Complex Or Compound Sentence",
+    "exercises": [
+        {
+            "id": "cf3516557220497c8240442042a5ddd7",
+            "title": "Simple, Complex Vs. Compound",
+            "questions": [
+                {
+                    "question": "Owing to his illness, he could not attend the meeting.",
+                    "description": "A simple sentence has just one finite verb.",
+                    "answers": [
+                        "Simple sentence",
+                        "Complex sentence",
+                        "Compound sentence"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "The doctor said that I had to quit smoking.",
+                    "description": "A complex sentence has one main clause and one or more subordinate clauses.",
+                    "answers": [
+                        "Simple sentence",
+                        "Complex sentence",
+                        "Compound sentence"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "That carpet needs to be cleaned.",
+                    "description": "A simple sentence has just one finite verb.",
+                    "answers": [
+                        "Simple sentence",
+                        "Complex sentence",
+                        "Compound sentence"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Will you miss me when I am away?",
+                    "description": "A complex sentence has one main clause and one or more subordinate clauses.",
+                    "answers": [
+                        "Simple sentence",
+                        "Complex sentence",
+                        "Compound sentence"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "I miss living in the mountains.",
+                    "description": "A simple sentence has just one finite verb.",
+                    "answers": [
+                        "Simple sentence",
+                        "Complex sentence",
+                        "Compound sentence"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "The missing girl was found at her aunt’s place.",
+                    "description": "A simple sentence has just one finite verb.",
+                    "answers": [
+                        "Simple sentence",
+                        "Complex sentence",
+                        "Compound sentence"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "How they reached there is unknown.",
+                    "description": "A complex sentence has one main clause and one or more subordinate clauses.",
+                    "answers": [
+                        "Simple sentence",
+                        "Complex sentence",
+                        "Compound sentence"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "She opened the book and started making notes.",
+                    "description": "A compound sentence has two or more independent clauses of the same rank.",
+                    "answers": [
+                        "Simple",
+                        "Complex",
+                        "Compound"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "He is neither intelligent nor efficient.",
+                    "description": "A compound sentence has two or more independent clauses of the same rank.",
+                    "answers": [
+                        "Simple",
+                        "Complex",
+                        "Compound"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "The man told me to go away.",
+                    "description": "A simple sentence has just one finite verb.",
+                    "answers": [
+                        "Simple",
+                        "Complex",
+                        "Compound"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "He stopped to say Hi.",
+                    "description": "A simple sentence has just one finite verb.",
+                    "answers": [
+                        "Simple",
+                        "Complex",
+                        "Compound"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "I must be losing weight.",
+                    "description": "A simple sentence has just one finite verb.",
+                    "answers": [
+                        "Simple",
+                        "Complex",
+                        "Compound"
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "id": "d7b4bcb4590a4deeaad96fb7d6cec0db",
+            "title": "Simple, Complex And Compound Sentence",
+            "questions": [
+                {
+                    "question": "She didn’t realize that she was making a mistake.",
+                    "description": "Clauses connected by subordinating conjunctions or relative pronouns form complex sentences. ",
+                    "answers": [
+                        "complex",
+                        "simple",
+                        "compound"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Where have you been all this while?",
+                    "description": "A sentence that has just one finite verb is a simple sentence.",
+                    "answers": [
+                        "complex",
+                        "compound",
+                        "simple"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "I don’t know the answer.",
+                    "description": "A sentence that has just one finite verb is a simple sentence.",
+                    "answers": [
+                        "complex",
+                        "simple",
+                        "compound"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "She said that she wanted to go.",
+                    "description": "Clauses connected by subordinating conjunctions or relative pronouns form complex sentences. ",
+                    "answers": [
+                        "simple",
+                        "complex",
+                        "compound"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Rahul is not only clever but also industrious.",
+                    "description": "Clauses connected by the conjunctions and, but, either...or, neither...nor, both...and form a compound sentence. ",
+                    "answers": [
+                        "simple",
+                        "complex",
+                        "compound"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "Neither this answer nor that answer is correct.",
+                    "description": "Clauses connected by the conjunctions and, but, either...or, neither...nor, both...and form a compound sentence. ",
+                    "answers": [
+                        "compound",
+                        "simple",
+                        "complex"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "He was angry because she had lied to him.",
+                    "description": "Clauses connected by subordinating conjunctions or relative pronouns form complex sentences. ",
+                    "answers": [
+                        "complex",
+                        "simple",
+                        "compound"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "I will try until I succeed.",
+                    "description": "Clauses connected by subordinating conjunctions or relative pronouns form complex sentences. ",
+                    "answers": [
+                        "simple",
+                        "complex",
+                        "compound"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Standing on tip-toe, he reached for the mango.",
+                    "description": "A sentence that has just one finite verb is a simple sentence.",
+                    "answers": [
+                        "compound",
+                        "simple",
+                        "complex"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "As they haven’t arrived yet, we will go without them.",
+                    "description": "Clauses connected by subordinating conjunctions or relative pronouns form complex sentences. ",
+                    "answers": [
+                        "simple",
+                        "compound",
+                        "complex"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "He is rich but he will not help anyone.",
+                    "description": "Clauses connected by the conjunctions and, but, either...or, neither...nor, both...and form a compound sentence. ",
+                    "answers": [
+                        "complex",
+                        "simple",
+                        "compound"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "You can wait or leave.",
+                    "description": "Clauses connected by the conjunctions and, but, either...or, neither...nor, both...and form a compound sentence. ",
+                    "answers": [
+                        "compound",
+                        "simple",
+                        "complex"
+                    ],
+                    "correct": 0
+                }
+            ]
+        }
+    ]
+}

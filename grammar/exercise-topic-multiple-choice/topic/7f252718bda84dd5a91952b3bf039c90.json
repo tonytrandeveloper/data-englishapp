@@ -1,0 +1,129 @@
+{
+    "id": "7f252718bda84dd5a91952b3bf039c90",
+    "title": "Do, Does vs. Did",
+    "exercises": [
+        {
+            "id": "1ff334999fc54088a121498359fbc1ce",
+            "title": "Do, Does vs. Did",
+            "questions": [
+                {
+                    "question": "What ……………………………… you do then?",
+                    "description": "Then is a past time expression hence, use the past verb here.",
+                    "answers": [
+                        "do",
+                        "did",
+                        "does"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "How …………………………. you operate a washing machine?",
+                    "description": "Use do with you.",
+                    "answers": [
+                        "do",
+                        "does",
+                        "did"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Where ………………………….. she live?",
+                    "description": "Use does with singular subjects like he, she, it.",
+                    "answers": [
+                        "does",
+                        "do",
+                        "did"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Whom ………………………….. you want to meet?",
+                    "description": "",
+                    "answers": [
+                        "do",
+                        "does",
+                        "did"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "He said that he ……………………………. know the answer.",
+                    "description": "When the main verb is in the past tense, use a past tense in the subordinate clause as well.",
+                    "answers": [
+                        "doesn't",
+                        "didn't",
+                        "doesn't"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "…………………………… you meet him yesterday?",
+                    "description": "Use did in the past tense and do and does in the present tense.",
+                    "answers": [
+                        "Did",
+                        "Do",
+                        "Does"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "If you needed help, why …………………………… you call me?",
+                    "description": "",
+                    "answers": [
+                        "don't",
+                        "didn't",
+                        "doesn't"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "He ……………………………… not have a job.",
+                    "description": "",
+                    "answers": [
+                        "does",
+                        "do",
+                        "did"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "My parents ……………………………… not like it when I spend time playing computer games.",
+                    "description": "",
+                    "answers": [
+                        "do",
+                        "does",
+                        "did"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "She ……………………………. answer my questions.",
+                    "description": "",
+                    "answers": [
+                        "did not",
+                        "do not"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Why …………………………. he pick up the phone?",
+                    "description": "",
+                    "answers": [
+                        "doesn't",
+                        "don't"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Where ............................ he work?",
+                    "description": "Use does with he.",
+                    "answers": [
+                        "does",
+                        "do"
+                    ],
+                    "correct": 0
+                }
+            ]
+        }
+    ]
+}

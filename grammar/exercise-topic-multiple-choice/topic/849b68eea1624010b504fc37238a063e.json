@@ -1,0 +1,132 @@
+{
+    "id": "849b68eea1624010b504fc37238a063e",
+    "title": "Simple, Complex vs. Compound",
+    "exercises": [
+        {
+            "id": "aa5c372ec8ac499a8513a828e6372c29",
+            "title": "Simple, Complex vs. Compound",
+            "questions": [
+                {
+                    "question": "That was a sight to behold.",
+                    "description": "A simple sentence has just one clause and one finite verb.",
+                    "answers": [
+                        "Simple",
+                        "Complex",
+                        "Compound"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "I have invited all of my friends to my party.",
+                    "description": "A simple sentence has just one clause and one finite verb.",
+                    "answers": [
+                        "Simple",
+                        "Complex",
+                        "Compound"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "What she said didn’t make much sense to me.",
+                    "description": "A complex sentence has one main clause and one or more subordinate clauses. ",
+                    "answers": [
+                        "Simple",
+                        "Complex",
+                        "Compound"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "I invited her but she didn’t come.",
+                    "description": "A compound sentence has two or more coordinate clauses of the same rank.",
+                    "answers": [
+                        "Simple",
+                        "Complex",
+                        "Compound"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "Have you got any idea what you have done?",
+                    "description": "A complex sentence has one main clause and one or more subordinate clauses.",
+                    "answers": [
+                        "Simple",
+                        "Complex",
+                        "Compound"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "It took me ten minutes to get ready.",
+                    "description": "",
+                    "answers": [
+                        "Simple",
+                        "Complex",
+                        "Compound"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "I don’t need your permission to go.",
+                    "description": "A simple sentence has just one finite verb.",
+                    "answers": [
+                        "Simple",
+                        "Complex",
+                        "Compound"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "He asked me if I was interested in the offer.",
+                    "description": "A complex sentence has one main clause and one or more subordinate clauses. ",
+                    "answers": [
+                        "Simple",
+                        "Complex",
+                        "Compound"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "As I had some work to do, I didn’t go to the movies.",
+                    "description": "",
+                    "answers": [
+                        "Simple",
+                        "Complex",
+                        "Compound"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "He was worried because he was guilty.",
+                    "description": "",
+                    "answers": [
+                        "Simple",
+                        "Complex",
+                        "Compound"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "She asked me where I had been.",
+                    "description": "",
+                    "answers": [
+                        "Simple",
+                        "Complex",
+                        "Compound"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "You can wait or you can leave.",
+                    "description": "",
+                    "answers": [
+                        "Simple",
+                        "Complex",
+                        "Compound"
+                    ],
+                    "correct": 2
+                }
+            ]
+        }
+    ]
+}

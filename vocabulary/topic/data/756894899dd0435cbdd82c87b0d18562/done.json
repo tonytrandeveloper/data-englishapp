@@ -1,0 +1,1244 @@
+[
+    {
+        "id": "8a8ccbdb892a483d89167862e4be2d3d",
+        "word": "great",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ɡreɪt/",
+            "us": "/ɡreɪt/"
+        },
+        "nearby": [
+            {
+                "word": "greasy",
+                "pos": "adjective"
+            },
+            {
+                "word": "greasy spoon",
+                "pos": "noun"
+            },
+            {
+                "word": "great",
+                "pos": "adjective"
+            },
+            {
+                "word": "great",
+                "pos": "noun"
+            },
+            {
+                "word": "great",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "very good or pleasant",
+                    "vi": "rất tốt hoặc dễ chịu"
+                },
+                "examples": [
+                    {
+                        "en": "He's a great bloke.",
+                        "vi": "Anh ấy là một người tuyệt vời."
+                    },
+                    {
+                        "en": "What a great goal!",
+                        "vi": "Thật là một mục tiêu tuyệt vời!"
+                    },
+                    {
+                        "en": "We had a great time in Madrid.",
+                        "vi": "Chúng tôi đã có một khoảng thời gian tuyệt vời ở Madrid."
+                    },
+                    {
+                        "en": "You should have come along. It was great fun.",
+                        "vi": "Bạn nên đi cùng. Đó là niềm vui lớn."
+                    },
+                    {
+                        "en": "You've done a great job.",
+                        "vi": "Bạn đã hoàn thành một công việc tuyệt vời."
+                    },
+                    {
+                        "en": "I think that's a great idea.",
+                        "vi": "Tôi nghĩ đó là một ý tưởng tuyệt vời."
+                    },
+                    {
+                        "en": "It's a great way to meet new people.",
+                        "vi": "Đó là một cách tuyệt vời để gặp gỡ những người mới."
+                    },
+                    {
+                        "en": "New Zealand is a great place to live.",
+                        "vi": "New Zealand là một nơi tuyệt vời để sống."
+                    },
+                    {
+                        "en": "This is a great opportunity for us.",
+                        "vi": "Đây là một cơ hội tuyệt vời cho chúng tôi."
+                    },
+                    {
+                        "en": "He missed a great chance to score in the final minutes of the match.",
+                        "vi": "Anh ấy đã bỏ lỡ một cơ hội tuyệt vời để ghi bàn trong những phút cuối cùng của trận đấu."
+                    },
+                    {
+                        "en": "it is great to do something It's great to see you again.",
+                        "vi": "thật tuyệt khi làm được điều gì đó Thật tuyệt khi được gặp lại bạn."
+                    },
+                    {
+                        "en": "great with somebody/something He's great with the kids.",
+                        "vi": "tuyệt vời với ai đó / điều gì đó Anh ấy tuyệt vời với lũ trẻ."
+                    },
+                    {
+                        "en": "‘Why don't we order a pizza?’ ‘That sounds great.’",
+                        "vi": "Tại sao chúng ta không gọi một chiếc bánh pizza?' 'Nghe có vẻ tuyệt vời.'"
+                    },
+                    {
+                        "en": "‘I'll pick you up at seven.’ ‘That'll be great, thanks.’",
+                        "vi": "Tôi sẽ đón bạn lúc bảy giờ.' \"Điều đó sẽ rất tuyệt, cảm ơn.\""
+                    },
+                    {
+                        "en": "(ironic) Oh great, they left without us.",
+                        "vi": "(mỉa mai) Ồ tuyệt vời, họ rời đi mà không có chúng tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "much more than average in degree or quantity",
+                    "vi": "nhiều hơn mức trung bình về mức độ hoặc số lượng"
+                },
+                "examples": [
+                    {
+                        "en": "This is a matter of great importance.",
+                        "vi": "Đây là một vấn đề có tầm quan trọng lớn."
+                    },
+                    {
+                        "en": "The lack of clean drinking water is of great concern.",
+                        "vi": "Tình trạng thiếu nước sạch đang rất được quan tâm."
+                    },
+                    {
+                        "en": "The concert had been a great success.",
+                        "vi": "Buổi biểu diễn đã thành công tốt đẹp."
+                    },
+                    {
+                        "en": "Her death was a great shock to us all.",
+                        "vi": "Cái chết của cô ấy là một cú sốc lớn đối với tất cả chúng tôi."
+                    },
+                    {
+                        "en": "It gives me great pleasure to welcome you here today.",
+                        "vi": "Tôi rất vui được chào đón bạn ở đây hôm nay."
+                    },
+                    {
+                        "en": "We will be following his progress with great interest.",
+                        "vi": "Chúng tôi sẽ theo dõi sự tiến bộ của anh ấy với sự quan tâm lớn."
+                    },
+                    {
+                        "en": "one of the greatest challenges facing the world today",
+                        "vi": "một trong những thách thức lớn nhất mà thế giới phải đối mặt ngày nay"
+                    },
+                    {
+                        "en": "These women represent a group at greater risk of developing particular cancers.",
+                        "vi": "Những phụ nữ này đại diện cho một nhóm có nguy cơ mắc các bệnh ung thư cụ thể cao hơn."
+                    },
+                    {
+                        "en": "Take great care of it.",
+                        "vi": "Hãy chăm sóc nó tuyệt vời."
+                    },
+                    {
+                        "en": "You've been a great help.",
+                        "vi": "Bạn đã được một sự trợ giúp tuyệt vời."
+                    },
+                    {
+                        "en": "(ironic) You've been a great help, I must say (= no help at all).",
+                        "vi": "(mỉa mai) Bạn đã được giúp đỡ rất nhiều, tôi phải nói là (= không giúp gì cả)."
+                    },
+                    {
+                        "en": "We are all to a great extent the products of our culture.",
+                        "vi": "Tất cả chúng ta ở một mức độ tuyệt vời là sản phẩm của nền văn hóa của chúng ta."
+                    },
+                    {
+                        "en": "The problem is treated in great detail in the book.",
+                        "vi": "Vấn đề được xử lý rất chi tiết trong cuốn sách."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "very large; much bigger than average in size or quantity",
+                    "vi": "rất lớn; lớn hơn nhiều so với mức trung bình về kích thước hoặc số lượng"
+                },
+                "examples": [
+                    {
+                        "en": "A great crowd had gathered.",
+                        "vi": "Một đám đông lớn đã tụ tập."
+                    },
+                    {
+                        "en": "People were arriving in great numbers.",
+                        "vi": "Mọi người đã đến rất đông."
+                    },
+                    {
+                        "en": "The great majority of (= most) people seem to agree with this view.",
+                        "vi": "Tuyệt đại đa số (= hầu hết) mọi người dường như đồng ý với quan điểm này."
+                    },
+                    {
+                        "en": "He must have fallen from a great height.",
+                        "vi": "Anh ta chắc hẳn đã rơi từ một độ cao lớn."
+                    },
+                    {
+                        "en": "She lived to a great age.",
+                        "vi": "Cô ấy đã sống đến một thời đại tuyệt vời."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to emphasize an adjective of size or quality",
+                    "vi": "được sử dụng để nhấn mạnh một tính từ chỉ kích thước hoặc chất lượng"
+                },
+                "examples": [
+                    {
+                        "en": "There was a great big pile of books on the table.",
+                        "vi": "Có một chồng sách lớn trên bàn."
+                    },
+                    {
+                        "en": "He cut himself a great thick slice of cake.",
+                        "vi": "Anh ấy tự cắt cho mình một lát bánh dày tuyệt vời."
+                    },
+                    {
+                        "en": "There's a great big hole in this sleeve.",
+                        "vi": "Có một lỗ lớn trên ống tay áo này."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "extremely good in ability or quality and therefore admired by many people",
+                    "vi": "năng lực và phẩm chất cực tốt nên được nhiều người ngưỡng mộ"
+                },
+                "examples": [
+                    {
+                        "en": "Gary Kasparov, undoubtedly the greatest chess player of all time",
+                        "vi": "Gary Kasparov, chắc chắn là kỳ thủ cờ vua vĩ đại nhất mọi thời đại"
+                    },
+                    {
+                        "en": "He has been described as the world's greatest violinist.",
+                        "vi": "Ông đã được mô tả là nghệ sĩ vĩ cầm vĩ đại nhất thế giới."
+                    },
+                    {
+                        "en": "Sherlock Holmes, the great detective",
+                        "vi": "Sherlock Holmes, thám tử tài ba"
+                    },
+                    {
+                        "en": "Great art has the power to change lives.",
+                        "vi": "Nghệ thuật tuyệt vời có sức mạnh thay đổi cuộc sống."
+                    },
+                    {
+                        "en": "This represents a great achievement.",
+                        "vi": "Điều này thể hiện một thành tựu tuyệt vời."
+                    },
+                    {
+                        "en": "He was a truly great man.",
+                        "vi": "Anh ấy là một người đàn ông thực sự tuyệt vời."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "important and impressive",
+                    "vi": "quan trọng và ấn tượng"
+                },
+                "examples": [
+                    {
+                        "en": "The wedding was a great occasion.",
+                        "vi": "Đám cưới là một dịp trọng đại."
+                    },
+                    {
+                        "en": "This is a great day for the city of Chicago.",
+                        "vi": "Đây là một ngày tuyệt vời cho thành phố Chicago."
+                    },
+                    {
+                        "en": "The great thing is to get it done quickly.",
+                        "vi": "Điều tuyệt vời là hoàn thành nó một cách nhanh chóng."
+                    },
+                    {
+                        "en": "One great advantage of this metal is that it doesn't rust.",
+                        "vi": "Một ưu điểm lớn của kim loại này là nó không bị rỉ sét."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "having high status or a lot of influence",
+                    "vi": "có địa vị cao hoặc có nhiều ảnh hưởng"
+                },
+                "examples": [
+                    {
+                        "en": "the great powers (= important and powerful countries)",
+                        "vi": "các cường quốc (= các quốc gia quan trọng và hùng mạnh)"
+                    },
+                    {
+                        "en": "We can make this country great again.",
+                        "vi": "Chúng ta có thể làm cho đất nước này vĩ đại trở lại."
+                    },
+                    {
+                        "en": "Alexander the Great",
+                        "vi": "Alexander vĩ đại"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "in a very good state of physical or mental health",
+                    "vi": "ở trạng thái sức khỏe thể chất hoặc tinh thần rất tốt"
+                },
+                "examples": [
+                    {
+                        "en": "She seemed in great spirits (= very cheerful).",
+                        "vi": "Cô ấy có vẻ rất phấn chấn (= rất vui vẻ)."
+                    },
+                    {
+                        "en": "I feel great today.",
+                        "vi": "Tôi cảm thấy tuyệt vời hôm nay."
+                    },
+                    {
+                        "en": "I don’t feel too great.",
+                        "vi": "Tôi không cảm thấy quá tuyệt vời."
+                    },
+                    {
+                        "en": "Everyone's in great form.",
+                        "vi": "Mọi người đều có phong độ tuyệt vời."
+                    },
+                    {
+                        "en": "You're looking great. Marriage must suit you!",
+                        "vi": "Trông bạn thật tuyệt. Hôn nhân phải phù hợp với bạn!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "able to do something well",
+                    "vi": "có thể làm tốt điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "She's great at chess.",
+                        "vi": "Cô ấy chơi cờ rất giỏi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "very suitable or useful for something",
+                    "vi": "rất phù hợp hoặc hữu ích cho một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "great for doing something This gadget's great for opening jars.",
+                        "vi": "tuyệt vời để làm điều gì đó Tiện ích này rất tuyệt vời khi mở lọ."
+                    },
+                    {
+                        "en": "great for something Try this cream—it's great for spots.",
+                        "vi": "tuyệt vời cho một cái gì đó Hãy thử loại kem này — nó rất tốt cho các nốt mụn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used when you are emphasizing a particular description of somebody/something",
+                    "vi": "được sử dụng khi bạn đang nhấn mạnh một mô tả cụ thể về ai đó / điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "We are great friends.",
+                        "vi": "Chúng tôi là những người bạn tuyệt vời."
+                    },
+                    {
+                        "en": "I've never been a great reader (= I do not read much).",
+                        "vi": "Tôi chưa bao giờ là một độc giả tuyệt vời (= Tôi không đọc nhiều)."
+                    },
+                    {
+                        "en": "She's a great talker, isn't she?",
+                        "vi": "Cô ấy là một người nói chuyện tuyệt vời, phải không?"
+                    },
+                    {
+                        "en": "I am a great admirer of your work.",
+                        "vi": "Tôi rất ngưỡng mộ công việc của bạn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "added to words for family members to show a further stage in relationship",
+                    "vi": "được thêm vào các từ dành cho các thành viên trong gia đình để thể hiện một giai đoạn xa hơn trong mối quan hệ"
+                },
+                "examples": [
+                    {
+                        "en": "my great-aunt (= my father’s or mother’s aunt)",
+                        "vi": "dì cố của tôi (= dì của bố hoặc mẹ tôi)"
+                    },
+                    {
+                        "en": "her great-grandson (= the grandson of her son or daughter)",
+                        "vi": "chắt của cô ấy (= cháu trai của con trai hoặc con gái cô ấy)"
+                    },
+                    {
+                        "en": "my great-great-grandfather (= the grandfather of my grandfather)",
+                        "vi": "ông cố của tôi (= ông nội của ông tôi)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used in the names of animals or plants that are larger than similar kinds",
+                    "vi": "được sử dụng để đặt tên cho động vật hoặc thực vật lớn hơn các loại tương tự"
+                },
+                "examples": [
+                    {
+                        "en": "the great tit",
+                        "vi": "tit tuyệt vời"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used with the name of a city to describe an area that includes the centre of the city and a large area all round it",
+                    "vi": "được sử dụng với tên của một thành phố để mô tả một khu vực bao gồm trung tâm của thành phố và một khu vực rộng lớn bao quanh nó"
+                },
+                "examples": [
+                    {
+                        "en": "Greater London",
+                        "vi": "Đại Luân Đôn"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be doing something quickly and successfully",
+                    "vi": "làm điều gì đó nhanh chóng và thành công"
+                },
+                "examples": [
+                    {
+                        "en": "Work is going great guns now.",
+                        "vi": "Công việc đang trở nên tuyệt vời."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be better or more effective as a group than you would think just by looking at the individual members of the group",
+                    "vi": "để trở thành một nhóm tốt hơn hoặc hiệu quả hơn những gì bạn nghĩ chỉ bằng cách nhìn vào từng thành viên trong nhóm"
+                },
+                "examples": [
+                    {
+                        "en": "The team is greater than the sum of its parts.",
+                        "vi": "Nhóm lớn hơn tổng các bộ phận của nó."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to do something a lot; to enjoy something",
+                    "vi": "để làm một cái gì đó rất nhiều; để thưởng thức một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "He's never been a great one for keeping in touch.",
+                        "vi": "Anh ấy chưa bao giờ là một người tuyệt vời để giữ liên lạc."
+                    },
+                    {
+                        "en": "You're a great one for quizzes, aren't you?",
+                        "vi": "Bạn là một người tuyệt vời cho các câu đố, phải không?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be not very good, efficient, suitable, etc.",
+                    "vi": "không tốt lắm, hiệu quả, phù hợp, v.v."
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "much; a lot",
+                    "vi": "nhiều; nhiều"
+                },
+                "examples": [
+                    {
+                        "en": "She's feeling a good deal better.",
+                        "vi": "Cô ấy cảm thấy ổn hơn."
+                    },
+                    {
+                        "en": "We don't see them a great deal (= often) these days.",
+                        "vi": "Chúng tôi không thấy họ nhiều (= thường xuyên) những ngày này."
+                    },
+                    {
+                        "en": "They spent a great deal of money.",
+                        "vi": "Họ đã chi rất nhiều tiền."
+                    },
+                    {
+                        "en": "A good deal of research has been done on the subject.",
+                        "vi": "Rất nhiều nghiên cứu đã được thực hiện về chủ đề này."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "people who are very successful, admired and respected",
+                    "vi": "những người rất thành công, được ngưỡng mộ và tôn trọng"
+                },
+                "examples": [
+                    {
+                        "en": "Universities around the world award honorary degrees to the great and the good.",
+                        "vi": "Các trường đại học trên khắp thế giới trao bằng danh dự cho những người giỏi và tốt."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "of all sizes or types",
+                    "vi": "của tất cả các kích cỡ hoặc loại"
+                },
+                "examples": [
+                    {
+                        "en": "all creatures great and small",
+                        "vi": "tất cả các sinh vật lớn và nhỏ"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to refer to where a particular person is imagined to go when they die or a thing when it is no longer working, similar to the place they were connected with on earth",
+                    "vi": "được sử dụng để chỉ nơi một người cụ thể được tưởng tượng sẽ đến khi họ chết hoặc một thứ khi nó không còn hoạt động, tương tự như nơi họ đã kết nối trên trái đất"
+                },
+                "examples": [
+                    {
+                        "en": "Their pet rabbit had gone to the great rabbit hutch in the sky.",
+                        "vi": "Con thỏ cưng của họ đã đi đến chuồng thỏ vĩ đại trên bầu trời."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to say that you and another person must both be very clever because you have had the same idea or agree about something",
+                    "vi": "đã từng nói rằng bạn và một người khác phải rất khéo léo vì bạn đã có cùng ý tưởng hoặc đồng ý về điều gì đó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "something large and successful often begins in a very small way",
+                    "vi": "một cái gì đó lớn và thành công thường bắt đầu từ một cách rất nhỏ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to put a lot of effort into doing something",
+                    "vi": "nỗ lực rất nhiều để làm điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "The couple went to great pains to keep their plans secret.",
+                        "vi": "Cặp đôi đã rất nỗ lực để giữ bí mật về kế hoạch của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to do something very carefully",
+                    "vi": "làm một cái gì đó rất cẩn thận"
+                },
+                "examples": [
+                    {
+                        "en": "He always takes great pains with his lectures.",
+                        "vi": "Anh ấy luôn chịu khó với các bài giảng của mình."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "64ae602e32724197907d91a43e1e92ca",
+        "word": "ma",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/mɑː/",
+            "us": "/mɑː/"
+        },
+        "nearby": [
+            {
+                "word": "M",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "M",
+                "pos": "symbol"
+            },
+            {
+                "word": "ma",
+                "pos": "noun"
+            },
+            {
+                "word": "MA",
+                "pos": "noun"
+            },
+            {
+                "word": "ma'am",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "mother",
+                    "vi": "mẹ"
+                },
+                "examples": [
+                    {
+                        "en": "I'm going now, Ma.",
+                        "vi": "Tôi đi ngay bây giờ, Mẹ."
+                    },
+                    {
+                        "en": "‘I want my ma,’ sobbed the little girl.",
+                        "vi": "Con muốn mẹ của con, cô bé nức nở."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5e19b92032e646afab938c86476b0083",
+        "word": "mama",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈmæmə/",
+            "us": "/ˈmæmə/"
+        },
+        "nearby": [
+            {
+                "word": "malware",
+                "pos": "noun"
+            },
+            {
+                "word": "mam",
+                "pos": "noun"
+            },
+            {
+                "word": "mama1",
+                "pos": "noun"
+            },
+            {
+                "word": "mama's boy",
+                "pos": "noun"
+            },
+            {
+                "word": "mamba",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "mother",
+                    "vi": "mẹ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "in some places in Africa, a mother or older woman (often used as a title that shows respect)",
+                    "vi": "ở một số nơi ở Châu Phi, một người mẹ hoặc một người phụ nữ lớn tuổi (thường được dùng làm tiêu đề thể hiện sự tôn trọng)"
+                },
+                "examples": [
+                    {
+                        "en": "Leave this work to us, mama.",
+                        "vi": "Hãy để công việc này cho chúng tôi, mẹ."
+                    },
+                    {
+                        "en": "Miriam Makeba became known as Mama Africa.",
+                        "vi": "Miriam Makeba được gọi là Mama Châu Phi."
+                    },
+                    {
+                        "en": "Mama Ngina Kenyatta",
+                        "vi": "Mama Ngina Kenyatta"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7f0f650ce0e8473184ee667a10ebbd67",
+        "word": "maternal",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/məˈtɜːnl/",
+            "us": "/məˈtɜːrnl/"
+        },
+        "nearby": [
+            {
+                "word": "materially",
+                "pos": "adverb"
+            },
+            {
+                "word": "materiel",
+                "pos": "noun"
+            },
+            {
+                "word": "maternal",
+                "pos": "adjective"
+            },
+            {
+                "word": "maternally",
+                "pos": "adverb"
+            },
+            {
+                "word": "maternity",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "having feelings that are typical of a caring mother towards a child",
+                    "vi": "có những cảm xúc điển hình của một người mẹ quan tâm đối với một đứa trẻ"
+                },
+                "examples": [
+                    {
+                        "en": "maternal love",
+                        "vi": "tình mẫu tử"
+                    },
+                    {
+                        "en": "I'm not very maternal.",
+                        "vi": "Tôi không giống mẹ lắm."
+                    },
+                    {
+                        "en": "She didn't have any maternal instincts.",
+                        "vi": "Cô ấy không có bất kỳ bản năng làm mẹ nào."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "connected with being a mother",
+                    "vi": "kết nối với việc làm mẹ"
+                },
+                "examples": [
+                    {
+                        "en": "Maternal age affects the baby's survival rate.",
+                        "vi": "Tuổi của mẹ ảnh hưởng đến tỷ lệ sống sót của em bé."
+                    },
+                    {
+                        "en": "the effects of maternal smoking during pregnancy",
+                        "vi": "ảnh hưởng của việc mẹ hút thuốc khi mang thai"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "related through the mother’s side of the family",
+                    "vi": "liên quan thông qua phía mẹ của gia đình"
+                },
+                "examples": [
+                    {
+                        "en": "my maternal grandfather (= my mother’s father)",
+                        "vi": "ông ngoại của tôi (= bố của mẹ tôi)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "24e658fb4df74a988a088b638660e79f",
+        "word": "monozygotic twin",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌmɒnəʊzaɪˌɡɒtɪk ˈtwɪn/",
+            "us": "/ˌmɑːnəʊzaɪˌɡɑːtɪk ˈtwɪn/"
+        },
+        "nearby": [
+            {
+                "word": "Monotype",
+                "pos": "noun"
+            },
+            {
+                "word": "monounsaturated fat",
+                "pos": "noun"
+            },
+            {
+                "word": "monozygotic twin",
+                "pos": "noun"
+            },
+            {
+                "word": "James Monroe",
+                "pos": ""
+            },
+            {
+                "word": "Marilyn Monroe",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "either of two children or animals born from the same mother at the same time who have developed from a single egg. Identical twins are of the same sex and look very similar.",
+                    "vi": "một trong hai con hoặc động vật được sinh ra từ cùng một bà mẹ cùng một lúc được phát triển từ một quả trứng. Những cặp song sinh giống hệt nhau là cùng giới tính và trông rất giống nhau."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "14d1b747e34b4e9897aa2227c0cc3be8",
+        "word": "nan",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/næn/",
+            "us": "/næn/"
+        },
+        "nearby": [
+            {
+                "word": "Namibian",
+                "pos": "noun, adjective"
+            },
+            {
+                "word": "namkeen",
+                "pos": "noun"
+            },
+            {
+                "word": "nan1",
+                "pos": "noun"
+            },
+            {
+                "word": "nan2",
+                "pos": "noun"
+            },
+            {
+                "word": "nana1",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a grandmother",
+                    "vi": "Bà ngoại"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "cf395e808cb347f79f044da7eae4e8bc",
+        "word": "nanny",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈnæni/",
+            "us": "/ˈnæni/"
+        },
+        "nearby": [
+            {
+                "word": "nancy",
+                "pos": "noun"
+            },
+            {
+                "word": "Nancy",
+                "pos": ""
+            },
+            {
+                "word": "nanny",
+                "pos": "noun"
+            },
+            {
+                "word": "nanny goat",
+                "pos": "noun"
+            },
+            {
+                "word": "nannying",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person whose job is to take care of young children in the children’s own home",
+                    "vi": "một người có công việc là chăm sóc trẻ nhỏ tại nhà riêng của bọn trẻ"
+                },
+                "examples": [
+                    {
+                        "en": "She applied for the job of nanny to the Rickman family.",
+                        "vi": "Cô đã nộp đơn xin việc làm vú em cho gia đình Rickman."
+                    },
+                    {
+                        "en": "She was taken on as a nanny to their two small children.",
+                        "vi": "Cô được nhận làm bảo mẫu cho hai đứa con nhỏ của họ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a grandmother",
+                    "vi": "Bà ngoại"
+                },
+                "examples": [
+                    {
+                        "en": "When is Nanny coming to stay?",
+                        "vi": "Khi nào thì Nanny đến ở?"
+                    },
+                    {
+                        "en": "my nan and grandad",
+                        "vi": "nan và ông nội của tôi"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a way of talking about government which shows that you do not approve of it and suggests that it is too involved in controlling and protecting people in a way that limits their freedom",
+                    "vi": "một cách nói về chính phủ cho thấy rằng bạn không tán thành nó và gợi ý rằng nó quá tham gia vào việc kiểm soát và bảo vệ người dân theo cách hạn chế quyền tự do của họ"
+                },
+                "examples": [
+                    {
+                        "en": "This latest policy is an example of the nanny state gone mad.",
+                        "vi": "Chính sách mới nhất này là một ví dụ về tình trạng bảo mẫu trở nên điên loạn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "cd31fcfa7767401798c7d4d10bd6e913",
+        "word": "pa",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/pɑː/",
+            "us": "/pɑː/"
+        },
+        "nearby": [
+            {
+                "word": "p",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "P",
+                "pos": "noun"
+            },
+            {
+                "word": "pa",
+                "pos": "noun"
+            },
+            {
+                "word": "p.a.",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "PA",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "father",
+                    "vi": "cha"
+                },
+                "examples": [
+                    {
+                        "en": "I used to know your pa.",
+                        "vi": "Tôi từng biết bố của bạn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "728b511412ed41df84cb6fc7bf0e8eb4",
+        "word": "paternal",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/pəˈtɜːnl/",
+            "us": "/pəˈtɜːrnl/"
+        },
+        "nearby": [
+            {
+                "word": "pater",
+                "pos": "noun"
+            },
+            {
+                "word": "paterfamilias",
+                "pos": "noun"
+            },
+            {
+                "word": "paternal",
+                "pos": "adjective"
+            },
+            {
+                "word": "paternalism",
+                "pos": "noun"
+            },
+            {
+                "word": "paternalistic",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "connected with being a father; typical of a kind father",
+                    "vi": "kết nối với việc làm cha; điển hình của một người cha tốt bụng"
+                },
+                "examples": [
+                    {
+                        "en": "paternal love",
+                        "vi": "tình yêu của cha"
+                    },
+                    {
+                        "en": "He gave me a piece of paternal advice.",
+                        "vi": "Anh ấy đã cho tôi một lời khuyên của người cha."
+                    },
+                    {
+                        "en": "Her weakness made him feel very paternal towards her.",
+                        "vi": "Sự yếu đuối của cô khiến anh cảm thấy rất quý mến cô."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "related through the father’s side of the family",
+                    "vi": "liên quan thông qua phía cha của gia đình"
+                },
+                "examples": [
+                    {
+                        "en": "my paternal grandmother (= my father’s mother)",
+                        "vi": "bà nội của tôi (= mẹ của bố tôi)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "523787ca09834f4a8eb203588c4b8764",
+        "word": "second cousin",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌsekənd ˈkʌzn/",
+            "us": "/ˌsekənd ˈkʌzn/"
+        },
+        "nearby": [
+            {
+                "word": "second-class",
+                "pos": "adjective"
+            },
+            {
+                "word": "the Second Coming",
+                "pos": "noun"
+            },
+            {
+                "word": "second cousin",
+                "pos": "noun"
+            },
+            {
+                "word": "second-degree",
+                "pos": "adjective"
+            },
+            {
+                "word": "seconder",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a child of a cousin of your mother or father",
+                    "vi": "con của một người anh em họ của mẹ hoặc cha của bạn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "4ef0b05c26e34c349e2f858beed2ae8a",
+        "word": "surrogate mother",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌsʌrəɡət ˈmʌðə(r)/",
+            "us": "/ˌsɜːrəɡət ˈmʌðər/"
+        },
+        "nearby": [
+            {
+                "word": "surrogate",
+                "pos": "adjective"
+            },
+            {
+                "word": "surrogate",
+                "pos": "noun"
+            },
+            {
+                "word": "surrogate mother",
+                "pos": "noun"
+            },
+            {
+                "word": "surround",
+                "pos": "verb"
+            },
+            {
+                "word": "surround",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a woman who gives birth to a baby for another person or couple, usually because they are unable to have babies themselves",
+                    "vi": "một người phụ nữ sinh con cho một người hoặc một cặp vợ chồng khác, thường là vì họ không thể có con"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "a1ddf44e321b4cc98befc3a7f3a105cd",
+        "word": "tiger mother",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtaɪɡə mʌðə(r)/",
+            "us": "/ˈtaɪɡər mʌðər/"
+        },
+        "nearby": [
+            {
+                "word": "tiger economy",
+                "pos": "noun"
+            },
+            {
+                "word": "tigerish",
+                "pos": "adjective"
+            },
+            {
+                "word": "tiger mother",
+                "pos": "noun"
+            },
+            {
+                "word": "tight",
+                "pos": "adjective"
+            },
+            {
+                "word": "tight",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a very strict mother who makes her children work hard in order to be very successful at school, etc., thought to be typical of mothers in China and East Asia",
+                    "vi": "một người mẹ rất nghiêm khắc, bắt con cái làm việc chăm chỉ để thành công ở trường, v.v., được cho là điển hình của những bà mẹ ở Trung Quốc và Đông Á"
+                },
+                "examples": [
+                    {
+                        "en": "Being raised by a tiger mother meant I wasn't given the freedom to make my own decisions.",
+                        "vi": "Được nuôi dưỡng bởi hổ mẹ đồng nghĩa với việc tôi không được tự do đưa ra quyết định của riêng mình."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "bce2a369895c4c87929aabc74c53ba7a",
+        "word": "triplet",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtrɪplət/",
+            "us": "/ˈtrɪplət/"
+        },
+        "nearby": [
+            {
+                "word": "triple crown",
+                "pos": "noun"
+            },
+            {
+                "word": "the triple jump",
+                "pos": "noun"
+            },
+            {
+                "word": "triplet",
+                "pos": "noun"
+            },
+            {
+                "word": "triplicate",
+                "pos": "noun"
+            },
+            {
+                "word": "triply",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "one of three children born at the same time to the same mother",
+                    "vi": "một trong ba đứa trẻ được sinh ra cùng một lúc với cùng một mẹ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a group of three equal notes to be played or sung in the time usually taken to play or sing two of the same kind",
+                    "vi": "một nhóm ba nốt nhạc bằng nhau sẽ được chơi hoặc hát trong thời gian thường được dùng để chơi hoặc hát hai cùng một loại"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "14da4f5484a144ff9b8c56df7ed6b39e",
+        "word": "trophy wife",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtrəʊfi waɪf/",
+            "us": "/ˈtrəʊfi waɪf/"
+        },
+        "nearby": [
+            {
+                "word": "trophy",
+                "pos": "noun"
+            },
+            {
+                "word": "trophy",
+                "pos": "adjective"
+            },
+            {
+                "word": "trophy wife",
+                "pos": "noun"
+            },
+            {
+                "word": "tropic",
+                "pos": "noun"
+            },
+            {
+                "word": "tropical",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a young attractive woman who is married to an older person and thought of as a trophy (= something that shows that you are successful and impresses other people)",
+                    "vi": "một phụ nữ trẻ hấp dẫn đã kết hôn với một người lớn tuổi hơn và được coi như một chiến tích (= thứ cho thấy bạn thành công và gây ấn tượng với người khác)"
+                },
+                "examples": [
+                    {
+                        "en": "She's a classic trophy wife—beautiful and half his age.",
+                        "vi": "Cô ấy là một người vợ danh hiệu kinh điển - xinh đẹp bằng nửa tuổi anh."
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,3756 @@
+[
+    {
+        "id": "5ffcea0e695643598130bcc23cec06f9",
+        "word": "band",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/bænd/",
+            "us": "/bænd/"
+        },
+        "nearby": [
+            {
+                "word": "banana split",
+                "pos": "noun"
+            },
+            {
+                "word": "Banbury",
+                "pos": ""
+            },
+            {
+                "word": "band",
+                "pos": "noun"
+            },
+            {
+                "word": "band",
+                "pos": "verb"
+            },
+            {
+                "word": "bandage",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small group of musicians who play popular music together, often with a singer or singers",
+                    "vi": "một nhóm nhỏ các nhạc sĩ chơi nhạc nổi tiếng cùng nhau, thường là với một ca sĩ hoặc các ca sĩ"
+                },
+                "examples": [
+                    {
+                        "en": "a rock/punk/jazz band",
+                        "vi": "một ban nhạc rock / punk / jazz"
+                    },
+                    {
+                        "en": "He plays drums in a band that he formed with some friends.",
+                        "vi": "Anh ấy chơi trống trong một ban nhạc do anh ấy thành lập cùng với một số người bạn."
+                    },
+                    {
+                        "en": "The band is/are playing a gig in Liverpool tonight.",
+                        "vi": "Ban nhạc đã / đang chơi một buổi biểu diễn ở Liverpool tối nay."
+                    },
+                    {
+                        "en": "She's a singer with a band.",
+                        "vi": "Cô ấy là ca sĩ của một ban nhạc."
+                    },
+                    {
+                        "en": "There's nothing like the excitement of seeing a live band.",
+                        "vi": "Không gì bằng sự phấn khích khi xem một ban nhạc sống."
+                    },
+                    {
+                        "en": "his fellow band members Paul McCartney, George Harrison and Ringo Starr",
+                        "vi": "các thành viên ban nhạc đồng nghiệp của anh ấy là Paul McCartney, George Harrison và Ringo Starr"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a group of musicians who play brass and percussion instruments",
+                    "vi": "một nhóm nhạc công chơi nhạc cụ kèn đồng và bộ gõ"
+                },
+                "examples": [
+                    {
+                        "en": "a military band",
+                        "vi": "một ban nhạc quân đội"
+                    },
+                    {
+                        "en": "We heard a band strike up in the park.",
+                        "vi": "Chúng tôi nghe thấy một ban nhạc đang tấn công trong công viên."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a group of people who do something together or who have the same ideas, interests or achievements",
+                    "vi": "một nhóm người làm điều gì đó cùng nhau hoặc những người có cùng ý tưởng, sở thích hoặc thành tích"
+                },
+                "examples": [
+                    {
+                        "en": "a band of outlaws/rebels",
+                        "vi": "một nhóm người ngoài vòng pháp luật / phiến quân"
+                    },
+                    {
+                        "en": "He persuaded a small band of volunteers to help.",
+                        "vi": "Anh đã thuyết phục một nhóm nhỏ tình nguyện viên giúp đỡ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a thin flat piece or circle of any material that is put around things, for example to hold them together or to make them stronger",
+                    "vi": "một mảnh phẳng mỏng hoặc hình tròn bằng bất kỳ vật liệu nào được đặt xung quanh mọi thứ, chẳng hạn như để giữ chúng lại với nhau hoặc để làm cho chúng chắc chắn hơn"
+                },
+                "examples": [
+                    {
+                        "en": "She always ties her hair back in a band.",
+                        "vi": "Cô ấy luôn buộc tóc thành một dải."
+                    },
+                    {
+                        "en": "All babies in the hospital have name bands on their wrists.",
+                        "vi": "Tất cả trẻ sơ sinh trong bệnh viện đều có băng tên trên cổ tay."
+                    },
+                    {
+                        "en": "She wore a simple band of gold (= a ring) on her finger.",
+                        "vi": "Cô ấy đeo một dải vàng đơn giản (= một chiếc nhẫn) trên ngón tay."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a line of colour or material on something that is different from what is around it",
+                    "vi": "một dòng màu hoặc chất liệu trên một thứ khác với những gì xung quanh nó"
+                },
+                "examples": [
+                    {
+                        "en": "a white plate with a blue band around the edge",
+                        "vi": "một cái đĩa màu trắng với một dải màu xanh xung quanh cạnh"
+                    },
+                    {
+                        "en": "The light had expanded in a broad band across the sky.",
+                        "vi": "Ánh sáng đã mở rộng trong một dải rộng trên bầu trời."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a range of radio waves",
+                    "vi": "một loạt các sóng vô tuyến"
+                },
+                "examples": [
+                    {
+                        "en": "Short-wave radio uses the 20–50–metre band.",
+                        "vi": "Đài phát thanh sóng ngắn sử dụng băng tần 20–50 mét."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a range of numbers, ages, prices, etc. within which people or things are counted or measured",
+                    "vi": "một loạt các con số, độ tuổi, giá cả, v.v. trong đó người hoặc sự vật được đếm hoặc đo lường"
+                },
+                "examples": [
+                    {
+                        "en": "the 25–35 age band",
+                        "vi": "nhóm tuổi 25-35"
+                    },
+                    {
+                        "en": "Which tax band do you fall into?",
+                        "vi": "Bạn thuộc nhóm thuế nào?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "37118c1688724b5fa2d5273c6d913976",
+        "word": "group",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ɡruːp/",
+            "us": "/ɡruːp/"
+        },
+        "nearby": [
+            {
+                "word": "groundwork",
+                "pos": "noun"
+            },
+            {
+                "word": "ground zero",
+                "pos": "noun"
+            },
+            {
+                "word": "group",
+                "pos": "noun"
+            },
+            {
+                "word": "group",
+                "pos": "verb"
+            },
+            {
+                "word": "group captain",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a number of people or things that are together in the same place or that are connected in some way",
+                    "vi": "một số người hoặc những thứ ở cùng một nơi hoặc được kết nối theo một cách nào đó"
+                },
+                "examples": [
+                    {
+                        "en": "group of somebody/something a group of people/students/friends",
+                        "vi": "nhóm ai đó / cái gì đó một nhóm người / sinh viên / bạn bè"
+                    },
+                    {
+                        "en": "A group of us are going to the theatre this evening.",
+                        "vi": "Một nhóm chúng tôi sẽ đến rạp hát tối nay."
+                    },
+                    {
+                        "en": "a group of islands in the Indian ocean",
+                        "vi": "một nhóm các hòn đảo ở Ấn Độ Dương"
+                    },
+                    {
+                        "en": "English is a member of the Germanic group of languages.",
+                        "vi": "Tiếng Anh là một thành viên của nhóm ngôn ngữ Đức."
+                    },
+                    {
+                        "en": "in groups People were standing around in small groups.",
+                        "vi": "theo nhóm Mọi người đứng xung quanh thành từng nhóm nhỏ."
+                    },
+                    {
+                        "en": "as a group The gorillas go foraging for food as a group.",
+                        "vi": "như một nhóm Những con khỉ đột đi kiếm ăn như một nhóm."
+                    },
+                    {
+                        "en": "The proportion of single-parent families varies between different income groups.",
+                        "vi": "Tỷ lệ các gia đình đơn thân làm cha mẹ khác nhau giữa các nhóm thu nhập khác nhau."
+                    },
+                    {
+                        "en": "Members of some ethnic groups say that the law is discriminatory.",
+                        "vi": "Các thành viên của một số nhóm dân tộc nói rằng luật pháp là phân biệt đối xử."
+                    },
+                    {
+                        "en": "Disabled drivers are an ever-growing minority group.",
+                        "vi": "Người lái xe khuyết tật là một nhóm thiểu số ngày càng gia tăng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a number of people who work or do something together or share particular beliefs",
+                    "vi": "một số người làm việc hoặc làm điều gì đó cùng nhau hoặc chia sẻ niềm tin cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "The residents formed a community action group.",
+                        "vi": "Các cư dân đã thành lập một nhóm hành động cộng đồng."
+                    },
+                    {
+                        "en": "I've joined a writing group.",
+                        "vi": "Tôi đã tham gia một nhóm viết."
+                    },
+                    {
+                        "en": "a research/study/discussion group",
+                        "vi": "một nhóm nghiên cứu / học tập / thảo luận"
+                    },
+                    {
+                        "en": "a human rights group",
+                        "vi": "một nhóm nhân quyền"
+                    },
+                    {
+                        "en": "a militant/rebel/terrorist group",
+                        "vi": "một nhóm dân quân / phiến quân / khủng bố"
+                    },
+                    {
+                        "en": "Other members of the group agree.",
+                        "vi": "Các thành viên khác trong nhóm đồng ý."
+                    },
+                    {
+                        "en": "group of somebody She leads a group of scientists at the Medical Research Centre.",
+                        "vi": "nhóm người nào đó Cô ấy dẫn đầu một nhóm các nhà khoa học tại Trung tâm Nghiên cứu Y khoa."
+                    },
+                    {
+                        "en": "in a group There are fifteen of us in the group.",
+                        "vi": "trong một nhóm Có mười lăm người trong chúng tôi trong nhóm."
+                    },
+                    {
+                        "en": "to work in groups",
+                        "vi": "làm việc theo nhóm"
+                    },
+                    {
+                        "en": "into groups The students were divided into groups of four.",
+                        "vi": "thành các nhóm Các học sinh được chia thành các nhóm bốn người."
+                    },
+                    {
+                        "en": "Classes will involve both individual and group activities.",
+                        "vi": "Các lớp học sẽ bao gồm cả hoạt động cá nhân và hoạt động nhóm."
+                    },
+                    {
+                        "en": "Only group members are allowed to vote.",
+                        "vi": "Chỉ các thành viên trong nhóm mới được phép bỏ phiếu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a number of companies that are owned by the same person or organization",
+                    "vi": "một số công ty được sở hữu bởi cùng một người hoặc một tổ chức"
+                },
+                "examples": [
+                    {
+                        "en": "This acquisition will make them the largest newspaper group in the world.",
+                        "vi": "Việc mua lại này sẽ đưa họ trở thành tập đoàn báo chí lớn nhất thế giới."
+                    },
+                    {
+                        "en": "The Burton group announced its quarterly figures yesterday.",
+                        "vi": "Tập đoàn Burton đã công bố số liệu hàng quý vào ngày hôm qua."
+                    },
+                    {
+                        "en": "Our group sales director attended the conference in Munich this year.",
+                        "vi": "Giám đốc kinh doanh nhóm của chúng tôi đã tham dự hội nghị ở Munich năm nay."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a number of musicians who perform together, especially to play pop music",
+                    "vi": "một số nhạc sĩ biểu diễn cùng nhau, đặc biệt là chơi nhạc pop"
+                },
+                "examples": [
+                    {
+                        "en": "She sings in a rock group.",
+                        "vi": "Cô ấy hát trong một nhóm nhạc rock."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8fb10604fe1a4543841dfb80ff143c1c",
+        "word": "singer",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˈsɪŋə(r)/",
+            "us": "/ˈsɪŋər/"
+        },
+        "nearby": [
+            {
+                "word": "Sing a Song of Sixpence",
+                "pos": ""
+            },
+            {
+                "word": "singe",
+                "pos": "verb"
+            },
+            {
+                "word": "singer",
+                "pos": "noun"
+            },
+            {
+                "word": "Isaac Bashevis Singer",
+                "pos": ""
+            },
+            {
+                "word": "Isaac Singer",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who sings, or whose job is singing, especially in public",
+                    "vi": "một người hát hoặc công việc của họ là hát, đặc biệt là ở nơi công cộng"
+                },
+                "examples": [
+                    {
+                        "en": "She's a wonderful singer.",
+                        "vi": "Cô ấy là một ca sĩ tuyệt vời."
+                    },
+                    {
+                        "en": "a pop/country/folk singer",
+                        "vi": "một ca sĩ nhạc pop / country / dân gian"
+                    },
+                    {
+                        "en": "He trained as an opera singer.",
+                        "vi": "Anh ấy được đào tạo như một ca sĩ opera."
+                    },
+                    {
+                        "en": "the band's lead singer",
+                        "vi": "ca sĩ chính của ban nhạc"
+                    },
+                    {
+                        "en": "a singer in a German rock band",
+                        "vi": "một ca sĩ trong ban nhạc rock của Đức"
+                    },
+                    {
+                        "en": "a singer of classical Javanese songs",
+                        "vi": "một ca sĩ của các bài hát cổ điển của người Java"
+                    },
+                    {
+                        "en": "She became a singer with various local bands.",
+                        "vi": "Cô trở thành ca sĩ với nhiều ban nhạc địa phương."
+                    },
+                    {
+                        "en": "His main ambition is to become a singer songwriter.",
+                        "vi": "Tham vọng chính của anh ấy là trở thành một ca sĩ nhạc sĩ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7f35a0cbd3ef448e85aa9dfdb993f85c",
+        "word": "guitarist",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/ɡɪˈtɑːrɪst/",
+            "us": "/ɡɪˈtɑːrɪst/"
+        },
+        "nearby": [
+            {
+                "word": "guise",
+                "pos": "noun"
+            },
+            {
+                "word": "guitar",
+                "pos": "noun"
+            },
+            {
+                "word": "guitarist",
+                "pos": "noun"
+            },
+            {
+                "word": "Gujarati",
+                "pos": "noun"
+            },
+            {
+                "word": "Gujarati",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who plays the guitar",
+                    "vi": "một người chơi guitar"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "9a907698c6f64fb3ac7fea42b8108800",
+        "word": "musician",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/mjuˈzɪʃn/",
+            "us": "/mjuˈzɪʃn/"
+        },
+        "nearby": [
+            {
+                "word": "music box",
+                "pos": "noun"
+            },
+            {
+                "word": "music hall",
+                "pos": "noun"
+            },
+            {
+                "word": "musician",
+                "pos": "noun"
+            },
+            {
+                "word": "musicianship",
+                "pos": "noun"
+            },
+            {
+                "word": "musicologist",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who plays a musical instrument or writes music, especially as a job",
+                    "vi": "một người chơi nhạc cụ hoặc viết nhạc, đặc biệt là một công việc"
+                },
+                "examples": [
+                    {
+                        "en": "a jazz/rock/classical musician",
+                        "vi": "một nhạc sĩ nhạc jazz / rock / cổ điển"
+                    },
+                    {
+                        "en": "She has been a professional musician for over 25 years.",
+                        "vi": "Cô đã là một nhạc sĩ chuyên nghiệp trong hơn 25 năm."
+                    },
+                    {
+                        "en": "The competition recognizes talented young musicians.",
+                        "vi": "Cuộc thi ghi nhận những nhạc sĩ trẻ tài năng."
+                    },
+                    {
+                        "en": "A group of local musicians entertained the guests.",
+                        "vi": "Một nhóm nhạc công địa phương đã góp vui cho các vị khách."
+                    },
+                    {
+                        "en": "The pipes were played by Irish musician, John Burney.",
+                        "vi": "Các ống được chơi bởi nhạc sĩ người Ireland, John Burney."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "bcb5aa076d78410ca428965bd8f1f7db",
+        "word": "drummer",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈdrʌmə(r)/",
+            "us": "/ˈdrʌmər/"
+        },
+        "nearby": [
+            {
+                "word": "drum major",
+                "pos": "noun"
+            },
+            {
+                "word": "drum majorette",
+                "pos": "noun"
+            },
+            {
+                "word": "drummer",
+                "pos": "noun"
+            },
+            {
+                "word": "drumming",
+                "pos": "noun"
+            },
+            {
+                "word": "drum 'n' bass",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who plays a drum or drums",
+                    "vi": "một người chơi trống hoặc trống"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to behave in a different way from other people; to have different attitudes or ideas",
+                    "vi": "cư xử theo một cách khác với những người khác; có thái độ hoặc ý tưởng khác nhau"
+                },
+                "examples": [
+                    {
+                        "en": "She was a gifted and original artist who marched to a different drummer.",
+                        "vi": "Cô ấy là một nghệ sĩ tài năng và ban đầu, người đã chuyển sang một tay trống khác."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c7a473094125451195252816bd3c9e0a",
+        "word": "performer",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/pəˈfɔːmə(r)/",
+            "us": "/pərˈfɔːrmər/"
+        },
+        "nearby": [
+            {
+                "word": "performance review",
+                "pos": "noun"
+            },
+            {
+                "word": "performative",
+                "pos": "adjective"
+            },
+            {
+                "word": "performer",
+                "pos": "noun"
+            },
+            {
+                "word": "the performing arts",
+                "pos": "noun"
+            },
+            {
+                "word": "perfume",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who performs for an audience in a show, concert, etc.",
+                    "vi": "một người biểu diễn cho khán giả trong một chương trình, buổi hòa nhạc, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "a brilliant/polished/seasoned performer",
+                        "vi": "một nghệ sĩ biểu diễn xuất sắc / bóng bẩy / dày dạn"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person or thing that behaves or works in the way mentioned",
+                    "vi": "một người hoặc một vật hành xử hoặc hoạt động theo cách đã đề cập"
+                },
+                "examples": [
+                    {
+                        "en": "He was a poor performer at school and left with no qualifications.",
+                        "vi": "Anh ấy là một học sinh kém cỏi ở trường và không có bằng cấp gì."
+                    },
+                    {
+                        "en": "VW is the star performer of the motor industry this year.",
+                        "vi": "VW là ngôi sao biểu diễn của ngành công nghiệp mô tô năm nay."
+                    },
+                    {
+                        "en": "The star performer of the game was Holly, who scored 26 points.",
+                        "vi": "Ngôi sao của trò chơi là Holly, với 26 điểm."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0b02ab10b9164752bba1e3827f63e50a",
+        "word": "songwriter",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈsɒŋraɪtə(r)/",
+            "us": "/ˈsɔːŋraɪtər/"
+        },
+        "nearby": [
+            {
+                "word": "songster",
+                "pos": "noun"
+            },
+            {
+                "word": "songstress",
+                "pos": "noun"
+            },
+            {
+                "word": "songwriter",
+                "pos": "noun"
+            },
+            {
+                "word": "songwriting",
+                "pos": "noun"
+            },
+            {
+                "word": "Sonia",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who writes the words and usually also the music for songs",
+                    "vi": "một người viết lời và thường cũng là nhạc cho các bài hát"
+                },
+                "examples": [
+                    {
+                        "en": "singer-songwriter Ed Sheeran",
+                        "vi": "ca sĩ kiêm nhạc sĩ Ed Sheeran"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "d1aa50e3d5b44b0cb831bde908ad95c3",
+        "word": "act",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ækt/",
+            "us": "/ækt/"
+        },
+        "nearby": [
+            {
+                "word": "acrylic",
+                "pos": "noun"
+            },
+            {
+                "word": "act",
+                "pos": "verb"
+            },
+            {
+                "word": "act",
+                "pos": "noun"
+            },
+            {
+                "word": "ACT",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "act for",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a particular thing that somebody does",
+                    "vi": "một điều cụ thể mà ai đó làm"
+                },
+                "examples": [
+                    {
+                        "en": "You have committed a serious criminal act.",
+                        "vi": "Bạn đã thực hiện một hành vi tội phạm nghiêm trọng."
+                    },
+                    {
+                        "en": "act of something an act of kindness",
+                        "vi": "hành động một cái gì đó một hành động tử tế"
+                    },
+                    {
+                        "en": "This was one of the most appalling acts of terror of recent times.",
+                        "vi": "Đây là một trong những hành động khủng bố kinh hoàng nhất trong thời gian gần đây."
+                    },
+                    {
+                        "en": "acts of terrorism/violence/aggression",
+                        "vi": "hành động khủng bố / bạo lực / xâm lược"
+                    },
+                    {
+                        "en": "They performed acts of great heroism.",
+                        "vi": "Họ đã thực hiện những hành động của chủ nghĩa anh hùng tuyệt vời."
+                    },
+                    {
+                        "en": "The murder was the act of a psychopath.",
+                        "vi": "Vụ giết người là hành động của một kẻ tâm thần."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a law that has been passed by a parliament",
+                    "vi": "một luật đã được quốc hội thông qua"
+                },
+                "examples": [
+                    {
+                        "en": "an Act of Congress/Parliament",
+                        "vi": "một Đạo luật của Quốc hội / Nghị viện"
+                    },
+                    {
+                        "en": "the Care Act 2014",
+                        "vi": "Đạo luật Chăm sóc 2014"
+                    },
+                    {
+                        "en": "to pass/repeal/amend an Act",
+                        "vi": "để thông qua / bãi bỏ / sửa đổi một Đạo luật"
+                    },
+                    {
+                        "en": "under an Act A Committee on Safety of Medicines was set up under the Act.",
+                        "vi": "theo Đạo luật Một Ủy ban về An toàn Thuốc được thành lập theo Đạo luật."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a way of behaving that is not sincere but is intended to have a particular effect on others",
+                    "vi": "một cách cư xử không chân thành nhưng nhằm gây ảnh hưởng cụ thể đến người khác"
+                },
+                "examples": [
+                    {
+                        "en": "Don't take her seriously—it's all an act.",
+                        "vi": "Đừng coi cô ấy nghiêm túc — tất cả chỉ là một hành động."
+                    },
+                    {
+                        "en": "You could tell she was just putting on an act.",
+                        "vi": "Bạn có thể biết cô ấy chỉ đang diễn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "one of the main divisions of a play, an opera, etc.",
+                    "vi": "một trong những bộ phận chính của một vở kịch, một vở opera, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "a play in five acts",
+                        "vi": "một vở kịch trong năm màn"
+                    },
+                    {
+                        "en": "The hero dies in Act 5, Scene 3.",
+                        "vi": "Người anh hùng chết trong Màn 5, Cảnh 3."
+                    },
+                    {
+                        "en": "The king is killed in the opening act.",
+                        "vi": "Nhà vua bị giết trong màn mở đầu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a performance, especially one of several short pieces of entertainment in a show",
+                    "vi": "một buổi biểu diễn, đặc biệt là một trong số vài phần giải trí ngắn trong một chương trình"
+                },
+                "examples": [
+                    {
+                        "en": "a circus/comedy/magic act",
+                        "vi": "một vở xiếc / hài kịch / ảo thuật"
+                    },
+                    {
+                        "en": "her one-woman poetry act",
+                        "vi": "hành động thơ một người phụ nữ của cô ấy"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a performer or group of musicians",
+                    "vi": "một nghệ sĩ biểu diễn hoặc một nhóm nhạc sĩ"
+                },
+                "examples": [
+                    {
+                        "en": "They were one of rock's most impressive live acts.",
+                        "vi": "Họ là một trong những buổi biểu diễn trực tiếp ấn tượng nhất của rock."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an event caused by natural forces beyond human control, such as a storm, a flood or an earthquake",
+                    "vi": "một sự kiện gây ra bởi các lực lượng tự nhiên ngoài tầm kiểm soát của con người, chẳng hạn như bão, lũ lụt hoặc động đất"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be/become involved in an activity that somebody else has started, especially to get something for yourself",
+                    "vi": "tham gia / tham gia vào một hoạt động mà người khác đã bắt đầu, đặc biệt là để có được thứ gì đó cho chính bạn"
+                },
+                "examples": [
+                    {
+                        "en": "Other manufacturers are getting in on the act, creating their own versions of the popular toy.",
+                        "vi": "Các nhà sản xuất khác đang vào cuộc, tạo ra các phiên bản đồ chơi phổ biến của riêng họ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to start behaving in a moral or responsible way",
+                    "vi": "để bắt đầu cư xử một cách có đạo đức hoặc có trách nhiệm"
+                },
+                "examples": [
+                    {
+                        "en": "He cleaned up his act and came off drugs.",
+                        "vi": "Anh ta đã dọn dẹp hành vi của mình và bỏ ma túy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to go away or be impossible to find when people need or want you",
+                    "vi": "đi xa hoặc không thể tìm thấy khi mọi người cần hoặc muốn bạn"
+                },
+                "examples": [
+                    {
+                        "en": "The cat had done a disappearing act.",
+                        "vi": "Con mèo đã thực hiện một hành động biến mất."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to organize yourself and your activities in a more effective way in order to achieve something",
+                    "vi": "tổ chức bản thân và các hoạt động của bạn theo cách hiệu quả hơn để đạt được điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "He needs to get his act together if he's going to pass.",
+                        "vi": "Anh ấy cần phải tập hợp lại hành động của mình nếu anh ấy sẽ vượt qua."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person or event that is so good or successful at something that it will be difficult for anyone/anything else coming after them to be as good or successful",
+                    "vi": "một người hoặc một sự kiện quá tốt hoặc thành công ở một thứ gì đó mà sẽ khó cho bất kỳ ai / bất cứ điều gì khác sau họ trở nên tốt hoặc thành công"
+                },
+                "examples": [
+                    {
+                        "en": "She has been an excellent principal and will be a hard act to follow.",
+                        "vi": "Cô ấy đã là một hiệu trưởng xuất sắc và sẽ là một hành động khó để noi theo."
+                    },
+                    {
+                        "en": "Their contribution will prove a tough act to follow.",
+                        "vi": "Sự đóng góp của họ sẽ chứng minh một hành động khó khăn để làm theo."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "while you are doing something",
+                    "vi": "trong khi bạn đang làm gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "He was caught in the act of stealing a car.",
+                        "vi": "Anh ta bị bắt quả tang khi đang thực hiện hành vi trộm xe."
+                    },
+                    {
+                        "en": "It is often difficult to tell when someone is using drugs unless they are caught in the act.",
+                        "vi": "Thường rất khó để biết ai đó đang sử dụng ma túy trừ khi họ bị bắt quả tang."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to tell somebody with force that they must not do something",
+                    "vi": "buộc phải nói với ai đó rằng họ không được làm điều gì đó"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "8a781554d4af4cdc8156676489e66940",
+        "word": "artist",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈɑːtɪst/",
+            "us": "/ˈɑːrtɪst/"
+        },
+        "nearby": [
+            {
+                "word": "artisan",
+                "pos": "noun"
+            },
+            {
+                "word": "artisan",
+                "pos": "adjective"
+            },
+            {
+                "word": "artist",
+                "pos": "noun"
+            },
+            {
+                "word": "artistic",
+                "pos": "adjective"
+            },
+            {
+                "word": "artistically",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who creates works of art, especially paintings or drawings",
+                    "vi": "một người tạo ra các tác phẩm nghệ thuật, đặc biệt là tranh vẽ hoặc bản vẽ"
+                },
+                "examples": [
+                    {
+                        "en": "an exhibition of work by contemporary British artists",
+                        "vi": "một cuộc triển lãm tác phẩm của các nghệ sĩ Anh đương đại"
+                    },
+                    {
+                        "en": "a graphic artist",
+                        "vi": "một nghệ sĩ đồ họa"
+                    },
+                    {
+                        "en": "a make-up artist",
+                        "vi": "một nghệ sĩ trang điểm"
+                    },
+                    {
+                        "en": "He became a full-time artist in 1929.",
+                        "vi": "Ông trở thành nghệ sĩ toàn thời gian vào năm 1929."
+                    },
+                    {
+                        "en": "In Paris she met a group of young artists: poets, film-makers and painters.",
+                        "vi": "Tại Paris, cô đã gặp một nhóm nghệ sĩ trẻ: nhà thơ, nhà làm phim và họa sĩ."
+                    },
+                    {
+                        "en": "This is an artist's impression of the new stadium.",
+                        "vi": "Đây là ấn tượng của một nghệ sĩ về sân vận động mới."
+                    },
+                    {
+                        "en": "(figurative) Whoever made this cake is a real artist.",
+                        "vi": "(nghĩa bóng) Ai làm ra chiếc bánh này là một nghệ sĩ thực thụ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who is a professional singer, dancer, actor, etc.",
+                    "vi": "một người là ca sĩ, vũ công, diễn viên chuyên nghiệp, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "a recording/solo artist",
+                        "vi": "một nghệ sĩ thu âm / solo"
+                    },
+                    {
+                        "en": "Among the artistes appearing on our show tonight we have…",
+                        "vi": "Trong số các nghệ sĩ xuất hiện trong chương trình của chúng tôi tối nay, chúng tôi có…"
+                    },
+                    {
+                        "en": "He was a true artiste: sensitive, dramatic and tragic.",
+                        "vi": "Anh ấy là một nghệ sĩ thực thụ: nhạy cảm, kịch tính và bi kịch."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "bd49cc5fc5ae4bbc92480df77b6f668c",
+        "word": "choir",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈkwaɪə(r)/",
+            "us": "/ˈkwaɪər/"
+        },
+        "nearby": [
+            {
+                "word": "choice",
+                "pos": "noun"
+            },
+            {
+                "word": "choice",
+                "pos": "adjective"
+            },
+            {
+                "word": "choir",
+                "pos": "noun"
+            },
+            {
+                "word": "choirboy",
+                "pos": "noun"
+            },
+            {
+                "word": "choirgirl",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a group of people who sing together, for example in church services or public performances",
+                    "vi": "một nhóm người hát cùng nhau, chẳng hạn như trong các buổi lễ nhà thờ hoặc buổi biểu diễn công cộng"
+                },
+                "examples": [
+                    {
+                        "en": "She sings in the school choir.",
+                        "vi": "Cô ấy hát trong dàn hợp xướng của trường."
+                    },
+                    {
+                        "en": "He joined the church choir when he was eight.",
+                        "vi": "Anh tham gia dàn hợp xướng của nhà thờ khi mới 8 tuổi."
+                    },
+                    {
+                        "en": "to conduct/lead/direct a choir",
+                        "vi": "chỉ huy / dẫn dắt / chỉ đạo một dàn hợp xướng"
+                    },
+                    {
+                        "en": "a male voice choir",
+                        "vi": "một dàn hợp xướng giọng nam"
+                    },
+                    {
+                        "en": "The children's choir will perform some Christmas songs.",
+                        "vi": "Dàn hợp xướng thiếu nhi sẽ biểu diễn một số bài hát Giáng sinh."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the part of a church where the choir sits during services",
+                    "vi": "phần của một nhà thờ, nơi ca đoàn ngồi trong các buổi lễ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to speak to people in support of views that they already hold",
+                    "vi": "nói chuyện với những người ủng hộ các quan điểm mà họ đã có"
+                },
+                "examples": [
+                    {
+                        "en": "I realize I may be preaching to the choir, but I think he's gorgeous.",
+                        "vi": "Tôi nhận ra rằng tôi có thể đang giảng cho dàn hợp xướng, nhưng tôi nghĩ anh ấy thật tuyệt."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "43ce425d92e244aeb0bba6fcad5967be",
+        "word": "composer",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/kəmˈpəʊzə(r)/",
+            "us": "/kəmˈpəʊzər/"
+        },
+        "nearby": [
+            {
+                "word": "compose",
+                "pos": "verb"
+            },
+            {
+                "word": "composed",
+                "pos": "adjective"
+            },
+            {
+                "word": "composer",
+                "pos": "noun"
+            },
+            {
+                "word": "composite",
+                "pos": "adjective"
+            },
+            {
+                "word": "composite",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who writes music, especially classical music",
+                    "vi": "một người viết nhạc, đặc biệt là nhạc cổ điển"
+                },
+                "examples": [
+                    {
+                        "en": "Verdi was a prolific composer of operas.",
+                        "vi": "Verdi là một nhà soạn nhạc opera phong phú."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e44e17be9c5844d1ac27cbd8b371fd63",
+        "word": "conductor",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/kənˈdʌktə(r)/",
+            "us": "/kənˈdʌktər/"
+        },
+        "nearby": [
+            {
+                "word": "conductive education",
+                "pos": "noun"
+            },
+            {
+                "word": "conductivity",
+                "pos": "noun"
+            },
+            {
+                "word": "conductor",
+                "pos": "noun"
+            },
+            {
+                "word": "conductress",
+                "pos": "noun"
+            },
+            {
+                "word": "conduit",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who stands in front of an orchestra, a group of singers etc., and directs their performance, especially somebody who does this as a profession",
+                    "vi": "một người đứng trước dàn nhạc, một nhóm ca sĩ, v.v. và chỉ đạo buổi biểu diễn của họ, đặc biệt là một người làm nghề này"
+                },
+                "examples": [
+                    {
+                        "en": "the principal conductor of the San Francisco Symphony",
+                        "vi": "nhạc trưởng chính của San Francisco Symphony"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who is in charge of a train and travels with it, but does not drive it",
+                    "vi": "một người phụ trách đoàn tàu và đi cùng nó, nhưng không lái nó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person whose job is to collect money from passengers on a bus or train or check their tickets",
+                    "vi": "một người có công việc là thu tiền của hành khách trên xe buýt hoặc xe lửa hoặc kiểm tra vé của họ"
+                },
+                "examples": [
+                    {
+                        "en": "a bus conductor",
+                        "vi": "một người dẫn xe buýt"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a substance that allows electricity or heat to pass along it or through it",
+                    "vi": "một chất cho phép điện hoặc nhiệt truyền dọc theo nó hoặc qua nó"
+                },
+                "examples": [
+                    {
+                        "en": "Wood is a poor conductor.",
+                        "vi": "Gỗ là chất dẫn điện kém."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8ba1392279114b9998e428a37ceabac3",
+        "word": "disc jockey",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈdɪsk dʒɒki/",
+            "us": "/ˈdɪsk dʒɑːki/"
+        },
+        "nearby": [
+            {
+                "word": "discipline",
+                "pos": "verb"
+            },
+            {
+                "word": "disciplined",
+                "pos": "adjective"
+            },
+            {
+                "word": "disc jockey",
+                "pos": "noun"
+            },
+            {
+                "word": "disclaim",
+                "pos": "verb"
+            },
+            {
+                "word": "disclaimer",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person whose job is to introduce and play recorded popular music, on radio or television or at a club, party, etc.",
+                    "vi": "một người có công việc là giới thiệu và phát các bản nhạc nổi tiếng đã được ghi lại, trên đài phát thanh hoặc truyền hình hoặc tại một câu lạc bộ, bữa tiệc, v.v."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "2912ea8b4df34bbba1f73b69371cf4fc",
+        "word": "disk jockey",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈdɪsk dʒɒki/",
+            "us": "/ˈdɪsk dʒɑːki/"
+        },
+        "nearby": [
+            {
+                "word": "disk drive",
+                "pos": "noun"
+            },
+            {
+                "word": "diskette",
+                "pos": "noun"
+            },
+            {
+                "word": "disk jockey",
+                "pos": "noun"
+            },
+            {
+                "word": "dislike",
+                "pos": "verb"
+            },
+            {
+                "word": "dislike",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person whose job is to introduce and play recorded popular music, on radio or television or at a club, party, etc.",
+                    "vi": "một người có công việc là giới thiệu và phát các bản nhạc nổi tiếng đã được ghi lại, trên đài phát thanh hoặc truyền hình hoặc tại một câu lạc bộ, bữa tiệc, v.v."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "5b399491dfcd4fd09f0ec45e51111898",
+        "word": "orchestra",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈɔːkɪstrə/",
+            "us": "/ˈɔːrkɪstrə/"
+        },
+        "nearby": [
+            {
+                "word": "orchard",
+                "pos": "noun"
+            },
+            {
+                "word": "Orchard Street",
+                "pos": ""
+            },
+            {
+                "word": "orchestra",
+                "pos": "noun"
+            },
+            {
+                "word": "orchestral",
+                "pos": "adjective"
+            },
+            {
+                "word": "orchestra pit",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a large group of people who play various musical instruments together, led by a conductor",
+                    "vi": "một nhóm lớn những người chơi nhiều loại nhạc cụ cùng nhau, dẫn đầu bởi một nhạc trưởng"
+                },
+                "examples": [
+                    {
+                        "en": "She plays the flute in the school orchestra.",
+                        "vi": "Cô ấy thổi sáo trong dàn nhạc của trường."
+                    },
+                    {
+                        "en": "the Scottish Symphony Orchestra",
+                        "vi": "Dàn nhạc giao hưởng Scotland"
+                    },
+                    {
+                        "en": "The competition gave the young composer her first opportunity to write for a full orchestra.",
+                        "vi": "Cuộc thi đã cho nhà soạn nhạc trẻ cơ hội đầu tiên của cô để viết cho một dàn nhạc đầy đủ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the seats that are nearest to the stage in a theatre",
+                    "vi": "những chỗ ngồi gần sân khấu nhất trong rạp hát"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "dc037b6e6d6546898f0b9a6be9344755",
+        "word": "pianist",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈpɪənɪst/",
+            "us": "/ˈpiːənɪst/"
+        },
+        "nearby": [
+            {
+                "word": "pianissimo",
+                "pos": "adverb"
+            },
+            {
+                "word": "pianissimo",
+                "pos": "adjective"
+            },
+            {
+                "word": "pianist",
+                "pos": "noun"
+            },
+            {
+                "word": "piano",
+                "pos": "noun"
+            },
+            {
+                "word": "piano",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who plays the piano",
+                    "vi": "một người chơi piano"
+                },
+                "examples": [
+                    {
+                        "en": "a concert pianist",
+                        "vi": "một nghệ sĩ dương cầm hòa nhạc"
+                    },
+                    {
+                        "en": "a jazz pianist",
+                        "vi": "một nghệ sĩ piano jazz"
+                    },
+                    {
+                        "en": "She's an accomplished pianist.",
+                        "vi": "Cô ấy là một nghệ sĩ dương cầm tài ba."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1cfafbd8a18e41e28ba03c47b4dd2074",
+        "word": "trombonist",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/trɒmˈbəʊnɪst/",
+            "us": "/trɑːmˈbəʊnɪst/"
+        },
+        "nearby": [
+            {
+                "word": "Anthony Trollope",
+                "pos": ""
+            },
+            {
+                "word": "trombone",
+                "pos": "noun"
+            },
+            {
+                "word": "trombonist",
+                "pos": "noun"
+            },
+            {
+                "word": "tromp",
+                "pos": "verb"
+            },
+            {
+                "word": "trompe l'œil",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who plays the trombone",
+                    "vi": "một người chơi trombone"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "045489d40d05497781e298033d1aabf5",
+        "word": "trumpeter",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈtrʌmpɪtə(r)/",
+            "us": "/ˈtrʌmpɪtər/"
+        },
+        "nearby": [
+            {
+                "word": "trumpet",
+                "pos": "noun"
+            },
+            {
+                "word": "trumpet",
+                "pos": "verb"
+            },
+            {
+                "word": "trumpeter",
+                "pos": "noun"
+            },
+            {
+                "word": "the Trumpet Voluntary",
+                "pos": ""
+            },
+            {
+                "word": "trump up",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who plays the trumpet",
+                    "vi": "một người chơi kèn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "a2f574918d0e4e6b9a421384b47d62c7",
+        "word": "violinist",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˌvaɪəˈlɪnɪst/",
+            "us": "/ˌvaɪəˈlɪnɪst/"
+        },
+        "nearby": [
+            {
+                "word": "Violet",
+                "pos": ""
+            },
+            {
+                "word": "violin",
+                "pos": "noun"
+            },
+            {
+                "word": "violinist",
+                "pos": "noun"
+            },
+            {
+                "word": "violist",
+                "pos": "noun"
+            },
+            {
+                "word": "violoncello",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who plays the violin",
+                    "vi": "một người chơi vĩ cầm"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "371fc428fa7b4d228477b0f99fa824e9",
+        "word": "big band",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈbɪɡ bænd/",
+            "us": "/ˈbɪɡ bænd/"
+        },
+        "nearby": [
+            {
+                "word": "the Big Apple",
+                "pos": "noun"
+            },
+            {
+                "word": "the Big Bad Wolf",
+                "pos": "noun"
+            },
+            {
+                "word": "big band",
+                "pos": "noun"
+            },
+            {
+                "word": "Big Bang",
+                "pos": "noun"
+            },
+            {
+                "word": "Big Ben",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a large group of musicians playing jazz or dance music",
+                    "vi": "một nhóm lớn các nhạc sĩ chơi nhạc jazz hoặc nhạc dance"
+                },
+                "examples": [
+                    {
+                        "en": "the big-band sound",
+                        "vi": "âm thanh của dải tần lớn"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8172e245c52f41f5b9845fb371466d6b",
+        "word": "clarinettist",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌklærəˈnetɪst/",
+            "us": "/ˌklærəˈnetɪst/"
+        },
+        "nearby": [
+            {
+                "word": "clarify",
+                "pos": "verb"
+            },
+            {
+                "word": "clarinet",
+                "pos": "noun"
+            },
+            {
+                "word": "clarinettist",
+                "pos": "noun"
+            },
+            {
+                "word": "clarion call",
+                "pos": "noun"
+            },
+            {
+                "word": "Clarissa",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who plays the clarinet",
+                    "vi": "một người chơi kèn clarinet"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "fc675ad08f2a4ea1914bb740b98a14d7",
+        "word": "duo",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈdjuːəʊ/",
+            "us": "/ˈduːəʊ/"
+        },
+        "nearby": [
+            {
+                "word": "dunt",
+                "pos": "verb"
+            },
+            {
+                "word": "dunt",
+                "pos": "noun"
+            },
+            {
+                "word": "duo",
+                "pos": "noun"
+            },
+            {
+                "word": "duodenal",
+                "pos": "adjective"
+            },
+            {
+                "word": "duodenum",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "two people who perform together or are often seen or thought of together",
+                    "vi": "hai người biểu diễn cùng nhau hoặc thường được nhìn thấy hoặc nghĩ đến cùng nhau"
+                },
+                "examples": [
+                    {
+                        "en": "the comedy duo Laurel and Hardy",
+                        "vi": "bộ đôi hài Laurel và Hardy"
+                    },
+                    {
+                        "en": "the goal-scoring duo of Coates and Winterbotham",
+                        "vi": "bộ đôi ghi bàn của Coates và Winterbotham"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a performance by two musicians or singers; a piece of music for two players or singers",
+                    "vi": "một buổi biểu diễn của hai nhạc sĩ hoặc ca sĩ; một bản nhạc cho hai người chơi hoặc ca sĩ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "6aac96feeb1c499995ded3517561e787",
+        "word": "fangirl",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈfænɡɜːl/",
+            "us": "/ˈfænɡɜːrl/"
+        },
+        "nearby": [
+            {
+                "word": "fan fiction",
+                "pos": "noun"
+            },
+            {
+                "word": "fang",
+                "pos": "noun"
+            },
+            {
+                "word": "fangirl",
+                "pos": "noun"
+            },
+            {
+                "word": "fanlight",
+                "pos": "noun"
+            },
+            {
+                "word": "fan mail",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a girl or young woman who admires a particular person very much, or admires and enjoys something such as a type of music, product, or film very much",
+                    "vi": "một cô gái hoặc phụ nữ trẻ rất ngưỡng mộ một người cụ thể hoặc rất ngưỡng mộ và thích thứ gì đó chẳng hạn như một loại âm nhạc, sản phẩm hoặc bộ phim"
+                },
+                "examples": [
+                    {
+                        "en": "an Apple fangirl",
+                        "vi": "một fangirl của Apple"
+                    },
+                    {
+                        "en": "On social media the fanboys and fangirls leapt to his defence.",
+                        "vi": "Trên mạng xã hội, các fanboy và fangirl đã lên tiếng bênh vực anh ấy."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "69811e00710f4b1db89eff433ce9a975",
+        "word": "keyboardist",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈkiːbɔːdɪst/",
+            "us": "/ˈkiːbɔːrdɪst/"
+        },
+        "nearby": [
+            {
+                "word": "keyboarder",
+                "pos": "noun"
+            },
+            {
+                "word": "keyboarding",
+                "pos": "noun"
+            },
+            {
+                "word": "keyboardist",
+                "pos": "noun"
+            },
+            {
+                "word": "keyboard warrior",
+                "pos": "noun"
+            },
+            {
+                "word": "key card",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who plays an electronic musical instrument with a keyboard",
+                    "vi": "một người chơi nhạc cụ điện tử với bàn phím"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "eae3e175e5264af3bda08d2bcd1e43a6",
+        "word": "musical director",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌmjuːzɪkl dəˈrektə(r)/",
+            "us": "/ˌmjuːzɪkl dəˈrektər/"
+        },
+        "nearby": [
+            {
+                "word": "musical chairs",
+                "pos": "noun"
+            },
+            {
+                "word": "musical comedy",
+                "pos": "noun"
+            },
+            {
+                "word": "musical director",
+                "pos": "noun"
+            },
+            {
+                "word": "musical instrument",
+                "pos": "noun"
+            },
+            {
+                "word": "musicality",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the person who is in charge of the music in a show in the theatre",
+                    "vi": "người phụ trách âm nhạc trong một buổi biểu diễn trong nhà hát"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "34ade6a52f444e22a221f586263a0ced",
+        "word": "one-man band",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌwʌn mæn ˈbænd/",
+            "us": "/ˌwʌn mæn ˈbænd/"
+        },
+        "nearby": [
+            {
+                "word": "one-liner",
+                "pos": "noun"
+            },
+            {
+                "word": "one-man",
+                "pos": "adjective"
+            },
+            {
+                "word": "one-man band",
+                "pos": "noun"
+            },
+            {
+                "word": "oneness",
+                "pos": "noun"
+            },
+            {
+                "word": "one-night stand",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a street musician who plays several instruments at the same time",
+                    "vi": "một nhạc công đường phố chơi nhiều nhạc cụ cùng một lúc"
+                },
+                "examples": [
+                    {
+                        "en": "(figurative) He runs the business as a one-man band (= one person does everything).",
+                        "vi": "(nghĩa bóng) Anh ấy điều hành công việc kinh doanh như một ban nhạc một người (= một người làm mọi thứ)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c767c55f4e784ab880f562f70755dea8",
+        "word": "percussionist",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/pəˈkʌʃənɪst/",
+            "us": "/pərˈkʌʃənɪst/"
+        },
+        "nearby": [
+            {
+                "word": "percussion",
+                "pos": "noun"
+            },
+            {
+                "word": "percussion drill",
+                "pos": "noun"
+            },
+            {
+                "word": "percussionist",
+                "pos": "noun"
+            },
+            {
+                "word": "percussive",
+                "pos": "adjective"
+            },
+            {
+                "word": "percutaneous",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who plays percussion instruments",
+                    "vi": "một người chơi nhạc cụ gõ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "969cefbd8c234bb0863ca0d0090c4df9",
+        "word": "saxophonist",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/sækˈsɒfənɪst/",
+            "us": "/ˈsæksəfəʊnɪst/"
+        },
+        "nearby": [
+            {
+                "word": "Saxon",
+                "pos": "noun"
+            },
+            {
+                "word": "saxophone",
+                "pos": "noun"
+            },
+            {
+                "word": "saxophonist",
+                "pos": "noun"
+            },
+            {
+                "word": "say",
+                "pos": "verb"
+            },
+            {
+                "word": "say",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who plays the saxophone",
+                    "vi": "một người chơi saxophone"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "63418a1e0f734d28b24fc496ec56ee44",
+        "word": "soloist",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈsəʊləʊɪst/",
+            "us": "/ˈsəʊləʊɪst/"
+        },
+        "nearby": [
+            {
+                "word": "solo",
+                "pos": "noun"
+            },
+            {
+                "word": "solo climbing",
+                "pos": "noun"
+            },
+            {
+                "word": "soloist",
+                "pos": "noun"
+            },
+            {
+                "word": "Solomon",
+                "pos": "noun"
+            },
+            {
+                "word": "Solomon Islander",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who plays an instrument or performs alone",
+                    "vi": "một người chơi nhạc cụ hoặc biểu diễn một mình"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "13bd5fdd21f04bc1be2981d048465acc",
+        "word": "support",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/səˈpɔːt/",
+            "us": "/səˈpɔːrt/"
+        },
+        "nearby": [
+            {
+                "word": "supply teacher",
+                "pos": "noun"
+            },
+            {
+                "word": "support",
+                "pos": "verb"
+            },
+            {
+                "word": "support",
+                "pos": "noun"
+            },
+            {
+                "word": "support bubble",
+                "pos": "noun"
+            },
+            {
+                "word": "supporter",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "approval that you give to somebody/something because you want them to be successful",
+                    "vi": "sự chấp thuận mà bạn trao cho ai đó / điều gì đó bởi vì bạn muốn họ thành công"
+                },
+                "examples": [
+                    {
+                        "en": "support for something There is strong public support for the policy.",
+                        "vi": "ủng hộ điều gì Có sự ủng hộ mạnh mẽ của công chúng đối với chính sách."
+                    },
+                    {
+                        "en": "There is a continued lack of support for the war.",
+                        "vi": "Tiếp tục thiếu hỗ trợ cho chiến tranh."
+                    },
+                    {
+                        "en": "His ideas are gaining popular support (= the support of many people).",
+                        "vi": "Ý tưởng của anh ấy đang được sự ủng hộ rộng rãi (= sự ủng hộ của nhiều người)."
+                    },
+                    {
+                        "en": "to provide/offer support",
+                        "vi": "cung cấp / cung cấp hỗ trợ"
+                    },
+                    {
+                        "en": "I intend to lend my full support to the campaign.",
+                        "vi": "Tôi dự định sẽ hỗ trợ hết mình cho chiến dịch."
+                    },
+                    {
+                        "en": "to win/gain somebody's support",
+                        "vi": "giành được / giành được sự ủng hộ của ai đó"
+                    },
+                    {
+                        "en": "Can I rely on your support (= will you vote for me) in the election?",
+                        "vi": "Tôi có thể dựa vào sự ủng hộ của bạn (= bạn sẽ bỏ phiếu cho tôi) trong cuộc bầu cử không?"
+                    },
+                    {
+                        "en": "support from somebody/something The policy has broad support from industry.",
+                        "vi": "hỗ trợ từ ai đó / cái gì đó Chính sách có sự hỗ trợ rộng rãi từ các ngành."
+                    },
+                    {
+                        "en": "in support of something Only a few people spoke in support of the proposal.",
+                        "vi": "ủng hộ điều gì đó Chỉ có một số người phát biểu ủng hộ đề xuất này."
+                    },
+                    {
+                        "en": "organizations that provide advice and support to small businesses",
+                        "vi": "các tổ chức cung cấp lời khuyên và hỗ trợ cho các doanh nghiệp nhỏ"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "money or goods that you give to somebody/something in order to help them",
+                    "vi": "tiền hoặc hàng hóa mà bạn cho ai đó / thứ gì đó để giúp họ"
+                },
+                "examples": [
+                    {
+                        "en": "They received no financial support from the government.",
+                        "vi": "Họ không nhận được hỗ trợ tài chính từ chính phủ."
+                    },
+                    {
+                        "en": "She has no visible means of support (= no work, income etc.).",
+                        "vi": "Cô ấy không có phương tiện hỗ trợ hữu hình (= không có việc làm, thu nhập, v.v.)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "sympathy and help that you give to somebody who is in a difficult or unhappy situation",
+                    "vi": "sự cảm thông và giúp đỡ mà bạn dành cho ai đó đang gặp hoàn cảnh khó khăn hoặc bất hạnh"
+                },
+                "examples": [
+                    {
+                        "en": "Her family and friends have given her lots of support.",
+                        "vi": "Gia đình và bạn bè đã ủng hộ cô rất nhiều."
+                    },
+                    {
+                        "en": "Thank you for all your messages of support at this difficult time.",
+                        "vi": "Cảm ơn tất cả các tin nhắn ủng hộ của bạn trong thời điểm khó khăn này."
+                    },
+                    {
+                        "en": "He turned to his closest friends for support.",
+                        "vi": "Anh ấy đã tìm đến những người bạn thân nhất của mình để hỗ trợ."
+                    },
+                    {
+                        "en": "support staff/services",
+                        "vi": "nhân viên / dịch vụ hỗ trợ"
+                    },
+                    {
+                        "en": "a support network/system",
+                        "vi": "một mạng lưới / hệ thống hỗ trợ"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "evidence that helps to show that something is true or correct",
+                    "vi": "bằng chứng giúp cho thấy điều gì đó là đúng hoặc đúng"
+                },
+                "examples": [
+                    {
+                        "en": "This suggestion lacks convincing experimental support.",
+                        "vi": "Đề xuất này thiếu hỗ trợ thực nghiệm thuyết phục."
+                    },
+                    {
+                        "en": "support for something The statistics offer further support for our theory.",
+                        "vi": "hỗ trợ cho điều gì đó Số liệu thống kê cung cấp hỗ trợ thêm cho lý thuyết của chúng tôi."
+                    },
+                    {
+                        "en": "in support of something There is little evidence in support of this hypothesis.",
+                        "vi": "ủng hộ điều gì đó Có rất ít bằng chứng ủng hộ giả thuyết này."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a thing that holds something and prevents it from falling",
+                    "vi": "một thứ giữ một cái gì đó và ngăn nó rơi xuống"
+                },
+                "examples": [
+                    {
+                        "en": "The supports under the bridge were starting to bend.",
+                        "vi": "Các thanh đỡ dưới cây cầu bắt đầu bị uốn cong."
+                    },
+                    {
+                        "en": "(figurative) When my father died, Jim was a real support.",
+                        "vi": "(nghĩa bóng) Khi bố tôi mất, Jim là chỗ dựa thực sự."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the act of holding something in position or preventing it from falling",
+                    "vi": "hành động giữ một cái gì đó ở vị trí hoặc ngăn nó rơi xuống"
+                },
+                "examples": [
+                    {
+                        "en": "for support She held on to his arm for support.",
+                        "vi": "để được hỗ trợ Cô đã giữ chặt cánh tay của anh để được hỗ trợ."
+                    },
+                    {
+                        "en": "without support After the operation he couldn't walk without support.",
+                        "vi": "không có sự hỗ trợ Sau cuộc phẫu thuật, anh ấy không thể đi lại nếu không có sự hỗ trợ."
+                    },
+                    {
+                        "en": "A firmer mattress gives your back an improved level of support.",
+                        "vi": "Nệm cứng hơn giúp lưng bạn được nâng đỡ ở mức độ cao hơn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "something you wear to hold an injured or weak part of your body in position",
+                    "vi": "một cái gì đó bạn mặc để giữ một bộ phận bị thương hoặc yếu của cơ thể vào vị trí"
+                },
+                "examples": [
+                    {
+                        "en": "a knee/back support",
+                        "vi": "hỗ trợ đầu gối / lưng"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a band or singer who performs in a pop or rock concert before the main performer",
+                    "vi": "một ban nhạc hoặc ca sĩ biểu diễn trong một buổi hòa nhạc pop hoặc rock trước nghệ sĩ biểu diễn chính"
+                },
+                "examples": [
+                    {
+                        "en": "The support (act) has yet to be confirmed.",
+                        "vi": "Sự hỗ trợ (hành động) vẫn chưa được xác nhận."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "technical help that a company gives to customers using their computers or other products",
+                    "vi": "trợ giúp kỹ thuật mà một công ty cung cấp cho khách hàng sử dụng máy tính hoặc các sản phẩm khác của họ"
+                },
+                "examples": [
+                    {
+                        "en": "There is a lack of decent home user support.",
+                        "vi": "Thiếu hỗ trợ người dùng gia đình tốt."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3fdea1c1e9cb47e98d4ca5981c28ac83",
+        "word": "alto",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈæltəʊ/",
+            "us": "/ˈæltəʊ/"
+        },
+        "nearby": [
+            {
+                "word": "Alt key",
+                "pos": "noun"
+            },
+            {
+                "word": "Robert Altman",
+                "pos": ""
+            },
+            {
+                "word": "alto",
+                "pos": "noun"
+            },
+            {
+                "word": "alto",
+                "pos": "adjective"
+            },
+            {
+                "word": "altocumulus",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a singing voice with a lower range than that of a soprano; a person with an alto voice",
+                    "vi": "giọng hát có âm vực thấp hơn giọng nữ cao; một người có giọng nói alto"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a musical part that is written for an alto voice",
+                    "vi": "một phần âm nhạc được viết cho giọng alto"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "998fbc80fbd14330b403b688e406cc51",
+        "word": "baritone",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbærɪtəʊn/",
+            "us": "/ˈbærɪtəʊn/"
+        },
+        "nearby": [
+            {
+                "word": "barista",
+                "pos": "noun"
+            },
+            {
+                "word": "baritone",
+                "pos": "adjective"
+            },
+            {
+                "word": "baritone",
+                "pos": "noun"
+            },
+            {
+                "word": "barium",
+                "pos": "noun"
+            },
+            {
+                "word": "barium meal",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a man’s singing voice with a range between tenor and bass; a man with a baritone voice",
+                    "vi": "giọng hát của một người đàn ông với một dải giữa giọng nam cao và âm trầm; một người đàn ông có giọng nam trung"
+                },
+                "examples": [
+                    {
+                        "en": "He sang in his rich baritone",
+                        "vi": "Anh ấy hát bằng giọng nam trung phong phú của mình"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a musical instrument that is second lowest in pitch in its family",
+                    "vi": "một nhạc cụ có âm vực thấp thứ hai trong gia đình của nó"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "910c1dbfe65d42f0b9e7811961324fb1",
+        "word": "bassist",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbeɪsɪst/",
+            "us": "/ˈbeɪsɪst/"
+        },
+        "nearby": [
+            {
+                "word": "basset horn",
+                "pos": "noun"
+            },
+            {
+                "word": "bassinet",
+                "pos": "noun"
+            },
+            {
+                "word": "bassist",
+                "pos": "noun"
+            },
+            {
+                "word": "bassline",
+                "pos": "noun"
+            },
+            {
+                "word": "bassoon",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who plays the bass or the double bass",
+                    "vi": "một người chơi bass hoặc bass kép"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "daee0a44f41e4ba3ae00a98806d7a5cc",
+        "word": "bassoonist",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/bəˈsuːnɪst/",
+            "us": "/bəˈsuːnɪst/"
+        },
+        "nearby": [
+            {
+                "word": "bassline",
+                "pos": "noun"
+            },
+            {
+                "word": "bassoon",
+                "pos": "noun"
+            },
+            {
+                "word": "bassoonist",
+                "pos": "noun"
+            },
+            {
+                "word": "bastard",
+                "pos": "noun"
+            },
+            {
+                "word": "bastardize",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who plays the bassoon",
+                    "vi": "một người chơi bassoon"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "6f3bdb82ae90441cbb2396630a7aeead",
+        "word": "bugler",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbjuːɡlə(r)/",
+            "us": "/ˈbjuːɡlər/"
+        },
+        "nearby": [
+            {
+                "word": "buggy",
+                "pos": "adjective"
+            },
+            {
+                "word": "bugle",
+                "pos": "noun"
+            },
+            {
+                "word": "bugler",
+                "pos": "noun"
+            },
+            {
+                "word": "bug off!",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "bug out",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who plays the bugle",
+                    "vi": "một người chơi bugle"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "93ee093d46f84ca8a62f088e9eea7359",
+        "word": "busker",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbʌskə(r)/",
+            "us": "/ˈbʌskər/"
+        },
+        "nearby": [
+            {
+                "word": "busing",
+                "pos": "noun"
+            },
+            {
+                "word": "busk",
+                "pos": "verb"
+            },
+            {
+                "word": "busker",
+                "pos": "noun"
+            },
+            {
+                "word": "buskin",
+                "pos": "noun"
+            },
+            {
+                "word": "busking",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who performs music in a public place and asks for money from people passing by",
+                    "vi": "một người biểu diễn âm nhạc ở nơi công cộng và xin tiền từ những người đi qua"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "f156c30424334012b2366ec29e149774",
+        "word": "cellist",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtʃelɪst/",
+            "us": "/ˈtʃelɪst/"
+        },
+        "nearby": [
+            {
+                "word": "cell",
+                "pos": "noun"
+            },
+            {
+                "word": "cellar",
+                "pos": "noun"
+            },
+            {
+                "word": "cellist",
+                "pos": "noun"
+            },
+            {
+                "word": "cellmate",
+                "pos": "noun"
+            },
+            {
+                "word": "cello",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who plays the cello",
+                    "vi": "một người chơi cello"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "e376f0412e3a44c98c46f6bfdbce52c7",
+        "word": "contralto",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/kənˈtræltəʊ/",
+            "us": "/kənˈtræltəʊ/"
+        },
+        "nearby": [
+            {
+                "word": "contraindicate",
+                "pos": "verb"
+            },
+            {
+                "word": "contraindication",
+                "pos": "noun"
+            },
+            {
+                "word": "contralto",
+                "pos": "noun"
+            },
+            {
+                "word": "contraption",
+                "pos": "noun"
+            },
+            {
+                "word": "contrapuntal",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a singing voice with a lower range than that of a soprano; a person with a contralto voice",
+                    "vi": "giọng hát có âm vực thấp hơn giọng nữ cao; một người có giọng nói bình thường"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "7c5a6984bf5d480989425cf8f46adb94",
+        "word": "diva",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈdiːvə/",
+            "us": "/ˈdiːvə/"
+        },
+        "nearby": [
+            {
+                "word": "diurnal",
+                "pos": "adjective"
+            },
+            {
+                "word": "Div.",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "diva",
+                "pos": "noun"
+            },
+            {
+                "word": "Divali",
+                "pos": "noun"
+            },
+            {
+                "word": "divan",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a famous woman singer, especially an opera singer",
+                    "vi": "một nữ ca sĩ nổi tiếng, đặc biệt là một ca sĩ opera"
+                },
+                "examples": [
+                    {
+                        "en": "the great diva Maria Callas",
+                        "vi": "diva vĩ đại Maria Callas"
+                    },
+                    {
+                        "en": "pop divas like Beyoncé",
+                        "vi": "diva nhạc pop như Beyoncé"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who is difficult to please and demands a lot of attention",
+                    "vi": "một người khó làm hài lòng và đòi hỏi nhiều sự quan tâm"
+                },
+                "examples": [
+                    {
+                        "en": "He was a real diva as a conductor, but not as a friend.",
+                        "vi": "Anh ấy là một diva thực sự với tư cách là một nhạc trưởng, nhưng không phải là một người bạn."
+                    },
+                    {
+                        "en": "She yells, she's over the top. She's a diva!",
+                        "vi": "Cô ấy hét lên, cô ấy đang ở trên cùng. Cô ấy là một diva!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a1356e21c203447c8b319307879ecea9",
+        "word": "falsetto",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/fɔːlˈsetəʊ/",
+            "us": "/fɔːlˈsetəʊ/"
+        },
+        "nearby": [
+            {
+                "word": "false teeth",
+                "pos": "noun"
+            },
+            {
+                "word": "falsettist",
+                "pos": "noun"
+            },
+            {
+                "word": "falsetto",
+                "pos": "noun"
+            },
+            {
+                "word": "falsies",
+                "pos": "noun"
+            },
+            {
+                "word": "falsification",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an unusually high voice, especially the voice that men use to sing very high notes",
+                    "vi": "một giọng cao bất thường, đặc biệt là giọng mà nam giới sử dụng để hát những nốt rất cao"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "dfb19078fe0f4fc187e3dbfc3cd82f30",
+        "word": "fiddler",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈfɪdlə(r)/",
+            "us": "/ˈfɪdlər/"
+        },
+        "nearby": [
+            {
+                "word": "fiddle around",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "fiddle around with",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "fiddler",
+                "pos": "noun"
+            },
+            {
+                "word": "Fiddler on the Roof",
+                "pos": ""
+            },
+            {
+                "word": "fiddlesticks",
+                "pos": "exclamation"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who plays the violin, especially to play folk music",
+                    "vi": "một người chơi vĩ cầm, đặc biệt là chơi nhạc dân gian"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "2699e6cebbb04744a1a932aae44855ff",
+        "word": "flautist",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈflɔːtɪst/",
+            "us": "/ˈflɔːtɪst/"
+        },
+        "nearby": [
+            {
+                "word": "flatworm",
+                "pos": "noun"
+            },
+            {
+                "word": "flaunt",
+                "pos": "verb"
+            },
+            {
+                "word": "flautist",
+                "pos": "noun"
+            },
+            {
+                "word": "flavonoid",
+                "pos": "noun"
+            },
+            {
+                "word": "flavour",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who plays the flute",
+                    "vi": "một người thổi sáo"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "272851459306496e9444219322ec78ce",
+        "word": "frontman",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈfrʌntmæn/",
+            "us": "/ˈfrʌntmæn/"
+        },
+        "nearby": [
+            {
+                "word": "the front line",
+                "pos": "noun"
+            },
+            {
+                "word": "front-load",
+                "pos": "verb"
+            },
+            {
+                "word": "frontman",
+                "pos": "noun"
+            },
+            {
+                "word": "front office",
+                "pos": "noun"
+            },
+            {
+                "word": "front of house",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who represents an organization and tries to make its activities seem acceptable to the public, although in fact they may be illegal or dishonest",
+                    "vi": "một người đại diện cho một tổ chức và cố gắng làm cho các hoạt động của tổ chức đó có vẻ được công chúng chấp nhận, mặc dù trên thực tế, chúng có thể là bất hợp pháp hoặc không trung thực"
+                },
+                "examples": [
+                    {
+                        "en": "He acted as a frontman for a drugs cartel.",
+                        "vi": "Anh ta hoạt động như một bình phong cho một tập đoàn ma túy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a man who is the main singer in a pop or rock band",
+                    "vi": "một người đàn ông là ca sĩ chính trong ban nhạc pop hoặc rock"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person who presents a television programme",
+                    "vi": "một người trình bày một chương trình truyền hình"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "dd7b71afde964cecaa357ccd1a10b08c",
+        "word": "frontwoman",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈfrʌntwʊmən/",
+            "us": "/ˈfrʌntwʊmən/"
+        },
+        "nearby": [
+            {
+                "word": "front up",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "front-wheel drive",
+                "pos": "noun"
+            },
+            {
+                "word": "frontwoman",
+                "pos": "noun"
+            },
+            {
+                "word": "frost",
+                "pos": "noun"
+            },
+            {
+                "word": "David Frost",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a woman who is the main singer in a pop or rock band",
+                    "vi": "một phụ nữ là ca sĩ chính trong ban nhạc pop hoặc rock"
+                },
+                "examples": [
+                    {
+                        "en": "The band's frontwoman hit the stage and started belting it out.",
+                        "vi": "Người phụ nữ của ban nhạc bước lên sân khấu và bắt đầu thắt dây."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "b86b4bb45b444495ad0f22419e91d6d9",
+        "word": "garage band",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈɡærɑːʒ bænd/",
+            "us": "/ɡəˈrɑːʒ bænd/"
+        },
+        "nearby": [
+            {
+                "word": "garage",
+                "pos": "noun"
+            },
+            {
+                "word": "garage",
+                "pos": "verb"
+            },
+            {
+                "word": "garage band",
+                "pos": "noun"
+            },
+            {
+                "word": "garage rock",
+                "pos": "noun"
+            },
+            {
+                "word": "garage sale",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a group of people who play rock music together and practise in a garage or similar place",
+                    "vi": "một nhóm người chơi nhạc rock cùng nhau và luyện tập trong nhà để xe hoặc địa điểm tương tự"
+                },
+                "examples": [
+                    {
+                        "en": "He played in a high school garage band.",
+                        "vi": "Anh ấy đã chơi trong một ban nhạc ga-ra của trường trung học."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6fcc4ddc03f840bb9156ab9f8ce41451",
+        "word": "harpist",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈhɑːpɪst/",
+            "us": "/ˈhɑːrpɪst/"
+        },
+        "nearby": [
+            {
+                "word": "Harpers Ferry",
+                "pos": ""
+            },
+            {
+                "word": "Harper's Magazine",
+                "pos": ""
+            },
+            {
+                "word": "harpist",
+                "pos": "noun"
+            },
+            {
+                "word": "harp on",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "harpoon",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who plays the harp",
+                    "vi": "một người chơi đàn hạc"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "21274039f047435e83e2216fd7ba444d",
+        "word": "harpsichordist",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈhɑːpsɪkɔːdɪst/",
+            "us": "/ˈhɑːrpsɪkɔːrdɪst/"
+        },
+        "nearby": [
+            {
+                "word": "harp seal",
+                "pos": "noun"
+            },
+            {
+                "word": "harpsichord",
+                "pos": "noun"
+            },
+            {
+                "word": "harpsichordist",
+                "pos": "noun"
+            },
+            {
+                "word": "harpy",
+                "pos": "noun"
+            },
+            {
+                "word": "harridan",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who plays the harpsichord",
+                    "vi": "một người chơi harpsichord"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "d728643e2fea436da15a8b15cbb268d0",
+        "word": "headliner",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈhedlaɪnə(r)/",
+            "us": "/ˈhedlaɪnər/"
+        },
+        "nearby": [
+            {
+                "word": "headline",
+                "pos": "noun"
+            },
+            {
+                "word": "headline",
+                "pos": "verb"
+            },
+            {
+                "word": "headliner",
+                "pos": "noun"
+            },
+            {
+                "word": "headlock",
+                "pos": "noun"
+            },
+            {
+                "word": "headlong",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the main performer or act in a show",
+                    "vi": "người biểu diễn chính hoặc hành động trong một chương trình"
+                },
+                "examples": [
+                    {
+                        "en": "The band are among the headliners for the music festival next month.",
+                        "vi": "Ban nhạc là một trong những nghệ sĩ tiêu biểu cho lễ hội âm nhạc vào tháng tới."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a8b9dd38217b40a98df66106f9b5ec12",
+        "word": "mariachi",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌmæriˈɑːtʃi/",
+            "us": "/ˌmɑːriˈɑːtʃi/"
+        },
+        "nearby": [
+            {
+                "word": "marguerite",
+                "pos": "noun"
+            },
+            {
+                "word": "Maria",
+                "pos": ""
+            },
+            {
+                "word": "mariachi",
+                "pos": "noun"
+            },
+            {
+                "word": "Marian",
+                "pos": "adjective"
+            },
+            {
+                "word": "Marian",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a musician who plays traditional Mexican music, usually as part of a small group that travels from place to place; the type of music played by these musicians",
+                    "vi": "một nhạc sĩ chơi nhạc truyền thống của Mexico, thường là một phần của một nhóm nhỏ đi du lịch từ nơi này sang nơi khác; loại nhạc được chơi bởi những nhạc sĩ này"
+                },
+                "examples": [
+                    {
+                        "en": "a mariachi band",
+                        "vi": "một ban nhạc mariachi"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "457f47c31a664d958b625d19c791f8c6",
+        "word": "mezzo-soprano",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌmetsəʊ səˈprɑːnəʊ/",
+            "us": "/ˌmetsəʊ səˈprænəʊ/"
+        },
+        "nearby": [
+            {
+                "word": "mezuzah",
+                "pos": "noun"
+            },
+            {
+                "word": "mezzanine",
+                "pos": "noun"
+            },
+            {
+                "word": "mezzo-soprano",
+                "pos": "noun"
+            },
+            {
+                "word": "mezzotint",
+                "pos": "noun"
+            },
+            {
+                "word": "mg",
+                "pos": "abbreviation"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a singing voice with a range between soprano and alto; a woman with a mezzo-soprano voice",
+                    "vi": "giọng hát có quãng giữa giọng nữ cao và giọng alto; một người phụ nữ với giọng nữ trung meo-soprano"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "371a6bd31ec34d0284399a21c8eb00ad",
+        "word": "oboist",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈəʊbəʊɪst/",
+            "us": "/ˈəʊbəʊɪst/"
+        },
+        "nearby": [
+            {
+                "word": "obo",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "oboe",
+                "pos": "noun"
+            },
+            {
+                "word": "oboist",
+                "pos": "noun"
+            },
+            {
+                "word": "O-Bon",
+                "pos": "noun"
+            },
+            {
+                "word": "obscene",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who plays the oboe",
+                    "vi": "một người chơi oboe"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "2485e2e100de4076a03ff418f0fe433c",
+        "word": "organist",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈɔːɡənɪst/",
+            "us": "/ˈɔːrɡənɪst/"
+        },
+        "nearby": [
+            {
+                "word": "organic chemistry",
+                "pos": "noun"
+            },
+            {
+                "word": "organism",
+                "pos": "noun"
+            },
+            {
+                "word": "organist",
+                "pos": "noun"
+            },
+            {
+                "word": "organization",
+                "pos": "noun"
+            },
+            {
+                "word": "organizational",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who plays the organ",
+                    "vi": "một người chơi đàn organ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "8fb37ffdd7ff4f1b800775bdc9fefc3d",
+        "word": "piper",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpaɪpə(r)/",
+            "us": "/ˈpaɪpər/"
+        },
+        "nearby": [
+            {
+                "word": "pipeline",
+                "pos": "noun"
+            },
+            {
+                "word": "pipe organ",
+                "pos": "noun"
+            },
+            {
+                "word": "piper",
+                "pos": "noun"
+            },
+            {
+                "word": "John Piper",
+                "pos": ""
+            },
+            {
+                "word": "Piper Alpha",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who plays music on a pipe or the bagpipes",
+                    "vi": "một người chơi nhạc trên đàn ống hoặc kèn túi"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the person who provides the money for something can also control how it is spent",
+                    "vi": "người cung cấp tiền cho một cái gì đó cũng có thể kiểm soát cách nó được chi tiêu"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "4c799a1f28344e5aaed0cf9fde9dc0e3",
+        "word": "remixer",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈriːmɪksə(r)/",
+            "us": "/ˈriːmɪksər/"
+        },
+        "nearby": [
+            {
+                "word": "remix",
+                "pos": "noun"
+            },
+            {
+                "word": "remix",
+                "pos": "verb"
+            },
+            {
+                "word": "remixer",
+                "pos": "noun"
+            },
+            {
+                "word": "remnant",
+                "pos": "noun"
+            },
+            {
+                "word": "Remoaner",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who makes new versions of recorded pieces of music by using a machine to arrange the separate parts of the recording in a different way, add new parts, etc.",
+                    "vi": "một người tạo ra các phiên bản mới của các bản nhạc đã ghi bằng cách sử dụng máy để sắp xếp các phần riêng biệt của bản ghi theo một cách khác, thêm các phần mới, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "the skills of remixer Tom Moulton",
+                        "vi": "kỹ năng của nhà hòa âm phối khí Tom Moulton"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a944aaf330f84130933742586f750a77",
+        "word": "soprano",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/səˈprɑːnəʊ/",
+            "us": "/səˈprænəʊ/"
+        },
+        "nearby": [
+            {
+                "word": "soppy",
+                "pos": "adjective"
+            },
+            {
+                "word": "sopranino",
+                "pos": "noun"
+            },
+            {
+                "word": "soprano",
+                "pos": "noun"
+            },
+            {
+                "word": "soprano",
+                "pos": "adjective"
+            },
+            {
+                "word": "soprano recorder",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a singing voice with the highest range for a woman or boy; a singer with a soprano voice",
+                    "vi": "giọng hát có âm vực cao nhất dành cho phụ nữ hoặc trẻ em trai; một ca sĩ có giọng nữ cao"
+                },
+                "examples": [
+                    {
+                        "en": "She has sung soprano in many major operas.",
+                        "vi": "Cô đã hát giọng nữ cao trong nhiều vở opera lớn."
+                    },
+                    {
+                        "en": "She has a natural, clear soprano voice.",
+                        "vi": "Cô có giọng nữ cao tự nhiên, trong trẻo."
+                    },
+                    {
+                        "en": "She sings in an exceptionally pure soprano.",
+                        "vi": "Cô ấy hát bằng một giọng nữ cao đặc biệt thuần khiết."
+                    },
+                    {
+                        "en": "The soprano part in this opera is very demanding.",
+                        "vi": "Phần giọng nữ cao trong vở opera này được yêu cầu rất cao."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a musical part written for a soprano voice",
+                    "vi": "một phần âm nhạc được viết cho giọng nữ cao"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "a11d7d2740cb4a1d8bc67571fede2127",
+        "word": "supergroup",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈsuːpəɡruːp/",
+            "us": "/ˈsuːpərɡruːp/"
+        },
+        "nearby": [
+            {
+                "word": "superglue",
+                "pos": "noun"
+            },
+            {
+                "word": "supergrass",
+                "pos": "noun"
+            },
+            {
+                "word": "supergroup",
+                "pos": "noun"
+            },
+            {
+                "word": "superheated",
+                "pos": "adjective"
+            },
+            {
+                "word": "superheavyweight",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a very successful and very famous band that plays rock music, especially one whose members have already become famous in other bands",
+                    "vi": "một ban nhạc rất thành công và rất nổi tiếng chơi nhạc rock, đặc biệt là một ban nhạc mà các thành viên của họ đã trở nên nổi tiếng trong các ban nhạc khác"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "06e719fed3c24320be2d9e6b2e824f93",
+        "word": "tenor",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtenə(r)/",
+            "us": "/ˈtenər/"
+        },
+        "nearby": [
+            {
+                "word": "tenon",
+                "pos": "noun"
+            },
+            {
+                "word": "tenon saw",
+                "pos": "noun"
+            },
+            {
+                "word": "tenor",
+                "pos": "noun"
+            },
+            {
+                "word": "tenor",
+                "pos": "adjective"
+            },
+            {
+                "word": "ten pence piece",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a man’s singing voice with a range just below the lowest woman’s voice; a man with a tenor voice",
+                    "vi": "giọng hát của một người đàn ông với âm vực ngay dưới giọng của người phụ nữ thấp nhất; một người đàn ông có giọng nam cao"
+                },
+                "examples": [
+                    {
+                        "en": "Three celebrated tenors sang at the president's inauguration.",
+                        "vi": "Ba giọng nam cao nổi tiếng đã hát trong lễ nhậm chức của tổng thống."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a musical part written for a tenor voice",
+                    "vi": "một phần âm nhạc được viết cho giọng nam cao"
+                },
+                "examples": [
+                    {
+                        "en": "We persuaded Jake to sing tenor.",
+                        "vi": "Chúng tôi đã thuyết phục Jake hát giọng nam cao."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the general character or meaning of something",
+                    "vi": "đặc điểm chung hoặc ý nghĩa của một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "I was encouraged by the general tenor of his remarks.",
+                        "vi": "Tôi đã được khích lệ bởi giọng nam cao trong nhận xét của anh ấy."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4d048e61d63943819bda8e57ac696813",
+        "word": "tribute band",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtrɪbjuːt bænd/",
+            "us": "/ˈtrɪbjuːt bænd/"
+        },
+        "nearby": [
+            {
+                "word": "tributary",
+                "pos": "noun"
+            },
+            {
+                "word": "tribute",
+                "pos": "noun"
+            },
+            {
+                "word": "tribute band",
+                "pos": "noun"
+            },
+            {
+                "word": "trice",
+                "pos": "noun"
+            },
+            {
+                "word": "triceps",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a group of musicians who play the music of a famous band and copy the way they look and sound",
+                    "vi": "một nhóm nhạc sĩ chơi nhạc của một ban nhạc nổi tiếng và sao chép cách nhìn và âm thanh của họ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "94b68c01ffd64e4080b6522eab1a0c73",
+        "word": "veejay",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈviː dʒeɪ/",
+            "us": "/ˈviː dʒeɪ/"
+        },
+        "nearby": [
+            {
+                "word": "Vedic",
+                "pos": "adjective"
+            },
+            {
+                "word": "Vedic",
+                "pos": "noun"
+            },
+            {
+                "word": "veejay",
+                "pos": "noun"
+            },
+            {
+                "word": "veena",
+                "pos": "noun"
+            },
+            {
+                "word": "veep",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who introduces music videos on television",
+                    "vi": "một người giới thiệu video âm nhạc trên truyền hình"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "c8cfff88b4154568b64442b3a26402b5",
+        "word": "video jockey",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈvɪdiəʊ dʒɒki/",
+            "us": "/ˈvɪdiəʊ dʒɑːki/"
+        },
+        "nearby": [
+            {
+                "word": "video game",
+                "pos": "noun"
+            },
+            {
+                "word": "videograph",
+                "pos": "verb"
+            },
+            {
+                "word": "video jockey",
+                "pos": "noun"
+            },
+            {
+                "word": "video nasty",
+                "pos": "noun"
+            },
+            {
+                "word": "Video Nation",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who introduces music videos on television",
+                    "vi": "một người giới thiệu video âm nhạc trên truyền hình"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "f8f8fa10e51b4008a4d4058c683c8fad",
+        "word": "violist",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/viˈəʊlɪst/",
+            "us": "/viˈəʊlɪst/"
+        },
+        "nearby": [
+            {
+                "word": "violin",
+                "pos": "noun"
+            },
+            {
+                "word": "violinist",
+                "pos": "noun"
+            },
+            {
+                "word": "violist",
+                "pos": "noun"
+            },
+            {
+                "word": "violoncello",
+                "pos": "noun"
+            },
+            {
+                "word": "VIP",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who plays the viola",
+                    "vi": "một người chơi viola"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person who plays the viol",
+                    "vi": "một người chơi vi phạm"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "daecf87e0745458f9ef7d031ac4f25aa",
+        "word": "virtuoso",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌvɜːtʃuˈəʊsəʊ/",
+            "us": "/ˌvɜːrtʃuˈəʊsəʊ/"
+        },
+        "nearby": [
+            {
+                "word": "virtue signalling",
+                "pos": "noun"
+            },
+            {
+                "word": "virtuosity",
+                "pos": "noun"
+            },
+            {
+                "word": "virtuoso",
+                "pos": "noun"
+            },
+            {
+                "word": "virtuoso",
+                "pos": "adjective"
+            },
+            {
+                "word": "virtuous",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who shows very great skill at doing something, especially playing a musical instrument",
+                    "vi": "một người thể hiện kỹ năng rất tốt khi làm một việc gì đó, đặc biệt là chơi nhạc cụ"
+                },
+                "examples": [
+                    {
+                        "en": "a piano virtuoso",
+                        "vi": "một cây đàn piano điêu luyện"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f3c6e58f17384e54ae3cfc3bc9d96d36",
+        "word": "VJ",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈviː dʒeɪ/",
+            "us": "/ˈviː dʒeɪ/"
+        },
+        "nearby": [
+            {
+                "word": "Viz",
+                "pos": ""
+            },
+            {
+                "word": "vizier",
+                "pos": "noun"
+            },
+            {
+                "word": "VJ",
+                "pos": "noun"
+            },
+            {
+                "word": "V-J Day",
+                "pos": ""
+            },
+            {
+                "word": "VLE",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who introduces music videos on television",
+                    "vi": "một người giới thiệu video âm nhạc trên truyền hình"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "21d7c4c5159c42118f2917f1971b55a1",
+        "word": "vocalist",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈvəʊkəlɪst/",
+            "us": "/ˈvəʊkəlɪst/"
+        },
+        "nearby": [
+            {
+                "word": "vocalic",
+                "pos": "adjective"
+            },
+            {
+                "word": "vocalise",
+                "pos": "noun"
+            },
+            {
+                "word": "vocalist",
+                "pos": "noun"
+            },
+            {
+                "word": "vocalization",
+                "pos": "noun"
+            },
+            {
+                "word": "vocalize",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a singer, especially in a pop, rock or jazz band",
+                    "vi": "một ca sĩ, đặc biệt là trong ban nhạc pop, rock hoặc jazz"
+                },
+                "examples": [
+                    {
+                        "en": "a lead/guest/backing vocalist",
+                        "vi": "một giọng ca chính / khách mời / hỗ trợ"
+                    }
+                ]
+            }
+        ]
+    }
+]

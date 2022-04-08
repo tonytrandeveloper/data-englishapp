@@ -1,0 +1,1287 @@
+{
+    "id": "3e22672ec4394bf5bb6fc9d2b8e9bbc0",
+    "title": "Triple A Employment Agency",
+    "questions": [
+        {
+            "id": "4acc3b7827e84062b92ef4ff382809aa",
+            "text": "Hello. Is this the Triple A Employment agency?",
+            "items": [
+                "Hello.",
+                "Is",
+                "this",
+                "the",
+                "Triple",
+                "A",
+                "Employment",
+                "agency?"
+            ]
+        },
+        {
+            "id": "ea1e1c5cd1d94b17a0463d7350444e04",
+            "text": "Yes.",
+            "items": [
+                "Yes."
+            ]
+        },
+        {
+            "id": "8fe2d44e59d54c0ca1902db0ebd30978",
+            "text": "Hi. I rang before. My name's Andrew. Andrew Peterson.",
+            "items": [
+                "Hi.",
+                "I",
+                "rang",
+                "before.",
+                "My",
+                "name's",
+                "Andrew.",
+                "Andrew",
+                "Peterson."
+            ]
+        },
+        {
+            "id": "6a8eb34a6c5146a7aa03709d4289e154",
+            "text": "I rang you earlier and gave you my personal details.",
+            "items": [
+                "I",
+                "rang",
+                "you",
+                "earlier",
+                "and",
+                "gave",
+                "you",
+                "my",
+                "personal",
+                "details."
+            ]
+        },
+        {
+            "id": "85785ce7988d4212be0d1e5459c39473",
+            "text": "If you remember, I'm that student looking for work during the summer holidays.",
+            "items": [
+                "If",
+                "you",
+                "remember,",
+                "I'm",
+                "that",
+                "student",
+                "looking",
+                "for",
+                "work",
+                "during",
+                "the",
+                "summer",
+                "holidays."
+            ]
+        },
+        {
+            "id": "b63eb8d2bae84e5cafd5b0c0fe585593",
+            "text": "Oh, sure. Actually, I have your file right here.",
+            "items": [
+                "Oh,",
+                "sure.",
+                "Actually,",
+                "I",
+                "have",
+                "your",
+                "file",
+                "right",
+                "here."
+            ]
+        },
+        {
+            "id": "dd43bda5a24940fd8b8aa8f02cc6d083",
+            "text": "But... we still need to add some further information.",
+            "items": [
+                "But...",
+                "we",
+                "still",
+                "need",
+                "to",
+                "add",
+                "some",
+                [
+                    "further",
+                    "farther"
+                ],
+                "information."
+            ]
+        },
+        {
+            "id": "42c5444752e74a8e90f991f1abbc5e8d",
+            "text": "Yeah, that's what they told me, and that's why I'm ringing.",
+            "items": [
+                "Yeah,",
+                "that's",
+                "what",
+                "they",
+                "told",
+                "me,",
+                "and",
+                "that's",
+                "why",
+                "I'm",
+                "ringing."
+            ]
+        },
+        {
+            "id": "c3b9f0f1566e44fb83373029e2df97b2",
+            "text": "What do you need to know?",
+            "items": [
+                "What",
+                "do",
+                "you",
+                "need",
+                "to",
+                "know?"
+            ]
+        },
+        {
+            "id": "551ef624f3b445d983753a9f7c13cbcb",
+            "text": "Well, we have to know your main level of education. It's a degree, I suppose.",
+            "items": [
+                "Well,",
+                "we",
+                "have",
+                "to",
+                "know",
+                "your",
+                "main",
+                "level",
+                "of",
+                "education.",
+                "It's",
+                "a",
+                "degree,",
+                "I",
+                "suppose."
+            ]
+        },
+        {
+            "id": "14e0559458b74c0d9564b31cd5c785a3",
+            "text": "Yes, but I'm still doing it, in engineering. It's quite interesting.",
+            "items": [
+                "Yes,",
+                "but",
+                "I'm",
+                "still",
+                "doing",
+                "it,",
+                "in",
+                "engineering.",
+                "It's",
+                "quite",
+                "interesting."
+            ]
+        },
+        {
+            "id": "d7faa6b3f2074ec79c91b33773c7adee",
+            "text": "Some of my friends are studying computing though, so I'm interested in that, also.",
+            "items": [
+                "Some",
+                "of",
+                "my",
+                "friends",
+                "are",
+                "studying",
+                "computing",
+                "though,",
+                "so",
+                "I'm",
+                "interested",
+                "in",
+                "that,",
+                "also."
+            ]
+        },
+        {
+            "id": "856a1bcc6b91469598b8b366a0aa425d",
+            "text": "Well, I'll just write in your main degree subject. Engineering.",
+            "items": [
+                "Well,",
+                "I'll",
+                "just",
+                "write",
+                "in",
+                "your",
+                "main",
+                "degree",
+                "subject.",
+                "Engineering."
+            ]
+        },
+        {
+            "id": "bbdd522d76b642ce9d95cab5649270af",
+            "text": "We usually have a demand in computing though.",
+            "items": [
+                "We",
+                "usually",
+                "have",
+                "a",
+                "demand",
+                "in",
+                "computing",
+                "though."
+            ]
+        },
+        {
+            "id": "7cca4c7cee804502b35c670ff0ce160c",
+            "text": "Have you worked with computers before?",
+            "items": [
+                "Have",
+                "you",
+                "worked",
+                "with",
+                "computers",
+                "before?"
+            ]
+        },
+        {
+            "id": "961a4893e54143549e3d9cfa66cd28fe",
+            "text": "No. I just do some programming for fun at the university,",
+            "items": [
+                "No.",
+                "I",
+                "just",
+                "do",
+                "some",
+                "programming",
+                "for",
+                "fun",
+                "at",
+                "the",
+                "university,"
+            ]
+        },
+        {
+            "id": "d247aa34df564a5dad318e62dec232f8",
+            "text": "but I almost got a job as a computer designer once.",
+            "items": [
+                "but",
+                "I",
+                "almost",
+                "got",
+                "a",
+                "job",
+                "as",
+                "a",
+                "computer",
+                "designer",
+                "once."
+            ]
+        },
+        {
+            "id": "8f18da832b714ea6a3733954cb9702be",
+            "text": "Actually, the only job I've ever had was as a car salesman, believe it or not.",
+            "items": [
+                "Actually,",
+                "the",
+                "only",
+                "job",
+                "I've",
+                "ever",
+                "had",
+                "was",
+                "as",
+                "a",
+                "car",
+                "salesman,",
+                "believe",
+                "it",
+                "or",
+                "not."
+            ]
+        },
+        {
+            "id": "29c41da1f6484c70a3469c10ef8e0b82",
+            "text": "Well, at least you've had experience dealing with customers.",
+            "items": [
+                "Well,",
+                "at",
+                "least",
+                "you've",
+                "had",
+                "experience",
+                "dealing",
+                "with",
+                "customers."
+            ]
+        },
+        {
+            "id": "878c34ef2643473ea083c242f90ca38a",
+            "text": "What about hobbies though?",
+            "items": [
+                "What",
+                "about",
+                "hobbies",
+                "though?"
+            ]
+        },
+        {
+            "id": "d04bd91d1f3d48599803f759a4bd95d3",
+            "text": "Sometimes they can help develop useful skills.",
+            "items": [
+                "Sometimes",
+                "they",
+                "can",
+                "help",
+                "develop",
+                "useful",
+                "skills."
+            ]
+        },
+        {
+            "id": "491be44b03cd4d17a0036ab917cac0ad",
+            "text": "Ummm... in my free time I don't do much - mostly study.",
+            "items": [
+                "Ummm...",
+                "in",
+                "my",
+                "free",
+                "time",
+                "I",
+                "don't",
+                "do",
+                "much",
+                "-",
+                "mostly",
+                "study."
+            ]
+        },
+        {
+            "id": "0f559a41fcc6469da35741acf1477fb2",
+            "text": "I play chess occasionally at the university chess club.",
+            "items": [
+                "I",
+                "play",
+                "chess",
+                "occasionally",
+                "at",
+                "the",
+                "university",
+                "chess",
+                "club."
+            ]
+        },
+        {
+            "id": "81a7d4282fe84082920a32312962d53b",
+            "text": "That's right next to the tennis courts,",
+            "items": [
+                "That's",
+                "right",
+                "next",
+                "to",
+                "the",
+                "tennis",
+                "courts,"
+            ]
+        },
+        {
+            "id": "34bca7a341914b1f852e82fd1fcb7c42",
+            "text": "but I'm not interested in that.",
+            "items": [
+                "but",
+                "I'm",
+                "not",
+                "interested",
+                "in",
+                "that."
+            ]
+        },
+        {
+            "id": "6a99c226c4ca48b29ef13d0a501f13e3",
+            "text": "Chess helps develop analytical skills, so I'll put that down.",
+            "items": [
+                "Chess",
+                "helps",
+                "develop",
+                "analytical",
+                "skills,",
+                "so",
+                "I'll",
+                "put",
+                "that",
+                "down."
+            ]
+        },
+        {
+            "id": "38da78fd9c0c41448676c8340801a8bc",
+            "text": "Of course, it's your main skills that employers want to know about",
+            "items": [
+                "Of",
+                "course,",
+                "it's",
+                "your",
+                "main",
+                "skills",
+                "that",
+                "employers",
+                "want",
+                "to",
+                "know",
+                "about"
+            ]
+        },
+        {
+            "id": "dc1a43058d1e41a6871bd24ca77fcbe7",
+            "text": "What would you say they are?",
+            "items": [
+                "What",
+                "would",
+                "you",
+                "say",
+                "they",
+                "are?"
+            ]
+        },
+        {
+            "id": "9c95f8744f994570b4b978b5ef11d62f",
+            "text": "Well, I'm in my third year now, studying electrical machines and generating systems,",
+            "items": [
+                "Well,",
+                "I'm",
+                "in",
+                "my",
+                "third",
+                "year",
+                "now,",
+                "studying",
+                "electrical",
+                "machines",
+                "and",
+                "generating",
+                "systems,"
+            ]
+        },
+        {
+            "id": "95da368e6b2e4ac7b1ea0b526d6125bd",
+            "text": "but I'd say electronics is my best skill",
+            "items": [
+                "but",
+                "I'd",
+                "say",
+                "electronics",
+                "is",
+                "my",
+                "best",
+                "skill"
+            ]
+        },
+        {
+            "id": "f8ac96d557b047b2bbb765f204a02265",
+            "text": "much better than, say, my machine skills, which aren't so good, actually.",
+            "items": [
+                "much",
+                "better",
+                "than,",
+                "say,",
+                "my",
+                "machine",
+                "skills,",
+                "which",
+                "aren't",
+                "so",
+                "good,",
+                "actually."
+            ]
+        },
+        {
+            "id": "27dd0cd9a15d426bb480b78254ff7cc2",
+            "text": "Okay... machine skills are in demand, but so too are electronic ones,",
+            "items": [
+                [
+                    "Okay...",
+                    "Ok"
+                ],
+                "machine",
+                "skills",
+                "are",
+                "in",
+                "demand,",
+                "but",
+                "so",
+                "too",
+                "are",
+                "electronic",
+                "ones,"
+            ]
+        },
+        {
+            "id": "4e9c903f559b4209b38028c22ce2e55c",
+            "text": "so we might be able to find you a part-time job in that field.",
+            "items": [
+                "so",
+                "we",
+                "might",
+                "be",
+                "able",
+                "to",
+                "find",
+                "you",
+                "a",
+                [
+                    "part-time",
+                    "part time"
+                ],
+                "job",
+                "in",
+                "that",
+                "field."
+            ]
+        },
+        {
+            "id": "4a3e54f008c143de8262db651c7a1633",
+            "text": "But what sort of money do you expect to get?",
+            "items": [
+                "But",
+                "what",
+                "sort",
+                "of",
+                "money",
+                "do",
+                "you",
+                "expect",
+                "to",
+                "get?"
+            ]
+        },
+        {
+            "id": "a78a0fe456504a22b204ecbf4cd39da9",
+            "text": "Oh, anything really.",
+            "items": [
+                "Oh,",
+                "anything",
+                "really."
+            ]
+        },
+        {
+            "id": "4bd2f7242bdb4c3f880cab77256919d7",
+            "text": "I'd want the standard payment, let's say.",
+            "items": [
+                "I'd",
+                "want",
+                "the",
+                "standard",
+                "payment,",
+                "let's",
+                "say."
+            ]
+        },
+        {
+            "id": "2e32863f3b044239b7326903e4c12ebe",
+            "text": "What's normal? 1,000 a month? 1,500?",
+            "items": [
+                "What's",
+                "normal?",
+                [
+                    "1,000",
+                    "a thousand"
+                ],
+                "a",
+                "month?",
+                [
+                    "1,500?",
+                    "Fifteen hundred"
+                ]
+            ]
+        },
+        {
+            "id": "338e6674c7214f30bc73e5c6d86b97af",
+            "text": "I'll just put $1,200, okay?",
+            "items": [
+                "I'll",
+                "just",
+                "put",
+                [
+                    "$1,200,",
+                    "1200 dollars"
+                ],
+                [
+                    "okay?",
+                    "ok"
+                ]
+            ]
+        },
+        {
+            "id": "bd09572dfd0c40c090457a2454ac3109",
+            "text": "That's fine by me.",
+            "items": [
+                "That's",
+                "fine",
+                "by",
+                "me."
+            ]
+        },
+        {
+            "id": "a32ac4107444428d9de1064cc15d7a50",
+            "text": "When can you start? Say, within two days?",
+            "items": [
+                "When",
+                "can",
+                "you",
+                "start?",
+                "Say,",
+                "within",
+                [
+                    "two",
+                    "2"
+                ],
+                "days?"
+            ]
+        },
+        {
+            "id": "c86a57e69c374ca3a0649d9a81556416",
+            "text": "Easily! Actually, less.",
+            "items": [
+                "Easily!",
+                "Actually,",
+                "less."
+            ]
+        },
+        {
+            "id": "3ff7598ca98344b3843090dc2194b6d4",
+            "text": "In fact, just give me a ring, and I'll be able to start immediately,",
+            "items": [
+                "In",
+                "fact,",
+                "just",
+                "give",
+                "me",
+                "a",
+                "ring,",
+                "and",
+                "I'll",
+                "be",
+                "able",
+                "to",
+                "start",
+                "immediately,"
+            ]
+        },
+        {
+            "id": "e10d6b829af14fc38162da19ee7b3ddd",
+            "text": "although I admit it'll take me a few days to get used to getting up early in the morning.",
+            "items": [
+                "although",
+                "I",
+                "admit",
+                "it'll",
+                "take",
+                "me",
+                "a",
+                "few",
+                "days",
+                "to",
+                "get",
+                "used",
+                "to",
+                "getting",
+                "up",
+                "early",
+                "in",
+                "the",
+                "morning."
+            ]
+        },
+        {
+            "id": "5e8fe11b7a114ab48f1fc5f68c7da89e",
+            "text": "Okay! That's just about it,",
+            "items": [
+                [
+                    "Okay!",
+                    "ok"
+                ],
+                "That's",
+                "just",
+                "about",
+                "it,"
+            ]
+        },
+        {
+            "id": "efa065abec5040b5afa6adf3a629399d",
+            "text": "unless you'd like to add anything else which may help with your application?",
+            "items": [
+                "unless",
+                "you'd",
+                "like",
+                "to",
+                "add",
+                "anything",
+                "else",
+                "which",
+                "may",
+                "help",
+                "with",
+                "your",
+                "application?"
+            ]
+        },
+        {
+            "id": "a4426909055640e0b1b33b38de9fcec0",
+            "text": "Ah, not really.",
+            "items": [
+                "Ah,",
+                "not",
+                "really."
+            ]
+        },
+        {
+            "id": "af44c9033eb145b78abaf3fcfb29badf",
+            "text": "I ride a motorbike, but that's unimportant.",
+            "items": [
+                "I",
+                "ride",
+                "a",
+                "motorbike,",
+                "but",
+                "that's",
+                "unimportant."
+            ]
+        },
+        {
+            "id": "0d3546b15a1e440bb921f8c1b2882b13",
+            "text": "I'm friendly, but every applicant claims that, right?",
+            "items": [
+                "I'm",
+                "friendly,",
+                "but",
+                "every",
+                "applicant",
+                "claims",
+                "that,",
+                "right?"
+            ]
+        },
+        {
+            "id": "533779b49fcc4a06a99a348e37a9dcdc",
+            "text": "I can speak another language.",
+            "items": [
+                "I",
+                "can",
+                "speak",
+                "another",
+                "language."
+            ]
+        },
+        {
+            "id": "2d2fcf894de64e2daec4bc950ebd681d",
+            "text": "Ah, that might be useful, depending on the language.",
+            "items": [
+                "Ah,",
+                "that",
+                "might",
+                "be",
+                "useful,",
+                "depending",
+                "on",
+                "the",
+                "language."
+            ]
+        },
+        {
+            "id": "6a926edfa4044c48861dc36edb862a21",
+            "text": "Is it Chinese? A Chinese speaker would go down well.",
+            "items": [
+                "Is",
+                "it",
+                "Chinese?",
+                "A",
+                "Chinese",
+                "speaker",
+                "would",
+                "go",
+                "down",
+                "well."
+            ]
+        },
+        {
+            "id": "68a3154241d74d1b9a9c605a0d224816",
+            "text": "Spanish, I'm afraid.",
+            "items": [
+                "Spanish,",
+                "I'm",
+                "afraid."
+            ]
+        },
+        {
+            "id": "92f3c2a3c74c48759d4b21dc99749feb",
+            "text": "You see, I grew up with some friends who came from South America.",
+            "items": [
+                "You",
+                "see,",
+                "I",
+                "grew",
+                "up",
+                "with",
+                "some",
+                "friends",
+                "who",
+                "came",
+                "from",
+                "South",
+                "America."
+            ]
+        },
+        {
+            "id": "5f8fbe17a7694c7989bfa09871281eba",
+            "text": "Okay, I'll write that down, but I don't think it will help that much, sorry to say.",
+            "items": [
+                [
+                    "Okay,",
+                    "ok"
+                ],
+                "I'll",
+                "write",
+                "that",
+                "down,",
+                "but",
+                "I",
+                "don't",
+                "think",
+                "it",
+                "will",
+                "help",
+                "that",
+                "much,",
+                "sorry",
+                "to",
+                "say."
+            ]
+        },
+        {
+            "id": "56f2078b45bc4c468f938f5248712f74",
+            "text": "Well, thanks for your help, and hopefully I'll get a job soon,",
+            "items": [
+                "Well,",
+                "thanks",
+                "for",
+                "your",
+                "help,",
+                "and",
+                "hopefully",
+                "I'll",
+                "get",
+                "a",
+                "job",
+                "soon,"
+            ]
+        },
+        {
+            "id": "d4a7b7462f89456d992935d857c50473",
+            "text": "but can I just ask one more question?",
+            "items": [
+                "but",
+                "can",
+                "I",
+                "just",
+                "ask",
+                [
+                    "one",
+                    "1"
+                ],
+                "more",
+                "question?"
+            ]
+        },
+        {
+            "id": "948b5537b5614d2fa13ff068f880d38d",
+            "text": "Sure!",
+            "items": [
+                "Sure!"
+            ]
+        },
+        {
+            "id": "41661f8078cd40ffa200307381048efb",
+            "text": "What, basically, are employers looking for when they interview someone?",
+            "items": [
+                "What,",
+                "basically,",
+                "are",
+                "employers",
+                "looking",
+                "for",
+                "when",
+                "they",
+                "interview",
+                "someone?"
+            ]
+        },
+        {
+            "id": "d6b8d0e3146f4d7cb66b7deaadc64ba7",
+            "text": "Oh, many things.",
+            "items": [
+                "Oh,",
+                "many",
+                "things."
+            ]
+        },
+        {
+            "id": "6984cbcb24e64be898a294db41ad24f6",
+            "text": "Being hardworking, diligent, and focused on your job is good,",
+            "items": [
+                "Being",
+                "hardworking,",
+                "diligent,",
+                "and",
+                "focused",
+                "on",
+                "your",
+                "job",
+                "is",
+                "good,"
+            ]
+        },
+        {
+            "id": "aa87b8cbd69e4691a5a078f295be27db",
+            "text": "but surprisingly, it often means you can't see the bigger picture,",
+            "items": [
+                "but",
+                "surprisingly,",
+                "it",
+                "often",
+                "means",
+                "you",
+                "can't",
+                "see",
+                "the",
+                "bigger",
+                "picture,"
+            ]
+        },
+        {
+            "id": "a11856153dde4b3ca761f674e15b4681",
+            "text": "or provide suggestions which help the company move forward.",
+            "items": [
+                "or",
+                "provide",
+                "suggestions",
+                "which",
+                "help",
+                "the",
+                [
+                    "company",
+                    "Co"
+                ],
+                "move",
+                "forward."
+            ]
+        },
+        {
+            "id": "301187f9fb6f4c8598b0e532975c65c0",
+            "text": "That requires thinking for yourself, outside the box as they say,",
+            "items": [
+                "That",
+                "requires",
+                "thinking",
+                "for",
+                "yourself,",
+                "outside",
+                "the",
+                "box",
+                "as",
+                "they",
+                "say,"
+            ]
+        },
+        {
+            "id": "921b7833b74f46f49e0ae014705c1591",
+            "text": "and being free of the standard ways of approaching tasks.",
+            "items": [
+                "and",
+                "being",
+                "free",
+                "of",
+                "the",
+                "standard",
+                "ways",
+                "of",
+                "approaching",
+                "tasks."
+            ]
+        },
+        {
+            "id": "87cf5ecb954741d1b8b56fca3fe78546",
+            "text": "Employers certainly value that.",
+            "items": [
+                "Employers",
+                "certainly",
+                "value",
+                "that."
+            ]
+        },
+        {
+            "id": "c72844473d1c4eccbbfd585d4dd66faa",
+            "text": "I guess experience must help, though?",
+            "items": [
+                "I",
+                "guess",
+                "experience",
+                "must",
+                "help,",
+                "though?"
+            ]
+        },
+        {
+            "id": "0d8afd6e425f49128c396e1bb5ee821e",
+            "text": "It depends. If it involved a routine job, one which didn't exercise your mind,",
+            "items": [
+                "It",
+                "depends.",
+                "If",
+                "it",
+                "involved",
+                "a",
+                "routine",
+                "job,",
+                [
+                    "one",
+                    "1"
+                ],
+                "which",
+                "didn't",
+                "exercise",
+                "your",
+                "mind,"
+            ]
+        },
+        {
+            "id": "31274ece01e64c0cb73145c91837882e",
+            "text": "it might not mean that much at all.",
+            "items": [
+                "it",
+                "might",
+                "not",
+                "mean",
+                "that",
+                "much",
+                "at",
+                "all."
+            ]
+        },
+        {
+            "id": "5346ffb077394f9d9f61dc68b86ea349",
+            "text": "But since companies are basically composed of people,",
+            "items": [
+                "But",
+                "since",
+                "companies",
+                "are",
+                "basically",
+                "composed",
+                "of",
+                "people,"
+            ]
+        },
+        {
+            "id": "56a8c169256a41139896f40c261c4968",
+            "text": "it is important to be able to get along with others.",
+            "items": [
+                "it",
+                "is",
+                "important",
+                "to",
+                "be",
+                "able",
+                "to",
+                "get",
+                "along",
+                "with",
+                "others."
+            ]
+        },
+        {
+            "id": "d8651fcd362948a7bae01c4bd81917bc",
+            "text": "There's no point in hiring someone whom the other employees don't like, right?",
+            "items": [
+                "There's",
+                "no",
+                "point",
+                "in",
+                "hiring",
+                "someone",
+                "whom",
+                "the",
+                "other",
+                "employees",
+                "don't",
+                "like,",
+                "right?"
+            ]
+        },
+        {
+            "id": "e000746e32e74f77b3666a19dc65206b",
+            "text": "That just causes problems,",
+            "items": [
+                "That",
+                "just",
+                "causes",
+                "problems,"
+            ]
+        },
+        {
+            "id": "fe9c1722d42846619e20f3e92e24c81c",
+            "text": "in fact, I would say that being friendly and approachable ranks far more highly than your academic qualifications.",
+            "items": [
+                "in",
+                "fact,",
+                "I",
+                "would",
+                "say",
+                "that",
+                "being",
+                "friendly",
+                "and",
+                "approachable",
+                "ranks",
+                "far",
+                "more",
+                "highly",
+                "than",
+                "your",
+                "academic",
+                "qualifications."
+            ]
+        },
+        {
+            "id": "6b2f36e58b194acc829f537e518736f6",
+            "text": "Okay, and that's all assessed at the interview, right?",
+            "items": [
+                [
+                    "Okay,",
+                    "ok"
+                ],
+                "and",
+                "that's",
+                "all",
+                "assessed",
+                "at",
+                "the",
+                "interview,",
+                "right?"
+            ]
+        },
+        {
+            "id": "82e7c1d40de94f2e94c630cca917bf90",
+            "text": "Yes, and your qualifications, experience, and approach to the job,",
+            "items": [
+                "Yes,",
+                "and",
+                "your",
+                "qualifications,",
+                "experience,",
+                "and",
+                "approach",
+                "to",
+                "the",
+                "job,"
+            ]
+        },
+        {
+            "id": "4d2af81e660f476c978398ad4cb4d01c",
+            "text": "such as whether you can do different things, work overtime, or do long hours as needed.",
+            "items": [
+                "such",
+                "as",
+                "whether",
+                "you",
+                "can",
+                "do",
+                "different",
+                "things,",
+                "work",
+                "overtime,",
+                "or",
+                "do",
+                "long",
+                "hours",
+                "as",
+                "needed."
+            ]
+        },
+        {
+            "id": "c91f9bb8c4b94669858259ecc800e0e0",
+            "text": "But those latter qualities are pretty much standard.",
+            "items": [
+                "But",
+                "those",
+                "latter",
+                "qualities",
+                "are",
+                "pretty",
+                "much",
+                "standard."
+            ]
+        },
+        {
+            "id": "c3f4d8d787304d0c84238f9c7987bccb",
+            "text": "What may be more important is based on the fact that things inevitably go wrong.",
+            "items": [
+                "What",
+                "may",
+                "be",
+                "more",
+                "important",
+                "is",
+                "based",
+                "on",
+                "the",
+                "fact",
+                "that",
+                "things",
+                "inevitably",
+                "go",
+                "wrong."
+            ]
+        },
+        {
+            "id": "b130860426b74347a92f01073037978b",
+            "text": "Mistakes are made, and someone's got to fix them in a way that creates the least disturbance.",
+            "items": [
+                "Mistakes",
+                "are",
+                "made,",
+                "and",
+                "someone's",
+                "got",
+                "to",
+                "fix",
+                "them",
+                "in",
+                "a",
+                "way",
+                "that",
+                "creates",
+                "the",
+                "least",
+                "disturbance."
+            ]
+        },
+        {
+            "id": "a00d2376842c46dfaaec53031eacd3e1",
+            "text": "People with demonstrated abilities to do this are certainly regarded highly.",
+            "items": [
+                "People",
+                "with",
+                "demonstrated",
+                "abilities",
+                "to",
+                "do",
+                "this",
+                "are",
+                "certainly",
+                "regarded",
+                "highly."
+            ]
+        },
+        {
+            "id": "a624b145ef91481aba21cefdd3d3fe87",
+            "text": "I see. That's very interesting!",
+            "items": [
+                "I",
+                "see.",
+                "That's",
+                "very",
+                "interesting!"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,593 @@
+{
+    "id": "0b0df32aba5e400d981c911511a87d77",
+    "title": "Linking words",
+    "exercises": [
+        {
+            "id": "2e3bf69d51814d48803a31d7e9e3046c",
+            "title": "Linking Words of Contrast (However / Despite / Although)",
+            "questions": [
+                {
+                    "parts": [
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Despite"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "the rain, we still went to the park."
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Although"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "it was raining, we still went to the park."
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "It was raining."
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "However"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": ", we still went to the park."
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "John bought the watch,"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "despite"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "the fact that it was expensive."
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "John bought the watch."
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "However"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": ", it was expensive."
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Although"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "it was expensive, John bought the watch."
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "I finished the homework. It,"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "however"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": ", wasn't easy.."
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "I finished the homework,"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "although"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "it wasn't easy."
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Despite"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "the fact that it wasn't easy, I finished the homework."
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "She went for a long walk,"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "despite"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "being cold."
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Although"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "she was cold, she went for a long walk."
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "She was cold. She went for a long walk,"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "however"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "."
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The restaurant has a good reputation."
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "However"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": ", the food was terrible."
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Despite"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "the restaurant's good reputation, the food was terrible."
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Although"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "the restaurant has a good reputation, the food was terrible."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "87fd07aa4e194c089d5e710dfff563b0",
+            "title": "Linking Words of Reason (Because / Since / As / Due to / Owing to)",
+            "questions": [
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "We stayed inside"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "because of"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "the storm. (because / because of)"
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "I wanted to stay longer"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "since"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "I was really enjoying the party. (since / because of)"
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Amanda stayed at home"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "due to"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "her illness. (as / due to)"
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Her lateness was"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "due to"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "a terrible traffic jam. (due to / as)"
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Since",
+                                "since"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "flights are cheaper in the winter, we decided to travel then. (since / owing to)"
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "input",
+                            "answers": [
+                                "As",
+                                "as"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "she hated cats, she wasn't happy when her husband bought three. (as / because of)"
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "John didn't go to work,"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "owing to"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "his illness. (owing to / as)"
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Because",
+                                "because"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "Lucy was very tired, she went to bed early. (because / due to)"
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Owing to",
+                                "owing to"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "his late night, John missed his train. (because / owing to)"
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Lucy was very unhappy,"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "for"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "she missed James. (for / owing to)"
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Due to"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "the terrible weather, we decided not to walk home. (as / due to)"
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "I was very happy with my present"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "as"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "it was exactly what I wanted. (as / owing to)"
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Keiko ordered her meal without meat"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "since"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "she is a vegetarian. (due to / since)"
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "I didn't want to leave"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "as"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "I was having a great time. (because of / as)"
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Luca bought the shoes"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "since"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "they were perfect. (owing to / since)"
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "We were late for the plane"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "because of"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "the traffic. (because of / because)"
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "input",
+                            "answers": [
+                                "As",
+                                "as"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "it was really cold, I put on my gloves and my hat. (for / as)"
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "She couldn't come"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "because"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "she had to work. (due to / because)"
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Owing to"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "its high price, we didn't rent the flat. (owing to / because)"
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Because of"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "his great cooking, we love going to dinner at Taka's house. (because of / since)"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

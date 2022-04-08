@@ -1,0 +1,1402 @@
+[
+    {
+        "id": "d0429e42e0a5482b96698f567260761d",
+        "word": "fly",
+        "pos": "verb",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/flaɪ/",
+            "us": "/flaɪ/"
+        },
+        "nearby": [
+            {
+                "word": "flux",
+                "pos": "noun"
+            },
+            {
+                "word": "fly-drive",
+                "pos": "noun"
+            },
+            {
+                "word": "fly",
+                "pos": "verb"
+            },
+            {
+                "word": "fly",
+                "pos": "noun"
+            },
+            {
+                "word": "fly",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to move through the air, using wings",
+                    "vi": "di chuyển trong không khí, sử dụng đôi cánh"
+                },
+                "examples": [
+                    {
+                        "en": "Penguins can't fly.",
+                        "vi": "Chim cánh cụt không thể bay."
+                    },
+                    {
+                        "en": "+ adv./prep. A stork flew slowly past.",
+                        "vi": "Err:509"
+                    },
+                    {
+                        "en": "A wasp had flown in through the window.",
+                        "vi": "Một con ong bắp cày bay qua cửa sổ."
+                    },
+                    {
+                        "en": "Geese fly south in the fall.",
+                        "vi": "Ngỗng bay về phía nam vào mùa thu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to move through air or space",
+                    "vi": "để di chuyển trong không khí hoặc không gian"
+                },
+                "examples": [
+                    {
+                        "en": "fly (from A) (to B) They were on a plane flying from London to New York.",
+                        "vi": "bay (từ A) (đến B) Họ đã ở trên một chiếc máy bay bay từ London đến New York."
+                    },
+                    {
+                        "en": "fly (to B) (from A) Lufthansa fly to La Paz from Frankfurt.",
+                        "vi": "bay (đến B) (từ A) Lufthansa bay đến La Paz từ Frankfurt."
+                    },
+                    {
+                        "en": "+ adv./prep. Enemy planes fly overhead.",
+                        "vi": "Err:509"
+                    },
+                    {
+                        "en": "to fly at the speed of sound",
+                        "vi": "bay với tốc độ âm thanh"
+                    },
+                    {
+                        "en": "The aircraft was declared fully functional and fit to fly.",
+                        "vi": "Máy bay đã được tuyên bố là đầy đủ chức năng và phù hợp để bay."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to travel in an aircraft or a spacecraft",
+                    "vi": "đi du lịch trên máy bay hoặc tàu vũ trụ"
+                },
+                "examples": [
+                    {
+                        "en": "Is this the first time that you've flown?",
+                        "vi": "Đây có phải là lần đầu tiên bạn bay?"
+                    },
+                    {
+                        "en": "fly (from A) (to B) I'm flying to Hong Kong tomorrow.",
+                        "vi": "bay (từ A) (đến B) Ngày mai tôi sẽ bay đến Hồng Kông."
+                    },
+                    {
+                        "en": "fly + adv./prep. I was flying home to visit my family.",
+                        "vi": "bay + adv./prep. Tôi đang bay về quê thăm gia đình."
+                    },
+                    {
+                        "en": "+ noun I always fly business class.",
+                        "vi": "Err:509"
+                    },
+                    {
+                        "en": "We're flying KLM.",
+                        "vi": "Chúng tôi đang bay KLM."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to control an aircraft, etc. in the air",
+                    "vi": "điều khiển máy bay, v.v. trên không"
+                },
+                "examples": [
+                    {
+                        "en": "He's learning to fly.",
+                        "vi": "Anh ấy đang học bay."
+                    },
+                    {
+                        "en": "fly something a pilot trained to fly large passenger planes",
+                        "vi": "bay thứ gì đó mà một phi công được đào tạo để lái máy bay chở khách lớn"
+                    },
+                    {
+                        "en": "children flying kites",
+                        "vi": "trẻ em thả diều"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to transport goods or passengers in a plane",
+                    "vi": "để vận chuyển hàng hóa hoặc hành khách trên máy bay"
+                },
+                "examples": [
+                    {
+                        "en": "The stranded tourists were finally flown home.",
+                        "vi": "Những du khách mắc kẹt cuối cùng đã được đưa về nhà."
+                    },
+                    {
+                        "en": "He had flowers specially flown in for the ceremony.",
+                        "vi": "Anh ấy đã có những bông hoa đặc biệt bay đến cho buổi lễ."
+                    },
+                    {
+                        "en": "Orders were given to fly the prisoners to the US.",
+                        "vi": "Lệnh đưa các tù nhân đến Mỹ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to move through the air for a particular distance; to travel over an ocean or area of land in an aircraft",
+                    "vi": "để di chuyển trong không khí trong một khoảng cách cụ thể; đi du lịch trên đại dương hoặc khu vực đất liền bằng máy bay"
+                },
+                "examples": [
+                    {
+                        "en": "Some birds fly huge distances when they migrate.",
+                        "vi": "Một số loài chim bay khoảng cách rất xa khi chúng di cư."
+                    },
+                    {
+                        "en": "Who was the first person to fly the Atlantic?",
+                        "vi": "Ai là người đầu tiên bay qua Đại Tây Dương?"
+                    },
+                    {
+                        "en": "Only four airlines are currently allowed to fly transatlantic routes from Heathrow.",
+                        "vi": "Hiện chỉ có bốn hãng hàng không được phép bay các đường bay xuyên Đại Tây Dương từ Heathrow."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to go or move quickly",
+                    "vi": "đi hoặc di chuyển nhanh chóng"
+                },
+                "examples": [
+                    {
+                        "en": "The train was flying along.",
+                        "vi": "Con tàu đã bay dọc theo."
+                    },
+                    {
+                        "en": "She gasped and her hand flew to her mouth.",
+                        "vi": "Cô thở hổn hển và tay cô đưa lên miệng."
+                    },
+                    {
+                        "en": "It's late—I must fly.",
+                        "vi": "Muộn rồi - tôi phải bay."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to move suddenly and with force",
+                    "vi": "di chuyển đột ngột và mạnh mẽ"
+                },
+                "examples": [
+                    {
+                        "en": "(+ adv./prep.) A large stone came flying in through the window.",
+                        "vi": "(+ adv./prep.) Một viên đá lớn bay vào qua cửa sổ."
+                    },
+                    {
+                        "en": "Several people were hit by flying glass.",
+                        "vi": "Một số người đã bị kính bay rơi trúng đầu."
+                    },
+                    {
+                        "en": "+ adj. David gave the door a kick and it flew open.",
+                        "vi": "Err:509"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to seem to pass very quickly",
+                    "vi": "dường như trôi qua rất nhanh"
+                },
+                "examples": [
+                    {
+                        "en": "Doesn't time fly?",
+                        "vi": "Thời gian không trôi?"
+                    },
+                    {
+                        "en": "fly by/past Summer has just flown by.",
+                        "vi": "bay qua / đã qua Mùa hè vừa bay qua."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if a flag flies, or if you fly it, it is displayed, for example on a pole (= a long piece of wood or metal)",
+                    "vi": "nếu một lá cờ bay hoặc nếu bạn bay nó, nó sẽ được hiển thị, chẳng hạn như trên một cây sào (= một miếng gỗ hoặc kim loại dài)"
+                },
+                "examples": [
+                    {
+                        "en": "Flags were flying at half mast on all public buildings.",
+                        "vi": "Các lá cờ được treo ở một nửa cột trên tất cả các tòa nhà công cộng."
+                    },
+                    {
+                        "en": "fly something to fly the Stars and Stripes",
+                        "vi": "bay một cái gì đó để bay các ngôi sao và sọc"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to move around freely",
+                    "vi": "di chuyển tự do"
+                },
+                "examples": [
+                    {
+                        "en": "hair flying in the wind",
+                        "vi": "tóc bay trong gió"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be talked about by many people",
+                    "vi": "được nhiều người nói đến"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to escape from somebody/something",
+                    "vi": "thoát khỏi ai đó / cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "Both suspects have flown the country.",
+                        "vi": "Cả hai nghi phạm đã bay về nước."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be successful",
+                    "vi": "để đạt thanh công"
+                },
+                "examples": [
+                    {
+                        "en": "It remains to be seen whether his project will fly.",
+                        "vi": "Vẫn còn phải xem liệu dự án của anh ấy có bay hay không."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to hit a ball high into the air",
+                    "vi": "đánh một quả bóng lên cao"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "in a straight line",
+                    "vi": "trong một đường thẳng"
+                },
+                "examples": [
+                    {
+                        "en": "The villages are no more than a mile apart as the crow flies.",
+                        "vi": "Các làng cách nhau không quá một dặm khi quạ bay."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the wanted person has escaped",
+                    "vi": "kẻ bị truy nã đã trốn thoát"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to act without careful thought and without a plan that you have made in advance, hoping that you will be lucky and be successful",
+                    "vi": "hành động mà không suy nghĩ kỹ lưỡng và không có kế hoạch mà bạn đã lập trước, hy vọng rằng bạn sẽ gặp may mắn và thành công"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to escape from a place",
+                    "vi": "trốn thoát khỏi một nơi"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to show your support for your country, an organization or an idea to encourage or persuade others to do the same",
+                    "vi": "để thể hiện sự ủng hộ của bạn đối với quốc gia, tổ chức của bạn hoặc một ý tưởng để khuyến khích hoặc thuyết phục người khác làm như vậy"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be successful",
+                    "vi": "để đạt thanh công"
+                },
+                "examples": [
+                    {
+                        "en": "British cinema has been flying high recently, winning several coveted awards.",
+                        "vi": "Điện ảnh Anh gần đây đã bay cao, giành được nhiều giải thưởng đáng mơ ước."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to oppose or be the opposite of something that is usual or expected",
+                    "vi": "phản đối hoặc đối lập với điều gì đó bình thường hoặc được mong đợi"
+                },
+                "examples": [
+                    {
+                        "en": "Such a proposal is flying in the face of common sense.",
+                        "vi": "Một đề xuất như vậy đang bay theo lẽ thường."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to become suddenly very angry",
+                    "vi": "đột nhiên trở nên rất tức giận"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to test out public opinion on a subject",
+                    "vi": "để kiểm tra dư luận về một chủ đề"
+                },
+                "examples": [
+                    {
+                        "en": "The company is flying a kite to see if this plan provokes any interest.",
+                        "vi": "Công ty đang thả diều để xem liệu kế hoạch này có gây ra bất kỳ sự quan tâm nào hay không."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to become able to fly and leave its nest",
+                    "vi": "để có thể bay và rời khỏi tổ của nó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to leave home and live somewhere else",
+                    "vi": "rời khỏi nhà và sống ở một nơi khác"
+                },
+                "examples": [
+                    {
+                        "en": "Her children have flown the nest.",
+                        "vi": "Các con của bà đã bay về tổ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to suddenly start saying or doing something that does not seem to be connected to what has gone before",
+                    "vi": "đột nhiên bắt đầu nói hoặc làm điều gì đó dường như không liên quan đến những gì đã xảy ra trước đó"
+                },
+                "examples": [
+                    {
+                        "en": "He never sticks to the point but keeps going off at a tangent.",
+                        "vi": "Anh ấy không bao giờ dính vào vấn đề mà tiếp tục đi theo hướng tiếp tuyến."
+                    },
+                    {
+                        "en": "Laura’s mind went off at a tangent.",
+                        "vi": "Tâm trí của Laura đi theo hướng tiếp tuyến."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to suddenly become very angry",
+                    "vi": "đột nhiên trở nên rất tức giận"
+                },
+                "examples": [
+                    {
+                        "en": "He seems to fly off the handle about the slightest thing these days.",
+                        "vi": "Anh ấy dường như bay khỏi tay về những điều nhỏ nhặt nhất trong những ngày này."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to stop existing; to disappear completely",
+                    "vi": "ngừng tồn tại; biến mất hoàn toàn"
+                },
+                "examples": [
+                    {
+                        "en": "As soon as the kids arrived, order went out of the window.",
+                        "vi": "Ngay sau khi những đứa trẻ đến, đơn đặt hàng đã bay ra khỏi cửa sổ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to fall, especially as a result of not seeing something under your feet",
+                    "vi": "ngã, đặc biệt là do không nhìn thấy thứ gì đó dưới chân bạn"
+                },
+                "examples": [
+                    {
+                        "en": "Someone's going to go flying if you don't pick up these toys.",
+                        "vi": "Ai đó sẽ bay nếu bạn không nhặt những món đồ chơi này."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to tell somebody to go away and stop annoying you or interfering",
+                    "vi": "được sử dụng để nói với ai đó biến đi và ngừng làm phiền bạn hoặc can thiệp"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to represent your country or organization",
+                    "vi": "đại diện cho quốc gia hoặc tổ chức của bạn"
+                },
+                "examples": [
+                    {
+                        "en": "Our exporters keep the flag flying at international trade exhibitions.",
+                        "vi": "Các nhà xuất khẩu của chúng tôi giữ lá cờ tung bay tại các triển lãm thương mại quốc tế."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to attack somebody by hitting them or speaking angrily to them",
+                    "vi": "tấn công ai đó bằng cách đánh họ hoặc nói một cách giận dữ với họ"
+                },
+                "examples": [
+                    {
+                        "en": "He let fly at me with his fist.",
+                        "vi": "Anh ta dùng nắm đấm bay về phía tôi."
+                    },
+                    {
+                        "en": "She let fly with a stream of abuse.",
+                        "vi": "Cô ấy thả rông với một luồng lạm dụng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to show that you do not believe something will ever happen",
+                    "vi": "được sử dụng để cho thấy rằng bạn không tin rằng điều gì đó sẽ xảy ra"
+                },
+                "examples": [
+                    {
+                        "en": "‘With a bit of luck, we'll be finished by the end of the year.’ ‘Yes, and pigs might fly!’",
+                        "vi": "Với một chút may mắn, chúng tôi sẽ hoàn thành vào cuối năm nay.' \"Vâng, và lợn có thể bay!\""
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "time seems to pass very quickly",
+                    "vi": "thời gian dường như trôi qua rất nhanh"
+                },
+                "examples": [
+                    {
+                        "en": "How time flies! I've got to go now.",
+                        "vi": "Thời gian trôi qua làm sao! Tôi phải đi bây giờ."
+                    },
+                    {
+                        "en": "Time has flown since the holiday began.",
+                        "vi": "Thời gian đã trôi đi kể từ khi kỳ nghỉ bắt đầu."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3ba435c2f3394be09a814a6fd6518693",
+        "word": "flying",
+        "pos": "adjective",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/ˈflaɪɪŋ/",
+            "us": "/ˈflaɪɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "fly fishing",
+                "pos": "noun"
+            },
+            {
+                "word": "fly half",
+                "pos": "noun"
+            },
+            {
+                "word": "flying",
+                "pos": "adjective"
+            },
+            {
+                "word": "flying",
+                "pos": "noun"
+            },
+            {
+                "word": "flying boat",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "able to fly",
+                    "vi": "cho phép bay"
+                },
+                "examples": [
+                    {
+                        "en": "flying insects",
+                        "vi": "côn trùng bay"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "moving rapidly through the air",
+                    "vi": "di chuyển nhanh chóng trong không khí"
+                },
+                "examples": [
+                    {
+                        "en": "One passenger was cut by flying glass.",
+                        "vi": "Một hành khách bị kính bay chém."
+                    },
+                    {
+                        "en": "Flying debris can cause serious injury.",
+                        "vi": "Các mảnh vỡ bay có thể gây thương tích nghiêm trọng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "very well; with a very high mark",
+                    "vi": "rất tốt; với một điểm rất cao"
+                },
+                "examples": [
+                    {
+                        "en": "She passed the exam with flying colours.",
+                        "vi": "Cô ấy đã vượt qua kỳ thi với màu sắc bay bổng."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "69e725f1012e41a5a62d7c7ed3fd6417",
+        "word": "poisonous",
+        "pos": "adjective",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈpɔɪzənəs/",
+            "us": "/ˈpɔɪzənəs/"
+        },
+        "nearby": [
+            {
+                "word": "poison ivy",
+                "pos": "noun"
+            },
+            {
+                "word": "poison oak",
+                "pos": "noun"
+            },
+            {
+                "word": "poisonous",
+                "pos": "adjective"
+            },
+            {
+                "word": "poison pen letter",
+                "pos": "noun"
+            },
+            {
+                "word": "poison pill",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "causing death or illness if swallowed or taken into the body",
+                    "vi": "gây tử vong hoặc bệnh tật nếu nuốt phải hoặc đưa vào cơ thể"
+                },
+                "examples": [
+                    {
+                        "en": "poisonous chemicals/fumes/plants",
+                        "vi": "hóa chất / khói / thực vật độc hại"
+                    },
+                    {
+                        "en": "a poisonous substance",
+                        "vi": "một chất độc"
+                    },
+                    {
+                        "en": "This gas is highly poisonous.",
+                        "vi": "Khí này rất độc."
+                    },
+                    {
+                        "en": "poisonous to somebody/something The leaves of certain trees are poisonous to cattle.",
+                        "vi": "độc với ai đó / cái gì đó Lá của một số cây có độc đối với gia súc."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "producing a poison that can cause death or illness if the animal or insect bites you",
+                    "vi": "tạo ra chất độc có thể gây chết người hoặc bệnh tật nếu động vật hoặc côn trùng cắn bạn"
+                },
+                "examples": [
+                    {
+                        "en": "poisonous snakes",
+                        "vi": "rắn độc"
+                    },
+                    {
+                        "en": "a tiny spider with a poisonous bite",
+                        "vi": "một con nhện nhỏ có vết cắn độc"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "extremely unpleasant or unfriendly",
+                    "vi": "cực kỳ khó chịu hoặc không thân thiện"
+                },
+                "examples": [
+                    {
+                        "en": "a poisonous person",
+                        "vi": "một người độc hại"
+                    },
+                    {
+                        "en": "the poisonous atmosphere in the office",
+                        "vi": "bầu không khí độc hại trong văn phòng"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "eeaab795029a4d6c9c476c62bdc187ab",
+        "word": "lay",
+        "pos": "verb",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/leɪ/",
+            "us": "/leɪ/"
+        },
+        "nearby": [
+            {
+                "word": "laxative",
+                "pos": "noun"
+            },
+            {
+                "word": "laxity",
+                "pos": "noun"
+            },
+            {
+                "word": "lay",
+                "pos": "verb"
+            },
+            {
+                "word": "lay",
+                "pos": "adjective"
+            },
+            {
+                "word": "lay",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to put somebody/something in a particular position, especially when it is done gently or carefully",
+                    "vi": "để đặt ai đó / cái gì đó vào một vị trí cụ thể, đặc biệt là khi nó được thực hiện một cách nhẹ nhàng hoặc cẩn thận"
+                },
+                "examples": [
+                    {
+                        "en": "lay somebody/something + adv./prep. He laid a hand on my arm.",
+                        "vi": "lay ai đó / cái gì đó + adv./prep. Anh ấy đặt tay lên cánh tay tôi."
+                    },
+                    {
+                        "en": "Relatives laid wreaths on the grave.",
+                        "vi": "Người thân đặt vòng hoa trên mộ."
+                    },
+                    {
+                        "en": "She laid the baby down gently on the bed.",
+                        "vi": "Cô nhẹ nhàng đặt đứa bé xuống giường."
+                    },
+                    {
+                        "en": "Red roses were laid at the memorial.",
+                        "vi": "Hoa hồng đỏ đã được đặt tại đài tưởng niệm."
+                    },
+                    {
+                        "en": "She noticed some paintings laid against the far wall.",
+                        "vi": "Cô nhận thấy một số bức tranh được đặt trên bức tường phía xa."
+                    },
+                    {
+                        "en": "The horse laid back its ears.",
+                        "vi": "Con ngựa nằm ngửa tai."
+                    },
+                    {
+                        "en": "lay something His mother visited the murder scene yesterday to lay flowers.",
+                        "vi": "lay gì đó Mẹ nó đến thăm hiện trường giết người hôm qua để đặt hoa."
+                    },
+                    {
+                        "en": "lay somebody/something + adj. The cloth should be laid flat.",
+                        "vi": "lay ai đó / cái gì đó + adj. Vải phải được đặt phẳng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to spread something on something; to cover something with a layer of something",
+                    "vi": "để lan truyền một cái gì đó trên một cái gì đó; phủ một thứ gì đó bằng một lớp thứ gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "lay A on/over B Before they started they laid newspaper on the floor.",
+                        "vi": "đặt A trên / trên B Trước khi bắt đầu, họ đặt báo trên sàn."
+                    },
+                    {
+                        "en": "The grapes were laid to dry on racks.",
+                        "vi": "Nho đã được phơi khô trên giá."
+                    },
+                    {
+                        "en": "They carefully laid a blanket over the body.",
+                        "vi": "Họ cẩn thận đắp một tấm chăn lên người."
+                    },
+                    {
+                        "en": "B is laid with A The floor was laid with newspaper.",
+                        "vi": "B được lát bằng A Sàn được lát bằng giấy báo."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to put something down, especially on the floor, ready to be used",
+                    "vi": "để đặt thứ gì đó xuống, đặc biệt là trên sàn, sẵn sàng để sử dụng"
+                },
+                "examples": [
+                    {
+                        "en": "to lay a carpet/cable/pipe",
+                        "vi": "trải thảm / cáp / đường ống"
+                    },
+                    {
+                        "en": "to lay tiles/bricks",
+                        "vi": "xếp gạch / gạch"
+                    },
+                    {
+                        "en": "The first high-speed track was laid between Paris and Lyons.",
+                        "vi": "Đường cao tốc đầu tiên được đặt giữa Paris và Lyons."
+                    },
+                    {
+                        "en": "Thirteen U-boats left their base to lay mines in British waters.",
+                        "vi": "13 chiếc U-boat rời căn cứ để đặt mìn trong vùng biển của Anh."
+                    },
+                    {
+                        "en": "The foundations of the house are being laid today.",
+                        "vi": "Nền móng của ngôi nhà đang được đặt ngày hôm nay."
+                    },
+                    {
+                        "en": "(figurative) A series of short-term goals lays the foundation for long-term success.",
+                        "vi": "(nghĩa bóng) Một loạt các mục tiêu ngắn hạn đặt nền tảng cho thành công lâu dài."
+                    },
+                    {
+                        "en": "(figurative) They had laid the groundwork for future development.",
+                        "vi": "(nghĩa bóng) Họ đã đặt nền móng cho sự phát triển trong tương lai."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if a bird, an insect, a fish, etc. lays eggs, it produces them from its body",
+                    "vi": "Nếu một con chim, một con côn trùng, một con cá, v.v. đẻ trứng, nó sẽ sản sinh ra chúng từ cơ thể của nó"
+                },
+                "examples": [
+                    {
+                        "en": "The cuckoo lays its eggs in other birds' nests.",
+                        "vi": "Chim cu gáy đẻ trứng vào tổ của các loài chim khác."
+                    },
+                    {
+                        "en": "new-laid eggs",
+                        "vi": "trứng mới đẻ"
+                    },
+                    {
+                        "en": "The hens are not laying well (= not producing many eggs).",
+                        "vi": "Gà mái đẻ không tốt (= không đẻ nhiều trứng)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to arrange knives, forks, plates, etc. on a table ready for a meal",
+                    "vi": "sắp xếp dao, nĩa, đĩa, v.v. trên bàn sẵn sàng cho bữa ăn"
+                },
+                "examples": [
+                    {
+                        "en": "to lay the table",
+                        "vi": "đặt bàn"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to present a proposal, some information, etc. to somebody for them to think about and decide on",
+                    "vi": "trình bày một đề xuất, một số thông tin, v.v. cho ai đó để họ suy nghĩ và quyết định"
+                },
+                "examples": [
+                    {
+                        "en": "The bill was laid before Parliament.",
+                        "vi": "Dự luật đã được đưa ra trước Quốc hội."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to put somebody/something in a particular position or state, especially a difficult or unpleasant one",
+                    "vi": "đặt ai đó / cái gì đó vào một vị trí hoặc trạng thái cụ thể, đặc biệt là một vị trí khó khăn hoặc khó chịu"
+                },
+                "examples": [
+                    {
+                        "en": "to lay a responsibility/burden on somebody",
+                        "vi": "đặt trách nhiệm / gánh nặng cho ai đó"
+                    },
+                    {
+                        "en": "to lay somebody under an obligation to do something",
+                        "vi": "yêu cầu ai đó có nghĩa vụ phải làm điều gì đó"
+                    },
+                    {
+                        "en": "Failing to act now will merely lay the burden on future generations.",
+                        "vi": "Không hành động ngay bây giờ sẽ chỉ tạo gánh nặng cho các thế hệ tương lai."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used with a noun to form a phrase that has the same meaning as the verb related to the noun",
+                    "vi": "được sử dụng với một danh từ để tạo thành một cụm từ có cùng nghĩa với động từ liên quan đến danh từ."
+                },
+                "examples": [
+                    {
+                        "en": "to lay the blame on somebody (= to blame somebody)",
+                        "vi": "đổ lỗi cho ai đó (= đổ lỗi cho ai đó)"
+                    },
+                    {
+                        "en": "Our teacher lays great stress on good spelling (= stresses it strongly).",
+                        "vi": "Giáo viên của chúng tôi rất căng thẳng về việc viết tốt chính tả (= nhấn mạnh điều đó)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to prepare something in detail",
+                    "vi": "để chuẩn bị một cái gì đó chi tiết"
+                },
+                "examples": [
+                    {
+                        "en": "Little did he know they had laid a trap for him.",
+                        "vi": "Anh không hề biết rằng họ đã giăng một cái bẫy cho anh."
+                    },
+                    {
+                        "en": "She began to lay her plans for her escape.",
+                        "vi": "Cô bắt đầu lên kế hoạch cho cuộc chạy trốn của mình."
+                    },
+                    {
+                        "en": "Bad weather can upset even the best-laid plans.",
+                        "vi": "Thời tiết xấu có thể làm đảo lộn ngay cả những kế hoạch tốt nhất."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to have sex with somebody",
+                    "vi": "làm tình với ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "He went out hoping to get laid that night.",
+                        "vi": "Anh ấy đã đi ra ngoài với hy vọng sẽ được nằm trong đêm đó."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to prepare a fire by arranging wood, sticks or coal",
+                    "vi": "chuẩn bị nhóm lửa bằng cách sắp xếp gỗ, que hoặc than"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to bet money on something; to place a bet",
+                    "vi": "đặt cược tiền vào một cái gì đó; đặt cược"
+                },
+                "examples": [
+                    {
+                        "en": "lay something to lay a bet",
+                        "vi": "đặt một cái gì đó để đặt cược"
+                    },
+                    {
+                        "en": "lay something on something She had laid $100 on the favourite.",
+                        "vi": "đặt một cái gì đó trên một cái gì đó Cô ấy đã đặt 100 đô la cho cái yêu thích."
+                    },
+                    {
+                        "en": "I think he’ll come, but I wouldn’t lay money on it.",
+                        "vi": "Tôi nghĩ anh ấy sẽ đến, nhưng tôi sẽ không đặt tiền vào nó."
+                    },
+                    {
+                        "en": "lay (somebody) something (that)… I’ll lay you any money you like (that) he won’t come.",
+                        "vi": "lay (ai đó) cái gì đó (cái đó)… Tôi sẽ đưa cho bạn bất kỳ khoản tiền nào bạn thích (cái đó) anh ta sẽ không đến."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9d6595e81fc24063beb09bf76a55f2be",
+        "word": "sting",
+        "pos": "verb",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/stɪŋ/",
+            "us": "/stɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "stimulation",
+                "pos": "noun"
+            },
+            {
+                "word": "stimulus",
+                "pos": "noun"
+            },
+            {
+                "word": "sting",
+                "pos": "verb"
+            },
+            {
+                "word": "sting",
+                "pos": "noun"
+            },
+            {
+                "word": "stinginess",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to touch your skin or make a very small hole in it so that you feel a sharp pain",
+                    "vi": "chạm vào da của bạn hoặc tạo một lỗ rất nhỏ trên đó để bạn cảm thấy đau nhói"
+                },
+                "examples": [
+                    {
+                        "en": "I was stung on the arm by a wasp.",
+                        "vi": "Tôi bị ong vò vẽ đốt vào cánh tay."
+                    },
+                    {
+                        "en": "Be careful of the nettles—they sting!",
+                        "vi": "Hãy cẩn thận với cây tầm ma — chúng chích!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to feel, or to make somebody feel, a sharp pain in a part of their body",
+                    "vi": "để cảm thấy, hoặc làm cho ai đó cảm thấy, một cơn đau nhói ở một phần cơ thể của họ"
+                },
+                "examples": [
+                    {
+                        "en": "I put some antiseptic on the cut and it stung for a moment.",
+                        "vi": "Tôi bôi một ít thuốc sát trùng vào vết cắt và nó ngứa ngáy trong giây lát."
+                    },
+                    {
+                        "en": "My eyes were stinging from the smoke.",
+                        "vi": "Mắt tôi cay xè vì khói."
+                    },
+                    {
+                        "en": "sting something Tears stung her eyes.",
+                        "vi": "châm chích gì đó Nước mắt cay cay khóe mắt."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make somebody feel angry or upset",
+                    "vi": "làm cho ai đó cảm thấy tức giận hoặc khó chịu"
+                },
+                "examples": [
+                    {
+                        "en": "sting somebody He was stung by their criticism.",
+                        "vi": "châm chích ai đó Anh ta bị châm chích bởi những lời chỉ trích của họ."
+                    },
+                    {
+                        "en": "They launched a stinging attack on the government.",
+                        "vi": "Họ đã phát động một cuộc tấn công nhức nhối vào chính phủ."
+                    },
+                    {
+                        "en": "sting somebody to/into something Their cruel remarks stung her into action.",
+                        "vi": "châm chích ai đó vào / vào một cái gì đó Những lời nhận xét tàn nhẫn của họ khiến cô ấy bắt đầu hành động."
+                    },
+                    {
+                        "en": "sting somebody into doing something He was stung into answering in his defence.",
+                        "vi": "châm ngòi cho ai đó làm điều gì đó."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to charge somebody more money than they expected; to charge somebody who did not expect to pay",
+                    "vi": "tính phí ai đó nhiều tiền hơn họ mong đợi; tính phí ai đó không mong đợi trả tiền"
+                },
+                "examples": [
+                    {
+                        "en": "I got stung for a £100 meal.",
+                        "vi": "Tôi đã bị chích cho một bữa ăn 100 bảng."
+                    },
+                    {
+                        "en": "How much did they sting you for?",
+                        "vi": "Họ đã đốt bạn bao nhiêu?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to borrow money from somebody",
+                    "vi": "vay tiền từ ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "Can I sting you for a couple of pounds?",
+                        "vi": "Tôi có thể chích cho bạn một vài pound?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "07c3d72bc6b64ed286c9481d7bec2cde",
+        "word": "buzz",
+        "pos": "verb",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/bʌz/",
+            "us": "/bʌz/"
+        },
+        "nearby": [
+            {
+                "word": "buy-to-let",
+                "pos": "adjective"
+            },
+            {
+                "word": "buy up",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "buzz",
+                "pos": "verb"
+            },
+            {
+                "word": "buzz",
+                "pos": "noun"
+            },
+            {
+                "word": "buzz about",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to make a continuous low sound",
+                    "vi": "để tạo ra âm thanh nhỏ liên tục"
+                },
+                "examples": [
+                    {
+                        "en": "Bees buzzed lazily among the flowers.",
+                        "vi": "Những chú ong lười biếng vo ve giữa những bông hoa."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make a sound like a bee buzzing",
+                    "vi": "tạo ra âm thanh như ong vo ve"
+                },
+                "examples": [
+                    {
+                        "en": "The doorbell buzzed loudly.",
+                        "vi": "Chuông cửa kêu inh ỏi."
+                    },
+                    {
+                        "en": "My ears were buzzing (= were filled with a continuous sound).",
+                        "vi": "Tai tôi ù đi (= đầy âm thanh liên tục)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be full of excitement, activity, etc.",
+                    "vi": "tràn đầy hứng thú, hoạt động, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "New York buzzes from dawn to dusk.",
+                        "vi": "New York náo nhiệt từ bình minh đến hoàng hôn."
+                    },
+                    {
+                        "en": "My head was still buzzing after the day's events.",
+                        "vi": "Đầu tôi vẫn quay cuồng sau những sự việc trong ngày."
+                    },
+                    {
+                        "en": "buzz with something The place was buzzing with journalists.",
+                        "vi": "buzz with something Nơi đã xôn xao với các nhà báo."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to call somebody to come by pressing a buzzer",
+                    "vi": "để gọi ai đó đến bằng cách nhấn một cái còi"
+                },
+                "examples": [
+                    {
+                        "en": "The doctor buzzed for the next patient to come in.",
+                        "vi": "Bác sĩ bấm còi cho bệnh nhân tiếp theo vào."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to fly very close to somebody/something, especially as a warning or threat",
+                    "vi": "bay rất gần ai đó / cái gì đó, đặc biệt là để cảnh báo hoặc đe dọa"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "73bba00136e04dc98a0afe2f8428a088",
+        "word": "crawl",
+        "pos": "verb",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/krɔːl/",
+            "us": "/krɔːl/"
+        },
+        "nearby": [
+            {
+                "word": "crawfish",
+                "pos": "noun"
+            },
+            {
+                "word": "Joan Crawford",
+                "pos": ""
+            },
+            {
+                "word": "crawl",
+                "pos": "verb"
+            },
+            {
+                "word": "crawl",
+                "pos": "noun"
+            },
+            {
+                "word": "crawler",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to move forward on your hands and knees or with your body close to the ground",
+                    "vi": "di chuyển về phía trước trên bàn tay và đầu gối của bạn hoặc với cơ thể của bạn gần mặt đất"
+                },
+                "examples": [
+                    {
+                        "en": "Our baby is just starting to crawl.",
+                        "vi": "Em bé của chúng ta mới bắt đầu tập bò."
+                    },
+                    {
+                        "en": "A man was crawling away from the burning wreckage.",
+                        "vi": "Một người đàn ông đang bò ra khỏi đống đổ nát đang cháy."
+                    },
+                    {
+                        "en": "She crawled under the fence.",
+                        "vi": "Cô ấy chui xuống dưới hàng rào."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "when an insect, a spider, etc. crawls, it moves forward on its legs",
+                    "vi": "khi một con côn trùng, một con nhện, v.v. bò, nó sẽ di chuyển về phía trước bằng hai chân của mình"
+                },
+                "examples": [
+                    {
+                        "en": "There's a spider crawling up your leg.",
+                        "vi": "Có một con nhện đang bò lên chân bạn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to move forward very slowly",
+                    "vi": "tiến về phía trước rất chậm"
+                },
+                "examples": [
+                    {
+                        "en": "The traffic was crawling along.",
+                        "vi": "Lưu lượng truy cập đang di chuyển dọc theo."
+                    },
+                    {
+                        "en": "The weeks crawled by.",
+                        "vi": "Nhiều tuần trôi qua lê thê."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be too friendly or helpful to somebody in authority, in a way that is not sincere, especially in order to get an advantage from them",
+                    "vi": "tỏ ra quá thân thiện hoặc hữu ích với ai đó có thẩm quyền, theo cách không chân thành, đặc biệt là để có được lợi thế từ họ"
+                },
+                "examples": [
+                    {
+                        "en": "She's always crawling to the boss.",
+                        "vi": "Cô ấy luôn bò đến chỗ ông chủ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if you say that somebody comes/crawls out of the woodwork, you mean that they have suddenly appeared in order to express an opinion or to take advantage of a situation",
+                    "vi": "nếu bạn nói rằng ai đó đến / bò ra khỏi đồ gỗ, bạn có nghĩa là họ đã đột ngột xuất hiện để bày tỏ ý kiến hoặc để lợi dụng một tình huống"
+                },
+                "examples": [
+                    {
+                        "en": "When he won the lottery, all sorts of distant relatives came out of the woodwork.",
+                        "vi": "Khi anh ta trúng số, đủ loại họ hàng xa từ nghề mộc bước ra."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make you feel afraid or full of horror",
+                    "vi": "làm cho bạn cảm thấy sợ hãi hoặc kinh hoàng"
+                },
+                "examples": [
+                    {
+                        "en": "Just the sight of him makes my skin crawl.",
+                        "vi": "Chỉ nhìn thấy anh ấy thôi cũng khiến tôi nổi da gà."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "fa19a3e48ee049839a1eaee3bef86cf7",
+        "word": "hatch",
+        "pos": "verb",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/hætʃ/",
+            "us": "/hætʃ/"
+        },
+        "nearby": [
+            {
+                "word": "hatband",
+                "pos": "noun"
+            },
+            {
+                "word": "hatbox",
+                "pos": "noun"
+            },
+            {
+                "word": "hatch",
+                "pos": "verb"
+            },
+            {
+                "word": "hatch",
+                "pos": "noun"
+            },
+            {
+                "word": "Hatchards",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to come out of an egg",
+                    "vi": "ra khỏi một quả trứng"
+                },
+                "examples": [
+                    {
+                        "en": "Ten chicks hatched (out) this morning.",
+                        "vi": "Mười chú gà con đã nở (ra) sáng nay."
+                    },
+                    {
+                        "en": "the newly hatched chicks",
+                        "vi": "gà con mới nở"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to break open so that a young bird, fish, insect, etc. can come out",
+                    "vi": "mở ra để chim non, cá, côn trùng, v.v. có thể chui ra"
+                },
+                "examples": [
+                    {
+                        "en": "The eggs are about to hatch.",
+                        "vi": "Những quả trứng sắp nở."
+                    },
+                    {
+                        "en": "How long do the eggs take to hatch?",
+                        "vi": "Trứng mất bao lâu để nở?"
+                    },
+                    {
+                        "en": "The butterfly's eggs soon hatch into larvae.",
+                        "vi": "Trứng của bướm sớm nở thành ấu trùng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make a young bird, fish, insect, etc. come out of an egg",
+                    "vi": "tạo ra một con chim non, cá, côn trùng, v.v. từ một quả trứng"
+                },
+                "examples": [
+                    {
+                        "en": "The female must find a warm place to hatch her eggs.",
+                        "vi": "Con cái phải tìm một nơi ấm áp để ấp trứng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to create a plan or an idea, especially in secret",
+                    "vi": "để tạo ra một kế hoạch hoặc một ý tưởng, đặc biệt là trong bí mật"
+                },
+                "examples": [
+                    {
+                        "en": "Have you been hatching up a deal with her?",
+                        "vi": "Bạn đã có một thỏa thuận với cô ấy?"
+                    },
+                    {
+                        "en": "Rebel MPs are hatching a secret plot to oust the prime minister.",
+                        "vi": "Các nghị sĩ phiến quân đang ấp ủ một âm mưu bí mật nhằm lật đổ thủ tướng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "you should not be too confident that something will be successful, because something may still go wrong",
+                    "vi": "bạn không nên quá tin tưởng rằng điều gì đó sẽ thành công, bởi vì có thể vẫn còn điều gì đó sai"
+                },
+                "examples": []
+            }
+        ]
+    }
+]

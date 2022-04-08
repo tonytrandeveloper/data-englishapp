@@ -1,0 +1,1583 @@
+[
+    {
+        "id": "0dc2924e7d49467b9bbba9415f71deb9",
+        "word": "feel",
+        "pos": "linking verb",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/fiːl/",
+            "us": "/fiːl/"
+        },
+        "nearby": [
+            {
+                "word": "feed through",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "feed up",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "feel",
+                "pos": "verb"
+            },
+            {
+                "word": "feel",
+                "pos": "noun"
+            },
+            {
+                "word": "feeler",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to experience a particular feeling or emotion",
+                    "vi": "để trải nghiệm một cảm giác hoặc cảm xúc cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "+ adj. The bus ride made me feel sick.",
+                        "vi": "Err:509"
+                    },
+                    {
+                        "en": "Are you feeling comfortable?",
+                        "vi": "Bạn có cảm thấy thoải mái không?"
+                    },
+                    {
+                        "en": "She sounded more confident than she felt.",
+                        "vi": "Cô ấy có vẻ tự tin hơn những gì cô ấy cảm thấy."
+                    },
+                    {
+                        "en": "I was feeling guilty.",
+                        "vi": "Tôi đã cảm thấy tội lỗi."
+                    },
+                    {
+                        "en": "You'll feel better after a good night's sleep.",
+                        "vi": "Bạn sẽ cảm thấy tốt hơn sau một đêm ngon giấc."
+                    },
+                    {
+                        "en": "I feel sorry for him.",
+                        "vi": "Tôi cảm thấy tiếc cho anh."
+                    },
+                    {
+                        "en": "I feel bad about leaving you like this.",
+                        "vi": "Tôi cảm thấy tồi tệ khi để bạn như thế này."
+                    },
+                    {
+                        "en": "She felt betrayed.",
+                        "vi": "Cô cảm thấy bị phản bội."
+                    },
+                    {
+                        "en": "+ adv./prep. How are you feeling today?",
+                        "vi": "Err:509"
+                    },
+                    {
+                        "en": "I know exactly how you feel (= I feel sympathy for you).",
+                        "vi": "Tôi biết chính xác bạn cảm thấy thế nào (= Tôi cảm thấy thông cảm cho bạn)."
+                    },
+                    {
+                        "en": "We all felt the same way.",
+                        "vi": "Tất cả chúng tôi đều cảm thấy như vậy."
+                    },
+                    {
+                        "en": "Luckily I was feeling in a good mood.",
+                        "vi": "May mắn thay, tôi đã cảm thấy một tâm trạng tốt."
+                    },
+                    {
+                        "en": "feel something I felt the need to explain.",
+                        "vi": "cảm thấy điều gì đó mà tôi cảm thấy cần phải giải thích."
+                    },
+                    {
+                        "en": "I felt a sense of relief.",
+                        "vi": "Tôi cảm thấy nhẹ nhõm."
+                    },
+                    {
+                        "en": "feel like something I felt like a complete idiot.",
+                        "vi": "cảm thấy giống như một cái gì đó tôi cảm thấy như một kẻ ngốc hoàn toàn."
+                    },
+                    {
+                        "en": "She made me feel like a child by doing everything for me.",
+                        "vi": "Cô ấy khiến tôi cảm thấy mình như một đứa trẻ bằng cách làm mọi thứ cho tôi."
+                    },
+                    {
+                        "en": "feel as if/though… I feel as if nobody cares.",
+                        "vi": "cảm thấy như thể / mặc dù… Tôi cảm thấy như thể không ai quan tâm."
+                    },
+                    {
+                        "en": "She felt as though she was going to cry.",
+                        "vi": "Cô cảm thấy như thể mình sắp khóc."
+                    },
+                    {
+                        "en": "feel + noun to feel an idiot/a fool",
+                        "vi": "feel + danh từ cảm thấy một kẻ ngốc / một kẻ ngốc"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to notice or be aware of something because it is touching you or having a physical effect on you",
+                    "vi": "để ý hoặc nhận thức được điều gì đó vì nó đang chạm vào bạn hoặc có tác động vật lý lên bạn"
+                },
+                "examples": [
+                    {
+                        "en": "feel something I could feel the warm sun on my back.",
+                        "vi": "cảm thấy một cái gì đó tôi có thể cảm thấy mặt trời ấm áp trên lưng tôi."
+                    },
+                    {
+                        "en": "She felt a sharp pain in her hand.",
+                        "vi": "Cô cảm thấy tay mình đau nhói."
+                    },
+                    {
+                        "en": "She could not feel her legs.",
+                        "vi": "Cô không thể cảm nhận được đôi chân của mình."
+                    },
+                    {
+                        "en": "I can’t feel his pulse.",
+                        "vi": "Tôi không thể cảm nhận được mạch của anh ấy."
+                    },
+                    {
+                        "en": "He felt a hand on his shoulder.",
+                        "vi": "Anh cảm thấy có một bàn tay đặt trên vai mình."
+                    },
+                    {
+                        "en": "You may feel a slight pressure in your chest.",
+                        "vi": "Bạn có thể cảm thấy một áp lực nhẹ trong ngực."
+                    },
+                    {
+                        "en": "feel somebody/something/yourself doing something He felt a hand touching his shoulder.",
+                        "vi": "cảm thấy ai đó / cái gì đó / bản thân bạn đang làm gì đó Anh ấy cảm thấy một bàn tay đang chạm vào vai mình."
+                    },
+                    {
+                        "en": "She could feel herself blushing.",
+                        "vi": "Cô có thể cảm thấy mình đang đỏ mặt."
+                    },
+                    {
+                        "en": "He felt the sweat running down his face.",
+                        "vi": "Anh cảm thấy mồ hôi đang chảy dài trên khuôn mặt của mình."
+                    },
+                    {
+                        "en": "feel somebody/something/yourself do something I felt something crawl up my arm.",
+                        "vi": "cảm thấy ai đó / cái gì đó / bản thân bạn làm điều gì đó Tôi cảm thấy có thứ gì đó bò lên trên cánh tay của mình."
+                    },
+                    {
+                        "en": "We felt the ground give way under our feet.",
+                        "vi": "Chúng tôi cảm thấy mặt đất nhường chỗ dưới chân mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to become aware of something even though you cannot see it, hear it, etc.",
+                    "vi": "để trở nên nhận thức về một cái gì đó mặc dù bạn không thể nhìn thấy nó, nghe thấy nó, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "Can you feel the tension in this room?",
+                        "vi": "Bạn có thể cảm thấy sự căng thẳng trong căn phòng này không?"
+                    },
+                    {
+                        "en": "They all feel pressure from managers to make a sale.",
+                        "vi": "Tất cả họ đều cảm thấy áp lực từ các nhà quản lý trong việc bán hàng."
+                    },
+                    {
+                        "en": "I definitely felt the importance of the occasion.",
+                        "vi": "Tôi chắc chắn cảm thấy tầm quan trọng của dịp này."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to give you a particular feeling or impression",
+                    "vi": "để mang lại cho bạn một cảm giác hoặc ấn tượng cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "+ adj. This situation doesn't feel right.",
+                        "vi": "Err:509"
+                    },
+                    {
+                        "en": "You need to go somewhere that feels safe.",
+                        "vi": "Bạn cần đến một nơi nào đó mà bạn cảm thấy an toàn."
+                    },
+                    {
+                        "en": "My mouth felt completely dry.",
+                        "vi": "Miệng tôi cảm thấy khô hoàn toàn."
+                    },
+                    {
+                        "en": "it feels + adj. to do something It felt strange to be back in my old school.",
+                        "vi": "it feel + adj. để làm điều gì đó Cảm giác thật lạ khi được trở lại trường cũ của tôi."
+                    },
+                    {
+                        "en": "feel like something The place still feels like a small fishing village.",
+                        "vi": "Cảm giác như một cái gì đó Nơi vẫn có cảm giác như một làng chài nhỏ."
+                    },
+                    {
+                        "en": "it feels like something The interview only took ten minutes, but it felt like hours.",
+                        "vi": "Nó giống như một cái gì đó Cuộc phỏng vấn chỉ diễn ra trong mười phút, nhưng nó có cảm giác như hàng giờ."
+                    },
+                    {
+                        "en": "I've lived here for years, but it still doesn't feel like home.",
+                        "vi": "Tôi đã sống ở đây nhiều năm, nhưng cảm giác vẫn không giống như ở nhà."
+                    },
+                    {
+                        "en": "It feels like rain (= seems likely to rain).",
+                        "vi": "It feel like rain (= có vẻ như mưa)."
+                    },
+                    {
+                        "en": "It's three degrees right now, but with the wind chill factor it feels like minus 12.",
+                        "vi": "Hiện tại nhiệt độ là 3 độ, nhưng với hệ số gió lạnh, nó có cảm giác như âm 12."
+                    },
+                    {
+                        "en": "How does it feel to be alone all day?",
+                        "vi": "Cảm giác như thế nào khi ở một mình cả ngày?"
+                    },
+                    {
+                        "en": "feel as if/though… Her head felt as if it would burst.",
+                        "vi": "cảm thấy như thể / mặc dù… Đầu cô ấy cảm thấy như thể nó sẽ vỡ tung ra."
+                    },
+                    {
+                        "en": "it feels as if/though… It felt as though he had run a marathon.",
+                        "vi": "cảm giác như thể / mặc dù… Cảm giác như thể anh ấy đã chạy marathon."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to have a particular physical quality that you become aware of by touching",
+                    "vi": "để có một chất lượng thể chất cụ thể mà bạn có thể nhận biết được bằng cách chạm vào"
+                },
+                "examples": [
+                    {
+                        "en": "+ adj. The water feels warm.",
+                        "vi": "Err:509"
+                    },
+                    {
+                        "en": "Its skin feels really smooth.",
+                        "vi": "Da của nó cảm thấy thực sự mịn màng."
+                    },
+                    {
+                        "en": "feel like something This wallet feels like leather.",
+                        "vi": "cảm thấy giống như một cái gì đó Ví này cảm thấy giống như da."
+                    },
+                    {
+                        "en": "Your hands feel like ice.",
+                        "vi": "Bàn tay của bạn có cảm giác như đá."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to deliberately move your fingers over something in order to find out what it is like",
+                    "vi": "cố ý di chuyển ngón tay của bạn trên một cái gì đó để tìm hiểu nó như thế nào"
+                },
+                "examples": [
+                    {
+                        "en": "feel something Can you feel the bump on my head?",
+                        "vi": "Cảm thấy gì đó Bạn có thể cảm thấy vết sưng trên đầu tôi không?"
+                    },
+                    {
+                        "en": "Try to tell what this is just by feeling it.",
+                        "vi": "Cố gắng cho biết đây là gì chỉ bằng cách cảm nhận nó."
+                    },
+                    {
+                        "en": "People like to touch and feel the fabric before they buy.",
+                        "vi": "Mọi người thích sờ và cảm nhận vải trước khi mua."
+                    },
+                    {
+                        "en": "feel how, what, etc… Feel how rough this is.",
+                        "vi": "cảm thấy như thế nào, cái gì, vv… Cảm thấy điều này thật khó khăn như thế nào."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to think or believe that something is the case; to have a particular opinion or attitude",
+                    "vi": "để suy nghĩ hoặc tin rằng một cái gì đó là trường hợp; để có một quan điểm hoặc thái độ cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "feel (that)… We all felt (that) we were unlucky to lose.",
+                        "vi": "cảm thấy (điều đó)… Tất cả chúng tôi đều cảm thấy (điều đó) chúng tôi đã không may mắn khi thua cuộc."
+                    },
+                    {
+                        "en": "We've always felt this was our home.",
+                        "vi": "Chúng tôi luôn cảm thấy đây là nhà của chúng tôi."
+                    },
+                    {
+                        "en": "I felt (that) I had to apologize.",
+                        "vi": "Tôi cảm thấy (rằng) tôi phải xin lỗi."
+                    },
+                    {
+                        "en": "I feel I could continue playing until I am 35.",
+                        "vi": "Tôi cảm thấy mình có thể tiếp tục chơi cho đến năm 35 tuổi."
+                    },
+                    {
+                        "en": "+ adv./prep. This is something I feel strongly about.",
+                        "vi": "Err:509"
+                    },
+                    {
+                        "en": "How do you feel about inviting the children too?",
+                        "vi": "Bạn cảm thấy thế nào khi mời cả bọn trẻ?"
+                    },
+                    {
+                        "en": "I didn't know you felt like that about it.",
+                        "vi": "Tôi không biết bạn cảm thấy như thế về nó."
+                    },
+                    {
+                        "en": "feel it + noun She felt it her duty to tell the police.",
+                        "vi": "feel it + danh từ Cô ấy cảm thấy đó là nhiệm vụ của cô ấy để báo cảnh sát."
+                    },
+                    {
+                        "en": "I feel it a great honour to be chosen.",
+                        "vi": "Tôi cảm thấy đó là một vinh dự lớn khi được chọn."
+                    },
+                    {
+                        "en": "feel it to be + noun She felt it to be the best course of action to remain.",
+                        "vi": "feel it to be + danh từ Cô ấy cảm thấy đó là cách hành động tốt nhất để còn lại."
+                    },
+                    {
+                        "en": "feel it + adj. Why did you feel it necessary to do that?",
+                        "vi": "cảm nhận nó + adj. Tại sao bạn cảm thấy cần thiết phải làm điều đó?"
+                    },
+                    {
+                        "en": "I felt it advisable to do nothing.",
+                        "vi": "Tôi cảm thấy không nên làm gì cả."
+                    },
+                    {
+                        "en": "feel it to be + adj. We felt it to be unfortunate.",
+                        "vi": "cảm thấy nó là + adj. Chúng tôi cảm thấy đó là điều đáng tiếc."
+                    },
+                    {
+                        "en": "This decision is, I feel, a huge mistake.",
+                        "vi": "Tôi cảm thấy quyết định này là một sai lầm lớn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to experience the effects or results of something, often strongly",
+                    "vi": "để trải nghiệm những tác động hoặc kết quả của điều gì đó, thường là"
+                },
+                "examples": [
+                    {
+                        "en": "He feels the cold a lot.",
+                        "vi": "Anh ấy cảm thấy lạnh rất nhiều."
+                    },
+                    {
+                        "en": "Cathy was really feeling the heat.",
+                        "vi": "Cathy đã thực sự cảm thấy nóng."
+                    },
+                    {
+                        "en": "We're all starting to feel the pressure at work.",
+                        "vi": "Tất cả chúng tôi đều bắt đầu cảm thấy áp lực trong công việc."
+                    },
+                    {
+                        "en": "I was OK after my run, but I'll feel it tomorrow.",
+                        "vi": "Tôi đã ổn sau khi chạy, nhưng tôi sẽ cảm nhận được điều đó vào ngày mai."
+                    },
+                    {
+                        "en": "She felt her mother's death very deeply.",
+                        "vi": "Cô cảm thấy cái chết của mẹ mình rất sâu sắc."
+                    },
+                    {
+                        "en": "The effects of the recession are being felt everywhere.",
+                        "vi": "Ảnh hưởng của suy thoái kinh tế đang được cảm nhận ở khắp mọi nơi."
+                    },
+                    {
+                        "en": "We all felt the force of her arguments.",
+                        "vi": "Tất cả chúng tôi đều cảm thấy sức mạnh của những lý lẽ của cô ấy."
+                    },
+                    {
+                        "en": "Her loss has been keenly felt.",
+                        "vi": "Sự mất mát của cô ấy đã được cảm nhận một cách sâu sắc."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to search for something with your hands, feet, etc.",
+                    "vi": "để tìm kiếm thứ gì đó bằng tay, chân, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "+ adv./prep. She felt in her bag and pulled out a pen.",
+                        "vi": "adv./prep. Cô cảm thấy trong túi xách của mình và rút ra một cây bút."
+                    },
+                    {
+                        "en": "If you feel under the desk you'll find a hook.",
+                        "vi": "Nếu bạn cảm thấy dưới bàn làm việc, bạn sẽ tìm thấy một cái móc."
+                    },
+                    {
+                        "en": "feel for something She felt for the step with her foot.",
+                        "vi": "cảm thấy một cái gì đó Cô ấy cảm thấy cho bước đi bằng chân của mình."
+                    },
+                    {
+                        "en": "+ adv./prep. for something I had to feel about in the dark for the light switch.",
+                        "vi": "Err:509"
+                    },
+                    {
+                        "en": "He felt in his pockets for some money.",
+                        "vi": "Anh cảm thấy trong túi của mình có một số tiền."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be pleased because somebody has made you feel important or special",
+                    "vi": "hài lòng vì ai đó đã khiến bạn cảm thấy mình quan trọng hoặc đặc biệt"
+                },
+                "examples": [
+                    {
+                        "en": "He was flattered by her attention.",
+                        "vi": "Anh đã được tâng bốc bởi sự chú ý của cô."
+                    },
+                    {
+                        "en": "I felt flattered at being asked to give a lecture.",
+                        "vi": "Tôi cảm thấy tự hào khi được yêu cầu thuyết trình."
+                    },
+                    {
+                        "en": "She was flattered to hear that he had been asking about her.",
+                        "vi": "Cô rất vui khi biết rằng anh đã hỏi về cô."
+                    },
+                    {
+                        "en": "I suppose we should be flattered that he agreed to come at all.",
+                        "vi": "Tôi cho rằng chúng ta nên lấy làm mừng vì anh ấy đã đồng ý đến."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be or feel unfairly treated",
+                    "vi": "bị hoặc cảm thấy bị đối xử bất công"
+                },
+                "examples": [
+                    {
+                        "en": "She has every right to feel hard done by—her parents have given her nothing.",
+                        "vi": "Cô ấy có mọi quyền để cảm thấy khó khăn khi làm - cha mẹ cô ấy không cho cô ấy điều gì."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to feel proud and happy",
+                    "vi": "cảm thấy tự hào và hạnh phúc"
+                },
+                "examples": [
+                    {
+                        "en": "I was honoured to have been mentioned in his speech.",
+                        "vi": "Tôi rất vinh dự được nhắc đến trong bài phát biểu của anh ấy."
+                    },
+                    {
+                        "en": "‘Would you be my best man?’ ‘I’d be honoured.’",
+                        "vi": "Bạn sẽ là người đàn ông tốt nhất của tôi?' 'Tôi rất vinh dự.'"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to feel weak because you are nervous",
+                    "vi": "cảm thấy yếu vì bạn lo lắng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to realize that you are getting old, especially compared with people you are with who are younger than you",
+                    "vi": "nhận ra rằng bạn đang già đi, đặc biệt là khi so sánh với những người trẻ hơn bạn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used to tell somebody that they are allowed to do something",
+                    "vi": "được sử dụng để nói với ai đó rằng họ được phép làm điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "Feel free to ask questions if you don't understand.",
+                        "vi": "Hãy đặt câu hỏi nếu bạn không hiểu."
+                    },
+                    {
+                        "en": "‘Can I use your phone?’ ‘Feel free.’",
+                        "vi": "Tôi có thể dùng điện thoại của bạn được không?' 'Đừng ngại.'"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to feel happy, confident, etc.",
+                    "vi": "để cảm thấy hạnh phúc, tự tin, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "It makes me feel good to know my work is appreciated.",
+                        "vi": "Tôi cảm thấy rất vui khi biết công việc của mình được đánh giá cao."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be certain about something even though you do not have any direct proof and cannot explain why you are certain",
+                    "vi": "để chắc chắn về điều gì đó mặc dù bạn không có bất kỳ bằng chứng trực tiếp nào và không thể giải thích tại sao bạn chắc chắn"
+                },
+                "examples": [
+                    {
+                        "en": "I know I'm going to fail this exam—I can feel it in my bones.",
+                        "vi": "Tôi biết mình sẽ trượt kỳ thi này - tôi có thể cảm nhận được điều đó trong tận xương tủy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to want to have or do something",
+                    "vi": "muốn có hoặc làm điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "I feel like a drink.",
+                        "vi": "Tôi cảm thấy như một thức uống."
+                    },
+                    {
+                        "en": "We all felt like celebrating.",
+                        "vi": "Tất cả chúng tôi đều cảm thấy muốn ăn mừng."
+                    },
+                    {
+                        "en": "He felt like bursting into tears.",
+                        "vi": "Anh như muốn bật khóc."
+                    },
+                    {
+                        "en": "We'll go for a walk if you feel like it.",
+                        "vi": "Chúng tôi sẽ đi dạo nếu bạn cảm thấy thích."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to not have enough money",
+                    "vi": "không có đủ tiền"
+                },
+                "examples": [
+                    {
+                        "en": "Lots of people who have lost their jobs are starting to feel the pinch.",
+                        "vi": "Rất nhiều người bị mất việc bắt đầu cảm thấy bị chèn ép."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to move along carefully, for example when it is dark, by touching walls, objects, etc.",
+                    "vi": "để di chuyển cẩn thận, chẳng hạn như khi trời tối, bằng cách chạm vào tường, đồ vật, v.v."
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be careful about how you do things, usually because you are in a situation that you are not familiar with",
+                    "vi": "cẩn thận về cách bạn làm mọi việc, thường là vì bạn đang ở trong một tình huống mà bạn không quen thuộc"
+                },
+                "examples": [
+                    {
+                        "en": "She was new in the job, still feeling her way.",
+                        "vi": "Cô ấy mới vào nghề, vẫn cảm thấy theo cách của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to feel that you must do something because of your sense of moral duty",
+                    "vi": "để cảm thấy rằng bạn phải làm điều gì đó vì ý thức của bạn về nghĩa vụ đạo đức"
+                },
+                "examples": [
+                    {
+                        "en": "She felt honour-bound to attend as she had promised to.",
+                        "vi": "Cô cảm thấy vinh dự được tham dự như những gì cô đã hứa."
+                    },
+                    {
+                        "en": "He felt honour bound to help her.",
+                        "vi": "Anh cảm thấy vinh dự khi được giúp đỡ cô ấy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to look or feel very ill or tired",
+                    "vi": "trông hoặc cảm thấy rất ốm hoặc mệt mỏi"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to look/feel extremely good",
+                    "vi": "nhìn / cảm thấy cực kỳ tốt"
+                },
+                "examples": [
+                    {
+                        "en": "Wow, you look like a million dollars.",
+                        "vi": "Chà, bạn trông giống như một triệu đô la."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to look or feel stupid, weak, ashamed, etc.",
+                    "vi": "nhìn hoặc cảm thấy mình ngu ngốc, yếu đuối, xấu hổ, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "There’s no need to make me look small in front of all these people.",
+                        "vi": "Không cần phải làm cho tôi trông nhỏ bé trước mặt tất cả những người này."
+                    },
+                    {
+                        "en": "I felt really small when I realized how much time he’d spent on it.",
+                        "vi": "Tôi cảm thấy thực sự nhỏ bé khi nhận ra anh ấy đã dành bao nhiêu thời gian cho việc đó."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to do something to make people very aware of the fact that you are there; to have a strong influence on a group of people or a situation",
+                    "vi": "làm điều gì đó để mọi người nhận thức rõ ràng rằng bạn đang ở đó; có ảnh hưởng mạnh mẽ đến một nhóm người hoặc một tình huống"
+                },
+                "examples": [
+                    {
+                        "en": "She’s only been here a couple of weeks but she is already making her presence felt.",
+                        "vi": "Cô ấy chỉ mới ở đây một vài tuần nhưng cô ấy đã làm cho sự hiện diện của cô ấy cảm nhận được."
+                    },
+                    {
+                        "en": "She certainly made her presence felt in the boardroom.",
+                        "vi": "Cô ấy chắc chắn đã làm cho sự hiện diện của cô ấy cảm thấy trong phòng họp."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "not to feel as well or lively as usual",
+                    "vi": "không cảm thấy tốt hoặc sống động như bình thường"
+                },
+                "examples": [
+                    {
+                        "en": "I’m not feeling up to the mark at the moment.",
+                        "vi": "Tôi không cảm thấy đạt đến điểm vào lúc này."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to not feel healthy and well",
+                    "vi": "không cảm thấy khỏe mạnh và khỏe mạnh"
+                },
+                "examples": [
+                    {
+                        "en": "I’m not quite feeling myself today.",
+                        "vi": "Tôi không hoàn toàn cảm thấy mình hôm nay."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f285eba78fde4629b87687767685ca0a",
+        "word": "feeling",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˈfiːlɪŋ/",
+            "us": "/ˈfiːlɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "feel for",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "feel-good",
+                "pos": "adjective"
+            },
+            {
+                "word": "feeling",
+                "pos": "noun"
+            },
+            {
+                "word": "feelingly",
+                "pos": "adverb"
+            },
+            {
+                "word": "feel up",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "something that you feel through the mind or through the senses",
+                    "vi": "một cái gì đó mà bạn cảm nhận được thông qua tâm trí hoặc thông qua các giác quan"
+                },
+                "examples": [
+                    {
+                        "en": "a feeling of something a feeling of guilt/helplessness/anger/sadness",
+                        "vi": "cảm giác gì đó cảm giác tội lỗi / bất lực / tức giận / buồn bã"
+                    },
+                    {
+                        "en": "He struggled with feelings of isolation and loneliness.",
+                        "vi": "Anh phải vật lộn với cảm giác bị cô lập và cô đơn."
+                    },
+                    {
+                        "en": "You might experience feelings of dizziness and nausea.",
+                        "vi": "Bạn có thể cảm thấy chóng mặt và buồn nôn."
+                    },
+                    {
+                        "en": "a strange/horrible feeling",
+                        "vi": "một cảm giác kỳ lạ / kinh khủng"
+                    },
+                    {
+                        "en": "You need to stop having these guilty feelings.",
+                        "vi": "Bạn cần phải ngừng có những cảm giác tội lỗi này."
+                    },
+                    {
+                        "en": "I've got a tight feeling in my stomach.",
+                        "vi": "Tôi có một cảm giác thắt chặt trong dạ dày của tôi."
+                    },
+                    {
+                        "en": "(informal) ‘I really resent the way he treated me.’ ‘I know the feeling (= I know how you feel).’",
+                        "vi": "(thân mật) 'Tôi thực sự phẫn nộ với cách anh ấy đối xử với tôi.' 'I know the feel (= Tôi biết bạn cảm thấy thế nào).'"
+                    },
+                    {
+                        "en": "‘I'm going to miss you.’ ‘The feeling's mutual (= I feel exactly the same).’",
+                        "vi": "Tôi sẽ nhớ bạn.' 'Cảm giác là lẫn nhau (= Tôi cảm thấy hoàn toàn giống nhau).'"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person’s emotions rather than their thoughts or ideas",
+                    "vi": "cảm xúc của một người hơn là suy nghĩ hoặc ý tưởng của họ"
+                },
+                "examples": [
+                    {
+                        "en": "He hates talking about his feelings.",
+                        "vi": "Anh ấy ghét nói về cảm xúc của mình."
+                    },
+                    {
+                        "en": "to express/share your feelings",
+                        "vi": "để bày tỏ / chia sẻ cảm xúc của bạn"
+                    },
+                    {
+                        "en": "People's words often hide their true feelings.",
+                        "vi": "Lời nói của mọi người thường che giấu cảm xúc thật của họ."
+                    },
+                    {
+                        "en": "Talk to someone about your thoughts and feelings.",
+                        "vi": "Nói chuyện với ai đó về những suy nghĩ và cảm xúc của bạn."
+                    },
+                    {
+                        "en": "I didn't mean to hurt your feelings (= offend you).",
+                        "vi": "Tôi không cố ý làm tổn thương cảm xúc của bạn (= xúc phạm bạn)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "strong emotion",
+                    "vi": "cảm xúc mạnh mẽ"
+                },
+                "examples": [
+                    {
+                        "en": "Feeling runs deep (= people feel strongly) on this issue.",
+                        "vi": "Cảm thấy rất sâu sắc (= mọi người cảm thấy mạnh mẽ) về vấn đề này."
+                    },
+                    {
+                        "en": "feeling about something the depth/strength of feeling about an issue",
+                        "vi": "cảm nhận về điều gì đó độ sâu / độ mạnh của cảm giác về một vấn đề"
+                    },
+                    {
+                        "en": "with feeling She spoke with feeling about the plight of the homeless.",
+                        "vi": "với cảm xúc Cô ấy nói với cảm xúc về hoàn cảnh của những người vô gia cư."
+                    },
+                    {
+                        "en": "The debate aroused strong feelings on both sides.",
+                        "vi": "Cuộc tranh luận đã khơi dậy tình cảm mạnh mẽ của cả hai bên."
+                    },
+                    {
+                        "en": "Feelings are running high (= people are very angry or excited).",
+                        "vi": "Cảm xúc đang dâng cao (= mọi người rất tức giận hoặc phấn khích)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an attitude or opinion about something",
+                    "vi": "một thái độ hoặc quan điểm về một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "The general feeling was against the decision.",
+                        "vi": "Cảm giác chung là chống lại quyết định."
+                    },
+                    {
+                        "en": "My own feeling is that we should buy the cheaper one.",
+                        "vi": "Cảm nhận của riêng tôi là chúng ta nên mua cái rẻ hơn."
+                    },
+                    {
+                        "en": "Public feeling is being ignored by the government.",
+                        "vi": "Cảm giác của công chúng đang bị chính phủ phớt lờ."
+                    },
+                    {
+                        "en": "feeling about something I don't have any strong feelings about it one way or the other.",
+                        "vi": "cảm giác về điều gì đó Tôi không có bất kỳ cảm xúc mạnh mẽ nào về nó theo cách này hay cách khác."
+                    },
+                    {
+                        "en": "She had mixed feelings about giving up her job.",
+                        "vi": "Cô đã có những cảm xúc lẫn lộn về việc từ bỏ công việc của mình."
+                    },
+                    {
+                        "en": "feeling on something You know my feelings on this.",
+                        "vi": "cảm thấy về một cái gì đó Bạn biết cảm giác của tôi về điều này."
+                    },
+                    {
+                        "en": "feeling towards/toward somebody/something his complicated feelings towards his classmates",
+                        "vi": "cảm giác đối với / đối với ai đó / điều gì đó cảm xúc phức tạp của anh ấy đối với các bạn cùng lớp của mình"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the idea or belief that a particular thing is true or a particular situation is likely to happen",
+                    "vi": "ý tưởng hoặc niềm tin rằng một điều cụ thể là đúng hoặc một tình huống cụ thể có khả năng xảy ra"
+                },
+                "examples": [
+                    {
+                        "en": "Our gut feeling tells us that this will work.",
+                        "vi": "Cảm giác ruột của chúng ta cho chúng ta biết rằng điều này sẽ hiệu quả."
+                    },
+                    {
+                        "en": "feeling (that)… I got the feeling he didn't like me much.",
+                        "vi": "cảm giác (điều đó)… Tôi có cảm giác anh ấy không thích tôi cho lắm."
+                    },
+                    {
+                        "en": "I had this nagging feeling that I had forgotten something.",
+                        "vi": "Tôi đã có cảm giác khó chịu này rằng tôi đã quên một cái gì đó."
+                    },
+                    {
+                        "en": "feeling of (doing) something He suddenly had the feeling of being followed.",
+                        "vi": "cảm giác (làm) điều gì đó Anh đột nhiên có cảm giác bị theo dõi."
+                    },
+                    {
+                        "en": "feeling about something I have a bad feeling about this (= I have the impression it is not going to go well).",
+                        "vi": "cảm thấy về điều gì đó Tôi có cảm giác tồi tệ về điều này (= Tôi có ấn tượng rằng nó sẽ không diễn ra tốt đẹp)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "sympathy or love for somebody/something",
+                    "vi": "cảm thông hoặc tình yêu cho ai đó / cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "He never told her his feelings.",
+                        "vi": "Anh chưa bao giờ nói cho cô biết tình cảm của mình."
+                    },
+                    {
+                        "en": "feeling for somebody/something You have no feeling for the sufferings of others.",
+                        "vi": "cảm giác cho ai đó / cái gì đó Bạn không có cảm giác gì với những đau khổ của người khác."
+                    },
+                    {
+                        "en": "I still have feelings for her (= feel attracted to her in a romantic way).",
+                        "vi": "Tôi vẫn còn tình cảm với cô ấy (= cảm thấy bị thu hút bởi cô ấy một cách lãng mạn)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the ability to feel physically",
+                    "vi": "khả năng cảm nhận về thể chất"
+                },
+                "examples": [
+                    {
+                        "en": "I've lost all feeling in my legs.",
+                        "vi": "Tôi mất hết cảm giác ở chân."
+                    },
+                    {
+                        "en": "Feeling gradually began to return to my frozen feet.",
+                        "vi": "Cảm giác dần dần bắt đầu trở lại với đôi chân đông cứng của tôi."
+                    },
+                    {
+                        "en": "Will she ever get the feeling back in her fingers?",
+                        "vi": "Liệu cô ấy có bao giờ lấy lại được cảm giác trên những ngón tay của mình không?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the ability to understand somebody/something or to do something in a sensitive way",
+                    "vi": "khả năng hiểu ai đó / điều gì đó hoặc làm điều gì đó một cách nhạy cảm"
+                },
+                "examples": [
+                    {
+                        "en": "He played the piano with great feeling.",
+                        "vi": "Anh ấy chơi piano với cảm giác tuyệt vời."
+                    },
+                    {
+                        "en": "feeling for somebody/something She has a wonderful feeling for colour.",
+                        "vi": "cảm giác cho ai đó / cái gì đó Cô ấy có cảm giác tuyệt vời với màu sắc."
+                    },
+                    {
+                        "en": "He had developed a feeling for when not to disturb her.",
+                        "vi": "Anh đã nảy sinh cảm giác khi nào không nên làm phiền cô."
+                    },
+                    {
+                        "en": "feeling of something He had great design sense, and a great feeling of proportion.",
+                        "vi": "cảm giác về thứ gì đó Anh ấy có óc thiết kế tuyệt vời và cảm giác cân đối tuyệt vời."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the atmosphere of a place, situation, etc.",
+                    "vi": "bầu không khí của một địa điểm, tình huống, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "They have managed to recreate the feeling of the original theatre.",
+                        "vi": "Họ đã cố gắng tạo lại cảm giác của nhà hát ban đầu."
+                    },
+                    {
+                        "en": "The house had a feeling of neglect about it.",
+                        "vi": "Căn nhà có cảm giác bị bỏ mặc về nó."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "anger between people, especially after an argument",
+                    "vi": "giận dữ giữa mọi người, đặc biệt là sau một cuộc tranh cãi"
+                },
+                "examples": [
+                    {
+                        "en": "There was a lot of bad feeling between the two groups of students.",
+                        "vi": "Có rất nhiều cảm giác tồi tệ giữa hai nhóm học sinh."
+                    },
+                    {
+                        "en": "I don't want any bad feelings between us.",
+                        "vi": "Tôi không muốn có bất kỳ cảm giác tồi tệ nào giữa chúng tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used after you have been arguing with somebody or have beaten them in a contest but you would still like to be friendly with them",
+                    "vi": "được sử dụng sau khi bạn đã tranh cãi với ai đó hoặc đã đánh bại họ trong một cuộc thi nhưng bạn vẫn muốn thân thiện với họ"
+                },
+                "examples": [
+                    {
+                        "en": "It looks like I'm the winner again. No hard feelings, Dave, eh?",
+                        "vi": "Có vẻ như tôi lại là người chiến thắng. Không có cảm giác khó khăn, Dave, eh?"
+                    },
+                    {
+                        "en": "Someone has to lose. No hard feelings, eh?",
+                        "vi": "Có người phải mất. Không có cảm giác khó khăn, hả?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an unpleasant feeling that you get when you realize that something bad has happened or is going to happen",
+                    "vi": "một cảm giác khó chịu mà bạn nhận được khi bạn nhận ra rằng điều gì đó tồi tệ đã xảy ra hoặc sắp xảy ra"
+                },
+                "examples": [
+                    {
+                        "en": "I had a horrible sinking feeling when I saw the ambulance outside the house.",
+                        "vi": "Tôi có cảm giác chìm đắm khủng khiếp khi nhìn thấy xe cấp cứu bên ngoài ngôi nhà."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be careful not to do or say anything that might upset somebody",
+                    "vi": "cẩn thận để không làm hoặc nói bất cứ điều gì có thể làm ai đó buồn"
+                },
+                "examples": [
+                    {
+                        "en": "I kept off the subject of divorce so as to spare her feelings.",
+                        "vi": "Tôi đã tránh xa chủ đề ly hôn để phụ tình cảm của cô ấy."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6c85296cad0342f5b83f8983c44bfc17",
+        "word": "emotion",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ɪˈməʊʃn/",
+            "us": "/ɪˈməʊʃn/"
+        },
+        "nearby": [
+            {
+                "word": "emote",
+                "pos": "verb"
+            },
+            {
+                "word": "emoticon",
+                "pos": "noun"
+            },
+            {
+                "word": "emotion",
+                "pos": "noun"
+            },
+            {
+                "word": "emotional",
+                "pos": "adjective"
+            },
+            {
+                "word": "emotional intelligence",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a strong feeling such as love, fear or anger; the part of a person’s character that consists of feelings",
+                    "vi": "một cảm giác mạnh như yêu, sợ hãi hoặc tức giận; phần tính cách của một người bao gồm cảm xúc"
+                },
+                "examples": [
+                    {
+                        "en": "to show/express your emotions",
+                        "vi": "thể hiện / thể hiện cảm xúc của bạn"
+                    },
+                    {
+                        "en": "They expressed mixed emotions at the news.",
+                        "vi": "Họ bày tỏ nhiều cảm xúc lẫn lộn khi biết tin."
+                    },
+                    {
+                        "en": "Counselling can teach people to handle negative emotions such as fear and anger.",
+                        "vi": "Tư vấn có thể dạy mọi người xử lý những cảm xúc tiêu cực như sợ hãi và tức giận."
+                    },
+                    {
+                        "en": "Fear is a normal human emotion.",
+                        "vi": "Sợ hãi là một cảm xúc bình thường của con người."
+                    },
+                    {
+                        "en": "This documentary manages to capture the raw emotions of life at the tough end.",
+                        "vi": "Bộ phim tài liệu này cố gắng ghi lại những cảm xúc thô sơ của cuộc sống ở giai đoạn cuối khó khăn."
+                    },
+                    {
+                        "en": "Emotions are running high (= people are feeling very excited, angry, etc.).",
+                        "vi": "Cảm xúc đang tăng cao (= mọi người đang cảm thấy rất phấn khích, tức giận, v.v.)."
+                    },
+                    {
+                        "en": "She showed no emotion at the verdict.",
+                        "vi": "Cô không biểu lộ cảm xúc trước phán quyết."
+                    },
+                    {
+                        "en": "The decision was based on emotion rather than rational thought.",
+                        "vi": "Quyết định dựa trên cảm xúc hơn là suy nghĩ lý trí."
+                    },
+                    {
+                        "en": "Mary was overcome with emotion.",
+                        "vi": "Mary đã vô cùng xúc động."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e9b921a0580a48bfb7064ddcc0ac6ffb",
+        "word": "emotional",
+        "pos": "adjective",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ɪˈməʊʃənl/",
+            "us": "/ɪˈməʊʃənl/"
+        },
+        "nearby": [
+            {
+                "word": "emoticon",
+                "pos": "noun"
+            },
+            {
+                "word": "emotion",
+                "pos": "noun"
+            },
+            {
+                "word": "emotional",
+                "pos": "adjective"
+            },
+            {
+                "word": "emotional intelligence",
+                "pos": "noun"
+            },
+            {
+                "word": "emotionally",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "connected with people’s feelings (= with the emotions)",
+                    "vi": "kết nối với cảm xúc của mọi người (= với cảm xúc)"
+                },
+                "examples": [
+                    {
+                        "en": "emotional problems/stress",
+                        "vi": "vấn đề cảm xúc / căng thẳng"
+                    },
+                    {
+                        "en": "The emotional impact of the film is powerful and lasting.",
+                        "vi": "Tác động cảm xúc của bộ phim rất mạnh mẽ và lâu dài."
+                    },
+                    {
+                        "en": "He clearly feels an emotional connection to the place.",
+                        "vi": "Anh ấy cảm thấy rõ ràng một mối liên hệ cảm xúc với nơi này."
+                    },
+                    {
+                        "en": "a child’s emotional and intellectual development",
+                        "vi": "sự phát triển cảm xúc và trí tuệ của một đứa trẻ"
+                    },
+                    {
+                        "en": "Mothers are often the ones who provide emotional support for the family.",
+                        "vi": "Mẹ thường là người hỗ trợ tinh thần cho gia đình."
+                    },
+                    {
+                        "en": "Physical and emotional well-being are inextricably linked.",
+                        "vi": "Sức khỏe thể chất và tình cảm có mối liên hệ chặt chẽ với nhau."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "causing people to feel strong emotions",
+                    "vi": "gây cho người ta những cảm xúc mạnh mẽ"
+                },
+                "examples": [
+                    {
+                        "en": "emotional language",
+                        "vi": "ngôn ngữ tình cảm"
+                    },
+                    {
+                        "en": "abortion and other emotional issues",
+                        "vi": "phá thai và các vấn đề tình cảm khác"
+                    },
+                    {
+                        "en": "emotional for somebody The anniversary of the accident was very emotional for him.",
+                        "vi": "xúc động cho ai đó Kỷ niệm vụ tai nạn rất xúc động đối với anh ấy."
+                    },
+                    {
+                        "en": "It was obviously an emotional moment for everyone involved.",
+                        "vi": "Đó rõ ràng là một khoảnh khắc xúc động cho tất cả mọi người tham gia."
+                    },
+                    {
+                        "en": "This is a very emotional time for me.",
+                        "vi": "Đây là khoảng thời gian rất xúc động đối với tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "showing strong emotions, sometimes in a way that other people think is unnecessary",
+                    "vi": "thể hiện cảm xúc mạnh mẽ, đôi khi theo cách mà người khác nghĩ là không cần thiết"
+                },
+                "examples": [
+                    {
+                        "en": "an emotional response/reaction",
+                        "vi": "một phản ứng / phản ứng cảm xúc"
+                    },
+                    {
+                        "en": "She was in a very emotional state.",
+                        "vi": "Cô ấy đang ở trong một trạng thái rất xúc động."
+                    },
+                    {
+                        "en": "He tends to get emotional on these occasions.",
+                        "vi": "Anh ấy có xu hướng xúc động vào những dịp này."
+                    },
+                    {
+                        "en": "They made an emotional appeal for help.",
+                        "vi": "Họ đã thực hiện một lời kêu gọi đầy cảm xúc để được giúp đỡ."
+                    },
+                    {
+                        "en": "emotional about something Don't be so emotional about everything!",
+                        "vi": "cảm xúc về điều gì đó Đừng quá xúc động về mọi thứ!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "58c3e02519e145609fbe75792b584880",
+        "word": "channel",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈtʃænl/",
+            "us": "/ˈtʃænl/"
+        },
+        "nearby": [
+            {
+                "word": "Channel 4",
+                "pos": ""
+            },
+            {
+                "word": "Channel 5",
+                "pos": ""
+            },
+            {
+                "word": "channel",
+                "pos": "noun"
+            },
+            {
+                "word": "channel",
+                "pos": "verb"
+            },
+            {
+                "word": "channel-hop",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a television station",
+                    "vi": "một đài truyền hình"
+                },
+                "examples": [
+                    {
+                        "en": "a television/TV channel",
+                        "vi": "một kênh truyền hình / TV"
+                    },
+                    {
+                        "en": "cable/digital/satellite channels",
+                        "vi": "các kênh truyền hình cáp / kỹ thuật số / vệ tinh"
+                    },
+                    {
+                        "en": "a news channel",
+                        "vi": "một kênh tin tức"
+                    },
+                    {
+                        "en": "a music/sports/movie channel",
+                        "vi": "kênh âm nhạc / thể thao / phim"
+                    },
+                    {
+                        "en": "to change/switch channels",
+                        "vi": "để thay đổi / chuyển kênh"
+                    },
+                    {
+                        "en": "on a channel What's on Channel 4 tonight?",
+                        "vi": "trên kênh Có gì trên Kênh 4 tối nay?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a band of radio waves used for making television or radio broadcasts",
+                    "vi": "một dải sóng vô tuyến được sử dụng để phát sóng truyền hình hoặc đài phát thanh"
+                },
+                "examples": [
+                    {
+                        "en": "radio channels",
+                        "vi": "kênh radio"
+                    },
+                    {
+                        "en": "terrestrial/satellite channels",
+                        "vi": "kênh mặt đất / vệ tinh"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a method or system that people use to get information, to communicate, or to send something somewhere",
+                    "vi": "một phương pháp hoặc hệ thống mà mọi người sử dụng để lấy thông tin, giao tiếp hoặc gửi thứ gì đó đến một nơi nào đó"
+                },
+                "examples": [
+                    {
+                        "en": "Complaints must be made through the proper channels.",
+                        "vi": "Khiếu nại phải được thực hiện thông qua các kênh thích hợp."
+                    },
+                    {
+                        "en": "The newsletter is a useful channel of communication between teacher and students.",
+                        "vi": "Bản tin là một kênh giao tiếp hữu ích giữa giáo viên và học sinh."
+                    },
+                    {
+                        "en": "The company has worldwide distribution channels.",
+                        "vi": "Công ty có các kênh phân phối rộng khắp thế giới."
+                    },
+                    {
+                        "en": "Steps are being taken to implement a ceasefire through diplomatic channels.",
+                        "vi": "Các bước đang được thực hiện để thực hiện lệnh ngừng bắn thông qua các kênh ngoại giao."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a means by which data is communicated and exchanged between elements of a computer system or other system",
+                    "vi": "một phương tiện mà dữ liệu được giao tiếp và trao đổi giữa các phần tử của hệ thống máy tính hoặc hệ thống khác"
+                },
+                "examples": [
+                    {
+                        "en": "an audio channel",
+                        "vi": "một kênh âm thanh"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a way of expressing ideas and feelings",
+                    "vi": "một cách thể hiện ý tưởng và cảm xúc"
+                },
+                "examples": [
+                    {
+                        "en": "The campaign provided a channel for protest against the war.",
+                        "vi": "Chiến dịch đã tạo ra một kênh để phản đối chiến tranh."
+                    },
+                    {
+                        "en": "Music is a great channel for releasing your emotions.",
+                        "vi": "Âm nhạc là một kênh tuyệt vời để bạn giải tỏa cảm xúc."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a passage that water can flow along, especially in the ground, on the bottom of a river, etc.",
+                    "vi": "một lối đi mà nước có thể chảy dọc theo, đặc biệt là trong lòng đất, dưới đáy sông, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "drainage channels in the rice fields",
+                        "vi": "kênh thoát nước trong ruộng lúa"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a deep passage of water in a river or near the coast that can be used as route for ships",
+                    "vi": "một đoạn nước sâu trong sông hoặc gần bờ biển có thể được sử dụng làm tuyến đường cho tàu bè"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a passage of water that connects two areas of water, especially two seas",
+                    "vi": "một dòng nước nối liền hai vùng nước, đặc biệt là hai vùng biển"
+                },
+                "examples": [
+                    {
+                        "en": "the Bristol Channel",
+                        "vi": "kênh Bristol"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the area of sea between England and France, also known as the English Channel",
+                    "vi": "khu vực biển giữa Anh và Pháp, còn được gọi là eo biển Anh"
+                },
+                "examples": [
+                    {
+                        "en": "the Channel Tunnel",
+                        "vi": "đường hầm kênh"
+                    },
+                    {
+                        "en": "cross-Channel ferries",
+                        "vi": "phà xuyên kênh"
+                    },
+                    {
+                        "en": "across the Channel news from across the Channel (= from France)",
+                        "vi": "tin tức trên Kênh từ khắp Kênh (= từ Pháp)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9d5af21b55e74baebb61269047fa498f",
+        "word": "sentiment",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈsentɪmənt/",
+            "us": "/ˈsentɪmənt/"
+        },
+        "nearby": [
+            {
+                "word": "sententiously",
+                "pos": "adverb"
+            },
+            {
+                "word": "sentient",
+                "pos": "adjective"
+            },
+            {
+                "word": "sentiment",
+                "pos": "noun"
+            },
+            {
+                "word": "sentimental",
+                "pos": "adjective"
+            },
+            {
+                "word": "sentimentalist",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a feeling or an opinion, especially one based on emotions",
+                    "vi": "một cảm giác hoặc một ý kiến, đặc biệt là một ý kiến dựa trên cảm xúc"
+                },
+                "examples": [
+                    {
+                        "en": "the spread of nationalist sentiments",
+                        "vi": "sự lan tỏa của tình cảm dân tộc chủ nghĩa"
+                    },
+                    {
+                        "en": "This is a sentiment I wholeheartedly agree with.",
+                        "vi": "Đây là một tình cảm mà tôi hết lòng đồng ý."
+                    },
+                    {
+                        "en": "Public sentiment is against any change to the law.",
+                        "vi": "Tình cảm của công chúng chống lại bất kỳ sự thay đổi nào đối với luật pháp."
+                    },
+                    {
+                        "en": "My sentiments exactly! (= I agree)",
+                        "vi": "Tình cảm của tôi chính xác! (= Tôi đồng ý)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "feelings of sympathy, romantic love, being sad, etc. which may be too strong or not appropriate",
+                    "vi": "cảm giác đồng cảm, tình yêu lãng mạn, buồn bã, v.v. có thể quá mạnh hoặc không phù hợp"
+                },
+                "examples": [
+                    {
+                        "en": "There was no fatherly affection, no display of sentiment.",
+                        "vi": "Không có tình phụ tử, không có biểu hiện của tình cảm."
+                    },
+                    {
+                        "en": "There is no room for sentiment in business.",
+                        "vi": "Không có chỗ cho tình cảm trong kinh doanh."
+                    },
+                    {
+                        "en": "The new movie is to be applauded for refusing to drift into mawkish sentiment.",
+                        "vi": "Bộ phim mới sẽ được hoan nghênh vì đã từ chối để trôi vào tình cảm hỗn loạn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "061b199559194ac38d6238035b6e3659",
+        "word": "rouse",
+        "pos": "verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/raʊz/",
+            "us": "/raʊz/"
+        },
+        "nearby": [
+            {
+                "word": "round window",
+                "pos": "noun"
+            },
+            {
+                "word": "roundworm",
+                "pos": "noun"
+            },
+            {
+                "word": "rouse",
+                "pos": "verb"
+            },
+            {
+                "word": "rousing",
+                "pos": "adjective"
+            },
+            {
+                "word": "roust",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to wake somebody up, especially when they are sleeping deeply",
+                    "vi": "để đánh thức ai đó, đặc biệt là khi họ đang ngủ sâu"
+                },
+                "examples": [
+                    {
+                        "en": "rouse somebody from sleep/bed The telephone roused me from my sleep at 6  a.m.",
+                        "vi": "đánh thức ai đó khỏi giấc ngủ / giường Điện thoại đánh thức tôi khỏi giấc ngủ lúc 6 giờ sáng"
+                    },
+                    {
+                        "en": "He came to the door, evidently just roused from his bed.",
+                        "vi": "Anh ta đến cửa, rõ ràng là vừa mới tỉnh dậy từ trên giường."
+                    },
+                    {
+                        "en": "rouse somebody Nicky roused her with a gentle nudge.",
+                        "vi": "đánh thức ai đó Nicky đánh thức cô ấy bằng một cú huých nhẹ nhàng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make somebody want to start doing something when they were not active or interested in doing it",
+                    "vi": "để khiến ai đó muốn bắt đầu làm điều gì đó khi họ không hoạt động hoặc không quan tâm đến việc đó"
+                },
+                "examples": [
+                    {
+                        "en": "rouse somebody/yourself (to something) A lot of people were roused to action by the appeal.",
+                        "vi": "đánh thức ai đó / bản thân bạn (về điều gì đó) Rất nhiều người đã bị thôi thúc hành động bởi lời kêu gọi."
+                    },
+                    {
+                        "en": "rouse somebody/yourself to do something Richard couldn't rouse himself to say anything in reply.",
+                        "vi": "kêu gọi ai đó / chính bạn làm điều gì đó Richard không thể thúc đẩy bản thân để nói bất cứ điều gì đáp lại."
+                    },
+                    {
+                        "en": "rouse somebody from something We finally managed to rouse her from her lethargy.",
+                        "vi": "đánh thức ai đó khỏi điều gì đó Cuối cùng chúng tôi đã đánh thức được cô ấy khỏi cơn mê."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make somebody feel a particular emotion",
+                    "vi": "để làm cho ai đó cảm thấy một cảm xúc cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "to rouse somebody’s anger",
+                        "vi": "để khơi dậy sự tức giận của ai đó"
+                    },
+                    {
+                        "en": "What roused your suspicions (= what made you suspicious)?",
+                        "vi": "Điều gì đã làm dấy lên sự nghi ngờ của bạn (= điều gì khiến bạn nghi ngờ)?"
+                    },
+                    {
+                        "en": "She ran forward, roused to anger.",
+                        "vi": "Cô chạy về phía trước, nổi cơn thịnh nộ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make somebody angry, excited or full of emotion",
+                    "vi": "để làm cho ai đó tức giận, phấn khích hoặc đầy cảm xúc"
+                },
+                "examples": [
+                    {
+                        "en": "be roused Chris is not easily roused.",
+                        "vi": "được khuấy động Chris không dễ bị kích động."
+                    },
+                    {
+                        "en": "When roused, he has a cruel tongue.",
+                        "vi": "Khi bị kích động, anh ta có một cái lưỡi độc ác."
+                    }
+                ]
+            }
+        ]
+    }
+]

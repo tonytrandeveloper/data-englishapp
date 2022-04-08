@@ -1,0 +1,132 @@
+{
+    "id": "d386b7a460a34ae5b31c2ed11bd50f95",
+    "title": "Active and Passive Voice Quiz",
+    "exercises": [
+        {
+            "id": "69490addf999489589ffa3561238558b",
+            "title": "Active and passive voice quiz",
+            "questions": [
+                {
+                    "question": "His command .................................",
+                    "description": "We use the passive voice when we want to talk about an action, but are not interested in saying who/what does/did it.",
+                    "answers": [
+                        "promptly obeyed",
+                        "was promptly obeyed",
+                        "has promptly obeyed"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "That portrait ................................. by my grandmother.",
+                    "description": "Passive voice is used when the subject is not the doer of the action.",
+                    "answers": [
+                        "painted",
+                        "has painted",
+                        "was painted"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "They .................................... to the party.",
+                    "description": "We use the passive voice, when the subject is not the doer of the action.",
+                    "answers": [
+                        "have invited",
+                        "have been invited",
+                        "have been inviting"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "You ............................... when the time comes.",
+                    "description": "",
+                    "answers": [
+                        "will be told",
+                        "told",
+                        "will told"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Everybody ............................ with me.",
+                    "description": "Active voice is used when the subject is the doer of the action.",
+                    "answers": [
+                        "agrees",
+                        "is agrees",
+                        "is agreed"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "I was very ................................ in the lesson.",
+                    "description": "",
+                    "answers": [
+                        "interest",
+                        "interesting",
+                        "interested"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "The dog ............................... the man.",
+                    "description": "Use the active voice when the subject performs the action.",
+                    "answers": [
+                        "bit",
+                        "was bit",
+                        "was bitten"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "He ............................ a very remarkable discovery.",
+                    "description": "The active voice is used when the subject performs the action mentioned in the sentence. ",
+                    "answers": [
+                        "is made",
+                        "made",
+                        "was made"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "The accused ........................... to a tree.",
+                    "description": "The accused did not perform the action. Something was done to him so we need a passive voice here. ",
+                    "answers": [
+                        "bind",
+                        "bound",
+                        "was bound"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "She ................................ the first prize in the competition.",
+                    "description": "Since there is no time reference, both simple past and present perfect tense are possible here. ",
+                    "answers": [
+                        "won",
+                        "has won",
+                        "was won"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "The ocean .................................... dry.",
+                    "description": "The ocean does not perform any action here so a passive verb is required. ",
+                    "answers": [
+                        "cannot pump",
+                        "cannot be pumped",
+                        "cannot have pumped"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "I ..................................... to leave the room.",
+                    "description": "When the verb 'tell' is used in the active voice, it is followed by an object. Since there is no object in this sentence, it is evident that the structure is passive. ",
+                    "answers": [
+                        "told",
+                        "have told",
+                        "was told"
+                    ],
+                    "correct": 2
+                }
+            ]
+        }
+    ]
+}

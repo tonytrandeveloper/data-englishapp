@@ -1,0 +1,77 @@
+{
+    "id": "8af862c996b84a9688dad9a8e8223c5f",
+    "title": "Telephone",
+    "questions": [
+        {
+            "id": "a363c03b115f493aaec4f8e6305bc095",
+            "text": "Hello?",
+            "items": [
+                "Hello?"
+            ]
+        },
+        {
+            "id": "ee384bbe5bc849a1bfe748b49eef8e6a",
+            "text": "Hello, is Mary there?",
+            "items": [
+                "Hello,",
+                "is",
+                "Mary",
+                "there?"
+            ]
+        },
+        {
+            "id": "ae9ca9c8a5374d84b8b5efce2f379ba3",
+            "text": "I'm sorry, you have the wrong number.",
+            "items": [
+                "I'm",
+                "sorry,",
+                "you",
+                "have",
+                "the",
+                "wrong",
+                "number."
+            ]
+        },
+        {
+            "id": "93475acb8766451492453c1c9fee334e",
+            "text": "Oh... is this 685-5290?",
+            "items": [
+                "Oh...",
+                "is",
+                "this",
+                [
+                    "685-5290?",
+                    "685 5290?"
+                ]
+            ]
+        },
+        {
+            "id": "0652017b8daa48d58f9f5ea175b20373",
+            "text": "No, it's not.",
+            "items": [
+                "No,",
+                "it's",
+                "not."
+            ]
+        },
+        {
+            "id": "240ac10fdb484c97839d41c19ef0d97b",
+            "text": "I'm sorry.",
+            "items": [
+                "I'm",
+                "sorry."
+            ]
+        },
+        {
+            "id": "940c306fdf4f4e1d950f04f61419823f",
+            "text": "That's OK.",
+            "items": [
+                "That's",
+                [
+                    "OK.",
+                    "okay"
+                ]
+            ]
+        }
+    ]
+}

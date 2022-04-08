@@ -1,0 +1,130 @@
+{
+    "id": "5c2ee6797228464da9b36d0b773b6218",
+    "title": "Tag Questions",
+    "exercises": [
+        {
+            "id": "2cef02dae01e44a78800189e345c4eff",
+            "title": "Tag Questions",
+            "questions": [
+                {
+                    "question": "He drinks a lot, ………………………?",
+                    "description": "If the main verb does not have an auxiliary verb, the question tag uses do, does or did. ",
+                    "answers": [
+                        "does he",
+                        "doesn't he",
+                        "hasn't he"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "They arrived in the morning, …………………………?",
+                    "description": "If the main verb does not have an auxiliary verb, the question tag uses do, does or did. ",
+                    "answers": [
+                        "did they",
+                        "didn't they",
+                        "hadn't they"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "The water isn’t salty, ……………………………?",
+                    "description": "If the main verb has an auxiliary, it is repeated in the question tag.",
+                    "answers": [
+                        "is it",
+                        "isn't it",
+                        "was it"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Mini lives in Singapore, ……………………………..?",
+                    "description": "If the main verb does not have an auxiliary verb, the question tag uses do, does or did. ",
+                    "answers": [
+                        "does she",
+                        "doesn't she",
+                        "isn't she"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "She won the first prize, ………………………….?",
+                    "description": "If the main verb does not have an auxiliary verb, the question tag uses do, does or did. ",
+                    "answers": [
+                        "did she",
+                        "didn't she",
+                        "doesn't she"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "She has no job, …………………………….?",
+                    "description": "A non-negative tag is used after a negative statement. ",
+                    "answers": [
+                        "has she",
+                        "hasn't she",
+                        "doesn't she"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "She recognized him at once, ………………………….?",
+                    "description": "",
+                    "answers": [
+                        "did she",
+                        "didn't she",
+                        "hadn't she"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "You believe in God, ……………………………..?",
+                    "description": "",
+                    "answers": [
+                        "do you",
+                        "don't you",
+                        "did you"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Let’s take some rest, ……………………………..?",
+                    "description": "Shall we is used in tag questions after let's. ",
+                    "answers": [
+                        "will we",
+                        "shall we",
+                        "should we"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "A few students wrote the answer, ………………………..?",
+                    "description": "A few has a positive meaning and hence a negative tag is used with it. ",
+                    "answers": [
+                        "did they",
+                        "didn't they"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Few people attended the meeting, ……………………………..?",
+                    "description": "Few has a negative meaning. Non-negative tags are used after negative statements. ",
+                    "answers": [
+                        "did they",
+                        "didn't they"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "She paid for the drinks, ………………………………..?",
+                    "description": "Negative tags are used after affirmative statements.",
+                    "answers": [
+                        "did she",
+                        "didn't she",
+                        "hadn't she"
+                    ],
+                    "correct": 1
+                }
+            ]
+        }
+    ]
+}

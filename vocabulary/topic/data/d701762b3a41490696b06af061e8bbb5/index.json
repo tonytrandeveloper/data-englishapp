@@ -1,0 +1,2502 @@
+[
+    {
+        "id": "f74b78c26cdf4de6b5a6eb2e42cd32c3",
+        "word": "test",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/test/",
+            "us": "/test/"
+        },
+        "nearby": [
+            {
+                "word": "tessitura",
+                "pos": "noun"
+            },
+            {
+                "word": "Tess of the D'Urbervilles",
+                "pos": ""
+            },
+            {
+                "word": "test",
+                "pos": "noun"
+            },
+            {
+                "word": "test",
+                "pos": "verb"
+            },
+            {
+                "word": "testable",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an examination of somebody’s knowledge or ability, consisting of questions for them to answer or activities for them to perform",
+                    "vi": "kiểm tra kiến thức hoặc khả năng của ai đó, bao gồm các câu hỏi để họ trả lời hoặc các hoạt động để họ thực hiện"
+                },
+                "examples": [
+                    {
+                        "en": "an IQ/a fitness test",
+                        "vi": "IQ / kiểm tra thể chất"
+                    },
+                    {
+                        "en": "test on something a test on irregular verbs",
+                        "vi": "kiểm tra về một cái gì đó một bài kiểm tra về động từ bất quy tắc"
+                    },
+                    {
+                        "en": "test in something Students take standardized tests in English and maths.",
+                        "vi": "kiểm tra trong một cái gì đó Học sinh làm các bài kiểm tra tiêu chuẩn trong tiếng Anh và toán học."
+                    },
+                    {
+                        "en": "(British English also) to do a test",
+                        "vi": "(Anh cũng có tiếng Anh) để làm bài kiểm tra"
+                    },
+                    {
+                        "en": "to pass/fail a test",
+                        "vi": "vượt qua / thất bại một bài kiểm tra"
+                    },
+                    {
+                        "en": "in a test (British English) a good mark in the test",
+                        "vi": "trong một bài kiểm tra (tiếng Anh Anh), một điểm tốt trong bài kiểm tra"
+                    },
+                    {
+                        "en": "on a test (North American English) a good score on the test",
+                        "vi": "trong một bài kiểm tra (Tiếng Anh Bắc Mỹ), một điểm tốt trong bài kiểm tra"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a medical examination to discover what is wrong with you or to check the condition of your health",
+                    "vi": "khám sức khỏe để phát hiện ra bạn bị bệnh gì hoặc để kiểm tra tình trạng sức khỏe của bạn"
+                },
+                "examples": [
+                    {
+                        "en": "The hospital is doing some tests.",
+                        "vi": "Bệnh viện đang làm một số xét nghiệm."
+                    },
+                    {
+                        "en": "We'll need to perform a series of tests.",
+                        "vi": "Chúng tôi sẽ cần thực hiện một loạt các thử nghiệm."
+                    },
+                    {
+                        "en": "test for something screening tests for cancer",
+                        "vi": "kiểm tra một cái gì đó xét nghiệm sàng lọc ung thư"
+                    },
+                    {
+                        "en": "Three athletes were sent home after failing drugs tests.",
+                        "vi": "Ba vận động viên đã được cho về nhà sau khi thất bại trong các cuộc kiểm tra ma túy."
+                    },
+                    {
+                        "en": "The pregnancy test was positive.",
+                        "vi": "Kết quả thử thai cho kết quả dương tính."
+                    },
+                    {
+                        "en": "negative/positive test results",
+                        "vi": "kết quả xét nghiệm âm tính / dương tính"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an experiment to discover whether or how well something works, or to find out more information about it",
+                    "vi": "một thử nghiệm để khám phá xem một cái gì đó hoạt động tốt như thế nào hoặc để tìm hiểu thêm thông tin về nó"
+                },
+                "examples": [
+                    {
+                        "en": "the results of laboratory tests",
+                        "vi": "kết quả của các xét nghiệm trong phòng thí nghiệm"
+                    },
+                    {
+                        "en": "to conduct a nuclear test",
+                        "vi": "tiến hành một vụ thử hạt nhân"
+                    },
+                    {
+                        "en": "Tests have shown high levels of pollutants in the water.",
+                        "vi": "Các cuộc kiểm tra cho thấy hàm lượng chất ô nhiễm trong nước cao."
+                    },
+                    {
+                        "en": "I'll run a diagnostic test to determine why the server keeps crashing.",
+                        "vi": "Tôi sẽ chạy kiểm tra chẩn đoán để xác định lý do tại sao máy chủ liên tục gặp sự cố."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a situation or an event that shows how good, strong, etc. somebody/something is",
+                    "vi": "một tình huống hoặc một sự kiện cho thấy ai đó / điều gì đó tốt, mạnh mẽ như thế nào"
+                },
+                "examples": [
+                    {
+                        "en": "The local elections will be a good test of the government's popularity.",
+                        "vi": "Các cuộc bầu cử địa phương sẽ là một thử nghiệm tốt về sự phổ biến của chính phủ."
+                    },
+                    {
+                        "en": "He saw their separation as a test of the strength of their love.",
+                        "vi": "Anh xem cuộc chia ly của họ như một phép thử cho sức mạnh tình yêu của họ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a cricket or rugby match played between the teams of two different countries, usually as part of a series of matches on a tour",
+                    "vi": "một trận đấu cricket hoặc bóng bầu dục diễn ra giữa các đội của hai quốc gia khác nhau, thường là một phần của một loạt các trận đấu trong chuyến lưu diễn"
+                },
+                "examples": [
+                    {
+                        "en": "They played well in the first Test against South Africa.",
+                        "vi": "Họ đã chơi tốt trong bài kiểm tra đầu tiên với Nam Phi."
+                    },
+                    {
+                        "en": "He will be first choice for the opening test against the All Blacks.",
+                        "vi": "Anh ta sẽ là lựa chọn đầu tiên cho bài kiểm tra mở màn với All Blacks."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to put somebody/something in a situation that will show what their or its true qualities are",
+                    "vi": "đặt ai đó / điều gì đó vào một tình huống sẽ cho thấy phẩm chất thực sự của họ hoặc của nó là gì"
+                },
+                "examples": [
+                    {
+                        "en": "His theories have never really been put to the test.",
+                        "vi": "Các lý thuyết của ông chưa bao giờ thực sự được đưa vào thử nghiệm."
+                    },
+                    {
+                        "en": "The latest pay dispute has really put her management skills to the test.",
+                        "vi": "Vụ tranh chấp lương mới nhất đã thực sự khiến kỹ năng quản lý của cô ấy bị thử thách."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to prove to be good, popular, etc. over a long period of time",
+                    "vi": "để chứng minh là tốt, phổ biến, v.v. trong một thời gian dài"
+                },
+                "examples": [
+                    {
+                        "en": "Whether this new technology will stand the test of time remains to be seen.",
+                        "vi": "Liệu công nghệ mới này có đứng vững trước thử thách của thời gian hay không vẫn còn phải xem."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to teach students only what is necessary in order to pass a particular test, rather than help them develop a range of skills",
+                    "vi": "chỉ dạy học sinh những gì cần thiết để vượt qua một bài kiểm tra cụ thể, thay vì giúp họ phát triển một loạt các kỹ năng"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "e3b198c94cbb4bdd8ffa501554a15b0e",
+        "word": "test",
+        "pos": "verb",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/test/",
+            "us": "/test/"
+        },
+        "nearby": [
+            {
+                "word": "Tess of the D'Urbervilles",
+                "pos": ""
+            },
+            {
+                "word": "test",
+                "pos": "noun"
+            },
+            {
+                "word": "test",
+                "pos": "verb"
+            },
+            {
+                "word": "testable",
+                "pos": "adjective"
+            },
+            {
+                "word": "the Test Act",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to find out how much somebody knows, or what they can do by asking them questions or giving them activities to perform",
+                    "vi": "để tìm hiểu xem ai đó biết bao nhiêu hoặc họ có thể làm gì bằng cách đặt câu hỏi cho họ hoặc cung cấp cho họ các hoạt động để thực hiện"
+                },
+                "examples": [
+                    {
+                        "en": "test somebody Students will be tested at the end of each module.",
+                        "vi": "kiểm tra ai đó Học sinh sẽ được kiểm tra vào cuối mỗi học phần."
+                    },
+                    {
+                        "en": "test somebody on something Children are tested on core subjects at age 11.",
+                        "vi": "kiểm tra ai đó về điều gì Trẻ em được kiểm tra các môn học chính ở tuổi 11."
+                    },
+                    {
+                        "en": "test somebody in something We test all students in English and maths.",
+                        "vi": "kiểm tra ai đó trong điều gì đó Chúng tôi kiểm tra tất cả học sinh bằng tiếng Anh và toán."
+                    },
+                    {
+                        "en": "test something Applicants' skills, ability and knowledge are tested before job offers are made.",
+                        "vi": "kiểm tra điều gì đó Các kỹ năng, khả năng và kiến thức của ứng viên được kiểm tra trước khi đưa ra lời mời làm việc."
+                    },
+                    {
+                        "en": "We test your English before deciding which class to put you in.",
+                        "vi": "Chúng tôi kiểm tra trình độ tiếng Anh của bạn trước khi quyết định đưa bạn vào lớp nào."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to perform well/badly in a test of knowledge or ability",
+                    "vi": "thể hiện tốt / kém trong bài kiểm tra kiến thức hoặc khả năng"
+                },
+                "examples": [
+                    {
+                        "en": "students who tested well in reading",
+                        "vi": "học sinh thi đọc tốt"
+                    },
+                    {
+                        "en": "There are people who test well and people who don’t.",
+                        "vi": "Có những người thi tốt và những người không."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to examine the blood, a part of the body, etc. to find out what is wrong with a person, or to check the condition of their health",
+                    "vi": "để kiểm tra máu, một bộ phận của cơ thể, v.v. để tìm ra bệnh gì ở một người, hoặc kiểm tra tình trạng sức khỏe của họ"
+                },
+                "examples": [
+                    {
+                        "en": "test somebody/something to test somebody’s eyesight/hearing",
+                        "vi": "kiểm tra ai đó / cái gì đó để kiểm tra thị lực / thính giác của ai đó"
+                    },
+                    {
+                        "en": "test somebody/something for something The doctor tested him for hepatitis.",
+                        "vi": "kiểm tra ai đó / cái gì đó cho cái gì Bác sĩ đã kiểm tra anh ta về bệnh viêm gan."
+                    },
+                    {
+                        "en": "test + adj. (for something) She tested negative for HIV.",
+                        "vi": "kiểm tra + adj. (vì điều gì đó) Cô ấy đã xét nghiệm âm tính với HIV."
+                    },
+                    {
+                        "en": "Two athletes tested positive for steroids.",
+                        "vi": "Hai vận động viên xét nghiệm dương tính với steroid."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to use or try a machine, substance, idea, etc. to find out how well it works or to find out more information about it",
+                    "vi": "sử dụng hoặc thử một chiếc máy, chất liệu, ý tưởng, v.v. để tìm hiểu xem nó hoạt động tốt như thế nào hoặc để tìm hiểu thêm thông tin về nó"
+                },
+                "examples": [
+                    {
+                        "en": "test something Test your brakes regularly.",
+                        "vi": "kiểm tra một cái gì đó Kiểm tra phanh của bạn thường xuyên."
+                    },
+                    {
+                        "en": "The new system has been rigorously tested.",
+                        "vi": "Hệ thống mới đã được kiểm tra nghiêm ngặt."
+                    },
+                    {
+                        "en": "test something on somebody/something Our beauty products are not tested on animals.",
+                        "vi": "thử nghiệm cái gì đó trên ai đó / cái gì đó Sản phẩm làm đẹp của chúng tôi không được thử nghiệm trên động vật."
+                    },
+                    {
+                        "en": "test something out The chef uses his family to test out new ideas for the restaurant menu.",
+                        "vi": "thử nghiệm thứ gì đó Đầu bếp sử dụng gia đình của mình để thử nghiệm những ý tưởng mới cho thực đơn nhà hàng."
+                    },
+                    {
+                        "en": "They opened a single store in Europe to test out the market.",
+                        "vi": "Họ đã mở một cửa hàng duy nhất ở Châu Âu để thử nghiệm thị trường."
+                    },
+                    {
+                        "en": "test something for something The software has been tested for viruses.",
+                        "vi": "kiểm tra một cái gì đó cho một cái gì đó Phần mềm đã được kiểm tra vi rút."
+                    },
+                    {
+                        "en": "The water is regularly tested for purity.",
+                        "vi": "Nước thường xuyên được kiểm tra độ tinh khiết."
+                    },
+                    {
+                        "en": "test something against something Researchers are now testing the hypothesis against available data.",
+                        "vi": "Kiểm tra điều gì đó chống lại điều gì đó Các nhà nghiên cứu hiện đang kiểm tra giả thuyết dựa trên dữ liệu có sẵn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "(of a machine or product) to perform well/badly in a test of how well it works",
+                    "vi": "(của một máy hoặc sản phẩm) để hoạt động tốt / kém trong một bài kiểm tra xem nó hoạt động như thế nào"
+                },
+                "examples": [
+                    {
+                        "en": "The ad had tested badly with consumers.",
+                        "vi": "Quảng cáo đã thử nghiệm không tốt với người tiêu dùng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be difficult and therefore need all your strength, ability, etc.",
+                    "vi": "khó khăn và do đó cần tất cả sức lực, khả năng của bạn, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "The long climb tested our fitness and stamina.",
+                        "vi": "Cuộc leo núi dài đã kiểm tra thể lực và sức chịu đựng của chúng tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to find out what the situation is before doing something or making a decision",
+                    "vi": "để tìm hiểu tình hình trước khi làm điều gì đó hoặc đưa ra quyết định"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "that you have used or relied on in the past successfully",
+                    "vi": "mà bạn đã sử dụng hoặc dựa vào trong quá khứ thành công"
+                },
+                "examples": [
+                    {
+                        "en": "a tried and tested method for solving the problem",
+                        "vi": "một phương pháp đã thử và đã thử nghiệm để giải quyết vấn đề"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "197de4cf9e8642b992b52835d3b7a2e1",
+        "word": "blood test",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈblʌd test/",
+            "us": "/ˈblʌd test/"
+        },
+        "nearby": [
+            {
+                "word": "bloodsucking",
+                "pos": "adjective"
+            },
+            {
+                "word": "blood sugar",
+                "pos": "noun"
+            },
+            {
+                "word": "blood test",
+                "pos": "noun"
+            },
+            {
+                "word": "bloodthirsty",
+                "pos": "adjective"
+            },
+            {
+                "word": "blood transfusion",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an examination of a small amount of your blood by doctors in order to make judgements about your medical condition",
+                    "vi": "kiểm tra một lượng nhỏ máu của bạn bởi các bác sĩ để đưa ra phán đoán về tình trạng sức khỏe của bạn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "a16e15fcf6dd41a99ac2fa1c3146dcbd",
+        "word": "examine",
+        "pos": "verb",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ɪɡˈzæmɪn/",
+            "us": "/ɪɡˈzæmɪn/"
+        },
+        "nearby": [
+            {
+                "word": "exam",
+                "pos": "noun"
+            },
+            {
+                "word": "examination",
+                "pos": "noun"
+            },
+            {
+                "word": "examine",
+                "pos": "verb"
+            },
+            {
+                "word": "examinee",
+                "pos": "noun"
+            },
+            {
+                "word": "examiner",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to consider or study an idea, a subject, etc. very carefully",
+                    "vi": "xem xét hoặc nghiên cứu một ý tưởng, một chủ đề, v.v. rất cẩn thận"
+                },
+                "examples": [
+                    {
+                        "en": "examine something This study sets out to examine in detail the possible effects of climate change.",
+                        "vi": "kiểm tra điều gì đó Nghiên cứu này nhằm xem xét chi tiết những tác động có thể có của biến đổi khí hậu."
+                    },
+                    {
+                        "en": "Her new show critically examines the relationship between the arts and popular culture.",
+                        "vi": "Chương trình mới của cô xem xét một cách nghiêm túc mối quan hệ giữa nghệ thuật và văn hóa đại chúng."
+                    },
+                    {
+                        "en": "This important issue must be carefully examined.",
+                        "vi": "Vấn đề quan trọng này phải được xem xét cẩn thận."
+                    },
+                    {
+                        "en": "Only recently have historians begun to examine the impact and influence of these changes.",
+                        "vi": "Chỉ gần đây, các nhà sử học mới bắt đầu xem xét tác động và ảnh hưởng của những thay đổi này."
+                    },
+                    {
+                        "en": "examine how, what, etc… It is necessary to examine how the proposals can be carried out.",
+                        "vi": "kiểm tra bằng cách nào, cái gì, v.v.… Cần phải kiểm tra xem các đề xuất có thể được thực hiện như thế nào."
+                    },
+                    {
+                        "en": "The weather gave researchers an opportunity to examine what happens to insect numbers when temperatures rise.",
+                        "vi": "Thời tiết đã tạo cơ hội cho các nhà nghiên cứu xem xét điều gì sẽ xảy ra với số lượng côn trùng khi nhiệt độ tăng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to look at somebody/something closely, to see if there is anything wrong or to find the cause of a problem",
+                    "vi": "để xem xét ai đó / cái gì đó kỹ càng, để xem liệu có điều gì sai hoặc để tìm ra nguyên nhân của một vấn đề"
+                },
+                "examples": [
+                    {
+                        "en": "examine somebody/something The doctor examined her carefully but could find nothing wrong.",
+                        "vi": "Kiểm tra ai đó / cái gì đó Bác sĩ đã kiểm tra cô ấy cẩn thận nhưng không tìm thấy gì sai."
+                    },
+                    {
+                        "en": "to be examined by a doctor/psychiatrist/specialist/vet",
+                        "vi": "để được khám bởi bác sĩ / bác sĩ tâm thần / chuyên gia / thú y"
+                    },
+                    {
+                        "en": "examine yourself She examined herself closely in the mirror.",
+                        "vi": "tự kiểm tra bản thân Cô ấy soi kỹ mình trong gương."
+                    },
+                    {
+                        "en": "examine something/somebody for something The samples were examined under the microscope for the presence of damaged cells.",
+                        "vi": "kiểm tra cái gì đó / ai đó tìm cái gì Các mẫu được kiểm tra dưới kính hiển vi để tìm sự hiện diện của các tế bào bị hư hỏng."
+                    },
+                    {
+                        "en": "The goods were examined for damage on arrival.",
+                        "vi": "Hàng hóa đã được kiểm tra xem có bị hư hỏng khi đến nơi hay không."
+                    },
+                    {
+                        "en": "Investigators examined the room minutely for clues.",
+                        "vi": "Các nhà điều tra đã kiểm tra căn phòng một cách tỉ mỉ để tìm manh mối."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to give somebody a test to see how much they know about a subject or what they can do",
+                    "vi": "để cho ai đó một bài kiểm tra để xem họ biết bao nhiêu về một chủ đề hoặc những gì họ có thể làm"
+                },
+                "examples": [
+                    {
+                        "en": "be examined in something The students will be examined in all subjects at the end of term.",
+                        "vi": "được kiểm tra một cái gì đó Học sinh sẽ được kiểm tra tất cả các môn học vào cuối học kỳ."
+                    },
+                    {
+                        "en": "be examined on something You are only being examined on this semester's work.",
+                        "vi": "được kiểm tra về điều gì đó Bạn chỉ được kiểm tra về công việc của học kỳ này."
+                    },
+                    {
+                        "en": "be examined The course is externally examined (= arranged and marked by somebody from outside a school, a university or an organization).",
+                        "vi": "được kiểm tra Khóa học được kiểm tra bên ngoài (= được sắp xếp và đánh dấu bởi một người nào đó từ bên ngoài một trường học, một trường đại học hoặc một tổ chức)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to ask somebody questions formally, especially in court",
+                    "vi": "để hỏi ai đó những câu hỏi chính thức, đặc biệt là trước tòa"
+                },
+                "examples": [
+                    {
+                        "en": "The prosecution examined 20 witnesses.",
+                        "vi": "Công tố đã kiểm tra 20 nhân chứng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be crazy",
+                    "vi": "trở nên điên rồ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "24b21a703ace42889f311cddd6d9784f",
+        "word": "health check",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈhelθ tʃek/",
+            "us": "/ˈhelθ tʃek/"
+        },
+        "nearby": [
+            {
+                "word": "healthcare",
+                "pos": "noun"
+            },
+            {
+                "word": "health centre",
+                "pos": "noun"
+            },
+            {
+                "word": "health check",
+                "pos": "noun"
+            },
+            {
+                "word": "health club",
+                "pos": "noun"
+            },
+            {
+                "word": "health farm",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a medical examination to assess the condition of a person’s body or mind",
+                    "vi": "một cuộc kiểm tra y tế để đánh giá tình trạng của cơ thể hoặc tâm trí của một người"
+                },
+                "examples": [
+                    {
+                        "en": "A routine health check revealed that his blood pressure was high.",
+                        "vi": "Kiểm tra sức khỏe định kỳ cho thấy huyết áp của ông tăng cao."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an assessment of the condition of something",
+                    "vi": "một đánh giá về tình trạng của một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "The bank offers business advice and financial health checks.",
+                        "vi": "Ngân hàng cung cấp lời khuyên kinh doanh và kiểm tra sức khỏe tài chính."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1e609e3cf91a4451a1f3871b881811b8",
+        "word": "check-up",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈtʃek ʌp/",
+            "us": "/ˈtʃek ʌp/"
+        },
+        "nearby": [
+            {
+                "word": "checksum",
+                "pos": "noun"
+            },
+            {
+                "word": "check through",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "check-up",
+                "pos": "noun"
+            },
+            {
+                "word": "check up on",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "Cheddar",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an examination of somebody/something, especially a medical one to make sure that you are healthy",
+                    "vi": "khám ai đó / cái gì đó, đặc biệt là bác sĩ để đảm bảo rằng bạn khỏe mạnh"
+                },
+                "examples": [
+                    {
+                        "en": "to go for/to have a check-up",
+                        "vi": "đi khám / kiểm tra"
+                    },
+                    {
+                        "en": "a medical/dental/routine/thorough check-up",
+                        "vi": "kiểm tra y tế / nha khoa / định kỳ / kỹ lưỡng"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "95298f3e2a094946ae432bfb9c19fc16",
+        "word": "examination",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ɪɡˌzæmɪˈneɪʃn/",
+            "us": "/ɪɡˌzæmɪˈneɪʃn/"
+        },
+        "nearby": [
+            {
+                "word": "exalted",
+                "pos": "adjective"
+            },
+            {
+                "word": "exam",
+                "pos": "noun"
+            },
+            {
+                "word": "examination",
+                "pos": "noun"
+            },
+            {
+                "word": "examine",
+                "pos": "verb"
+            },
+            {
+                "word": "examinee",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a formal written, spoken or practical test, especially at school or college, to see how much you know about a subject, or what you can do",
+                    "vi": "một bài kiểm tra viết, nói hoặc thực hành chính thức, đặc biệt là ở trường hoặc đại học, để xem bạn biết bao nhiêu về một chủ đề hoặc những gì bạn có thể làm"
+                },
+                "examples": [
+                    {
+                        "en": "successful candidates in GCSE examinations",
+                        "vi": "ứng viên thành công trong kỳ thi GCSE"
+                    },
+                    {
+                        "en": "examination in something to sit an examination in mathematics",
+                        "vi": "kiểm tra một cái gì đó để tham gia một kỳ kiểm tra toán học"
+                    },
+                    {
+                        "en": "examination for something In 1864 he passed the examination for the Indian Civil Service.",
+                        "vi": "năm 1864, ông đã vượt qua kỳ thi vào Dịch vụ Dân sự Ấn Độ."
+                    },
+                    {
+                        "en": "Applicants are selected for jobs on the results of a competitive examination.",
+                        "vi": "Các ứng viên được chọn cho công việc dựa trên kết quả của một kỳ thi cạnh tranh."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the act of looking at or considering something very carefully",
+                    "vi": "hành động xem xét hoặc xem xét một cái gì đó rất cẩn thận"
+                },
+                "examples": [
+                    {
+                        "en": "Careful examination of the ruins revealed an even earlier temple.",
+                        "vi": "Kiểm tra cẩn thận các tàn tích đã phát hiện ra một ngôi đền thậm chí còn sớm hơn."
+                    },
+                    {
+                        "en": "The issue needs further examination.",
+                        "vi": "Vấn đề cần được kiểm tra thêm."
+                    },
+                    {
+                        "en": "The review is the most detailed examination of policing since 1992.",
+                        "vi": "Cuộc đánh giá là cuộc kiểm tra chi tiết nhất về chính sách kể từ năm 1992."
+                    },
+                    {
+                        "en": "The chapter concludes with a brief examination of some of the factors causing family break-up.",
+                        "vi": "Chương này kết thúc với việc xem xét ngắn gọn một số yếu tố gây tan vỡ gia đình."
+                    },
+                    {
+                        "en": "after (an) examination After a thorough examination, they announced that the suspicious device was harmless.",
+                        "vi": "Sau khi (một) kiểm tra Sau khi kiểm tra kỹ lưỡng, họ thông báo rằng thiết bị đáng ngờ là vô hại."
+                    },
+                    {
+                        "en": "on examination On closer examination it was found that the signature was not genuine.",
+                        "vi": "khi kiểm tra Khi kiểm tra kỹ hơn, người ta thấy rằng chữ ký đó không phải là thật."
+                    },
+                    {
+                        "en": "under examination Your proposals are still under examination.",
+                        "vi": "đang được kiểm tra Các đề xuất của bạn vẫn đang được kiểm tra."
+                    },
+                    {
+                        "en": "examination by somebody The party would open up the issue to examination by a Senate Committee.",
+                        "vi": "thẩm tra bởi ai đó Đảng sẽ mở vấn đề để một Ủy ban Thượng viện xem xét."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a close look at something/somebody, especially to see if there is anything wrong or to find the cause of a problem",
+                    "vi": "quan sát kỹ một cái gì đó / một người nào đó, đặc biệt là để xem liệu có điều gì sai hoặc để tìm ra nguyên nhân của vấn đề"
+                },
+                "examples": [
+                    {
+                        "en": "a medical/physical examination",
+                        "vi": "khám sức khỏe / thể chất"
+                    },
+                    {
+                        "en": "a post-mortem/forensic examination",
+                        "vi": "khám nghiệm tử thi / pháp y"
+                    },
+                    {
+                        "en": "Regular breast examination is advised.",
+                        "vi": "Nên khám vú thường xuyên."
+                    },
+                    {
+                        "en": "A specialist should carry out an examination of the patient.",
+                        "vi": "Một bác sĩ chuyên khoa nên tiến hành kiểm tra bệnh nhân."
+                    },
+                    {
+                        "en": "Diagnosis can be made only by direct examination of affected brain tissue.",
+                        "vi": "Chẩn đoán chỉ có thể được thực hiện bằng cách kiểm tra trực tiếp các mô não bị ảnh hưởng."
+                    },
+                    {
+                        "en": "examination by somebody Further examination by an orthopaedic surgeon will be needed today.",
+                        "vi": "khám bởi ai đó Sẽ cần khám thêm bởi một bác sĩ phẫu thuật chỉnh hình vào ngày hôm nay."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1d1b184980ed42508d0eb4f000475de2",
+        "word": "medical",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈmedɪkl/",
+            "us": "/ˈmedɪkl/"
+        },
+        "nearby": [
+            {
+                "word": "Medicaid",
+                "pos": "noun"
+            },
+            {
+                "word": "medical",
+                "pos": "adjective"
+            },
+            {
+                "word": "medical",
+                "pos": "noun"
+            },
+            {
+                "word": "medical examiner",
+                "pos": "noun"
+            },
+            {
+                "word": "medical hall",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a careful and complete examination of your body that a doctor does, for example before you start a particular job",
+                    "vi": "một cuộc kiểm tra cơ thể của bạn một cách cẩn thận và đầy đủ mà một bác sĩ thực hiện, chẳng hạn như trước khi bạn bắt đầu một công việc cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "He was accepted onto the course after passing the medical.",
+                        "vi": "Anh ấy đã được nhận vào khóa học sau khi đậu y tế."
+                    },
+                    {
+                        "en": "Pilots undergo regular medicals.",
+                        "vi": "Phi công phải trải qua các đợt cấp thuốc thường xuyên."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a244cd17a2914552949e18a02c981b16",
+        "word": "sample",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈsɑːmpl/",
+            "us": "/ˈsæmpl/"
+        },
+        "nearby": [
+            {
+                "word": "sampan",
+                "pos": "noun"
+            },
+            {
+                "word": "samphire",
+                "pos": "noun"
+            },
+            {
+                "word": "sample",
+                "pos": "noun"
+            },
+            {
+                "word": "sample",
+                "pos": "verb"
+            },
+            {
+                "word": "sampler",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a number of people or things taken from a larger group and used in tests to provide information about the group",
+                    "vi": "một số người hoặc những thứ được lấy từ một nhóm lớn hơn và được sử dụng trong các bài kiểm tra để cung cấp thông tin về nhóm"
+                },
+                "examples": [
+                    {
+                        "en": "The interviews were given to a random sample of students.",
+                        "vi": "Các cuộc phỏng vấn được thực hiện cho một mẫu sinh viên ngẫu nhiên."
+                    },
+                    {
+                        "en": "The survey covers a representative sample of schools.",
+                        "vi": "Cuộc khảo sát bao gồm một mẫu đại diện của các trường học."
+                    },
+                    {
+                        "en": "a sample survey",
+                        "vi": "một cuộc khảo sát mẫu"
+                    },
+                    {
+                        "en": "The current study has a larger sample size than earlier studies.",
+                        "vi": "Nghiên cứu hiện tại có kích thước mẫu lớn hơn các nghiên cứu trước đó."
+                    },
+                    {
+                        "en": "We studied a large population sample.",
+                        "vi": "Chúng tôi đã nghiên cứu một mẫu dân số lớn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a small amount of a substance taken from a larger amount and tested in order to obtain information about the substance",
+                    "vi": "một lượng nhỏ của một chất được lấy từ một lượng lớn hơn và được thử nghiệm để có được thông tin về chất đó"
+                },
+                "examples": [
+                    {
+                        "en": "a blood/urine/tissue/DNA sample",
+                        "vi": "mẫu máu / nước tiểu / mô / DNA"
+                    },
+                    {
+                        "en": "sample of something Samples of the water contained pesticide.",
+                        "vi": "mẫu của cái gì đó Mẫu nước có chứa thuốc trừ sâu."
+                    },
+                    {
+                        "en": "A small sample of blood must be tested by a doctor.",
+                        "vi": "Một mẫu máu nhỏ phải được bác sĩ xét nghiệm."
+                    },
+                    {
+                        "en": "to collect/obtain/take a sample",
+                        "vi": "để thu thập / lấy / lấy mẫu"
+                    },
+                    {
+                        "en": "We analyzed samples from more than a dozen common tree species.",
+                        "vi": "Chúng tôi đã phân tích các mẫu từ hơn một chục loài cây phổ biến."
+                    },
+                    {
+                        "en": "Her sample contained traces of the banned steroid.",
+                        "vi": "Mẫu của cô ấy có dấu vết của steroid bị cấm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a small amount or example of something that can be looked at or tried to see what it is like",
+                    "vi": "một số lượng nhỏ hoặc ví dụ về một cái gì đó có thể được xem xét hoặc thử để xem nó như thế nào"
+                },
+                "examples": [
+                    {
+                        "en": "‘I'd like to see a sample of your work,’ said the manager.",
+                        "vi": "Tôi muốn xem một mẫu tác phẩm của bạn, người quản lý nói."
+                    },
+                    {
+                        "en": "a free sample of shampoo",
+                        "vi": "một mẫu dầu gội đầu miễn phí"
+                    },
+                    {
+                        "en": "Would you like a sample of the fabric to take home?",
+                        "vi": "Bạn có muốn lấy mẫu vải mang về nhà không?"
+                    },
+                    {
+                        "en": "We looked at sample books to choose the fabric.",
+                        "vi": "Chúng tôi xem sách mẫu để chọn vải."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a piece of recorded music or sound that is used in a new piece of music",
+                    "vi": "một đoạn nhạc đã ghi hoặc âm thanh được sử dụng trong một bản nhạc mới"
+                },
+                "examples": [
+                    {
+                        "en": "‘Candy’ includes a swirling sample from a Walker Brothers song.",
+                        "vi": "Candy' bao gồm một mẫu xoáy từ một bài hát của Walker Brothers."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9e58f2933fdb456ea58fb27836a73dca",
+        "word": "scan",
+        "pos": "verb",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/skæn/",
+            "us": "/skæn/"
+        },
+        "nearby": [
+            {
+                "word": "scamper",
+                "pos": "verb"
+            },
+            {
+                "word": "scampi",
+                "pos": "noun"
+            },
+            {
+                "word": "scan",
+                "pos": "verb"
+            },
+            {
+                "word": "scan",
+                "pos": "noun"
+            },
+            {
+                "word": "scandal",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to look quickly but not very carefully at a document, etc.",
+                    "vi": "để xem nhanh nhưng không cẩn thận một tài liệu, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "scan something for something I scanned the list quickly for my name.",
+                        "vi": "quét một cái gì đó cho một cái gì đó Tôi đã quét nhanh danh sách để tìm tên của mình."
+                    },
+                    {
+                        "en": "scan something We quickly scanned the menu.",
+                        "vi": "quét cái gì đó Chúng tôi nhanh chóng quét menu."
+                    },
+                    {
+                        "en": "scan through something (for something) She scanned through the newspaper over breakfast.",
+                        "vi": "scan qua cái gì đó (cho cái gì đó) Cô ấy lướt qua tờ báo trong bữa sáng."
+                    },
+                    {
+                        "en": "scan for something You should teach students to scan for essential information.",
+                        "vi": "quét tìm thứ gì đó Bạn nên dạy học sinh quét để tìm thông tin cần thiết."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to look at every part of something carefully, especially because you are looking for a particular thing or person",
+                    "vi": "xem xét cẩn thận từng phần của một thứ gì đó, đặc biệt là vì bạn đang tìm kiếm một thứ hoặc một người cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "scan something for something He scanned the horizon for any sign of land.",
+                        "vi": "quét một cái gì đó cho một cái gì đó Anh ta quét đường chân trời để tìm bất kỳ dấu hiệu nào của đất."
+                    },
+                    {
+                        "en": "She scanned the room for an empty seat.",
+                        "vi": "Cô lướt qua phòng để tìm một ghế trống."
+                    },
+                    {
+                        "en": "scan something She scanned his face anxiously.",
+                        "vi": "quét cái gì đó Cô lo lắng nhìn lướt qua khuôn mặt anh."
+                    },
+                    {
+                        "en": "She scanned the street nervously, looking for the two men.",
+                        "vi": "Cô lo lắng nhìn lướt qua con phố, tìm kiếm hai người đàn ông."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to pass light over a picture or document using a scanner in order to copy it and put it in the memory of a computer",
+                    "vi": "để truyền ánh sáng qua ảnh hoặc tài liệu bằng máy quét để sao chép và đưa vào bộ nhớ của máy tính"
+                },
+                "examples": [
+                    {
+                        "en": "scan something How do I scan a photo and attach it to an email?",
+                        "vi": "quét cái gì đó Làm cách nào để quét ảnh và đính kèm vào email?"
+                    },
+                    {
+                        "en": "digitally scanned photographs",
+                        "vi": "ảnh quét kỹ thuật số"
+                    },
+                    {
+                        "en": "This recognizes text in a scanned image.",
+                        "vi": "Điều này nhận dạng văn bản trong một hình ảnh được quét."
+                    },
+                    {
+                        "en": "scan something into something The pencil image is scanned into a computer.",
+                        "vi": "quét một cái gì đó vào một cái gì đó Hình ảnh bút chì được quét vào máy tính."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to get an image of an object, a part of somebody’s body, etc. on a computer by passing X-rays, ultrasound waves or electromagnetic waves over it in a special machine",
+                    "vi": "để có được hình ảnh của một vật thể, một phần cơ thể của ai đó, v.v. trên máy tính bằng cách truyền tia X, sóng siêu âm hoặc sóng điện từ lên nó trong một máy đặc biệt"
+                },
+                "examples": [
+                    {
+                        "en": "Their brains are scanned so that researchers can monitor the progress of the disease.",
+                        "vi": "Bộ não của họ được quét để các nhà nghiên cứu có thể theo dõi sự tiến triển của bệnh."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to pass across an area",
+                    "vi": "đi qua một khu vực"
+                },
+                "examples": [
+                    {
+                        "en": "Concealed video cameras scan every part of the compound.",
+                        "vi": "Máy quay video giấu kín quét mọi phần của khu phức hợp."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to examine a computer program or document in order to look for a virus",
+                    "vi": "để kiểm tra một chương trình máy tính hoặc tài liệu nhằm tìm kiếm vi-rút"
+                },
+                "examples": [
+                    {
+                        "en": "This software is designed to scan all new files for viruses.",
+                        "vi": "Phần mềm này được thiết kế để quét vi rút tất cả các tệp mới."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to have a regular rhythm according to fixed rules",
+                    "vi": "để có một nhịp điệu đều đặn theo các quy tắc cố định"
+                },
+                "examples": [
+                    {
+                        "en": "This line doesn't scan.",
+                        "vi": "Dòng này không quét."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "45d2bdc177f4407d80ee513387e4eba9",
+        "word": "scan",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/skæn/",
+            "us": "/skæn/"
+        },
+        "nearby": [
+            {
+                "word": "scampi",
+                "pos": "noun"
+            },
+            {
+                "word": "scan",
+                "pos": "verb"
+            },
+            {
+                "word": "scan",
+                "pos": "noun"
+            },
+            {
+                "word": "scandal",
+                "pos": "noun"
+            },
+            {
+                "word": "scandalize",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a medical test in which a machine produces a picture of the inside of a person’s body, or a baby inside its mother's body, on a computer screen",
+                    "vi": "một bài kiểm tra y tế trong đó máy tạo ra hình ảnh bên trong cơ thể một người hoặc một em bé bên trong cơ thể mẹ của nó trên màn hình máy tính"
+                },
+                "examples": [
+                    {
+                        "en": "to have a brain scan",
+                        "vi": "để được quét não"
+                    },
+                    {
+                        "en": "At twenty weeks she had a scan and the midwife told her the baby looked fine.",
+                        "vi": "Khi được hai mươi tuần, cô ấy đã được chụp cắt lớp và nữ hộ sinh nói với cô ấy rằng em bé trông vẫn ổn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the act of looking quickly through something written or printed, usually in order to find something",
+                    "vi": "hành động nhìn nhanh qua một thứ gì đó được viết hoặc in ra, thường là để tìm thứ gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "a scan of the newspapers",
+                        "vi": "quét các tờ báo"
+                    },
+                    {
+                        "en": "I had a quick scan down the guest list but couldn’t see my name.",
+                        "vi": "Tôi đã quét nhanh danh sách khách nhưng không thấy tên của mình."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "d3b9c9a5d91640abbcb76ea8bc110ddd",
+        "word": "X-ray",
+        "pos": "verb",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈeks reɪ/",
+            "us": "/ˈeks reɪ/"
+        },
+        "nearby": [
+            {
+                "word": "Wyoming",
+                "pos": ""
+            },
+            {
+                "word": "WYSIWYG",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "X-ray",
+                "pos": "verb"
+            },
+            {
+                "word": "X",
+                "pos": "noun"
+            },
+            {
+                "word": "X",
+                "pos": "symbol"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to photograph and examine bones and organs inside the body, using X-rays",
+                    "vi": "để chụp ảnh và kiểm tra xương và các cơ quan bên trong cơ thể, sử dụng tia X"
+                },
+                "examples": [
+                    {
+                        "en": "He had to have his chest X-rayed.",
+                        "vi": "Anh ta phải chụp X-quang phổi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e96fe58052a6460f975c52dc99d684ec",
+        "word": "X-ray",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈeks reɪ/",
+            "us": "/ˈeks reɪ/"
+        },
+        "nearby": [
+            {
+                "word": "XP",
+                "pos": "noun"
+            },
+            {
+                "word": "X-rated",
+                "pos": "adjective"
+            },
+            {
+                "word": "X-ray",
+                "pos": "noun"
+            },
+            {
+                "word": "XS",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "xylem",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a type of radiation that can pass through solid objects and make it possible to see inside or through them",
+                    "vi": "một loại bức xạ có thể đi qua các vật thể rắn và làm cho chúng ta có thể nhìn thấy bên trong hoặc xuyên qua chúng"
+                },
+                "examples": [
+                    {
+                        "en": "an X-ray machine (= one that produces X-rays)",
+                        "vi": "một máy tia X (= một máy tạo ra tia X)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a photograph made by X-rays, especially one showing bones or organs in the body",
+                    "vi": "một bức ảnh chụp bằng tia X, đặc biệt là một bức ảnh cho thấy xương hoặc các cơ quan trong cơ thể"
+                },
+                "examples": [
+                    {
+                        "en": "a chest X-ray",
+                        "vi": "chụp X-quang ngực"
+                    },
+                    {
+                        "en": "The doctor studied the X-rays of her lungs.",
+                        "vi": "Bác sĩ đã nghiên cứu chụp X-quang phổi của cô ấy."
+                    },
+                    {
+                        "en": "The dentist took an X-ray of my jaw.",
+                        "vi": "Nha sĩ đã chụp X-quang hàm của tôi."
+                    },
+                    {
+                        "en": "The X-ray showed a crack in one rib.",
+                        "vi": "Ảnh chụp X-quang cho thấy một vết nứt ở một bên xương sườn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a medical examination using X-rays",
+                    "vi": "kiểm tra sức khỏe bằng tia X"
+                },
+                "examples": [
+                    {
+                        "en": "I had to go for an X-ray.",
+                        "vi": "Tôi đã phải đi chụp X-quang."
+                    },
+                    {
+                        "en": "The result of the X-ray gave no cause for concern.",
+                        "vi": "Kết quả chụp X-quang không có lý do gì đáng lo ngại."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "fe90190451bd485da7dd212a378a177d",
+        "word": "blood group",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈblʌd ɡruːp/",
+            "us": "/ˈblʌd ɡruːp/"
+        },
+        "nearby": [
+            {
+                "word": "blood drive",
+                "pos": "noun"
+            },
+            {
+                "word": "blood feud",
+                "pos": "noun"
+            },
+            {
+                "word": "blood group",
+                "pos": "noun"
+            },
+            {
+                "word": "blood heat",
+                "pos": "noun"
+            },
+            {
+                "word": "bloodhound",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "any of the different types that human blood is separated into for medical purposes",
+                    "vi": "bất kỳ loại nào khác nhau mà máu người được tách ra cho các mục đích y tế"
+                },
+                "examples": [
+                    {
+                        "en": "(British English) What blood group are you?",
+                        "vi": "(Anh Anh) Bạn thuộc nhóm máu nào?"
+                    },
+                    {
+                        "en": "(North American English) What blood type do you have?",
+                        "vi": "(Tiếng Anh Bắc Mỹ) Bạn có nhóm máu gì?"
+                    },
+                    {
+                        "en": "blood group/type O",
+                        "vi": "nhóm máu / nhóm máu O"
+                    },
+                    {
+                        "en": "What's your blood group?",
+                        "vi": "Nhóm máu của bạn là gì?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "480c2b5245b9499f9620961df30e9fa8",
+        "word": "blood type",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈblʌd taɪp/",
+            "us": "/ˈblʌd taɪp/"
+        },
+        "nearby": [
+            {
+                "word": "bloodthirsty",
+                "pos": "adjective"
+            },
+            {
+                "word": "blood transfusion",
+                "pos": "noun"
+            },
+            {
+                "word": "blood type",
+                "pos": "noun"
+            },
+            {
+                "word": "blood vessel",
+                "pos": "noun"
+            },
+            {
+                "word": "bloody1",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "any of the different types that human blood is separated into for medical purposes",
+                    "vi": "bất kỳ loại nào khác nhau mà máu người được tách ra cho các mục đích y tế"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "789c23dfbb2446068be0187866f1aa78",
+        "word": "diagnose",
+        "pos": "verb",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈdaɪəɡnəʊz/",
+            "us": "/ˌdaɪəɡˈnəʊs/"
+        },
+        "nearby": [
+            {
+                "word": "diadem",
+                "pos": "noun"
+            },
+            {
+                "word": "diaeresis",
+                "pos": "noun"
+            },
+            {
+                "word": "diagnose",
+                "pos": "verb"
+            },
+            {
+                "word": "diagnosis",
+                "pos": "noun"
+            },
+            {
+                "word": "diagnostic",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to say exactly what an illness or the cause of a problem is",
+                    "vi": "để nói chính xác bệnh tật hoặc nguyên nhân của vấn đề là gì"
+                },
+                "examples": [
+                    {
+                        "en": "diagnose something The test is used to diagnose a variety of diseases.",
+                        "vi": "chẩn đoán điều gì Xét nghiệm được sử dụng để chẩn đoán nhiều loại bệnh."
+                    },
+                    {
+                        "en": "diagnose something as something The illness was diagnosed as cancer.",
+                        "vi": "chẩn đoán một cái gì đó như một cái gì đó Căn bệnh được chẩn đoán là ung thư."
+                    },
+                    {
+                        "en": "diagnose somebody with something He has recently been diagnosed with angina.",
+                        "vi": "chẩn đoán ai đó với một cái gì đó Anh ấy gần đây đã được chẩn đoán bị đau thắt ngực."
+                    },
+                    {
+                        "en": "diagnose somebody/something (as) something I quickly diagnosed the problem as a faulty battery.",
+                        "vi": "chẩn đoán ai đó / cái gì đó (như) cái gì đó Tôi nhanh chóng chẩn đoán vấn đề là pin bị lỗi."
+                    },
+                    {
+                        "en": "He was diagnosed (as) a diabetic when he was 64.",
+                        "vi": "Ông được chẩn đoán (là) mắc bệnh tiểu đường khi 64 tuổi."
+                    },
+                    {
+                        "en": "diagnose somebody + adj./noun He was diagnosed (a) diabetic.",
+                        "vi": "chẩn đoán somebody + adj./nou Anh ấy được chẩn đoán (a) bệnh tiểu đường."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e8c0037f4bc14f4eb15978d6b083ece7",
+        "word": "diagnosis",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌdaɪəɡˈnəʊsɪs/",
+            "us": "/ˌdaɪəɡˈnəʊsɪs/"
+        },
+        "nearby": [
+            {
+                "word": "diaeresis",
+                "pos": "noun"
+            },
+            {
+                "word": "diagnose",
+                "pos": "verb"
+            },
+            {
+                "word": "diagnosis",
+                "pos": "noun"
+            },
+            {
+                "word": "diagnostic",
+                "pos": "adjective"
+            },
+            {
+                "word": "diagnostic",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the act of discovering or identifying the exact cause of an illness or a problem",
+                    "vi": "hành động khám phá hoặc xác định nguyên nhân chính xác của một căn bệnh hoặc một vấn đề"
+                },
+                "examples": [
+                    {
+                        "en": "a diagnosis of lung cancer",
+                        "vi": "chẩn đoán ung thư phổi"
+                    },
+                    {
+                        "en": "They are waiting for the doctor's diagnosis.",
+                        "vi": "Họ đang chờ đợi chẩn đoán của bác sĩ."
+                    },
+                    {
+                        "en": "An accurate diagnosis was made after a series of tests.",
+                        "vi": "Một chẩn đoán chính xác đã được thực hiện sau một loạt các xét nghiệm."
+                    },
+                    {
+                        "en": "They are using new methods of diagnosis.",
+                        "vi": "Họ đang sử dụng các phương pháp chẩn đoán mới."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "50560e9aeb0a41329a720455302f2221",
+        "word": "specimen",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈspesɪmən/",
+            "us": "/ˈspesɪmən/"
+        },
+        "nearby": [
+            {
+                "word": "specifics",
+                "pos": "noun"
+            },
+            {
+                "word": "specify",
+                "pos": "verb"
+            },
+            {
+                "word": "specimen",
+                "pos": "noun"
+            },
+            {
+                "word": "specimen plant",
+                "pos": "noun"
+            },
+            {
+                "word": "specious",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small amount of something that shows what the rest of it is like",
+                    "vi": "một số lượng nhỏ của một cái gì đó cho thấy phần còn lại của nó như thế nào"
+                },
+                "examples": [
+                    {
+                        "en": "Astronauts have brought back specimens of rock from the moon.",
+                        "vi": "Các phi hành gia đã mang về các mẫu đá từ mặt trăng."
+                    },
+                    {
+                        "en": "Can you give me a specimen of your handwriting?",
+                        "vi": "Bạn có thể cho tôi một mẫu chữ viết tay của bạn được không?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a single example of something, especially an animal or a plant",
+                    "vi": "một ví dụ về một cái gì đó, đặc biệt là động vật hoặc thực vật"
+                },
+                "examples": [
+                    {
+                        "en": "The aquarium has some interesting specimens of unusual tropical fish.",
+                        "vi": "Bể cá có một số mẫu vật thú vị của các loài cá nhiệt đới khác thường."
+                    },
+                    {
+                        "en": "Redwood trees can live for a long time; one specimen is 4 000 years old.",
+                        "vi": "Cây gỗ gõ đỏ có thể sống lâu năm; một mẫu vật đã 4000 năm tuổi."
+                    },
+                    {
+                        "en": "(humorous) They were fine specimens of British youth!",
+                        "vi": "(hài hước) Họ là những mẫu vật tuyệt vời của thanh niên Anh!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a small quantity of blood, urine, etc. that is taken from somebody and tested by a doctor",
+                    "vi": "một lượng nhỏ máu, nước tiểu, v.v. được lấy từ ai đó và được bác sĩ xét nghiệm"
+                },
+                "examples": [
+                    {
+                        "en": "to provide/take a specimen",
+                        "vi": "cung cấp / lấy mẫu vật"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1229e610bb644843b3d02037343dfeea",
+        "word": "barium meal",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌbeəriəm ˈmiːl/",
+            "us": "/ˌberiəm ˈmiːl/"
+        },
+        "nearby": [
+            {
+                "word": "baritone",
+                "pos": "noun"
+            },
+            {
+                "word": "barium",
+                "pos": "noun"
+            },
+            {
+                "word": "barium meal",
+                "pos": "noun"
+            },
+            {
+                "word": "bark",
+                "pos": "noun"
+            },
+            {
+                "word": "bark",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a substance containing barium that a doctor gives somebody to swallow before an X-ray because it makes organs in the body easier to see",
+                    "vi": "một chất có chứa bari mà bác sĩ cho ai đó nuốt trước khi chụp X-quang vì nó giúp các cơ quan trong cơ thể dễ nhìn thấy hơn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "c4714d889c884a909754872892f86f57",
+        "word": "biopsy",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbaɪɒpsi/",
+            "us": "/ˈbaɪɑːpsi/"
+        },
+        "nearby": [
+            {
+                "word": "biopic",
+                "pos": "noun"
+            },
+            {
+                "word": "biopolymer",
+                "pos": "noun"
+            },
+            {
+                "word": "biopsy",
+                "pos": "noun"
+            },
+            {
+                "word": "biorhythm",
+                "pos": "noun"
+            },
+            {
+                "word": "BIOS",
+                "pos": "abbreviation"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the process of removing and examining tissue from the body of somebody who is ill, in order to find out more about their disease",
+                    "vi": "quá trình loại bỏ và kiểm tra mô từ cơ thể của một người bị bệnh, để tìm hiểu thêm về bệnh của họ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "2a25fd211aa1425ebae222dca12f93b4",
+        "word": "CAT scan",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkæt skæn/",
+            "us": "/ˈkæt skæn/"
+        },
+        "nearby": [
+            {
+                "word": "cat-o'-nine-tails",
+                "pos": "noun"
+            },
+            {
+                "word": "Cats",
+                "pos": ""
+            },
+            {
+                "word": "CAT scan",
+                "pos": "noun"
+            },
+            {
+                "word": "cat's cradle",
+                "pos": "noun"
+            },
+            {
+                "word": "Catseye",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a medical examination that uses a computer to produce an image of the inside of somebody’s body from X-ray or ultrasound pictures",
+                    "vi": "kiểm tra y tế sử dụng máy tính để tạo ra hình ảnh bên trong cơ thể ai đó từ hình ảnh chụp X-quang hoặc siêu âm"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "94ee4172a2364142a02bd463e58d58b5",
+        "word": "diagnostic",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌdaɪəɡˈnɒstɪk/",
+            "us": "/ˌdaɪəɡˈnɑːstɪk/"
+        },
+        "nearby": [
+            {
+                "word": "diagnose",
+                "pos": "verb"
+            },
+            {
+                "word": "diagnosis",
+                "pos": "noun"
+            },
+            {
+                "word": "diagnostic",
+                "pos": "adjective"
+            },
+            {
+                "word": "diagnostic",
+                "pos": "noun"
+            },
+            {
+                "word": "diagnostically",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "connected with identifying an illness or other problem",
+                    "vi": "kết nối với việc xác định một căn bệnh hoặc các vấn đề khác"
+                },
+                "examples": [
+                    {
+                        "en": "to carry out diagnostic assessments/tests",
+                        "vi": "để thực hiện các đánh giá / kiểm tra chẩn đoán"
+                    },
+                    {
+                        "en": "Get a low-cost car diagnostic tool to identify the fault.",
+                        "vi": "Nhận một công cụ chẩn đoán ô tô giá rẻ để xác định lỗi."
+                    },
+                    {
+                        "en": "diagnostic of something specific conditions which are diagnostic of AIDS",
+                        "vi": "chẩn đoán một số điều kiện cụ thể được chẩn đoán bệnh AIDS"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "connected with identifying what a student needs to learn",
+                    "vi": "kết nối với việc xác định những gì học sinh cần học"
+                },
+                "examples": [
+                    {
+                        "en": "diagnostic grammar tests",
+                        "vi": "kiểm tra ngữ pháp chẩn đoán"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f632a11f071540b2ac2a22ad2a8d45f1",
+        "word": "echocardiogram",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌekəʊˈkɑːdiəʊɡræm/",
+            "us": "/ˌekəʊˈkɑːrdiəʊɡræm/"
+        },
+        "nearby": [
+            {
+                "word": "echo",
+                "pos": "verb"
+            },
+            {
+                "word": "echo",
+                "pos": "noun"
+            },
+            {
+                "word": "echocardiogram",
+                "pos": "noun"
+            },
+            {
+                "word": "echocardiography",
+                "pos": "noun"
+            },
+            {
+                "word": "echo chamber",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a test that uses ultrasound to show the action and assess the health of the heart",
+                    "vi": "một bài kiểm tra sử dụng siêu âm để hiển thị hoạt động và đánh giá sức khỏe của tim"
+                },
+                "examples": [
+                    {
+                        "en": "An echocardiogram showed normal coronary arteries and normal function.",
+                        "vi": "Siêu âm tim cho thấy động mạch vành bình thường và chức năng bình thường."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0a682a99c5cb4e7f9869983bb1cbf366",
+        "word": "echocardiography",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌekəʊˌkɑːdiˈɒɡrəfi/",
+            "us": "/ˌekəʊˌkɑːrdiˈɑːɡrəfi/"
+        },
+        "nearby": [
+            {
+                "word": "echo",
+                "pos": "noun"
+            },
+            {
+                "word": "echocardiogram",
+                "pos": "noun"
+            },
+            {
+                "word": "echocardiography",
+                "pos": "noun"
+            },
+            {
+                "word": "echo chamber",
+                "pos": "noun"
+            },
+            {
+                "word": "echolalia",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the use of ultrasound to investigate the action of the heart",
+                    "vi": "việc sử dụng siêu âm để điều tra hoạt động của tim"
+                },
+                "examples": [
+                    {
+                        "en": "ECG and echocardiography were performed to assess cardiac function.",
+                        "vi": "Điện tâm đồ và siêu âm tim được thực hiện để đánh giá chức năng tim."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7d606a88ecca40bf8399a785430c8213",
+        "word": "MRI",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌem ɑːr ˈaɪ/",
+            "us": "/ˌem ɑːr ˈaɪ/"
+        },
+        "nearby": [
+            {
+                "word": "MRE",
+                "pos": "noun"
+            },
+            {
+                "word": "Mr Fixit",
+                "pos": "noun"
+            },
+            {
+                "word": "MRI",
+                "pos": "noun"
+            },
+            {
+                "word": "mridangam",
+                "pos": "noun"
+            },
+            {
+                "word": "Mr Kipling",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a method of using a strong magnetic field to produce an image of the inside of a person’s body (the abbreviation for ‘magnetic resonance imaging’)",
+                    "vi": "một phương pháp sử dụng từ trường mạnh để tạo ra hình ảnh bên trong cơ thể của một người (viết tắt của 'hình ảnh cộng hưởng từ')"
+                },
+                "examples": [
+                    {
+                        "en": "The researchers used MRI to record the brain activity.",
+                        "vi": "Các nhà nghiên cứu đã sử dụng MRI để ghi lại hoạt động của não."
+                    },
+                    {
+                        "en": "When I twisted my ankle and had to have an MRI (= a medical examination using MRI).",
+                        "vi": "Khi tôi bị trẹo mắt cá chân và phải chụp MRI (= khám sức khỏe bằng MRI)."
+                    },
+                    {
+                        "en": "an MRI scan",
+                        "vi": "quét MRI"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "790b80b7eea340009279c2047d805f67",
+        "word": "probe",
+        "pos": "verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/prəʊb/",
+            "us": "/prəʊb/"
+        },
+        "nearby": [
+            {
+                "word": "probation officer",
+                "pos": "noun"
+            },
+            {
+                "word": "probe",
+                "pos": "noun"
+            },
+            {
+                "word": "probe",
+                "pos": "verb"
+            },
+            {
+                "word": "probing",
+                "pos": "adjective"
+            },
+            {
+                "word": "probing",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to ask questions in order to find out secret or hidden information about somebody/something",
+                    "vi": "đặt câu hỏi để tìm ra thông tin bí mật hoặc ẩn về ai đó / điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "probe (into something) He didn't like the media probing into his past.",
+                        "vi": "thăm dò (về điều gì đó) Anh ấy không thích giới truyền thông thăm dò quá khứ của mình."
+                    },
+                    {
+                        "en": "probe something a TV programme that probed government scandals in the 1990s",
+                        "vi": "thăm dò điều gì đó một chương trình truyền hình thăm dò các vụ bê bối của chính phủ trong những năm 1990"
+                    },
+                    {
+                        "en": "+ speech ‘Then what happened?’ he probed.",
+                        "vi": "bài phát biểu 'Sau đó điều gì đã xảy ra?' anh ta thăm dò."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to touch, examine or look for something, especially with a long, thin instrument",
+                    "vi": "để chạm, kiểm tra hoặc tìm kiếm thứ gì đó, đặc biệt là với một dụng cụ dài và mỏng"
+                },
+                "examples": [
+                    {
+                        "en": "The doctor probed the wound for signs of infection.",
+                        "vi": "Bác sĩ thăm dò vết thương để tìm dấu hiệu nhiễm trùng."
+                    },
+                    {
+                        "en": "Searchlights probed the night sky.",
+                        "vi": "Đèn rọi thăm dò bầu trời đêm."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f6611773ba144297b5b1dbac68eec565",
+        "word": "prognosis",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/prɒɡˈnəʊsɪs/",
+            "us": "/prɑːɡˈnəʊsɪs/"
+        },
+        "nearby": [
+            {
+                "word": "progeny",
+                "pos": "noun"
+            },
+            {
+                "word": "progesterone",
+                "pos": "noun"
+            },
+            {
+                "word": "prognosis",
+                "pos": "noun"
+            },
+            {
+                "word": "prognostic",
+                "pos": "adjective"
+            },
+            {
+                "word": "prognostication",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an opinion, based on medical experience, of the likely development of a disease or an illness",
+                    "vi": "một ý kiến, dựa trên kinh nghiệm y tế, về khả năng phát triển của một căn bệnh hoặc một căn bệnh"
+                },
+                "examples": [
+                    {
+                        "en": "to make a prognosis",
+                        "vi": "để đưa ra một tiên lượng"
+                    },
+                    {
+                        "en": "The prognosis is not good.",
+                        "vi": "Tiên lượng không tốt."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a judgement about how something is likely to develop in the future",
+                    "vi": "phán đoán về cách một thứ gì đó có khả năng phát triển trong tương lai"
+                },
+                "examples": [
+                    {
+                        "en": "The prognosis is for more people to work part-time in the future.",
+                        "vi": "Tiên lượng là sẽ có nhiều người làm việc bán thời gian hơn trong tương lai."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "b4060505168f436983a78cb48c911a69",
+        "word": "screen",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/skriːn/",
+            "us": "/skriːn/"
+        },
+        "nearby": [
+            {
+                "word": "screech",
+                "pos": "noun"
+            },
+            {
+                "word": "screed",
+                "pos": "noun"
+            },
+            {
+                "word": "screen",
+                "pos": "noun"
+            },
+            {
+                "word": "screen",
+                "pos": "verb"
+            },
+            {
+                "word": "Screen Actors Guild",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the flat surface at the front of a television, computer, or other electronic device, on which you see pictures or information",
+                    "vi": "bề mặt phẳng ở phía trước của TV, máy tính hoặc thiết bị điện tử khác mà bạn nhìn thấy hình ảnh hoặc thông tin trên đó"
+                },
+                "examples": [
+                    {
+                        "en": "a computer screen",
+                        "vi": "màn hình máy tính"
+                    },
+                    {
+                        "en": "a monitor with a 21-inch screen",
+                        "vi": "màn hình có màn hình 21 inch"
+                    },
+                    {
+                        "en": "They were staring at the television screen.",
+                        "vi": "Họ đang nhìn chằm chằm vào màn hình tivi."
+                    },
+                    {
+                        "en": "Move your cursor to the top of the screen.",
+                        "vi": "Di chuyển con trỏ của bạn lên đầu màn hình."
+                    },
+                    {
+                        "en": "Tessa glanced at the phone's little screen.",
+                        "vi": "Tessa liếc nhìn màn hình nhỏ của điện thoại."
+                    },
+                    {
+                        "en": "an LCD/plasma screen",
+                        "vi": "một màn hình LCD / plasma"
+                    },
+                    {
+                        "en": "Hundreds of fans watched on giant television screens.",
+                        "vi": "Hàng trăm người hâm mộ đã theo dõi trên màn hình tivi khổng lồ."
+                    },
+                    {
+                        "en": "on the screen The image came up on the screen for a few seconds.",
+                        "vi": "trên màn hình Hình ảnh hiển thị trên màn hình trong vài giây."
+                    },
+                    {
+                        "en": "The birds appear as red dots on the radar screen.",
+                        "vi": "Những con chim xuất hiện dưới dạng chấm đỏ trên màn hình radar."
+                    },
+                    {
+                        "en": "on screen Information can be viewed on screen or printed out.",
+                        "vi": "trên màn hình Thông tin có thể được xem trên màn hình hoặc in ra."
+                    },
+                    {
+                        "en": "the screen display",
+                        "vi": "màn hình hiển thị"
+                    },
+                    {
+                        "en": "The system was designed with a menu bar at the bottom of the screen.",
+                        "vi": "Hệ thống được thiết kế với một thanh menu ở cuối màn hình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the large flat surface that films or pictures are shown on",
+                    "vi": "bề mặt phẳng lớn mà phim hoặc hình ảnh được chiếu trên"
+                },
+                "examples": [
+                    {
+                        "en": "a cinema/movie screen",
+                        "vi": "rạp chiếu phim / màn hình chiếu phim"
+                    },
+                    {
+                        "en": "an eight-screen cinema",
+                        "vi": "rạp chiếu phim tám màn hình"
+                    },
+                    {
+                        "en": "The movie will be coming to your screens shortly.",
+                        "vi": "Bộ phim sẽ sớm ra rạp."
+                    },
+                    {
+                        "en": "This film should keep you glued to the screen (= unable to stop watching) for two hours.",
+                        "vi": "Bộ phim này sẽ khiến bạn dán mắt vào màn hình (= không thể ngừng xem) trong hai giờ."
+                    },
+                    {
+                        "en": "The film hits cinema screens in November.",
+                        "vi": "Phim sẽ ra rạp vào tháng 11."
+                    },
+                    {
+                        "en": "The film demands to be seen on a big screen.",
+                        "vi": "Bộ phim yêu cầu được xem trên màn hình lớn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "films or television in general",
+                    "vi": "phim hay truyền hình nói chung"
+                },
+                "examples": [
+                    {
+                        "en": "He has adapted the play for the screen.",
+                        "vi": "Anh ấy đã chuyển thể vở kịch cho màn ảnh."
+                    },
+                    {
+                        "en": "on screen Some actors never watch themselves on screen.",
+                        "vi": "trên màn hình Một số diễn viên không bao giờ xem mình trên màn hình."
+                    },
+                    {
+                        "en": "His face never appears on screen.",
+                        "vi": "Khuôn mặt của anh ấy không bao giờ xuất hiện trên màn hình."
+                    },
+                    {
+                        "en": "She was a star of stage and screen (= plays and films).",
+                        "vi": "Cô ấy là một ngôi sao của sân khấu và màn ảnh (= vở kịch và phim)."
+                    },
+                    {
+                        "en": "a screen actor",
+                        "vi": "một diễn viên màn ảnh"
+                    },
+                    {
+                        "en": "She has great screen presence (= she makes a good impression on screen).",
+                        "vi": "Cô ấy có sự hiện diện tuyệt vời trên màn ảnh (= cô ấy tạo được ấn tượng tốt trên màn ảnh)."
+                    },
+                    {
+                        "en": "He made his screen debut in 1954 as a stable boy.",
+                        "vi": "Anh xuất hiện lần đầu trên màn ảnh vào năm 1954 với tư cách là một cậu bé ổn định."
+                    },
+                    {
+                        "en": "the screen adaptation (= film) of John Steinbeck's novel East of Eden",
+                        "vi": "chuyển thể màn ảnh (= phim) từ tiểu thuyết Phía đông vườn địa đàng của John Steinbeck"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the data or images shown on a computer screen",
+                    "vi": "dữ liệu hoặc hình ảnh được hiển thị trên màn hình máy tính"
+                },
+                "examples": [
+                    {
+                        "en": "Press the F1 key to display a help screen.",
+                        "vi": "Nhấn phím F1 để hiển thị màn hình trợ giúp."
+                    },
+                    {
+                        "en": "Can you do a printout of this screen for me?",
+                        "vi": "Bạn có thể làm một bản in màn hình này cho tôi được không?"
+                    },
+                    {
+                        "en": "I posted the screen grab on Twitter.",
+                        "vi": "Tôi đã đăng bức ảnh chụp màn hình trên Twitter."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a tall, flat piece of furniture or equipment that is fixed to a wall, etc. or that can be moved to divide a room or to keep one area hidden or separate",
+                    "vi": "một món đồ nội thất hoặc thiết bị cao, bằng phẳng được gắn cố định vào tường, v.v. hoặc có thể được di chuyển để chia phòng hoặc để ẩn hoặc tách biệt một khu vực"
+                },
+                "examples": [
+                    {
+                        "en": "The nurse put a screen around the bed.",
+                        "vi": "Y tá đặt một màn hình xung quanh giường."
+                    },
+                    {
+                        "en": "A wooden screen hid one corner of the room.",
+                        "vi": "Một bức bình phong bằng gỗ che khuất một góc phòng."
+                    },
+                    {
+                        "en": "She went behind the screen and changed into the ballet costume.",
+                        "vi": "Cô ấy đi ra sau màn hình và thay trang phục múa ba lê."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "something that prevents somebody from seeing or being aware of something, or that protects somebody/something",
+                    "vi": "thứ gì đó ngăn ai đó nhìn thấy hoặc nhận thức được điều gì đó hoặc điều đó bảo vệ ai đó / điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "screen (of something) We planted a screen of tall trees.",
+                        "vi": "màn hình (của cái gì đó) Chúng tôi trồng một màn hình cây cao."
+                    },
+                    {
+                        "en": "A screen of bodyguards protected the President.",
+                        "vi": "Một màn vệ sĩ bảo vệ Tổng thống."
+                    },
+                    {
+                        "en": "behind a screen of something (figurative) All the research was conducted behind a screen of secrecy.",
+                        "vi": "đằng sau một tấm bình phong của một cái gì đó (nghĩa bóng) Tất cả các nghiên cứu được tiến hành đằng sau một tấm bình phong bí mật."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a wire or plastic net that is held in a frame and fastened on a window, or a door, to let in air but keep out insects",
+                    "vi": "một dây hoặc lưới nhựa được giữ trong khung và buộc chặt trên cửa sổ hoặc cửa ra vào để không khí vào nhưng ngăn côn trùng"
+                },
+                "examples": [
+                    {
+                        "en": "Do you have screens on your windows?",
+                        "vi": "Bạn có màn hình trên cửa sổ của mình không?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a wood or stone structure in a church, that partly separates the main area from the altar or choir",
+                    "vi": "cấu trúc bằng gỗ hoặc đá trong nhà thờ, phần nào ngăn cách khu vực chính với bàn thờ hoặc dàn hợp xướng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a system of checking a person or thing to find out whether or not something, typically a disease, is present",
+                    "vi": "một hệ thống kiểm tra một người hoặc một vật để tìm xem có hay không một thứ gì đó, điển hình là một căn bệnh,"
+                },
+                "examples": [
+                    {
+                        "en": "You should get a health screen every couple of years.",
+                        "vi": "Bạn nên kiểm tra sức khỏe vài năm một lần."
+                    },
+                    {
+                        "en": "Candidates for this position must be able to pass a drug screen.",
+                        "vi": "Các ứng cử viên cho vị trí này phải có khả năng vượt qua màn kiểm tra thuốc."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to say that people’s attention is on or not on something",
+                    "vi": "được sử dụng để nói rằng sự chú ý của mọi người đang tập trung vào hoặc không vào một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "The issue of terrorism is back on the radar screen.",
+                        "vi": "Vấn đề khủng bố đã trở lại trên màn hình radar."
+                    },
+                    {
+                        "en": "Since the scandal broke, all other issues seem to have disappeared off the radar screen as far as the media is concerned.",
+                        "vi": "Kể từ khi vụ bê bối nổ ra, tất cả các vấn đề khác dường như đã biến mất khỏi màn hình radar theo như phương tiện truyền thông quan tâm."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c9f34a1f3a584c819131efb20e923b7f",
+        "word": "stool",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/stuːl/",
+            "us": "/stuːl/"
+        },
+        "nearby": [
+            {
+                "word": "stood",
+                "pos": "verb"
+            },
+            {
+                "word": "stooge",
+                "pos": "noun"
+            },
+            {
+                "word": "stool",
+                "pos": "noun"
+            },
+            {
+                "word": "stool pigeon",
+                "pos": "noun"
+            },
+            {
+                "word": "stoop",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a seat with legs but with nothing to support your back or arms",
+                    "vi": "ghế có chân nhưng không có gì để đỡ lưng hoặc tay của bạn"
+                },
+                "examples": [
+                    {
+                        "en": "a bar stool",
+                        "vi": "ghế bar"
+                    },
+                    {
+                        "en": "a piano stool",
+                        "vi": "ghế đẩu piano"
+                    },
+                    {
+                        "en": "She pulled up a stool next to me.",
+                        "vi": "Cô ấy kéo một chiếc ghế đẩu cạnh tôi lên."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a piece of solid waste from your body",
+                    "vi": "một phần chất thải rắn từ cơ thể của bạn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to fail to be or to get either of two choices, both of which would have been acceptable",
+                    "vi": "không được hoặc không có được một trong hai lựa chọn, cả hai lựa chọn đều có thể chấp nhận được"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "ae3a4c76b11849bca74c960b554566e3",
+        "word": "ultrasound",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈʌltrəsaʊnd/",
+            "us": "/ˈʌltrəsaʊnd/"
+        },
+        "nearby": [
+            {
+                "word": "ultrashort",
+                "pos": "adjective"
+            },
+            {
+                "word": "ultrasonic",
+                "pos": "adjective"
+            },
+            {
+                "word": "ultrasound",
+                "pos": "noun"
+            },
+            {
+                "word": "ultraviolet",
+                "pos": "adjective"
+            },
+            {
+                "word": "ultra vires",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "sound that is higher than humans can hear",
+                    "vi": "âm thanh cao hơn con người có thể nghe thấy"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a medical process that produces an image of what is inside your body",
+                    "vi": "một quy trình y tế tạo ra hình ảnh về những gì bên trong cơ thể bạn"
+                },
+                "examples": [
+                    {
+                        "en": "Ultrasound showed she was expecting twins.",
+                        "vi": "Siêu âm cho thấy cô đang mong đợi một cặp song sinh."
+                    },
+                    {
+                        "en": "an ultrasound scan",
+                        "vi": "siêu âm"
+                    },
+                    {
+                        "en": "ultrasound scanning",
+                        "vi": "quét siêu âm"
+                    }
+                ]
+            }
+        ]
+    }
+]

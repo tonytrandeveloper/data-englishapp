@@ -1,0 +1,132 @@
+{
+    "id": "8b9bd06b5cf949da95bb6efa19f2bcf4",
+    "title": "Question Tags And Short Answers",
+    "exercises": [
+        {
+            "id": "55eb15f74b4245c1a23960c9df69c358",
+            "title": "Question Tags And Short Answers",
+            "questions": [
+                {
+                    "question": "Your sister sings well, …………………….?",
+                    "description": "We make question tags in the simple present tense with do and does. Note that we use a negative tag after an affirmative sentence.",
+                    "answers": [
+                        "does she",
+                        "doesn't she",
+                        "hasn't she"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Samuel passed the test, …………………….?",
+                    "description": "In the simple past tense we make question tags with did.",
+                    "answers": [
+                        "doesn't he",
+                        "did he",
+                        "didn't he"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "She recognized him, ……………………..?",
+                    "description": "In the simple past tense we make question tags with did.",
+                    "answers": [
+                        "hadn't she",
+                        "didn't she",
+                        "doesn't she"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Someone wanted a drink, ……………………..?",
+                    "description": "In question tags we use they to refer to somebody. ",
+                    "answers": [
+                        "did they",
+                        "didn't he",
+                        "didn't they"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "You like mushrooms, ……………………..?",
+                    "description": "We make question tags in the simple present tense with do and does. Note that we use a negative tag after an affirmative sentence.",
+                    "answers": [
+                        "do you",
+                        "don't you",
+                        "didn't you"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "He works hard, ……………………….?",
+                    "description": "We make question tags in the simple present tense with do and does. Note that we use a negative tag after an affirmative sentence.",
+                    "answers": [
+                        "does he",
+                        "doesn't he",
+                        "hasn't he"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "‘Is your son married?’ ‘Yes, he ………………..’",
+                    "description": "Affirmative short answers have the form ‘Yes + pronoun + auxiliary’.",
+                    "answers": [
+                        "is",
+                        "has",
+                        "married"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "‘He took the money.’ ‘No, he ……………………’",
+                    "description": "Negative short answers have the form ‘No + pronoun + auxiliary + n’t’",
+                    "answers": [
+                        "doesn't",
+                        "did",
+                        "didn't"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "He doesn’t speak German. …………………….. do I.",
+                    "description": "Negative additions to negative statements are made with ‘nor / neither + auxiliary + subject’.",
+                    "answers": [
+                        "Neither",
+                        "Nor",
+                        "Either could be used here"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "She can’t swim. Neither ……………………..",
+                    "description": "Negative additions to negative statements are made with ‘nor / neither + auxiliary + subject’.",
+                    "answers": [
+                        "I can",
+                        "can I",
+                        "Either could be used here"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "My husband loves music. …………………. do I.",
+                    "description": "Affirmative additions to affirmative statements are made with ‘so + auxiliary + subject’.",
+                    "answers": [
+                        "Neither",
+                        "Nor",
+                        "So"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "‘I didn’t hear the sound.’ ‘……………………. did I.’",
+                    "description": "",
+                    "answers": [
+                        "Neither",
+                        "So",
+                        "Of course"
+                    ],
+                    "correct": 0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "id": "51c6f246c926419386ae2b3dc06d3369",
+    "title": "A Cashier",
+    "questions": [
+        {
+            "id": "becd84f8f7164e3fb01dbf60ad8b6f4c",
+            "text": "What kind of work do you do?",
+            "items": [
+                "What",
+                "kind",
+                "of",
+                "work",
+                "do",
+                "you",
+                "do?"
+            ]
+        },
+        {
+            "id": "9b2a6b37761846adab81d1a899c67993",
+            "text": "I'm a cashier at a supermarket.",
+            "items": [
+                "I'm",
+                "a",
+                "cashier",
+                "at",
+                "a",
+                "supermarket."
+            ]
+        },
+        {
+            "id": "97e85b9f613c4b4d8b9d200f00d839be",
+            "text": "Do you like your job?",
+            "items": [
+                "Do",
+                "you",
+                "like",
+                "your",
+                "job?"
+            ]
+        },
+        {
+            "id": "28f694d943de4920899e7af497d18652",
+            "text": "No, It's not very interesting.",
+            "items": [
+                "No,",
+                "It's",
+                "not",
+                "very",
+                "interesting."
+            ]
+        },
+        {
+            "id": "78adeedc57d4442cbccfc78e2c5d00c6",
+            "text": "And you don't make much money.",
+            "items": [
+                "And",
+                "you",
+                "don't",
+                "make",
+                "much",
+                "money."
+            ]
+        },
+        {
+            "id": "87d1d2fc3dd84bb08fa04bc449f686b0",
+            "text": "That's right. I make very little.",
+            "items": [
+                "That's",
+                "right.",
+                "I",
+                "make",
+                "very",
+                "little."
+            ]
+        },
+        {
+            "id": "efa00d18d03f428e9426986fb98d1dcd",
+            "text": "I think you should look for another job.",
+            "items": [
+                "I",
+                "think",
+                "you",
+                "should",
+                "look",
+                "for",
+                "another",
+                "job."
+            ]
+        },
+        {
+            "id": "10427edf427c43d4b55fc2721cfe7acc",
+            "text": "I am, but it's not easy to find one.",
+            "items": [
+                "I",
+                "am,",
+                "but",
+                "it's",
+                "not",
+                "easy",
+                "to",
+                "find",
+                [
+                    "one.",
+                    "i,",
+                    "1"
+                ]
+            ]
+        },
+        {
+            "id": "ecdf4162b23346459c8a4996cd24d6a8",
+            "text": "Keep looking! You'll get one.",
+            "items": [
+                "Keep",
+                "looking!",
+                "You'll",
+                "get",
+                [
+                    "one.",
+                    "i,",
+                    "1"
+                ]
+            ]
+        },
+        {
+            "id": "66995f8641084813b2332dfd258c6a3f",
+            "text": "Thanks. I hope you're right.",
+            "items": [
+                "Thanks.",
+                "I",
+                "hope",
+                "you're",
+                "right."
+            ]
+        }
+    ]
+}

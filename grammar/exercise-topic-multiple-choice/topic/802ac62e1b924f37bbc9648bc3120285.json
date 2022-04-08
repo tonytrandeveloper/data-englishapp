@@ -1,0 +1,120 @@
+{
+    "id": "802ac62e1b924f37bbc9648bc3120285",
+    "title": "Transitive vs. Intransitive Verbs",
+    "exercises": [
+        {
+            "id": "1f83606133334bb6a1bbc29783e0bff3",
+            "title": "Transitive And Intransitive Verbs Exercise",
+            "questions": [
+                {
+                    "question": "The teacher gave him a medal.",
+                    "description": "Indirect object – him direct object - medal",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "He told me a secret.",
+                    "description": "Indirect object – me direct object - secret",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "They took the child to hospital.",
+                    "description": "Object – the child",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "She spoke intelligently.",
+                    "description": "No object",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Please speak the truth.",
+                    "description": "Object - truth",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "The bell rang loudly.",
+                    "description": "No object ",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "The door creaked loudly.",
+                    "description": "No object",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "They tried a new method to solve the problem.",
+                    "description": "Object – a new method",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "They tried hard to solve the problem.",
+                    "description": "No object ",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Many trees fell in the storm.",
+                    "description": "No object",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "People often fell trees indiscriminately.",
+                    "description": "Object - fell",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "He laid the bag on the table.",
+                    "description": "Object - the bag",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 0
+                }
+            ]
+        }
+    ]
+}

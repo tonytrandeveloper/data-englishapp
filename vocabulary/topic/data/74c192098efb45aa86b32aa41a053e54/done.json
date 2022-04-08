@@ -1,0 +1,696 @@
+[
+    {
+        "id": "8e02e887b28a4f5aab9311bb3b73f24a",
+        "word": "refractive index",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/rɪˌfræktɪv ˈɪndeks/",
+            "us": "/rɪˌfræktɪv ˈɪndeks/"
+        },
+        "nearby": [
+            {
+                "word": "refraction",
+                "pos": "noun"
+            },
+            {
+                "word": "refractive",
+                "pos": "adjective"
+            },
+            {
+                "word": "refractive index",
+                "pos": "noun"
+            },
+            {
+                "word": "refractometer",
+                "pos": "noun"
+            },
+            {
+                "word": "refractor",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a measurement of how much an object or a substance refracts light",
+                    "vi": "phép đo một vật hoặc một chất khúc xạ ánh sáng bao nhiêu"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "9cd18faa081444dc867cb9d4442e7a0e",
+        "word": "resistance",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/rɪˈzɪstəns/",
+            "us": "/rɪˈzɪstəns/"
+        },
+        "nearby": [
+            {
+                "word": "resinous",
+                "pos": "adjective"
+            },
+            {
+                "word": "resist",
+                "pos": "verb"
+            },
+            {
+                "word": "resistance",
+                "pos": "noun"
+            },
+            {
+                "word": "resistant",
+                "pos": "adjective"
+            },
+            {
+                "word": "resister",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "dislike of or opposition to a plan, an idea, etc.; the act of refusing to obey",
+                    "vi": "không thích hoặc phản đối một kế hoạch, một ý tưởng, v.v.; hành động từ chối tuân theo"
+                },
+                "examples": [
+                    {
+                        "en": "As with all new ideas it met with resistance.",
+                        "vi": "Như với tất cả những ý tưởng mới, nó vấp phải sự phản kháng."
+                    },
+                    {
+                        "en": "resistance to somebody/something There has been a lot of resistance to this new law.",
+                        "vi": "kháng cự với ai đó / điều gì đó Đã có rất nhiều sự phản đối đối với luật mới này."
+                    },
+                    {
+                        "en": "Resistance to change has nearly destroyed the industry.",
+                        "vi": "Sự phản kháng lại sự thay đổi đã gần như phá hủy ngành công nghiệp này."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the act of using force to oppose somebody/something",
+                    "vi": "hành động sử dụng vũ lực để chống lại ai đó / cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "There were a number of episodes of armed resistance during the early years of occupation.",
+                        "vi": "Có một số cuộc kháng chiến vũ trang trong những năm đầu bị chiếm đóng."
+                    },
+                    {
+                        "en": "The defenders put up a strong resistance.",
+                        "vi": "Các hậu vệ đã đưa ra một sự kháng cự mạnh mẽ."
+                    },
+                    {
+                        "en": "resistance to somebody/something The demonstrators offered little or no resistance to the police.",
+                        "vi": "kháng cự với ai đó / điều gì đó Người biểu tình đề nghị ít hoặc không chống lại cảnh sát."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the power not to be affected by something",
+                    "vi": "sức mạnh không bị ảnh hưởng bởi một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "AIDS lowers the body's resistance to infection.",
+                        "vi": "AIDS làm giảm sức đề kháng của cơ thể đối với nhiễm trùng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a force that stops something moving or makes it move more slowly",
+                    "vi": "một lực ngăn một thứ gì đó chuyển động hoặc làm cho nó chuyển động chậm hơn"
+                },
+                "examples": [
+                    {
+                        "en": "wind/air resistance (= in the design of planes or cars)",
+                        "vi": "sức cản của gió / không khí (= trong thiết kế máy bay hoặc ô tô)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the opposition of a substance or device to the flow of an electrical current",
+                    "vi": "sự đối lập của một chất hoặc thiết bị với dòng điện"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a secret organization that resists the authorities, especially in a country that an enemy has control of",
+                    "vi": "một tổ chức bí mật chống lại chính quyền, đặc biệt là ở một quốc gia mà kẻ thù nắm quyền kiểm soát"
+                },
+                "examples": [
+                    {
+                        "en": "resistance fighters",
+                        "vi": "người kháng chiến"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "(to choose, etc.) the easiest way of doing something",
+                    "vi": "(để lựa chọn, v.v.) cách dễ nhất để làm điều gì đó"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "ea7192007f7e40f9985765a7f86412eb",
+        "word": "static",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈstætɪk/",
+            "us": "/ˈstætɪk/"
+        },
+        "nearby": [
+            {
+                "word": "the State University of New York",
+                "pos": ""
+            },
+            {
+                "word": "statewide",
+                "pos": "adjective, adverb"
+            },
+            {
+                "word": "static",
+                "pos": "adjective"
+            },
+            {
+                "word": "static",
+                "pos": "noun"
+            },
+            {
+                "word": "static electricity",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "not moving, changing or developing",
+                    "vi": "không di chuyển, thay đổi hoặc phát triển"
+                },
+                "examples": [
+                    {
+                        "en": "The balance sheet provides a static picture of the financial position at a point in time.",
+                        "vi": "Bảng cân đối kế toán cung cấp một bức tranh tĩnh về tình hình tài chính tại một thời điểm."
+                    },
+                    {
+                        "en": "Prices on the stock market, which have been static, are now rising again.",
+                        "vi": "Giá trên thị trường chứng khoán, vốn đã tĩnh, nay đang tăng trở lại."
+                    },
+                    {
+                        "en": "a static population level",
+                        "vi": "một mức dân số tĩnh"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "acting as a weight but not producing movement",
+                    "vi": "hoạt động như một trọng lượng nhưng không tạo ra chuyển động"
+                },
+                "examples": [
+                    {
+                        "en": "static pressure",
+                        "vi": "áp suất tĩnh"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "bb71b208f6c14f81bbda0aaee77e7ed0",
+        "word": "static",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈstætɪk/",
+            "us": "/ˈstætɪk/"
+        },
+        "nearby": [
+            {
+                "word": "statewide",
+                "pos": "adjective, adverb"
+            },
+            {
+                "word": "static",
+                "pos": "adjective"
+            },
+            {
+                "word": "static",
+                "pos": "noun"
+            },
+            {
+                "word": "static electricity",
+                "pos": "noun"
+            },
+            {
+                "word": "statin",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "noise or other effects that interrupt radio or television signals and are caused by particular conditions in the atmosphere",
+                    "vi": "tiếng ồn hoặc các hiệu ứng khác làm gián đoạn tín hiệu vô tuyến hoặc truyền hình và do các điều kiện cụ thể trong khí quyển gây ra"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "electricity that gathers on or in an object that is not a conductor of electricity",
+                    "vi": "điện tụ trên hoặc trong một vật không phải là vật dẫn điện"
+                },
+                "examples": [
+                    {
+                        "en": "My hair gets full of static when I brush it.",
+                        "vi": "Tóc của tôi trở nên tĩnh điện khi tôi chải nó."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the science that deals with the forces that balance each other to keep objects in a state of rest",
+                    "vi": "khoa học xử lý các lực cân bằng lẫn nhau để giữ cho các vật thể ở trạng thái nghỉ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "angry or critical comments or behaviour",
+                    "vi": "nhận xét hoặc hành vi tức giận hoặc chỉ trích"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "11c866be3e4c4043a0af374c3cfd77b1",
+        "word": "strong force",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈstrɒŋ fɔːs/",
+            "us": "/ˈstrɔːŋ fɔːrs/"
+        },
+        "nearby": [
+            {
+                "word": "strong-arm",
+                "pos": "adjective"
+            },
+            {
+                "word": "strongbox",
+                "pos": "noun"
+            },
+            {
+                "word": "strong force",
+                "pos": "noun"
+            },
+            {
+                "word": "stronghold",
+                "pos": "noun"
+            },
+            {
+                "word": "strongly",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "one of the four fundamental forces in the universe, which holds the parts of the nucleus of an atom together",
+                    "vi": "một trong bốn lực cơ bản trong vũ trụ, lực này giữ các phần của hạt nhân nguyên tử lại với nhau"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "6953d9fe9e734f3f8fccfbdb1a489c8e",
+        "word": "terminal velocity",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌtɜːmɪnl vəˈlɒsəti/",
+            "us": "/ˌtɜːrmɪnl vəˈlɑːsəti/"
+        },
+        "nearby": [
+            {
+                "word": "terminal",
+                "pos": "adjective"
+            },
+            {
+                "word": "terminally",
+                "pos": "adverb"
+            },
+            {
+                "word": "terminal velocity",
+                "pos": "noun"
+            },
+            {
+                "word": "terminate",
+                "pos": "verb"
+            },
+            {
+                "word": "termination",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the maximum speed that something falling through air, water or a gas can reach before the effect of gravity is balanced by the forces of friction",
+                    "vi": "Tốc độ tối đa mà vật rơi trong không khí, nước hoặc chất khí có thể đạt tới trước tác dụng của trọng lực được cân bằng bởi lực ma sát"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "a87345abb130477ba36f1125dc27295c",
+        "word": "thermostatic",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌθɜːməˈstætɪk/",
+            "us": "/ˌθɜːrməˈstætɪk/"
+        },
+        "nearby": [
+            {
+                "word": "the thermosphere",
+                "pos": "noun"
+            },
+            {
+                "word": "thermostat",
+                "pos": "noun"
+            },
+            {
+                "word": "thermostatic",
+                "pos": "adjective"
+            },
+            {
+                "word": "thermostatically",
+                "pos": "adverb"
+            },
+            {
+                "word": "thesaurus",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "connected with or using a thermostat",
+                    "vi": "được kết nối với hoặc sử dụng máy điều nhiệt"
+                },
+                "examples": [
+                    {
+                        "en": "thermostatic control",
+                        "vi": "kiểm soát nhiệt"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2435e6075d88413a9d2f756265d9ce77",
+        "word": "thermostatically",
+        "pos": "adverb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌθɜːməˈstætɪkli/",
+            "us": "/ˌθɜːrməˈstætɪkli/"
+        },
+        "nearby": [
+            {
+                "word": "thermostat",
+                "pos": "noun"
+            },
+            {
+                "word": "thermostatic",
+                "pos": "adjective"
+            },
+            {
+                "word": "thermostatically",
+                "pos": "adverb"
+            },
+            {
+                "word": "thesaurus",
+                "pos": "noun"
+            },
+            {
+                "word": "these",
+                "pos": "determiner, pronoun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "in a way that is connected with or uses a thermostat",
+                    "vi": "theo cách được kết nối với hoặc sử dụng bộ điều nhiệt"
+                },
+                "examples": [
+                    {
+                        "en": "The oven is thermostatically controlled.",
+                        "vi": "Lò được điều khiển bằng nhiệt."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f9fdbb85c85a49679f3cb33f69c086c4",
+        "word": "ultraviolet",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌʌltrəˈvaɪələt/",
+            "us": "/ˌʌltrəˈvaɪələt/"
+        },
+        "nearby": [
+            {
+                "word": "ultrasonic",
+                "pos": "adjective"
+            },
+            {
+                "word": "ultrasound",
+                "pos": "noun"
+            },
+            {
+                "word": "ultraviolet",
+                "pos": "adjective"
+            },
+            {
+                "word": "ultra vires",
+                "pos": "adverb"
+            },
+            {
+                "word": "ululate",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "of or using electromagnetic waves that are just shorter than those of violet light in the spectrum and that cannot be seen",
+                    "vi": "hoặc sử dụng sóng điện từ chỉ ngắn hơn sóng của ánh sáng tím trong quang phổ và không thể nhìn thấy được"
+                },
+                "examples": [
+                    {
+                        "en": "ultraviolet rays (= that cause the skin to go darker)",
+                        "vi": "tia cực tím (= làm cho da sẫm màu hơn)"
+                    },
+                    {
+                        "en": "an ultraviolet lamp",
+                        "vi": "đèn cực tím"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3955f5b4b0c443c489c1b7c5900614a5",
+        "word": "vector",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈvektə(r)/",
+            "us": "/ˈvektər/"
+        },
+        "nearby": [
+            {
+                "word": "VDU",
+                "pos": "noun"
+            },
+            {
+                "word": "veal",
+                "pos": "noun"
+            },
+            {
+                "word": "vector",
+                "pos": "noun"
+            },
+            {
+                "word": "Veda",
+                "pos": "noun"
+            },
+            {
+                "word": "V-E Day",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a quantity that has both size and direction",
+                    "vi": "một đại lượng có cả kích thước và hướng"
+                },
+                "examples": [
+                    {
+                        "en": "Acceleration and velocity are both vectors.",
+                        "vi": "Gia tốc và vận tốc đều là vectơ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an insect, etc. that carries a particular disease from one living thing to another",
+                    "vi": "côn trùng, v.v. mang một căn bệnh cụ thể từ sinh vật này sang sinh vật khác"
+                },
+                "examples": [
+                    {
+                        "en": "Mosquitoes are the vectors in malaria.",
+                        "vi": "Muỗi là vật trung gian truyền bệnh sốt rét."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a course taken by an aircraft",
+                    "vi": "một khóa học được thực hiện bởi một chiếc máy bay"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "630d7b855b3840369275ad17f81e66ff",
+        "word": "velocity",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/vəˈlɒsəti/",
+            "us": "/vəˈlɑːsəti/"
+        },
+        "nearby": [
+            {
+                "word": "vellum",
+                "pos": "noun"
+            },
+            {
+                "word": "velociraptor",
+                "pos": "noun"
+            },
+            {
+                "word": "velocity",
+                "pos": "noun"
+            },
+            {
+                "word": "velodrome",
+                "pos": "noun"
+            },
+            {
+                "word": "velour",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the speed of something in a particular direction",
+                    "vi": "tốc độ của một cái gì đó theo một hướng cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "the velocity of light",
+                        "vi": "vận tốc ánh sáng"
+                    },
+                    {
+                        "en": "to gain/lose velocity",
+                        "vi": "để tăng / giảm vận tốc"
+                    },
+                    {
+                        "en": "a high-velocity rifle",
+                        "vi": "một khẩu súng trường tốc độ cao"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "high speed",
+                    "vi": "tốc độ cao"
+                },
+                "examples": [
+                    {
+                        "en": "Jaguars can move with an astonishing velocity.",
+                        "vi": "Báo đốm có thể di chuyển với một vận tốc đáng kinh ngạc."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "608cb50dcfeb4048bd511bf74f552bfc",
+        "word": "weak force",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈwiːk fɔːs/",
+            "us": "/ˈwiːk fɔːrs/"
+        },
+        "nearby": [
+            {
+                "word": "weaken",
+                "pos": "verb"
+            },
+            {
+                "word": "The Weakest Link",
+                "pos": ""
+            },
+            {
+                "word": "weak force",
+                "pos": "noun"
+            },
+            {
+                "word": "weak-kneed",
+                "pos": "adjective"
+            },
+            {
+                "word": "weakling",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "one of the four fundamental forces in the universe, which is produced between particles in an atom",
+                    "vi": "một trong bốn lực cơ bản trong vũ trụ, được tạo ra giữa các hạt trong nguyên tử"
+                },
+                "examples": []
+            }
+        ]
+    }
+]

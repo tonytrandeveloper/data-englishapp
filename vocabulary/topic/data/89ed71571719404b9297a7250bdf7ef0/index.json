@@ -1,0 +1,916 @@
+[
+    {
+        "id": "8d8220fd8ef6404f81c40cbb55f35c68",
+        "word": "hockey",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/ˈhɒki/",
+            "us": "/ˈhɑːki/"
+        },
+        "nearby": [
+            {
+                "word": "hock",
+                "pos": "noun"
+            },
+            {
+                "word": "hock",
+                "pos": "verb"
+            },
+            {
+                "word": "hockey",
+                "pos": "noun"
+            },
+            {
+                "word": "hocus-pocus",
+                "pos": "noun"
+            },
+            {
+                "word": "hod",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a game played on a field by two teams of 11 players, with curved sticks and a small hard ball. Teams try to hit the ball into the other team’s goal.",
+                    "vi": "một trò chơi được chơi trên sân của hai đội gồm 11 người chơi, với gậy cong và một quả bóng cứng nhỏ. Các đội cố gắng sút bóng vào khung thành của đội kia."
+                },
+                "examples": [
+                    {
+                        "en": "to play hockey",
+                        "vi": "chơi khúc côn cầu"
+                    },
+                    {
+                        "en": "a hockey stick/pitch/player/team",
+                        "vi": "gậy khúc côn cầu / sân / cầu thủ / đội"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a game played on ice, in which players use long sticks to hit a hard rubber disc (called a puck) into the other team’s goal",
+                    "vi": "một trò chơi chơi trên băng, trong đó người chơi dùng gậy dài để đánh một đĩa cao su cứng (gọi là puck) vào khung thành của đội kia"
+                },
+                "examples": [
+                    {
+                        "en": "She plays hockey in the winter.",
+                        "vi": "Cô ấy chơi khúc côn cầu vào mùa đông."
+                    },
+                    {
+                        "en": "a hockey stick/puck/rink/player/team",
+                        "vi": "gậy khúc côn cầu / puck / sân trượt / người chơi / đội"
+                    },
+                    {
+                        "en": "Every Saturday night people would sit in front of their television sets watching hockey.",
+                        "vi": "Mỗi tối thứ bảy, mọi người sẽ ngồi trước tivi để xem khúc côn cầu."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "62570ca5707646d0bf37cf2d028fac06",
+        "word": "stick",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/stɪk/",
+            "us": "/stɪk/"
+        },
+        "nearby": [
+            {
+                "word": "STI",
+                "pos": "noun"
+            },
+            {
+                "word": "stick",
+                "pos": "verb"
+            },
+            {
+                "word": "stick",
+                "pos": "noun"
+            },
+            {
+                "word": "stickability",
+                "pos": "noun"
+            },
+            {
+                "word": "stick around",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a thin piece of wood that has fallen or been broken from a tree",
+                    "vi": "một mảnh gỗ mỏng bị rơi hoặc bị gãy từ cây"
+                },
+                "examples": [
+                    {
+                        "en": "We collected dry sticks to start a fire.",
+                        "vi": "Chúng tôi thu thập những que củi khô để nhóm lửa."
+                    },
+                    {
+                        "en": "He said he was beaten with a stick.",
+                        "vi": "Anh ta nói rằng anh ta đã bị đánh bằng một cây gậy."
+                    },
+                    {
+                        "en": "The boys were throwing sticks and stones at the dog.",
+                        "vi": "Các cậu bé ném gậy và đá vào con chó."
+                    },
+                    {
+                        "en": "Her arms and legs were like sticks (= very thin).",
+                        "vi": "Tay và chân của cô ấy như que củi (= rất gầy)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a stick that you carry and use as a support when you are walking",
+                    "vi": "một cây gậy mà bạn mang theo và sử dụng làm điểm tựa khi bạn đi bộ"
+                },
+                "examples": [
+                    {
+                        "en": "He walks with a stick these days, but he still gets about.",
+                        "vi": "Anh ấy đi bộ với một cây gậy những ngày này, nhưng anh ấy vẫn đi được."
+                    },
+                    {
+                        "en": "The old lady leant on her stick as she talked.",
+                        "vi": "Bà cụ chống gậy khi nói chuyện."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a long, thin object that is used in some sports to hit or control the ball",
+                    "vi": "một vật dài, mỏng được sử dụng trong một số môn thể thao để đánh hoặc kiểm soát bóng"
+                },
+                "examples": [
+                    {
+                        "en": "a hockey stick",
+                        "vi": "một cây gậy khúc côn cầu"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a long, thin piece of something",
+                    "vi": "một mảnh dài, mỏng của một thứ gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "The man had sticks of dynamite strapped to his chest.",
+                        "vi": "Người đàn ông bị quấn một que thuốc nổ vào ngực."
+                    },
+                    {
+                        "en": "a stick of gum",
+                        "vi": "một thanh kẹo cao su"
+                    },
+                    {
+                        "en": "carrot/cinnamon/celery sticks",
+                        "vi": "que cà rốt / quế / cần tây"
+                    },
+                    {
+                        "en": "(North American English) a stick of butter",
+                        "vi": "(Tiếng Anh Bắc Mỹ) một miếng bơ"
+                    },
+                    {
+                        "en": "The savoury dips were served with sticks of carrot and celery.",
+                        "vi": "Nước chấm mặn được phục vụ với cà rốt và cần tây."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a thin piece of wood or plastic that you use for a particular purpose",
+                    "vi": "một miếng gỗ hoặc nhựa mỏng mà bạn sử dụng cho một mục đích cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "pieces of pineapple on sticks",
+                        "vi": "miếng dứa trên que"
+                    },
+                    {
+                        "en": "The men were carrying spades and measuring sticks.",
+                        "vi": "Những người đàn ông mang theo thuổng và que đo."
+                    },
+                    {
+                        "en": "I used a selfie stick to take the picture.",
+                        "vi": "Tôi đã sử dụng gậy tự sướng để chụp ảnh."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a quantity of a substance, such as solid glue (= a sticky substance), that is sold in a small container with round ends and straight sides, and can be pushed further out of the container as it is used",
+                    "vi": "Một lượng chất, chẳng hạn như keo đặc (= chất dính), được bán trong một hộp đựng nhỏ với các đầu tròn và các cạnh thẳng, và có thể được đẩy ra khỏi hộp đựng khi nó được sử dụng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a stick with a handle in a plane that is used to control direction or height",
+                    "vi": "một cây gậy có tay cầm trên mặt phẳng được sử dụng để điều khiển hướng hoặc độ cao"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a handle used to change the gears of a vehicle",
+                    "vi": "một tay cầm được sử dụng để thay đổi các bánh răng của một chiếc xe"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a baton, used by the person who conducts an orchestra",
+                    "vi": "một dùi cui, được sử dụng bởi người chỉ huy một dàn nhạc"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "criticism or severe words",
+                    "vi": "những lời chỉ trích hoặc nặng nề"
+                },
+                "examples": [
+                    {
+                        "en": "The referee got a lot of stick from the home fans.",
+                        "vi": "Trọng tài đã dính rất nhiều đòn từ các CĐV nhà."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "country areas, a long way from cities",
+                    "vi": "các khu vực nông thôn, một chặng đường dài từ các thành phố"
+                },
+                "examples": [
+                    {
+                        "en": "We live out in the sticks.",
+                        "vi": "Chúng tôi sống trong những cây gậy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person",
+                    "vi": "một người"
+                },
+                "examples": [
+                    {
+                        "en": "He's not such a bad old stick.",
+                        "vi": "Anh ấy không phải là một cây gậy cũ xấu như vậy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be in a difficult situation when any action you take will have bad results",
+                    "vi": "rơi vào tình huống khó khăn khi bất kỳ hành động nào bạn thực hiện đều có kết quả xấu"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the use or threat of force or power",
+                    "vi": "việc sử dụng hoặc đe dọa vũ lực hoặc quyền lực"
+                },
+                "examples": [
+                    {
+                        "en": "The authorities used quiet persuasion instead of the big stick.",
+                        "vi": "Các nhà chức trách đã sử dụng sự thuyết phục yên lặng thay vì cây gậy lớn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if you use the carrot and stick approach, you persuade somebody to try harder by offering them a reward if they do, or a punishment if they do not",
+                    "vi": "nếu bạn sử dụng phương pháp tiếp cận củ cà rốt và cây gậy, bạn thuyết phục ai đó cố gắng hơn bằng cách đưa ra phần thưởng cho họ nếu họ làm như vậy hoặc một hình phạt nếu họ không làm"
+                },
+                "examples": [
+                    {
+                        "en": "The emphasis is on the carrot of incentive rather than the stick of taxes.",
+                        "vi": "Sự nhấn mạnh là cà rốt của sự khuyến khích hơn là cây gậy của thuế."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be the person in a group who is chosen or forced to perform an unpleasant duty or task",
+                    "vi": "trở thành người trong nhóm được chọn hoặc buộc phải thực hiện một nhiệm vụ hoặc nhiệm vụ khó chịu"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to understand something in the wrong way",
+                    "vi": "hiểu sai điều gì đó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a fact, an argument, etc. that is used in order to blame or punish somebody",
+                    "vi": "một thực tế, một lập luận, v.v. được sử dụng để đổ lỗi hoặc trừng phạt ai đó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to suddenly move from your house and go to live somewhere else",
+                    "vi": "đột ngột chuyển khỏi nhà của bạn và đi đến một nơi khác"
+                },
+                "examples": [
+                    {
+                        "en": "He upped sticks and went back to France.",
+                        "vi": "Anh ta chống gậy và quay trở lại Pháp."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c985e5d21f864fc590533723d2915d14",
+        "word": "table tennis",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/ˈteɪbl tenɪs/",
+            "us": "/ˈteɪbl tenɪs/"
+        },
+        "nearby": [
+            {
+                "word": "tablet",
+                "pos": "noun"
+            },
+            {
+                "word": "The Tablet",
+                "pos": ""
+            },
+            {
+                "word": "table tennis",
+                "pos": "noun"
+            },
+            {
+                "word": "tabletop",
+                "pos": "adjective"
+            },
+            {
+                "word": "tabletop",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a game played like tennis with bats and a small plastic ball on a table with a net across it",
+                    "vi": "một trò chơi được chơi như quần vợt với những con dơi và một quả bóng nhựa nhỏ trên bàn có lưới giăng ngang"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "81a0455c4e1349849727b7a81af79716",
+        "word": "volleyball",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/ˈvɒlibɔːl/",
+            "us": "/ˈvɑːlibɔːl/"
+        },
+        "nearby": [
+            {
+                "word": "volley",
+                "pos": "noun"
+            },
+            {
+                "word": "volley",
+                "pos": "verb"
+            },
+            {
+                "word": "volleyball",
+                "pos": "noun"
+            },
+            {
+                "word": "Volpone",
+                "pos": ""
+            },
+            {
+                "word": "the Volstead Act",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a game in which two teams of six players use their hands to hit a large ball backwards and forwards over a high net while trying not to let the ball touch the ground on their own side",
+                    "vi": "một trò chơi trong đó hai đội gồm sáu người chơi dùng tay để đánh một quả bóng lớn về phía sau và về phía trước trên lưới cao trong khi cố gắng không để bóng chạm đất về phía mình"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "26d15f4d9d344d89a230b3425e655c50",
+        "word": "bowling ball",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈbəʊlɪŋ bɔːl/",
+            "us": "/ˈbəʊlɪŋ bɔːl/"
+        },
+        "nearby": [
+            {
+                "word": "bowling",
+                "pos": "noun"
+            },
+            {
+                "word": "bowling alley",
+                "pos": "noun"
+            },
+            {
+                "word": "bowling ball",
+                "pos": "noun"
+            },
+            {
+                "word": "bowling green",
+                "pos": "noun"
+            },
+            {
+                "word": "bowl over",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a heavy ball with holes that you put your fingers into, used in the game of bowling",
+                    "vi": "một quả bóng nặng có lỗ mà bạn đặt ngón tay vào, được sử dụng trong trò chơi bowling"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "3a4e1d2489944565b45df8e875bdaf4b",
+        "word": "ping-pong",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈpɪŋ pɒŋ/",
+            "us": "/ˈpɪŋ pɑːŋ/"
+        },
+        "nearby": [
+            {
+                "word": "ping",
+                "pos": "verb"
+            },
+            {
+                "word": "pinger",
+                "pos": "noun"
+            },
+            {
+                "word": "ping-pong",
+                "pos": "noun"
+            },
+            {
+                "word": "pinhead",
+                "pos": "noun"
+            },
+            {
+                "word": "pinhole",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a game played like tennis with bats and a small plastic ball on a table with a net across it",
+                    "vi": "một trò chơi được chơi như quần vợt với những con dơi và một quả bóng nhựa nhỏ trên bàn có lưới giăng ngang"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "b4f757ed79444424aa17f33671a50c7a",
+        "word": "squash",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/skwɒʃ/",
+            "us": "/skwɑːʃ/"
+        },
+        "nearby": [
+            {
+                "word": "squarish",
+                "pos": "adjective"
+            },
+            {
+                "word": "squash",
+                "pos": "verb"
+            },
+            {
+                "word": "squash",
+                "pos": "noun"
+            },
+            {
+                "word": "squash up",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "squashy",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a game for two players, played in a court surrounded by four walls, using rackets and a small rubber ball",
+                    "vi": "một trò chơi dành cho hai người chơi, chơi trong một tòa án được bao quanh bởi bốn bức tường, sử dụng vợt và một quả bóng cao su nhỏ"
+                },
+                "examples": [
+                    {
+                        "en": "a squash court",
+                        "vi": "một sân bóng quần"
+                    },
+                    {
+                        "en": "to play squash",
+                        "vi": "chơi bóng quần"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a drink made with fruit juice, sugar and water",
+                    "vi": "một thức uống làm từ nước trái cây, đường và nước"
+                },
+                "examples": [
+                    {
+                        "en": "a glass of orange/lemon squash",
+                        "vi": "một ly bí cam / chanh"
+                    },
+                    {
+                        "en": "Two orange squashes, please.",
+                        "vi": "Hai quả cam, làm ơn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a type of vegetable that grows on the ground. Winter squash have hard skin and are orange inside. Summer squash have soft yellow or green skin and are white inside.",
+                    "vi": "một loại rau mọc trên mặt đất. Bí đao có vỏ cứng và bên trong có màu cam. Bí mùa hè có vỏ mềm màu vàng hoặc xanh và bên trong có màu trắng."
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "if something is a squash, there is hardly enough room for everything or everyone to fit into a small space",
+                    "vi": "nếu một cái gì đó bí, khó có đủ chỗ cho mọi thứ hoặc mọi người có thể vừa với một không gian nhỏ"
+                },
+                "examples": [
+                    {
+                        "en": "It's a real squash with six of us in the car.",
+                        "vi": "Đó là một bí mật thực sự với sáu người chúng tôi trong xe."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "aebd3b5137834f09bd257becc8c5b4df",
+        "word": "badminton",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈbædmɪntən/",
+            "us": "/ˈbædmɪntən/"
+        },
+        "nearby": [
+            {
+                "word": "badly off",
+                "pos": "adjective"
+            },
+            {
+                "word": "badmash",
+                "pos": "noun"
+            },
+            {
+                "word": "badminton",
+                "pos": "noun"
+            },
+            {
+                "word": "Badminton",
+                "pos": ""
+            },
+            {
+                "word": "bad-mouth",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a game like tennis played by two or four people, usually indoors. Players hit a small light kind of ball, originally with feathers around it (= a shuttlecock) across a high net using a racket.",
+                    "vi": "một trò chơi như quần vợt do hai hoặc bốn người chơi, thường là trong nhà. Người chơi đánh một loại bóng nhỏ nhẹ, ban đầu có lông xung quanh (= quả cầu) qua lưới cao bằng vợt."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "02bbeeff29644ddd924b9a5307244f98",
+        "word": "netball",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈnetbɔːl/",
+            "us": "/ˈnetbɔːl/"
+        },
+        "nearby": [
+            {
+                "word": "net",
+                "pos": "verb"
+            },
+            {
+                "word": "neta",
+                "pos": "noun"
+            },
+            {
+                "word": "netball",
+                "pos": "noun"
+            },
+            {
+                "word": "netbook",
+                "pos": "noun"
+            },
+            {
+                "word": "net curtain",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a game played by two teams of seven players, especially women or girls. Players score by throwing a ball through a high net hanging from a ring on a post.",
+                    "vi": "một trò chơi được chơi bởi hai đội gồm bảy người chơi, đặc biệt là phụ nữ hoặc trẻ em gái. Người chơi ghi điểm bằng cách ném bóng qua lưới cao treo trên cột dọc."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "fd4fb2c16429470dbc197ecc8904b83c",
+        "word": "ball hockey",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbɔːl hɒki/",
+            "us": "/ˈbɔːl hɑːki/"
+        },
+        "nearby": [
+            {
+                "word": "ballgirl",
+                "pos": "noun"
+            },
+            {
+                "word": "ballhawk",
+                "pos": "noun"
+            },
+            {
+                "word": "ball hockey",
+                "pos": "noun"
+            },
+            {
+                "word": "ballistic",
+                "pos": "adjective"
+            },
+            {
+                "word": "ballistic missile",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a version of ice hockey played on a hard surface without ice, and with a ball instead of a puck",
+                    "vi": "một phiên bản khúc côn cầu trên băng chơi trên bề mặt cứng không có đá và với một quả bóng thay vì một quả bóng"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "c2fb1bfa5d81433383e3d03129a78623",
+        "word": "fives",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/faɪvz/",
+            "us": "/faɪvz/"
+        },
+        "nearby": [
+            {
+                "word": "Five Pillars of Islam",
+                "pos": "noun"
+            },
+            {
+                "word": "fiver",
+                "pos": "noun"
+            },
+            {
+                "word": "fives",
+                "pos": "noun"
+            },
+            {
+                "word": "five-spice",
+                "pos": "noun"
+            },
+            {
+                "word": "five-star",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a game played especially in British public schools in which players hit a ball with their hand or a bat against the walls of a court",
+                    "vi": "một trò chơi được chơi đặc biệt ở các trường công ở Anh, trong đó người chơi đánh bóng bằng tay hoặc gậy vào tường của sân"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "160f3956dec34035bd8b3db0bbe03ec5",
+        "word": "hurling",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈhɜːlɪŋ/",
+            "us": "/ˈhɜːrlɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "hurdy-gurdy",
+                "pos": "noun"
+            },
+            {
+                "word": "hurl",
+                "pos": "verb"
+            },
+            {
+                "word": "hurling",
+                "pos": "noun"
+            },
+            {
+                "word": "the Hurlingham",
+                "pos": ""
+            },
+            {
+                "word": "hurly-burly",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an Irish ball game similar to hockey played by two teams of 15 boys or men",
+                    "vi": "một trò chơi bóng Ailen tương tự như khúc côn cầu do hai đội gồm 15 nam hoặc nam chơi"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "240337a13dff4f6a9a31a3c7128d0866",
+        "word": "jai alai",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌhaɪ əˈlaɪ/",
+            "us": "/ˌhaɪ əˈlaɪ/"
+        },
+        "nearby": [
+            {
+                "word": "Jaguar",
+                "pos": ""
+            },
+            {
+                "word": "Jai",
+                "pos": "exclamation"
+            },
+            {
+                "word": "jai alai",
+                "pos": "noun"
+            },
+            {
+                "word": "jail",
+                "pos": "noun"
+            },
+            {
+                "word": "jail",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a game played on a court with large baskets that are used to catch and throw a small hard ball against a wall",
+                    "vi": "một trò chơi được chơi trên sân với những chiếc rổ lớn dùng để bắt và ném một quả bóng cứng nhỏ vào tường"
+                },
+                "examples": [
+                    {
+                        "en": "The jai alai court has three walls.",
+                        "vi": "Tòa jai alai có ba bức tường."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "d161d051fedf45749e89604ff0f3dc64",
+        "word": "lacrosse",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ləˈkrɒs/",
+            "us": "/ləˈkrɔːs/"
+        },
+        "nearby": [
+            {
+                "word": "lacquer",
+                "pos": "noun"
+            },
+            {
+                "word": "lacquer",
+                "pos": "verb"
+            },
+            {
+                "word": "lacrosse",
+                "pos": "noun"
+            },
+            {
+                "word": "lactate",
+                "pos": "verb"
+            },
+            {
+                "word": "lactation",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a game played on a field by two teams of ten players who use sticks with curved nets on them to catch, carry and throw the ball",
+                    "vi": "một trò chơi được chơi trên sân của hai đội gồm mười người chơi sử dụng gậy có lưới cong trên sân để bắt, mang và ném bóng"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "766e19bb993144d4b33dc0ac83968f3e",
+        "word": "rounders",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈraʊndəz/",
+            "us": "/ˈraʊndərz/"
+        },
+        "nearby": [
+            {
+                "word": "rounded",
+                "pos": "adjective"
+            },
+            {
+                "word": "roundel",
+                "pos": "noun"
+            },
+            {
+                "word": "rounders",
+                "pos": "noun"
+            },
+            {
+                "word": "round-eyed",
+                "pos": "adjective"
+            },
+            {
+                "word": "Roundhead",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a British game played especially in schools by two teams using a bat and ball. Each player tries to hit the ball and then run around the four sides of a square before the other team can return the ball.",
+                    "vi": "một trò chơi của Anh được chơi đặc biệt trong trường học bởi hai đội sử dụng gậy và bóng. Mỗi người chơi cố gắng đánh bóng và sau đó chạy xung quanh bốn cạnh của một hình vuông trước khi đội kia có thể trả lại bóng."
+                },
+                "examples": []
+            }
+        ]
+    }
+]

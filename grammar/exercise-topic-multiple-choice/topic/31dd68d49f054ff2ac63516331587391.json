@@ -1,0 +1,397 @@
+{
+    "id": "31dd68d49f054ff2ac63516331587391",
+    "title": "Kinds of Sentences",
+    "exercises": [
+        {
+            "id": "bf2c948fdba74c6f8fdbaa0eab8b98a0",
+            "title": "Kinds Of Sentences",
+            "questions": [
+                {
+                    "question": "Where have you been all this while?",
+                    "description": "An interrogative sentence asks a question.",
+                    "answers": [
+                        "Exclamatory",
+                        "Declarative",
+                        "Interrogative",
+                        "Imperative"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "He took voluntary retirement last year.",
+                    "description": "A declarative sentence makes a statement.",
+                    "answers": [
+                        "Exclamatory",
+                        "Declarative",
+                        "Imperative",
+                        "Interrogative"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Bravo, you’re doing quite well!",
+                    "description": "An exclamatory sentence expresses a sudden emotion.",
+                    "answers": [
+                        "Exclamatory",
+                        "Imperative",
+                        "Interrogative",
+                        "Declarative"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Put it down.",
+                    "description": "An imperative sentence expresses a command, order or entreaty.",
+                    "answers": [
+                        "Imperative",
+                        "Exclamatory",
+                        "Declarative",
+                        "Interrogative"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "She lives in a small town with her husband and children.",
+                    "description": "A declarative sentence makes a statement.",
+                    "answers": [
+                        "Exclamatory",
+                        "Declarative",
+                        "Interrogative",
+                        "Imperative"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "I don’t remember his name.",
+                    "description": "A declarative sentence makes a statement.",
+                    "answers": [
+                        "Declarative",
+                        "Imperative",
+                        "Interrogative",
+                        "Exclamatory"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "She forgot to lock the door before going out.",
+                    "description": "A declarative sentence makes a statement.",
+                    "answers": [
+                        "Exclamatory",
+                        "Imperative",
+                        "Interrogative",
+                        "Declarative"
+                    ],
+                    "correct": 3
+                },
+                {
+                    "question": "What did you do with the money?",
+                    "description": "An interrogative sentence asks a question.",
+                    "answers": [
+                        "Interrogative",
+                        "Exclamatory",
+                        "Declarative",
+                        "Imperative"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "I don’t want to leave now.",
+                    "description": "",
+                    "answers": [
+                        "Imperative",
+                        "Declarative",
+                        "Exclamatory",
+                        "Interrogative"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Give me a ring.",
+                    "description": "An imperative sentence expresses a command, order or entreaty.",
+                    "answers": [
+                        "Exclamatory",
+                        "Imperative",
+                        "Declarative",
+                        "Interrogative"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "How disgusting!",
+                    "description": "An exclamatory sentence expresses a sudden emotion. ",
+                    "answers": [
+                        "Imperative",
+                        "Interrogative",
+                        "Exclamatory",
+                        "Declarative"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "What a pleasant surprise!",
+                    "description": "",
+                    "answers": [
+                        "Interrogative",
+                        "Exclamatory",
+                        "Declarative",
+                        "Imperative"
+                    ],
+                    "correct": 1
+                }
+            ]
+        },
+        {
+            "id": "5ec7194f8c7f4ce292ddba8051e9bd8b",
+            "title": "Kinds Of Sentences",
+            "questions": [
+                {
+                    "question": "A man of industrious nature is sure to succeed.",
+                    "description": "\r\nThe given sentence has only one finite verb and hence it is a simple sentence.\r\n",
+                    "answers": [
+                        "Simple sentence",
+                        "Compound sentence",
+                        "Complex sentence"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "He that climbs too high is sure to fall.",
+                    "description": "The given sentence has one main clause and a subordinate adjective clause. Hence it is a complex sentence.",
+                    "answers": [
+                        "Simple sentence",
+                        "Complex sentence",
+                        "Compound sentence"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Which is the road that leads to the railway station?",
+                    "description": "The given sentence has one main clause and a subordinate adjective clause. Hence it is a complex sentence.",
+                    "answers": [
+                        "Simple sentence",
+                        "Complex sentence",
+                        "Compound sentence"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "What did you do then?",
+                    "description": "The given sentence has only one clause and hence it is a simple sentence.",
+                    "answers": [
+                        "Simple sentence",
+                        "Complex sentence",
+                        "Compound sentence"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "The reason why he failed is obvious.",
+                    "description": "The given sentence has one main clause and one subordinate clause. Hence it is a complex sentence. ",
+                    "answers": [
+                        "Simple sentence",
+                        "Complex sentence",
+                        "Compound sentence"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "He told me the truth.",
+                    "description": "\r\nThe given sentence has only one clause and hence it is a simple sentence.\r\n",
+                    "answers": [
+                        "Simple sentence",
+                        "Complex sentence",
+                        "Compound sentence"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "It is uncertain whether he will come.",
+                    "description": "The given sentence has one main clause and one subordinate clause. Hence it is a complex sentence.",
+                    "answers": [
+                        "Simple sentence",
+                        "Complex sentence",
+                        "Compound sentence"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "I don’t know what he wants.",
+                    "description": "The given sentence has one main clause and one subordinate clause. Hence it is a complex sentence.",
+                    "answers": [
+                        "Simple sentence",
+                        "Complex sentence",
+                        "Compound sentence"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "I wanted to help him but I had no money.",
+                    "description": "The given sentence has two co-ordinate clauses. Hence it is a compound sentence.",
+                    "answers": [
+                        "Simple sentence",
+                        "Complex sentence",
+                        "Compound sentence"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "He is neither intelligent nor clever.",
+                    "description": "The given sentence has two co-ordinate clauses and hence it is a compound clause.",
+                    "answers": [
+                        "Simple sentence",
+                        "Complex sentence",
+                        "Compound sentence"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "Pay your fee or your subscription will be cancelled.",
+                    "description": "The given sentence has two co-ordinate clauses and hence it is a compound clause.",
+                    "answers": [
+                        "Simple sentence",
+                        "Complex sentence",
+                        "Compound sentence"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "He had gone before I reached his place.",
+                    "description": "The given sentence has one main clause and one subordinate clause. Hence it is a complex sentence.",
+                    "answers": [
+                        "Simple sentence",
+                        "Complex sentence",
+                        "Compound sentence"
+                    ],
+                    "correct": 1
+                }
+            ]
+        },
+        {
+            "id": "1409b08356bf44e9a3086a0367cbdda7",
+            "title": "Kinds of Sentences",
+            "questions": [
+                {
+                    "question": "Please leave your footwear outside.",
+                    "description": "",
+                    "answers": [
+                        "Declarative",
+                        "Imperative",
+                        "Interrogative",
+                        "Exclamatory"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Will you wait here?",
+                    "description": "",
+                    "answers": [
+                        "Declarative",
+                        "Imperative",
+                        "Interrogative",
+                        "Exclamatory"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "Where have you been all this while?",
+                    "description": "",
+                    "answers": [
+                        "Declarative",
+                        "Imperative",
+                        "Interrogative",
+                        "Exclamatory"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "We will not tolerate this.",
+                    "description": "",
+                    "answers": [
+                        "Declarative",
+                        "Imperative",
+                        "Interrogative",
+                        "Exclamatory"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "I am your friend.",
+                    "description": "",
+                    "answers": [
+                        "Declarative",
+                        "Imperative",
+                        "Exclamatory",
+                        "Interrogative"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "My sister lives in Mexico.",
+                    "description": "",
+                    "answers": [
+                        "Declarative",
+                        "Interrogative",
+                        "Imperative",
+                        "Exclamatory"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "What did you do then?",
+                    "description": "",
+                    "answers": [
+                        "Interrogative",
+                        "Declarative",
+                        "Imperative",
+                        "Exclamatory"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Do be a bit more careful.",
+                    "description": "",
+                    "answers": [
+                        "Declarative",
+                        "Imperative",
+                        "Interrogative",
+                        "Exclamatory"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Never speak to me like that again.",
+                    "description": "",
+                    "answers": [
+                        "Declarative",
+                        "Imperative",
+                        "Interrogative",
+                        "Exclamatory"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Always remember what I told you.",
+                    "description": "",
+                    "answers": [
+                        "Declarative",
+                        "Imperative",
+                        "Exclamatory",
+                        "Interrogative"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "The ball rolled slowly into the goal.",
+                    "description": "",
+                    "answers": [
+                        "Declarative",
+                        "Interrogative",
+                        "Exclamatory",
+                        "Imperative"
+                    ],
+                    "correct": 0
+                }
+            ]
+        }
+    ]
+}

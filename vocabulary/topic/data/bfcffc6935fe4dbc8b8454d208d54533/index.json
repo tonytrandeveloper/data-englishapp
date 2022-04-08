@@ -1,0 +1,3958 @@
+[
+    {
+        "id": "943d364505cf46eba85cd00f35ec611d",
+        "word": "guard",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ɡɑːd/",
+            "us": "/ɡɑːrd/"
+        },
+        "nearby": [
+            {
+                "word": "guarantee",
+                "pos": "noun"
+            },
+            {
+                "word": "guarantor",
+                "pos": "noun"
+            },
+            {
+                "word": "guard",
+                "pos": "noun"
+            },
+            {
+                "word": "guard",
+                "pos": "verb"
+            },
+            {
+                "word": "guard against",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person, such as a soldier, a police officer or a prison officer, who protects a place or people, or prevents prisoners from escaping",
+                    "vi": "một người, chẳng hạn như một người lính, một sĩ quan cảnh sát hoặc một viên chức quản giáo, người bảo vệ một địa điểm hoặc người dân, hoặc ngăn cản các tù nhân trốn thoát"
+                },
+                "examples": [
+                    {
+                        "en": "prison/border guards",
+                        "vi": "nhà tù / lính biên phòng"
+                    },
+                    {
+                        "en": "The building is protected by armed guards.",
+                        "vi": "Tòa nhà được bảo vệ bởi lực lượng bảo vệ có vũ trang."
+                    },
+                    {
+                        "en": "The prisoner slipped past the guards on the gate and escaped.",
+                        "vi": "Người tù vượt qua các lính canh trên cổng và trốn thoát."
+                    },
+                    {
+                        "en": "A guard was posted outside the building.",
+                        "vi": "Một bảo vệ được bố trí bên ngoài tòa nhà."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the act or duty of protecting property, places or people from attack or danger; the act or duty of preventing prisoners from escaping",
+                    "vi": "hành động hoặc nghĩa vụ bảo vệ tài sản, địa điểm hoặc con người khỏi bị tấn công hoặc nguy hiểm; hành động hoặc nhiệm vụ ngăn cản tù nhân trốn thoát"
+                },
+                "examples": [
+                    {
+                        "en": "on guard a sentry on guard (= at his or her post, on duty)",
+                        "vi": "canh gác một lính canh canh gác (= tại trụ sở của anh ta hoặc cô ta, đang làm nhiệm vụ)"
+                    },
+                    {
+                        "en": "to be on guard duty",
+                        "vi": "làm nhiệm vụ bảo vệ"
+                    },
+                    {
+                        "en": "under guard The escaped prisoner was brought back under armed guard.",
+                        "vi": "dưới sự canh gác Người tù vượt ngục được đưa trở lại dưới sự canh gác có vũ trang."
+                    },
+                    {
+                        "en": "The terrorist was kept under police guard.",
+                        "vi": "Kẻ khủng bố đã bị cảnh sát canh giữ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a group of people, such as soldiers or police officers, who protect somebody/something",
+                    "vi": "một nhóm người, chẳng hạn như binh lính hoặc cảnh sát, những người bảo vệ ai đó / cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "the captain of the guard",
+                        "vi": "đội trưởng đội bảo vệ"
+                    },
+                    {
+                        "en": "the changing of the guard (= when one group replaces another)",
+                        "vi": "sự thay đổi của người bảo vệ (= khi một nhóm thay thế nhóm khác)"
+                    },
+                    {
+                        "en": "The guard is/are being inspected today.",
+                        "vi": "Người bảo vệ đã / đang được kiểm tra ngày hôm nay."
+                    },
+                    {
+                        "en": "Fellow airmen provided a guard of honour at his wedding.",
+                        "vi": "Các phi công đã bảo vệ danh dự cho đám cưới của anh ta."
+                    },
+                    {
+                        "en": "The president always travels with an armed guard.",
+                        "vi": "Tổng thống luôn đi cùng một vệ sĩ có vũ trang."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "(in the UK and some other countries) special regiments of soldiers whose original duty was to protect the king or queen",
+                    "vi": "(ở Anh và một số quốc gia khác) các trung đoàn lính đặc biệt có nhiệm vụ ban đầu là bảo vệ nhà vua hoặc nữ hoàng"
+                },
+                "examples": [
+                    {
+                        "en": "the Scots Guards",
+                        "vi": "Đội bảo vệ người Scotland"
+                    },
+                    {
+                        "en": "a Guards officer",
+                        "vi": "một sĩ quan bảo vệ"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "something that covers a part of a person’s body or a dangerous part of a machine to prevent injury",
+                    "vi": "thứ gì đó che phủ một phần cơ thể của một người hoặc một bộ phận nguy hiểm của máy móc để ngăn ngừa thương tích"
+                },
+                "examples": [
+                    {
+                        "en": "All players wear helmets and face guards.",
+                        "vi": "Tất cả các cầu thủ đều đội mũ bảo hiểm và đeo kính bảo vệ mặt."
+                    },
+                    {
+                        "en": "Ensure the guard is in place before operating the machine.",
+                        "vi": "Đảm bảo có thiết bị bảo vệ trước khi vận hành máy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "conductor (= a person who is in charge of a train and travels with it, but does not drive it)",
+                    "vi": "người điều khiển (= người phụ trách đoàn tàu và đi cùng với nó, nhưng không lái nó)"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a position you take to defend yourself, especially in a sport such as boxing or fencing",
+                    "vi": "một vị trí bạn thực hiện để tự vệ, đặc biệt là trong một môn thể thao như quyền anh hoặc đấu kiếm"
+                },
+                "examples": [
+                    {
+                        "en": "to drop/keep up your guard",
+                        "vi": "để giảm / giữ cảnh giác của bạn"
+                    },
+                    {
+                        "en": "(figurative) In spite of the awkward questions the minister never let his guard fall for a moment.",
+                        "vi": "(nghĩa bóng) Bất chấp những câu hỏi khó xử, bộ trưởng không bao giờ để mất cảnh giác trong giây lát."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "one of the two players on a basketball team who are mainly responsible for staying close to players of the other team to stop them from scoring",
+                    "vi": "một trong hai cầu thủ của đội bóng rổ chịu trách nhiệm chính trong việc theo sát các cầu thủ của đội kia để ngăn họ ghi bàn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "one of the two players on an American football team who play either side of the centre forward",
+                    "vi": "một trong hai cầu thủ của đội bóng đá Mỹ chơi ở hai bên tiền đạo trung tâm"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be very careful and prepared for something difficult or dangerous",
+                    "vi": "phải rất cẩn thận và chuẩn bị cho một cái gì đó khó khăn hoặc nguy hiểm"
+                },
+                "examples": [
+                    {
+                        "en": "He was always on his guard against moneymaking schemes.",
+                        "vi": "Anh luôn cảnh giác trước những âm mưu kiếm tiền."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to stop being careful and preparing yourself for possible danger or difficulty",
+                    "vi": "ngừng cẩn thận và chuẩn bị cho mình đối với nguy hiểm hoặc khó khăn có thể xảy ra"
+                },
+                "examples": [
+                    {
+                        "en": "You can never drop your guard with a two-year-old.",
+                        "vi": "Bạn không bao giờ có thể mất cảnh giác với một đứa trẻ hai tuổi."
+                    },
+                    {
+                        "en": "Even when he's winning, he never drops his guard.",
+                        "vi": "Ngay cả khi anh ấy đang chiến thắng, anh ấy không bao giờ mất cảnh giác."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to watch or protect somebody/something",
+                    "vi": "để theo dõi hoặc bảo vệ ai đó / cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "Four soldiers stood guard over the coffin.",
+                        "vi": "Bốn người lính đứng canh quan tài."
+                    },
+                    {
+                        "en": "One of the men kept guard, while the other broke into the house.",
+                        "vi": "Một trong hai người đàn ông canh giữ, trong khi người kia đột nhập vào nhà."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "not careful or prepared for something difficult or dangerous",
+                    "vi": "không cẩn thận hoặc chuẩn bị cho một cái gì đó khó khăn hoặc nguy hiểm"
+                },
+                "examples": [
+                    {
+                        "en": "The lawyer’s apparently innocent question was designed to catch the witness off (his) guard.",
+                        "vi": "Câu hỏi có vẻ vô tội của luật sư được thiết kế để khiến nhân chứng mất cảnh giác (của anh ta)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "d91a7d7e8b2647bda955f87a73ddaf77",
+        "word": "cell",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/sel/",
+            "us": "/sel/"
+        },
+        "nearby": [
+            {
+                "word": "celibate",
+                "pos": "adjective"
+            },
+            {
+                "word": "celibate",
+                "pos": "noun"
+            },
+            {
+                "word": "cell",
+                "pos": "noun"
+            },
+            {
+                "word": "cellar",
+                "pos": "noun"
+            },
+            {
+                "word": "cellist",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the smallest unit of living matter that can exist on its own. All plants and animals are made up of cells.",
+                    "vi": "đơn vị nhỏ nhất của vật chất sống có thể tự tồn tại. Tất cả thực vật và động vật đều được tạo thành từ các tế bào."
+                },
+                "examples": [
+                    {
+                        "en": "red and white blood cells",
+                        "vi": "tế bào máu đỏ và trắng"
+                    },
+                    {
+                        "en": "brain/nerve/cancer cells",
+                        "vi": "tế bào não / thần kinh / ung thư"
+                    },
+                    {
+                        "en": "the nucleus of a cell",
+                        "vi": "nhân của một tế bào"
+                    },
+                    {
+                        "en": "Cells divide and form new cells.",
+                        "vi": "Tế bào phân chia và hình thành tế bào mới."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a room for one or more prisoners in a prison or police station",
+                    "vi": "phòng cho một hoặc nhiều tù nhân trong nhà tù hoặc đồn cảnh sát"
+                },
+                "examples": [
+                    {
+                        "en": "in a cell He spent a night in a prison cell.",
+                        "vi": "trong một phòng giam Anh ấy đã trải qua một đêm trong một phòng giam của nhà tù."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a small room without much furniture in which a monk or nun lives",
+                    "vi": "một căn phòng nhỏ không có nhiều đồ đạc trong đó một nhà sư hoặc nữ tu sĩ sống"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "each of the small sections that together form a larger structure, for example a honeycomb",
+                    "vi": "mỗi phần nhỏ cùng nhau tạo thành một cấu trúc lớn hơn, ví dụ như một tổ ong"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a device for producing an electric current, for example by the action of chemicals or light",
+                    "vi": "một thiết bị để tạo ra dòng điện, ví dụ bằng tác động của hóa chất hoặc ánh sáng"
+                },
+                "examples": [
+                    {
+                        "en": "a photoelectric cell",
+                        "vi": "một tế bào quang điện"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a small group of people who work as part of a larger political organization, especially secretly",
+                    "vi": "một nhóm nhỏ những người hoạt động như một phần của một tổ chức chính trị lớn hơn, đặc biệt là bí mật"
+                },
+                "examples": [
+                    {
+                        "en": "a terrorist cell",
+                        "vi": "một phòng giam khủng bố"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "one of the small squares in a spreadsheet computer program in which you enter a single piece of data",
+                    "vi": "một trong những ô vuông nhỏ trong chương trình máy tính bảng tính trong đó bạn nhập một phần dữ liệu"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a phone that does not have wires and works by radio, and that you can carry with you and use anywhere",
+                    "vi": "điện thoại không có dây và hoạt động bằng radio và bạn có thể mang theo bên mình và sử dụng ở bất cứ đâu"
+                },
+                "examples": [
+                    {
+                        "en": "Call me on my cell.",
+                        "vi": "Gọi cho tôi vào di động của tôi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a930df2c87c94560a7101ea88af605e8",
+        "word": "jail",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/dʒeɪl/",
+            "us": "/dʒeɪl/"
+        },
+        "nearby": [
+            {
+                "word": "Jai",
+                "pos": "exclamation"
+            },
+            {
+                "word": "jai alai",
+                "pos": "noun"
+            },
+            {
+                "word": "jail",
+                "pos": "noun"
+            },
+            {
+                "word": "jail",
+                "pos": "verb"
+            },
+            {
+                "word": "jailbait",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a prison",
+                    "vi": "nhà từ"
+                },
+                "examples": [
+                    {
+                        "en": "She spent a year in jail.",
+                        "vi": "Cô ấy đã phải ngồi tù một năm."
+                    },
+                    {
+                        "en": "He has been released from jail.",
+                        "vi": "Anh ta đã được ra tù."
+                    },
+                    {
+                        "en": "a ten-year jail sentence",
+                        "vi": "một bản án mười năm tù"
+                    },
+                    {
+                        "en": "Britain’s overcrowded jails",
+                        "vi": "Các nhà tù quá đông đúc ở Anh"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "83c1b848406c49b6a242fa6425076d64",
+        "word": "prisoner of war",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˌprɪznər əv ˈwɔː(r)/",
+            "us": "/ˌprɪznər əv ˈwɔːr/"
+        },
+        "nearby": [
+            {
+                "word": "prisoner",
+                "pos": "noun"
+            },
+            {
+                "word": "prisoner of conscience",
+                "pos": "noun"
+            },
+            {
+                "word": "prisoner of war",
+                "pos": "noun"
+            },
+            {
+                "word": "prison visitor",
+                "pos": "noun"
+            },
+            {
+                "word": "prissy",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person, usually a member of the armed forces, who is captured by the enemy during a war and kept in a prison camp until the war has finished",
+                    "vi": "một người, thường là thành viên của lực lượng vũ trang, bị địch bắt trong chiến tranh và bị giam trong trại tù cho đến khi chiến tranh kết thúc"
+                },
+                "examples": [
+                    {
+                        "en": "After several more months as a prisoner of war, he escaped again.",
+                        "vi": "Sau vài tháng làm tù binh, anh ta lại vượt ngục."
+                    },
+                    {
+                        "en": "He was held as a prisoner of war.",
+                        "vi": "Anh ta bị giam giữ như một tù binh chiến tranh."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "65b1de839d8a49d8982dae5665b62b0a",
+        "word": "custody",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈkʌstədi/",
+            "us": "/ˈkʌstədi/"
+        },
+        "nearby": [
+            {
+                "word": "custodial",
+                "pos": "adjective"
+            },
+            {
+                "word": "custodian",
+                "pos": "noun"
+            },
+            {
+                "word": "custody",
+                "pos": "noun"
+            },
+            {
+                "word": "custom",
+                "pos": "noun"
+            },
+            {
+                "word": "custom",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the legal right or duty to take care of or keep somebody/something; the act of taking care of something/somebody",
+                    "vi": "quyền hoặc nghĩa vụ hợp pháp để chăm sóc hoặc giữ một ai đó / cái gì đó; hành động chăm sóc một cái gì đó / ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "Who will have custody of the children?",
+                        "vi": "Ai sẽ có quyền nuôi con?"
+                    },
+                    {
+                        "en": "The parents were given joint custody of the two children.",
+                        "vi": "Cha mẹ được trao quyền giám hộ chung cho hai đứa trẻ."
+                    },
+                    {
+                        "en": "The divorce court awarded custody to the child's mother.",
+                        "vi": "Tòa án ly hôn đã trao quyền nuôi con cho mẹ của đứa trẻ."
+                    },
+                    {
+                        "en": "The parents were locked in a bitter battle for custody.",
+                        "vi": "Các bậc cha mẹ bị nhốt trong một cuộc chiến gay gắt để giành quyền nuôi con."
+                    },
+                    {
+                        "en": "The bank provides safe custody for valuables.",
+                        "vi": "Ngân hàng cung cấp dịch vụ lưu ký an toàn đối với các vật có giá trị."
+                    },
+                    {
+                        "en": "in the custody of somebody/something The castle is now in the custody of the state.",
+                        "vi": "trong sự giám sát của ai đó / cái gì đó Lâu đài hiện đang được nhà nước quản lý."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the state of being in prison, especially while waiting for trial",
+                    "vi": "tình trạng ở trong tù, đặc biệt là trong khi chờ xét xử"
+                },
+                "examples": [
+                    {
+                        "en": "After the riot, 32 people were taken into police custody.",
+                        "vi": "Sau cuộc bạo động, 32 người đã bị cảnh sát tạm giữ."
+                    },
+                    {
+                        "en": "(British English) He was remanded in custody, charged with the murder of a policeman.",
+                        "vi": "(Anh Anh) Anh ta bị tạm giam, bị buộc tội giết một cảnh sát."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4472c88241a14574ba629e118735571e",
+        "word": "detention",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/dɪˈtenʃn/",
+            "us": "/dɪˈtenʃn/"
+        },
+        "nearby": [
+            {
+                "word": "detector",
+                "pos": "noun"
+            },
+            {
+                "word": "detente",
+                "pos": "noun"
+            },
+            {
+                "word": "detention",
+                "pos": "noun"
+            },
+            {
+                "word": "detention centre",
+                "pos": "noun"
+            },
+            {
+                "word": "detenu",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the state of being kept in a place, especially a prison, and prevented from leaving",
+                    "vi": "tình trạng bị giam giữ tại một nơi, đặc biệt là nhà tù, và ngăn cản việc rời đi"
+                },
+                "examples": [
+                    {
+                        "en": "They were sentenced to 12 months' detention in a young offender institution.",
+                        "vi": "Họ bị kết án 12 tháng giam giữ trong một trại giam dành cho phạm nhân trẻ tuổi."
+                    },
+                    {
+                        "en": "police powers of arrest and detention",
+                        "vi": "quyền hạn bắt và giam giữ của cảnh sát"
+                    },
+                    {
+                        "en": "allegations of torture and detention without trial",
+                        "vi": "cáo buộc tra tấn và giam giữ mà không cần xét xử"
+                    },
+                    {
+                        "en": "a detention camp",
+                        "vi": "trại tạm giam"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the punishment of being kept at school for a time after other students have gone home",
+                    "vi": "hình phạt bị giữ lại trường một thời gian sau khi các học sinh khác đã về nhà"
+                },
+                "examples": [
+                    {
+                        "en": "They can’t give me (a) detention for this.",
+                        "vi": "Họ không thể cho tôi (a) giam giữ vì việc này."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c8ecfa01701345298fa879a8f0740fcd",
+        "word": "high-security",
+        "pos": "adjective",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌhaɪ sɪˈkjʊərəti/",
+            "us": "/ˌhaɪ sɪˈkjʊrəti/"
+        },
+        "nearby": [
+            {
+                "word": "the high seas",
+                "pos": "noun"
+            },
+            {
+                "word": "high season",
+                "pos": "noun"
+            },
+            {
+                "word": "high-security",
+                "pos": "adjective"
+            },
+            {
+                "word": "High Sheriff",
+                "pos": "noun"
+            },
+            {
+                "word": "high-sounding",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "very carefully locked and guarded",
+                    "vi": "được khóa và bảo vệ rất cẩn thận"
+                },
+                "examples": [
+                    {
+                        "en": "a high-security prison",
+                        "vi": "một nhà tù an ninh cao"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "kept in a prison that is very carefully locked and guarded",
+                    "vi": "được giam giữ trong một nhà tù được khóa và canh gác rất cẩn thận"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "82faa075d40b4b6c89da1164eff5c5c7",
+        "word": "imprisonment",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ɪmˈprɪznmənt/",
+            "us": "/ɪmˈprɪznmənt/"
+        },
+        "nearby": [
+            {
+                "word": "imprint",
+                "pos": "noun"
+            },
+            {
+                "word": "imprison",
+                "pos": "verb"
+            },
+            {
+                "word": "imprisonment",
+                "pos": "noun"
+            },
+            {
+                "word": "improbability",
+                "pos": "noun"
+            },
+            {
+                "word": "improbable",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the act of putting somebody in a prison or another place from which they cannot escape; the state of being there",
+                    "vi": "hành động đưa ai đó vào nhà tù hoặc một nơi khác mà họ không thể trốn thoát; trạng thái ở đó"
+                },
+                "examples": [
+                    {
+                        "en": "to be sentenced to life imprisonment for murder",
+                        "vi": "bị kết án tù chung thân về tội giết người"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "637c6eeccf36470ca6dc45e5ce0d8030",
+        "word": "inmate",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈɪnmeɪt/",
+            "us": "/ˈɪnmeɪt/"
+        },
+        "nearby": [
+            {
+                "word": "in-line skating",
+                "pos": "noun"
+            },
+            {
+                "word": "in loco parentis",
+                "pos": "adverb"
+            },
+            {
+                "word": "inmate",
+                "pos": "noun"
+            },
+            {
+                "word": "in medias res",
+                "pos": "adverb"
+            },
+            {
+                "word": "in memoriam",
+                "pos": "preposition"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "one of the people living in an institution such as a prison or a psychiatric hospital",
+                    "vi": "một trong những người sống trong một viện như nhà tù hoặc bệnh viện tâm thần"
+                },
+                "examples": [
+                    {
+                        "en": "The jail has 500 inmates.",
+                        "vi": "Nhà tù có 500 tù nhân."
+                    },
+                    {
+                        "en": "He was attacked by a fellow inmate.",
+                        "vi": "Anh ta bị tấn công bởi một bạn tù."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9d3c2dc81538432196890627f29c5277",
+        "word": "serve",
+        "pos": "verb",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/sɜːv/",
+            "us": "/sɜːrv/"
+        },
+        "nearby": [
+            {
+                "word": "serum",
+                "pos": "noun"
+            },
+            {
+                "word": "servant",
+                "pos": "noun"
+            },
+            {
+                "word": "serve",
+                "pos": "verb"
+            },
+            {
+                "word": "serve",
+                "pos": "noun"
+            },
+            {
+                "word": "serve out",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to give somebody food or drink, for example at a restaurant or during a meal",
+                    "vi": "để cho ai đó đồ ăn hoặc thức uống, ví dụ như tại nhà hàng hoặc trong một bữa ăn"
+                },
+                "examples": [
+                    {
+                        "en": "serve (something) Breakfast is served between 7 and 10 a.m.",
+                        "vi": "phục vụ (một cái gì đó) Bữa sáng được phục vụ từ 7 đến 10 giờ sáng"
+                    },
+                    {
+                        "en": "When do you stop serving hot food?",
+                        "vi": "Khi nào bạn ngừng phục vụ đồ ăn nóng?"
+                    },
+                    {
+                        "en": "Pour the sauce over the pasta and serve immediately.",
+                        "vi": "Đổ nước sốt lên mì và phục vụ ngay lập tức."
+                    },
+                    {
+                        "en": "Shall I serve?",
+                        "vi": "Tôi sẽ phục vụ chứ?"
+                    },
+                    {
+                        "en": "serve something with something Serve the lamb with new potatoes and green beans.",
+                        "vi": "phục vụ một cái gì đó với một cái gì đó Phục vụ thịt cừu với khoai tây mới và đậu xanh."
+                    },
+                    {
+                        "en": "serve something to somebody They served a wonderful meal to more than fifty delegates.",
+                        "vi": "phục vụ một cái gì đó cho ai đó Họ đã phục vụ một bữa ăn tuyệt vời cho hơn năm mươi đại biểu."
+                    },
+                    {
+                        "en": "serve somebody with something The delegates were served with a wonderful meal.",
+                        "vi": "phục vụ ai đó với một cái gì đó Các đại biểu đã được phục vụ với một bữa ăn tuyệt vời."
+                    },
+                    {
+                        "en": "serve somebody something She served us a delicious lunch.",
+                        "vi": "phục vụ ai đó thứ gì đó Cô ấy đã phục vụ chúng tôi một bữa trưa ngon lành."
+                    },
+                    {
+                        "en": "serve something + adj. The quiche can be served hot or cold.",
+                        "vi": "phục vụ cái gì đó + adj. Bánh quiche có thể được phục vụ nóng hoặc lạnh."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be enough for somebody/something",
+                    "vi": "là đủ cho ai đó / cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "This dish will serve four hungry people.",
+                        "vi": "Món ăn này sẽ phục vụ bốn người đói."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to help a customer or sell them something in a shop",
+                    "vi": "để giúp khách hàng hoặc bán cho họ thứ gì đó trong cửa hàng"
+                },
+                "examples": [
+                    {
+                        "en": "Are you being served?",
+                        "vi": "Có phải bạn đang được phục vụ?"
+                    },
+                    {
+                        "en": "The bar staff spend more time chatting to friends than serving customers.",
+                        "vi": "Nhân viên quán bar dành nhiều thời gian để trò chuyện với bạn bè hơn là phục vụ khách hàng."
+                    },
+                    {
+                        "en": "She was serving behind the counter.",
+                        "vi": "Cô ấy đang phục vụ phía sau quầy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be useful to somebody in achieving or satisfying something",
+                    "vi": "hữu ích cho ai đó trong việc đạt được hoặc thỏa mãn điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "These experiments serve no useful purpose.",
+                        "vi": "Những thí nghiệm này không có mục đích hữu ích."
+                    },
+                    {
+                        "en": "Most of their economic policies serve the interests of big business.",
+                        "vi": "Hầu hết các chính sách kinh tế của họ đều phục vụ lợi ích của các doanh nghiệp lớn."
+                    },
+                    {
+                        "en": "How can we best serve the needs of future generations?",
+                        "vi": "Làm thế nào chúng ta có thể phục vụ tốt nhất nhu cầu của thế hệ tương lai?"
+                    },
+                    {
+                        "en": "Art serves an important function in our society.",
+                        "vi": "Nghệ thuật phục vụ một chức năng quan trọng trong xã hội của chúng ta."
+                    },
+                    {
+                        "en": "His linguistic ability served him well in his chosen profession.",
+                        "vi": "Khả năng ngôn ngữ của anh ấy đã phục vụ anh ấy rất tốt trong nghề nghiệp mà anh ấy đã chọn."
+                    },
+                    {
+                        "en": "This old car has served me very well.",
+                        "vi": "Chiếc xe cũ này đã phục vụ tôi rất tốt."
+                    },
+                    {
+                        "en": "The story would be better served by slowing down a little.",
+                        "vi": "Câu chuyện sẽ tốt hơn nếu chậm lại một chút."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to provide an area or a group of people with a product or service",
+                    "vi": "để cung cấp cho một khu vực hoặc một nhóm người một sản phẩm hoặc dịch vụ"
+                },
+                "examples": [
+                    {
+                        "en": "serve somebody/something The centre will serve the whole community.",
+                        "vi": "phục vụ ai đó / cái gì đó Trung tâm sẽ phục vụ cả cộng đồng."
+                    },
+                    {
+                        "en": "serve somebody/something with something The town is well served with buses and major road links.",
+                        "vi": "phục vụ ai đó / cái gì đó với một cái gì đó Thị trấn được phục vụ tốt với xe buýt và các liên kết đường lớn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to work or perform duties for a person, an organization, a country, etc.; to spend a period of time in a particular job",
+                    "vi": "để làm việc hoặc thực hiện nhiệm vụ cho một người, một tổ chức, một quốc gia, v.v.; dành một khoảng thời gian cho một công việc cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "serve as something He served as a captain in the army.",
+                        "vi": "phục vụ như một cái gì đó Ông đã phục vụ như một đội trưởng trong quân đội."
+                    },
+                    {
+                        "en": "She was elected to serve as secretary of the local party.",
+                        "vi": "Cô được bầu giữ chức vụ bí thư của đảng bộ địa phương."
+                    },
+                    {
+                        "en": "to serve as president/director/chairman",
+                        "vi": "giữ chức vụ chủ tịch / giám đốc / chủ tịch"
+                    },
+                    {
+                        "en": "serve under/with somebody He served under Tony Blair in the 1990s.",
+                        "vi": "phục vụ dưới quyền / với ai đó Ông phục vụ dưới quyền của Tony Blair trong những năm 1990."
+                    },
+                    {
+                        "en": "serve + adv./prep. She served in the medical corps.",
+                        "vi": "phục vụ + adv./prep. Cô ấy phục vụ trong quân đoàn y tế."
+                    },
+                    {
+                        "en": "His father served with distinction in the First World War.",
+                        "vi": "Cha của ông đã phục vụ một cách xuất sắc trong Chiến tranh thế giới thứ nhất."
+                    },
+                    {
+                        "en": "serve somebody/something He proudly served his country during the war.",
+                        "vi": "phục vụ ai đó / cái gì đó Anh ấy tự hào đã phục vụ đất nước của mình trong chiến tranh."
+                    },
+                    {
+                        "en": "I wanted to work somewhere where I could serve the community.",
+                        "vi": "Tôi muốn làm việc ở một nơi nào đó mà tôi có thể phục vụ cộng đồng."
+                    },
+                    {
+                        "en": "She has already served two terms as mayor.",
+                        "vi": "Cô ấy đã phục vụ hai nhiệm kỳ với tư cách là thị trưởng."
+                    },
+                    {
+                        "en": "He served a one-year apprenticeship.",
+                        "vi": "Anh ấy đã học việc một năm."
+                    },
+                    {
+                        "en": "He served the family faithfully for many years (= as a servant).",
+                        "vi": "Anh ấy đã trung thành phục vụ gia đình trong nhiều năm (= như một người hầu)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be suitable for a particular use, especially when nothing else is available",
+                    "vi": "để phù hợp cho một mục đích sử dụng cụ thể, đặc biệt là khi không có gì khác"
+                },
+                "examples": [
+                    {
+                        "en": "The sofa will serve as a bed for a night or two.",
+                        "vi": "Ghế sofa sẽ phục vụ như một chiếc giường trong một hoặc hai đêm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to have a particular effect or result",
+                    "vi": "để có một hiệu ứng hoặc kết quả cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "serve as something The judge said the punishment would serve as a warning to others.",
+                        "vi": "phục vụ như một cái gì đó Thẩm phán cho biết hình phạt sẽ coi như một lời cảnh báo cho những người khác."
+                    },
+                    {
+                        "en": "The highly visible ruins serve as a reminder of the building's history.",
+                        "vi": "Những tàn tích có thể nhìn thấy rõ ràng là một lời nhắc nhở về lịch sử của tòa nhà."
+                    },
+                    {
+                        "en": "There are several women in the field who have served as role models.",
+                        "vi": "Có một số phụ nữ trong lĩnh vực này đã đóng vai trò là hình mẫu."
+                    },
+                    {
+                        "en": "serve to do something The attack was unsuccessful and served only to alert the enemy.",
+                        "vi": "phục vụ để làm gì đó Cuộc tấn công không thành công và chỉ phục vụ để cảnh báo đối phương."
+                    },
+                    {
+                        "en": "This only served to complicate the situation further.",
+                        "vi": "Điều này chỉ làm phức tạp thêm tình hình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to spend a period of time in prison",
+                    "vi": "ở tù một thời gian"
+                },
+                "examples": [
+                    {
+                        "en": "prisoners serving life sentences",
+                        "vi": "tù nhân chấp hành án chung thân"
+                    },
+                    {
+                        "en": "She is serving two years for theft.",
+                        "vi": "Cô ấy đang thụ án hai năm vì tội trộm cắp."
+                    },
+                    {
+                        "en": "He has served time (= been to prison) before.",
+                        "vi": "Anh ta đã từng thụ án (= vào tù) trước đây."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to give or send somebody an official document, especially one that orders them to appear in court",
+                    "vi": "cung cấp cho hoặc gửi cho ai đó một tài liệu chính thức, đặc biệt là một tài liệu ra lệnh cho họ ra hầu tòa"
+                },
+                "examples": [
+                    {
+                        "en": "serve something (on somebody) to serve a writ/summons on somebody",
+                        "vi": "phục vụ một cái gì đó (cho ai đó) để phục vụ một lệnh / lệnh triệu tập đối với ai đó"
+                    },
+                    {
+                        "en": "serve somebody with something to serve somebody with a writ/summons",
+                        "vi": "phục vụ ai đó với một cái gì đó để phục vụ ai đó với một lệnh / lệnh triệu tập"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to start playing by throwing the ball into the air and hitting it",
+                    "vi": "bắt đầu chơi bằng cách ném quả bóng lên không và đánh nó"
+                },
+                "examples": [
+                    {
+                        "en": "Who's serving?",
+                        "vi": "Ai đang phục vụ?"
+                    },
+                    {
+                        "en": "serve something She served an ace.",
+                        "vi": "phục vụ một cái gì đó Cô ấy đã phục vụ một con át chủ bài."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to perform two roles or functions at the same time",
+                    "vi": "để thực hiện hai vai trò hoặc chức năng cùng một lúc"
+                },
+                "examples": [
+                    {
+                        "en": "This device can pull double duty as a decent laptop and an adequate tablet.",
+                        "vi": "Thiết bị này có thể thực hiện nhiệm vụ kép như một máy tính xách tay tốt và một máy tính bảng phù hợp."
+                    },
+                    {
+                        "en": "She deserves credit for serving double duty as a host and performer.",
+                        "vi": "Cô ấy xứng đáng được ghi nhận vì đã thực hiện hai nhiệm vụ vừa là người dẫn chương trình vừa là người biểu diễn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "people will be dealt with, seen, etc. strictly in the order in which they arrive",
+                    "vi": "mọi người sẽ bị xử lý, nhìn thấy, v.v. nghiêm ngặt theo thứ tự mà họ đến"
+                },
+                "examples": [
+                    {
+                        "en": "Tickets are available on a first come, first served basis.",
+                        "vi": "Vé có sẵn trên cơ sở ai đến trước được phục vụ trước."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if I remember correctly",
+                    "vi": "nếu tôi nhớ không lầm"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used to say that something that has happened to somebody is their own fault and they deserve it",
+                    "vi": "thường nói rằng điều gì đó đã xảy ra với ai đó là lỗi của họ và họ xứng đáng với điều đó"
+                },
+                "examples": [
+                    {
+                        "en": "Left you, did she? It serves you right for being so selfish.",
+                        "vi": "Bỏ lại bạn, phải không? Nó phục vụ bạn đúng vì ích kỷ như vậy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be useful for a particular purpose or period of time",
+                    "vi": "hữu ích cho một mục đích hoặc khoảng thời gian cụ thể"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to support two different parties, principles, etc. at the same time",
+                    "vi": "để hỗ trợ đồng thời hai đảng phái, nguyên tắc khác nhau, v.v."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "cf2c7bb1dca94f3dac496b530a9c41fd",
+        "word": "boot camp",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbuːt kæmp/",
+            "us": "/ˈbuːt kæmp/"
+        },
+        "nearby": [
+            {
+                "word": "boot",
+                "pos": "verb"
+            },
+            {
+                "word": "bootboy",
+                "pos": "noun"
+            },
+            {
+                "word": "boot camp",
+                "pos": "noun"
+            },
+            {
+                "word": "boot-cut",
+                "pos": "adjective"
+            },
+            {
+                "word": "bootee",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a training camp for new members of the armed forces, where they have to work hard",
+                    "vi": "trại huấn luyện cho các thành viên mới của lực lượng vũ trang, nơi họ phải làm việc chăm chỉ"
+                },
+                "examples": [
+                    {
+                        "en": "He had recently graduated from Marine Corps boot camp.",
+                        "vi": "Anh vừa tốt nghiệp trại huấn luyện của Thủy quân lục chiến."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a type of prison for young criminals where there is strict discipline",
+                    "vi": "một loại nhà tù dành cho tội phạm trẻ tuổi, nơi có kỷ luật nghiêm ngặt"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a short course of very hard physical training",
+                    "vi": "một khóa học ngắn hạn về rèn luyện thể chất rất chăm chỉ"
+                },
+                "examples": [
+                    {
+                        "en": "I joined a boot camp to get fit.",
+                        "vi": "Tôi đã tham gia một chương trình đào tạo để có được thân hình cân đối."
+                    },
+                    {
+                        "en": "(figurative) You can cram for the exam at a one-week boot camp.",
+                        "vi": "(nghĩa bóng) Bạn có thể nhồi nhét cho kỳ thi trong một chương trình đào tạo kéo dài một tuần."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "b5c40d1b26594af0afa552ef122ffbff",
+        "word": "borstal",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbɔːstl/",
+            "us": "/ˈbɔːrstl/"
+        },
+        "nearby": [
+            {
+                "word": "borscht",
+                "pos": "noun"
+            },
+            {
+                "word": "the Borscht Belt",
+                "pos": ""
+            },
+            {
+                "word": "borstal",
+                "pos": "noun"
+            },
+            {
+                "word": "borzoi",
+                "pos": "noun"
+            },
+            {
+                "word": "bosberaad",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "(in the UK in the past) a type of prison for young criminals",
+                    "vi": "(ở Anh trước đây) một loại nhà tù dành cho tội phạm trẻ tuổi"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "c49c9134ca5f4f9080acd743ddb49148",
+        "word": "breakout",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbreɪkaʊt/",
+            "us": "/ˈbreɪkaʊt/"
+        },
+        "nearby": [
+            {
+                "word": "break off",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "break out",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "breakout",
+                "pos": "noun"
+            },
+            {
+                "word": "breakout",
+                "pos": "adjective"
+            },
+            {
+                "word": "break out in",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an escape from prison, usually by a group of prisoners",
+                    "vi": "một cuộc vượt ngục, thường là của một nhóm tù nhân"
+                },
+                "examples": [
+                    {
+                        "en": "a mass breakout from a top security prison",
+                        "vi": "một cuộc đột nhập hàng loạt từ một nhà tù an ninh hàng đầu"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ddccb73677544d93bee09ea3cb825e1f",
+        "word": "death row",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌdeθ ˈrəʊ/",
+            "us": "/ˌdeθ ˈrəʊ/"
+        },
+        "nearby": [
+            {
+                "word": "death rate",
+                "pos": "noun"
+            },
+            {
+                "word": "death rattle",
+                "pos": "noun"
+            },
+            {
+                "word": "death row",
+                "pos": "noun"
+            },
+            {
+                "word": "death sentence",
+                "pos": "noun"
+            },
+            {
+                "word": "death's head",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the cells in a prison for prisoners who are waiting to be killed as punishment for a serious crime",
+                    "vi": "Phòng giam trong nhà tù dành cho những tù nhân đang chờ bị giết như một hình phạt cho một tội ác nghiêm trọng"
+                },
+                "examples": [
+                    {
+                        "en": "prisoners on death row",
+                        "vi": "tù nhân tử hình"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "142f5c2b475045969fb99cfaa9d59ad6",
+        "word": "do time",
+        "pos": "idiom",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/taɪm/",
+            "us": "/taɪm/"
+        },
+        "nearby": [
+            {
+                "word": "timbre",
+                "pos": "noun"
+            },
+            {
+                "word": "Timbuktu",
+                "pos": "noun"
+            },
+            {
+                "word": "time",
+                "pos": "noun"
+            },
+            {
+                "word": "time",
+                "pos": "verb"
+            },
+            {
+                "word": "Time",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "what is measured in minutes, hours, days, etc.",
+                    "vi": "những gì được đo bằng phút, giờ, ngày, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "The world exists in time and space.",
+                        "vi": "Thế giới tồn tại trong thời gian và không gian."
+                    },
+                    {
+                        "en": "The changing seasons mark the passage of time.",
+                        "vi": "Sự thay đổi của các mùa đánh dấu thời gian trôi qua."
+                    },
+                    {
+                        "en": "in time A visit to the museum will take you back in time to the 1930s.",
+                        "vi": "trong thời gian Một chuyến thăm bảo tàng sẽ đưa bạn ngược dòng thời gian trở về những năm 1930."
+                    },
+                    {
+                        "en": "At this point in time, it seems unlikely that he will write any more books.",
+                        "vi": "Vào thời điểm này, có vẻ như anh ấy sẽ không viết thêm cuốn sách nào nữa."
+                    },
+                    {
+                        "en": "over time Perceptions change over time (= as time passes).",
+                        "vi": "theo thời gian Nhận thức thay đổi theo thời gian (= khi thời gian trôi qua)."
+                    },
+                    {
+                        "en": "As time goes on I love this city more and more.",
+                        "vi": "Theo thời gian, tôi ngày càng yêu thành phố này nhiều hơn."
+                    },
+                    {
+                        "en": "As time went by we saw less and less of each other.",
+                        "vi": "Thời gian trôi qua chúng tôi ngày càng ít gặp nhau hơn."
+                    },
+                    {
+                        "en": "The main character is able to travel through time.",
+                        "vi": "Nhân vật chính có thể du hành xuyên thời gian."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the time shown on a clock in minutes and hours",
+                    "vi": "thời gian được hiển thị trên đồng hồ tính bằng phút và giờ"
+                },
+                "examples": [
+                    {
+                        "en": "What time is it/What’s the time?",
+                        "vi": "Mấy giờ rồi / Mấy giờ rồi?"
+                    },
+                    {
+                        "en": "Do you have the time?",
+                        "vi": "Bạn có thời gian không?"
+                    },
+                    {
+                        "en": "(British English) What time do you make it?",
+                        "vi": "(Anh Anh) Mấy giờ bạn thực hiện nó?"
+                    },
+                    {
+                        "en": "(North American English) What time do you have?",
+                        "vi": "(Tiếng Anh Bắc Mỹ) Bạn có mấy giờ?"
+                    },
+                    {
+                        "en": "Let me just check the time.",
+                        "vi": "Hãy để tôi chỉ cần kiểm tra thời gian."
+                    },
+                    {
+                        "en": "The time is now half past ten.",
+                        "vi": "Bây giờ là 10 giờ rưỡi."
+                    },
+                    {
+                        "en": "(British English) Can she tell the time yet (= say what time it is by looking at a clock)?",
+                        "vi": "(Tiếng Anh Anh) Cô ấy có thể cho biết thời gian chưa (= nói mấy giờ rồi bằng cách nhìn đồng hồ)?"
+                    },
+                    {
+                        "en": "(North American English) Can she tell time yet?",
+                        "vi": "(Tiếng Anh Bắc Mỹ) Cô ấy có thể cho biết thời gian chưa?"
+                    },
+                    {
+                        "en": "My watch keeps perfect time (= always shows the correct time).",
+                        "vi": "Đồng hồ của tôi giữ thời gian hoàn hảo (= luôn hiển thị thời gian chính xác)."
+                    },
+                    {
+                        "en": "Look at the time! We'll be late.",
+                        "vi": "Nhìn thời gian! Chúng tôi sẽ đến muộn."
+                    },
+                    {
+                        "en": "This time tomorrow I'll be in Canada.",
+                        "vi": "Giờ này, ngày mai tôi sẽ ở Canada."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the time measured in a particular part of the world",
+                    "vi": "thời gian được đo ở một phần cụ thể của thế giới"
+                },
+                "examples": [
+                    {
+                        "en": "6 o’clock local time",
+                        "vi": "6 giờ giờ địa phương"
+                    },
+                    {
+                        "en": "We're two hours behind Central European Time.",
+                        "vi": "Chúng tôi chậm hơn hai giờ so với Giờ Trung Âu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the time when something happens or when something should happen",
+                    "vi": "thời điểm khi điều gì đó xảy ra hoặc khi điều gì đó nên xảy ra"
+                },
+                "examples": [
+                    {
+                        "en": "What time do you finish work?",
+                        "vi": "Khi nào bạn hoàn thành công việc?"
+                    },
+                    {
+                        "en": "The baby loves bath time.",
+                        "vi": "Em bé thích thời gian tắm."
+                    },
+                    {
+                        "en": "A computer screen shows arrival and departure times.",
+                        "vi": "Màn hình máy tính hiển thị thời gian đến và đi."
+                    },
+                    {
+                        "en": "time to do something I think it's time to go to bed.",
+                        "vi": "đến lúc làm việc gì đó Tôi nghĩ đã đến giờ đi ngủ."
+                    },
+                    {
+                        "en": "This is hardly the time to discuss politics.",
+                        "vi": "Đây hầu như không phải là lúc để thảo luận về chính trị."
+                    },
+                    {
+                        "en": "time for something It's time for lunch.",
+                        "vi": "thời gian cho một cái gì đó Đã đến giờ ăn trưa."
+                    },
+                    {
+                        "en": "time (that)… It's time the kids were in bed.",
+                        "vi": "thời gian (đó)… Đã đến lúc bọn trẻ đã lên giường."
+                    },
+                    {
+                        "en": "It's time that farmers listened to consumers.",
+                        "vi": "Đã đến lúc người nông dân lắng nghe người tiêu dùng."
+                    },
+                    {
+                        "en": "by the time (that)… By the time you get there the meeting will be over.",
+                        "vi": "đến lúc (đó)… Khi bạn đến đó, cuộc họp sẽ kết thúc."
+                    },
+                    {
+                        "en": "at a… time Have I called at a bad time? Shall I call back later?",
+                        "vi": "tại một thời điểm… Tôi đã gọi vào một thời điểm xấu? Tôi có nên gọi lại sau không?"
+                    },
+                    {
+                        "en": "We stock six different beers at any one time.",
+                        "vi": "Chúng tôi dự trữ sáu loại bia khác nhau cùng một lúc."
+                    },
+                    {
+                        "en": "at the time I didn't realize it at the time, but that was the best day of my life.",
+                        "vi": "tại thời điểm đó tôi đã không nhận ra điều đó vào thời điểm đó, nhưng đó là ngày tuyệt vời nhất trong cuộc đời tôi."
+                    },
+                    {
+                        "en": "The promotion came at just the right time for me.",
+                        "vi": "Chương trình khuyến mãi đến vào đúng thời điểm đối với tôi."
+                    },
+                    {
+                        "en": "The new product will launch when the time is right.",
+                        "vi": "Sản phẩm mới sẽ ra mắt khi đến thời điểm thích hợp."
+                    },
+                    {
+                        "en": "You'll feel differently about it when the time comes (= when it happens).",
+                        "vi": "Bạn sẽ cảm thấy khác về nó khi thời gian đến (= khi nó xảy ra)."
+                    },
+                    {
+                        "en": "around the time of something Several articles were published around the time of his death in 2018.",
+                        "vi": "khoảng thời gian xảy ra Một số bài báo đã được xuất bản vào khoảng thời gian ông qua đời vào năm 2018."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an amount of time; the amount of time available to work, rest, etc.",
+                    "vi": "một khoảng thời gian; khoảng thời gian có sẵn để làm việc, nghỉ ngơi, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "I can't go with you—I don't have time.",
+                        "vi": "Tôi không thể đi với bạn — tôi không có thời gian."
+                    },
+                    {
+                        "en": "He spends a lot of his time working.",
+                        "vi": "Anh ấy dành nhiều thời gian của mình cho công việc."
+                    },
+                    {
+                        "en": "time for something Do you have time for a chat?",
+                        "vi": "thời gian cho việc gì đó Bạn có thời gian để trò chuyện không?"
+                    },
+                    {
+                        "en": "time to do something Allow plenty of time to get to the airport.",
+                        "vi": "thời gian để làm điều gì đó Dành nhiều thời gian để đến sân bay."
+                    },
+                    {
+                        "en": "I can probably make the time to see them.",
+                        "vi": "Tôi có thể dành thời gian để xem chúng."
+                    },
+                    {
+                        "en": "It takes time to make changes in the law.",
+                        "vi": "Cần có thời gian để thực hiện các thay đổi trong luật."
+                    },
+                    {
+                        "en": "We have no time to lose (= we must hurry).",
+                        "vi": "Chúng ta không có thời gian để mất (= chúng ta phải nhanh lên)."
+                    },
+                    {
+                        "en": "We got to the airport with time to spare.",
+                        "vi": "Chúng tôi đến sân bay với thời gian rảnh rỗi."
+                    },
+                    {
+                        "en": "She plans to study overseas for an extended period of time.",
+                        "vi": "Cô ấy dự định sẽ đi du học trong một thời gian dài."
+                    },
+                    {
+                        "en": "What do you like to do in your free time?",
+                        "vi": "Bạn thích làm gì trong thời gian rảnh?"
+                    },
+                    {
+                        "en": "She doesn’t have much spare time.",
+                        "vi": "Cô ấy không có nhiều thời gian rảnh rỗi."
+                    },
+                    {
+                        "en": "Sorry, I can’t spare the time.",
+                        "vi": "Xin lỗi, tôi không thể rảnh rỗi."
+                    },
+                    {
+                        "en": "Don't waste any more time!",
+                        "vi": "Đừng lãng phí thời gian nữa!"
+                    },
+                    {
+                        "en": "What a waste of time!",
+                        "vi": "Thật là lãng phí thời gian!"
+                    },
+                    {
+                        "en": "Time's running out for them to complete the project.",
+                        "vi": "Sắp hết thời gian để họ hoàn thành dự án."
+                    },
+                    {
+                        "en": "I didn't finish the test—I ran out of time.",
+                        "vi": "Tôi đã không hoàn thành bài kiểm tra — tôi đã hết thời gian."
+                    },
+                    {
+                        "en": "Time's up—have you worked out the answer yet?",
+                        "vi": "Đã hết giờ — bạn đã tìm ra câu trả lời chưa?"
+                    },
+                    {
+                        "en": "He never takes any time off (= time spent not working).",
+                        "vi": "Anh ấy không bao giờ nghỉ (= thời gian không làm việc)."
+                    },
+                    {
+                        "en": "Jane's worked here for some time (= for a fairly long period of time).",
+                        "vi": "Jane đã làm việc ở đây một thời gian (= trong một khoảng thời gian khá dài)."
+                    },
+                    {
+                        "en": "Do it now please—not in three hours' time (= three hours from now).",
+                        "vi": "Vui lòng làm ngay bây giờ — không phải sau ba giờ nữa (= ba giờ kể từ bây giờ)."
+                    },
+                    {
+                        "en": "The journey time is two hours.",
+                        "vi": "Thời gian hành trình là hai giờ."
+                    },
+                    {
+                        "en": "I don’t want to take up too much of your precious time.",
+                        "vi": "Tôi không muốn chiếm quá nhiều thời gian quý báu của bạn."
+                    },
+                    {
+                        "en": "What’s the hurry? We have all the time in the world.",
+                        "vi": "Có việc gì vội vậy? Chúng tôi có tất cả thời gian trên thế giới."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a period of time, either long or short, during which you do something or something happens",
+                    "vi": "một khoảng thời gian, dài hoặc ngắn, trong đó bạn làm điều gì đó hoặc điều gì đó xảy ra"
+                },
+                "examples": [
+                    {
+                        "en": "His injuries will take a long time to heal.",
+                        "vi": "Vết thương của anh ấy sẽ mất nhiều thời gian để chữa lành."
+                    },
+                    {
+                        "en": "It took them a long time to get home.",
+                        "vi": "Họ mất một thời gian dài để về đến nhà."
+                    },
+                    {
+                        "en": "Did you have to wait a long time to see the doctor?",
+                        "vi": "Bạn đã phải đợi lâu để gặp bác sĩ?"
+                    },
+                    {
+                        "en": "for a time I lived in Egypt for a time.",
+                        "vi": "trong một thời gian tôi đã sống ở Ai Cập trong một thời gian."
+                    },
+                    {
+                        "en": "I was only there for a short time.",
+                        "vi": "Tôi chỉ ở đó trong một thời gian ngắn."
+                    },
+                    {
+                        "en": "The early morning is the best time of day.",
+                        "vi": "Buổi sáng sớm là thời điểm tốt nhất trong ngày."
+                    },
+                    {
+                        "en": "Her parents died a long time ago.",
+                        "vi": "Cha mẹ cô đã mất từ lâu."
+                    },
+                    {
+                        "en": "At one time (= at a period of time in the past) Emily was my best friend.",
+                        "vi": "Tại một thời điểm (= vào một khoảng thời gian trong quá khứ) Emily là bạn thân nhất của tôi."
+                    },
+                    {
+                        "en": "Mr Curtis was the manager in my time (= when I was working there).",
+                        "vi": "Ông Curtis là người quản lý vào thời của tôi (= khi tôi đang làm việc ở đó)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a period of history connected with particular events or experiences in people’s lives",
+                    "vi": "một giai đoạn lịch sử kết nối với các sự kiện hoặc trải nghiệm cụ thể trong cuộc sống của mọi người"
+                },
+                "examples": [
+                    {
+                        "en": "at the time of something The movie is set at the time of the Russian Revolution.",
+                        "vi": "at the time of something Bộ phim lấy bối cảnh vào thời kỳ Cách mạng Nga."
+                    },
+                    {
+                        "en": "in… time(s) the politician who promised ‘peace in our time’",
+                        "vi": "trong… thời gian, chính trị gia đã hứa 'hòa bình trong thời đại của chúng ta'"
+                    },
+                    {
+                        "en": "in ancient times",
+                        "vi": "trong thời cổ đại"
+                    },
+                    {
+                        "en": "The Industrial Revolution took place in Victorian times.",
+                        "vi": "Cách mạng Công nghiệp diễn ra vào thời Victoria."
+                    },
+                    {
+                        "en": "the violent times we live in (= the present period of history)",
+                        "vi": "thời kỳ bạo lực mà chúng ta đang sống (= thời kỳ hiện tại của lịch sử)"
+                    },
+                    {
+                        "en": "in times of something in times of trouble",
+                        "vi": "trong thời gian của một cái gì đó trong thời gian khó khăn"
+                    },
+                    {
+                        "en": "The business was successful, even during difficult times.",
+                        "vi": "Công việc kinh doanh đã thành công, ngay cả trong thời kỳ khó khăn."
+                    },
+                    {
+                        "en": "Times are hard for the unemployed.",
+                        "vi": "Thời buổi khó khăn cho những người thất nghiệp."
+                    },
+                    {
+                        "en": "Times have changed since Grandma was young.",
+                        "vi": "Thời thế đã thay đổi kể từ khi Bà còn trẻ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an occasion when you do something or when something happens",
+                    "vi": "một dịp khi bạn làm điều gì đó hoặc khi điều gì đó xảy ra"
+                },
+                "examples": [
+                    {
+                        "en": "Every time I hear that song I feel happy.",
+                        "vi": "Mỗi khi tôi nghe bài hát đó tôi cảm thấy hạnh phúc."
+                    },
+                    {
+                        "en": "It doesn't matter if you don't win every time (= every time you play).",
+                        "vi": "Sẽ không có vấn đề gì nếu bạn không thắng mọi lần (= mọi lần bạn chơi)."
+                    },
+                    {
+                        "en": "Next time you're here let's have lunch together.",
+                        "vi": "Lần sau khi bạn ở đây, chúng ta hãy ăn trưa cùng nhau."
+                    },
+                    {
+                        "en": "He failed his driving test three times.",
+                        "vi": "Anh ấy đã trượt bài kiểm tra lái xe của mình ba lần."
+                    },
+                    {
+                        "en": "He's determined to pass this time.",
+                        "vi": "Anh ấy quyết tâm vượt qua thời gian này."
+                    },
+                    {
+                        "en": "When was the last time you saw her?",
+                        "vi": "Lần cuối cùng bạn nhìn thấy cô ấy là khi nào?"
+                    },
+                    {
+                        "en": "I see her two or three times a week.",
+                        "vi": "Tôi gặp cô ấy hai hoặc ba lần một tuần."
+                    },
+                    {
+                        "en": "How many times (= how often) do I have to tell you not to do that?",
+                        "vi": "Tôi phải nói với bạn bao nhiêu lần (= bao lâu một lần)?"
+                    },
+                    {
+                        "en": "(especially North American English) I remember one time (= once) we had to abandon our car in the snow.",
+                        "vi": "(đặc biệt là tiếng Anh ở Bắc Mỹ) Tôi nhớ có một lần (= một lần) chúng tôi phải bỏ xe trong tuyết."
+                    },
+                    {
+                        "en": "(formal) At no time did I give my consent to the plan.",
+                        "vi": "(chính thức) Không lúc nào tôi đồng ý với kế hoạch."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an event or occasion that you experience in a particular way",
+                    "vi": "một sự kiện hoặc dịp mà bạn trải nghiệm theo một cách cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "Did you have a good time in Spain?",
+                        "vi": "Bạn đã có một thời gian vui vẻ ở Tây Ban Nha?"
+                    },
+                    {
+                        "en": "They're having a hard time dealing with her illness.",
+                        "vi": "Họ đang gặp khó khăn trong việc đối phó với căn bệnh của cô ấy."
+                    },
+                    {
+                        "en": "I had an awful time in the hospital.",
+                        "vi": "Tôi đã có một khoảng thời gian tồi tệ trong bệnh viện."
+                    },
+                    {
+                        "en": "Mike and I shared some really good times.",
+                        "vi": "Mike và tôi đã chia sẻ những khoảng thời gian rất vui vẻ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "how long somebody takes to run a race or complete an event",
+                    "vi": "Ai đó mất bao lâu để chạy một cuộc đua hoặc hoàn thành một sự kiện"
+                },
+                "examples": [
+                    {
+                        "en": "The winner's time was 11.6 seconds.",
+                        "vi": "Thời gian của người chiến thắng là 11,6 giây."
+                    },
+                    {
+                        "en": "She completed the 500 metres in record time (= faster than any previous runner).",
+                        "vi": "Cô ấy đã hoàn thành 500 mét trong thời gian kỷ lục (= nhanh hơn bất kỳ người chạy nào trước đó)."
+                    },
+                    {
+                        "en": "one of the fastest times ever",
+                        "vi": "một trong những thời gian nhanh nhất từ trước đến nay"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the number of beats (= units of rhythm) in a bar of music",
+                    "vi": "số lượng nhịp (= đơn vị nhịp điệu) trong một ô nhịp nhạc"
+                },
+                "examples": [
+                    {
+                        "en": "This piece is in four-four time.",
+                        "vi": "Phần này là bốn bốn lần."
+                    },
+                    {
+                        "en": "a slow waltz time",
+                        "vi": "thời gian trôi chậm"
+                    },
+                    {
+                        "en": "The conductor beat time with a baton.",
+                        "vi": "Nhạc trưởng đánh thời gian bằng dùi cui."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the correct speed and rhythm of a piece of music",
+                    "vi": "tốc độ và nhịp điệu chính xác của một bản nhạc"
+                },
+                "examples": [
+                    {
+                        "en": "in time to something Try and dance in time to the music (= with the same speed and rhythm).",
+                        "vi": "đúng lúc đến một thứ gì đó Cố gắng và nhảy đúng lúc theo điệu nhạc (= với cùng tốc độ và nhịp điệu)."
+                    },
+                    {
+                        "en": "Clap your hands to keep time (= sing or move with the correct speed and rhythm).",
+                        "vi": "Vỗ tay để giữ thời gian (= hát hoặc di chuyển với tốc độ và nhịp điệu chính xác)."
+                    },
+                    {
+                        "en": "in/out of time to play in/out of time (= follow/not follow the correct speed and rhythm)",
+                        "vi": "vào / hết thời gian để phát vào / hết thời gian (= theo / không theo đúng tốc độ và nhịp điệu)"
+                    },
+                    {
+                        "en": "He always plays in perfect time.",
+                        "vi": "Anh ấy luôn chơi trong thời gian hoàn hảo."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to say that something should have happened before now",
+                    "vi": "từng nói rằng điều gì đó đáng lẽ phải xảy ra trước đây"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "if you do something against time, you do it as fast as you can because you do not have much time",
+                    "vi": "nếu bạn làm điều gì đó chống lại thời gian, bạn làm điều đó nhanh nhất có thể vì bạn không có nhiều thời gian"
+                },
+                "examples": [
+                    {
+                        "en": "They're working against time to try and get people out of the rubble alive.",
+                        "vi": "Họ đang làm việc với thời gian để cố gắng đưa mọi người ra khỏi đống đổ nát còn sống."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "earlier/later than was expected",
+                    "vi": "sớm hơn / muộn hơn dự kiến"
+                },
+                "examples": [
+                    {
+                        "en": "We finished 15 minutes ahead of time.",
+                        "vi": "Chúng tôi đã hoàn thành trước thời hạn 15 phút."
+                    },
+                    {
+                        "en": "The plane took off an hour behind time.",
+                        "vi": "Máy bay cất cánh chậm hơn một giờ so với thời gian."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "having advanced or new ideas that other people use or copy later",
+                    "vi": "có ý tưởng nâng cao hoặc ý tưởng mới mà người khác sử dụng hoặc sao chép sau này"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "during the whole of a particular period of time",
+                    "vi": "trong toàn bộ một khoảng thời gian cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "The letter was in my pocket all the time (= while I was looking for it).",
+                        "vi": "Bức thư đã ở trong túi của tôi mọi lúc (= trong khi tôi đang tìm kiếm nó)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "very often; repeatedly",
+                    "vi": "rất thường xuyên; nhiều lần"
+                },
+                "examples": [
+                    {
+                        "en": "She leaves the lights on all the time.",
+                        "vi": "Cô ấy để đèn sáng mọi lúc."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "always",
+                    "vi": "luôn"
+                },
+                "examples": [
+                    {
+                        "en": "Our representatives are ready to help you at all times.",
+                        "vi": "Đại diện của chúng tôi sẵn sàng trợ giúp bạn mọi lúc."
+                    },
+                    {
+                        "en": "Hot water is available at all times.",
+                        "vi": "Nước nóng luôn có sẵn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "even when the circumstances are very good",
+                    "vi": "ngay cả khi hoàn cảnh rất tốt"
+                },
+                "examples": [
+                    {
+                        "en": "He's never very happy at the best of times—he'll be much worse now!",
+                        "vi": "Anh ấy không bao giờ hạnh phúc vào những thời điểm tốt nhất - bây giờ anh ấy sẽ tồi tệ hơn nhiều!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "at one time; together",
+                    "vi": "cùng một lúc; cùng với nhau"
+                },
+                "examples": [
+                    {
+                        "en": "She was laughing and crying at the same time.",
+                        "vi": "Cô ấy vừa cười vừa khóc."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to introduce a fact that is different and must be considered",
+                    "vi": "được sử dụng để giới thiệu một sự thật khác biệt và phải được xem xét"
+                },
+                "examples": [
+                    {
+                        "en": "You have to be firm, but at the same time you should try and be sympathetic.",
+                        "vi": "Bạn phải vững vàng, nhưng đồng thời cũng nên cố gắng và thông cảm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "separately or in groups of two, three, etc. on each occasion",
+                    "vi": "riêng biệt hoặc theo nhóm hai, ba, v.v. vào mỗi dịp"
+                },
+                "examples": [
+                    {
+                        "en": "We had to go and see the principal one at a time.",
+                        "vi": "Chúng tôi phải đến gặp hiệu trưởng một lượt."
+                    },
+                    {
+                        "en": "She ran up the stairs two at a time.",
+                        "vi": "Cô ấy chạy lên cầu thang cùng một lúc hai người."
+                    },
+                    {
+                        "en": "He surfs the internet for hours at a time.",
+                        "vi": "Anh ấy lướt Internet hàng giờ liền."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "at the age you are (especially when you are not young)",
+                    "vi": "ở độ tuổi của bạn (đặc biệt là khi bạn không còn trẻ)"
+                },
+                "examples": [
+                    {
+                        "en": "Eyesight doesn't get any better at my time of life.",
+                        "vi": "Thị lực của tôi không tốt hơn chút nào vào thời điểm còn sống."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "sometimes",
+                    "vi": "thỉnh thoảng"
+                },
+                "examples": [
+                    {
+                        "en": "He can be really bad-tempered at times.",
+                        "vi": "Đôi khi anh ấy có thể rất nóng tính."
+                    },
+                    {
+                        "en": "The rain will become heavy at times in the afternoon.",
+                        "vi": "Cơn mưa sẽ trở nên nặng hạt vào buổi chiều."
+                    },
+                    {
+                        "en": "He can be rather moody at times.",
+                        "vi": "Đôi khi anh ấy có thể khá thất thường."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to mark or follow the rhythm of music, by waving a stick, tapping your foot (= hitting it against the floor), etc.",
+                    "vi": "để đánh dấu hoặc theo nhịp điệu của âm nhạc, bằng cách vẫy gậy, gõ chân (= đập xuống sàn), v.v."
+                },
+                "examples": [
+                    {
+                        "en": "She beat time with her fingers.",
+                        "vi": "Cô ấy đánh bại thời gian bằng những ngón tay của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "happening before you were born or can remember or before you lived, worked, etc. somewhere",
+                    "vi": "xảy ra trước khi bạn được sinh ra hoặc có thể nhớ hoặc trước khi bạn sống, làm việc, v.v. ở đâu đó"
+                },
+                "examples": [
+                    {
+                        "en": "‘Were you taught by Professor Pascal?’ ‘No, he was before my time.’",
+                        "vi": "Bạn đã được dạy bởi Giáo sư Pascal? 'Không, anh ấy đến trước thời đại của tôi.'"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "before the usual time in somebody’s life when something happens",
+                    "vi": "trước thời điểm bình thường trong cuộc sống của ai đó khi một điều gì đó xảy ra"
+                },
+                "examples": [
+                    {
+                        "en": "She got old before her time.",
+                        "vi": "Cô ấy già đi trước thời đại."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "old-fashioned in your ideas, methods, etc.",
+                    "vi": "lỗi thời trong các ý tưởng, phương pháp của bạn, v.v."
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be able to take advantage of opportunities when they come",
+                    "vi": "để có thể tận dụng các cơ hội khi chúng đến"
+                },
+                "examples": [
+                    {
+                        "en": "His success was down to being in the right place at the right time.",
+                        "vi": "Thành công của anh ấy là do đến đúng nơi, đúng lúc."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to still be alive after the time when you were expected to die",
+                    "vi": "vẫn còn sống sau thời gian mà bạn được cho là sẽ chết"
+                },
+                "examples": [
+                    {
+                        "en": "He’s been living on borrowed time ever since his last heart attack.",
+                        "vi": "Anh ấy đã sống dựa vào thời gian vay mượn kể từ cơn đau tim cuối cùng của anh ấy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be doing something that other people are likely to soon stop you from doing",
+                    "vi": "làm điều gì đó mà người khác có khả năng sớm ngăn cản bạn làm"
+                },
+                "examples": [
+                    {
+                        "en": "According to the latest opinion polls, the government is living on borrowed time.",
+                        "vi": "Theo các cuộc thăm dò dư luận mới nhất, chính phủ đang sống dựa vào thời gian vay mượn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to encourage somebody who has not been successful at something",
+                    "vi": "được sử dụng để khuyến khích ai đó đã không thành công trong một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "Never mind— better luck next time.",
+                        "vi": "Đừng bận tâm - chúc bạn may mắn lần sau."
+                    },
+                    {
+                        "en": "If you didn't win a prize, better luck next time.",
+                        "vi": "Nếu bạn không giành được giải thưởng, chúc bạn may mắn lần sau."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to wait for the right time to do something",
+                    "vi": "đợi thời điểm thích hợp để làm điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "He decided to bide his time until he got an opportunity to talk to her alone.",
+                        "vi": "Anh quyết định dành thời gian cho đến khi có cơ hội nói chuyện riêng với cô."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to do something in order to delay an event, a decision, etc.",
+                    "vi": "để làm điều gì đó nhằm trì hoãn một sự kiện, một quyết định, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "The negotiators kept the gunman talking to buy time for the hostages.",
+                        "vi": "Các nhà đàm phán đã giữ cho tay súng nói chuyện để câu giờ cho các con tin."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to say or decide that it is time for something to finish",
+                    "vi": "để nói hoặc quyết định rằng đã đến lúc điều gì đó phải kết thúc"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a very difficult or unpleasant job or time",
+                    "vi": "một công việc hoặc thời gian rất khó khăn hoặc khó chịu"
+                },
+                "examples": [
+                    {
+                        "en": "I've had a devil of a job finding you.",
+                        "vi": "Tôi đã có một công việc quỷ dữ tìm thấy bạn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to spend time in prison",
+                    "vi": "ở tù"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "whenever there is a choice",
+                    "vi": "bất cứ khi nào có sự lựa chọn"
+                },
+                "examples": [
+                    {
+                        "en": "I don't really like cities—give me the countryside every time.",
+                        "vi": "Tôi không thực sự thích thành phố — cứ đưa tôi về vùng nông thôn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if you do something for old times’ sake, you do it because it is connected with something good that happened to you in the past",
+                    "vi": "nếu bạn làm điều gì đó vì lợi ích của thời xưa, bạn làm điều đó vì nó được kết nối với điều gì đó tốt đẹp đã xảy ra với bạn trong quá khứ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "for a short period of time but not permanently",
+                    "vi": "trong một khoảng thời gian ngắn nhưng không phải là vĩnh viễn"
+                },
+                "examples": [
+                    {
+                        "en": "You can leave your suitcase here for the time being.",
+                        "vi": "Bạn có thể để vali ở đây tạm thời."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "beginning on that day; from that time",
+                    "vi": "bắt đầu từ ngày đó; Từ thời điểm đó"
+                },
+                "examples": [
+                    {
+                        "en": "From that time forth she gave me endless friendship and encouragement.",
+                        "vi": "Kể từ đó, cô ấy đã dành cho tôi tình bạn và sự động viên vô tận."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "occasionally but not regularly",
+                    "vi": "thỉnh thoảng nhưng không thường xuyên"
+                },
+                "examples": [
+                    {
+                        "en": "She has to work at weekends from time to time.",
+                        "vi": "Cô ấy thỉnh thoảng phải làm việc vào cuối tuần."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to delay something so that you can have more time to make a decision, deal with a problem, etc.",
+                    "vi": "trì hoãn việc gì đó để bạn có thêm thời gian đưa ra quyết định, giải quyết vấn đề, v.v."
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to deliberately make a situation difficult and unpleasant for somebody",
+                    "vi": "cố tình tạo ra một tình huống khó khăn và khó chịu cho ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "They really gave me a hard time at the interview.",
+                        "vi": "Họ thực sự đã gây khó khăn cho tôi trong buổi phỏng vấn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to say that you prefer a particular thing or person to the one that has just been mentioned",
+                    "vi": "được sử dụng để nói rằng bạn thích một điều hoặc một người cụ thể hơn một điều vừa được đề cập"
+                },
+                "examples": [
+                    {
+                        "en": "We don't go out much. Give me a quiet night in front of the TV any day!",
+                        "vi": "Chúng tôi không đi chơi nhiều. Cho tôi một đêm yên tĩnh trước TV bất cứ ngày nào!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to have no difficulties or problems",
+                    "vi": "không gặp khó khăn hay vấn đề gì"
+                },
+                "examples": [
+                    {
+                        "en": "He’s had an easy time of it since he married Lucy.",
+                        "vi": "Anh ấy đã có một khoảng thời gian dễ dàng kể từ khi kết hôn với Lucy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to enjoy yourself very much",
+                    "vi": "để tận hưởng bản thân rất nhiều"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to like and be interested in somebody/something",
+                    "vi": "thích và quan tâm đến ai đó / điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "I've always had a lot of time for Mary.",
+                        "vi": "Tôi luôn dành nhiều thời gian cho Mary."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to dislike somebody/something",
+                    "vi": "không thích ai đó / cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "I have no time for lazy people like Steve.",
+                        "vi": "Tôi không có thời gian cho những người lười biếng như Steve."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to have many problems or difficulties to deal with; to not be successful",
+                    "vi": "có nhiều vấn đề hoặc khó khăn để giải quyết; không thành công"
+                },
+                "examples": [
+                    {
+                        "en": "He’s had a thin time of it since losing his job.",
+                        "vi": "Anh ấy đã có một khoảng thời gian mỏng manh kể từ khi mất việc."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to enjoy yourself very much",
+                    "vi": "để tận hưởng bản thân rất nhiều"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to have nothing to do or not be busy",
+                    "vi": "không có gì để làm hoặc không bận"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to enjoy yourself very much; to have a very good time",
+                    "vi": "để tận hưởng bản thân rất nhiều; để có một thời gian rất tốt"
+                },
+                "examples": [
+                    {
+                        "en": "The kids had a whale of a time at the theme park.",
+                        "vi": "Những đứa trẻ đã có một thời gian chơi cá voi ở công viên giải trí."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "when enough time has passed",
+                    "vi": "khi đủ thời gian trôi qua"
+                },
+                "examples": [
+                    {
+                        "en": "It is possible that in the course of time a cure for cancer will be found.",
+                        "vi": "Có thể trong một thời gian nữa sẽ tìm ra phương pháp chữa khỏi bệnh ung thư."
+                    },
+                    {
+                        "en": "In the course of time, I began to understand.",
+                        "vi": "Theo dòng thời gian, tôi bắt đầu hiểu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "when the time is appropriate, usually after a long period",
+                    "vi": "khi đến thời điểm thích hợp, thường là sau một thời gian dài"
+                },
+                "examples": [
+                    {
+                        "en": "I have no doubt that she’ll tell us in the fullness of time.",
+                        "vi": "Tôi không nghi ngờ gì rằng cô ấy sẽ nói với chúng tôi trong thời gian đầy đủ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "early; with enough time so that you are not in a hurry",
+                    "vi": "sớm; có đủ thời gian để bạn không vội vàng"
+                },
+                "examples": [
+                    {
+                        "en": "Get to the airport in good time.",
+                        "vi": "Đến sân bay trong thời gian tốt."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to say that something will be done or will happen at the appropriate time and not before",
+                    "vi": "được sử dụng để nói rằng một cái gì đó sẽ được thực hiện hoặc sẽ xảy ra vào thời điểm thích hợp chứ không phải trước"
+                },
+                "examples": [
+                    {
+                        "en": "Be patient, Emily! All in good time.",
+                        "vi": "Hãy kiên nhẫn, Emily! Tất cả trong thời gian tốt."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "at the very last moment; just before something bad happens, so that you manage to avoid it, but only just",
+                    "vi": "vào thời điểm cuối cùng; ngay trước khi điều gì đó tồi tệ xảy ra, để bạn có thể tránh nó, nhưng chỉ"
+                },
+                "examples": [
+                    {
+                        "en": "They escaped from the smoke-filled house just in the nick of time.",
+                        "vi": "Họ thoát khỏi ngôi nhà đầy khói chỉ trong gang tấc."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "so soon or so quickly that it is surprising",
+                    "vi": "sớm hay nhanh đến mức đáng ngạc nhiên"
+                },
+                "examples": [
+                    {
+                        "en": "The kids will be leaving home in no time.",
+                        "vi": "Những đứa trẻ sẽ rời khỏi nhà trong thời gian ngắn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a long time ago in the past",
+                    "vi": "cách đây rất lâu trong quá khứ"
+                },
+                "examples": [
+                    {
+                        "en": "In olden times people would gather in town squares to gossip and exchange stories.",
+                        "vi": "Vào thời xa xưa, mọi người thường tụ tập ở quảng trường thị trấn để tán gẫu và trao đổi những câu chuyện."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "how and when you want to, even though this might annoy other people",
+                    "vi": "làm thế nào và khi nào bạn muốn, mặc dù điều này có thể làm phiền người khác"
+                },
+                "examples": [
+                    {
+                        "en": "He always does the work, but in his own sweet time.",
+                        "vi": "Anh ấy luôn luôn làm công việc, nhưng trong thời gian ngọt ngào của riêng mình."
+                    },
+                    {
+                        "en": "She just ignores all the criticism and continues on her own sweet way.",
+                        "vi": "Cô ấy bỏ qua tất cả những lời chỉ trích và tiếp tục con đường ngọt ngào của riêng mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "when you are ready and not sooner",
+                    "vi": "khi bạn đã sẵn sàng và không sớm hơn"
+                },
+                "examples": [
+                    {
+                        "en": "Don't hassle him! He'll do it in his own good time.",
+                        "vi": "Đừng làm phiền anh ấy! Anh ấy sẽ làm điều đó trong thời gian tốt của riêng mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "in your free time and not when you usually work or study",
+                    "vi": "trong thời gian rảnh rỗi của bạn và không phải khi bạn thường làm việc hoặc học tập"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "after a period of time when a situation has changed",
+                    "vi": "sau một khoảng thời gian khi tình hình đã thay đổi"
+                },
+                "examples": [
+                    {
+                        "en": "They learned to accept their stepmother in time.",
+                        "vi": "Họ học cách chấp nhận mẹ kế của mình đúng lúc."
+                    },
+                    {
+                        "en": "You'll get used to the work in time.",
+                        "vi": "Bạn sẽ quen với công việc trong thời gian."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "not late; with enough time to be able to do something",
+                    "vi": "khong tre; có đủ thời gian để có thể làm điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "Will we be in time for the six o'clock train?",
+                        "vi": "Chúng ta sẽ đến kịp chuyến tàu sáu giờ chứ?"
+                    },
+                    {
+                        "en": "The ambulance got there just in time (= to save somebody's life).",
+                        "vi": "Xe cấp cứu đến đó đúng lúc (= để cứu sống ai đó)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to say that you think somebody should do something soon",
+                    "vi": "từng nói rằng bạn nghĩ ai đó nên làm điều gì đó sớm"
+                },
+                "examples": [
+                    {
+                        "en": "It's about time you cleaned your room!",
+                        "vi": "Đã đến lúc bạn dọn dẹp phòng của mình!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to say that something will definitely happen, although you are not sure when",
+                    "vi": "được sử dụng để nói rằng điều gì đó chắc chắn sẽ xảy ra, mặc dù bạn không chắc khi nào"
+                },
+                "examples": [
+                    {
+                        "en": "It's only a matter of time before they bring out their own version of the software.",
+                        "vi": "Chỉ còn là vấn đề thời gian trước khi họ đưa ra phiên bản phần mềm của riêng mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to change and develop your ideas, way of working, etc. so that you do what is modern and what is expected",
+                    "vi": "để thay đổi và phát triển ý tưởng, cách làm việc, v.v. của bạn để bạn làm những gì hiện đại và những gì được mong đợi"
+                },
+                "examples": [
+                    {
+                        "en": "Many complained that the Royal Family had failed to move with the times.",
+                        "vi": "Nhiều người phàn nàn rằng Hoàng gia đã thất bại trong việc di chuyển theo thời đại."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to spend time doing something that is not important while you are waiting for something else to happen",
+                    "vi": "dành thời gian làm điều gì đó không quan trọng trong khi bạn đang chờ đợi điều gì khác xảy ra"
+                },
+                "examples": [
+                    {
+                        "en": "We killed time playing cards.",
+                        "vi": "Chúng tôi đã giết thời gian chơi bài."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to say hello to somebody you have not seen for a long time",
+                    "vi": "đã từng chào ai đó mà bạn đã lâu không gặp"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to complete a journey quickly",
+                    "vi": "để hoàn thành một cuộc hành trình một cách nhanh chóng"
+                },
+                "examples": [
+                    {
+                        "en": "We made excellent time and arrived in Spain in two days.",
+                        "vi": "Chúng tôi đã có thời gian tuyệt vời và đến Tây Ban Nha sau hai ngày."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to do something quickly or very often because you wish you had started doing it sooner",
+                    "vi": "làm điều gì đó nhanh chóng hoặc rất thường xuyên bởi vì bạn ước mình bắt đầu làm điều đó sớm hơn"
+                },
+                "examples": [
+                    {
+                        "en": "I’ll have to work hard now to make up for lost time.",
+                        "vi": "Bây giờ tôi sẽ phải làm việc chăm chỉ để bù lại thời gian đã mất."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "many times; frequently",
+                    "vi": "nhiều lần; thường xuyên"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to pass the time while you wait for something more interesting",
+                    "vi": "để trôi qua thời gian trong khi bạn chờ đợi điều gì đó thú vị hơn"
+                },
+                "examples": [
+                    {
+                        "en": "I'm just marking time in this job—I'm hoping to get into journalism.",
+                        "vi": "Tôi chỉ đang đánh dấu thời gian cho công việc này — tôi hy vọng sẽ tham gia vào ngành báo chí."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make marching movements without moving forwards",
+                    "vi": "để thực hiện các chuyển động diễu hành mà không cần di chuyển về phía trước"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "on the next, first, etc. occasion that the same thing happens",
+                    "vi": "vào dịp tiếp theo, đầu tiên, v.v. mà điều tương tự xảy ra"
+                },
+                "examples": [
+                    {
+                        "en": "He repeated none of the errors he'd made first time round.",
+                        "vi": "Anh ấy không lặp lại lỗi nào mà anh ấy đã mắc phải trong lần đầu tiên."
+                    },
+                    {
+                        "en": "This time round it was not so easy.",
+                        "vi": "Lần này nó không phải là dễ dàng như vậy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to say that something is usually true or almost always happens",
+                    "vi": "được sử dụng để nói rằng điều gì đó thường đúng hoặc hầu như luôn xảy ra"
+                },
+                "examples": [
+                    {
+                        "en": "Nine times out of ten she gives the right answer.",
+                        "vi": "Chín lần trong số mười cô ấy đưa ra câu trả lời đúng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "almost always",
+                    "vi": "gần như luôn luôn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used to say that something should have happened before now",
+                    "vi": "từng nói rằng điều gì đó đáng lẽ phải xảy ra trước đây"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to refuse to speak to somebody because you do not like or respect them",
+                    "vi": "từ chối nói chuyện với ai đó vì bạn không thích hoặc không tôn trọng họ"
+                },
+                "examples": [
+                    {
+                        "en": "Since the success of her novel, people shake her hand who once wouldn't have given her the time of day.",
+                        "vi": "Kể từ thành công của cuốn tiểu thuyết của cô ấy, mọi người bắt tay cô ấy, những người đã từng không cho cô ấy thời gian trong ngày."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "now is the best time to do something, not in the future",
+                    "vi": "bây giờ là thời điểm tốt nhất để làm điều gì đó, không phải trong tương lai"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "that has ever existed",
+                    "vi": "điều đó đã từng tồn tại"
+                },
+                "examples": [
+                    {
+                        "en": "Many rated him the best singer of all time.",
+                        "vi": "Nhiều người đánh giá anh là ca sĩ xuất sắc nhất mọi thời đại."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used, especially at the beginning of stories, to mean ‘a long time ago in the past’",
+                    "vi": "được sử dụng, đặc biệt là ở đầu câu chuyện, có nghĩa là 'cách đây rất lâu trong quá khứ'"
+                },
+                "examples": [
+                    {
+                        "en": "Once upon a time there was a beautiful princess.",
+                        "vi": "Ngày xửa ngày xưa có một nàng công chúa xinh đẹp."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "at the arranged or correct time; not late",
+                    "vi": "vào thời gian đã sắp xếp hoặc chính xác; khong tre"
+                },
+                "examples": [
+                    {
+                        "en": "The train arrived right on time.",
+                        "vi": "Chuyến tàu đến đúng giờ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to say hello to somebody and have a short conversation with them",
+                    "vi": "chào ai đó và trò chuyện ngắn với họ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to find or create reasons why something has to be delayed, often so you have longer to prepare for it",
+                    "vi": "để tìm hoặc tạo ra lý do tại sao một cái gì đó phải bị trì hoãn, vì vậy bạn có nhiều thời gian hơn để chuẩn bị cho nó"
+                },
+                "examples": [
+                    {
+                        "en": "His legal team, clearly playing for time, sought to have the case heard a month later.",
+                        "vi": "Đội ngũ pháp lý của anh ấy, rõ ràng là chơi đúng lúc, đã tìm cách đưa vụ việc ra xét xử một tháng sau đó."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a situation in which you have to do something or finish something very fast before it is too late",
+                    "vi": "một tình huống mà bạn phải làm một cái gì đó hoặc hoàn thành một cái gì đó rất nhanh trước khi quá muộn"
+                },
+                "examples": [
+                    {
+                        "en": "Getting food to the starving refugees is now a race against time.",
+                        "vi": "Kiếm thức ăn cho những người tị nạn chết đói giờ đây là một cuộc chạy đua với thời gian."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "something that you feel shows what things are like now, especially how bad they are",
+                    "vi": "điều gì đó mà bạn cảm thấy cho thấy mọi thứ hiện tại như thế nào, đặc biệt là mức độ tồi tệ của chúng"
+                },
+                "examples": [
+                    {
+                        "en": "The increasing number of people owning guns is an alarming sign of the times.",
+                        "vi": "Việc ngày càng có nhiều người sở hữu súng là một dấu hiệu đáng báo động của thời đại."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "it is better to deal with something immediately because if you wait it may become worse or more difficult and cause extra work",
+                    "vi": "tốt hơn hết là bạn nên giải quyết việc gì đó ngay lập tức vì nếu bạn chờ đợi, nó có thể trở nên tồi tệ hơn hoặc khó khăn hơn và gây ra thêm công việc"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to not think about what will happen in the future",
+                    "vi": "không nghĩ về những gì sẽ xảy ra trong tương lai"
+                },
+                "examples": [
+                    {
+                        "en": "I don't know if he'll get better. We're just taking it one day at a time.",
+                        "vi": "Tôi không biết liệu anh ấy có khỏe hơn không. Chúng tôi chỉ dùng nó một ngày một lần."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to use as much time as you need without hurrying",
+                    "vi": "để sử dụng nhiều thời gian như bạn cần mà không cần vội vàng"
+                },
+                "examples": [
+                    {
+                        "en": "There's no rush—take your time.",
+                        "vi": "Không có gì vội vàng - hãy dành thời gian của bạn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to say you think somebody is late or is too slow in doing something",
+                    "vi": "từng nói rằng bạn nghĩ ai đó đến muộn hoặc quá chậm trong việc làm việc gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "You certainly took your time getting here!",
+                        "vi": "Bạn chắc chắn đã mất thời gian của bạn để đến đây!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to spend some time away from your usual work or activity in order to rest or do something else instead",
+                    "vi": "dành một chút thời gian rời khỏi công việc hoặc hoạt động thường ngày của bạn để nghỉ ngơi hoặc làm việc khác thay vào đó"
+                },
+                "examples": [
+                    {
+                        "en": "She is taking time out from her music career for a year.",
+                        "vi": "Cô ấy đang dành thời gian cho sự nghiệp âm nhạc của mình trong một năm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the fact that something has not happened before does not mean that it will never happen",
+                    "vi": "thực tế là điều gì đó chưa xảy ra trước đây không có nghĩa là nó sẽ không bao giờ xảy ra"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used when you have failed to do something twice and hope that you will succeed the third time",
+                    "vi": "được sử dụng khi bạn đã thất bại trong việc làm điều gì đó hai lần và hy vọng rằng bạn sẽ thành công lần thứ ba"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "often; on many or all occasions",
+                    "vi": "thường; trong nhiều hoặc tất cả các dịp"
+                },
+                "examples": [
+                    {
+                        "en": "You will get a perfect result time after time if you follow these instructions.",
+                        "vi": "Bạn sẽ nhận được một kết quả hoàn hảo theo thời gian nếu bạn làm theo các hướng dẫn này."
+                    },
+                    {
+                        "en": "Time and again, the girls have shown how strong and determined they can be.",
+                        "vi": "Hết lần này đến lần khác, các cô gái đã chứng tỏ rằng họ có thể mạnh mẽ và quyết tâm như thế nào."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "one and a half times the usual rate of pay",
+                    "vi": "gấp rưỡi mức lương thông thường"
+                },
+                "examples": [
+                    {
+                        "en": "We get time and a half on Sundays.",
+                        "vi": "Chúng tôi có thời gian rưỡi vào Chủ nhật."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "time seems to pass very quickly",
+                    "vi": "thời gian dường như trôi qua rất nhanh"
+                },
+                "examples": [
+                    {
+                        "en": "How time flies! I've got to go now.",
+                        "vi": "Thời gian trôi qua làm sao! Tôi phải đi bây giờ."
+                    },
+                    {
+                        "en": "Time has flown since the holiday began.",
+                        "vi": "Thời gian đã trôi đi kể từ khi kỳ nghỉ bắt đầu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "time is valuable, and should not be wasted",
+                    "vi": "thời gian là quý giá và không nên lãng phí"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used to say that somebody can wait for something to happen or can wait before doing something",
+                    "vi": "được sử dụng để nói rằng ai đó có thể đợi điều gì đó xảy ra hoặc có thể đợi trước khi làm điều gì đó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used to say that something used to happen in the past",
+                    "vi": "được sử dụng để nói rằng một cái gì đó đã từng xảy ra trong quá khứ"
+                },
+                "examples": [
+                    {
+                        "en": "Time was when you could go for a walk in the country and not see another person for miles.",
+                        "vi": "Đó là lúc bạn có thể đi dạo trong nước và không nhìn thấy một người nào khác trong hàng dặm."
+                    },
+                    {
+                        "en": "Time was when we never needed to lock our house at night.",
+                        "vi": "Đó là lúc chúng ta không bao giờ cần khóa nhà vào ban đêm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to say that you will have to wait for some time to find out the result of a situation",
+                    "vi": "thường nói rằng bạn sẽ phải đợi một thời gian để tìm ra kết quả của một tình huống"
+                },
+                "examples": [
+                    {
+                        "en": "Only time will tell if the treatment has been successful.",
+                        "vi": "Chỉ có thời gian mới biết liệu việc điều trị có thành công hay không."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "during the whole of a particular period of time",
+                    "vi": "trong toàn bộ một khoảng thời gian cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "My keys were in my pocket the whole time (= while I was looking for them).",
+                        "vi": "Chìa khóa của tôi đã ở trong túi của tôi suốt thời gian qua (= trong khi tôi đang tìm kiếm chúng)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "very often; repeatedly",
+                    "vi": "rất thường xuyên; nhiều lần"
+                },
+                "examples": [
+                    {
+                        "en": "He drums his fingers on the table the whole time—it's very annoying.",
+                        "vi": "Anh ấy đánh trống những ngón tay của mình trên bàn suốt - điều đó rất khó chịu."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3148ea27a59b4faca50427bf19e88a28",
+        "word": "furlough",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈfɜːləʊ/",
+            "us": "/ˈfɜːrləʊ/"
+        },
+        "nearby": [
+            {
+                "word": "furlong",
+                "pos": "noun"
+            },
+            {
+                "word": "furlough",
+                "pos": "verb"
+            },
+            {
+                "word": "furlough",
+                "pos": "noun"
+            },
+            {
+                "word": "furnace",
+                "pos": "noun"
+            },
+            {
+                "word": "furnish",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "permission to leave your duties for a period of time, especially for soldiers working in a foreign country",
+                    "vi": "cho phép rời nhiệm vụ của bạn trong một thời gian, đặc biệt là đối với những người lính làm việc ở nước ngoài"
+                },
+                "examples": [
+                    {
+                        "en": "The plane was full of soldiers going home on furlough.",
+                        "vi": "Máy bay chở đầy binh lính về nhà trong tình trạng mệt mỏi."
+                    },
+                    {
+                        "en": "a six-week furlough",
+                        "vi": "sáu tuần lễ"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "permission for a prisoner to leave prison for a period of time",
+                    "vi": "cho phép một tù nhân ra tù trong một khoảng thời gian"
+                },
+                "examples": [
+                    {
+                        "en": "He was released on a weekend furlough.",
+                        "vi": "Anh ta được thả vào một ngày cuối tuần."
+                    },
+                    {
+                        "en": "The prisoner failed to return from a furlough.",
+                        "vi": "Người tù không thể trở về sau một trận chiến."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a period of time during which workers are told not to come to work, usually because there is not enough money to pay them",
+                    "vi": "Khoảng thời gian mà người lao động được thông báo là không đến làm việc, thường là do không có đủ tiền trả cho họ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "6119dbbc963945f5a03bf390568cfd4f",
+        "word": "halfway house",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈhɑːfweɪ haʊs/",
+            "us": "/ˈhæfweɪ haʊs/"
+        },
+        "nearby": [
+            {
+                "word": "halfway",
+                "pos": "adjective"
+            },
+            {
+                "word": "halfway",
+                "pos": "adverb"
+            },
+            {
+                "word": "halfway house",
+                "pos": "noun"
+            },
+            {
+                "word": "halfway line",
+                "pos": "noun"
+            },
+            {
+                "word": "halfwit",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the point in the middle of a process or the development of something",
+                    "vi": "điểm ở giữa một quá trình hoặc sự phát triển của một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "Campaigners argued the plan was a halfway house towards privatization.",
+                        "vi": "Các nhà vận động tranh luận rằng kế hoạch này là một nửa đường hướng tới tư nhân hóa."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "something that combines the features of two different things, as a compromise between them",
+                    "vi": "một cái gì đó kết hợp các tính năng của hai thứ khác nhau, như một sự thỏa hiệp giữa chúng"
+                },
+                "examples": [
+                    {
+                        "en": "It's a sort of halfway house between a large estate car and a full-size four-by-four.",
+                        "vi": "Đó là một kiểu nhà lưng chừng giữa một chiếc ô tô cỡ lớn và một chiếc ô tô cỡ lớn bốn x bốn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a place where prisoners, patients with mental health problems, etc. can stay for a short time after leaving a prison or hospital, before they start to live on their own again",
+                    "vi": "nơi mà các tù nhân, bệnh nhân có vấn đề về sức khỏe tâm thần, v.v. có thể ở lại trong một thời gian ngắn sau khi rời nhà tù hoặc bệnh viện, trước khi họ bắt đầu sống lại"
+                },
+                "examples": [
+                    {
+                        "en": "a halfway house for prisoners returning to society",
+                        "vi": "một ngôi nhà lưng chừng cho những tù nhân trở lại xã hội"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ccf6139196ed4c13aec5d2ab27a0b159",
+        "word": "incarceration",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ɪnˌkɑːsəˈreɪʃn/",
+            "us": "/ɪnˌkɑːrsəˈreɪʃn/"
+        },
+        "nearby": [
+            {
+                "word": "in-car",
+                "pos": "adjective"
+            },
+            {
+                "word": "incarcerate",
+                "pos": "verb"
+            },
+            {
+                "word": "incarceration",
+                "pos": "noun"
+            },
+            {
+                "word": "incarnate",
+                "pos": "adjective"
+            },
+            {
+                "word": "incarnate",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the act of putting somebody in prison or in another place from which they cannot escape; the state of being there",
+                    "vi": "hành động đưa ai đó vào tù hoặc ở một nơi khác mà họ không thể trốn thoát; trạng thái ở đó"
+                },
+                "examples": [
+                    {
+                        "en": "There have been angry protests about his arrest and incarceration.",
+                        "vi": "Đã có những phản đối giận dữ về việc bắt giữ và tống giam anh ta."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "bd2e7b454ee34d85b862ad4e33994bfc",
+        "word": "inside",
+        "pos": "adverb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌɪnˈsaɪd/",
+            "us": "/ˌɪnˈsaɪd/"
+        },
+        "nearby": [
+            {
+                "word": "inshore",
+                "pos": "adjective"
+            },
+            {
+                "word": "inside",
+                "pos": "preposition"
+            },
+            {
+                "word": "inside",
+                "pos": "adverb"
+            },
+            {
+                "word": "inside",
+                "pos": "noun"
+            },
+            {
+                "word": "inside",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "on or to the inside",
+                    "vi": "bên trong hoặc bên trong"
+                },
+                "examples": [
+                    {
+                        "en": "She shook it to make sure there was nothing inside.",
+                        "vi": "Cô lắc nó để chắc chắn rằng không có gì bên trong."
+                    },
+                    {
+                        "en": "He went inside (= indoors) to get his car keys.",
+                        "vi": "Anh ta vào trong (= trong nhà) để lấy chìa khóa xe."
+                    },
+                    {
+                        "en": "‘Get inside!’ he said and closed the door.",
+                        "vi": "Vào trong!' anh nói và đóng cửa lại."
+                    },
+                    {
+                        "en": "We had to move inside (= indoors) when it started to rain.",
+                        "vi": "Chúng tôi phải di chuyển vào trong (= trong nhà) khi trời bắt đầu mưa."
+                    },
+                    {
+                        "en": "(figurative) I pretended not to care but I was screaming inside.",
+                        "vi": "(nghĩa bóng) Tôi giả vờ không quan tâm nhưng tôi đang hét lên bên trong."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "in prison",
+                    "vi": "trong nhà tù"
+                },
+                "examples": [
+                    {
+                        "en": "He was sentenced to three years inside.",
+                        "vi": "Anh ta bị kết án ba năm tù."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "b352a4af72294585a79992196f57e6c4",
+        "word": "jailbreak",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈdʒeɪlbreɪk/",
+            "us": "/ˈdʒeɪlbreɪk/"
+        },
+        "nearby": [
+            {
+                "word": "jailbait",
+                "pos": "noun"
+            },
+            {
+                "word": "jailbird",
+                "pos": "noun"
+            },
+            {
+                "word": "jailbreak",
+                "pos": "noun"
+            },
+            {
+                "word": "jailer",
+                "pos": "noun"
+            },
+            {
+                "word": "jailhouse",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an escape from prison, usually by several people",
+                    "vi": "một cuộc vượt ngục, thường là của một số người"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "7a5988b59ba1402ba907ee02bb4288c4",
+        "word": "jailer",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈdʒeɪlə(r)/",
+            "us": "/ˈdʒeɪlər/"
+        },
+        "nearby": [
+            {
+                "word": "jailbird",
+                "pos": "noun"
+            },
+            {
+                "word": "jailbreak",
+                "pos": "noun"
+            },
+            {
+                "word": "jailer",
+                "pos": "noun"
+            },
+            {
+                "word": "jailhouse",
+                "pos": "noun"
+            },
+            {
+                "word": "Jain",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who guards prisoners in a prison",
+                    "vi": "người bảo vệ tù nhân trong nhà tù"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "e1d34003693c4117b9b92cbdfd50d331",
+        "word": "jailhouse",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈdʒeɪlhaʊs/",
+            "us": "/ˈdʒeɪlhaʊs/"
+        },
+        "nearby": [
+            {
+                "word": "jailbreak",
+                "pos": "noun"
+            },
+            {
+                "word": "jailer",
+                "pos": "noun"
+            },
+            {
+                "word": "jailhouse",
+                "pos": "noun"
+            },
+            {
+                "word": "Jain",
+                "pos": "adjective"
+            },
+            {
+                "word": "Jain",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a prison",
+                    "vi": "nhà từ"
+                },
+                "examples": [
+                    {
+                        "en": "He became something of a jailhouse lawyer.",
+                        "vi": "Anh ta trở thành một luật sư trong tù."
+                    },
+                    {
+                        "en": "The jailhouse housed the sheriff and his family as well as the prisoners.",
+                        "vi": "Nhà tù là nơi giam giữ cảnh sát trưởng và gia đình ông ta cũng như các tù nhân."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "bc88ced7391247dc9af1a352a24c2feb",
+        "word": "lock-up",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈlɒk ʌp/",
+            "us": "/ˈlɑːk ʌp/"
+        },
+        "nearby": [
+            {
+                "word": "lock up",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "lock-up",
+                "pos": "adjective"
+            },
+            {
+                "word": "lock-up",
+                "pos": "noun"
+            },
+            {
+                "word": "loco",
+                "pos": "noun"
+            },
+            {
+                "word": "loco",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small prison where prisoners are kept for a short time",
+                    "vi": "một nhà tù nhỏ nơi các tù nhân bị giam giữ trong một thời gian ngắn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a small shop that the owner does not live in; a garage that is usually separate from other buildings and that is rented to somebody",
+                    "vi": "một cửa hàng nhỏ mà chủ nhân không ở; một nhà để xe thường tách biệt với các tòa nhà khác và được cho ai đó thuê"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "01724a7f98aa4e03991d0f8bde68b2fa",
+        "word": "minimum security prison",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌmɪnɪməm sɪˌkjʊərəti ˈprɪzn/",
+            "us": "/ˌmɪnɪməm sɪˌkjʊrəti ˈprɪzn/"
+        },
+        "nearby": [
+            {
+                "word": "minimum",
+                "pos": "adjective"
+            },
+            {
+                "word": "minimum",
+                "pos": "noun"
+            },
+            {
+                "word": "minimum security prison",
+                "pos": "noun"
+            },
+            {
+                "word": "minimum wage",
+                "pos": "noun"
+            },
+            {
+                "word": "mining",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a prison in which prisoners have more freedom than in ordinary prisons",
+                    "vi": "một nhà tù mà ở đó tù nhân có nhiều tự do hơn so với những nhà tù bình thường"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "bbf7099057824085ab1e5ac6f1853347",
+        "word": "nick",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/nɪk/",
+            "us": "/nɪk/"
+        },
+        "nearby": [
+            {
+                "word": "Nicholas Nickleby",
+                "pos": ""
+            },
+            {
+                "word": "Ben Nicholson",
+                "pos": ""
+            },
+            {
+                "word": "nick",
+                "pos": "noun"
+            },
+            {
+                "word": "Nick",
+                "pos": ""
+            },
+            {
+                "word": "nick",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a prison or a police station",
+                    "vi": "nhà tù hoặc đồn cảnh sát"
+                },
+                "examples": [
+                    {
+                        "en": "He'll end up in the nick.",
+                        "vi": "Anh ta sẽ kết thúc bằng nick."
+                    },
+                    {
+                        "en": "She was questioned at the local nick.",
+                        "vi": "Cô đã bị thẩm vấn tại nick địa phương."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a small cut in the edge or surface of something",
+                    "vi": "một vết cắt nhỏ ở mép hoặc bề mặt của thứ gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "He had several nicks and scars on his cheeks.",
+                        "vi": "Anh ấy có vài vết sẹo và vết sẹo trên má."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "in good, bad, etc. condition or health",
+                    "vi": "trong tình trạng tốt, xấu, v.v. hoặc sức khỏe"
+                },
+                "examples": [
+                    {
+                        "en": "She’s in pretty good nick for her age.",
+                        "vi": "Cô ấy có nick khá đẹp so với tuổi của cô ấy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "at the very last moment; just before something bad happens, so that you manage to avoid it, but only just",
+                    "vi": "vào thời điểm cuối cùng; ngay trước khi điều gì đó tồi tệ xảy ra, để bạn có thể tránh nó, nhưng chỉ"
+                },
+                "examples": [
+                    {
+                        "en": "They escaped from the smoke-filled house just in the nick of time.",
+                        "vi": "Họ thoát khỏi ngôi nhà đầy khói chỉ trong gang tấc."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "89795f7ae09741bbb6fa11bd8764a7c2",
+        "word": "open prison",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌəʊpən ˈprɪzn/",
+            "us": "/ˌəʊpən ˈprɪzn/"
+        },
+        "nearby": [
+            {
+                "word": "open-pit",
+                "pos": "adjective"
+            },
+            {
+                "word": "open-plan",
+                "pos": "adjective"
+            },
+            {
+                "word": "open prison",
+                "pos": "noun"
+            },
+            {
+                "word": "open sandwich",
+                "pos": "noun"
+            },
+            {
+                "word": "open season",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a prison in which prisoners have more freedom than in ordinary prisons",
+                    "vi": "một nhà tù mà ở đó tù nhân có nhiều tự do hơn so với những nhà tù bình thường"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "5ef03eaabb46461b9c05d395fc4e347b",
+        "word": "penitentiary",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌpenɪˈtenʃəri/",
+            "us": "/ˌpenɪˈtenʃəri/"
+        },
+        "nearby": [
+            {
+                "word": "penitent",
+                "pos": "noun"
+            },
+            {
+                "word": "penitential",
+                "pos": "adjective"
+            },
+            {
+                "word": "penitentiary",
+                "pos": "noun"
+            },
+            {
+                "word": "penknife",
+                "pos": "noun"
+            },
+            {
+                "word": "penlight",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a prison",
+                    "vi": "nhà từ"
+                },
+                "examples": [
+                    {
+                        "en": "The execution was carried out at the state penitentiary in Fort Madison.",
+                        "vi": "Vụ hành quyết được thực hiện tại nhà tù tiểu bang ở Fort Madison."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "dc28079e7c73455993a733bd77999543",
+        "word": "prison visitor",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌprɪzn ˈvɪzɪtə(r)/",
+            "us": "/ˌprɪzn ˈvɪzɪtər/"
+        },
+        "nearby": [
+            {
+                "word": "prisoner of conscience",
+                "pos": "noun"
+            },
+            {
+                "word": "prisoner of war",
+                "pos": "noun"
+            },
+            {
+                "word": "prison visitor",
+                "pos": "noun"
+            },
+            {
+                "word": "prissy",
+                "pos": "adjective"
+            },
+            {
+                "word": "pristine",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "(in the UK) a person who visits people in prison in order to help them, and who does not get paid for doing so",
+                    "vi": "(ở Anh) một người đến thăm những người trong tù để giúp đỡ họ và người không được trả tiền khi làm như vậy"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "06758ddd0a7b465daf547d5fb3bafa00",
+        "word": "probation officer",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/prəˈbeɪʃn ɒfɪsə(r)/",
+            "us": "/prəʊˈbeɪʃn ɑːfɪsər/"
+        },
+        "nearby": [
+            {
+                "word": "probationary",
+                "pos": "adjective"
+            },
+            {
+                "word": "probationer",
+                "pos": "noun"
+            },
+            {
+                "word": "probation officer",
+                "pos": "noun"
+            },
+            {
+                "word": "probe",
+                "pos": "noun"
+            },
+            {
+                "word": "probe",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person whose job is to check on people who are on probation and help them",
+                    "vi": "một người có công việc là kiểm tra những người đang trong thời gian thử việc và giúp đỡ họ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "eb78953b4be242bb9f1ed0fa81a6f000",
+        "word": "reformatory",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/rɪˈfɔːmətri/",
+            "us": "/rɪˈfɔːrmətɔːri/"
+        },
+        "nearby": [
+            {
+                "word": "reformat",
+                "pos": "verb"
+            },
+            {
+                "word": "reformation",
+                "pos": "noun"
+            },
+            {
+                "word": "reformatory",
+                "pos": "noun"
+            },
+            {
+                "word": "the Reform Club",
+                "pos": ""
+            },
+            {
+                "word": "reformed",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a type of school that young criminals are sent to instead of prison",
+                    "vi": "một loại trường học mà tội phạm trẻ được gửi đến thay vì nhà tù"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "fa8a16557a6f4c7a9dc911cdddd9d6f2",
+        "word": "remand centre",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/rɪˈmɑːnd sentə(r)/",
+            "us": "/rɪˈmænd sentər/"
+        },
+        "nearby": [
+            {
+                "word": "remand",
+                "pos": "verb"
+            },
+            {
+                "word": "remand",
+                "pos": "noun"
+            },
+            {
+                "word": "remand centre",
+                "pos": "noun"
+            },
+            {
+                "word": "remap",
+                "pos": "verb"
+            },
+            {
+                "word": "remark",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a place where people are sent when they are accused of a crime and are waiting for their trial",
+                    "vi": "một nơi mà mọi người được gửi đến khi họ bị buộc tội và đang chờ xét xử"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "064baea16cb240a4bc80b4473da81ad3",
+        "word": "supermax",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈsuːpəmæks/",
+            "us": "/ˈsuːpərmæks/"
+        },
+        "nearby": [
+            {
+                "word": "Superman",
+                "pos": ""
+            },
+            {
+                "word": "supermarket",
+                "pos": "noun"
+            },
+            {
+                "word": "supermax",
+                "pos": "noun"
+            },
+            {
+                "word": "supermodel",
+                "pos": "noun"
+            },
+            {
+                "word": "supermoon",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a maximum security prison, intended for very dangerous prisoners",
+                    "vi": "một nhà tù an ninh tối đa, dành cho những tù nhân rất nguy hiểm"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "696e0bb42b404eb89ea2e89dd807e486",
+        "word": "warden",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈwɔːdn/",
+            "us": "/ˈwɔːrdn/"
+        },
+        "nearby": [
+            {
+                "word": "ward",
+                "pos": "verb"
+            },
+            {
+                "word": "war dance",
+                "pos": "noun"
+            },
+            {
+                "word": "warden",
+                "pos": "noun"
+            },
+            {
+                "word": "warder",
+                "pos": "noun"
+            },
+            {
+                "word": "ward off",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who is responsible for taking care of a particular place and making sure that the rules are obeyed",
+                    "vi": "một người chịu trách nhiệm chăm sóc một địa điểm cụ thể và đảm bảo rằng các quy tắc được tuân thủ"
+                },
+                "examples": [
+                    {
+                        "en": "a forest warden",
+                        "vi": "một người bảo vệ rừng"
+                    },
+                    {
+                        "en": "(British English) the warden of a youth hostel",
+                        "vi": "(Tiếng Anh Anh) người quản lý của một ký túc xá dành cho thanh niên"
+                    },
+                    {
+                        "en": "Two neighbourhood wardens patrol the housing estate.",
+                        "vi": "Hai cảnh sát khu phố tuần tra khu nhà ở."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the person in charge of a prison",
+                    "vi": "người phụ trách nhà tù"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "(especially in England), a title given to the head of some colleges and institutions",
+                    "vi": "(đặc biệt là ở Anh), một chức danh được trao cho người đứng đầu một số trường cao đẳng và học viện"
+                },
+                "examples": [
+                    {
+                        "en": "the Warden of Wadham College, Oxford",
+                        "vi": "Warden of Wadham College, Oxford"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0496cca3e84a42069a8bbfdc680accd6",
+        "word": "warder",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈwɔːdə(r)/",
+            "us": "/ˈwɔːrdər/"
+        },
+        "nearby": [
+            {
+                "word": "war dance",
+                "pos": "noun"
+            },
+            {
+                "word": "warden",
+                "pos": "noun"
+            },
+            {
+                "word": "warder",
+                "pos": "noun"
+            },
+            {
+                "word": "ward off",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "Wardour Street",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who guards prisoners in a prison",
+                    "vi": "người bảo vệ tù nhân trong nhà tù"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "fd3983a849fe44af9415237797d5f436",
+        "word": "work release",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈwɜːk rɪliːs/",
+            "us": "/ˈwɜːrk rɪliːs/"
+        },
+        "nearby": [
+            {
+                "word": "workplace",
+                "pos": "noun"
+            },
+            {
+                "word": "work placement",
+                "pos": "noun"
+            },
+            {
+                "word": "work release",
+                "pos": "noun"
+            },
+            {
+                "word": "workroom",
+                "pos": "noun"
+            },
+            {
+                "word": "work round to",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a system that allows prisoners to leave prison during the day to go to work",
+                    "vi": "một hệ thống cho phép tù nhân ra tù trong ngày để đi làm"
+                },
+                "examples": []
+            }
+        ]
+    }
+]

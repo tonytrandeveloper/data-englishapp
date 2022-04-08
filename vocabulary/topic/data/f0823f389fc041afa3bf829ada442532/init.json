@@ -1,0 +1,2680 @@
+[
+    {
+        "id": "70fd58d54ba54e98aec7ab1b715936fb",
+        "word": "day",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/deɪ/",
+            "us": "/deɪ/"
+        },
+        "nearby": [
+            {
+                "word": "the dawn chorus",
+                "pos": "noun"
+            },
+            {
+                "word": "dawn on",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "day",
+                "pos": "noun"
+            },
+            {
+                "word": "daybed",
+                "pos": "noun"
+            },
+            {
+                "word": "day boy",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a period of 24 hours",
+                    "vi": "khoảng thời gian 24 giờ"
+                },
+                "examples": [
+                    {
+                        "en": "‘What day is it today?’ ‘Monday.’",
+                        "vi": "Hôm nay là ngày gì?' 'Thứ hai.'"
+                    },
+                    {
+                        "en": "I go to the gym every day.",
+                        "vi": "Tôi đi đến phòng tập hằng ngày."
+                    },
+                    {
+                        "en": "We spent five days in Paris.",
+                        "vi": "Chúng tôi đã dành năm ngày ở Paris."
+                    },
+                    {
+                        "en": "I saw Tom three days ago.",
+                        "vi": "Tôi đã gặp Tom ba ngày trước."
+                    },
+                    {
+                        "en": "We're going away in a few days.",
+                        "vi": "Chúng ta sẽ đi trong vài ngày tới."
+                    },
+                    {
+                        "en": "The house should be ready in a few days' time.",
+                        "vi": "Ngôi nhà sẽ sẵn sàng trong vài ngày tới."
+                    },
+                    {
+                        "en": "The situation has been deteriorating for the past few days.",
+                        "vi": "Tình hình ngày càng xấu đi trong vài ngày qua."
+                    },
+                    {
+                        "en": "within two, 30, etc. days Full payment must be made within 21 days.",
+                        "vi": "trong vòng hai, 30, v.v. ngày Thanh toán đầy đủ phải được thực hiện trong vòng 21 ngày."
+                    },
+                    {
+                        "en": "On that day Rosa Parks did something that changed history.",
+                        "vi": "Vào ngày đó Rosa Parks đã làm một điều gì đó thay đổi lịch sử."
+                    },
+                    {
+                        "en": "I saw her again the next day.",
+                        "vi": "Tôi gặp lại cô ấy vào ngày hôm sau."
+                    },
+                    {
+                        "en": "He called me to apologize three days later.",
+                        "vi": "Ba ngày sau anh ấy gọi cho tôi để xin lỗi."
+                    },
+                    {
+                        "en": "He resigned the following day.",
+                        "vi": "Anh ấy từ chức vào ngày hôm sau."
+                    },
+                    {
+                        "en": "We'd had this big argument the day before.",
+                        "vi": "Chúng tôi đã có cuộc tranh cãi lớn này vào ngày hôm trước."
+                    },
+                    {
+                        "en": "They left the day before yesterday (= two days ago).",
+                        "vi": "Họ đã rời đi vào ngày hôm kia (= hai ngày trước)."
+                    },
+                    {
+                        "en": "We're meeting the day after tomorrow (= in two days).",
+                        "vi": "Chúng ta sẽ gặp nhau vào ngày mốt (= sau hai ngày nữa)."
+                    },
+                    {
+                        "en": "We can't go there today. You can go another day.",
+                        "vi": "Chúng ta không thể đến đó ngày hôm nay. Bạn có thể đi vào ngày khác."
+                    },
+                    {
+                        "en": "New Year’s Day",
+                        "vi": "Ngay đâu năm"
+                    },
+                    {
+                        "en": "a/per day Take the medicine three times a day.",
+                        "vi": "a / mỗi ngày Uống thuốc ba lần một ngày."
+                    },
+                    {
+                        "en": "They are producing 1.5 million barrels of oil per day.",
+                        "vi": "Họ đang sản xuất 1,5 triệu thùng dầu mỗi ngày."
+                    },
+                    {
+                        "en": "The helpline is open 24 hours a day.",
+                        "vi": "Đường dây trợ giúp mở 24 giờ một ngày."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the time between when it becomes light in the morning and when it becomes dark in the evening",
+                    "vi": "khoảng thời gian giữa khi trời sáng vào buổi sáng và khi trời tối"
+                },
+                "examples": [
+                    {
+                        "en": "What a beautiful day!",
+                        "vi": "Thật là một ngày đẹp!"
+                    },
+                    {
+                        "en": "The sun was shining all day.",
+                        "vi": "Nắng chói chang cả ngày."
+                    },
+                    {
+                        "en": "I could sit and watch the river all day long.",
+                        "vi": "Tôi có thể ngồi và ngắm dòng sông cả ngày."
+                    },
+                    {
+                        "en": "We spent the day gardening.",
+                        "vi": "Chúng tôi đã dành cả ngày để làm vườn."
+                    },
+                    {
+                        "en": "during the day He works at night and sleeps during the day.",
+                        "vi": "ban ngày Ngài làm việc vào ban đêm và ngủ vào ban ngày."
+                    },
+                    {
+                        "en": "by day Nocturnal animals sleep by day and hunt by night.",
+                        "vi": "vào ban ngày Động vật ăn đêm ngủ vào ban ngày và săn mồi vào ban đêm."
+                    },
+                    {
+                        "en": "on a… day On a sunny day in June…",
+                        "vi": "vào một… ngày Vào một ngày nắng trong tháng Sáu…"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the hours of the day when you are active, working, etc., not sleeping",
+                    "vi": "những giờ trong ngày khi bạn hoạt động, làm việc, v.v., không ngủ"
+                },
+                "examples": [
+                    {
+                        "en": "a seven-hour working day",
+                        "vi": "một ngày làm việc bảy giờ"
+                    },
+                    {
+                        "en": "(especially North American English) Have a nice day!",
+                        "vi": "(đặc biệt là tiếng Anh Bắc Mỹ) Chúc một ngày tốt lành!"
+                    },
+                    {
+                        "en": "Did you have a good day?",
+                        "vi": "Bạn đã có một ngày tốt lành?"
+                    },
+                    {
+                        "en": "Our waiter seemed to be having a bad day.",
+                        "vi": "Người phục vụ của chúng tôi dường như đã có một ngày tồi tệ."
+                    },
+                    {
+                        "en": "It's been a long day (= I've been very busy).",
+                        "vi": "Đã qua một ngày dài (= Tôi đã rất bận rộn)."
+                    },
+                    {
+                        "en": "She didn't do a full day's work.",
+                        "vi": "Cô ấy đã không làm một ngày làm việc."
+                    },
+                    {
+                        "en": "I took a half day off yesterday.",
+                        "vi": "Tôi đã nghỉ nửa ngày hôm qua."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a particular period of time or history",
+                    "vi": "một khoảng thời gian hoặc lịch sử cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "in somebody's day in Queen Victoria’s day",
+                        "vi": "trong ngày của ai đó trong ngày của Nữ hoàng Victoria"
+                    },
+                    {
+                        "en": "in the days of something in the days of the industrial revolution",
+                        "vi": "trong những ngày của một cái gì đó trong những ngày của cuộc cách mạng công nghiệp"
+                    },
+                    {
+                        "en": "back in the early days of computers",
+                        "vi": "trở lại những ngày đầu của máy tính"
+                    },
+                    {
+                        "en": "in those days He was the biggest star in Hollywood in those days.",
+                        "vi": "trong những ngày đó Anh ấy là ngôi sao lớn nhất ở Hollywood trong những ngày đó."
+                    },
+                    {
+                        "en": "(informal) in the old days (= in the past)",
+                        "vi": "(không chính thức) ngày xưa (= trong quá khứ)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a particular period in somebody's life or career",
+                    "vi": "một giai đoạn cụ thể trong cuộc đời hoặc sự nghiệp của ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "I have many happy memories from my student days.",
+                        "vi": "Tôi có rất nhiều kỷ niệm vui thời sinh viên."
+                    },
+                    {
+                        "en": "in his younger days",
+                        "vi": "trong những ngày còn trẻ của anh ấy"
+                    },
+                    {
+                        "en": "She cared for him for the rest of his days (= the rest of his life).",
+                        "vi": "Cô ấy chăm sóc cho anh ấy trong suốt những ngày còn lại của anh ấy (= phần còn lại của cuộc đời anh ấy)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "part of your normal working life and not unusual",
+                    "vi": "một phần của cuộc sống làm việc bình thường của bạn và không phải là bất thường"
+                },
+                "examples": [
+                    {
+                        "en": "Swimming with sharks or training a tiger cub—it's all in a day's work for animal wrangler Chris Bolton.",
+                        "vi": "Bơi cùng cá mập hay huấn luyện một chú hổ con — đó là tất cả công việc trong một ngày của người quấn quít động vật Chris Bolton."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "very soon",
+                    "vi": "rất sớm"
+                },
+                "examples": [
+                    {
+                        "en": "The letter should arrive any day now.",
+                        "vi": "Thư sẽ đến bất cứ ngày nào bây giờ."
+                    },
+                    {
+                        "en": "We expect more info on this any time now.",
+                        "vi": "Chúng tôi mong đợi thêm thông tin về điều này bất cứ lúc nào."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to introduce the most important fact after everything has been considered",
+                    "vi": "được sử dụng để giới thiệu sự kiện quan trọng nhất sau khi mọi thứ đã được xem xét"
+                },
+                "examples": [
+                    {
+                        "en": "At the end of the day, he'll still have to make his own decision.",
+                        "vi": "Vào cuối ngày, anh ấy vẫn phải đưa ra quyết định của riêng mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "in the past",
+                    "vi": "trong quá khứ"
+                },
+                "examples": [
+                    {
+                        "en": "My dad's always talking about how great everything was back in the day.",
+                        "vi": "Bố tôi luôn nói về việc mọi thứ đã trở lại trong ngày tuyệt vời như thế nào."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "at a particular time in the past",
+                    "vi": "tại một thời điểm cụ thể trong quá khứ"
+                },
+                "examples": [
+                    {
+                        "en": "I was a fan back in the days when the band wasn't yet famous.",
+                        "vi": "Tôi là một fan hâm mộ của những ngày ban nhạc chưa nổi tiếng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the moment in the early hours of the morning when it begins to get light",
+                    "vi": "thời điểm vào sáng sớm khi trời bắt đầu sáng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to decide or agree to stop doing something",
+                    "vi": "để quyết định hoặc đồng ý ngừng làm điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "After forty years in politics I think it's time for me to call it a day (= to retire).",
+                        "vi": "Sau bốn mươi năm hoạt động chính trị, tôi nghĩ đã đến lúc tôi phải gọi đó là một ngày (= nghỉ hưu)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be successful against somebody/something",
+                    "vi": "để thành công chống lại ai đó / cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "Despite strong opposition, the ruling party carried the day.",
+                        "vi": "Bất chấp sự phản đối mạnh mẽ, đảng cầm quyền đã tiến hành ngày này."
+                    },
+                    {
+                        "en": "Teamwork and persistence can still win the day.",
+                        "vi": "Tinh thần đồng đội và sự bền bỉ vẫn có thể giành được chiến thắng trong ngày."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "easy to see or understand",
+                    "vi": "dễ nhìn hoặc dễ hiểu"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "each day repeatedly (used especially when something is boring or annoying)",
+                    "vi": "mỗi ngày lặp đi lặp lại (được sử dụng đặc biệt khi điều gì đó nhàm chán hoặc khó chịu)"
+                },
+                "examples": [
+                    {
+                        "en": "She hates doing the same work day after day.",
+                        "vi": "Cô ấy ghét làm cùng một công việc ngày này qua ngày khác."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "all the time; continuously",
+                    "vi": "mọi lúc; liên tục"
+                },
+                "examples": [
+                    {
+                        "en": "The store is open day and night.",
+                        "vi": "Cửa hàng mở cửa cả ngày lẫn đêm."
+                    },
+                    {
+                        "en": "The machines are kept running night and day.",
+                        "vi": "Máy móc vẫn tiếp tục hoạt động cả ngày lẫn đêm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "all the time; a little at a time and gradually",
+                    "vi": "mọi lúc; từng chút một và dần dần"
+                },
+                "examples": [
+                    {
+                        "en": "Day by day his condition improved.",
+                        "vi": "Ngày qua ngày tình trạng của anh ấy được cải thiện."
+                    },
+                    {
+                        "en": "Morale was sinking day by day.",
+                        "vi": "Tinh thần sa sút từng ngày."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "every day for a long period of time",
+                    "vi": "mỗi ngày trong một khoảng thời gian dài"
+                },
+                "examples": [
+                    {
+                        "en": "Living on junk food day in day out is not good for you.",
+                        "vi": "Sống bằng đồ ăn vặt ngày này qua ngày khác không tốt cho bạn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the time when somebody will have to deal with the result of something that they have done wrong, or be punished for something bad that they have done",
+                    "vi": "thời điểm mà ai đó sẽ phải đối mặt với hậu quả của một điều gì đó mà họ đã làm sai, hoặc bị trừng phạt vì điều gì đó tồi tệ mà họ đã làm"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person or thing will not continue to live, exist or be successful for much longer",
+                    "vi": "một người hoặc một sự vật sẽ không tiếp tục sống, tồn tại hoặc thành công lâu hơn nữa"
+                },
+                "examples": [
+                    {
+                        "en": "His days as leader of the party are numbered.",
+                        "vi": "Số ngày của ông ấy là lãnh đạo của đảng đã được đánh số."
+                    },
+                    {
+                        "en": "Whatever the protests, the school’s days are numbered and it will be closed down.",
+                        "vi": "Dù các cuộc biểu tình diễn ra như thế nào, các ngày học của trường đều được đánh số và nó sẽ bị đóng cửa."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to spend the last part of your life in a particular state or place",
+                    "vi": "dành phần cuối cùng của cuộc đời bạn ở một tiểu bang hoặc địa điểm cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "He ended his days in poverty.",
+                        "vi": "Anh ấy đã kết thúc chuỗi ngày của mình trong nghèo khó."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "everyone has good luck or success at some point in their life",
+                    "vi": "mọi người đều gặp may mắn hoặc thành công vào một thời điểm nào đó trong cuộc đời của họ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the time when you have to do something difficult or unpleasant",
+                    "vi": "thời điểm mà bạn phải làm điều gì đó khó khăn hoặc khó chịu"
+                },
+                "examples": [
+                    {
+                        "en": "I’d better go and see the dentist—I can’t put off the evil hour any longer.",
+                        "vi": "Tốt hơn hết tôi nên đi gặp nha sĩ — tôi không thể trì hoãn giờ xấu xa được nữa."
+                    },
+                    {
+                        "en": "If you keep on borrowing, you are only postponing the evil day when you have to pay it all back.",
+                        "vi": "Nếu bạn cứ tiếp tục vay mượn, bạn chỉ đang hoãn lại một ngày xấu xa khi bạn phải trả lại tất cả."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the amount of fruit or vegetables that some organizations say you should eat in order to be healthy",
+                    "vi": "lượng trái cây hoặc rau quả mà một số tổ chức nói rằng bạn nên ăn để tốt cho sức khỏe"
+                },
+                "examples": [
+                    {
+                        "en": "Start your five a day with a banana for breakfast.",
+                        "vi": "Bắt đầu năm ngày của bạn với một quả chuối vào bữa sáng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "from the beginning",
+                    "vi": "từ đầu"
+                },
+                "examples": [
+                    {
+                        "en": "It's never worked from day one.",
+                        "vi": "Nó không bao giờ hoạt động từ ngày đầu tiên."
+                    },
+                    {
+                        "en": "This game makes reading and spelling fun from day one.",
+                        "vi": "Trò chơi này làm cho việc đọc và đánh vần trở nên thú vị ngay từ ngày đầu tiên."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "with no thoughts or plans for the future",
+                    "vi": "không có suy nghĩ hoặc kế hoạch cho tương lai"
+                },
+                "examples": [
+                    {
+                        "en": "They live from day to day, looking after their sick daughter.",
+                        "vi": "Họ sống từ ngày này qua ngày khác, chăm sóc đứa con gái bị bệnh."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if a situation changes from day to day, it changes often",
+                    "vi": "nếu một tình huống thay đổi hàng ngày, nó sẽ thay đổi thường xuyên"
+                },
+                "examples": [
+                    {
+                        "en": "A baby's need for food can vary from day to day.",
+                        "vi": "Nhu cầu ăn uống của trẻ có thể thay đổi theo từng ngày."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if a situation changes from one day to the next, it is uncertain and not likely to stay the same each day",
+                    "vi": "nếu một tình huống thay đổi từ ngày này sang ngày khác, nó không chắc chắn và không có khả năng giữ nguyên mỗi ngày"
+                },
+                "examples": [
+                    {
+                        "en": "I never know what to expect from one day to the next.",
+                        "vi": "Tôi không bao giờ biết điều gì sẽ xảy ra từ ngày này sang ngày khác."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "beginning on that day; from that time",
+                    "vi": "bắt đầu từ ngày đó; Từ thời điểm đó"
+                },
+                "examples": [
+                    {
+                        "en": "From that day forth she gave me endless friendship and encouragement.",
+                        "vi": "Kể từ ngày đó, cô ấy đã dành cho tôi tình bạn và sự động viên vô tận."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to say that you prefer a particular thing or person to the one that has just been mentioned",
+                    "vi": "được sử dụng để nói rằng bạn thích một điều hoặc một người cụ thể hơn một điều vừa được đề cập"
+                },
+                "examples": [
+                    {
+                        "en": "We don't go out much. Give me a quiet night in front of the TV any day!",
+                        "vi": "Chúng tôi không đi chơi nhiều. Cho tôi một đêm yên tĩnh trước TV bất cứ ngày nào!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a helpful, kind thing that you do",
+                    "vi": "một điều hữu ích, tử tế mà bạn làm"
+                },
+                "examples": [
+                    {
+                        "en": "I took Sarah’s children to school so I’ve done my good deed for the day.",
+                        "vi": "Tôi đưa các con của Sarah đến trường vì vậy tôi đã làm việc tốt của mình trong ngày."
+                    },
+                    {
+                        "en": "She felt that she had done her good deed for the day.",
+                        "vi": "Cô cảm thấy rằng cô đã làm việc tốt của mình trong ngày."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an earlier period of time in your life or in history that is seen as better/worse than the present",
+                    "vi": "một khoảng thời gian trước đó trong cuộc sống của bạn hoặc trong lịch sử được coi là tốt hơn / tồi tệ hơn hiện tại"
+                },
+                "examples": [
+                    {
+                        "en": "That was in the bad old days of rampant inflation.",
+                        "vi": "Đó là trong những ngày tồi tệ cũ của lạm phát tràn lan."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to no longer be successful, powerful, etc.",
+                    "vi": "để không còn thành công, mạnh mẽ, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "She's had her day as a supermodel.",
+                        "vi": "Cô ấy đã có một ngày như một siêu mẫu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a friendly way of saying goodbye, especially to customers",
+                    "vi": "một cách chào tạm biệt thân thiện, đặc biệt là với khách hàng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be in poor condition",
+                    "vi": "ở trong tình trạng tồi tệ"
+                },
+                "examples": [
+                    {
+                        "en": "Our car has seen better days!",
+                        "vi": "Xe của chúng ta đã có những ngày tốt đẹp hơn!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "(used when talking about somebody’s age) at least",
+                    "vi": "(được sử dụng khi nói về tuổi của ai đó) ít nhất"
+                },
+                "examples": [
+                    {
+                        "en": "He must be 70 if he's a day!",
+                        "vi": "Anh ấy phải 70 nếu một ngày!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used when you are very surprised at something you have never heard or seen before",
+                    "vi": "được sử dụng khi bạn rất ngạc nhiên về điều gì đó bạn chưa bao giờ nghe thấy hoặc nhìn thấy trước đây"
+                },
+                "examples": [
+                    {
+                        "en": "I've never heard such nonsense in all my born days.",
+                        "vi": "Tôi chưa bao giờ nghe điều gì vô nghĩa như vậy trong suốt những ngày sinh ra của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "when you have had time to think calmly about something; in the morning when things are clearer",
+                    "vi": "khi bạn đã có thời gian để bình tĩnh suy nghĩ về điều gì đó; vào buổi sáng khi mọi thứ rõ ràng hơn"
+                },
+                "examples": [
+                    {
+                        "en": "These things always look different in the cold light of day.",
+                        "vi": "Những thứ này luôn trông khác biệt trong ánh sáng lạnh giá của ban ngày."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "during the part of somebody’s life when they were most successful, famous, etc.",
+                    "vi": "trong suốt cuộc đời của ai đó khi họ thành công nhất, nổi tiếng nhất, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "She was a great dancer in her day.",
+                        "vi": "Cô ấy là một vũ công tuyệt vời trong thời của cô ấy."
+                    },
+                    {
+                        "en": "Things were very different in my grandfather's day.",
+                        "vi": "Mọi thứ rất khác vào thời của ông tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "when somebody was young",
+                    "vi": "khi ai đó còn trẻ"
+                },
+                "examples": [
+                    {
+                        "en": "In my day, there were plenty of jobs when you left school.",
+                        "vi": "Vào thời của tôi, có rất nhiều công việc khi bạn rời trường."
+                    },
+                    {
+                        "en": "In Grandfather’s day, owning a television was very unusual.",
+                        "vi": "Vào thời của ông nội, việc sở hữu một chiếc tivi là điều rất bất thường."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a long time ago in the past",
+                    "vi": "cách đây rất lâu trong quá khứ"
+                },
+                "examples": [
+                    {
+                        "en": "What was life like in the olden days, Gran?",
+                        "vi": "Cuộc sống ngày xưa như thế nào, Gran?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "now, in the modern world",
+                    "vi": "bây giờ, trong thế giới hiện đại"
+                },
+                "examples": [
+                    {
+                        "en": "Slavery continues to exist, even in this day and age.",
+                        "vi": "Chế độ nô lệ vẫn tiếp tục tồn tại, ngay cả trong thời đại ngày nay."
+                    },
+                    {
+                        "en": "Why dress so formally in this day and age?",
+                        "vi": "Tại sao ăn mặc quá trang trọng trong thời đại ngày nay?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to say that it is too soon to be sure how a situation will develop",
+                    "vi": "thường nói rằng còn quá sớm để chắc chắn rằng một tình huống sẽ phát triển như thế nào"
+                },
+                "examples": [
+                    {
+                        "en": "It’s early days yet. We don’t know if the play will be a success.",
+                        "vi": "Đó là những ngày đầu tiên. Chúng tôi không biết liệu vở kịch có thành công hay không."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used when several bad or unpleasant things happen on the same day",
+                    "vi": "được sử dụng khi một số điều tồi tệ hoặc khó chịu xảy ra trong cùng một ngày"
+                },
+                "examples": [
+                    {
+                        "en": "My car broke down and then I locked myself out—it's just not my day!",
+                        "vi": "Xe của tôi bị hỏng và sau đó tôi tự nhốt mình - đó không phải là ngày của tôi!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "after the time when an action could be successful",
+                    "vi": "sau thời điểm mà một hành động có thể thành công"
+                },
+                "examples": [
+                    {
+                        "en": "He started working hard much too late in the day—he couldn't possibly catch up.",
+                        "vi": "Anh ấy bắt đầu làm việc chăm chỉ quá muộn trong ngày - anh ấy không thể bắt kịp."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the whole length of the day",
+                    "vi": "toàn bộ thời gian trong ngày"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used to say that although you have failed or had a bad experience, you will continue",
+                    "vi": "được sử dụng để nói rằng mặc dù bạn đã thất bại hoặc có một trải nghiệm tồi tệ, bạn sẽ tiếp tục"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to make somebody feel very happy on a particular day",
+                    "vi": "để làm cho ai đó cảm thấy rất hạnh phúc vào một ngày cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "The phone call from Mike really made my day.",
+                        "vi": "Cuộc điện thoại từ Mike thực sự đã làm nên ngày của tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make a particular activity that you enjoy last for a whole day/evening instead of only part of it",
+                    "vi": "để thực hiện một hoạt động cụ thể mà bạn thích kéo dài cả ngày / buổi tối thay vì chỉ một phần của nó"
+                },
+                "examples": [
+                    {
+                        "en": "We took a picnic lunch to the river and made a day of it.",
+                        "vi": "Chúng tôi ăn trưa dã ngoại bên sông và thực hiện một ngày của nó."
+                    },
+                    {
+                        "en": "They decided to make a night of it and went on to a club.",
+                        "vi": "Họ quyết định thực hiện một đêm của nó và tiếp tục đến một câu lạc bộ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "all the time; continuously",
+                    "vi": "mọi lúc; liên tục"
+                },
+                "examples": [
+                    {
+                        "en": "The machines are kept running night and day.",
+                        "vi": "Máy móc vẫn tiếp tục hoạt động cả ngày lẫn đêm."
+                    },
+                    {
+                        "en": "The store is open day and night.",
+                        "vi": "Cửa hàng mở cửa cả ngày lẫn đêm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person or thing that makes people excited for a short time but does not last very long",
+                    "vi": "một người hoặc sự vật khiến mọi người thích thú trong một thời gian ngắn nhưng không kéo dài rất lâu"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to refuse to speak to somebody because you do not like or respect them",
+                    "vi": "từ chối nói chuyện với ai đó vì bạn không thích hoặc không tôn trọng họ"
+                },
+                "examples": [
+                    {
+                        "en": "Since the success of her novel, people shake her hand who once wouldn't have given her the time of day.",
+                        "vi": "Kể từ thành công của cuốn tiểu thuyết của cô ấy, mọi người bắt tay cô ấy, những người đã từng không cho cô ấy thời gian trong ngày."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to not have much time",
+                    "vi": "không có nhiều thời gian"
+                },
+                "examples": [
+                    {
+                        "en": "Come on! We don't have all day!",
+                        "vi": "Cố lên! Chúng ta không có cả ngày!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "during a particular period of time when somebody lived",
+                    "vi": "trong một khoảng thời gian cụ thể khi ai đó sống"
+                },
+                "examples": [
+                    {
+                        "en": "the best player of his day",
+                        "vi": "cầu thủ xuất sắc nhất trong ngày của anh ấy"
+                    },
+                    {
+                        "en": "Bessie Smith was the Madonna of her day.",
+                        "vi": "Bessie Smith là Madonna trong ngày của cô ấy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "of the present time",
+                    "vi": "thuộc về thời điểm hiện tại"
+                },
+                "examples": [
+                    {
+                        "en": "the political issues of the day",
+                        "vi": "các vấn đề chính trị trong ngày"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "that is served on a particular day in a restaurant",
+                    "vi": "được phục vụ vào một ngày cụ thể trong một nhà hàng"
+                },
+                "examples": [
+                    {
+                        "en": "soup of the day",
+                        "vi": "súp của ngày"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to emphasize what you are saying when you are surprised, shocked or annoyed",
+                    "vi": "được sử dụng để nhấn mạnh những gì bạn đang nói khi bạn ngạc nhiên, sốc hoặc khó chịu"
+                },
+                "examples": [
+                    {
+                        "en": "Oh my days! Is that true?",
+                        "vi": "Oh ngày của tôi! Có đúng như vậy không?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "at some time in the future, or on a particular day in the past",
+                    "vi": "vào một thời điểm nào đó trong tương lai, hoặc vào một ngày cụ thể trong quá khứ"
+                },
+                "examples": [
+                    {
+                        "en": "One day, I want to leave the city and move to the country.",
+                        "vi": "Một ngày nào đó, tôi muốn rời thành phố và chuyển đến đất nước."
+                    },
+                    {
+                        "en": "One day, he walked out of the house with a small bag and never came back.",
+                        "vi": "Một ngày nọ, anh ta bước ra khỏi nhà với một chiếc túi nhỏ và không bao giờ quay lại."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "before a long time has passed",
+                    "vi": "trước khi một thời gian dài trôi qua"
+                },
+                "examples": [
+                    {
+                        "en": "One of these days you'll come back and ask me to forgive you.",
+                        "vi": "Một trong những ngày này, bạn sẽ quay lại và xin tôi tha thứ cho bạn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a day when there are a lot of mistakes and a lot of things go wrong",
+                    "vi": "một ngày mà có rất nhiều sai lầm và rất nhiều điều sai lầm"
+                },
+                "examples": [
+                    {
+                        "en": "It's been one of those days!",
+                        "vi": "Đó là một trong những ngày đó!"
+                    },
+                    {
+                        "en": "It's been one of those days when everything's gone wrong.",
+                        "vi": "Đó là một trong những ngày mà mọi thứ diễn ra không như ý muốn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "common, popular or suitable at a particular time or for a particular occasion",
+                    "vi": "phổ biến, phổ biến hoặc phù hợp tại một thời điểm cụ thể hoặc cho một dịp cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "Pessimism seems to be the order of the day.",
+                        "vi": "Bi quan dường như là thứ tự trong ngày."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "recently",
+                    "vi": "mới đây"
+                },
+                "examples": [
+                    {
+                        "en": "I saw Jack the other day.",
+                        "vi": "Tôi đã gặp Jack vào ngày hôm trước."
+                    },
+                    {
+                        "en": "I was in your area the other week.",
+                        "vi": "Tôi đã ở trong khu vực của bạn vào tuần trước."
+                    },
+                    {
+                        "en": "I woke up the other morning and just could not get myself out of bed.",
+                        "vi": "Tôi thức dậy vào sáng hôm kia và không thể rời khỏi giường."
+                    },
+                    {
+                        "en": "I was watching TV the other evening, when…",
+                        "vi": "Tôi đã xem TV vào buổi tối khác, khi…"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to say hello to somebody and have a short conversation with them",
+                    "vi": "chào ai đó và trò chuyện ngắn với họ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "very obvious",
+                    "vi": "rất rõ ràng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used to say that a complicated task will take a long time and should not be rushed",
+                    "vi": "thường nói rằng một nhiệm vụ phức tạp sẽ mất nhiều thời gian và không nên vội vàng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the time when you are young and do not have much experience of life",
+                    "vi": "khi bạn còn trẻ và chưa có nhiều kinh nghiệm sống"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to prevent failure or defeat, when this seems certain to happen",
+                    "vi": "để ngăn chặn thất bại hoặc thất bại, khi điều này dường như chắc chắn xảy ra"
+                },
+                "examples": [
+                    {
+                        "en": "Salah's late goal saved the day for Liverpool.",
+                        "vi": "Bàn thắng muộn của Salah đã cứu rỗi một ngày cho Liverpool."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to save something, especially money, for a time when you will really need it",
+                    "vi": "để tiết kiệm thứ gì đó, đặc biệt là tiền, vào thời điểm bạn thực sự cần nó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "at an unknown time in the future",
+                    "vi": "vào một thời điểm không xác định trong tương lai"
+                },
+                "examples": [
+                    {
+                        "en": "Some day I'll be famous.",
+                        "vi": "Một ngày nào đó tôi sẽ nổi tiếng."
+                    },
+                    {
+                        "en": "I hope we meet again some day.",
+                        "vi": "Tôi hy vọng một ngày nào đó chúng ta sẽ gặp lại nhau."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to not think about what will happen in the future",
+                    "vi": "không nghĩ về những gì sẽ xảy ra trong tương lai"
+                },
+                "examples": [
+                    {
+                        "en": "I don't know if he'll get better. We're just taking it one day at a time.",
+                        "vi": "Tôi không biết liệu anh ấy có khỏe hơn không. Chúng tôi chỉ dùng nó một ngày một lần."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used when you are saying that something is very unlikely to happen",
+                    "vi": "được sử dụng khi bạn đang nói rằng điều gì đó rất khó xảy ra"
+                },
+                "examples": [
+                    {
+                        "en": "Paul? Apologize? That'll be the day!",
+                        "vi": "Paul? Xin lỗi? Đó sẽ là ngày!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to talk about the present, especially when you are comparing it with the past",
+                    "vi": "được sử dụng để nói về hiện tại, đặc biệt là khi bạn đang so sánh nó với quá khứ"
+                },
+                "examples": [
+                    {
+                        "en": "These days kids grow up so quickly.",
+                        "vi": "Ngày nay những đứa trẻ lớn lên rất nhanh."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to suggest that a time in the past was happier or better than now",
+                    "vi": "được sử dụng để gợi ý rằng một thời gian trong quá khứ hạnh phúc hơn hoặc tốt hơn bây giờ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "exactly",
+                    "vi": "một cách chính xác"
+                },
+                "examples": [
+                    {
+                        "en": "It's been three years to the day since we met.",
+                        "vi": "Đã ba năm kể từ ngày chúng ta gặp nhau."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "even now, when a lot of time has passed",
+                    "vi": "ngay cả bây giờ, khi rất nhiều thời gian đã trôi qua"
+                },
+                "examples": [
+                    {
+                        "en": "To this day, I still don't understand why he did it.",
+                        "vi": "Cho đến ngày nay, tôi vẫn không hiểu tại sao anh ấy lại làm vậy."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ee1840a0d8a44afab13fbe8810a41978",
+        "word": "Friday",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˈfraɪdeɪ/",
+            "us": "/ˈfraɪdeɪ/"
+        },
+        "nearby": [
+            {
+                "word": "frictionless",
+                "pos": "adjective"
+            },
+            {
+                "word": "friction tape",
+                "pos": "noun"
+            },
+            {
+                "word": "Friday",
+                "pos": "noun"
+            },
+            {
+                "word": "fridge",
+                "pos": "noun"
+            },
+            {
+                "word": "fridge-freezer",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the day of the week after Thursday and before Saturday",
+                    "vi": "ngày trong tuần sau thứ Năm và trước thứ Bảy"
+                },
+                "examples": [
+                    {
+                        "en": "It's Friday today, isn't it?",
+                        "vi": "Hôm nay là thứ sáu, phải không?"
+                    },
+                    {
+                        "en": "She went to dance class last Friday.",
+                        "vi": "Cô ấy đã đến lớp học khiêu vũ vào thứ sáu tuần trước."
+                    },
+                    {
+                        "en": "Are you busy next Friday?",
+                        "vi": "Thứ sáu tuần sau bạn có bận không?"
+                    },
+                    {
+                        "en": "Friday morning/afternoon/evening",
+                        "vi": "Thứ sáu sáng / chiều / tối"
+                    },
+                    {
+                        "en": "We'll discuss this at Friday's meeting.",
+                        "vi": "Chúng ta sẽ thảo luận về vấn đề này trong cuộc họp hôm thứ Sáu."
+                    },
+                    {
+                        "en": "I work Friday to Tuesday.",
+                        "vi": "Tôi làm việc từ thứ Sáu đến thứ Ba."
+                    },
+                    {
+                        "en": "I work Fridays to Tuesdays.",
+                        "vi": "Tôi làm việc từ thứ Sáu đến thứ Ba."
+                    },
+                    {
+                        "en": "on Friday We'll meet on Friday (= next Friday).",
+                        "vi": "vào Thứ Sáu Chúng ta sẽ gặp nhau vào Thứ Sáu (= Thứ Sáu tới)."
+                    },
+                    {
+                        "en": "We met on Friday (= last Friday).",
+                        "vi": "Chúng ta đã gặp nhau vào Thứ Sáu (= Thứ Sáu tuần trước)."
+                    },
+                    {
+                        "en": "(informal or North American English) We'll meet Friday.",
+                        "vi": "(không chính thức hoặc tiếng Anh Bắc Mỹ) Chúng ta sẽ gặp nhau vào thứ Sáu."
+                    },
+                    {
+                        "en": "on Fridays The museum is closed on Fridays (= every Friday).",
+                        "vi": "vào Thứ Sáu Bảo tàng đóng cửa vào Thứ Sáu (= Thứ Sáu hàng tuần)."
+                    },
+                    {
+                        "en": "(especially North American English) The museum is closed Fridays.",
+                        "vi": "(đặc biệt là tiếng Anh Bắc Mỹ) Bảo tàng đóng cửa vào các ngày thứ Sáu."
+                    },
+                    {
+                        "en": "on a Friday He was born on a Friday.",
+                        "vi": "vào thứ sáu Anh ấy sinh ra vào thứ sáu."
+                    },
+                    {
+                        "en": "I always do yoga on a Friday (= every Friday).",
+                        "vi": "Tôi luôn tập yoga vào thứ sáu (= thứ sáu hàng tuần)."
+                    },
+                    {
+                        "en": "I went to Nairobi on Monday, and came back the following Friday.",
+                        "vi": "Tôi đến Nairobi vào thứ Hai và trở lại vào thứ Sáu tuần sau."
+                    },
+                    {
+                        "en": "(British English) ‘When did the accident happen?’ ‘It was the Friday (= the Friday of the week we are talking about).’",
+                        "vi": "(Anh Anh) 'Tai nạn xảy ra khi nào?' 'Đó là thứ Sáu (= thứ Sáu trong tuần mà chúng ta đang nói đến).'"
+                    },
+                    {
+                        "en": "(British English) Come back Friday week (= a week after next Friday).",
+                        "vi": "(Tiếng Anh Anh) Quay lại vào thứ Sáu tuần (= một tuần sau thứ Sáu tới)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a character in Daniel Defoe's novel Robinson Crusoe. He becomes Crusoe's faithful servant after Crusoe saves him from being eaten by cannibals. The phrase Man Friday or Girl Friday was sometimes used to describe an assistant who did many different jobs in an office, but is now quite old-fashioned.",
+                    "vi": "một nhân vật trong tiểu thuyết Robinson Crusoe của Daniel Defoe. Anh ta trở thành người hầu trung thành của Crusoe sau khi Crusoe cứu anh ta khỏi bị ăn thịt bởi những kẻ ăn thịt người. Cụm từ Man Friday hay Girl Friday đôi khi được sử dụng để mô tả một trợ lý làm nhiều công việc khác nhau trong một văn phòng, nhưng giờ đây đã trở nên lỗi thời."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "6d8d392ee3f64f9186d3932fe17383f5",
+        "word": "Monday",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˈmʌndeɪ/",
+            "us": "/ˈmʌndeɪ/"
+        },
+        "nearby": [
+            {
+                "word": "monasticism",
+                "pos": "noun"
+            },
+            {
+                "word": "Moncton",
+                "pos": ""
+            },
+            {
+                "word": "Monday",
+                "pos": "noun"
+            },
+            {
+                "word": "the Monday Club",
+                "pos": ""
+            },
+            {
+                "word": "Monday morning quarterback",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the day of the week after Sunday and before Tuesday, the first day of the working week",
+                    "vi": "ngày trong tuần sau Chủ nhật và trước Thứ Ba, ngày đầu tiên của tuần làm việc"
+                },
+                "examples": [
+                    {
+                        "en": "It's Monday today, isn't it?",
+                        "vi": "Hôm nay là thứ Hai, phải không?"
+                    },
+                    {
+                        "en": "She started work last Monday.",
+                        "vi": "Cô ấy bắt đầu làm việc từ thứ Hai tuần trước."
+                    },
+                    {
+                        "en": "Are you busy next Monday?",
+                        "vi": "Thứ Hai tuần sau bạn có bận không?"
+                    },
+                    {
+                        "en": "Monday morning/afternoon/evening",
+                        "vi": "Thứ Hai sáng / chiều / tối"
+                    },
+                    {
+                        "en": "We'll discuss this at Monday's meeting.",
+                        "vi": "Chúng ta sẽ thảo luận về vấn đề này trong cuộc họp hôm thứ Hai."
+                    },
+                    {
+                        "en": "I work Monday to Friday.",
+                        "vi": "Tôi làm việc từ thứ Hai đến thứ Sáu."
+                    },
+                    {
+                        "en": "I work Mondays to Fridays.",
+                        "vi": "Tôi làm việc từ thứ Hai đến thứ Sáu."
+                    },
+                    {
+                        "en": "on Monday We'll meet on Monday (= next Monday).",
+                        "vi": "vào Thứ Hai Chúng ta sẽ gặp nhau vào Thứ Hai (= Thứ Hai tới)."
+                    },
+                    {
+                        "en": "We met on Monday (= last Monday).",
+                        "vi": "Chúng ta đã gặp nhau vào Thứ Hai (= Thứ Hai tuần trước)."
+                    },
+                    {
+                        "en": "(informal or North American English) We'll meet Monday.",
+                        "vi": "(không chính thức hoặc tiếng Anh Bắc Mỹ) Chúng ta sẽ gặp nhau vào thứ Hai."
+                    },
+                    {
+                        "en": "on Mondays The museum is closed on Mondays (= every Monday).",
+                        "vi": "vào Thứ Hai Bảo tàng đóng cửa vào Thứ Hai (= Thứ Hai hàng tuần)."
+                    },
+                    {
+                        "en": "(especially North American English) The museum is closed Mondays.",
+                        "vi": "(đặc biệt là tiếng Anh Bắc Mỹ) Bảo tàng đóng cửa vào Thứ Hai."
+                    },
+                    {
+                        "en": "on a Monday He was born on a Monday.",
+                        "vi": "vào một ngày thứ Hai Anh ấy sinh ra vào một ngày thứ Hai."
+                    },
+                    {
+                        "en": "I always do yoga on a Monday (= every Monday).",
+                        "vi": "Tôi luôn tập yoga vào Thứ Hai (= Thứ Hai hàng tuần)."
+                    },
+                    {
+                        "en": "I went to Paris on Thursday, and came back the following Monday.",
+                        "vi": "Tôi đến Paris vào thứ Năm và trở lại vào thứ Hai tuần sau."
+                    },
+                    {
+                        "en": "(British English) ‘When did the accident happen?’ ‘It was the Monday (= the Monday of the week we are talking about).’",
+                        "vi": "(Anh Anh) 'Tai nạn xảy ra khi nào?' 'Đó là Thứ Hai (= Thứ Hai trong tuần mà chúng ta đang nói đến).'"
+                    },
+                    {
+                        "en": "(British English) Come back Monday week (= a week after next Monday).",
+                        "vi": "(Tiếng Anh Anh) Hãy quay lại vào thứ Hai tuần sau (= một tuần sau thứ Hai tuần sau)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "280c623de5fb40afabb8a329f1b804c1",
+        "word": "Saturday",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˈsætədeɪ/",
+            "us": "/ˈsætərdeɪ/"
+        },
+        "nearby": [
+            {
+                "word": "saturation",
+                "pos": "noun"
+            },
+            {
+                "word": "saturation point",
+                "pos": "noun"
+            },
+            {
+                "word": "Saturday",
+                "pos": "noun"
+            },
+            {
+                "word": "The Saturday Evening Post",
+                "pos": ""
+            },
+            {
+                "word": "Saturday Night Live",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the day of the week after Friday and before Sunday",
+                    "vi": "ngày trong tuần sau thứ sáu và trước chủ nhật"
+                },
+                "examples": [
+                    {
+                        "en": "It's Saturday today, isn't it?",
+                        "vi": "Hôm nay là thứ bảy, phải không?"
+                    },
+                    {
+                        "en": "She started art classes last Saturday.",
+                        "vi": "Cô ấy đã bắt đầu các lớp học nghệ thuật vào thứ bảy tuần trước."
+                    },
+                    {
+                        "en": "Are you busy next Saturday?",
+                        "vi": "Thứ bảy tuần sau bạn có bận không?"
+                    },
+                    {
+                        "en": "Saturday morning/afternoon/evening",
+                        "vi": "Thứ bảy sáng / chiều / tối"
+                    },
+                    {
+                        "en": "We'll chat at Saturday's party.",
+                        "vi": "Chúng ta sẽ trò chuyện trong bữa tiệc hôm thứ Bảy."
+                    },
+                    {
+                        "en": "I work Saturday to Wednesday.",
+                        "vi": "Tôi làm việc từ thứ Bảy đến thứ Tư."
+                    },
+                    {
+                        "en": "I work Saturdays to Wednesdays.",
+                        "vi": "Tôi làm việc từ thứ Bảy đến thứ Tư."
+                    },
+                    {
+                        "en": "on Saturday We'll meet on Saturday (= next Saturday).",
+                        "vi": "vào Thứ Bảy Chúng ta sẽ gặp nhau vào Thứ Bảy (= Thứ Bảy tới)."
+                    },
+                    {
+                        "en": "We met on Saturday (= last Saturday).",
+                        "vi": "Chúng tôi đã gặp nhau vào thứ bảy (= thứ bảy tuần trước)."
+                    },
+                    {
+                        "en": "(informal or North American English) We'll meet Saturday.",
+                        "vi": "(không chính thức hoặc tiếng Anh Bắc Mỹ) Chúng ta sẽ gặp nhau vào thứ Bảy."
+                    },
+                    {
+                        "en": "on Saturdays The office is closed on Saturdays (= every Saturday).",
+                        "vi": "vào Thứ Bảy Văn phòng đóng cửa vào Thứ Bảy (= Thứ Bảy hàng tuần)."
+                    },
+                    {
+                        "en": "(especially North American English) The office is closed Saturdays.",
+                        "vi": "(đặc biệt là tiếng Anh Bắc Mỹ) Văn phòng đóng cửa vào các ngày Thứ Bảy."
+                    },
+                    {
+                        "en": "on a Saturday He was born on a Saturday.",
+                        "vi": "vào thứ bảy Anh ấy sinh ra vào thứ bảy."
+                    },
+                    {
+                        "en": "I always do yoga on a Saturday (= every Saturday).",
+                        "vi": "Tôi luôn tập yoga vào thứ Bảy (= thứ Bảy hàng tuần)."
+                    },
+                    {
+                        "en": "I went to Mexico City on Monday, and came back the following Saturday.",
+                        "vi": "Tôi đã đến Thành phố Mexico vào thứ Hai và trở lại vào thứ Bảy tuần sau."
+                    },
+                    {
+                        "en": "(British English) ‘When did the accident happen?’ ‘It was the Saturday (= the Saturday of the week we are talking about).’",
+                        "vi": "(Anh Anh) 'Tai nạn xảy ra khi nào?' 'Đó là thứ Bảy (= thứ Bảy trong tuần mà chúng ta đang nói đến).'"
+                    },
+                    {
+                        "en": "(British English) Come back Saturday week (= a week after next Saturday).",
+                        "vi": "(Tiếng Anh Anh) Quay lại vào thứ Bảy tuần (= một tuần sau thứ Bảy tới)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "dc79fc6e7fc74c73b5071872d614ff86",
+        "word": "Sunday",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˈsʌndeɪ/",
+            "us": "/ˈsʌndeɪ/"
+        },
+        "nearby": [
+            {
+                "word": "the Sundance Film Festival",
+                "pos": ""
+            },
+            {
+                "word": "the Sundance Kid",
+                "pos": ""
+            },
+            {
+                "word": "Sunday",
+                "pos": "noun"
+            },
+            {
+                "word": "the Sunday Express",
+                "pos": ""
+            },
+            {
+                "word": "the Sunday Mirror",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the day of the week after Saturday and before Monday, thought of as either the first or the last day of the week",
+                    "vi": "ngày trong tuần sau thứ bảy và trước thứ hai, được coi là ngày đầu tiên hoặc ngày cuối cùng của tuần"
+                },
+                "examples": [
+                    {
+                        "en": "It's Sunday today, isn't it?",
+                        "vi": "Hôm nay là chủ nhật, phải không?"
+                    },
+                    {
+                        "en": "She went to a cooking class last Sunday.",
+                        "vi": "Cô ấy đã đến một lớp học nấu ăn vào Chủ nhật tuần trước."
+                    },
+                    {
+                        "en": "Are you busy next Sunday?",
+                        "vi": "Chủ nhật tới bạn có bận không?"
+                    },
+                    {
+                        "en": "Sunday morning/afternoon/evening",
+                        "vi": "Chủ nhật sáng / chiều / tối"
+                    },
+                    {
+                        "en": "We'll see each other at Sunday's party.",
+                        "vi": "Chúng ta sẽ gặp nhau trong bữa tiệc chủ nhật."
+                    },
+                    {
+                        "en": "I work Sunday to Thursday.",
+                        "vi": "Tôi làm việc từ chủ nhật đến thứ năm."
+                    },
+                    {
+                        "en": "I work Sundays to Thursdays.",
+                        "vi": "Tôi làm việc từ chủ nhật đến thứ năm."
+                    },
+                    {
+                        "en": "on Sunday We'll meet on Sunday (= next Sunday).",
+                        "vi": "vào Chủ nhật Chúng ta sẽ gặp nhau vào Chủ nhật (= Chủ nhật tới)."
+                    },
+                    {
+                        "en": "We met on Sunday (= last Monday).",
+                        "vi": "Chúng tôi đã gặp nhau vào Chủ Nhật (= Thứ Hai tuần trước)."
+                    },
+                    {
+                        "en": "(informal or North American English) We'll meet Sunday.",
+                        "vi": "(không chính thức hoặc tiếng Anh Bắc Mỹ) Chúng ta sẽ gặp nhau vào Chủ nhật."
+                    },
+                    {
+                        "en": "on Sundays The office is closed on Sundays (= every Sunday).",
+                        "vi": "vào Chủ Nhật Văn phòng đóng cửa vào Chủ Nhật (= Chủ Nhật hàng tuần)."
+                    },
+                    {
+                        "en": "(especially North American English) The office is closed Sundays.",
+                        "vi": "(đặc biệt là tiếng Anh Bắc Mỹ) Văn phòng đóng cửa vào Chủ Nhật."
+                    },
+                    {
+                        "en": "on a Sunday He was born on a Sunday.",
+                        "vi": "vào một ngày Chủ nhật Anh ấy được sinh ra vào một ngày Chủ nhật."
+                    },
+                    {
+                        "en": "I always do yoga on a Sunday (= every Sunday).",
+                        "vi": "Tôi luôn tập yoga vào Chủ nhật (= mỗi Chủ nhật)."
+                    },
+                    {
+                        "en": "I went to Lisbon on Wednesday, and came back the following Sunday.",
+                        "vi": "Tôi đến Lisbon vào thứ Tư, và trở lại vào Chủ nhật tuần sau."
+                    },
+                    {
+                        "en": "(British English) ‘When did the accident happen?’ ‘It was the Sunday (= the Sunday of the week we are talking about).’",
+                        "vi": "(Anh Anh) 'Tai nạn xảy ra khi nào?' 'Đó là Chủ nhật (= Chủ nhật trong tuần mà chúng ta đang nói đến).'"
+                    },
+                    {
+                        "en": "(British English) Come back Sunday week (= a week after next Sunday).",
+                        "vi": "(Tiếng Anh Anh) Hãy trở lại vào Chủ nhật tuần (= một tuần sau Chủ nhật tới)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a newspaper published on a Sunday",
+                    "vi": "một tờ báo được xuất bản vào Chủ nhật"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used to emphasize that something will never happen or will take a very long time",
+                    "vi": "được sử dụng để nhấn mạnh rằng điều gì đó sẽ không bao giờ xảy ra hoặc sẽ mất một thời gian rất dài"
+                },
+                "examples": [
+                    {
+                        "en": "You won't find it, not in a month of Sundays.",
+                        "vi": "Bạn sẽ không tìm thấy nó, không phải trong một tháng có chủ nhật."
+                    },
+                    {
+                        "en": "It is possible to learn to skydive in Britain, but with our weather it might take a month of Sundays to do it.",
+                        "vi": "Có thể học cách nhảy dù ở Anh, nhưng với thời tiết của chúng tôi, có thể mất một tháng Chủ nhật để học được."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "your best clothes",
+                    "vi": "quần áo đẹp nhất của bạn"
+                },
+                "examples": [
+                    {
+                        "en": "I put on my Sunday best for the occasion.",
+                        "vi": "Tôi đã dành ngày chủ nhật tốt nhất cho dịp này."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f3627400688e4b75adaf6d46367d4048",
+        "word": "Thursday",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˈθɜːzdeɪ/",
+            "us": "/ˈθɜːrzdeɪ/"
+        },
+        "nearby": [
+            {
+                "word": "James Thurber",
+                "pos": ""
+            },
+            {
+                "word": "J Strom Thurmond",
+                "pos": ""
+            },
+            {
+                "word": "Thursday",
+                "pos": "noun"
+            },
+            {
+                "word": "thus",
+                "pos": "adverb"
+            },
+            {
+                "word": "thusly",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the day of the week after Wednesday and before Friday",
+                    "vi": "ngày trong tuần sau Thứ Tư và trước Thứ Sáu"
+                },
+                "examples": [
+                    {
+                        "en": "It's Thursday today, isn't it?",
+                        "vi": "Hôm nay là thứ Năm, phải không?"
+                    },
+                    {
+                        "en": "She started English lessons last Thursday.",
+                        "vi": "Cô ấy bắt đầu học tiếng Anh vào thứ Năm tuần trước."
+                    },
+                    {
+                        "en": "Are you busy next Thursday?",
+                        "vi": "Thứ năm tuần sau bạn có bận không?"
+                    },
+                    {
+                        "en": "Thursday morning/afternoon/evening",
+                        "vi": "Thứ Năm sáng / chiều / tối"
+                    },
+                    {
+                        "en": "We'll discuss this at Thursday's meeting.",
+                        "vi": "Chúng ta sẽ thảo luận về vấn đề này trong cuộc họp hôm thứ Năm."
+                    },
+                    {
+                        "en": "I work Thursday to Monday.",
+                        "vi": "Tôi làm việc từ thứ Năm đến thứ Hai."
+                    },
+                    {
+                        "en": "I work Thursdays to Mondays.",
+                        "vi": "Tôi làm việc từ thứ Năm đến thứ Hai."
+                    },
+                    {
+                        "en": "on Thursday We'll meet on Thursday (= next Thursday).",
+                        "vi": "vào Thứ Năm Chúng ta sẽ gặp nhau vào Thứ Năm (= Thứ Năm tới)."
+                    },
+                    {
+                        "en": "We met on Thursday (= last Thursday).",
+                        "vi": "Chúng tôi đã gặp nhau vào Thứ Năm (= Thứ Năm tuần trước)."
+                    },
+                    {
+                        "en": "(informal or North American English) We'll meet Thursday.",
+                        "vi": "(không chính thức hoặc tiếng Anh Bắc Mỹ) Chúng ta sẽ gặp nhau vào thứ Năm."
+                    },
+                    {
+                        "en": "on Thursdays The museum is closed on Thursdays (= every Thursday).",
+                        "vi": "vào Thứ Năm Bảo tàng đóng cửa vào Thứ Năm (= Thứ Năm hàng tuần)."
+                    },
+                    {
+                        "en": "(especially North American English) The museum is closed Thursdays.",
+                        "vi": "(đặc biệt là tiếng Anh Bắc Mỹ) Bảo tàng đóng cửa vào các ngày Thứ Năm."
+                    },
+                    {
+                        "en": "on a Thursday He was born on a Thursday.",
+                        "vi": "vào thứ Năm. Anh ấy sinh ra vào thứ Năm."
+                    },
+                    {
+                        "en": "I always do yoga on a Thursday (= every Thursday).",
+                        "vi": "Tôi luôn tập yoga vào thứ Năm (= thứ Năm hàng tuần)."
+                    },
+                    {
+                        "en": "I went to Oslo on Sunday, and came back the following Thursday.",
+                        "vi": "Tôi đến Oslo vào Chủ nhật, và trở lại vào thứ Năm tuần sau."
+                    },
+                    {
+                        "en": "(British English) ‘When did the accident happen?’ ‘It was the Thursday (= the Thursday of the week we are talking about).’",
+                        "vi": "(Anh Anh) 'Tai nạn xảy ra khi nào?' 'Đó là thứ Năm (= thứ Năm trong tuần mà chúng ta đang nói đến).'"
+                    },
+                    {
+                        "en": "(British English) Come back Thursday week (= a week after next Thursday).",
+                        "vi": "(Tiếng Anh Anh) Hãy quay lại vào Thứ Năm tuần (= một tuần sau Thứ Năm tuần sau)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "d2bd228726d94260a8b2408c43cb6271",
+        "word": "today",
+        "pos": "adverb",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/təˈdeɪ/",
+            "us": "/təˈdeɪ/"
+        },
+        "nearby": [
+            {
+                "word": "tocsin",
+                "pos": "noun"
+            },
+            {
+                "word": "tod",
+                "pos": "noun"
+            },
+            {
+                "word": "today",
+                "pos": "adverb"
+            },
+            {
+                "word": "today",
+                "pos": "noun"
+            },
+            {
+                "word": "Today",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "on this day",
+                    "vi": "vào ngày này"
+                },
+                "examples": [
+                    {
+                        "en": "I've got a piano lesson later today.",
+                        "vi": "Tôi có một buổi học piano sau ngày hôm nay."
+                    },
+                    {
+                        "en": "The exams start a week today/today week (= one week from now).",
+                        "vi": "Các bài kiểm tra bắt đầu một tuần hôm nay / hôm nay tuần (= một tuần kể từ bây giờ)."
+                    },
+                    {
+                        "en": "The company today announced a plan that involves cutting 12% of its workforce.",
+                        "vi": "Công ty hôm nay đã công bố một kế hoạch liên quan đến việc cắt giảm 12% lực lượng lao động của mình."
+                    },
+                    {
+                        "en": "A press release is due out today or tomorrow.",
+                        "vi": "Một thông cáo báo chí đến hạn vào ngày hôm nay hoặc ngày mai."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "at the present period",
+                    "vi": "ở thời kỳ hiện tại"
+                },
+                "examples": [
+                    {
+                        "en": "Young people today face a very difficult future at work.",
+                        "vi": "Những người tuổi Tý ngày nay phải đối mặt với một tương lai vô cùng khó khăn trong công việc."
+                    },
+                    {
+                        "en": "Today people have greater expectations for their retirement years.",
+                        "vi": "Ngày nay mọi người có kỳ vọng lớn hơn cho những năm nghỉ hưu của họ."
+                    },
+                    {
+                        "en": "Only 9% of students today say they plan to attend a school more than 500 miles from home.",
+                        "vi": "Chỉ có 9% học sinh ngày nay nói rằng họ dự định theo học một trường cách nhà hơn 500 dặm."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "848df2af99214ec88c4d43f07ba3f131",
+        "word": "today",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/təˈdeɪ/",
+            "us": "/təˈdeɪ/"
+        },
+        "nearby": [
+            {
+                "word": "tod",
+                "pos": "noun"
+            },
+            {
+                "word": "today",
+                "pos": "adverb"
+            },
+            {
+                "word": "today",
+                "pos": "noun"
+            },
+            {
+                "word": "Today",
+                "pos": ""
+            },
+            {
+                "word": "toddle",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "this day",
+                    "vi": "ngày này"
+                },
+                "examples": [
+                    {
+                        "en": "Today is her tenth birthday.",
+                        "vi": "Hôm nay là sinh nhật lần thứ mười của cô ấy."
+                    },
+                    {
+                        "en": "Today is Monday.",
+                        "vi": "Hôm nay là thứ hai."
+                    },
+                    {
+                        "en": "The review is in today's paper.",
+                        "vi": "Đánh giá là trong bài báo ngày hôm nay."
+                    },
+                    {
+                        "en": "I'm leaving a week from today.",
+                        "vi": "Tôi sẽ đi một tuần kể từ hôm nay."
+                    },
+                    {
+                        "en": "Today was definitely a good day!",
+                        "vi": "Hôm nay chắc chắn là một ngày tốt lành!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the present period of time",
+                    "vi": "khoảng thời gian hiện tại"
+                },
+                "examples": [
+                    {
+                        "en": "The film is about growing up in today's world.",
+                        "vi": "Bộ phim nói về sự lớn lên trong thế giới ngày nay."
+                    },
+                    {
+                        "en": "In today's society, there is widespread concern about obesity.",
+                        "vi": "Trong xã hội ngày nay, mối quan tâm rộng rãi về bệnh béo phì."
+                    },
+                    {
+                        "en": "The animation is poor by today's standards.",
+                        "vi": "Hình ảnh động là kém theo tiêu chuẩn ngày nay."
+                    },
+                    {
+                        "en": "Today's announcement is great for consumers.",
+                        "vi": "Thông báo hôm nay là rất tốt cho người tiêu dùng."
+                    },
+                    {
+                        "en": "today’s young people",
+                        "vi": "những người trẻ ngày nay"
+                    },
+                    {
+                        "en": "of today the youth of today",
+                        "vi": "của ngày hôm nay tuổi trẻ của ngày hôm nay"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c21008a6dd774b4c83cc6106c33676e4",
+        "word": "tomorrow",
+        "pos": "adverb",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/təˈmɒrəʊ/",
+            "us": "/təˈmɑːrəʊ/"
+        },
+        "nearby": [
+            {
+                "word": "tommyrot",
+                "pos": "noun"
+            },
+            {
+                "word": "tomography",
+                "pos": "noun"
+            },
+            {
+                "word": "tomorrow",
+                "pos": "adverb"
+            },
+            {
+                "word": "tomorrow",
+                "pos": "noun"
+            },
+            {
+                "word": "Tom Thumb",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "on or during the day after today",
+                    "vi": "vào hoặc trong ngày sau hôm nay"
+                },
+                "examples": [
+                    {
+                        "en": "I'm off now. See you tomorrow.",
+                        "vi": "Bây giờ tôi đang nghỉ. Hẹn gặp bạn vào ngày mai."
+                    },
+                    {
+                        "en": "She's leaving tomorrow.",
+                        "vi": "Cô ấy sẽ đi vào ngày mai."
+                    },
+                    {
+                        "en": "(especially British English) They arrive a week tomorrow/tomorrow week (= after a week, starting from tomorrow).",
+                        "vi": "(đặc biệt là tiếng Anh Anh) Họ đến một tuần vào ngày mai / ngày mai tuần (= sau một tuần, bắt đầu từ ngày mai)."
+                    },
+                    {
+                        "en": "The conference is taking place today and tomorrow.",
+                        "vi": "Hội nghị sẽ diễn ra trong ngày hôm nay và ngày mai."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "good things that are promised for the future but never happen",
+                    "vi": "những điều tốt đẹp được hứa hẹn cho tương lai nhưng không bao giờ xảy ra"
+                },
+                "examples": [
+                    {
+                        "en": "They refused to settle for a promise of jam tomorrow.",
+                        "vi": "Họ từ chối giải quyết cho một lời hứa ngày mai kẹt cứng."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4aea16d79a574d9cb329d6d9a72885b1",
+        "word": "tomorrow",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/təˈmɒrəʊ/",
+            "us": "/təˈmɑːrəʊ/"
+        },
+        "nearby": [
+            {
+                "word": "tomography",
+                "pos": "noun"
+            },
+            {
+                "word": "tomorrow",
+                "pos": "adverb"
+            },
+            {
+                "word": "tomorrow",
+                "pos": "noun"
+            },
+            {
+                "word": "Tom Thumb",
+                "pos": ""
+            },
+            {
+                "word": "tom-tom",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the day after today",
+                    "vi": "ngày mốt"
+                },
+                "examples": [
+                    {
+                        "en": "Today is Tuesday, so tomorrow is Wednesday.",
+                        "vi": "Hôm nay là thứ ba, vậy ngày mai là thứ tư."
+                    },
+                    {
+                        "en": "tomorrow afternoon/morning/night/evening",
+                        "vi": "chiều mai / sáng / tối / tối"
+                    },
+                    {
+                        "en": "I'll see you the day after tomorrow.",
+                        "vi": "Hẹn gặp lại các bạn vào ngày mốt."
+                    },
+                    {
+                        "en": "The announcement will appear in tomorrow's newspapers.",
+                        "vi": "Thông báo sẽ xuất hiện trên các báo ngày mai."
+                    },
+                    {
+                        "en": "I want it done by tomorrow.",
+                        "vi": "Tôi muốn nó hoàn thành vào ngày mai."
+                    },
+                    {
+                        "en": "The meeting isn't until tomorrow.",
+                        "vi": "Cuộc họp kéo dài đến ngày mai."
+                    },
+                    {
+                        "en": "Tomorrow will be fine and dry according to the weather forecast.",
+                        "vi": "Ngày mai trời sẽ ổn và khô ráo theo dự báo thời tiết."
+                    },
+                    {
+                        "en": "A meeting has been scheduled for tomorrow.",
+                        "vi": "Một cuộc họp đã được lên lịch vào ngày mai."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the future",
+                    "vi": "tương lai"
+                },
+                "examples": [
+                    {
+                        "en": "Who knows what changes tomorrow may bring?",
+                        "vi": "Ai biết được những gì thay đổi ngày mai có thể mang lại?"
+                    },
+                    {
+                        "en": "Tomorrow's workers will have to be more adaptable.",
+                        "vi": "Công nhân của ngày mai sẽ phải thích nghi hơn."
+                    },
+                    {
+                        "en": "These youngsters are the stars of tomorrow.",
+                        "vi": "Những đứa trẻ này là những ngôi sao của ngày mai."
+                    },
+                    {
+                        "en": "We need to plan for a better tomorrow.",
+                        "vi": "Chúng ta cần lập kế hoạch cho một ngày mai tốt đẹp hơn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to do something a lot or as though you do not care what effects it will have",
+                    "vi": "để làm một cái gì đó nhiều hoặc như thể bạn không quan tâm nó sẽ có những tác động gì"
+                },
+                "examples": [
+                    {
+                        "en": "I ate as if there was no tomorrow.",
+                        "vi": "Tôi đã ăn như thể không có ngày mai."
+                    },
+                    {
+                        "en": "She spends money like there's no tomorrow.",
+                        "vi": "Cô ấy tiêu tiền như thể không có ngày mai."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "be168516a8de433cb7a0138978430cb7",
+        "word": "tonight",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/təˈnaɪt/",
+            "us": "/təˈnaɪt/"
+        },
+        "nearby": [
+            {
+                "word": "tonify",
+                "pos": "verb"
+            },
+            {
+                "word": "tonight",
+                "pos": "adverb"
+            },
+            {
+                "word": "tonight",
+                "pos": "noun"
+            },
+            {
+                "word": "The Tonight Show",
+                "pos": ""
+            },
+            {
+                "word": "Tonka",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the evening or night of today",
+                    "vi": "buổi tối hoặc đêm của ngày hôm nay"
+                },
+                "examples": [
+                    {
+                        "en": "Here are tonight's football results.",
+                        "vi": "Đây là kết quả bóng đá đêm nay."
+                    },
+                    {
+                        "en": "Tonight will be cloudy.",
+                        "vi": "Đêm nay trời sẽ nhiều mây."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7471876d7ce645d29aaab46072d9f44a",
+        "word": "Tuesday",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˈtjuːzdeɪ/",
+            "us": "/ˈtuːzdeɪ/"
+        },
+        "nearby": [
+            {
+                "word": "Tudor rose",
+                "pos": "noun"
+            },
+            {
+                "word": "Tue.",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "Tuesday",
+                "pos": "noun"
+            },
+            {
+                "word": "tuft",
+                "pos": "noun"
+            },
+            {
+                "word": "tufted",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the day of the week after Monday and before Wednesday",
+                    "vi": "ngày trong tuần sau thứ Hai và trước thứ Tư"
+                },
+                "examples": [
+                    {
+                        "en": "It's Tuesday today, isn't it?",
+                        "vi": "Hôm nay là thứ ba, phải không?"
+                    },
+                    {
+                        "en": "She started work last Tuesday.",
+                        "vi": "Cô ấy đã bắt đầu công việc từ thứ ba tuần trước."
+                    },
+                    {
+                        "en": "Are you busy next Tuesday?",
+                        "vi": "Thứ ba tuần sau bạn có bận không?"
+                    },
+                    {
+                        "en": "Tuesday morning/afternoon/evening",
+                        "vi": "Thứ Ba sáng / chiều / tối"
+                    },
+                    {
+                        "en": "We'll discuss this at Tuesday's meeting.",
+                        "vi": "Chúng ta sẽ thảo luận về vấn đề này trong cuộc họp hôm thứ Ba."
+                    },
+                    {
+                        "en": "I work Tuesday to Friday.",
+                        "vi": "Tôi làm việc từ thứ Ba đến thứ Sáu."
+                    },
+                    {
+                        "en": "I work Tuesdays to Fridays.",
+                        "vi": "Tôi làm việc từ thứ Ba đến thứ Sáu."
+                    },
+                    {
+                        "en": "on Tuesday We'll meet on Tuesday (= next Tuesday).",
+                        "vi": "vào Thứ Ba Chúng ta sẽ gặp nhau vào Thứ Ba (= Thứ Ba tới)."
+                    },
+                    {
+                        "en": "We met on Tuesday (= last Tuesday).",
+                        "vi": "Chúng ta đã gặp nhau vào Thứ Ba (= Thứ Ba tuần trước)."
+                    },
+                    {
+                        "en": "(informal or North American English) We'll meet Tuesday.",
+                        "vi": "(không chính thức hoặc tiếng Anh Bắc Mỹ) Chúng ta sẽ gặp nhau vào thứ Ba."
+                    },
+                    {
+                        "en": "on Tuesdays The museum is closed on Tuesdays (= every Tuesday).",
+                        "vi": "vào các ngày Thứ Ba Bảo tàng đóng cửa vào các ngày Thứ Ba (= Thứ Ba hàng tuần)."
+                    },
+                    {
+                        "en": "(especially North American English) The museum is closed Tuesdays.",
+                        "vi": "(đặc biệt là tiếng Anh Bắc Mỹ) Bảo tàng đóng cửa vào các ngày Thứ Ba."
+                    },
+                    {
+                        "en": "on a Tuesday He was born on a Tuesday.",
+                        "vi": "vào thứ Ba Anh ấy sinh ra vào thứ Ba."
+                    },
+                    {
+                        "en": "I always do yoga on a Tuesday (= every Tuesday).",
+                        "vi": "Tôi luôn tập yoga vào thứ Ba (= thứ Ba hàng tuần)."
+                    },
+                    {
+                        "en": "I went to Paris on Thursday, and came back the following Tuesday.",
+                        "vi": "Tôi đến Paris vào thứ Năm và trở lại vào thứ Ba tuần sau."
+                    },
+                    {
+                        "en": "(British English) ‘When did the accident happen?’ ‘It was the Tuesday (= the Tuesday of the week we are talking about).’",
+                        "vi": "(Anh Anh) 'Tai nạn xảy ra khi nào?' 'Đó là thứ Ba (= thứ Ba trong tuần mà chúng ta đang nói đến).'"
+                    },
+                    {
+                        "en": "(British English) Come back Tuesday week (= a week after next Tuesday).",
+                        "vi": "(Tiếng Anh Anh) Hãy quay lại vào tuần thứ Ba (= một tuần sau thứ Ba tuần sau)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "cf617376974b4a29afde7f888b43c92a",
+        "word": "Wednesday",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˈwenzdeɪ/",
+            "us": "/ˈwenzdeɪ/"
+        },
+        "nearby": [
+            {
+                "word": "Wedgwood",
+                "pos": "noun"
+            },
+            {
+                "word": "wedlock",
+                "pos": "noun"
+            },
+            {
+                "word": "Wednesday",
+                "pos": "noun"
+            },
+            {
+                "word": "wee-wee",
+                "pos": "verb"
+            },
+            {
+                "word": "wee",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the day of the week after Tuesday and before Thursday",
+                    "vi": "ngày trong tuần sau Thứ Ba và trước Thứ Năm"
+                },
+                "examples": [
+                    {
+                        "en": "It's Wednesday today, isn't it?",
+                        "vi": "Hôm nay là thứ tư, phải không?"
+                    },
+                    {
+                        "en": "She started work last Wednesday.",
+                        "vi": "Cô ấy đã bắt đầu công việc vào thứ 4 tuần trước."
+                    },
+                    {
+                        "en": "Are you busy next Wednesday?",
+                        "vi": "Thứ 4 tuần sau bạn có bận không?"
+                    },
+                    {
+                        "en": "Wednesday morning/afternoon/evening",
+                        "vi": "Sáng / chiều / tối thứ 4"
+                    },
+                    {
+                        "en": "We'll discuss this at Wednesday's meeting.",
+                        "vi": "Chúng ta sẽ thảo luận về vấn đề này trong cuộc họp hôm thứ Tư."
+                    },
+                    {
+                        "en": "I work Wednesday to Sunday.",
+                        "vi": "Tôi làm việc từ thứ Tư đến Chủ nhật."
+                    },
+                    {
+                        "en": "I work Wednesdays to Sundays.",
+                        "vi": "Tôi làm việc từ thứ Tư đến Chủ nhật."
+                    },
+                    {
+                        "en": "on Wednesday We'll meet on Wednesday (= next Wednesday).",
+                        "vi": "vào Thứ Tư Chúng ta sẽ gặp nhau vào Thứ Tư (= Thứ Tư tới)."
+                    },
+                    {
+                        "en": "We met on Wednesday (= last Wednesday).",
+                        "vi": "Chúng ta đã gặp nhau vào Thứ Tư (= Thứ Tư tuần trước)."
+                    },
+                    {
+                        "en": "(informal or North American English) We'll meet Wednesday.",
+                        "vi": "(không chính thức hoặc tiếng Anh Bắc Mỹ) Chúng ta sẽ gặp nhau vào thứ Tư."
+                    },
+                    {
+                        "en": "on Wednesdays The museum is closed on Wednesdays (= every Wednesday).",
+                        "vi": "vào Thứ Tư Bảo tàng đóng cửa vào Thứ Tư (= Thứ Tư hàng tuần)."
+                    },
+                    {
+                        "en": "(especially North American English) The museum is closed Wednesdays.",
+                        "vi": "(đặc biệt là tiếng Anh Bắc Mỹ) Bảo tàng đóng cửa vào các ngày thứ Tư."
+                    },
+                    {
+                        "en": "on a Wednesday He was born on a Wednesday.",
+                        "vi": "vào một ngày thứ Tư Anh ấy sinh ra vào một ngày thứ Tư."
+                    },
+                    {
+                        "en": "I always do yoga on a Wednesday (= every Wednesday).",
+                        "vi": "Tôi luôn tập yoga vào thứ Tư (= thứ Tư hàng tuần)."
+                    },
+                    {
+                        "en": "I went to Peru on Thursday, and came back the following Wednesday.",
+                        "vi": "Tôi đã đến Peru vào thứ Năm và trở lại vào thứ Tư tuần sau."
+                    },
+                    {
+                        "en": "(British English) ‘When did the accident happen?’ ‘It was the Wednesday (= the Wednesday of the week we are talking about).’",
+                        "vi": "(Anh Anh) 'Tai nạn xảy ra khi nào?' 'Đó là thứ Tư (= thứ Tư trong tuần mà chúng ta đang nói đến).'"
+                    },
+                    {
+                        "en": "(British English) Come back Wednesday week (= a week after next Wednesday).",
+                        "vi": "(Tiếng Anh Anh) Hãy quay lại vào thứ Tư tuần sau (= một tuần sau thứ Tư tới)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "30d9ec42eca941f280b7ce5a821efa9f",
+        "word": "yesterday",
+        "pos": "adverb",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˈjestədeɪ/",
+            "us": "/ˈjestərdeɪ/"
+        },
+        "nearby": [
+            {
+                "word": "yes-no question",
+                "pos": "noun"
+            },
+            {
+                "word": "yessir",
+                "pos": "exclamation"
+            },
+            {
+                "word": "yesterday",
+                "pos": "adverb"
+            },
+            {
+                "word": "yesterday",
+                "pos": "noun"
+            },
+            {
+                "word": "yesterday",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "on the day before today",
+                    "vi": "vào ngày hôm trước"
+                },
+                "examples": [
+                    {
+                        "en": "A company spokeswoman said yesterday that no final decision had been made yet.",
+                        "vi": "Một phát ngôn viên của công ty hôm qua cho biết vẫn chưa có quyết định cuối cùng."
+                    },
+                    {
+                        "en": "yesterday morning/afternoon/evening",
+                        "vi": "sáng / chiều / tối hôm qua"
+                    },
+                    {
+                        "en": "The company yesterday announced a $40 million deal.",
+                        "vi": "Công ty ngày hôm qua đã công bố một thỏa thuận trị giá 40 triệu đô la."
+                    },
+                    {
+                        "en": "To think I was lying on a beach only the day before yesterday.",
+                        "vi": "Để nghĩ rằng tôi đã nằm trên một bãi biển chỉ vào ngày hôm trước."
+                    },
+                    {
+                        "en": "I can remember our wedding as if it were yesterday.",
+                        "vi": "Tôi có thể nhớ đám cưới của chúng tôi như thể nó là ngày hôm qua."
+                    },
+                    {
+                        "en": "They arrived yesterday.",
+                        "vi": "Họ đã đến ngày hôm qua."
+                    },
+                    {
+                        "en": "Where were you yesterday morning?",
+                        "vi": "Bạn đã ở đâu sáng hôm qua?"
+                    },
+                    {
+                        "en": "Figures released yesterday show 4,944 people were awaiting surgery.",
+                        "vi": "Số liệu công bố ngày hôm qua cho thấy 4.944 người đang chờ phẫu thuật."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to say that you are not stupid enough to believe what somebody is telling you",
+                    "vi": "từng nói rằng bạn không đủ ngu ngốc để tin những gì ai đó đang nói với bạn"
+                },
+                "examples": [
+                    {
+                        "en": "Oh yeah? I wasn't born yesterday, you know.",
+                        "vi": "Ồ, vậy hả? Tôi không được sinh ra ngày hôm qua, bạn biết đấy."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "07a1347aeee7451389a6d8f35ab47f25",
+        "word": "yesterday",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˈjestədeɪ/",
+            "us": "/ˈjestərdeɪ/"
+        },
+        "nearby": [
+            {
+                "word": "yessir",
+                "pos": "exclamation"
+            },
+            {
+                "word": "yesterday",
+                "pos": "adverb"
+            },
+            {
+                "word": "yesterday",
+                "pos": "noun"
+            },
+            {
+                "word": "yesterday",
+                "pos": "adjective"
+            },
+            {
+                "word": "yesteryear",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the day before today",
+                    "vi": "ngày trước ngày hôm nay"
+                },
+                "examples": [
+                    {
+                        "en": "Yesterday was Sunday.",
+                        "vi": "Hôm qua là Chủ nhật."
+                    },
+                    {
+                        "en": "What happened at yesterday's meeting?",
+                        "vi": "Điều gì đã xảy ra tại cuộc họp ngày hôm qua?"
+                    },
+                    {
+                        "en": "The events of yesterday were clearly still troubling her.",
+                        "vi": "Những sự việc của ngày hôm qua rõ ràng vẫn đang làm cô khó chịu."
+                    },
+                    {
+                        "en": "She died in the early hours of yesterday.",
+                        "vi": "Cô ấy đã chết vào đầu giờ ngày hôm qua."
+                    },
+                    {
+                        "en": "He threatened to resign from the coalition if no agreement was reached by yesterday.",
+                        "vi": "Ông đe dọa sẽ từ chức khỏi liên minh nếu không đạt được thỏa thuận nào vào ngày hôm qua."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the recent past",
+                    "vi": "quá khứ gần đây"
+                },
+                "examples": [
+                    {
+                        "en": "Yesterday's students are today's employees.",
+                        "vi": "Học sinh của ngày hôm qua là những người đi làm của ngày hôm nay."
+                    },
+                    {
+                        "en": "All her yesterdays had vanished without a trace.",
+                        "vi": "Tất cả những ngày qua của cô đã biến mất không dấu vết."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "759a0ede82b942eea2dc04373147325e",
+        "word": "weekday",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈwiːkdeɪ/",
+            "us": "/ˈwiːkdeɪ/"
+        },
+        "nearby": [
+            {
+                "word": "Weejuns",
+                "pos": "noun"
+            },
+            {
+                "word": "week",
+                "pos": "noun"
+            },
+            {
+                "word": "weekday",
+                "pos": "noun"
+            },
+            {
+                "word": "weekdays",
+                "pos": "adverb"
+            },
+            {
+                "word": "weekend",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "any day except Saturday and Sunday",
+                    "vi": "bất kỳ ngày nào trừ thứ bảy và chủ nhật"
+                },
+                "examples": [
+                    {
+                        "en": "The centre is open from 9 a.m. to 6 p.m. on weekdays.",
+                        "vi": "Trung tâm mở cửa từ 9h đến 18h các ngày trong tuần."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1e2d583941044c779ebd1de1c8ee09e9",
+        "word": "weekdays",
+        "pos": "adverb",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈwiːkdeɪz/",
+            "us": "/ˈwiːkdeɪz/"
+        },
+        "nearby": [
+            {
+                "word": "week",
+                "pos": "noun"
+            },
+            {
+                "word": "weekday",
+                "pos": "noun"
+            },
+            {
+                "word": "weekdays",
+                "pos": "adverb"
+            },
+            {
+                "word": "weekend",
+                "pos": "noun"
+            },
+            {
+                "word": "weekend",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "on all days except Saturday and Sunday",
+                    "vi": "vào tất cả các ngày trừ thứ bảy và chủ nhật"
+                },
+                "examples": [
+                    {
+                        "en": "open weekdays from 9 a.m. to 6 p.m.",
+                        "vi": "mở cửa các ngày trong tuần từ 9 giờ sáng đến 6 giờ chiều"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "23d6a77c19a5470286803600ba2e8980",
+        "word": "bank holiday",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌbæŋk ˈhɒlədeɪ/",
+            "us": "/ˌbæŋk ˈhɑːlədeɪ/"
+        },
+        "nearby": [
+            {
+                "word": "banker",
+                "pos": "noun"
+            },
+            {
+                "word": "banker's order",
+                "pos": "noun"
+            },
+            {
+                "word": "bank holiday",
+                "pos": "noun"
+            },
+            {
+                "word": "banking",
+                "pos": "noun"
+            },
+            {
+                "word": "bank machine",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a public holiday, for example Christmas Day, New Year’s Day, etc.",
+                    "vi": "một ngày lễ, ví dụ như Ngày lễ Giáng sinh, Ngày đầu năm mới, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "Bank Holiday Monday",
+                        "vi": "Ngày lễ Ngân hàng Thứ Hai"
+                    },
+                    {
+                        "en": "a bank holiday weekend (= a weekend followed by a Monday which is a holiday)",
+                        "vi": "một ngày nghỉ cuối tuần của ngân hàng (= một ngày cuối tuần tiếp theo là Thứ Hai là ngày nghỉ)"
+                    },
+                    {
+                        "en": "The annual Durrow Carnival takes place over the August bank holiday weekend.",
+                        "vi": "Lễ hội Durrow Carnival hàng năm diễn ra vào cuối tuần lễ ngân hàng tháng 8."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "fb829726aa8b4624a62c912292e1ef24",
+        "word": "diurnal",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/daɪˈɜːnl/",
+            "us": "/daɪˈɜːrnl/"
+        },
+        "nearby": [
+            {
+                "word": "diuretic",
+                "pos": "noun"
+            },
+            {
+                "word": "diuretic",
+                "pos": "adjective"
+            },
+            {
+                "word": "diurnal",
+                "pos": "adjective"
+            },
+            {
+                "word": "Div.",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "diva",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "active during the day",
+                    "vi": "hoạt động trong ngày"
+                },
+                "examples": [
+                    {
+                        "en": "Unlike most other bats, this species is diurnal.",
+                        "vi": "Không giống như hầu hết các loài dơi khác, loài này sống hàng ngày."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "taking one day",
+                    "vi": "mất một ngày"
+                },
+                "examples": [
+                    {
+                        "en": "the diurnal rotation of the earth",
+                        "vi": "sự quay ngày của trái đất"
+                    }
+                ]
+            }
+        ]
+    }
+]

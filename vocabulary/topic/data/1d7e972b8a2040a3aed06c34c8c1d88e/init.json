@@ -1,0 +1,2717 @@
+[
+    {
+        "id": "8cb2ee2712b3451082d77730bfaebf5d",
+        "word": "friendly",
+        "pos": "adjective",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˈfrendli/",
+            "us": "/ˈfrendli/"
+        },
+        "nearby": [
+            {
+                "word": "friendless",
+                "pos": "adjective"
+            },
+            {
+                "word": "friendliness",
+                "pos": "noun"
+            },
+            {
+                "word": "friendly",
+                "pos": "adjective"
+            },
+            {
+                "word": "friendly",
+                "pos": "noun"
+            },
+            {
+                "word": "friendly fire",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "behaving in a kind and pleasant way because you like somebody or want to help them",
+                    "vi": "cư xử một cách tử tế và dễ chịu vì bạn thích ai đó hoặc muốn giúp đỡ họ"
+                },
+                "examples": [
+                    {
+                        "en": "a warm and friendly person",
+                        "vi": "một người ấm áp và thân thiện"
+                    },
+                    {
+                        "en": "The bar is great and the staff are friendly.",
+                        "vi": "Quầy bar là tuyệt vời và nhân viên thân thiện."
+                    },
+                    {
+                        "en": "friendly towards(s) somebody Everyone was very friendly towards me.",
+                        "vi": "thân thiện với (những) ai đó Mọi người đều rất thân thiện với tôi."
+                    },
+                    {
+                        "en": "friendly to somebody I'm sure that the people are friendlier to strangers in Romania.",
+                        "vi": "thân thiện với ai đó Tôi chắc chắn rằng mọi người thân thiện hơn với những người lạ ở Romania."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "showing that somebody is kind; making you feel relaxed and as though you are among friends",
+                    "vi": "cho thấy ai đó tốt bụng; làm cho bạn cảm thấy thư giãn và như thể bạn đang ở giữa những người bạn"
+                },
+                "examples": [
+                    {
+                        "en": "a friendly smile/welcome",
+                        "vi": "một nụ cười thân thiện / chào mừng"
+                    },
+                    {
+                        "en": "a friendly gesture/greeting",
+                        "vi": "một cử chỉ / lời chào thân thiện"
+                    },
+                    {
+                        "en": "a small hotel with a friendly atmosphere",
+                        "vi": "một khách sạn nhỏ với bầu không khí thân thiện"
+                    },
+                    {
+                        "en": "Instantly I felt at home with her big smile and friendly face.",
+                        "vi": "Ngay lập tức tôi cảm thấy như đang ở nhà với nụ cười tươi và khuôn mặt thân thiện của cô ấy."
+                    },
+                    {
+                        "en": "This is a very friendly neighbourhood.",
+                        "vi": "Đây là một khu phố rất thân thiện."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "treating somebody as a friend",
+                    "vi": "coi ai đó như một người bạn"
+                },
+                "examples": [
+                    {
+                        "en": "friendly with somebody We soon became friendly with the couple next door.",
+                        "vi": "thân thiện với ai đó Chúng tôi nhanh chóng trở nên thân thiện với cặp vợ chồng bên cạnh."
+                    },
+                    {
+                        "en": "She was on friendly terms with most of the hospital staff.",
+                        "vi": "Cô ấy có quan hệ thân thiện với hầu hết các nhân viên của bệnh viện."
+                    },
+                    {
+                        "en": "We were not on the friendliest of terms (= we were not friendly at all).",
+                        "vi": "Chúng tôi đã không theo các điều khoản thân thiện nhất (= chúng tôi không thân thiện chút nào)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "not treating somebody/something as an enemy",
+                    "vi": "không coi ai đó / cái gì đó là kẻ thù"
+                },
+                "examples": [
+                    {
+                        "en": "The government has maintained friendly relations with the Japanese.",
+                        "vi": "Chính phủ đã duy trì quan hệ hữu nghị với người Nhật."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "that is helpful and easy to use; that helps somebody/something or does not harm it",
+                    "vi": "điều đó hữu ích và dễ sử dụng; giúp ai đó / cái gì đó hoặc không gây hại cho nó"
+                },
+                "examples": [
+                    {
+                        "en": "This software is much friendlier than the previous version.",
+                        "vi": "Phần mềm này thân thiện hơn nhiều so với phiên bản trước."
+                    },
+                    {
+                        "en": "child-friendly policies",
+                        "vi": "chính sách thân thiện với trẻ em"
+                    },
+                    {
+                        "en": "Without a doubt, friendly bacteria are essential for good health.",
+                        "vi": "Không nghi ngờ gì nữa, vi khuẩn thân thiện là điều cần thiết cho sức khỏe tốt."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "in which people are not arguing or competing in a serious or unpleasant way",
+                    "vi": "trong đó mọi người không tranh cãi hoặc cạnh tranh một cách nghiêm túc hoặc khó chịu"
+                },
+                "examples": [
+                    {
+                        "en": "a friendly argument",
+                        "vi": "một cuộc tranh luận thân thiện"
+                    },
+                    {
+                        "en": "friendly rivalry",
+                        "vi": "sự cạnh tranh thân thiện"
+                    },
+                    {
+                        "en": "The tournament always sparks some friendly banter about who is the best nation.",
+                        "vi": "Giải đấu luôn khơi dậy một số trò đùa thân thiện về việc ai là quốc gia xuất sắc nhất."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "not part of an important competition",
+                    "vi": "không phải là một phần của một cuộc thi quan trọng"
+                },
+                "examples": [
+                    {
+                        "en": "It was only a friendly match.",
+                        "vi": "Đó chỉ là một trận giao hữu."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3442243b504e4444a489d66e306ec0eb",
+        "word": "get on",
+        "pos": "phrasal verb",
+        "level": "b1",
+        "phonetic": {
+            "uk": "",
+            "us": ""
+        },
+        "nearby": [
+            {
+                "word": "get off on",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "get off with",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "get on",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "get on to",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "get on with",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "used to talk or ask about how well somebody is doing in a particular situation",
+                    "vi": "được sử dụng để nói chuyện hoặc hỏi về việc ai đó đang làm tốt như thế nào trong một tình huống cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "He's getting on very well at school.",
+                        "vi": "Anh ấy học rất tốt ở trường."
+                    },
+                    {
+                        "en": "How did you get on at the interview?",
+                        "vi": "Bạn đã tham gia buổi phỏng vấn như thế nào?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be successful in your career, etc.",
+                    "vi": "để thành công trong sự nghiệp của bạn, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "Parents are always anxious for their children to get on.",
+                        "vi": "Cha mẹ luôn lo lắng cho con cái của họ để lên."
+                    },
+                    {
+                        "en": "I don't know how he's going to get on in life.",
+                        "vi": "Tôi không biết anh ấy sẽ tiếp tục cuộc sống như thế nào."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to manage or survive",
+                    "vi": "để quản lý hoặc tồn tại"
+                },
+                "examples": [
+                    {
+                        "en": "We can get on perfectly well without her.",
+                        "vi": "Chúng tôi có thể tiếp tục hoàn toàn tốt mà không có cô ấy."
+                    },
+                    {
+                        "en": "I just can't get along without a secretary.",
+                        "vi": "Tôi chỉ không thể hòa nhập nếu không có thư ký."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to have a friendly relationship with somebody",
+                    "vi": "có một mối quan hệ thân thiện với ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "She's never really got on with her sister.",
+                        "vi": "Cô ấy chưa bao giờ thực sự có quan hệ với chị gái của mình."
+                    },
+                    {
+                        "en": "She and her sister have never really got on.",
+                        "vi": "Cô ấy và em gái của cô ấy chưa bao giờ thực sự dính vào nhau."
+                    },
+                    {
+                        "en": "We get along just fine together.",
+                        "vi": "Chúng tôi rất hòa thuận với nhau."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "92eac8a342304c5fb774f21eb213c7af",
+        "word": "get on with",
+        "pos": "phrasal verb",
+        "level": "b1",
+        "phonetic": {
+            "uk": "",
+            "us": ""
+        },
+        "nearby": [
+            {
+                "word": "get on",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "get on to",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "get on with",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "get out",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "get-out",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to have a friendly relationship with somebody",
+                    "vi": "có một mối quan hệ thân thiện với ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "She's never really got on with her sister.",
+                        "vi": "Cô ấy chưa bao giờ thực sự có quan hệ với chị gái của mình."
+                    },
+                    {
+                        "en": "She and her sister have never really got on.",
+                        "vi": "Cô ấy và em gái của cô ấy chưa bao giờ thực sự dính vào nhau."
+                    },
+                    {
+                        "en": "We get along just fine together.",
+                        "vi": "Chúng tôi rất hòa thuận với nhau."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to talk or ask about how well somebody is doing a task",
+                    "vi": "được sử dụng để nói hoặc hỏi về việc ai đó đang thực hiện một nhiệm vụ tốt như thế nào"
+                },
+                "examples": [
+                    {
+                        "en": "I'm not getting on very fast with this job.",
+                        "vi": "Tôi bắt đầu không nhanh với công việc này."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to continue doing something, especially after you have been interrupted",
+                    "vi": "để tiếp tục làm điều gì đó, đặc biệt là sau khi bạn bị gián đoạn"
+                },
+                "examples": [
+                    {
+                        "en": "Be quiet and get on with your work.",
+                        "vi": "Hãy im lặng và tiếp tục công việc của bạn."
+                    },
+                    {
+                        "en": "(informal) Get on with it! We haven't got all day.",
+                        "vi": "(không chính thức) Tiếp tục với nó! Chúng tôi không có cả ngày."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2af6e831474646a1ae93faf5cbfcc74b",
+        "word": "outgoing",
+        "pos": "adjective",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˌaʊtˈɡəʊɪŋ/",
+            "us": "/ˌaʊtˈɡəʊɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "outflow",
+                "pos": "noun"
+            },
+            {
+                "word": "outfox",
+                "pos": "verb"
+            },
+            {
+                "word": "outgoing",
+                "pos": "adjective"
+            },
+            {
+                "word": "outgoings",
+                "pos": "noun"
+            },
+            {
+                "word": "out-group",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "liking to meet other people, enjoying their company and being friendly towards them",
+                    "vi": "thích gặp gỡ người khác, thích bầu bạn và thân thiện với họ"
+                },
+                "examples": [
+                    {
+                        "en": "an outgoing personality",
+                        "vi": "một tính cách hướng ngoại"
+                    },
+                    {
+                        "en": "She was always cheerful and outgoing.",
+                        "vi": "Cô ấy luôn vui vẻ và hướng ngoại."
+                    },
+                    {
+                        "en": "I’ve become more confident and outgoing.",
+                        "vi": "Tôi trở nên tự tin hơn và cởi mở hơn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "leaving the position of responsibility mentioned",
+                    "vi": "rời khỏi vị trí trách nhiệm đã đề cập"
+                },
+                "examples": [
+                    {
+                        "en": "the outgoing president/government",
+                        "vi": "tổng thống sắp mãn nhiệm / chính phủ"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "going away from a particular place rather than arriving in it",
+                    "vi": "đi khỏi một nơi cụ thể hơn là đến đó"
+                },
+                "examples": [
+                    {
+                        "en": "This telephone should be used for outgoing calls.",
+                        "vi": "Điện thoại này nên được sử dụng cho các cuộc gọi đi."
+                    },
+                    {
+                        "en": "outgoing flights/passengers",
+                        "vi": "chuyến bay đi / hành khách"
+                    },
+                    {
+                        "en": "the outgoing tide",
+                        "vi": "thủy triều đi ra"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e7cdca41b95f433481b94bf1fae1b4dd",
+        "word": "pleasant",
+        "pos": "adjective",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈpleznt/",
+            "us": "/ˈpleznt/"
+        },
+        "nearby": [
+            {
+                "word": "pleading",
+                "pos": "noun"
+            },
+            {
+                "word": "pleadingly",
+                "pos": "adverb"
+            },
+            {
+                "word": "pleasant",
+                "pos": "adjective"
+            },
+            {
+                "word": "pleasantly",
+                "pos": "adverb"
+            },
+            {
+                "word": "pleasantness",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "fun, attractive, or giving pleasure",
+                    "vi": "vui vẻ, hấp dẫn hoặc mang lại niềm vui"
+                },
+                "examples": [
+                    {
+                        "en": "a pleasant evening/atmosphere/walk",
+                        "vi": "một buổi tối vui vẻ / bầu không khí / đi bộ"
+                    },
+                    {
+                        "en": "a pleasant aroma/smell/scent",
+                        "vi": "một mùi thơm / mùi / mùi hương dễ chịu"
+                    },
+                    {
+                        "en": "What a pleasant surprise!",
+                        "vi": "Thật là một sự bất ngờ thú vị!"
+                    },
+                    {
+                        "en": "to live in pleasant surroundings",
+                        "vi": "được sống trong môi trường dễ chịu"
+                    },
+                    {
+                        "en": "music that is pleasant to the ear",
+                        "vi": "âm nhạc dễ chịu cho tai"
+                    },
+                    {
+                        "en": "a pleasant environment to work in",
+                        "vi": "một môi trường dễ chịu để làm việc"
+                    },
+                    {
+                        "en": "it is pleasant to do something It was pleasant to be alone again.",
+                        "vi": "thật dễ chịu khi được làm điều gì đó Thật dễ chịu khi lại ở một mình."
+                    },
+                    {
+                        "en": "My visit to the dentist’s wasn't a very pleasant experience.",
+                        "vi": "Chuyến thăm của tôi đến nha sĩ không phải là một trải nghiệm thú vị."
+                    },
+                    {
+                        "en": "The trip brought back pleasant childhood memories.",
+                        "vi": "Chuyến đi mang lại những kỷ niệm tuổi thơ êm đềm."
+                    },
+                    {
+                        "en": "a very pleasant family holiday",
+                        "vi": "một kỳ nghỉ gia đình rất vui vẻ"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "friendly and polite",
+                    "vi": "thân thiện và lịch sự"
+                },
+                "examples": [
+                    {
+                        "en": "a pleasant young man",
+                        "vi": "một người đàn ông trẻ dễ chịu"
+                    },
+                    {
+                        "en": "a pleasant smile/voice/manner",
+                        "vi": "một nụ cười / giọng nói / phong thái dễ chịu"
+                    },
+                    {
+                        "en": "pleasant to somebody Please try to be pleasant to our guests.",
+                        "vi": "dễ chịu với ai đó Vui lòng cố gắng làm hài lòng khách của chúng tôi."
+                    },
+                    {
+                        "en": "She was perfectly pleasant, though a little cool.",
+                        "vi": "Cô ấy hoàn toàn dễ chịu, mặc dù hơi mát mẻ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "99d19ceb1bec441c8c5dd538b96f8b57",
+        "word": "sociable",
+        "pos": "adjective",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈsəʊʃəbl/",
+            "us": "/ˈsəʊʃəbl/"
+        },
+        "nearby": [
+            {
+                "word": "soccer mom",
+                "pos": "noun"
+            },
+            {
+                "word": "sociability",
+                "pos": "noun"
+            },
+            {
+                "word": "sociable",
+                "pos": "adjective"
+            },
+            {
+                "word": "sociably",
+                "pos": "adverb"
+            },
+            {
+                "word": "social",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "enjoying spending time with other people",
+                    "vi": "thích dành thời gian với những người khác"
+                },
+                "examples": [
+                    {
+                        "en": "She's a sociable child who'll talk to anyone.",
+                        "vi": "Cô ấy là một đứa trẻ hòa đồng và sẽ nói chuyện với bất cứ ai."
+                    },
+                    {
+                        "en": "I'm not feeling very sociable this evening.",
+                        "vi": "Tôi cảm thấy không được hòa đồng vào buổi tối hôm nay."
+                    },
+                    {
+                        "en": "We had a very sociable weekend (= we did a lot of things with other people).",
+                        "vi": "Chúng tôi đã có một ngày cuối tuần rất hòa đồng (= chúng tôi đã làm rất nhiều điều với những người khác)."
+                    },
+                    {
+                        "en": "The hours are not very sociable in this job (= you have to work early, late, at the weekend, etc.).",
+                        "vi": "Giờ thì không hòa đồng lắm trong công việc này (= bạn phải làm việc sớm, muộn, vào cuối tuần, v.v.)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "21ee0dbd887d4c15925b6e40d6a258ef",
+        "word": "warm",
+        "pos": "adjective",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/wɔːm/",
+            "us": "/wɔːrm/"
+        },
+        "nearby": [
+            {
+                "word": "warlock",
+                "pos": "noun"
+            },
+            {
+                "word": "warlord",
+                "pos": "noun"
+            },
+            {
+                "word": "warm",
+                "pos": "adjective"
+            },
+            {
+                "word": "warm",
+                "pos": "verb"
+            },
+            {
+                "word": "warm",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "at a fairly high temperature in a way that is pleasant, rather than being hot or cold",
+                    "vi": "ở nhiệt độ khá cao theo cách dễ chịu, thay vì nóng hoặc lạnh"
+                },
+                "examples": [
+                    {
+                        "en": "warm weather/temperatures/air",
+                        "vi": "thời tiết ấm áp / nhiệt độ / không khí"
+                    },
+                    {
+                        "en": "Wash the blouse in warm soapy water.",
+                        "vi": "Giặt áo cánh trong nước xà phòng ấm."
+                    },
+                    {
+                        "en": "Tomorrow will be warm and sunny.",
+                        "vi": "Ngày mai trời sẽ nắng ấm."
+                    },
+                    {
+                        "en": "a warm and dry spell",
+                        "vi": "một chính tả ấm áp và khô"
+                    },
+                    {
+                        "en": "Are you warm enough?",
+                        "vi": "Bạn có đủ ấm không?"
+                    },
+                    {
+                        "en": "The children jumped up and down to keep warm.",
+                        "vi": "Các em nhỏ tung tăng nhảy cẫng lên để giữ ấm."
+                    },
+                    {
+                        "en": "I can’t seem to get warm.",
+                        "vi": "Tôi dường như không thể trở nên ấm áp."
+                    },
+                    {
+                        "en": "Wait for the warmer weather before putting the plants in the garden.",
+                        "vi": "Chờ thời tiết ấm hơn trước khi đưa cây ra vườn."
+                    },
+                    {
+                        "en": "a warm climate",
+                        "vi": "khí hậu ấm áp"
+                    },
+                    {
+                        "en": "It's nice and warm in here.",
+                        "vi": "Ở đây thật tuyệt và ấm áp."
+                    },
+                    {
+                        "en": "Heat the bread until it is warm to the touch.",
+                        "vi": "Đun nóng bánh mì cho đến khi sờ vào thấy hơi ấm."
+                    },
+                    {
+                        "en": "The sun felt warm on his skin.",
+                        "vi": "Nắng ấm trên da anh."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "keeping you warm or staying warm in cold weather",
+                    "vi": "giữ ấm cho bạn hoặc giữ ấm trong thời tiết lạnh"
+                },
+                "examples": [
+                    {
+                        "en": "warm clothing/clothes",
+                        "vi": "quần áo ấm / quần áo"
+                    },
+                    {
+                        "en": "a warm pair of socks",
+                        "vi": "một đôi tất ấm áp"
+                    },
+                    {
+                        "en": "This sleeping bag is very warm.",
+                        "vi": "Túi ngủ này rất ấm."
+                    },
+                    {
+                        "en": "I wish I had a warm house to go back to.",
+                        "vi": "Tôi ước mình có một ngôi nhà ấm áp để về."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "showing enthusiasm, friendship or love",
+                    "vi": "thể hiện sự nhiệt tình, tình bạn hoặc tình yêu"
+                },
+                "examples": [
+                    {
+                        "en": "Her smile was warm and friendly.",
+                        "vi": "Nụ cười của cô ấy thật ấm áp và thân thiện."
+                    },
+                    {
+                        "en": "The star received a warm welcome from fans.",
+                        "vi": "Ngôi sao nhận được sự chào đón nồng nhiệt của người hâm mộ."
+                    },
+                    {
+                        "en": "The speaker was given a warm reception.",
+                        "vi": "Diễn giả đã được đón tiếp nồng nhiệt."
+                    },
+                    {
+                        "en": "He felt a warm glow at the memory.",
+                        "vi": "Anh cảm thấy một tia sáng ấm áp trước ký ức."
+                    },
+                    {
+                        "en": "a warm smile/greeting",
+                        "vi": "một nụ cười ấm áp / lời chào"
+                    },
+                    {
+                        "en": "She threw her arms around me in a warm embrace.",
+                        "vi": "Cô ấy vòng tay qua ôm tôi vào lòng ấm áp."
+                    },
+                    {
+                        "en": "Most people get a warm feeling when they see puppies playing together.",
+                        "vi": "Hầu hết mọi người đều có cảm giác ấm áp khi nhìn thấy những chú chó con chơi đùa cùng nhau."
+                    },
+                    {
+                        "en": "Please send her my warmest congratulations.",
+                        "vi": "Xin gửi đến cô ấy lời chúc mừng nồng nhiệt nhất của tôi."
+                    },
+                    {
+                        "en": "Her comments were greeted with warm applause.",
+                        "vi": "Những bình luận của cô đã được chào đón bằng những tràng pháo tay nồng nhiệt."
+                    },
+                    {
+                        "en": "an extremely warm and friendly person",
+                        "vi": "một người vô cùng ấm áp và thân thiện"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "containing red, orange or yellow, which creates a pleasant, comfortable and relaxed feeling or atmosphere",
+                    "vi": "có chứa màu đỏ, cam hoặc vàng, tạo cảm giác hoặc bầu không khí dễ chịu, thoải mái và thư thái"
+                },
+                "examples": [
+                    {
+                        "en": "The room was decorated in warm shades of red and orange.",
+                        "vi": "Căn phòng được trang trí với tông màu đỏ và cam ấm áp."
+                    },
+                    {
+                        "en": "Reds and yellows are warm colours that attract attention.",
+                        "vi": "Màu đỏ và vàng là những màu ấm áp thu hút sự chú ý."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to say that somebody has almost guessed the answer to something or that they have almost found somebody/something that has been hidden",
+                    "vi": "được sử dụng để nói rằng ai đó gần như đã đoán được câu trả lời cho điều gì đó hoặc họ gần như đã tìm thấy ai đó / điều gì đó đã được che giấu"
+                },
+                "examples": [
+                    {
+                        "en": "Keep guessing—you're getting warmer.",
+                        "vi": "Hãy tiếp tục đoán — bạn đang nóng dần lên."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "feelings of love, comfort and support; things that give you these feelings",
+                    "vi": "cảm giác yêu thương, an ủi và hỗ trợ; những thứ mang lại cho bạn những cảm giác này"
+                },
+                "examples": [
+                    {
+                        "en": "The memories fill me with warm fuzzies.",
+                        "vi": "Những ký ức lấp đầy tôi với những lông tơ ấm áp."
+                    },
+                    {
+                        "en": "Being generous may evoke some warm fuzzy feelings for you.",
+                        "vi": "Rộng lượng có thể gợi lên cho bạn một số cảm giác ấm áp mờ nhạt."
+                    },
+                    {
+                        "en": "We had a nice short exchange and were both left with a good warm fuzzy.",
+                        "vi": "Chúng tôi đã có một cuộc trao đổi ngắn tốt đẹp và cả hai đều bị bỏ lại với một sự mờ nhạt tốt đẹp."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2be67bcbe04f44f2865e640d20193264",
+        "word": "welcoming",
+        "pos": "adjective",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈwelkəmɪŋ/",
+            "us": "/ˈwelkəmɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "welcome mat",
+                "pos": "noun"
+            },
+            {
+                "word": "welcome to country",
+                "pos": "noun"
+            },
+            {
+                "word": "welcoming",
+                "pos": "adjective"
+            },
+            {
+                "word": "weld",
+                "pos": "verb"
+            },
+            {
+                "word": "weld",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "friendly towards somebody who is visiting or arriving",
+                    "vi": "thân thiện với ai đó đang đến thăm hoặc đến"
+                },
+                "examples": [
+                    {
+                        "en": "The locals were extremely welcoming.",
+                        "vi": "Người dân địa phương vô cùng chào đón."
+                    },
+                    {
+                        "en": "She gave me a welcoming smile.",
+                        "vi": "Cô ấy nở một nụ cười chào đón tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "attractive and looking comfortable to be in",
+                    "vi": "hấp dẫn và trông thoải mái khi ở trong"
+                },
+                "examples": [
+                    {
+                        "en": "His room was quiet, warm and welcoming.",
+                        "vi": "Căn phòng của anh ấy thật yên tĩnh, ấm áp và thân thiện."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "819dbf495ecd46489a7d604c8b55c727",
+        "word": "easy-going",
+        "pos": "adjective",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˌiːzi ˈɡəʊɪŋ/",
+            "us": "/ˌiːzi ˈɡəʊɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "easy-care",
+                "pos": "adjective"
+            },
+            {
+                "word": "easy chair",
+                "pos": "noun"
+            },
+            {
+                "word": "easy-going",
+                "pos": "adjective"
+            },
+            {
+                "word": "easy listening",
+                "pos": "noun"
+            },
+            {
+                "word": "easy-peasy",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "relaxed and happy to accept things without worrying or getting angry",
+                    "vi": "thoải mái và vui vẻ chấp nhận mọi thứ mà không cần lo lắng hay tức giận"
+                },
+                "examples": [
+                    {
+                        "en": "I wish I had such easy-going parents!",
+                        "vi": "Ước gì mình có bố mẹ dễ tính như vậy!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "909759760dd34758be7852852f2c75c4",
+        "word": "loyal",
+        "pos": "adjective",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈlɔɪəl/",
+            "us": "/ˈlɔɪəl/"
+        },
+        "nearby": [
+            {
+                "word": "low-water mark",
+                "pos": "noun"
+            },
+            {
+                "word": "lox",
+                "pos": "noun"
+            },
+            {
+                "word": "loyal",
+                "pos": "adjective"
+            },
+            {
+                "word": "loyalist",
+                "pos": "noun"
+            },
+            {
+                "word": "loyally",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "remaining constant in your support of somebody/something",
+                    "vi": "vẫn không đổi trong sự hỗ trợ của bạn về ai đó / điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "a loyal friend/supporter",
+                        "vi": "một người bạn / người ủng hộ trung thành"
+                    },
+                    {
+                        "en": "loyal to somebody/something She has always remained loyal to her political principles.",
+                        "vi": "trung thành với ai đó / cái gì đó Cô ấy luôn trung thành với các nguyên tắc chính trị của mình."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "cb4b618ec1f943828434afe3e3e29b65",
+        "word": "talkative",
+        "pos": "adjective",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈtɔːkətɪv/",
+            "us": "/ˈtɔːkətɪv/"
+        },
+        "nearby": [
+            {
+                "word": "talk around",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "talk at",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "talkative",
+                "pos": "adjective"
+            },
+            {
+                "word": "talk back",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "talkback",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "liking to talk a lot",
+                    "vi": "thích nói nhiều"
+                },
+                "examples": [
+                    {
+                        "en": "He's not very talkative, is he?",
+                        "vi": "Anh ấy không nói nhiều, phải không?"
+                    },
+                    {
+                        "en": "She was in a talkative mood.",
+                        "vi": "Cô ấy có tâm trạng nói nhiều."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "21203d8c668b45d48be42139559f0961",
+        "word": "affection",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/əˈfekʃn/",
+            "us": "/əˈfekʃn/"
+        },
+        "nearby": [
+            {
+                "word": "affectedly",
+                "pos": "adverb"
+            },
+            {
+                "word": "affecting",
+                "pos": "adjective"
+            },
+            {
+                "word": "affection",
+                "pos": "noun"
+            },
+            {
+                "word": "affectionate",
+                "pos": "adjective"
+            },
+            {
+                "word": "affectionately",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the feeling of liking or loving somebody/something very much and caring about them",
+                    "vi": "cảm giác thích hoặc yêu ai đó / điều gì đó rất nhiều và quan tâm đến họ"
+                },
+                "examples": [
+                    {
+                        "en": "Children need lots of love and affection.",
+                        "vi": "Trẻ em cần rất nhiều tình yêu và tình cảm."
+                    },
+                    {
+                        "en": "He didn't show his wife any affection.",
+                        "vi": "Anh ấy không hề thể hiện tình cảm với vợ."
+                    },
+                    {
+                        "en": "She was held in deep affection by all her students.",
+                        "vi": "Cô đã được tất cả các học sinh của mình dành cho tình cảm sâu sắc."
+                    },
+                    {
+                        "en": "affection for somebody/something Mr Darcy’s affection for his sister",
+                        "vi": "tình cảm với ai đó / điều gì đó Tình cảm của anh Darcy dành cho em gái của anh ấy"
+                    },
+                    {
+                        "en": "I have a great affection for New York.",
+                        "vi": "Tôi có một tình cảm lớn đối với New York."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person’s feelings of love",
+                    "vi": "cảm xúc của một người về tình yêu"
+                },
+                "examples": [
+                    {
+                        "en": "Anne had two men trying to win her affections.",
+                        "vi": "Anne có hai người đàn ông cố gắng giành lấy tình cảm của cô."
+                    },
+                    {
+                        "en": "The object of her affections was a young man named Paul.",
+                        "vi": "Đối tượng của tình cảm của cô là một người đàn ông trẻ tuổi tên là Paul."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "15cabbbc6dd24735950e26531fdafe8f",
+        "word": "affectionate",
+        "pos": "adjective",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/əˈfekʃənət/",
+            "us": "/əˈfekʃənət/"
+        },
+        "nearby": [
+            {
+                "word": "affecting",
+                "pos": "adjective"
+            },
+            {
+                "word": "affection",
+                "pos": "noun"
+            },
+            {
+                "word": "affectionate",
+                "pos": "adjective"
+            },
+            {
+                "word": "affectionately",
+                "pos": "adverb"
+            },
+            {
+                "word": "affective",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "showing caring feelings and love for somebody",
+                    "vi": "thể hiện tình cảm quan tâm và tình yêu dành cho ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "He is very affectionate towards his children.",
+                        "vi": "Anh ấy rất tình cảm đối với các con của mình."
+                    },
+                    {
+                        "en": "an affectionate kiss",
+                        "vi": "một nụ hôn trìu mến"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "995b425881dd43dead763bcebc119ad9",
+        "word": "chatty",
+        "pos": "adjective",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈtʃæti/",
+            "us": "/ˈtʃæti/"
+        },
+        "nearby": [
+            {
+                "word": "Lady Chatterley",
+                "pos": ""
+            },
+            {
+                "word": "Thomas Chatterton",
+                "pos": ""
+            },
+            {
+                "word": "chatty",
+                "pos": "adjective"
+            },
+            {
+                "word": "chat up",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "chat-up",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "talking a lot in a friendly way",
+                    "vi": "nói nhiều một cách thân thiện"
+                },
+                "examples": [
+                    {
+                        "en": "You're very chatty today, Alice.",
+                        "vi": "Hôm nay bạn rất trò chuyện, Alice."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "having a friendly informal style",
+                    "vi": "có một phong cách thân thiện thân thiện"
+                },
+                "examples": [
+                    {
+                        "en": "a chatty letter",
+                        "vi": "một bức thư nói chuyện phiếm"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "cd1ba94430834adb9ce3d2b1f5c72717",
+        "word": "compassionate",
+        "pos": "adjective",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/kəmˈpæʃənət/",
+            "us": "/kəmˈpæʃənət/"
+        },
+        "nearby": [
+            {
+                "word": "compassion",
+                "pos": "noun"
+            },
+            {
+                "word": "Compassion & Choices",
+                "pos": ""
+            },
+            {
+                "word": "compassionate",
+                "pos": "adjective"
+            },
+            {
+                "word": "compassionate leave",
+                "pos": "noun"
+            },
+            {
+                "word": "compassionately",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "feeling or showing sympathy for people or animals who are suffering",
+                    "vi": "cảm thấy hoặc bày tỏ sự cảm thông đối với những người hoặc động vật đang đau khổ"
+                },
+                "examples": [
+                    {
+                        "en": "Politicians are not usually regarded as warm or compassionate people.",
+                        "vi": "Các chính trị gia thường không được coi là những người ấm áp hoặc giàu lòng nhân ái."
+                    },
+                    {
+                        "en": "He was allowed to go home on compassionate grounds (= because he was suffering).",
+                        "vi": "Anh ấy được phép về nhà với lý do từ bi (= vì anh ấy đang đau khổ)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1fffb3d35e35458cb2a395463313ef82",
+        "word": "easy",
+        "pos": "adjective",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈiːzi/",
+            "us": "/ˈiːzi/"
+        },
+        "nearby": [
+            {
+                "word": "eastwards",
+                "pos": "adverb"
+            },
+            {
+                "word": "east-west",
+                "pos": "adjective"
+            },
+            {
+                "word": "easy",
+                "pos": "adjective"
+            },
+            {
+                "word": "easy",
+                "pos": "adverb"
+            },
+            {
+                "word": "easy-care",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "not difficult; done or obtained without a lot of effort or problems",
+                    "vi": "không khó; thực hiện hoặc đạt được mà không cần nhiều nỗ lực hoặc vấn đề"
+                },
+                "examples": [
+                    {
+                        "en": "an easy way to make bread",
+                        "vi": "một cách dễ dàng để làm bánh mì"
+                    },
+                    {
+                        "en": "Reaching the summit is no easy task.",
+                        "vi": "Lên đến đỉnh không phải là nhiệm vụ dễ dàng."
+                    },
+                    {
+                        "en": "an easy win/victory",
+                        "vi": "một chiến thắng / chiến thắng dễ dàng"
+                    },
+                    {
+                        "en": "It's much easier if you speak the language.",
+                        "vi": "Nó dễ dàng hơn nhiều nếu bạn nói ngôn ngữ."
+                    },
+                    {
+                        "en": "easy to do something It's easy to forget how we lived before the internet.",
+                        "vi": "dễ dàng để làm điều gì đó Thật dễ dàng để quên chúng ta đã sống như thế nào trước khi có internet."
+                    },
+                    {
+                        "en": "The tool is quick and easy to use.",
+                        "vi": "Công cụ này nhanh chóng và dễ sử dụng."
+                    },
+                    {
+                        "en": "Their house isn't the easiest place to get to.",
+                        "vi": "Ngôi nhà của họ không phải là nơi dễ đến nhất."
+                    },
+                    {
+                        "en": "There are no easy answers in cases like this.",
+                        "vi": "Không có câu trả lời dễ dàng trong những trường hợp như thế này."
+                    },
+                    {
+                        "en": "Several schools are within easy reach (= not far away).",
+                        "vi": "Một số trường học nằm trong khoảng cách dễ dàng tiếp cận (= không xa)."
+                    },
+                    {
+                        "en": "easy for somebody (to do something) It's easy for you to criticize.",
+                        "vi": "dễ dàng cho ai đó (làm điều gì đó) Bạn dễ dàng chỉ trích."
+                    },
+                    {
+                        "en": "He didn't make it easy for me to leave.",
+                        "vi": "Anh ấy không dễ dàng để tôi ra đi."
+                    },
+                    {
+                        "en": "It can't be easy for her, on her own with the children.",
+                        "vi": "Điều đó không thể dễ dàng cho cô ấy, cho riêng cô ấy với những đứa trẻ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "comfortable, relaxed and not worried",
+                    "vi": "thoải mái, thư giãn và không lo lắng"
+                },
+                "examples": [
+                    {
+                        "en": "He has not had an easy life.",
+                        "vi": "Anh ấy đã không có một cuộc sống dễ dàng."
+                    },
+                    {
+                        "en": "I don't feel easy about letting the kids go out alone.",
+                        "vi": "Tôi không cảm thấy dễ dàng khi để bọn trẻ ra ngoài một mình."
+                    },
+                    {
+                        "en": "Things are getting easier for us.",
+                        "vi": "Mọi thứ đang trở nên dễ dàng hơn đối với chúng tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "open to attack; not able to defend yourself",
+                    "vi": "mở để tấn công; không thể tự vệ"
+                },
+                "examples": [
+                    {
+                        "en": "She's an easy target for their criticisms.",
+                        "vi": "Cô ấy là mục tiêu dễ dàng cho những lời chỉ trích của họ."
+                    },
+                    {
+                        "en": "The baby fish are easy prey for birds.",
+                        "vi": "Những con cá con là con mồi dễ dàng cho các loài chim."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "pleasant and friendly",
+                    "vi": "dễ chịu và thân thiện"
+                },
+                "examples": [
+                    {
+                        "en": "He had an easy manner.",
+                        "vi": "Anh ấy có một phong thái dễ dàng."
+                    },
+                    {
+                        "en": "His easy charm soon won her over.",
+                        "vi": "Sự quyến rũ dễ dàng của anh đã sớm chinh phục được cô."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "willing to have sex with many different people",
+                    "vi": "sẵn sàng quan hệ tình dục với nhiều người khác nhau"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "very easy or very easily",
+                    "vi": "rất dễ dàng hoặc rất dễ dàng"
+                },
+                "examples": [
+                    {
+                        "en": "The whole procedure is as easy as ABC.",
+                        "vi": "Toàn bộ thủ tục dễ dàng như ABC."
+                    },
+                    {
+                        "en": "Fooling him was as easy as falling off a log.",
+                        "vi": "Lừa anh ta dễ như rơi khúc gỗ vậy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person that you can easily persuade to do something, especially to give you money",
+                    "vi": "một người mà bạn có thể dễ dàng thuyết phục làm điều gì đó, đặc biệt là để đưa tiền cho bạn"
+                },
+                "examples": [
+                    {
+                        "en": "Unfortunately, my father is no easy touch.",
+                        "vi": "Thật không may, cha tôi không phải là người dễ xúc động."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who seems easy to defeat or cheat",
+                    "vi": "một người có vẻ dễ đánh bại hoặc gian lận"
+                },
+                "examples": [
+                    {
+                        "en": "Rogue traders saw elderly people as easy meat for overcharging.",
+                        "vi": "Những người buôn bán bất hợp pháp coi người cao tuổi là loại thịt dễ tiêu thụ quá mức."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "money that you get without having to work very hard for it",
+                    "vi": "tiền mà bạn nhận được mà không cần phải làm việc rất chăm chỉ cho nó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "pleasant to listen to or look at",
+                    "vi": "dễ chịu khi nghe hoặc nhìn"
+                },
+                "examples": [
+                    {
+                        "en": "The room was painted in soft pastels that were easy on the eye.",
+                        "vi": "Căn phòng được sơn bằng màu phấn nhẹ nhàng dễ bắt mắt."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a choice that is thought to be easier because it involves less effort, difficulty, etc.",
+                    "vi": "một sự lựa chọn được cho là dễ dàng hơn vì nó ít tốn công sức, khó khăn, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "They are anxious that the new course should not be seen as an easy option.",
+                        "vi": "Họ lo lắng rằng khóa học mới không nên được coi là một lựa chọn dễ dàng."
+                    },
+                    {
+                        "en": "He decided to take the easy option and give them what they wanted.",
+                        "vi": "Anh quyết định lựa chọn dễ dàng và cung cấp cho họ những gì họ muốn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "informal; relaxed",
+                    "vi": "không chính thức; thư thái"
+                },
+                "examples": [
+                    {
+                        "en": "Life was never going to be so free and easy again.",
+                        "vi": "Cuộc sống sẽ không bao giờ tự do và dễ dàng như vậy nữa."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to not experience difficulties when you are doing something; to make things easy for somebody",
+                    "vi": "để không gặp khó khăn khi bạn đang làm một việc gì đó; để làm mọi thứ dễ dàng cho ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "He was not given an altogether easy ride at the interview.",
+                        "vi": "Anh ấy đã không được cho một chuyến đi hoàn toàn dễ dàng trong cuộc phỏng vấn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to have no difficulties or problems",
+                    "vi": "không gặp khó khăn hay vấn đề gì"
+                },
+                "examples": [
+                    {
+                        "en": "He’s had an easy time of it since he married Lucy.",
+                        "vi": "Anh ấy đã có một khoảng thời gian dễ dàng kể từ khi kết hôn với Lucy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to say that you do not have a strong opinion when somebody has offered you a choice",
+                    "vi": "từng nói rằng bạn không có quan điểm mạnh mẽ khi ai đó đưa ra lựa chọn cho bạn"
+                },
+                "examples": [
+                    {
+                        "en": "‘Do you want to watch this or the news?’ ‘Oh, I'm easy. It's up to you.’",
+                        "vi": "Bạn muốn xem tin tức này hay tin tức?' 'Ồ, tôi dễ dàng. Tuỳ bạn.'"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "willing to have sex with anyone",
+                    "vi": "sẵn sàng quan hệ tình dục với bất kỳ ai"
+                },
+                "examples": [
+                    {
+                        "en": "a woman of easy virtue",
+                        "vi": "một người phụ nữ có đức tính dễ dàng"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "enjoying a comfortable way of life with plenty of money",
+                    "vi": "tận hưởng một cuộc sống thoải mái với nhiều tiền"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to end a difficult situation by choosing the simplest solution even if it is not the best one",
+                    "vi": "để kết thúc một tình huống khó khăn bằng cách chọn giải pháp đơn giản nhất ngay cả khi nó không phải là giải pháp tốt nhất"
+                },
+                "examples": [
+                    {
+                        "en": "He took the easy way out and didn’t go to the meeting.",
+                        "vi": "Anh ấy đã đi ra ngoài một cách dễ dàng và không đi đến cuộc họp."
+                    },
+                    {
+                        "en": "She took the easy way out and paid someone to write the article for her.",
+                        "vi": "Cô ấy đã dễ dàng thoát ra và trả tiền cho một người nào đó để viết bài báo cho cô ấy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "close to something",
+                    "vi": "gần một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "The house is within easy reach of schools and sports facilities.",
+                        "vi": "Nhà nằm gần trường học và khu thể thao."
+                    },
+                    {
+                        "en": "Verona and Padua are both within easy reach for day trips.",
+                        "vi": "Verona và Padua đều nằm trong khoảng cách đi lại dễ dàng cho các chuyến đi trong ngày."
+                    },
+                    {
+                        "en": "a holiday town within reach of Marseilles",
+                        "vi": "một thị trấn nghỉ mát trong tầm tay của Marseilles"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "13929ca28a954ba29c4f02d9c65ecd8f",
+        "word": "faithful",
+        "pos": "adjective",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈfeɪθfl/",
+            "us": "/ˈfeɪθfl/"
+        },
+        "nearby": [
+            {
+                "word": "faith",
+                "pos": "noun"
+            },
+            {
+                "word": "Faith",
+                "pos": ""
+            },
+            {
+                "word": "faithful",
+                "pos": "adjective"
+            },
+            {
+                "word": "faithfully",
+                "pos": "adverb"
+            },
+            {
+                "word": "faithfulness",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "staying with or supporting a particular person, organization or belief",
+                    "vi": "ở với hoặc ủng hộ một cá nhân, tổ chức hoặc tín ngưỡng cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "a faithful servant/friend/dog",
+                        "vi": "một người hầu / người bạn / con chó trung thành"
+                    },
+                    {
+                        "en": "She was rewarded for her 40 years' faithful service with the company.",
+                        "vi": "Cô đã được khen thưởng cho 40 năm trung thành với công ty."
+                    },
+                    {
+                        "en": "I have been a faithful reader of your newspaper for many years.",
+                        "vi": "Tôi đã là một độc giả trung thành của tờ báo của bạn trong nhiều năm."
+                    },
+                    {
+                        "en": "faithful to somebody/something He remained faithful to the ideals of the party.",
+                        "vi": "trung thành với ai đó / cái gì đó Anh ấy vẫn trung thành với lý tưởng của đảng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "people who believe in a religion; strong supporters of a political party who will not change their views",
+                    "vi": "những người tin vào một tôn giáo; những người ủng hộ mạnh mẽ một đảng chính trị sẽ không thay đổi quan điểm của họ"
+                },
+                "examples": [
+                    {
+                        "en": "The president will keep the support of the party faithful.",
+                        "vi": "Tổng thống sẽ giữ sự ủng hộ của các đảng viên trung thành."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "not having a sexual relationship with anyone else",
+                    "vi": "không có quan hệ tình dục với bất kỳ ai khác"
+                },
+                "examples": [
+                    {
+                        "en": "He had remained entirely faithful to his wife.",
+                        "vi": "Anh vẫn hoàn toàn chung thủy với vợ mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "true and accurate; not changing anything",
+                    "vi": "đúng và chính xác; không thay đổi bất cứ điều gì"
+                },
+                "examples": [
+                    {
+                        "en": "a faithful copy/account/description",
+                        "vi": "một bản sao / tài khoản / mô tả trung thực"
+                    },
+                    {
+                        "en": "faithful to something His translation manages to be faithful to the spirit of the original.",
+                        "vi": "trung thành với điều gì đó Bản dịch của ông quản lý để trung thành với tinh thần của bản gốc."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "able to be trusted; that you can rely on",
+                    "vi": "có thể được tin cậy; mà bạn có thể dựa vào"
+                },
+                "examples": [
+                    {
+                        "en": "my faithful old car",
+                        "vi": "chiếc xe cũ trung thành của tôi"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "50e94de5a7844f718ecc3811aff73dbe",
+        "word": "goodwill",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌɡʊdˈwɪl/",
+            "us": "/ˌɡʊdˈwɪl/"
+        },
+        "nearby": [
+            {
+                "word": "good-tempered",
+                "pos": "adjective"
+            },
+            {
+                "word": "good-time",
+                "pos": "adjective"
+            },
+            {
+                "word": "goodwill",
+                "pos": "noun"
+            },
+            {
+                "word": "goodwill ambassador",
+                "pos": "noun"
+            },
+            {
+                "word": "Goodwill Industries",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "friendly or helpful feelings towards other people or countries",
+                    "vi": "cảm giác thân thiện hoặc hữu ích đối với những người hoặc quốc gia khác"
+                },
+                "examples": [
+                    {
+                        "en": "a spirit of goodwill in international relations",
+                        "vi": "tinh thần thiện chí trong quan hệ quốc tế"
+                    },
+                    {
+                        "en": "a goodwill gesture/a gesture of goodwill",
+                        "vi": "một cử chỉ thiện chí / một cử chỉ thiện chí"
+                    },
+                    {
+                        "en": "The President is on a goodwill visit to Japan.",
+                        "vi": "Tổng thống đang có chuyến thăm thiện chí tới Nhật Bản."
+                    },
+                    {
+                        "en": "Given goodwill on both sides, I am sure we can reach an agreement.",
+                        "vi": "Với thiện chí của cả hai bên, tôi chắc chắn rằng chúng tôi có thể đạt được thỏa thuận."
+                    },
+                    {
+                        "en": "Theatres increasingly have to rely on the goodwill of private sponsors to survive.",
+                        "vi": "Các rạp ngày càng phải dựa vào thiện chí của các nhà tài trợ tư nhân để tồn tại."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the good relationship between a business and its customers that is calculated as part of its value when it is sold",
+                    "vi": "mối quan hệ tốt đẹp giữa một doanh nghiệp và khách hàng của nó được tính như một phần giá trị của nó khi nó được bán"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "fee23d2923b249f3b023369b7c88328a",
+        "word": "hospitable",
+        "pos": "adjective",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/hɒˈspɪtəbl/",
+            "us": "/ˈhɑːspɪtəbl/"
+        },
+        "nearby": [
+            {
+                "word": "hospice",
+                "pos": "noun"
+            },
+            {
+                "word": "the hospice movement",
+                "pos": ""
+            },
+            {
+                "word": "hospitable",
+                "pos": "adjective"
+            },
+            {
+                "word": "hospitably",
+                "pos": "adverb"
+            },
+            {
+                "word": "hospital",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "pleased to welcome guests; generous and friendly to visitors",
+                    "vi": "hân hạnh được đón tiếp quý khách; hào phóng và thân thiện với du khách"
+                },
+                "examples": [
+                    {
+                        "en": "The local people are very hospitable to strangers.",
+                        "vi": "Người dân địa phương rất hiếu khách với người lạ."
+                    },
+                    {
+                        "en": "He thanked Patricia for being such a hospitable hostess.",
+                        "vi": "Anh cảm ơn Patricia vì đã trở thành một bà chủ hiếu khách như vậy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "having good conditions that allow things to grow; having a pleasant environment",
+                    "vi": "có điều kiện tốt cho phép mọi thứ phát triển; có một môi trường dễ chịu"
+                },
+                "examples": [
+                    {
+                        "en": "a hospitable climate",
+                        "vi": "khí hậu hiếu khách"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8f2034ab56d44e82b5430c876de5d0fe",
+        "word": "jolly",
+        "pos": "adjective",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈdʒɒli/",
+            "us": "/ˈdʒɑːli/"
+        },
+        "nearby": [
+            {
+                "word": "jollity",
+                "pos": "noun"
+            },
+            {
+                "word": "jollof rice",
+                "pos": "noun"
+            },
+            {
+                "word": "jolly",
+                "pos": "adjective"
+            },
+            {
+                "word": "jolly",
+                "pos": "adverb"
+            },
+            {
+                "word": "jolly",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "happy and cheerful",
+                    "vi": "vui vẻ và vui vẻ"
+                },
+                "examples": [
+                    {
+                        "en": "a jolly crowd/face/mood",
+                        "vi": "một đám đông vui vẻ / khuôn mặt / tâm trạng"
+                    },
+                    {
+                        "en": "He had a round, jolly face.",
+                        "vi": "Anh ta có một khuôn mặt tròn trịa, vui vẻ."
+                    },
+                    {
+                        "en": "The manager was fat and jolly.",
+                        "vi": "Người quản lý béo và vui tính."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "fun",
+                    "vi": "niềm vui"
+                },
+                "examples": [
+                    {
+                        "en": "a jolly evening/party/time",
+                        "vi": "một buổi tối vui vẻ / bữa tiệc / thời gian"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ea2c2bd964654808b96a72d131ffd02b",
+        "word": "loving",
+        "pos": "adjective",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈlʌvɪŋ/",
+            "us": "/ˈlʌvɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "lovey",
+                "pos": "noun"
+            },
+            {
+                "word": "lovey-dovey",
+                "pos": "adjective"
+            },
+            {
+                "word": "loving",
+                "pos": "adjective"
+            },
+            {
+                "word": "loving cup",
+                "pos": "noun"
+            },
+            {
+                "word": "lovingly",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "feeling or showing love and care for somebody/something",
+                    "vi": "cảm thấy hoặc thể hiện tình yêu và sự quan tâm đến ai đó / điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "a warm and loving family",
+                        "vi": "một gia đình ấm áp và yêu thương"
+                    },
+                    {
+                        "en": "She chose the present with loving care.",
+                        "vi": "Cô ấy chọn món quà bằng sự quan tâm yêu thương."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "enjoying the object or activity mentioned",
+                    "vi": "thích đối tượng hoặc hoạt động được đề cập"
+                },
+                "examples": [
+                    {
+                        "en": "fun-loving young people",
+                        "vi": "những người trẻ yêu thích vui vẻ"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "64b988c5ce7f461ca227c54bf2cd704b",
+        "word": "affability",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌæfəˈbɪləti/",
+            "us": "/ˌæfəˈbɪləti/"
+        },
+        "nearby": [
+            {
+                "word": "afara",
+                "pos": "noun"
+            },
+            {
+                "word": "AFC",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "affability",
+                "pos": "noun"
+            },
+            {
+                "word": "affable",
+                "pos": "adjective"
+            },
+            {
+                "word": "affably",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the quality of being pleasant, friendly and easy to talk to",
+                    "vi": "phẩm chất của sự dễ chịu, thân thiện và dễ nói chuyện"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "76457004a80a43588a99ef60935bf243",
+        "word": "affable",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈæfəbl/",
+            "us": "/ˈæfəbl/"
+        },
+        "nearby": [
+            {
+                "word": "AFC",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "affability",
+                "pos": "noun"
+            },
+            {
+                "word": "affable",
+                "pos": "adjective"
+            },
+            {
+                "word": "affably",
+                "pos": "adverb"
+            },
+            {
+                "word": "affair",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "pleasant, friendly and easy to talk to",
+                    "vi": "dễ chịu, thân thiện và dễ nói chuyện"
+                },
+                "examples": [
+                    {
+                        "en": "He greeted everyone in the same relaxed and affable manner.",
+                        "vi": "Anh chào hỏi tất cả mọi người trong cùng một thái độ thoải mái và niềm nở."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2665280143784a02b1a18acee59c40e6",
+        "word": "amiable",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈeɪmiəbl/",
+            "us": "/ˈeɪmiəbl/"
+        },
+        "nearby": [
+            {
+                "word": "Amex",
+                "pos": ""
+            },
+            {
+                "word": "amiability",
+                "pos": "noun"
+            },
+            {
+                "word": "amiable",
+                "pos": "adjective"
+            },
+            {
+                "word": "amiably",
+                "pos": "adverb"
+            },
+            {
+                "word": "amicable",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "pleasant; friendly and easy to like",
+                    "vi": "hài lòng; thân thiện và dễ thích"
+                },
+                "examples": [
+                    {
+                        "en": "an amiable tone of voice",
+                        "vi": "một giọng điệu dễ thương"
+                    },
+                    {
+                        "en": "Her parents seemed very amiable.",
+                        "vi": "Cha mẹ cô ấy có vẻ rất hòa nhã."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "04f0480c868a4b2e9f5840a409bf8078",
+        "word": "amicable",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈæmɪkəbl/",
+            "us": "/ˈæmɪkəbl/"
+        },
+        "nearby": [
+            {
+                "word": "amiable",
+                "pos": "adjective"
+            },
+            {
+                "word": "amiably",
+                "pos": "adverb"
+            },
+            {
+                "word": "amicable",
+                "pos": "adjective"
+            },
+            {
+                "word": "amicably",
+                "pos": "adverb"
+            },
+            {
+                "word": "amid",
+                "pos": "preposition"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "done or achieved in a polite or friendly way and without arguing",
+                    "vi": "hoàn thành hoặc đạt được một cách lịch sự hoặc thân thiện và không tranh cãi"
+                },
+                "examples": [
+                    {
+                        "en": "an amicable relationship",
+                        "vi": "một mối quan hệ thân thiện"
+                    },
+                    {
+                        "en": "An amicable settlement was reached.",
+                        "vi": "Một giải quyết thân thiện đã đạt được."
+                    },
+                    {
+                        "en": "In spite of their disagreement they parted on amicable terms.",
+                        "vi": "Bất chấp sự bất đồng của họ, họ đã chia tay nhau theo những điều kiện thân thiện."
+                    },
+                    {
+                        "en": "It was an amicable divorce.",
+                        "vi": "Đó là một cuộc ly hôn thân thiện."
+                    },
+                    {
+                        "en": "The government and the union managed to reach an amicable settlement of the dispute.",
+                        "vi": "Chính phủ và công đoàn đã cố gắng đạt được một giải quyết hòa bình cho tranh chấp."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "05e0242adcf249019c848b1adf4f4151",
+        "word": "approachable",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/əˈprəʊtʃəbl/",
+            "us": "/əˈprəʊtʃəbl/"
+        },
+        "nearby": [
+            {
+                "word": "approach",
+                "pos": "noun"
+            },
+            {
+                "word": "approach",
+                "pos": "verb"
+            },
+            {
+                "word": "approachable",
+                "pos": "adjective"
+            },
+            {
+                "word": "approbation",
+                "pos": "noun"
+            },
+            {
+                "word": "appropriacy",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "friendly and easy to talk to; easy to understand",
+                    "vi": "thân thiện và dễ nói chuyện; dễ hiểu"
+                },
+                "examples": [
+                    {
+                        "en": "Despite being a big star, she's very approachable.",
+                        "vi": "Mặc dù là một ngôi sao lớn nhưng cô ấy rất dễ gần."
+                    },
+                    {
+                        "en": "an approachable piece of music",
+                        "vi": "một bản nhạc dễ tiếp cận"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "that can be reached by a particular route or from a particular direction",
+                    "vi": "có thể đạt được bằng một tuyến đường cụ thể hoặc từ một hướng cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "The summit was approachable only from the south.",
+                        "vi": "Chỉ có thể tiếp cận được đỉnh núi từ phía nam."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5ab37cfa1ea54a55ad548744a1b535c6",
+        "word": "bubbly",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbʌbli/",
+            "us": "/ˈbʌbli/"
+        },
+        "nearby": [
+            {
+                "word": "bubble with",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "bubble wrap",
+                "pos": "noun"
+            },
+            {
+                "word": "bubbly",
+                "pos": "adjective"
+            },
+            {
+                "word": "bubbly",
+                "pos": "noun"
+            },
+            {
+                "word": "bubo",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "full of bubbles",
+                    "vi": "đầy bong bóng"
+                },
+                "examples": [
+                    {
+                        "en": "I want a nice hot bubbly bath.",
+                        "vi": "Tôi muốn tắm nước nóng đầy bọt."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "always cheerful, friendly and enthusiastic",
+                    "vi": "luôn vui vẻ, thân thiện và nhiệt tình"
+                },
+                "examples": [
+                    {
+                        "en": "Julie’s bright, bubbly personality",
+                        "vi": "Tính cách tươi sáng, sôi nổi của Julie"
+                    },
+                    {
+                        "en": "He’s a really bubbly and outgoing boy who loves acting.",
+                        "vi": "Anh ấy là một chàng trai thực sự sôi nổi và hướng ngoại, yêu thích diễn xuất."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "db668d761ea34ac3b1990bb074894d79",
+        "word": "companionable",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/kəmˈpænjənəbl/",
+            "us": "/kəmˈpænjənəbl/"
+        },
+        "nearby": [
+            {
+                "word": "Companies House",
+                "pos": ""
+            },
+            {
+                "word": "companion",
+                "pos": "noun"
+            },
+            {
+                "word": "companionable",
+                "pos": "adjective"
+            },
+            {
+                "word": "companionably",
+                "pos": "adverb"
+            },
+            {
+                "word": "companion animal",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "friendly",
+                    "vi": "thân thiện"
+                },
+                "examples": [
+                    {
+                        "en": "They walked to the studio together in a companionable silence.",
+                        "vi": "Họ cùng nhau đi đến studio trong sự im lặng dễ hiểu."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "15bbe9fc443e4122a148f5c236e12a00",
+        "word": "courteous",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkɜːtiəs/",
+            "us": "/ˈkɜːrtiəs/"
+        },
+        "nearby": [
+            {
+                "word": "court card",
+                "pos": "noun"
+            },
+            {
+                "word": "court costs",
+                "pos": "noun"
+            },
+            {
+                "word": "courteous",
+                "pos": "adjective"
+            },
+            {
+                "word": "courteously",
+                "pos": "adverb"
+            },
+            {
+                "word": "courtesan",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "polite, especially in a way that shows respect",
+                    "vi": "lịch sự, đặc biệt là theo cách thể hiện sự tôn trọng"
+                },
+                "examples": [
+                    {
+                        "en": "a courteous young man",
+                        "vi": "một thanh niên lịch sự"
+                    },
+                    {
+                        "en": "The hotel staff are friendly and courteous.",
+                        "vi": "Nhân viên khách sạn thân thiện và lịch sự."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7242a12ce22c46c0a39d8eb4173c3b9c",
+        "word": "familiarity",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/fəˌmɪliˈærəti/",
+            "us": "/fəˌmɪliˈærəti/"
+        },
+        "nearby": [
+            {
+                "word": "familial",
+                "pos": "adjective"
+            },
+            {
+                "word": "familiar",
+                "pos": "adjective"
+            },
+            {
+                "word": "familiarity",
+                "pos": "noun"
+            },
+            {
+                "word": "familiarization",
+                "pos": "noun"
+            },
+            {
+                "word": "familiarize",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the state of knowing somebody/something well; the state of recognizing somebody/something",
+                    "vi": "trạng thái biết rõ ai đó / điều gì đó; trạng thái nhận ra ai đó / cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "His familiarity with the language helped him enjoy his stay.",
+                        "vi": "Sự quen thuộc của anh ấy với ngôn ngữ đã giúp anh ấy tận hưởng kỳ nghỉ của mình."
+                    },
+                    {
+                        "en": "When she saw the house, she had a feeling of familiarity.",
+                        "vi": "Khi nhìn thấy ngôi nhà, cô có cảm giác thân quen."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a friendly informal manner",
+                    "vi": "một cách thân thiện thân thiện"
+                },
+                "examples": [
+                    {
+                        "en": "She addressed me with an easy familiarity that made me feel at home.",
+                        "vi": "Cô ấy nói chuyện với tôi bằng một cách dễ hiểu khiến tôi cảm thấy như đang ở nhà."
+                    },
+                    {
+                        "en": "He treated her with the easy familiarity of an equal.",
+                        "vi": "Anh ấy đối xử với cô ấy bằng sự thân thuộc dễ dàng của một người bình đẳng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "knowing somebody/something very well may cause you to lose respect for them/it",
+                    "vi": "biết rất rõ ai đó / điều gì đó có thể khiến bạn mất đi sự tôn trọng đối với họ / điều đó"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "db90b6e2b8ab42ba84e5fb3f1c568ca1",
+        "word": "genial",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈdʒiːniəl/",
+            "us": "/ˈdʒiːniəl/"
+        },
+        "nearby": [
+            {
+                "word": "Geneva Convention",
+                "pos": "noun"
+            },
+            {
+                "word": "Genghis Khan",
+                "pos": "noun"
+            },
+            {
+                "word": "genial",
+                "pos": "adjective"
+            },
+            {
+                "word": "geniality",
+                "pos": "noun"
+            },
+            {
+                "word": "genially",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "friendly and cheerful",
+                    "vi": "thân thiện và vui vẻ"
+                },
+                "examples": [
+                    {
+                        "en": "a genial person",
+                        "vi": "một người thuộc giới tính"
+                    },
+                    {
+                        "en": "He was a sweet old gentleman with white hair and a genial smile.",
+                        "vi": "Ông ta là một ông già ngọt ngào với mái tóc bạc trắng và nụ cười mê hoặc lòng người."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5247d3d1d8964ce8bebaaf33a2241969",
+        "word": "gregarious",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ɡrɪˈɡeəriəs/",
+            "us": "/ɡrɪˈɡeriəs/"
+        },
+        "nearby": [
+            {
+                "word": "greetings card",
+                "pos": "noun"
+            },
+            {
+                "word": "Greg",
+                "pos": ""
+            },
+            {
+                "word": "gregarious",
+                "pos": "adjective"
+            },
+            {
+                "word": "gregariously",
+                "pos": "adverb"
+            },
+            {
+                "word": "gregariousness",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "liking to be with other people",
+                    "vi": "thích ở với người khác"
+                },
+                "examples": [
+                    {
+                        "en": "She’s very outgoing and gregarious.",
+                        "vi": "Cô ấy rất hướng ngoại và hòa đồng."
+                    },
+                    {
+                        "en": "Hugh was a popular and gregarious man.",
+                        "vi": "Hugh là một người đàn ông bình dân và thích giao du."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "living in groups",
+                    "vi": "sống trong các nhóm"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "1f344b7943a644c282b613207dfb68d9",
+        "word": "jovial",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈdʒəʊviəl/",
+            "us": "/ˈdʒəʊviəl/"
+        },
+        "nearby": [
+            {
+                "word": "joust",
+                "pos": "verb"
+            },
+            {
+                "word": "Jove",
+                "pos": "noun"
+            },
+            {
+                "word": "jovial",
+                "pos": "adjective"
+            },
+            {
+                "word": "joviality",
+                "pos": "noun"
+            },
+            {
+                "word": "jovially",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "very cheerful and friendly",
+                    "vi": "rất vui vẻ và thân thiện"
+                },
+                "examples": [
+                    {
+                        "en": "He was in a jovial mood.",
+                        "vi": "Anh ấy đang ở trong một tâm trạng vui vẻ."
+                    },
+                    {
+                        "en": "He addressed Molly in his usual jovial manner.",
+                        "vi": "Anh ta nói chuyện với Molly theo cách vui vẻ thường ngày của mình."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "56c5da1a6bbb4fc9acac0601d1935f1a",
+        "word": "magnetism",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈmæɡnətɪzəm/",
+            "us": "/ˈmæɡnətɪzəm/"
+        },
+        "nearby": [
+            {
+                "word": "magnetic strip",
+                "pos": "noun"
+            },
+            {
+                "word": "magnetic tape",
+                "pos": "noun"
+            },
+            {
+                "word": "magnetism",
+                "pos": "noun"
+            },
+            {
+                "word": "magnetize",
+                "pos": "verb"
+            },
+            {
+                "word": "magneto",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a physical property (= characteristic) of some metals such as iron, produced by electric currents, that causes forces between objects, either pulling them towards each other or pushing them apart",
+                    "vi": "một tính chất vật lý (= đặc trưng) của một số kim loại như sắt, được tạo ra bởi dòng điện, gây ra lực giữa các vật, kéo chúng về phía nhau hoặc đẩy chúng ra xa nhau"
+                },
+                "examples": [
+                    {
+                        "en": "The magnetism produced by the battery attracts the metal.",
+                        "vi": "Từ tính do pin tạo ra sẽ hút kim loại."
+                    },
+                    {
+                        "en": "changes in the earth's magnetism",
+                        "vi": "thay đổi từ tính của trái đất"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the qualities of something, especially a person’s character, that people find powerful and attractive",
+                    "vi": "phẩm chất của một cái gì đó, đặc biệt là tính cách của một người, mà mọi người thấy mạnh mẽ và hấp dẫn"
+                },
+                "examples": [
+                    {
+                        "en": "She exudes sexual magnetism.",
+                        "vi": "Cô ấy toát ra từ tính tình dục."
+                    },
+                    {
+                        "en": "His personal magnetism drew people to the church.",
+                        "vi": "Từ tính cá nhân của anh ấy đã thu hút mọi người đến nhà thờ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "37a9dcaf710a4cfaa6cf106eebba71a9",
+        "word": "well disposed",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌwel dɪˈspəʊzd/",
+            "us": "/ˌwel dɪˈspəʊzd/"
+        },
+        "nearby": [
+            {
+                "word": "well defined",
+                "pos": "adjective"
+            },
+            {
+                "word": "well developed",
+                "pos": "adjective"
+            },
+            {
+                "word": "well disposed",
+                "pos": "adjective"
+            },
+            {
+                "word": "well documented",
+                "pos": "adjective"
+            },
+            {
+                "word": "well done",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "having friendly feelings towards somebody or a positive attitude towards something",
+                    "vi": "có tình cảm thân thiện với ai đó hoặc thái độ tích cực đối với điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "It’s a country that is well disposed to the West.",
+                        "vi": "Đó là một đất nước được định hướng tốt cho phương Tây."
+                    }
+                ]
+            }
+        ]
+    }
+]

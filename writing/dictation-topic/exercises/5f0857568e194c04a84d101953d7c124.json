@@ -1,0 +1,338 @@
+{
+    "id": "5f0857568e194c04a84d101953d7c124",
+    "title": "Sport",
+    "questions": [
+        {
+            "id": "6ef918f6e0ba45a2adb125ab701cf8e5",
+            "text": "What sport do you like?",
+            "items": [
+                "What",
+                "sport",
+                "do",
+                "you",
+                "like?"
+            ]
+        },
+        {
+            "id": "cccac49e1a0149de8cffc3fb0c7e02e0",
+            "text": "I like playing badminton.",
+            "items": [
+                "I",
+                "like",
+                "playing",
+                "badminton."
+            ]
+        },
+        {
+            "id": "d16f75a5c0594ec885fcc141d0026f20",
+            "text": "Is it easy to play that sport?",
+            "items": [
+                "Is",
+                "it",
+                "easy",
+                "to",
+                "play",
+                "that",
+                "sport?"
+            ]
+        },
+        {
+            "id": "3807e038001c473fb9fc97f317689bf5",
+            "text": "Yes, it's pretty easy to play.",
+            "items": [
+                "Yes,",
+                "it's",
+                "pretty",
+                "easy",
+                "to",
+                "play."
+            ]
+        },
+        {
+            "id": "9f66eda368f64773962f0c3fd8057785",
+            "text": "Is that sport popular in your country?",
+            "items": [
+                "Is",
+                "that",
+                "sport",
+                "popular",
+                "in",
+                "your",
+                "country?"
+            ]
+        },
+        {
+            "id": "22bf6416489d4ab9b80071535f7fe604",
+            "text": "Yes, it is.",
+            "items": [
+                "Yes,",
+                "it",
+                "is."
+            ]
+        },
+        {
+            "id": "956ac1da8057479c8d5d1f7d40890c4d",
+            "text": "How long have you been practicing that sport?",
+            "items": [
+                "How",
+                "long",
+                "have",
+                "you",
+                "been",
+                [
+                    "practicing",
+                    "practising"
+                ],
+                "that",
+                "sport?"
+            ]
+        },
+        {
+            "id": "e187f77f36444281a0768ff1e4f69aac",
+            "text": "I have been practicing it for 5 years.",
+            "items": [
+                "I",
+                "have",
+                "been",
+                [
+                    "practicing",
+                    "practising"
+                ],
+                "it",
+                "for",
+                [
+                    "5",
+                    "five"
+                ],
+                "years."
+            ]
+        },
+        {
+            "id": "92655744e4c24b0db095e84d8c14089a",
+            "text": "Who do you play sports with?",
+            "items": [
+                "Who",
+                "do",
+                "you",
+                "play",
+                "sports",
+                "with?"
+            ]
+        },
+        {
+            "id": "972958cdbc154fe1a6f8b004d0ad7f2c",
+            "text": "I play badminton with my friends, sometimes with my brother.",
+            "items": [
+                "I",
+                "play",
+                "badminton",
+                "with",
+                "my",
+                "friends,",
+                "sometimes",
+                "with",
+                "my",
+                "brother."
+            ]
+        },
+        {
+            "id": "d1cc0f9e3fc849c6bb98907b3bc8d3c3",
+            "text": "How often do you play that sport?",
+            "items": [
+                "How",
+                "often",
+                "do",
+                "you",
+                "play",
+                "that",
+                "sport?"
+            ]
+        },
+        {
+            "id": "cdc11bfb86684485a035e661f9848adc",
+            "text": "I play badminton every weekend.",
+            "items": [
+                "I",
+                "play",
+                "badminton",
+                "every",
+                "weekend."
+            ]
+        },
+        {
+            "id": "a8c7efa9245d4b1a8fba46d0af19da94",
+            "text": "What benefits can you get from that sport?",
+            "items": [
+                "What",
+                "benefits",
+                "can",
+                "you",
+                "get",
+                "from",
+                "that",
+                "sport?"
+            ]
+        },
+        {
+            "id": "12e1965d4832417c81fbf45917e94ec8",
+            "text": "It helps strengthen my muscles",
+            "items": [
+                "It",
+                "helps",
+                "strengthen",
+                "my",
+                "muscles"
+            ]
+        },
+        {
+            "id": "a62f2b4021d6403d9ebdfaa1fd255ec7",
+            "text": "because while playing, I have to move continuously.",
+            "items": [
+                "because",
+                "while",
+                "playing,",
+                "I",
+                "have",
+                "to",
+                "move",
+                "continuously."
+            ]
+        },
+        {
+            "id": "35397ce399004e91b154fa0033d5aa94",
+            "text": "It is good to burn calories as well.",
+            "items": [
+                "It",
+                "is",
+                "good",
+                "to",
+                "burn",
+                "calories",
+                "as",
+                "well."
+            ]
+        },
+        {
+            "id": "dfd897e3fcf54e05936c92d83981f21d",
+            "text": "Do you like watching football? Online or offline?",
+            "items": [
+                "Do",
+                "you",
+                "like",
+                "watching",
+                "football?",
+                "Online",
+                "or",
+                "offline?"
+            ]
+        },
+        {
+            "id": "3e64b740fb324b7aa04ac27492390678",
+            "text": "Yes, I do. I prefer watching football offline and online.",
+            "items": [
+                "Yes,",
+                "I",
+                "do.",
+                "I",
+                "prefer",
+                "watching",
+                "football",
+                "offline",
+                "and",
+                "online."
+            ]
+        },
+        {
+            "id": "54016120a47741f4bfc995538ea9f1ce",
+            "text": "Going to the stadium, shouting and cheering are good to release stress.",
+            "items": [
+                "Going",
+                "to",
+                "the",
+                "stadium,",
+                "shouting",
+                "and",
+                "cheering",
+                "are",
+                "good",
+                "to",
+                "release",
+                "stress."
+            ]
+        },
+        {
+            "id": "5a2e724e55ef4af8ab80f58436eb8339",
+            "text": "What is your favorite football team?",
+            "items": [
+                "What",
+                "is",
+                "your",
+                [
+                    "favorite",
+                    "favourite"
+                ],
+                "football",
+                "team?"
+            ]
+        },
+        {
+            "id": "e59b5608b3064c43a0540b1f123bc991",
+            "text": "I like the Manchester United Football Club, also known as \"The Red Devils\".",
+            "items": [
+                "I",
+                "like",
+                "the",
+                "Manchester",
+                "United",
+                "Football",
+                "Club,",
+                "also",
+                "known",
+                "as",
+                "\"The",
+                "Red",
+                "Devils\"."
+            ]
+        },
+        {
+            "id": "9b0c06cd994b4f46994a0a5b8f57a073",
+            "text": "Why is sport important?",
+            "items": [
+                "Why",
+                "is",
+                "sport",
+                "important?"
+            ]
+        },
+        {
+            "id": "d80544307dec4b0b813b056e21f247f6",
+            "text": "Sports are sources of recreation.",
+            "items": [
+                "Sports",
+                "are",
+                "sources",
+                "of",
+                "recreation."
+            ]
+        },
+        {
+            "id": "58f68514dbe64e37b057559d97e0e6be",
+            "text": "People can learn how to encourage team spirit when they play sports, too.",
+            "items": [
+                "People",
+                "can",
+                "learn",
+                "how",
+                "to",
+                "encourage",
+                "team",
+                "spirit",
+                "when",
+                "they",
+                "play",
+                "sports,",
+                "too."
+            ]
+        }
+    ]
+}

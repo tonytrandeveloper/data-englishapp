@@ -1,0 +1,217 @@
+{
+    "id": "f1a6e7d01fed486b8fb3955568178545",
+    "title": "Travelling by Air",
+    "questions": [
+        {
+            "id": "6951b46bb11041dbacd6ee5fcb27c5e1",
+            "text": "Do I check in here for Air Canada to Mexico?",
+            "items": [
+                "Do",
+                "I",
+                "check",
+                "in",
+                "here",
+                "for",
+                "Air",
+                "Canada",
+                "to",
+                "Mexico?"
+            ]
+        },
+        {
+            "id": "ee001b43bdcc496fa3a28ffc1b2a93fc",
+            "text": "You already have your ticket?",
+            "items": [
+                "You",
+                "already",
+                "have",
+                "your",
+                "ticket?"
+            ]
+        },
+        {
+            "id": "9838859fcab649b795218a3c678b561a",
+            "text": "Yes. Here you are.",
+            "items": [
+                "Yes.",
+                "Here",
+                "you",
+                "are."
+            ]
+        },
+        {
+            "id": "b0b8136a307c471cbae7b77723da2d35",
+            "text": "Thank you. Can you put your luggage up here, please?",
+            "items": [
+                "Thank",
+                "you.",
+                "Can",
+                "you",
+                "put",
+                "your",
+                "luggage",
+                "up",
+                "here,",
+                "please?"
+            ]
+        },
+        {
+            "id": "ad9e8d146242462aa9b8b5d82b504b1f",
+            "text": "Sure, I have three suitcases.",
+            "items": [
+                "Sure,",
+                "I",
+                "have",
+                [
+                    "three",
+                    "3"
+                ],
+                "suitcases."
+            ]
+        },
+        {
+            "id": "d7c01fbb677044c6b5e9ecccc430bc25",
+            "text": "We allow only two pieces. You'll have to pay an extra charge.",
+            "items": [
+                "We",
+                "allow",
+                "only",
+                [
+                    "two",
+                    "II",
+                    "2"
+                ],
+                "pieces.",
+                "You'll",
+                "have",
+                "to",
+                "pay",
+                "an",
+                "extra",
+                "charge."
+            ]
+        },
+        {
+            "id": "1aad54608afc41e2b208bc9b4310719c",
+            "text": "Oh! Can I carry this one with me?",
+            "items": [
+                "Oh!",
+                "Can",
+                "I",
+                "carry",
+                "this",
+                [
+                    "one",
+                    "i,",
+                    "1"
+                ],
+                "with",
+                "me?"
+            ]
+        },
+        {
+            "id": "ebf87fa325964532b123702952b4ea36",
+            "text": "No, I'm sorry. It won't fit under your seat.",
+            "items": [
+                "No,",
+                "I'm",
+                "sorry.",
+                "It",
+                "won't",
+                "fit",
+                "under",
+                "your",
+                "seat."
+            ]
+        },
+        {
+            "id": "b2af2b63d2ce466b808584a6dcae7758",
+            "text": "That's $45.",
+            "items": [
+                "That's",
+                [
+                    "$45.",
+                    "45 dollars",
+                    "forty-five dollars"
+                ]
+            ]
+        },
+        {
+            "id": "4e2e833a97884008bd611e7800b5b7fe",
+            "text": "Here you are.",
+            "items": [
+                "Here",
+                "you",
+                "are."
+            ]
+        },
+        {
+            "id": "0e93f7bd8d9d400fbb945eb4fb8af212",
+            "text": "Thank you. You can choose your seat.",
+            "items": [
+                "Thank",
+                "you.",
+                "You",
+                "can",
+                "choose",
+                "your",
+                "seat."
+            ]
+        },
+        {
+            "id": "24fd528ed94b4ff4acef8d1faf363b54",
+            "text": "A window seat or aisle seat?",
+            "items": [
+                "A",
+                "window",
+                "seat",
+                "or",
+                "aisle",
+                "seat?"
+            ]
+        },
+        {
+            "id": "638df0bc17f84921962149a8a01e307d",
+            "text": "I'd like a window seat, please.",
+            "items": [
+                "I'd",
+                "like",
+                "a",
+                "window",
+                "seat,",
+                "please."
+            ]
+        },
+        {
+            "id": "7d9bb5b4b5c146b5abb2bcefacef7e6e",
+            "text": "Fine. Seat 15A.",
+            "items": [
+                "Fine.",
+                "Seat",
+                "15A."
+            ]
+        },
+        {
+            "id": "28e75d976fcd45d58d3d840c8be87f38",
+            "text": "Here's your ticket and your boarding pass.",
+            "items": [
+                "Here's",
+                "your",
+                "ticket",
+                "and",
+                "your",
+                "boarding",
+                "pass."
+            ]
+        },
+        {
+            "id": "c6efb6b18b324c5bba64aba4f82952b8",
+            "text": "Enjoy your flight!",
+            "items": [
+                "Enjoy",
+                "your",
+                "flight!"
+            ]
+        }
+    ]
+}

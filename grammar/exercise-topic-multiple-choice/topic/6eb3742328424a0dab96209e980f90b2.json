@@ -1,0 +1,125 @@
+{
+    "id": "6eb3742328424a0dab96209e980f90b2",
+    "title": "Easily confused words",
+    "exercises": [
+        {
+            "id": "afdcedbff2384a02bad38ba00ac0601b",
+            "title": "Easily Confused Words",
+            "questions": [
+                {
+                    "question": "Cold weather ............................... my health.",
+                    "description": "Affect is the verb. Effect is the noun.",
+                    "answers": [
+                        "affected",
+                        "effected"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "I ..................................... her on her good looks.",
+                    "description": "To compliment is to praise. ",
+                    "answers": [
+                        "complimented",
+                        "complemented"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "The salad perfectly ......................................... the main course.",
+                    "description": "To complement is to complete.",
+                    "answers": [
+                        "complimented",
+                        "complemented"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "She is not very ..................................... so don't share your secrets with her.",
+                    "description": "Discreet means careful and prudent. ",
+                    "answers": [
+                        "discreet",
+                        "discrete",
+                        "discreat"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "He is an ........................................ scientist.",
+                    "description": "Eminent means accomplished. ",
+                    "answers": [
+                        "eminent",
+                        "imminent"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "War is .........................................",
+                    "description": "If something is imminent it is about to happen.",
+                    "answers": [
+                        "eminent",
+                        "imminent"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "All credit cards are .......................................... here.",
+                    "description": "",
+                    "answers": [
+                        "expected",
+                        "accepted",
+                        "excepted"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "The councilor was accused of ..................................... the funds.",
+                    "description": "To misuse is to use something in the wrong way.",
+                    "answers": [
+                        "disusing",
+                        "abusing",
+                        "misusing"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "The exhibition was held in a ..................................... warehouse.",
+                    "description": "Disused means no longer being used.",
+                    "answers": [
+                        "misused",
+                        "disused",
+                        "abused"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "The book is so boring that it is .....................................",
+                    "description": "",
+                    "answers": [
+                        "illegible",
+                        "unreadable"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "The prices of essential commodities ......................................... sharply.",
+                    "description": "Raise is transitive. That means it must have an expressed object. ",
+                    "answers": [
+                        "have risen",
+                        "have raised"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "The long journey was …………………………………...",
+                    "description": "Exhausting means tiring. ",
+                    "answers": [
+                        "exhausting",
+                        "exhaustive",
+                        "exhausted"
+                    ],
+                    "correct": 0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "id": "63627608cb7546058a1553ec26e98671",
+    "title": "Simple, Compound Or Complex Sentence",
+    "exercises": [
+        {
+            "id": "04640b035b8b4f3aae8c9029a43db2c5",
+            "title": "Simple, Complex Or Compound Sentence",
+            "questions": [
+                {
+                    "question": "We met rather few people who spoke English.",
+                    "description": "The given sentence has a main clause and a subordinate adjective clause.",
+                    "answers": [
+                        "Simple sentence",
+                        "Complex sentence",
+                        "Compound sentence"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "I have been on rather too many planes and trains recently.",
+                    "description": "The given sentence has only one finite verb and hence it has only one clause.",
+                    "answers": [
+                        "Simple sentence",
+                        "Complex sentence",
+                        "Compound sentence"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "We drove right up to Helsinki in two days.",
+                    "description": "The given sentence has only one finite verb and hence it has only one clause.",
+                    "answers": [
+                        "Simple sentence",
+                        "Complex sentence",
+                        "Compound sentence"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "I don’t care how expensive it is.",
+                    "description": "The given sentence has a main clause and a subordinate noun clause which acts as the object of the verb ‘don’t care’.",
+                    "answers": [
+                        "Simple sentence",
+                        "Complex sentence",
+                        "Compound sentence"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Two minutes ago the child was fast asleep, but now he is wide awake.",
+                    "description": "The given sentence has two coordinate clauses connected by the conjunction but.",
+                    "answers": [
+                        "Simple sentence",
+                        "Complex sentence",
+                        "Compound sentence"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "He is not tall enough to be a soldier.",
+                    "description": "The given sentence has only one finite verb and hence it has only one clause.",
+                    "answers": [
+                        "Simple sentence",
+                        "Complex sentence",
+                        "Compound sentence"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "I guess she just doesn’t respect you.",
+                    "description": "The given sentence has a main clause and a subordinate noun clause which acts as the object of the verb ‘guess’.",
+                    "answers": [
+                        "Simple sentence",
+                        "Complex sentence",
+                        "Compound sentence"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "I have got four sisters and each of them is quite different from the others.",
+                    "description": "The given sentence has two coordinate clauses connected by the conjunction and.",
+                    "answers": [
+                        "Simple sentence",
+                        "Complex sentence",
+                        "Compound sentence"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "You can either come with me now or walk home.",
+                    "description": "The given sentence has two coordinate clauses connected by the conjunction either…or.",
+                    "answers": [
+                        "Simple sentence",
+                        "Complex sentence",
+                        "Compound sentence"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "He will never leave home because he hasn’t got the courage to.",
+                    "description": "The given sentence has a main clause and a subordinate adverb clause.",
+                    "answers": [
+                        "Simple sentence",
+                        "Complex sentence",
+                        "Compound sentence"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "When all else fails, read the user manual.",
+                    "description": "The given sentence has a main clause and a subordinate adverb clause.",
+                    "answers": [
+                        "Simple sentence",
+                        "Complex sentence",
+                        "Compound sentence"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "It was Sam who paid for the drinks.",
+                    "description": "The given sentence has a main clause and a subordinate adjective clause.",
+                    "answers": [
+                        "Simple sentence",
+                        "Complex sentence",
+                        "Compound sentence"
+                    ],
+                    "correct": 1
+                }
+            ]
+        }
+    ]
+}

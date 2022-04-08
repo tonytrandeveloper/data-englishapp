@@ -1,0 +1,150 @@
+{
+    "id": "9a1172d96a10425fb86769e6ea0156b4",
+    "title": "A Car Loan",
+    "questions": [
+        {
+            "id": "53eda651b7554157b8fc189fdb258c68",
+            "text": "I want to go to the bank this afternoon.",
+            "items": [
+                "I",
+                "want",
+                "to",
+                "go",
+                "to",
+                "the",
+                "bank",
+                "this",
+                "afternoon."
+            ]
+        },
+        {
+            "id": "c42f3d810a304bc68691c857b65dded5",
+            "text": "I'll drive you there.",
+            "items": [
+                "I'll",
+                "drive",
+                "you",
+                "there."
+            ]
+        },
+        {
+            "id": "d081b22432964f3cb510b6f06cf1fbdc",
+            "text": "Thanks. I'm going to apply for a loan.",
+            "items": [
+                "Thanks.",
+                "I'm",
+                "going",
+                "to",
+                "apply",
+                "for",
+                "a",
+                "loan."
+            ]
+        },
+        {
+            "id": "43cf6eb02cfe4a2ab43af5f1918d963d",
+            "text": "Why do you need a loan?",
+            "items": [
+                "Why",
+                "do",
+                "you",
+                "need",
+                "a",
+                "loan?"
+            ]
+        },
+        {
+            "id": "7de847c1d9c5445f987e0aec642e4417",
+            "text": "I have to buy a new car.",
+            "items": [
+                "I",
+                "have",
+                "to",
+                "buy",
+                "a",
+                "new",
+                "car."
+            ]
+        },
+        {
+            "id": "a20f662fc2fb4aeb8e4b2d252ed2282a",
+            "text": "What's wrong with your car?",
+            "items": [
+                "What's",
+                "wrong",
+                "with",
+                "your",
+                "car?"
+            ]
+        },
+        {
+            "id": "a10de1f93257453ab650affbdd7bda1f",
+            "text": "It won't start, and it's ten years old.",
+            "items": [
+                "It",
+                "won't",
+                "start,",
+                "and",
+                "it's",
+                [
+                    "ten",
+                    "10"
+                ],
+                "years",
+                "old."
+            ]
+        },
+        {
+            "id": "41587c6ece684cc2a999dc3590edae5e",
+            "text": "How much will a new car cost?",
+            "items": [
+                "How",
+                "much",
+                "will",
+                "a",
+                "new",
+                "car",
+                "cost?"
+            ]
+        },
+        {
+            "id": "5d95ba23bb354da1839140ac1219fc71",
+            "text": "About $15,000.",
+            "items": [
+                "About",
+                [
+                    "$15,000.",
+                    "15,000 dollars",
+                    "15 thousand dollars",
+                    "fifteen thousand dollars"
+                ]
+            ]
+        },
+        {
+            "id": "968832a60a6a4461b6874c3e22507034",
+            "text": "Wow! That's a lot of money.",
+            "items": [
+                "Wow!",
+                "That's",
+                "a",
+                "lot",
+                "of",
+                "money."
+            ]
+        },
+        {
+            "id": "dfdffbff0b0a411c98a6868cf42be6fe",
+            "text": "I know. That's why I need a loan.",
+            "items": [
+                "I",
+                "know.",
+                "That's",
+                "why",
+                "I",
+                "need",
+                "a",
+                "loan."
+            ]
+        }
+    ]
+}

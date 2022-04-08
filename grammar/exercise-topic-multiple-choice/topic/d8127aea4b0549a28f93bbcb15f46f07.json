@@ -1,0 +1,106 @@
+{
+    "id": "d8127aea4b0549a28f93bbcb15f46f07",
+    "title": "Rewrite sentences as directed",
+    "exercises": [
+        {
+            "id": "2b2adae3c6e24362a222baec7ad08e83",
+            "title": "Fill In The Blanks",
+            "questions": [
+                {
+                    "question": "The tea was .................................. hot for me to drink.",
+                    "description": "",
+                    "answers": [
+                        "so",
+                        "too"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "He is ................................... arrogant that he will not listen to advice.",
+                    "description": "",
+                    "answers": [
+                        "so",
+                        "too"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "He worked hard ...................................... the examination.",
+                    "description": "",
+                    "answers": [
+                        "passing",
+                        "to pass"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "He is .................................... stupid that he cannot handle such a situation.",
+                    "description": "",
+                    "answers": [
+                        "so",
+                        "very",
+                        "too"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "John is taller ................................... any other boy in the class.",
+                    "description": "",
+                    "answers": [
+                        "than",
+                        "then"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "..................................... trying, I could not do it.",
+                    "description": "",
+                    "answers": [
+                        "However",
+                        "Despite",
+                        "Although"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "............................... I heard the gunshot I rushed to the spot.",
+                    "description": "",
+                    "answers": [
+                        "As soon as",
+                        "No sooner"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "No sooner had I solved one problem ................................... another cropped up.",
+                    "description": "",
+                    "answers": [
+                        "than",
+                        "when",
+                        "before"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "................................... trained graduates need to apply.",
+                    "description": "",
+                    "answers": [
+                        "None",
+                        "None other than",
+                        "None but"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "................................... you do not work hard, you will fail.",
+                    "description": "",
+                    "answers": [
+                        "If",
+                        "Unless"
+                    ],
+                    "correct": 0
+                }
+            ]
+        }
+    ]
+}

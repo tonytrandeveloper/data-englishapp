@@ -1,0 +1,1091 @@
+{
+    "id": "6b8140a624cb4696a03240b332a38909",
+    "title": "House cleaning service",
+    "questions": [
+        {
+            "id": "48ff86601e0346a089c10ff19f116f5c",
+            "text": "Good morning. City House Services. How may I help you?",
+            "items": [
+                "Good",
+                "morning.",
+                "City",
+                "House",
+                "Services.",
+                "How",
+                "may",
+                "I",
+                "help",
+                "you?"
+            ]
+        },
+        {
+            "id": "c86b04abf1374c529ff50d9b0cac11eb",
+            "text": "Good morning. I'd like to arrange to have my house cleaned.",
+            "items": [
+                "Good",
+                "morning.",
+                "I'd",
+                "like",
+                "to",
+                "arrange",
+                "to",
+                "have",
+                "my",
+                "house",
+                "cleaned."
+            ]
+        },
+        {
+            "id": "a91a5e02ae9d4b7680ce2cf0eb598d31",
+            "text": "Certainly. I just need to ask a few questions.",
+            "items": [
+                "Certainly.",
+                "I",
+                "just",
+                "need",
+                "to",
+                "ask",
+                "a",
+                "few",
+                "questions."
+            ]
+        },
+        {
+            "id": "47a61bd207584664bc02a184f02ace0e",
+            "text": "First, could I take your name?",
+            "items": [
+                "First,",
+                "could",
+                "I",
+                "take",
+                "your",
+                "name?"
+            ]
+        },
+        {
+            "id": "f8ca6ea38f74415aaa1d2654847acc64",
+            "text": "Yes, it's Barbara Hill.",
+            "items": [
+                "Yes,",
+                "it's",
+                "Barbara",
+                "Hill."
+            ]
+        },
+        {
+            "id": "d7766e5da2dc4a5499862e72d0e139c3",
+            "text": "Thank you. Next, is your house in London?",
+            "items": [
+                "Thank",
+                "you.",
+                "Next,",
+                "is",
+                "your",
+                "house",
+                "in",
+                "London?"
+            ]
+        },
+        {
+            "id": "1b1d6a315b2747008bca367e9f391b93",
+            "text": "Yes, it's in Kingston in Southwest London.",
+            "items": [
+                "Yes,",
+                "it's",
+                "in",
+                "Kingston",
+                "in",
+                "Southwest",
+                "London."
+            ]
+        },
+        {
+            "id": "94dc79cabc6444dcbdf397e3ccb5f0e7",
+            "text": "OK, Southwest London and... er, what's the postcode?",
+            "items": [
+                "OK,",
+                "Southwest",
+                "London",
+                "and...",
+                "er,",
+                "what's",
+                "the",
+                "postcode?"
+            ]
+        },
+        {
+            "id": "9e8e6a30854148c09acad28832cf5b0d",
+            "text": "SW105.",
+            "items": [
+                "SW105."
+            ]
+        },
+        {
+            "id": "eb2f4b1adb5e41198b0d72ac8be82db2",
+            "text": "And what is the square footage and what rooms will we be cleaning?",
+            "items": [
+                "And",
+                "what",
+                "is",
+                "the",
+                "square",
+                "footage",
+                "and",
+                "what",
+                "rooms",
+                "will",
+                "we",
+                "be",
+                "cleaning?"
+            ]
+        },
+        {
+            "id": "7b5d7eabb470471da73f48ccf3767c8f",
+            "text": "The whole house is 268 square feet,",
+            "items": [
+                "The",
+                "whole",
+                "house",
+                "is",
+                "268",
+                "square",
+                "feet,"
+            ]
+        },
+        {
+            "id": "048b95eab62247d1bbc4c2dffa35c383",
+            "text": "and there is no need to clean all the rooms.",
+            "items": [
+                "and",
+                "there",
+                "is",
+                "no",
+                "need",
+                "to",
+                "clean",
+                "all",
+                "the",
+                "rooms."
+            ]
+        },
+        {
+            "id": "5bc3a8e22afd44bbac2e65453e839812",
+            "text": "I only want to have my bedrooms cleaned.",
+            "items": [
+                "I",
+                "only",
+                "want",
+                "to",
+                "have",
+                "my",
+                "bedrooms",
+                "cleaned."
+            ]
+        },
+        {
+            "id": "3b4349570a1343ada87b2d26cc44cb65",
+            "text": "OK, how many bedrooms does the house have?",
+            "items": [
+                "OK,",
+                "how",
+                "many",
+                "bedrooms",
+                "does",
+                "the",
+                "house",
+                "have?"
+            ]
+        },
+        {
+            "id": "c8a72645aded4c0f9f58728848a25a49",
+            "text": "3 bedrooms.",
+            "items": [
+                [
+                    "3",
+                    "Three"
+                ],
+                "bedrooms."
+            ]
+        },
+        {
+            "id": "87644803bca5456ea7b3993b73dd2347",
+            "text": "Oh no, sorry, we used to have 3 bedrooms, but we only have 2 bedrooms now.",
+            "items": [
+                "Oh",
+                "no,",
+                "sorry,",
+                "we",
+                "used",
+                "to",
+                "have",
+                [
+                    "3",
+                    "three"
+                ],
+                "bedrooms,",
+                "but",
+                "we",
+                "only",
+                "have",
+                [
+                    "2",
+                    "two"
+                ],
+                "bedrooms",
+                "now."
+            ]
+        },
+        {
+            "id": "59cd9b0bbc1e44149a3b310eb27365ad",
+            "text": "Are those single bedrooms or doubles?",
+            "items": [
+                "Are",
+                "those",
+                "single",
+                "bedrooms",
+                "or",
+                "doubles?"
+            ]
+        },
+        {
+            "id": "f771c507baa94022946ff3a0caa47faa",
+            "text": "Doubles.",
+            "items": [
+                "Doubles."
+            ]
+        },
+        {
+            "id": "64afcd176aaa4726863a3c131bc64350",
+            "text": "Fine, 2 doubles...",
+            "items": [
+                "Fine,",
+                [
+                    "2",
+                    "two"
+                ],
+                "doubles..."
+            ]
+        },
+        {
+            "id": "d395f4ab8d684c6683af4f1eeec97a8a",
+            "text": "There's one more room which needs cleaning.",
+            "items": [
+                "There's",
+                [
+                    "one",
+                    "1"
+                ],
+                "more",
+                "room",
+                "which",
+                "needs",
+                "cleaning."
+            ]
+        },
+        {
+            "id": "2e1d1b258ec74d75b37fea828788c0cf",
+            "text": "It was used as a bedroom before, and now we have converted it into an office.",
+            "items": [
+                "It",
+                "was",
+                "used",
+                "as",
+                "a",
+                "bedroom",
+                "before,",
+                "and",
+                "now",
+                "we",
+                "have",
+                "converted",
+                "it",
+                "into",
+                "an",
+                "office."
+            ]
+        },
+        {
+            "id": "f204ebe3a5894362987c9fc338e70ddc",
+            "text": "I understand.",
+            "items": [
+                "I",
+                "understand."
+            ]
+        },
+        {
+            "id": "f86c3b66eeda4fef815cb37df4b4b187",
+            "text": "3 rooms have got to be cleaned, and are all of those rooms upstairs?",
+            "items": [
+                [
+                    "3",
+                    "Three"
+                ],
+                "rooms",
+                "have",
+                "got",
+                "to",
+                "be",
+                "cleaned,",
+                "and",
+                "are",
+                "all",
+                "of",
+                "those",
+                "rooms",
+                "upstairs?"
+            ]
+        },
+        {
+            "id": "f66e0632d0d34ec5854f9c6905768876",
+            "text": "Yes. Then, downstairs we have a kitchen-diner, conservatory, and lounge.",
+            "items": [
+                "Yes.",
+                "Then,",
+                "downstairs",
+                "we",
+                "have",
+                "a",
+                [
+                    "kitchen-diner,",
+                    "kitchen diner,"
+                ],
+                "conservatory,",
+                "and",
+                "lounge."
+            ]
+        },
+        {
+            "id": "02b2e4c70bba4543bd825ccb093e5a13",
+            "text": "The kitchen-diner is quite large and has the usual equipment:",
+            "items": [
+                "The",
+                [
+                    "kitchen-diner",
+                    "kitchen diner"
+                ],
+                "is",
+                "quite",
+                "large",
+                "and",
+                "has",
+                "the",
+                "usual",
+                "equipment:"
+            ]
+        },
+        {
+            "id": "ca48b30da48d4554874cd24d7327adcc",
+            "text": "cooker with oven, refrigerator, cupboards, and worktops.",
+            "items": [
+                "cooker",
+                "with",
+                "oven,",
+                "refrigerator,",
+                "cupboards,",
+                "and",
+                "worktops."
+            ]
+        },
+        {
+            "id": "b3352683ce494731b3f62e71eb505552",
+            "text": "The conservatory has a lot of plants, but there's no need to take care of them.",
+            "items": [
+                "The",
+                "conservatory",
+                "has",
+                "a",
+                "lot",
+                "of",
+                "plants,",
+                "but",
+                "there's",
+                "no",
+                "need",
+                "to",
+                "take",
+                "care",
+                "of",
+                "them."
+            ]
+        },
+        {
+            "id": "f2d81cedb03e4d6a819efabdb6b95c7b",
+            "text": "The lounge has a leather three-piece suite and a large coffee table.",
+            "items": [
+                "The",
+                "lounge",
+                "has",
+                "a",
+                "leather",
+                [
+                    "three-piece",
+                    "3-piece",
+                    "three piece",
+                    "3-piece"
+                ],
+                "suite",
+                "and",
+                "a",
+                "large",
+                "coffee",
+                "table."
+            ]
+        },
+        {
+            "id": "aaf6dcca32364ee3ba21e23fe93dc075",
+            "text": "Thank you. And do you keep any pets?",
+            "items": [
+                "Thank",
+                "you.",
+                "And",
+                "do",
+                "you",
+                "keep",
+                "any",
+                "pets?"
+            ]
+        },
+        {
+            "id": "b5d4efc13cfc4d35925b3d21784a1740",
+            "text": "Yeah, I really love keeping them.",
+            "items": [
+                "Yeah,",
+                "I",
+                "really",
+                "love",
+                "keeping",
+                "them."
+            ]
+        },
+        {
+            "id": "31a79d94cb10418cb5be42a34945e869",
+            "text": "I've got 2 dogs and 3 cats.",
+            "items": [
+                "I've",
+                "got",
+                [
+                    "2",
+                    "two"
+                ],
+                "dogs",
+                "and",
+                [
+                    "3",
+                    "three"
+                ],
+                "cats."
+            ]
+        },
+        {
+            "id": "182e5af5bc744466a7a624d0e99b9875",
+            "text": "OK, then if our staff come over to offer the service, please take your pets away.",
+            "items": [
+                "OK,",
+                "then",
+                "if",
+                "our",
+                "staff",
+                "come",
+                "over",
+                "to",
+                "offer",
+                "the",
+                "service,",
+                "please",
+                "take",
+                "your",
+                "pets",
+                "away."
+            ]
+        },
+        {
+            "id": "40d1e5d9af054309ae56fbda9787fb1b",
+            "text": "Have you looked at our service packages?",
+            "items": [
+                "Have",
+                "you",
+                "looked",
+                "at",
+                "our",
+                "service",
+                "packages?"
+            ]
+        },
+        {
+            "id": "128525674ae541d499e515133d29df18",
+            "text": "Yes, I have one in front of me.",
+            "items": [
+                "Yes,",
+                "I",
+                "have",
+                "one",
+                "in",
+                "front",
+                "of",
+                "me."
+            ]
+        },
+        {
+            "id": "0d1930084a8a45e5bac496bb7b3f9be6",
+            "text": "Excellent.",
+            "items": [
+                "Excellent."
+            ]
+        },
+        {
+            "id": "ee61b7da7ca84435ba82bc0179c16230",
+            "text": "Any extra services you need,",
+            "items": [
+                "Any",
+                "extra",
+                "services",
+                "you",
+                "need,"
+            ]
+        },
+        {
+            "id": "f58cb7d984924a7abab5c0a3d14505a4",
+            "text": "switching bed linen, working in the garden, cleaning the glass in the conservatory, that kind of thing?",
+            "items": [
+                "switching",
+                "bed",
+                "linen,",
+                "working",
+                "in",
+                "the",
+                "garden,",
+                "cleaning",
+                "the",
+                "glass",
+                "in",
+                "the",
+                "conservatory,",
+                "that",
+                "kind",
+                "of",
+                "thing?"
+            ]
+        },
+        {
+            "id": "04d0d575a70a44f190a248f58f9f03c8",
+            "text": "Err... no... err...",
+            "items": [
+                "Err...",
+                "no...",
+                "err..."
+            ]
+        },
+        {
+            "id": "1864662867464a4ebfd78352feadb104",
+            "text": "actually, replacing the bed linen...",
+            "items": [
+                "actually,",
+                "replacing",
+                "the",
+                "bed",
+                "linen..."
+            ]
+        },
+        {
+            "id": "475325da785c4c8d95e2f8a9b403e308",
+            "text": "yeah.. that would be good.",
+            "items": [
+                "yeah..",
+                "that",
+                "would",
+                "be",
+                "good."
+            ]
+        },
+        {
+            "id": "60c2b260aadb4b83a5347a960dee38b1",
+            "text": "No problem. I'll just make a note of that.",
+            "items": [
+                "No",
+                "problem.",
+                "I'll",
+                "just",
+                "make",
+                "a",
+                "note",
+                "of",
+                "that."
+            ]
+        },
+        {
+            "id": "38ab40cb9a354d7ca05bbc4c62030e8b",
+            "text": "How about curtains, mats, and carpets?",
+            "items": [
+                "How",
+                "about",
+                "curtains,",
+                "mats,",
+                "and",
+                "carpets?"
+            ]
+        },
+        {
+            "id": "12f94b85d6db4fc3b2deb13d0fc29239",
+            "text": "What would you like us to do with those items?",
+            "items": [
+                "What",
+                "would",
+                "you",
+                "like",
+                "us",
+                "to",
+                "do",
+                "with",
+                "those",
+                "items?"
+            ]
+        },
+        {
+            "id": "be36c63fe73d4a788837441025c7214d",
+            "text": "The curtains... I'll have to think about that.",
+            "items": [
+                "The",
+                "curtains...",
+                "I'll",
+                "have",
+                "to",
+                "think",
+                "about",
+                "that."
+            ]
+        },
+        {
+            "id": "7235cbd455fb4353b648d7ee50bb0437",
+            "text": "I think we should have the carpets cleaned really well every quarter.",
+            "items": [
+                "I",
+                "think",
+                "we",
+                "should",
+                "have",
+                "the",
+                "carpets",
+                "cleaned",
+                "really",
+                "well",
+                "every",
+                "quarter."
+            ]
+        },
+        {
+            "id": "a246202417734b4d9461fe938dd0d6ba",
+            "text": "Mats can just be done with the laundry.",
+            "items": [
+                "Mats",
+                "can",
+                "just",
+                "be",
+                "done",
+                "with",
+                "the",
+                "laundry."
+            ]
+        },
+        {
+            "id": "a01cc0a65b264c389b69198d5c8726ee",
+            "text": "Of course.",
+            "items": [
+                "Of",
+                "course."
+            ]
+        },
+        {
+            "id": "fd1aa416da064a53b1c1d35fc7e6e9fa",
+            "text": "How about clothes?",
+            "items": [
+                "How",
+                "about",
+                "clothes?"
+            ]
+        },
+        {
+            "id": "b34677f51532413fb9416e1be8073daa",
+            "text": "We can have our staff wash and iron them,",
+            "items": [
+                "We",
+                "can",
+                "have",
+                "our",
+                "staff",
+                "wash",
+                "and",
+                "iron",
+                "them,"
+            ]
+        },
+        {
+            "id": "25f105251c5f4082b18d26e70c325f93",
+            "text": "or we can have them taken to a dry cleaner's.",
+            "items": [
+                "or",
+                "we",
+                "can",
+                "have",
+                "them",
+                "taken",
+                "to",
+                "a",
+                "dry",
+                "cleaner's."
+            ]
+        },
+        {
+            "id": "4d2226004cd5440a9cd806f7eb961716",
+            "text": "Washing and ironing. No, just ironing. That'll be OK.",
+            "items": [
+                "Washing",
+                "and",
+                "ironing.",
+                "No,",
+                "just",
+                "ironing.",
+                [
+                    "That'll",
+                    "That will"
+                ],
+                "be",
+                "OK."
+            ]
+        },
+        {
+            "id": "6ce5bc37cafd4060959805859bd9b534",
+            "text": "OK, fine. I know quite a bit about what you want now.",
+            "items": [
+                "OK,",
+                "fine.",
+                "I",
+                "know",
+                "quite",
+                "a",
+                "bit",
+                "about",
+                "what",
+                "you",
+                "want",
+                "now."
+            ]
+        },
+        {
+            "id": "8cbbc8ab7ba64e7283dfcc1e49dd7254",
+            "text": "I should let you know that we are located on 12 Amyes Road,",
+            "items": [
+                "I",
+                "should",
+                "let",
+                "you",
+                "know",
+                "that",
+                "we",
+                "are",
+                "located",
+                "on",
+                "12",
+                "Amyes",
+                "Road,"
+            ]
+        },
+        {
+            "id": "e6d3a8ed03a34e24b474373961264ee4",
+            "text": "that's A-M-Y-E-S.",
+            "items": [
+                "that's",
+                "A-M-Y-E-S."
+            ]
+        },
+        {
+            "id": "fc225fad28e14c4d899d7400f467bba4",
+            "text": "And we work on from Monday to Sunday except Tuesday and Wednesday.",
+            "items": [
+                "And",
+                "we",
+                "work",
+                "on",
+                "from",
+                "Monday",
+                "to",
+                "Sunday",
+                "except",
+                "Tuesday",
+                "and",
+                "Wednesday."
+            ]
+        },
+        {
+            "id": "ebc647f9d4c64afb9093d75903e4a5a4",
+            "text": "Could you let me know when is convenient for you?",
+            "items": [
+                "Could",
+                "you",
+                "let",
+                "me",
+                "know",
+                "when",
+                "is",
+                "convenient",
+                "for",
+                "you?"
+            ]
+        },
+        {
+            "id": "ab32c1d28c5142e9b697375af7f42977",
+            "text": "Next Friday...",
+            "items": [
+                "Next",
+                "Friday..."
+            ]
+        },
+        {
+            "id": "80dbe6dffe654bae8e2b1a6b8541a23a",
+            "text": "err... no, oh, that's no good.",
+            "items": [
+                "err...",
+                "no,",
+                "oh,",
+                "that's",
+                "no",
+                "good."
+            ]
+        },
+        {
+            "id": "042fb6b81e424f0b911c175e3cd520db",
+            "text": "My son invites his friends over in the afternoon that day.",
+            "items": [
+                "My",
+                "son",
+                "invites",
+                "his",
+                "friends",
+                "over",
+                "in",
+                "the",
+                "afternoon",
+                "that",
+                "day."
+            ]
+        },
+        {
+            "id": "3c87532a32544e3eb5e166ef43e7c862",
+            "text": "Perhaps next Thursday or next Saturday.",
+            "items": [
+                "Perhaps",
+                "next",
+                "Thursday",
+                "or",
+                "next",
+                "Saturday."
+            ]
+        },
+        {
+            "id": "0bfd0e2c56ec45329ad8b62ea8d5aedc",
+            "text": "Let me check, OK, next Thursday.",
+            "items": [
+                "Let",
+                "me",
+                "check,",
+                "OK,",
+                "next",
+                "Thursday."
+            ]
+        },
+        {
+            "id": "fb4571ac5c244631998a0f971d3c7829",
+            "text": "When is it convenient for us to come over and provide the service?",
+            "items": [
+                "When",
+                "is",
+                "it",
+                "convenient",
+                "for",
+                "us",
+                "to",
+                "come",
+                "over",
+                "and",
+                "provide",
+                "the",
+                "service?"
+            ]
+        },
+        {
+            "id": "99c47e984a7444b483980a79e3836d3d",
+            "text": "Is it OK if we come in the morning?",
+            "items": [
+                "Is",
+                "it",
+                "OK",
+                "if",
+                "we",
+                "come",
+                "in",
+                "the",
+                "morning?"
+            ]
+        },
+        {
+            "id": "61cac59bfce1491dbce5976ac4680f63",
+            "text": "Or we may come in the afternoon? It depends on your schedule.",
+            "items": [
+                "Or",
+                "we",
+                "may",
+                "come",
+                "in",
+                "the",
+                "afternoon?",
+                "It",
+                "depends",
+                "on",
+                "your",
+                "schedule."
+            ]
+        },
+        {
+            "id": "e182dc8293dd480babf5a9a35d146638",
+            "text": "I'm OK with any time.",
+            "items": [
+                "I'm",
+                "OK",
+                "with",
+                "any",
+                "time."
+            ]
+        },
+        {
+            "id": "147fcad87c4f447b981d399fa547f2a5",
+            "text": "Just give me a call to let me know you're coming before you arrive.",
+            "items": [
+                "Just",
+                "give",
+                "me",
+                "a",
+                "call",
+                "to",
+                "let",
+                "me",
+                "know",
+                "you're",
+                "coming",
+                "before",
+                "you",
+                "arrive."
+            ]
+        },
+        {
+            "id": "15c5ed70279e44c2b09159294ec38cfa",
+            "text": "Sure, we will.",
+            "items": [
+                "Sure,",
+                "we",
+                "will."
+            ]
+        },
+        {
+            "id": "c887dc4670b3455a9d495df21e2ba18a",
+            "text": "By the way, how long will it take for the service?",
+            "items": [
+                "By",
+                "the",
+                "way,",
+                "how",
+                "long",
+                "will",
+                "it",
+                "take",
+                "for",
+                "the",
+                "service?"
+            ]
+        },
+        {
+            "id": "8e06dc83e37c4c4c81b67bb1af55b3dc",
+            "text": "We usually work 1 to 3 hours for house cleaning,",
+            "items": [
+                "We",
+                "usually",
+                "work",
+                [
+                    "1",
+                    "one"
+                ],
+                "to",
+                [
+                    "3",
+                    "three"
+                ],
+                "hours",
+                "for",
+                "house",
+                "cleaning,"
+            ]
+        },
+        {
+            "id": "9f2e9735c0814a49b84b90948276476a",
+            "text": "and the work will take 3 hours at most.",
+            "items": [
+                "and",
+                "the",
+                "work",
+                "will",
+                "take",
+                [
+                    "3",
+                    "three"
+                ],
+                "hours",
+                "at",
+                "most."
+            ]
+        },
+        {
+            "id": "66e7a793094d4df68a944b49f154e94e",
+            "text": "And of course, if it takes more than 3 hours, you should pay extra for it.",
+            "items": [
+                "And",
+                "of",
+                "course,",
+                "if",
+                "it",
+                "takes",
+                "more",
+                "than",
+                [
+                    "3",
+                    "three"
+                ],
+                "hours,",
+                "you",
+                "should",
+                "pay",
+                "extra",
+                "for",
+                "it."
+            ]
+        },
+        {
+            "id": "e16ef9e5e5494760b42c21d3f5943c14",
+            "text": "Er... fine.",
+            "items": [
+                "Er...",
+                "fine."
+            ]
+        },
+        {
+            "id": "b812167e210c4083a8127df1cf7013ee",
+            "text": "So, let me just do some calculations...",
+            "items": [
+                "So,",
+                "let",
+                "me",
+                "just",
+                "do",
+                "some",
+                "calculations..."
+            ]
+        }
+    ]
+}

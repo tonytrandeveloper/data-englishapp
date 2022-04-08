@@ -1,0 +1,1845 @@
+[
+    {
+        "id": "5d35dc66896448468b2d7a4f3c91ff86",
+        "word": "send",
+        "pos": "verb",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/send/",
+            "us": "/send/"
+        },
+        "nearby": [
+            {
+                "word": "senator",
+                "pos": "noun"
+            },
+            {
+                "word": "senatorial",
+                "pos": "adjective"
+            },
+            {
+                "word": "send",
+                "pos": "verb"
+            },
+            {
+                "word": "send away",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "send down",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to make something go or be taken to a place, especially by post, email, radio, etc.",
+                    "vi": "để thực hiện một cái gì đó đi hoặc được đưa đến một nơi, đặc biệt là qua đường bưu điện, email, radio, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "send something She sent a letter of support.",
+                        "vi": "gửi một cái gì đó Cô ấy đã gửi một lá thư ủng hộ."
+                    },
+                    {
+                        "en": "Let me just send this email.",
+                        "vi": "Hãy để tôi chỉ gửi email này."
+                    },
+                    {
+                        "en": "(British English) to send something by post",
+                        "vi": "(Anh Anh) để gửi một cái gì đó qua đường bưu điện"
+                    },
+                    {
+                        "en": "(North American English) to send something by mail",
+                        "vi": "(Tiếng Anh Bắc Mỹ) để gửi một cái gì đó qua thư"
+                    },
+                    {
+                        "en": "I sent the package by airmail.",
+                        "vi": "Tôi đã gửi gói hàng bằng đường hàng không."
+                    },
+                    {
+                        "en": "Users were unable to send or receive emails for two days.",
+                        "vi": "Người dùng không thể gửi hoặc nhận email trong hai ngày."
+                    },
+                    {
+                        "en": "send something to somebody/something Have you sent a Christmas card to your mother yet?",
+                        "vi": "gửi một cái gì đó cho ai đó / cái gì đó Bạn đã gửi một tấm thiệp Giáng sinh cho mẹ của bạn chưa?"
+                    },
+                    {
+                        "en": "A radio signal was sent to the spacecraft.",
+                        "vi": "Một tín hiệu vô tuyến đã được gửi đến tàu vũ trụ."
+                    },
+                    {
+                        "en": "send somebody something Have you sent your mother a Christmas card yet?",
+                        "vi": "gửi cho ai đó một cái gì đó Bạn đã gửi cho mẹ của bạn một tấm thiệp Giáng sinh chưa?"
+                    },
+                    {
+                        "en": "I'll send you a text message.",
+                        "vi": "Tôi sẽ gửi cho bạn một tin nhắn văn bản."
+                    },
+                    {
+                        "en": "Can you send me a link to the website?",
+                        "vi": "Bạn có thể gửi cho tôi một liên kết đến trang web?"
+                    },
+                    {
+                        "en": "He sent me a copy of his new book.",
+                        "vi": "Anh ấy đã gửi cho tôi một bản sao của cuốn sách mới của anh ấy."
+                    },
+                    {
+                        "en": "send something back The laptop was faulty so I sent it back to the manufacturers.",
+                        "vi": "gửi lại cái gì đó Máy tính xách tay bị lỗi nên tôi đã gửi lại cho nhà sản xuất."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to tell somebody something by sending them a message",
+                    "vi": "để nói với ai đó điều gì đó bằng cách gửi cho họ một tin nhắn"
+                },
+                "examples": [
+                    {
+                        "en": "send something My parents send their love.",
+                        "vi": "gửi một cái gì đó Cha mẹ tôi gửi tình yêu của họ."
+                    },
+                    {
+                        "en": "send something to somebody Henry sent his regards to you.",
+                        "vi": "gửi một cái gì đó cho ai đó Henry gửi lời chào của anh ấy đến bạn."
+                    },
+                    {
+                        "en": "(figurative) What sort of message is that sending to young people?",
+                        "vi": "(nghĩa bóng) Thông điệp đó muốn gửi đến những người trẻ tuổi là gì?"
+                    },
+                    {
+                        "en": "send somebody something He sent me word to come.",
+                        "vi": "gửi cho ai đó một cái gì đó."
+                    },
+                    {
+                        "en": "send something (that)… She sent word (that) she could not come.",
+                        "vi": "gửi một cái gì đó (cái đó)… Cô ấy đã gửi từ (cái đó) mà cô ấy không thể đến được."
+                    },
+                    {
+                        "en": "send to do something (formal) She sent to say that she was coming home.",
+                        "vi": "send to do something (trang trọng) Cô ấy đã gửi để nói rằng cô ấy sắp về nhà."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to tell somebody to go somewhere or to do something; to arrange for somebody to go somewhere",
+                    "vi": "để bảo ai đó đi đâu đó hoặc làm gì đó; sắp xếp cho ai đó đi đâu đó"
+                },
+                "examples": [
+                    {
+                        "en": "send somebody Ed couldn't make it so they sent me instead.",
+                        "vi": "gửi ai đó mà Ed không thể đến được nên họ đã cử tôi thay thế."
+                    },
+                    {
+                        "en": "send somebody + adv./prep. She sent the kids to bed early.",
+                        "vi": "gửi ai đó + adv./prep. Cô cho bọn trẻ đi ngủ sớm."
+                    },
+                    {
+                        "en": "The judge sent her to prison for two years.",
+                        "vi": "Thẩm phán đã tống cô vào tù trong hai năm."
+                    },
+                    {
+                        "en": "He was sent away to boarding school at the age of eight.",
+                        "vi": "Anh được gửi đến trường nội trú năm tám tuổi."
+                    },
+                    {
+                        "en": "The government has agreed to send 3 000 troops to the region.",
+                        "vi": "Chính phủ đã đồng ý gửi 3000 quân đến khu vực này."
+                    },
+                    {
+                        "en": "We are being sent on a training course next month.",
+                        "vi": "Chúng tôi sẽ được cử đi tham gia một khóa đào tạo vào tháng tới."
+                    },
+                    {
+                        "en": "Children were sent home from school because it was just too hot.",
+                        "vi": "Trẻ em được cho từ trường về nhà vì trời quá nóng."
+                    },
+                    {
+                        "en": "send somebody to do something I've sent Tom to buy some milk.",
+                        "vi": "sai ai đó làm việc gì đó. Tôi đã cử Tom đi mua sữa."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make something/somebody move quickly or suddenly",
+                    "vi": "để làm cho một cái gì đó / ai đó di chuyển nhanh chóng hoặc đột ngột"
+                },
+                "examples": [
+                    {
+                        "en": "send something/somebody doing something Every step he took sent the pain shooting up his leg.",
+                        "vi": "gửi một cái gì đó / ai đó làm một cái gì đó Mỗi bước anh ấy đi đều khiến cơn đau nhức nhối lên chân anh ấy."
+                    },
+                    {
+                        "en": "The punch sent him flying.",
+                        "vi": "Cú đấm khiến anh ta bay."
+                    },
+                    {
+                        "en": "send something/somebody + adv./prep. The report sent share prices down a further 8p.",
+                        "vi": "gửi cái gì đó / ai đó + adv./prep. Báo cáo đã khiến giá cổ phiếu giảm thêm 8p."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make somebody behave or react in a particular way",
+                    "vi": "để khiến ai đó cư xử hoặc phản ứng theo một cách cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "send somebody to something Her music always sends me to sleep.",
+                        "vi": "gửi ai đó đến một cái gì đó Âm nhạc của cô ấy luôn đưa tôi vào giấc ngủ."
+                    },
+                    {
+                        "en": "send somebody into something Her account of the visit sent us into fits of laughter.",
+                        "vi": "gửi cho ai đó điều gì đó Lời tường thuật của cô ấy về chuyến thăm đã khiến chúng tôi bật cười."
+                    },
+                    {
+                        "en": "send somebody + adj. All the publicity nearly sent him crazy.",
+                        "vi": "gửi ai đó + adj. Tất cả những gì dư luận gần như khiến anh ta phát điên."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to tell somebody clearly or rudely to go away",
+                    "vi": "nói với ai đó một cách rõ ràng hoặc thô lỗ để biến đi"
+                },
+                "examples": [
+                    {
+                        "en": "She tried to interfere but I sent her packing.",
+                        "vi": "Cô ấy cố gắng can thiệp nhưng tôi đã gửi đồ cho cô ấy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to say that you should accept an unpleasant situation or event because you cannot change it",
+                    "vi": "được sử dụng để nói rằng bạn nên chấp nhận một tình huống hoặc sự kiện khó chịu bởi vì bạn không thể thay đổi nó"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "df863ba16aef4b1ea505f5d9ed9a0c26",
+        "word": "text",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/tekst/",
+            "us": "/tekst/"
+        },
+        "nearby": [
+            {
+                "word": "the Texas Rangers",
+                "pos": ""
+            },
+            {
+                "word": "Tex-Mex",
+                "pos": "adjective"
+            },
+            {
+                "word": "text",
+                "pos": "noun"
+            },
+            {
+                "word": "text",
+                "pos": "verb"
+            },
+            {
+                "word": "textbook",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "any form of written material",
+                    "vi": "bất kỳ dạng tài liệu viết nào"
+                },
+                "examples": [
+                    {
+                        "en": "a computer that can process text",
+                        "vi": "một máy tính có thể xử lý văn bản"
+                    },
+                    {
+                        "en": "printed text",
+                        "vi": "văn bản in"
+                    },
+                    {
+                        "en": "Highlight the area of text on screen and press the ‘delete’ key.",
+                        "vi": "Đánh dấu vùng văn bản trên màn hình và nhấn phím 'xóa'."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a piece of writing that you have to answer questions about in an exam or a lesson",
+                    "vi": "một bài viết mà bạn phải trả lời các câu hỏi trong một bài kiểm tra hoặc một bài học"
+                },
+                "examples": [
+                    {
+                        "en": "Read the text carefully and then answer the questions.",
+                        "vi": "Đọc kỹ văn bản và sau đó trả lời các câu hỏi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a written message that you send using a mobile phone",
+                    "vi": "một tin nhắn bằng văn bản mà bạn gửi bằng điện thoại di động"
+                },
+                "examples": [
+                    {
+                        "en": "She sent me a text to say she would be late.",
+                        "vi": "Cô ấy đã gửi cho tôi một tin nhắn để nói rằng cô ấy sẽ đến muộn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the main printed part of a book or magazine, not the notes, pictures, etc.",
+                    "vi": "phần được in chính của một cuốn sách hoặc tạp chí, không phải phần ghi chú, hình ảnh, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "My job is to lay out the text and graphics on the page.",
+                        "vi": "Công việc của tôi là sắp xếp văn bản và đồ họa trên trang."
+                    },
+                    {
+                        "en": "She wrote the text for a book of photographs.",
+                        "vi": "Cô ấy đã viết văn bản cho một cuốn sách ảnh."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the written form of a speech, a play, an article, etc.",
+                    "vi": "dạng viết của một bài phát biểu, một vở kịch, một bài báo, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "The newspaper had printed the full text of the president's speech.",
+                        "vi": "Tờ báo đã in toàn văn bài phát biểu của tổng thống."
+                    },
+                    {
+                        "en": "Can you act out this scene without referring to the text?",
+                        "vi": "Bạn có thể diễn cảnh này mà không cần tham khảo văn bản không?"
+                    },
+                    {
+                        "en": "The filmed version of Henry V stays close to the original text.",
+                        "vi": "Phiên bản quay của Henry V vẫn gần với văn bản gốc."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a book, play, etc., especially one that is being studied",
+                    "vi": "một cuốn sách, vở kịch, v.v., đặc biệt là một cuốn sách đang được nghiên cứu"
+                },
+                "examples": [
+                    {
+                        "en": "a literary text",
+                        "vi": "một văn bản văn học"
+                    },
+                    {
+                        "en": "sacred/religious/ancient texts",
+                        "vi": "văn bản thiêng liêng / tôn giáo / cổ đại"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a book that teaches a particular subject and that is used especially in schools and colleges",
+                    "vi": "một cuốn sách dạy một chủ đề cụ thể và được sử dụng đặc biệt trong các trường học và cao đẳng"
+                },
+                "examples": [
+                    {
+                        "en": "medical texts",
+                        "vi": "văn bản y tế"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a sentence or short passage from the Bible that is read out and discussed by somebody, especially during a religious service",
+                    "vi": "một câu hoặc đoạn văn ngắn trong Kinh thánh được ai đó đọc và thảo luận, đặc biệt là trong một buổi lễ tôn giáo"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "a7dcc75c3f484bd3a824dfdb7e801b94",
+        "word": "text message",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˈtekst mesɪdʒ/",
+            "us": "/ˈtekst mesɪdʒ/"
+        },
+        "nearby": [
+            {
+                "word": "textile",
+                "pos": "noun"
+            },
+            {
+                "word": "texting",
+                "pos": "noun"
+            },
+            {
+                "word": "text message",
+                "pos": "noun"
+            },
+            {
+                "word": "text-message",
+                "pos": "verb"
+            },
+            {
+                "word": "text-messaging",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a written message that you send using a mobile phone",
+                    "vi": "một tin nhắn bằng văn bản mà bạn gửi bằng điện thoại di động"
+                },
+                "examples": [
+                    {
+                        "en": "Send a text message to this number to vote.",
+                        "vi": "Gửi tin nhắn văn bản đến số này để bình chọn."
+                    },
+                    {
+                        "en": "I got an anonymous text message.",
+                        "vi": "Tôi nhận được một tin nhắn văn bản ẩn danh."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "87f0b77ebda04184804a87e85cdb71be",
+        "word": "text",
+        "pos": "verb",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/tekst/",
+            "us": "/tekst/"
+        },
+        "nearby": [
+            {
+                "word": "Tex-Mex",
+                "pos": "adjective"
+            },
+            {
+                "word": "text",
+                "pos": "noun"
+            },
+            {
+                "word": "text",
+                "pos": "verb"
+            },
+            {
+                "word": "textbook",
+                "pos": "noun"
+            },
+            {
+                "word": "textbook",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to send somebody a written message using a mobile phone",
+                    "vi": "gửi cho ai đó một tin nhắn bằng điện thoại di động"
+                },
+                "examples": [
+                    {
+                        "en": "text (somebody) Text me when you're on your way.",
+                        "vi": "nhắn tin (ai đó) Nhắn tin cho tôi khi bạn đang trên đường đến."
+                    },
+                    {
+                        "en": "Kids seem to be texting non-stop these days.",
+                        "vi": "Những ngày này, bọn trẻ dường như nhắn tin không ngừng."
+                    },
+                    {
+                        "en": "text somebody something I'll text you the final score.",
+                        "vi": "nhắn tin cho ai đó cái gì đó tôi sẽ nhắn cho bạn điểm số cuối cùng."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "d111da8e0bf34068bcc15645002ba6ad",
+        "word": "text-message",
+        "pos": "verb",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈtekst mesɪdʒ/",
+            "us": "/ˈtekst mesɪdʒ/"
+        },
+        "nearby": [
+            {
+                "word": "texting",
+                "pos": "noun"
+            },
+            {
+                "word": "text message",
+                "pos": "noun"
+            },
+            {
+                "word": "text-message",
+                "pos": "verb"
+            },
+            {
+                "word": "text-messaging",
+                "pos": "noun"
+            },
+            {
+                "word": "textspeak",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to send somebody a written message using a mobile phone",
+                    "vi": "gửi cho ai đó một tin nhắn bằng điện thoại di động"
+                },
+                "examples": [
+                    {
+                        "en": "I text-messaged him to say we were waiting in the pub.",
+                        "vi": "Tôi nhắn tin cho anh ấy để nói rằng chúng tôi đang đợi trong quán rượu."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5da0cfa4315f43bfa27a64542df348da",
+        "word": "text-messaging",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈtekst mesɪdʒɪŋ/",
+            "us": "/ˈtekst mesɪdʒɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "text message",
+                "pos": "noun"
+            },
+            {
+                "word": "text-message",
+                "pos": "verb"
+            },
+            {
+                "word": "text-messaging",
+                "pos": "noun"
+            },
+            {
+                "word": "textspeak",
+                "pos": "noun"
+            },
+            {
+                "word": "text-to-speech",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the act of sending written messages using a mobile phone",
+                    "vi": "hành động gửi tin nhắn bằng văn bản bằng điện thoại di động"
+                },
+                "examples": [
+                    {
+                        "en": "Too much text-messaging can cause serious injury to the hands.",
+                        "vi": "Nhắn tin quá nhiều có thể gây thương tích nghiêm trọng cho tay."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2c7457844a8745738181dce8d760051a",
+        "word": "picture messaging",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈpɪktʃə mesɪdʒɪŋ/",
+            "us": "/ˈpɪktʃər mesɪdʒɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "picture",
+                "pos": "verb"
+            },
+            {
+                "word": "picture book",
+                "pos": "noun"
+            },
+            {
+                "word": "picture messaging",
+                "pos": "noun"
+            },
+            {
+                "word": "picture-perfect",
+                "pos": "adjective"
+            },
+            {
+                "word": "picture postcard",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a system of sending images from one mobile phone to another",
+                    "vi": "một hệ thống gửi hình ảnh từ điện thoại di động này sang điện thoại di động khác"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "a20fe357038d4a1cadd4e1f49314e201",
+        "word": "emoji",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ɪˈməʊdʒi/",
+            "us": "/ɪˈməʊdʒi/"
+        },
+        "nearby": [
+            {
+                "word": "Emmy",
+                "pos": "noun"
+            },
+            {
+                "word": "emo",
+                "pos": "noun"
+            },
+            {
+                "word": "emoji",
+                "pos": "noun"
+            },
+            {
+                "word": "emollient",
+                "pos": "adjective"
+            },
+            {
+                "word": "emollient",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small digital image used to express an idea or emotion in emails, on the internet, on social media, etc.",
+                    "vi": "một hình ảnh kỹ thuật số nhỏ được sử dụng để thể hiện một ý tưởng hoặc cảm xúc trong email, trên internet, trên phương tiện truyền thông xã hội, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "He responded with a red heart emoji.",
+                        "vi": "Anh ấy đáp lại bằng một biểu tượng cảm xúc trái tim màu đỏ."
+                    },
+                    {
+                        "en": "Emoji liven up your text messages with tiny smiley faces.",
+                        "vi": "Biểu tượng cảm xúc làm sống động tin nhắn văn bản của bạn với những khuôn mặt cười nhỏ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "dd95c14f44f045918446d78bcbee8e00",
+        "word": "emoticon",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ɪˈməʊtɪkɒn/",
+            "us": "/ɪˈməʊtɪkɑːn/"
+        },
+        "nearby": [
+            {
+                "word": "emolument",
+                "pos": "noun"
+            },
+            {
+                "word": "emote",
+                "pos": "verb"
+            },
+            {
+                "word": "emoticon",
+                "pos": "noun"
+            },
+            {
+                "word": "emotion",
+                "pos": "noun"
+            },
+            {
+                "word": "emotional",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a short set of keyboard symbols that represents the expression on somebody’s face, used in email, etc. to show the feelings of the person sending the message. For example :-) represents a smiling face (when you look at it with your head on one side).",
+                    "vi": "một tập hợp ngắn các ký hiệu bàn phím đại diện cho biểu cảm trên khuôn mặt của ai đó, được sử dụng trong email, v.v. để thể hiện cảm xúc của người gửi tin nhắn. Ví dụ :-) đại diện cho một khuôn mặt đang cười (khi bạn nhìn nó với đầu của bạn ở một bên)."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "1fc2142e41fc43b0b07b0398c9298d9e",
+        "word": "LOL",
+        "pos": "exclamation",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/lɒl/",
+            "us": "/lɑːl/"
+        },
+        "nearby": [
+            {
+                "word": "Lois",
+                "pos": ""
+            },
+            {
+                "word": "loiter",
+                "pos": "verb"
+            },
+            {
+                "word": "LOL",
+                "pos": "exclamation"
+            },
+            {
+                "word": "Lola",
+                "pos": ""
+            },
+            {
+                "word": "Lolita",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "(in emails, social media, etc. from the abbreviation for ‘laugh out loud’) used to express fun, laughter or the feeling that something makes you smile",
+                    "vi": "(trong email, mạng xã hội, v.v. từ viết tắt của 'cười thật to') được sử dụng để thể hiện niềm vui, tiếng cười hoặc cảm giác rằng điều gì đó khiến bạn mỉm cười"
+                },
+                "examples": [
+                    {
+                        "en": "We've come a long way since that pic. Lol!",
+                        "vi": "Chúng tôi đã đi một chặng đường dài kể từ bức ảnh đó. Cười!"
+                    },
+                    {
+                        "en": "The dog kept running around chasing its tail. Lolz.",
+                        "vi": "Con chó cứ chạy vòng vòng đuổi theo cái đuôi của nó. Lolz."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7065fd43e94149f3bb192adca1942621",
+        "word": "AFAIC",
+        "pos": "abbreviation",
+        "level": "c2",
+        "phonetic": {
+            "uk": "",
+            "us": ""
+        },
+        "nearby": [
+            {
+                "word": "the Aesthetic Movement",
+                "pos": ""
+            },
+            {
+                "word": "aetiology",
+                "pos": "noun"
+            },
+            {
+                "word": "AFAIC",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "AFAIK",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "AFAIR",
+                "pos": "abbreviation"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "as far as I'm concerned (used in emails, text messages, social media, etc. to give your personal opinion about something)",
+                    "vi": "Theo những gì tôi liên quan (được sử dụng trong email, tin nhắn văn bản, mạng xã hội, v.v. để đưa ra ý kiến cá nhân của bạn về điều gì đó)"
+                },
+                "examples": [
+                    {
+                        "en": "AFAIC, this place has the best tapas you can find.",
+                        "vi": "AFAIC, nơi này có món tapas ngon nhất mà bạn có thể tìm thấy."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1e74783e1b824c1d9cd7048b22774b1f",
+        "word": "AFAIK",
+        "pos": "abbreviation",
+        "level": "c2",
+        "phonetic": {
+            "uk": "",
+            "us": ""
+        },
+        "nearby": [
+            {
+                "word": "aetiology",
+                "pos": "noun"
+            },
+            {
+                "word": "AFAIC",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "AFAIK",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "AFAIR",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "afar",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "as far as I know (= used in text messages, on social media, etc.)",
+                    "vi": "Theo như tôi biết (= được sử dụng trong tin nhắn văn bản, trên mạng xã hội, v.v.)"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "26509c1c6c114d4c88e5e63c99355889",
+        "word": "BF",
+        "pos": "abbreviation",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌbiː ˈef/",
+            "us": "/ˌbiː ˈef/"
+        },
+        "nearby": [
+            {
+                "word": "bezzie",
+                "pos": "noun"
+            },
+            {
+                "word": "bezzie",
+                "pos": "adjective"
+            },
+            {
+                "word": "BF",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "BFF",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "the BFI",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "(especially in text messages, on social media, etc.) boyfriend; best friend",
+                    "vi": "(đặc biệt là trong tin nhắn văn bản, trên mạng xã hội, v.v.) bạn trai; bạn tốt nhất"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "c80633a3e12948f7ae68ff1b0c9bb409",
+        "word": "BFF",
+        "pos": "abbreviation",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌbiː ef ˈef/",
+            "us": "/ˌbiː ef ˈef/"
+        },
+        "nearby": [
+            {
+                "word": "bezzie",
+                "pos": "adjective"
+            },
+            {
+                "word": "BF",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "BFF",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "the BFI",
+                "pos": ""
+            },
+            {
+                "word": "BFI Southbank",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "(especially in text messages, on social media, etc.) best friend (forever)",
+                    "vi": "(đặc biệt là trong tin nhắn văn bản, trên mạng xã hội, v.v.) người bạn tốt nhất (mãi mãi)"
+                },
+                "examples": [
+                    {
+                        "en": "I’m going to my BFF’s birthday party next week.",
+                        "vi": "Tôi sẽ dự tiệc sinh nhật BFF của tôi vào tuần tới."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "aa109e30a2ac419c86438bb68ae09197",
+        "word": "BRB",
+        "pos": "abbreviation",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌbiː ɑː ˈbiː/",
+            "us": "/ˌbiː ɑːr ˈbiː/"
+        },
+        "nearby": [
+            {
+                "word": "Brazilian",
+                "pos": "noun"
+            },
+            {
+                "word": "Brazilian wax",
+                "pos": "noun"
+            },
+            {
+                "word": "BRB",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "breach",
+                "pos": "noun"
+            },
+            {
+                "word": "breach",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "(especially in emails, messages sent using an instant messaging service, etc.) be right back (when you have to leave your computer, etc. for a short time)",
+                    "vi": "(đặc biệt là trong các email, tin nhắn được gửi bằng dịch vụ nhắn tin tức thời, v.v.) quay lại ngay (khi bạn phải rời khỏi máy tính, v.v. trong thời gian ngắn)"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "7f6162bf7a87402b918c2a6d1a9c99fc",
+        "word": "DD",
+        "pos": "abbreviation",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌdiː ˈdiː/",
+            "us": "/ˌdiː ˈdiː/"
+        },
+        "nearby": [
+            {
+                "word": "DC",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "DCMS",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "DD",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "D-Day",
+                "pos": "noun"
+            },
+            {
+                "word": "DDE",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "(especially in text messages, on social media, etc.) darling daughter",
+                    "vi": "(đặc biệt là trong tin nhắn văn bản, trên mạng xã hội, v.v.) con gái yêu"
+                },
+                "examples": [
+                    {
+                        "en": "My DD is nearly a year old now.",
+                        "vi": "DD của tôi đến nay đã gần một tuổi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8a69e40c76684b77aa0acd98b362be76",
+        "word": "DW",
+        "pos": "abbreviation",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌdiː ˈdʌbljuː/",
+            "us": "/ˌdiː ˈdʌbljuː/"
+        },
+        "nearby": [
+            {
+                "word": "DVR",
+                "pos": "noun"
+            },
+            {
+                "word": "DVT",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "DW",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "dwaal",
+                "pos": "noun"
+            },
+            {
+                "word": "dwarf",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "(especially in text messages, on social media, etc.) darling wife or dear wife",
+                    "vi": "(đặc biệt là trong tin nhắn văn bản, trên mạng xã hội, v.v.) vợ yêu hoặc vợ yêu"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "(especially in text messages, on social media, etc.) don't worry",
+                    "vi": "(đặc biệt là trong tin nhắn văn bản, trên phương tiện truyền thông xã hội, v.v.) đừng lo lắng"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "822c0d09e27a41f0b9b17072f122c04d",
+        "word": "GF",
+        "pos": "abbreviation",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌdʒiː ˈef/",
+            "us": "/ˌdʒiː ˈef/"
+        },
+        "nearby": [
+            {
+                "word": "gewgaw",
+                "pos": "noun"
+            },
+            {
+                "word": "geyser",
+                "pos": "noun"
+            },
+            {
+                "word": "GF",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "ghagra",
+                "pos": "noun"
+            },
+            {
+                "word": "Ghana",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "(especially in text messages, on social media, etc.) girlfriend",
+                    "vi": "(đặc biệt là trong tin nhắn văn bản, trên mạng xã hội, v.v.)"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "3cbfb161e17d414da26391664c481da8",
+        "word": "IDK",
+        "pos": "abbreviation",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌaɪ diː ˈkeɪ/",
+            "us": "/ˌaɪ diː ˈkeɪ/"
+        },
+        "nearby": [
+            {
+                "word": "idiotically",
+                "pos": "adverb"
+            },
+            {
+                "word": "idiot savant",
+                "pos": "noun"
+            },
+            {
+                "word": "IDK",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "idle",
+                "pos": "adjective"
+            },
+            {
+                "word": "idle",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "(on social media, in text messages, etc.) I don’t know",
+                    "vi": "(trên mạng xã hội, trong tin nhắn văn bản, v.v.) Tôi không biết"
+                },
+                "examples": [
+                    {
+                        "en": "IDK what to do about it.",
+                        "vi": "IDK phải làm gì với nó."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "16a36623d874424180dab54698ede8d0",
+        "word": "lolz",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/lɒlz/",
+            "us": "/lɑːlz/"
+        },
+        "nearby": [
+            {
+                "word": "lollop",
+                "pos": "verb"
+            },
+            {
+                "word": "lolly",
+                "pos": "noun"
+            },
+            {
+                "word": "lolz",
+                "pos": "noun"
+            },
+            {
+                "word": "lolz",
+                "pos": "exclamation"
+            },
+            {
+                "word": "Vince Lombardi",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "(in emails, social media, etc.) fun, laughter or the feeling that something makes you smile",
+                    "vi": "(trong email, mạng xã hội, v.v.) niềm vui, tiếng cười hoặc cảm giác rằng điều gì đó khiến bạn mỉm cười"
+                },
+                "examples": [
+                    {
+                        "en": "This is no time for lolz—we’re dealing with a serious matter!",
+                        "vi": "Đây không phải là thời gian cho lolz — chúng tôi đang giải quyết một vấn đề nghiêm trọng!"
+                    },
+                    {
+                        "en": "He went to the supermarket in his pyjamas, just for lolz.",
+                        "vi": "Anh ấy đi siêu thị trong bộ đồ ngủ, chỉ để lolz."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "232081f27b4e4028a8ffcfd2a7f0c72f",
+        "word": "lolz",
+        "pos": "exclamation",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/lɒlz/",
+            "us": "/lɑːlz/"
+        },
+        "nearby": [
+            {
+                "word": "lolly",
+                "pos": "noun"
+            },
+            {
+                "word": "lolz",
+                "pos": "noun"
+            },
+            {
+                "word": "lolz",
+                "pos": "exclamation"
+            },
+            {
+                "word": "Vince Lombardi",
+                "pos": ""
+            },
+            {
+                "word": "Lombard Street",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "(in emails, social media, etc. from the abbreviation for ‘laugh out loud’) used to express fun, laughter or the feeling that something makes you smile",
+                    "vi": "(trong email, mạng xã hội, v.v. từ viết tắt của 'cười thật to') được sử dụng để thể hiện niềm vui, tiếng cười hoặc cảm giác rằng điều gì đó khiến bạn mỉm cười"
+                },
+                "examples": [
+                    {
+                        "en": "The dog kept running around chasing its tail. Lolz.",
+                        "vi": "Con chó cứ chạy vòng vòng đuổi theo cái đuôi của nó. Lolz."
+                    },
+                    {
+                        "en": "We've come a long way since that pic. Lol!",
+                        "vi": "Chúng tôi đã đi một chặng đường dài kể từ bức ảnh đó. Cười!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a0fb02e4a92d468cbddebf8b7487887a",
+        "word": "lulz",
+        "pos": "exclamation",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/lʌlz/",
+            "us": "/lʌlz/"
+        },
+        "nearby": [
+            {
+                "word": "lullaby",
+                "pos": "noun"
+            },
+            {
+                "word": "lull into",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "lulz",
+                "pos": "exclamation"
+            },
+            {
+                "word": "lulz",
+                "pos": "noun"
+            },
+            {
+                "word": "lumbago",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "used to express the feeling that something makes you laugh, especially because somebody has done something that makes them look silly",
+                    "vi": "được sử dụng để bày tỏ cảm giác rằng điều gì đó khiến bạn cười, đặc biệt là vì ai đó đã làm điều gì đó khiến họ trông ngớ ngẩn"
+                },
+                "examples": [
+                    {
+                        "en": "She didn’t realize that there was ice cream all over the back of her dress! Lulz.",
+                        "vi": "Cô ấy đã không nhận ra rằng có kem ở khắp mặt sau của chiếc váy của mình! Lulz."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c310ad6d00084c06a0837b672bd65fd3",
+        "word": "lulz",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/lʌlz/",
+            "us": "/lʌlz/"
+        },
+        "nearby": [
+            {
+                "word": "lull into",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "lulz",
+                "pos": "exclamation"
+            },
+            {
+                "word": "lulz",
+                "pos": "noun"
+            },
+            {
+                "word": "lumbago",
+                "pos": "noun"
+            },
+            {
+                "word": "lumbar",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the feeling that something makes you laugh, especially because somebody has done something that makes them look silly",
+                    "vi": "cảm giác rằng điều gì đó khiến bạn cười, đặc biệt là vì ai đó đã làm điều gì đó khiến họ trông ngớ ngẩn"
+                },
+                "examples": [
+                    {
+                        "en": "They posted embarrassing photos of him on the internet, just for the lulz.",
+                        "vi": "Họ đã đăng những bức ảnh đáng xấu hổ của anh ấy trên internet, chỉ để làm lulz."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "44c0ac38825b473687c24679d2b9385c",
+        "word": "MMS",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌem em ˈes/",
+            "us": "/ˌem em ˈes/"
+        },
+        "nearby": [
+            {
+                "word": "MMO",
+                "pos": "noun"
+            },
+            {
+                "word": "MMR",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "MMS",
+                "pos": "noun"
+            },
+            {
+                "word": "MNA",
+                "pos": "noun"
+            },
+            {
+                "word": "MNC",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a system for sending colour pictures and sounds as well as short written messages from one mobile phone to another (the abbreviation for ‘Multimedia Messaging Service’)",
+                    "vi": "một hệ thống để gửi hình ảnh và âm thanh màu cũng như các tin nhắn viết ngắn từ điện thoại di động này sang điện thoại di động khác (viết tắt của 'Dịch vụ nhắn tin đa phương tiện')"
+                },
+                "examples": [
+                    {
+                        "en": "an MMS message",
+                        "vi": "một tin nhắn MMS"
+                    },
+                    {
+                        "en": "He sent me an MMS.",
+                        "vi": "Anh ấy đã gửi cho tôi một MMS."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "67d60d0aba2541d09468adb4100456a1",
+        "word": "MYOB",
+        "pos": "abbreviation",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌem waɪ əʊ ˈbiː/",
+            "us": "/ˌem waɪ əʊ ˈbiː/"
+        },
+        "nearby": [
+            {
+                "word": "the My Lai massacre",
+                "pos": ""
+            },
+            {
+                "word": "mynah",
+                "pos": "noun"
+            },
+            {
+                "word": "MYOB",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "myocardial",
+                "pos": "adjective"
+            },
+            {
+                "word": "My Old Kentucky Home",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "(especially in emails, comments on social media, etc.) mind your own business (think about your own affairs and do not ask questions about or try to get involved in other people’s lives)",
+                    "vi": "(đặc biệt là trong email, bình luận trên mạng xã hội, v.v.) hãy bận tâm đến công việc của riêng bạn (nghĩ về công việc của riêng bạn và không đặt câu hỏi hoặc cố gắng tham gia vào cuộc sống của người khác)"
+                },
+                "examples": [
+                    {
+                        "en": "If you ask her about her new boyfriend, you’ll be told to MYOB.",
+                        "vi": "Nếu bạn hỏi cô ấy về bạn trai mới của cô ấy, bạn sẽ được nói với MYOB."
+                    },
+                    {
+                        "en": "As for the identity of my new friend, that’s strictly MYOB.",
+                        "vi": "Đối với danh tính của người bạn mới của tôi, đó hoàn toàn là MYOB."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0bc08f09aff8448297ec5c306853c8f9",
+        "word": "obv",
+        "pos": "adverb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "",
+            "us": ""
+        },
+        "nearby": [
+            {
+                "word": "obtuse angle",
+                "pos": "noun"
+            },
+            {
+                "word": "obtuseness",
+                "pos": "noun"
+            },
+            {
+                "word": "obv",
+                "pos": "adverb"
+            },
+            {
+                "word": "obverse",
+                "pos": "noun"
+            },
+            {
+                "word": "obviate",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "obviously",
+                    "vi": "chắc chắn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "57bd8181dbfa4c45b7dc52e2180b2762",
+        "word": "obvs",
+        "pos": "adverb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ɒvz/",
+            "us": "/ɑːvz/"
+        },
+        "nearby": [
+            {
+                "word": "obviously",
+                "pos": "adverb"
+            },
+            {
+                "word": "obviousness",
+                "pos": "noun"
+            },
+            {
+                "word": "obvs",
+                "pos": "adverb"
+            },
+            {
+                "word": "ocarina",
+                "pos": "noun"
+            },
+            {
+                "word": "occasion",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "obviously",
+                    "vi": "chắc chắn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "0a81dc66694e4c46b9fac0b7a03a78f8",
+        "word": "OMG",
+        "pos": "abbreviation",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌəʊ em ˈdʒiː/",
+            "us": "/ˌəʊ em ˈdʒiː/"
+        },
+        "nearby": [
+            {
+                "word": "omen",
+                "pos": "noun"
+            },
+            {
+                "word": "omena",
+                "pos": "noun"
+            },
+            {
+                "word": "OMG",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "omicron",
+                "pos": "noun"
+            },
+            {
+                "word": "omigod",
+                "pos": "exclamation"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "oh my God (used to express surprise, excitement, etc., especially in text messages, on social media, etc.)",
+                    "vi": "ôi trời (được sử dụng để thể hiện sự ngạc nhiên, phấn khích, v.v., đặc biệt là trong tin nhắn văn bản, trên mạng xã hội, v.v.)"
+                },
+                "examples": [
+                    {
+                        "en": "OMG—I can’t believe your parents are letting you go to Thailand on your own!",
+                        "vi": "OMG — Tôi không thể tin được là bố mẹ bạn lại cho phép bạn đi Thái Lan một mình!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6c6d5e8f3ea94fb48366b0ccf3c6f2ad",
+        "word": "predictive",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/prɪˈdɪktɪv/",
+            "us": "/prɪˈdɪktɪv/"
+        },
+        "nearby": [
+            {
+                "word": "predictably",
+                "pos": "adverb"
+            },
+            {
+                "word": "prediction",
+                "pos": "noun"
+            },
+            {
+                "word": "predictive",
+                "pos": "adjective"
+            },
+            {
+                "word": "predictor",
+                "pos": "noun"
+            },
+            {
+                "word": "predigested",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "connected with the ability to show what will happen in the future",
+                    "vi": "được kết nối với khả năng hiển thị những gì sẽ xảy ra trong tương lai"
+                },
+                "examples": [
+                    {
+                        "en": "the predictive power of science",
+                        "vi": "sức mạnh tiên đoán của khoa học"
+                    },
+                    {
+                        "en": "More research is needed to improve the predictive value of the tests.",
+                        "vi": "Nghiên cứu thêm là cần thiết để cải thiện giá trị dự đoán của các thử nghiệm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "allowing you to enter text on a computer or a mobile phone more quickly by using the first few letters of each word to predict what you want to say",
+                    "vi": "cho phép bạn nhập văn bản trên máy tính hoặc điện thoại di động nhanh hơn bằng cách sử dụng một vài chữ cái đầu tiên của mỗi từ để dự đoán những gì bạn muốn nói"
+                },
+                "examples": [
+                    {
+                        "en": "predictive text input",
+                        "vi": "nhập văn bản tiên đoán"
+                    },
+                    {
+                        "en": "predictive messaging",
+                        "vi": "nhắn tin tiên đoán"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ae3f4da9eec542fcb4af373294338cd9",
+        "word": "smiley",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈsmaɪli/",
+            "us": "/ˈsmaɪli/"
+        },
+        "nearby": [
+            {
+                "word": "Samuel Smiles",
+                "pos": ""
+            },
+            {
+                "word": "smiley",
+                "pos": "adjective"
+            },
+            {
+                "word": "smiley",
+                "pos": "noun"
+            },
+            {
+                "word": "smilingly",
+                "pos": "adverb"
+            },
+            {
+                "word": "smirk",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a simple picture of a smiling face that is drawn as a circle with two eyes and a curved mouth",
+                    "vi": "một hình ảnh đơn giản của khuôn mặt tươi cười được vẽ thành một vòng tròn với hai mắt và miệng cong"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a simple picture or series of keyboard symbols :-) that is used, for example, in email or text messages to show the feelings of the person sending the message",
+                    "vi": "một hình ảnh đơn giản hoặc một loạt các biểu tượng bàn phím :-), chẳng hạn như được sử dụng trong email hoặc tin nhắn văn bản để thể hiện cảm xúc của người gửi tin nhắn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "b85962c199d54ca781a800390639e505",
+        "word": "SMS",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌes em ˈes/",
+            "us": "/ˌes em ˈes/"
+        },
+        "nearby": [
+            {
+                "word": "the Smothers Brothers",
+                "pos": ""
+            },
+            {
+                "word": "smoulder",
+                "pos": "verb"
+            },
+            {
+                "word": "SMS",
+                "pos": "noun"
+            },
+            {
+                "word": "SMS",
+                "pos": "verb"
+            },
+            {
+                "word": "smudge",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a system for sending short written messages from one mobile phone to another (the abbreviation for ‘short message service’)",
+                    "vi": "một hệ thống để gửi tin nhắn ngắn từ điện thoại di động này sang điện thoại di động khác (viết tắt của 'dịch vụ tin nhắn ngắn')"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a message sent by SMS",
+                    "vi": "một tin nhắn được gửi bằng SMS"
+                },
+                "examples": [
+                    {
+                        "en": "I'm trying to send an SMS.",
+                        "vi": "Tôi đang cố gửi một tin nhắn SMS."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "032d4aa291554d27afb694a6aceaadca",
+        "word": "SMS",
+        "pos": "verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌes em ˈes/",
+            "us": "/ˌes em ˈes/"
+        },
+        "nearby": [
+            {
+                "word": "smoulder",
+                "pos": "verb"
+            },
+            {
+                "word": "SMS",
+                "pos": "noun"
+            },
+            {
+                "word": "SMS",
+                "pos": "verb"
+            },
+            {
+                "word": "smudge",
+                "pos": "noun"
+            },
+            {
+                "word": "smudge",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to send a message to somebody by SMS",
+                    "vi": "gửi tin nhắn cho ai đó bằng SMS"
+                },
+                "examples": [
+                    {
+                        "en": "He SMSed me every day.",
+                        "vi": "Anh ấy đã nhắn tin cho tôi mỗi ngày."
+                    },
+                    {
+                        "en": "If you have any comments, just email or SMS.",
+                        "vi": "Nếu bạn có bất kỳ ý kiến, chỉ cần gửi email hoặc SMS."
+                    },
+                    {
+                        "en": "She spends her time chatting and SMSing.",
+                        "vi": "Cô ấy dành thời gian trò chuyện và nhắn tin SMS."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3ebe8112e21f493b81c261a2185ba0ae",
+        "word": "TL;DR",
+        "pos": "abbreviation",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌtiː el ˌdiː ˈɑː(r)/",
+            "us": "/ˌtiː el ˌdiː ˈɑːr/"
+        },
+        "nearby": [
+            {
+                "word": "tjanting tool",
+                "pos": "noun"
+            },
+            {
+                "word": "T-junction",
+                "pos": "noun"
+            },
+            {
+                "word": "TL;DR",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "TLC",
+                "pos": "noun"
+            },
+            {
+                "word": "Tlingit",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "too long; didn't/don't read (used in response to a blog or online post, to show disapproval or to give a summary)",
+                    "vi": "quá lâu; đã không / không đọc (được sử dụng để trả lời blog hoặc bài đăng trực tuyến, để thể hiện sự không đồng ý hoặc để đưa ra một bản tóm tắt)"
+                },
+                "examples": [
+                    {
+                        "en": "The TL;DR version was ‘find the extra money and buy the best’.",
+                        "vi": "Phiên bản TL; DR là 'kiếm thêm tiền và mua những thứ tốt nhất'."
+                    },
+                    {
+                        "en": "tl;dr: the girl left due to not having a visa.",
+                        "vi": "tl; dr: cô gái bỏ đi do không có visa."
+                    },
+                    {
+                        "en": "TLDR: I scrolled all the way down but that took too long.",
+                        "vi": "TLDR: Tôi đã cuộn xuống tất cả nhưng điều đó mất quá nhiều thời gian."
+                    }
+                ]
+            }
+        ]
+    }
+]

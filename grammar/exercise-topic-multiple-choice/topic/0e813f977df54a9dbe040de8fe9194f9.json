@@ -1,0 +1,112 @@
+{
+    "id": "0e813f977df54a9dbe040de8fe9194f9",
+    "title": "Identify the verb and the tense",
+    "exercises": [
+        {
+            "id": "98a61c7b1cf441a984c089089956a862",
+            "title": "Identify The Tense",
+            "questions": [
+                {
+                    "question": "The river flows under the bridge.",
+                    "description": "",
+                    "answers": [
+                        "Simple present",
+                        "Simple past",
+                        "Present perfect"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "I will answer his letter tonight.",
+                    "description": "",
+                    "answers": [
+                        "Simple present",
+                        "Simple future",
+                        "Future perfect"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "It has been raining all night.",
+                    "description": "",
+                    "answers": [
+                        "Present perfect",
+                        "Present perfect continuous",
+                        "Past perfect"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "I had finished before he came.",
+                    "description": "",
+                    "answers": [
+                        "Simple past",
+                        "Present perfect",
+                        "Past perfect"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "He takes little pride in his work.",
+                    "description": "",
+                    "answers": [
+                        "Simple present",
+                        "Present perfect",
+                        "Simple past"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "By this time tomorrow, I will have reached my home.",
+                    "description": "",
+                    "answers": [
+                        "Simple future",
+                        "Future perfect",
+                        "Future perfect continuous"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Mike is waiting for us.",
+                    "description": "",
+                    "answers": [
+                        "Simple present",
+                        "Present continuous",
+                        "Simple past"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "I am hoping to get a raise.",
+                    "description": "",
+                    "answers": [
+                        "Simple present",
+                        "Present continuous",
+                        "Simple past"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "I will have plenty of time tomorrow.",
+                    "description": "",
+                    "answers": [
+                        "Simple future",
+                        "Future perfect",
+                        "Future continuous"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "We have heard a strange story.",
+                    "description": "",
+                    "answers": [
+                        "Simple present",
+                        "Present perfect",
+                        "Present continuous"
+                    ],
+                    "correct": 1
+                }
+            ]
+        }
+    ]
+}

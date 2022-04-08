@@ -1,0 +1,296 @@
+{
+    "id": "86ef30a41ab94098add068e735487798",
+    "title": "Accident",
+    "questions": [
+        {
+            "id": "8cd144625df6475b9e5fec0c49652374",
+            "text": "Have you ever been in a traffic accident?",
+            "items": [
+                "Have",
+                "you",
+                "ever",
+                "been",
+                "in",
+                "a",
+                "traffic",
+                "accident?"
+            ]
+        },
+        {
+            "id": "42ddf6a392f94ac88e6b2f8f38079d8f",
+            "text": "Yes, three years ago.",
+            "items": [
+                "Yes,",
+                [
+                    "three",
+                    "3"
+                ],
+                "years",
+                "ago."
+            ]
+        },
+        {
+            "id": "39cfd8fc22794a1c94ea9eebd8b37aea",
+            "text": "What happened?",
+            "items": [
+                "What",
+                "happened?"
+            ]
+        },
+        {
+            "id": "eae5e687df174029b956968dbcf14598",
+            "text": "I was hit by a car while crossing the road.",
+            "items": [
+                "I",
+                "was",
+                "hit",
+                "by",
+                "a",
+                "car",
+                "while",
+                "crossing",
+                "the",
+                "road."
+            ]
+        },
+        {
+            "id": "19d63b38000b447a9a19d2ad7326e558",
+            "text": "How did you feel then?",
+            "items": [
+                "How",
+                "did",
+                "you",
+                "feel",
+                "then?"
+            ]
+        },
+        {
+            "id": "8d09058512c14970ab3717c655fa3b27",
+            "text": "I felt really terrible because of my injuries.",
+            "items": [
+                "I",
+                "felt",
+                "really",
+                "terrible",
+                "because",
+                "of",
+                "my",
+                "injuries."
+            ]
+        },
+        {
+            "id": "1ce65ea9c24c452c8c39deacb46bdd9c",
+            "text": "Who was involved in the accident?",
+            "items": [
+                "Who",
+                "was",
+                "involved",
+                "in",
+                "the",
+                "accident?"
+            ]
+        },
+        {
+            "id": "56225702fb9041e18582526716a96491",
+            "text": "The car driver, his family (inside the car), and me.",
+            "items": [
+                "The",
+                "car",
+                "driver,",
+                "his",
+                "family",
+                "(inside",
+                "the",
+                "car),",
+                "and",
+                "me."
+            ]
+        },
+        {
+            "id": "fd9e9b3ead4e40c09e80a381e5f6cae1",
+            "text": "Did the insurance company pay for repair service?",
+            "items": [
+                "Did",
+                "the",
+                "insurance",
+                [
+                    "company",
+                    "Co"
+                ],
+                "pay",
+                "for",
+                "repair",
+                "service?"
+            ]
+        },
+        {
+            "id": "3b724bce3a8e4e0c868a69a90936f3c1",
+            "text": "I was walking so I did not require any car repair services.",
+            "items": [
+                "I",
+                "was",
+                "walking",
+                "so",
+                "I",
+                "did",
+                "not",
+                "require",
+                "any",
+                "car",
+                "repair",
+                "services."
+            ]
+        },
+        {
+            "id": "36fd2bf159764e2585f69ae933819045",
+            "text": "Did you need a lawyer?",
+            "items": [
+                "Did",
+                "you",
+                "need",
+                "a",
+                "lawyer?"
+            ]
+        },
+        {
+            "id": "e338a5abd4b8480d94ca55c6048a5493",
+            "text": "I hurt my lower back just a little, so I didn't call a lawyer.",
+            "items": [
+                "I",
+                "hurt",
+                "my",
+                "lower",
+                "back",
+                "just",
+                "a",
+                "little,",
+                "so",
+                "I",
+                "didn't",
+                "call",
+                "a",
+                "lawyer."
+            ]
+        },
+        {
+            "id": "d39fd72b6ef34f9e85b5cf1f780edb9b",
+            "text": "Did you report the issue to the police?",
+            "items": [
+                "Did",
+                "you",
+                "report",
+                "the",
+                "issue",
+                "to",
+                "the",
+                "police?"
+            ]
+        },
+        {
+            "id": "7738cccfe8c04fca8b062fd8db4fdc23",
+            "text": "No, we didn't want to get the police involved.",
+            "items": [
+                "No,",
+                "we",
+                "didn't",
+                "want",
+                "to",
+                "get",
+                "the",
+                "police",
+                "involved."
+            ]
+        },
+        {
+            "id": "ea08f45acb9c4e0fa64d0066fa52385c",
+            "text": "Do you have a driving license?",
+            "items": [
+                "Do",
+                "you",
+                "have",
+                "a",
+                "driving",
+                [
+                    "license?",
+                    "licence"
+                ]
+            ]
+        },
+        {
+            "id": "ba85ca406b854d7bbf01ec7c31209675",
+            "text": "Yes, I do. I always keep it in my purse.",
+            "items": [
+                "Yes,",
+                "I",
+                "do.",
+                "I",
+                "always",
+                "keep",
+                "it",
+                "in",
+                "my",
+                "purse."
+            ]
+        },
+        {
+            "id": "e9c6fcc7d7a94c338aeee87900a71f75",
+            "text": "Why should people obey traffic regulations?",
+            "items": [
+                "Why",
+                "should",
+                "people",
+                "obey",
+                "traffic",
+                "regulations?"
+            ]
+        },
+        {
+            "id": "3da198ce128b4a118ff2ce703f7d30b4",
+            "text": "To protect themselves and others.",
+            "items": [
+                "To",
+                "protect",
+                "themselves",
+                "and",
+                "others."
+            ]
+        },
+        {
+            "id": "e7d15ad9b9ee41b5a09b00703f5523f1",
+            "text": "The best ways are to wear a helmet, wait for traffic lights",
+            "items": [
+                "The",
+                "best",
+                [
+                    "ways",
+                    "way"
+                ],
+                "are",
+                "to",
+                "wear",
+                "a",
+                "helmet,",
+                "wait",
+                "for",
+                "traffic",
+                "lights"
+            ]
+        },
+        {
+            "id": "e6dcaab4ec8442d6ab32c57ea20d0524",
+            "text": "and stay in the appropriate vehicle/pedestrian lanes.",
+            "items": [
+                "and",
+                "stay",
+                "in",
+                "the",
+                "appropriate",
+                [
+                    "vehicle/pedestrian",
+                    "vehicle pedestrian"
+                ],
+                "lanes."
+            ]
+        }
+    ]
+}

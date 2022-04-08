@@ -1,0 +1,4544 @@
+[
+    {
+        "id": "a093b7d33d994d6bb7419b9a45a148c2",
+        "word": "apartment",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/əˈpɑːtmənt/",
+            "us": "/əˈpɑːrtmənt/"
+        },
+        "nearby": [
+            {
+                "word": "apartheid",
+                "pos": "noun"
+            },
+            {
+                "word": "aparthotel",
+                "pos": "noun"
+            },
+            {
+                "word": "apartment",
+                "pos": "noun"
+            },
+            {
+                "word": "apartment block",
+                "pos": "noun"
+            },
+            {
+                "word": "apartment hotel",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a set of rooms for living in, usually on one floor of a building",
+                    "vi": "một tập hợp các phòng để ở, thường nằm trên một tầng của tòa nhà"
+                },
+                "examples": [
+                    {
+                        "en": "an apartment building",
+                        "vi": "một tòa nhà chung cư"
+                    },
+                    {
+                        "en": "I was renting a two-bedroom apartment in an old building.",
+                        "vi": "Tôi đang thuê một căn hộ hai phòng ngủ trong một tòa nhà cũ."
+                    },
+                    {
+                        "en": "A group of developers wants to build a high-rise apartment complex.",
+                        "vi": "Một nhóm các nhà phát triển muốn xây dựng một khu chung cư cao tầng."
+                    },
+                    {
+                        "en": "I lived on the ground floor of an apartment block.",
+                        "vi": "Tôi sống ở tầng trệt của một khu chung cư."
+                    },
+                    {
+                        "en": "They left their fourth-floor apartment on Mott Street and walked to the bus.",
+                        "vi": "Họ rời căn hộ tầng 4 của mình trên phố Mott và đi bộ đến xe buýt."
+                    },
+                    {
+                        "en": "a one-room apartment",
+                        "vi": "một căn hộ một phòng"
+                    },
+                    {
+                        "en": "I moved into a lovely little studio apartment.",
+                        "vi": "Tôi chuyển đến một căn hộ studio nhỏ xinh xắn."
+                    },
+                    {
+                        "en": "He was evicted from his Manhattan apartment.",
+                        "vi": "Anh ta đã bị đuổi khỏi căn hộ ở Manhattan của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a set of rooms used for a holiday",
+                    "vi": "một tập hợp các phòng được sử dụng cho một kỳ nghỉ"
+                },
+                "examples": [
+                    {
+                        "en": "self-catering holiday apartments",
+                        "vi": "căn hộ nghỉ dưỡng tự phục vụ"
+                    },
+                    {
+                        "en": "They are staying in a luxury apartment overlooking the beach.",
+                        "vi": "Họ đang ở trong một căn hộ sang trọng nhìn ra bãi biển."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a room in a house, especially a large or famous house",
+                    "vi": "một căn phòng trong một ngôi nhà, đặc biệt là một ngôi nhà lớn hoặc nổi tiếng"
+                },
+                "examples": [
+                    {
+                        "en": "You can visit the whole palace except for the private apartments.",
+                        "vi": "Bạn có thể tham quan toàn bộ cung điện ngoại trừ các căn hộ riêng."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e8aa78400e054c5c98fcad2e4e552fdb",
+        "word": "flat",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/flæt/",
+            "us": "/flæt/"
+        },
+        "nearby": [
+            {
+                "word": "flashy",
+                "pos": "adjective"
+            },
+            {
+                "word": "flask",
+                "pos": "noun"
+            },
+            {
+                "word": "flat",
+                "pos": "noun"
+            },
+            {
+                "word": "flat",
+                "pos": "adjective"
+            },
+            {
+                "word": "flat",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a set of rooms for living in, usually on one floor of a building",
+                    "vi": "một tập hợp các phòng để ở, thường nằm trên một tầng của tòa nhà"
+                },
+                "examples": [
+                    {
+                        "en": "They're renting a furnished flat on the third floor.",
+                        "vi": "Họ đang thuê một căn hộ được trang bị bàn ghế trên tầng ba."
+                    },
+                    {
+                        "en": "to buy/sell a flat",
+                        "vi": "mua / bán căn hộ"
+                    },
+                    {
+                        "en": "in a flat Do you live in a flat or a house?",
+                        "vi": "trong một căn hộ Bạn sống trong một căn hộ hay một ngôi nhà?"
+                    },
+                    {
+                        "en": "a basement/ground-floor/top-floor flat",
+                        "vi": "căn hộ tầng hầm / tầng trệt / tầng trên cùng"
+                    },
+                    {
+                        "en": "a two-bedroom flat",
+                        "vi": "một căn hộ hai phòng ngủ"
+                    },
+                    {
+                        "en": "The park was surrounded by high-rise flats and office blocks.",
+                        "vi": "Công viên được bao quanh bởi các căn hộ cao tầng và khối văn phòng."
+                    },
+                    {
+                        "en": "a new block of flats",
+                        "vi": "một khối căn hộ mới"
+                    },
+                    {
+                        "en": "Many large old houses have been converted into flats.",
+                        "vi": "Nhiều ngôi nhà cổ lớn đã được chuyển đổi thành căn hộ."
+                    },
+                    {
+                        "en": "Children from the flats (= the block of flats) across the street were playing outside.",
+                        "vi": "Những đứa trẻ từ các căn hộ (= dãy căn hộ) bên kia đường đang chơi bên ngoài."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the flat level part of something",
+                    "vi": "phần cấp độ phẳng của một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "He beat on the door with the flat of his hand.",
+                        "vi": "Anh đập mạnh vào cánh cửa bằng bàn tay của mình."
+                    },
+                    {
+                        "en": "the flat of a sword",
+                        "vi": "mặt phẳng của một thanh kiếm"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an area of low flat land, especially near water",
+                    "vi": "một khu vực đất thấp bằng phẳng, đặc biệt là gần nước"
+                },
+                "examples": [
+                    {
+                        "en": "salt flats",
+                        "vi": "căn hộ muối"
+                    },
+                    {
+                        "en": "These birds live on the coastal flats.",
+                        "vi": "Những con chim này sống trên các bãi biển ven biển."
+                    },
+                    {
+                        "en": "mud and sand flats rich in animal life",
+                        "vi": "bãi bùn cát giàu đời sống động vật"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the season for racing horses on flat ground with no jumps",
+                    "vi": "mùa cho những con ngựa đua trên mặt đất bằng phẳng không có bước nhảy"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a note played a semitone lower than the note that is named. The written symbol is (♭).",
+                    "vi": "một nốt nhạc chơi một nửa cung thấp hơn nốt nhạc được đặt tên. Ký hiệu được viết là (♭)."
+                },
+                "examples": [
+                    {
+                        "en": "There are no sharps or flats in the key of C major.",
+                        "vi": "Không có dấu thăng hoặc dấu thăng trong phím của C trưởng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a tyre that has lost air, usually because of a hole",
+                    "vi": "lốp bị mất hơi, thường là do bị thủng"
+                },
+                "examples": [
+                    {
+                        "en": "We got a flat on the way home.",
+                        "vi": "Chúng tôi có một căn hộ trên đường về nhà."
+                    },
+                    {
+                        "en": "We had to stop to fix a flat.",
+                        "vi": "Chúng tôi đã phải dừng lại để sửa chữa một căn hộ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a vertical section of scenery used on a theatre stage",
+                    "vi": "một phần khung cảnh thẳng đứng được sử dụng trên sân khấu kịch"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "shoes with a very low heel",
+                    "vi": "giày có gót rất thấp"
+                },
+                "examples": [
+                    {
+                        "en": "a pair of flats",
+                        "vi": "một đôi căn hộ"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "on level ground, without hills or jumps (= for example in horse racing)",
+                    "vi": "trên mặt đất bằng phẳng, không có đồi hoặc nhảy (= ví dụ: trong đua ngựa)"
+                },
+                "examples": [
+                    {
+                        "en": "Overtaking the next cyclist on an Alpine climb is a dozen times harder than on the flat.",
+                        "vi": "Vượt qua người đi xe đạp tiếp theo trong chuyến leo núi Alpine khó hơn gấp chục lần so với trên đường phẳng."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1c33a80385c64c858d57f6ffb7f43423",
+        "word": "home",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/həʊm/",
+            "us": "/həʊm/"
+        },
+        "nearby": [
+            {
+                "word": "homburg",
+                "pos": "noun"
+            },
+            {
+                "word": "Home, Sweet Home",
+                "pos": ""
+            },
+            {
+                "word": "home",
+                "pos": "noun"
+            },
+            {
+                "word": "home",
+                "pos": "adverb"
+            },
+            {
+                "word": "home",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the house or flat that you live in, especially with your family",
+                    "vi": "ngôi nhà hoặc căn hộ mà bạn đang ở, đặc biệt là với gia đình của bạn"
+                },
+                "examples": [
+                    {
+                        "en": "Old people prefer to stay in their own homes.",
+                        "vi": "Người già thích ở nhà riêng."
+                    },
+                    {
+                        "en": "His children were upset when he sold the family home.",
+                        "vi": "Các con của ông đã rất buồn khi ông bán ngôi nhà của gia đình."
+                    },
+                    {
+                        "en": "While travelling she missed the comforts of home.",
+                        "vi": "Trong khi đi du lịch, cô ấy nhớ những tiện nghi như ở nhà."
+                    },
+                    {
+                        "en": "She leaves home at 7 every day.",
+                        "vi": "Cô ấy rời nhà lúc 7 giờ mỗi ngày."
+                    },
+                    {
+                        "en": "He left home (= left his parents and began an independent life) at sixteen.",
+                        "vi": "Anh rời nhà (= rời bỏ cha mẹ và bắt đầu cuộc sống tự lập) năm mười sáu tuổi."
+                    },
+                    {
+                        "en": "The floods forced many people to flee their homes.",
+                        "vi": "Lũ lụt khiến nhiều người phải rời bỏ nhà cửa."
+                    },
+                    {
+                        "en": "from home I'll call you from home later.",
+                        "vi": "từ nhà, tôi sẽ gọi cho bạn từ nhà sau."
+                    },
+                    {
+                        "en": "stray dogs needing new homes",
+                        "vi": "chó hoang cần nhà mới"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a house or flat, etc., when you think of it as property that can be bought and sold",
+                    "vi": "một ngôi nhà hoặc căn hộ, v.v., khi bạn coi đó là tài sản có thể mua và bán"
+                },
+                "examples": [
+                    {
+                        "en": "a holiday/summer home",
+                        "vi": "một kỳ nghỉ / nhà mùa hè"
+                    },
+                    {
+                        "en": "A lot of new homes are being built on the edge of town.",
+                        "vi": "Rất nhiều ngôi nhà mới đang được xây dựng ở ven thị trấn."
+                    },
+                    {
+                        "en": "He'd always dreamed of owning his own home.",
+                        "vi": "Anh luôn mơ ước được sở hữu ngôi nhà của riêng mình."
+                    },
+                    {
+                        "en": "Buying a home can be a complicated business.",
+                        "vi": "Mua nhà có thể là một công việc kinh doanh phức tạp."
+                    },
+                    {
+                        "en": "The number of homes sold in January fell by 13% on the previous month.",
+                        "vi": "Số lượng nhà bán được trong tháng 1 đã giảm 13% so với tháng trước."
+                    },
+                    {
+                        "en": "Private home ownership is increasing faster than ever.",
+                        "vi": "Sở hữu nhà riêng đang tăng nhanh hơn bao giờ hết."
+                    },
+                    {
+                        "en": "They applied for a home improvement loan.",
+                        "vi": "Họ đã đăng ký một khoản vay để cải thiện nhà."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the town, district, country, etc. that you come from, or where you are living and that you feel you belong to",
+                    "vi": "thị trấn, huyện, quốc gia, v.v. mà bạn đến hoặc nơi bạn đang sống và bạn cảm thấy mình thuộc về"
+                },
+                "examples": [
+                    {
+                        "en": "I often think about my friends back home.",
+                        "vi": "Tôi thường nghĩ về những người bạn của tôi ở quê nhà."
+                    },
+                    {
+                        "en": "Jane left England and made Greece her home.",
+                        "vi": "Jane rời Anh và biến Hy Lạp trở thành quê hương của mình."
+                    },
+                    {
+                        "en": "be home to somebody Jamaica is home to over two million people.",
+                        "vi": "là quê hương của ai đó Jamaica là quê hương của hơn hai triệu người."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to refer to a family living together, and the way it behaves",
+                    "vi": "được sử dụng để chỉ một gia đình sống cùng nhau và cách nó cư xử"
+                },
+                "examples": [
+                    {
+                        "en": "She came from a violent home.",
+                        "vi": "Cô ấy đến từ một ngôi nhà bạo lực."
+                    },
+                    {
+                        "en": "They wanted to give the boy a secure and loving home.",
+                        "vi": "Họ muốn cho cậu bé một ngôi nhà an toàn và yêu thương."
+                    },
+                    {
+                        "en": "He had always wanted a real home with a wife and children.",
+                        "vi": "Anh luôn muốn có một mái ấm thực sự với vợ con."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a place where people who cannot care for themselves live and are cared for by others",
+                    "vi": "nơi mà những người không thể tự chăm sóc mình sống và được người khác chăm sóc"
+                },
+                "examples": [
+                    {
+                        "en": "a children’s home",
+                        "vi": "nhà trẻ em"
+                    },
+                    {
+                        "en": "an old people’s home",
+                        "vi": "nhà của một người già"
+                    },
+                    {
+                        "en": "a retirement home",
+                        "vi": "một ngôi nhà hưu trí"
+                    },
+                    {
+                        "en": "a home for the mentally ill",
+                        "vi": "nhà cho người bệnh tâm thần"
+                    },
+                    {
+                        "en": "in a home She has lived in a home since she was six.",
+                        "vi": "trong một ngôi nhà Cô ấy đã sống trong một ngôi nhà từ khi cô ấy lên sáu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a place where pets with no owner are taken care of",
+                    "vi": "một nơi mà thú cưng không có chủ được chăm sóc"
+                },
+                "examples": [
+                    {
+                        "en": "a dogs’/cats’ home",
+                        "vi": "nhà của chó / mèo"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the place where a plant or animal usually lives; the place where somebody/something can be found",
+                    "vi": "nơi mà thực vật hoặc động vật thường sinh sống; nơi mà ai đó / thứ gì đó có thể được tìm thấy"
+                },
+                "examples": [
+                    {
+                        "en": "This region is the home of many species of wild flower.",
+                        "vi": "Vùng này là quê hương của nhiều loài hoa dại."
+                    },
+                    {
+                        "en": "The tiger's home is in the jungle.",
+                        "vi": "Nhà của hổ là trong rừng rậm."
+                    },
+                    {
+                        "en": "Beverly Hills is the home of the stars.",
+                        "vi": "Beverly Hills là ngôi nhà của các ngôi sao."
+                    },
+                    {
+                        "en": "home to somebody/something The Rockies are home to bears and mountain lions.",
+                        "vi": "nhà của ai đó / cái gì đó The Rockies là nhà của gấu và sư tử núi."
+                    },
+                    {
+                        "en": "Arizona is home to the Grand Canyon and the Petrified Forest.",
+                        "vi": "Arizona là quê hương của Grand Canyon và Rừng hóa đá."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a place where an object is kept",
+                    "vi": "nơi lưu giữ một đồ vật"
+                },
+                "examples": [
+                    {
+                        "en": "We haven't found a home for all our books yet.",
+                        "vi": "Chúng tôi vẫn chưa tìm thấy nhà cho tất cả các cuốn sách của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the place where something was first discovered, made or invented",
+                    "vi": "nơi mà cái gì đó lần đầu tiên được khám phá, chế tạo hoặc phát minh ra"
+                },
+                "examples": [
+                    {
+                        "en": "New Orleans, the home of jazz",
+                        "vi": "New Orleans, quê hương của nhạc jazz"
+                    },
+                    {
+                        "en": "Greece, the home of democracy",
+                        "vi": "Hy Lạp, quê hương của nền dân chủ"
+                    },
+                    {
+                        "en": "Andalusia, the home of flamenco",
+                        "vi": "Andalusia, quê hương của flamenco"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "in a person’s own house, flat, etc.",
+                    "vi": "trong nhà riêng của một người, căn hộ, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "I called round last night, but you weren't at home.",
+                        "vi": "Tôi đã gọi điện thoại vào đêm qua, nhưng bạn không có ở nhà."
+                    },
+                    {
+                        "en": "Oh no, I left my purse at home.",
+                        "vi": "Ồ không, tôi để quên ví ở nhà."
+                    },
+                    {
+                        "en": "He lived at home (= with his parents) until he was thirty.",
+                        "vi": "Anh ấy sống ở nhà (= với cha mẹ) cho đến khi anh ấy ba mươi tuổi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "comfortable and relaxed",
+                    "vi": "thoải mái và thư giãn"
+                },
+                "examples": [
+                    {
+                        "en": "Sit down and make yourself at home.",
+                        "vi": "Ngồi xuống và tự làm như ở nhà."
+                    },
+                    {
+                        "en": "Simon feels very at home on a horse.",
+                        "vi": "Simon cảm thấy như đang ở nhà trên một con ngựa."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "in somebody’s own country, not in a foreign country",
+                    "vi": "ở đất nước của ai đó, không phải ở nước ngoài"
+                },
+                "examples": [
+                    {
+                        "en": "The president is not as popular at home as he is abroad.",
+                        "vi": "Tổng thống không nổi tiếng ở trong nước như ở nước ngoài."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if a sports team plays at home, it plays in the town, etc. that it comes from",
+                    "vi": "nếu một đội thể thao chơi ở nhà, thì đội đó chơi ở thị trấn, v.v. mà đội đó đến từ"
+                },
+                "examples": [
+                    {
+                        "en": "Leeds are playing at home this weekend.",
+                        "vi": "Leeds được chơi trên sân nhà vào cuối tuần này."
+                    },
+                    {
+                        "en": "Is the match on Saturday at home or away?",
+                        "vi": "Trận đấu vào thứ Bảy trên sân nhà hay sân khách?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "away from a person’s own house, flat, etc.",
+                    "vi": "xa nhà riêng của một người, căn hộ, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "He works away from home during the week.",
+                        "vi": "Anh ấy đi làm ăn xa trong tuần."
+                    },
+                    {
+                        "en": "I don't want to be away from home for too long.",
+                        "vi": "Tôi không muốn xa nhà quá lâu."
+                    },
+                    {
+                        "en": "Her job means she's away from home for weeks at a time.",
+                        "vi": "Công việc của cô ấy có nghĩa là cô ấy phải vắng nhà hàng tuần liền."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if a sports team plays away from home, it plays in the town, etc. that its opponent comes from",
+                    "vi": "nếu một đội thể thao thi đấu trên sân khách, đội đó chơi trong thị trấn, v.v. mà đối thủ của họ đến từ"
+                },
+                "examples": [
+                    {
+                        "en": "The side has scored 24 goals away from home this season.",
+                        "vi": "Đội đã ghi được 24 bàn thắng trên sân khách mùa này."
+                    },
+                    {
+                        "en": "The team are playing away from home.",
+                        "vi": "Đội đang thi đấu trên sân khách."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "you should help and care for your own family, etc. before you start helping other people",
+                    "vi": "bạn nên giúp đỡ và quan tâm đến gia đình của mình, v.v. trước khi bắt đầu giúp đỡ người khác"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "if a remark or topic of discussion is close to home, it is accurate or connected with you in a way that makes you uncomfortable or embarrassed",
+                    "vi": "nếu một nhận xét hoặc chủ đề thảo luận gần nhà, nó là chính xác hoặc có liên quan đến bạn theo cách khiến bạn không thoải mái hoặc xấu hổ"
+                },
+                "examples": [
+                    {
+                        "en": "Her remarks about me were embarrassingly close to home.",
+                        "vi": "Những lời nhận xét của cô ấy về tôi thật đáng xấu hổ khi ở gần nhà."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "that involves somebody directly",
+                    "vi": "liên quan trực tiếp đến ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "The next year tragedy struck much closer to home.",
+                        "vi": "Thảm kịch năm sau ập đến gần nhà hơn nhiều."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to eat a lot of somebody else’s food",
+                    "vi": "ăn nhiều thức ăn của người khác"
+                },
+                "examples": [
+                    {
+                        "en": "How much longer is he staying? He’s eating us out of house and home.",
+                        "vi": "Anh ta sẽ ở lại bao lâu nữa? Anh ta đang ăn thịt chúng tôi ra khỏi nhà và nhà."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a place where you feel relaxed and comfortable as if you were in your own home",
+                    "vi": "một nơi mà bạn cảm thấy thư giãn và thoải mái như thể bạn đang ở trong chính ngôi nhà của mình"
+                },
+                "examples": [
+                    {
+                        "en": "The guests are made to feel that the hotel is a home from home.",
+                        "vi": "Du khách sẽ cảm thấy rằng khách sạn là một ngôi nhà như ở nhà."
+                    },
+                    {
+                        "en": "The hotel's friendly atmosphere makes it a real home (away) from home.",
+                        "vi": "Bầu không khí thân thiện của khách sạn làm cho nó trở thành một ngôi nhà thực sự (xa nhà)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a home is where the people you love are",
+                    "vi": "nhà là nơi có những người bạn yêu thương"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used to say how pleasant your home is (especially when you really mean that it is not pleasant at all)",
+                    "vi": "được sử dụng để nói ngôi nhà của bạn dễ chịu như thế nào (đặc biệt là khi bạn thực sự muốn nói rằng nó không dễ chịu chút nào)"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person’s home is a place where they can be private and safe and do as they like",
+                    "vi": "nhà của một người là nơi mà họ có thể riêng tư và an toàn và làm theo ý thích của họ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "(used especially about a couple) to start living in a new place",
+                    "vi": "(được sử dụng đặc biệt là về một cặp vợ chồng) để bắt đầu sống ở một nơi mới"
+                },
+                "examples": [
+                    {
+                        "en": "They got married and set up home together in Hull.",
+                        "vi": "Họ kết hôn và cùng nhau lập gia đình ở Hull."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the place where you are happiest, especially a country where you feel you belong more than in your own country because you share the ideas and attitudes of the people who live there",
+                    "vi": "nơi mà bạn hạnh phúc nhất, đặc biệt là một đất nước mà bạn cảm thấy mình thuộc về hơn đất nước của mình vì bạn chia sẻ ý tưởng và thái độ của những người sống ở đó"
+                },
+                "examples": [
+                    {
+                        "en": "When she moved to Italy, she knew she'd found her true spiritual home.",
+                        "vi": "Khi chuyển đến Ý, cô biết mình đã tìm thấy ngôi nhà tinh thần thực sự của mình."
+                    },
+                    {
+                        "en": "The first time he visited New Orleans he knew he had found his spiritual home.",
+                        "vi": "Lần đầu tiên đến thăm New Orleans, anh biết mình đã tìm thấy ngôi nhà thiêng liêng của mình."
+                    },
+                    {
+                        "en": "I had always thought of India as my spiritual home.",
+                        "vi": "Tôi đã luôn nghĩ về Ấn Độ là quê hương tinh thần của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to emphasize a question about somebody/something",
+                    "vi": "được sử dụng để nhấn mạnh một câu hỏi về ai đó / cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "Who's she when she's at home? (= I don't know her)",
+                        "vi": "Cô ấy là ai khi cô ấy ở nhà? (= Tôi không biết cô ấy)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to do your job in your own home, especially a job that is usually done in an office",
+                    "vi": "để làm công việc của bạn tại nhà riêng của bạn, đặc biệt là một công việc thường được thực hiện trong văn phòng"
+                },
+                "examples": [
+                    {
+                        "en": "I usually work from home on Fridays.",
+                        "vi": "Tôi thường làm việc tại nhà vào các ngày thứ Sáu."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8393a4b90aeb410ca0c05b3c5e233c03",
+        "word": "house",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/haʊs/",
+            "us": "/haʊs/"
+        },
+        "nearby": [
+            {
+                "word": "hourly",
+                "pos": "adjective"
+            },
+            {
+                "word": "hourly",
+                "pos": "adverb"
+            },
+            {
+                "word": "house",
+                "pos": "noun"
+            },
+            {
+                "word": "house",
+                "pos": "verb"
+            },
+            {
+                "word": "house arrest",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a building for people to live in, usually for one family",
+                    "vi": "một tòa nhà cho mọi người ở, thường là cho một gia đình"
+                },
+                "examples": [
+                    {
+                        "en": "in a house We live in a two-bedroom house.",
+                        "vi": "trong một ngôi nhà Chúng tôi sống trong một ngôi nhà hai phòng ngủ."
+                    },
+                    {
+                        "en": "in the house It was so hot outside we stayed in the house.",
+                        "vi": "trong nhà Trời nóng quá, chúng tôi ở trong nhà."
+                    },
+                    {
+                        "en": "into the house He went into the house.",
+                        "vi": "vào nhà Anh ấy đã vào nhà."
+                    },
+                    {
+                        "en": "out of the house I had to get out of the house.",
+                        "vi": "ra khỏi nhà tôi phải ra khỏi nhà."
+                    },
+                    {
+                        "en": "inside the house A light was on inside the house.",
+                        "vi": "bên trong ngôi nhà Một ngọn đèn sáng bên trong ngôi nhà."
+                    },
+                    {
+                        "en": "outside the house There was a police van parked outside the house.",
+                        "vi": "bên ngoài ngôi nhà Có một chiếc xe cảnh sát đậu bên ngoài ngôi nhà."
+                    },
+                    {
+                        "en": "at somebody's house Let's have a party at my house.",
+                        "vi": "tại nhà của ai đó Hãy tổ chức một bữa tiệc tại nhà của tôi."
+                    },
+                    {
+                        "en": "We need to build more houses in a way that respects the needs of the environment.",
+                        "vi": "Chúng ta cần xây dựng nhiều ngôi nhà hơn theo cách tôn trọng nhu cầu của môi trường."
+                    },
+                    {
+                        "en": "Investors were buying houses to rent them out.",
+                        "vi": "Các nhà đầu tư đang mua nhà để cho thuê."
+                    },
+                    {
+                        "en": "What time do you leave the house in the morning (= to go to work)?",
+                        "vi": "Bạn ra khỏi nhà lúc mấy giờ vào buổi sáng (= đi làm)?"
+                    },
+                    {
+                        "en": "(British English) We're moving house (= leaving our house and going to live in a different one).",
+                        "vi": "(Tiếng Anh Anh) Chúng tôi đang chuyển nhà (= rời khỏi ngôi nhà của chúng tôi và đến sống ở một ngôi nhà khác)."
+                    },
+                    {
+                        "en": "House prices (= prices of houses and flats) in London are still rising.",
+                        "vi": "Giá nhà (= giá nhà và căn hộ) ở Luân Đôn vẫn đang tăng."
+                    },
+                    {
+                        "en": "We went on a tour of the house and grounds (= for example, at a country house, open to the public).",
+                        "vi": "Chúng tôi đã đi tham quan ngôi nhà và khu đất (= ví dụ: tại một ngôi nhà nông thôn, mở cửa cho công chúng)."
+                    },
+                    {
+                        "en": "They went from house to house, begging for food.",
+                        "vi": "Họ đi từ nhà này sang nhà khác, xin ăn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "all the people living in a house",
+                    "vi": "tất cả những người sống trong một ngôi nhà"
+                },
+                "examples": [
+                    {
+                        "en": "Be quiet or you'll wake the whole house!",
+                        "vi": "Hãy im lặng nếu không bạn sẽ đánh thức cả nhà!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a building used for a particular purpose, for example for holding meetings in or keeping animals or goods in",
+                    "vi": "một tòa nhà được sử dụng cho một mục đích cụ thể, ví dụ như để tổ chức các cuộc họp hoặc giữ động vật hoặc hàng hóa trong"
+                },
+                "examples": [
+                    {
+                        "en": "an opera house",
+                        "vi": "một nhà hát opera"
+                    },
+                    {
+                        "en": "a henhouse",
+                        "vi": "một chuồng gà"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used in the names of office buildings",
+                    "vi": "được sử dụng trong tên của các tòa nhà văn phòng"
+                },
+                "examples": [
+                    {
+                        "en": "Their offices are on the second floor of Chester House.",
+                        "vi": "Văn phòng của họ ở tầng hai của Chester House."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a company involved in a particular kind of business; an institution of a particular kind",
+                    "vi": "một công ty tham gia vào một loại hình kinh doanh cụ thể; một tổ chức của một loại cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "a fashion/banking/publishing house",
+                        "vi": "thời trang / ngân hàng / nhà xuất bản"
+                    },
+                    {
+                        "en": "a religious house (= a convent or a monastery)",
+                        "vi": "một nhà tôn giáo (= một tu viện hoặc một tu viện)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a restaurant",
+                    "vi": "một nhà hàng"
+                },
+                "examples": [
+                    {
+                        "en": "a steakhouse",
+                        "vi": "một nhà hàng bít tết"
+                    },
+                    {
+                        "en": "a coffee house",
+                        "vi": "một quán cà phê"
+                    },
+                    {
+                        "en": "a bottle of house wine (= the cheapest wine available in a particular restaurant, sometimes not listed by name)",
+                        "vi": "một chai rượu nhà (= loại rượu rẻ nhất có sẵn trong một nhà hàng cụ thể, đôi khi không được liệt kê theo tên)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a group of people who meet to discuss and make the laws of a country",
+                    "vi": "một nhóm người gặp nhau để thảo luận và đưa ra luật của một quốc gia"
+                },
+                "examples": [
+                    {
+                        "en": "Legislation requires approval by both houses of parliament.",
+                        "vi": "Luật pháp đòi hỏi sự chấp thuận của cả hai viện của quốc hội."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the House of Commons or the House of Lords in the UK; the House of Representatives in the US",
+                    "vi": "Hạ viện hoặc Hạ viện ở Vương quốc Anh; Hạ viện ở Hoa Kỳ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a group of people discussing something in a formal debate",
+                    "vi": "một nhóm người thảo luận điều gì đó trong một cuộc tranh luận chính thức"
+                },
+                "examples": [
+                    {
+                        "en": "I urge the house to vote against the motion.",
+                        "vi": "Tôi kêu gọi cả nhà bỏ phiếu chống lại đề nghị này."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the part of a theatre where the audience sits; the audience at a particular performance",
+                    "vi": "phần của một nhà hát, nơi khán giả ngồi; khán giả tại một buổi biểu diễn cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "playing to a full/packed/empty house (= to a large/small audience)",
+                        "vi": "chơi với một ngôi nhà đầy đủ / chật kín / trống rỗng (= cho một lượng lớn / khán giả nhỏ)"
+                    },
+                    {
+                        "en": "The spotlight faded and the house lights came up.",
+                        "vi": "Ánh đèn sân khấu mờ dần và đèn nhà bật lên."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "(in some British schools) an organized group of students of different ages who compete against other groups in sports competitions, etc. and who may, in boarding schools, live together in one building",
+                    "vi": "(ở một số trường học ở Anh) một nhóm có tổ chức gồm các học sinh ở các độ tuổi khác nhau thi đấu với các nhóm khác trong các cuộc thi thể thao, v.v. và những người có thể, trong các trường nội trú, sống cùng nhau trong một tòa nhà"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "an old and famous family",
+                    "vi": "một gia đình lâu đời và nổi tiếng"
+                },
+                "examples": [
+                    {
+                        "en": "the House of Windsor (= the British royal family)",
+                        "vi": "Nhà Windsor (= hoàng gia Anh)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a type of electronic dance music with a fast beat",
+                    "vi": "một loại nhạc dance điện tử với nhịp điệu nhanh"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to make everyone laugh or cheer, especially at a performance in the theatre",
+                    "vi": "để làm cho mọi người cười hoặc cổ vũ, đặc biệt là tại một buổi biểu diễn trong nhà hát"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to remove people or things that are not necessary or wanted",
+                    "vi": "để loại bỏ những người hoặc những thứ không cần thiết hoặc không muốn"
+                },
+                "examples": [
+                    {
+                        "en": "The new manager said he wanted to clean house.",
+                        "vi": "Người quản lý mới nói rằng anh ấy muốn dọn dẹp nhà cửa."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make your house clean",
+                    "vi": "để làm cho ngôi nhà của bạn sạch sẽ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to eat a lot of somebody else’s food",
+                    "vi": "ăn nhiều thức ăn của người khác"
+                },
+                "examples": [
+                    {
+                        "en": "How much longer is he staying? He’s eating us out of house and home.",
+                        "vi": "Anh ta sẽ ở lại bao lâu nữa? Anh ta đang ăn thịt chúng tôi ra khỏi nhà và nhà."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to become friends quickly and have a very friendly relationship",
+                    "vi": "nhanh chóng trở thành bạn bè và có một mối quan hệ rất thân thiện"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to do something or ask a question in a very complicated way instead of in a simple, direct way",
+                    "vi": "để làm điều gì đó hoặc đặt một câu hỏi theo một cách rất phức tạp thay vì một cách đơn giản, trực tiếp"
+                },
+                "examples": [
+                    {
+                        "en": "You did go all round the houses didn’t you? Why not get straight to the point?",
+                        "vi": "Bạn đã đi khắp các ngôi nhà phải không? Tại sao không đi thẳng vào vấn đề?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to cook, clean and do all the other jobs around the house",
+                    "vi": "nấu ăn, dọn dẹp và làm tất cả các công việc khác xung quanh nhà"
+                },
+                "examples": [
+                    {
+                        "en": "She kept house for her elderly parents.",
+                        "vi": "Cô cất nhà cho cha mẹ già."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to say that everyone was very emotional about something",
+                    "vi": "từng nói rằng mọi người đều rất xúc động về điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "There wasn't a dry eye in the house when they announced their engagement.",
+                        "vi": "Không có người nào thấy khô mắt khi họ tuyên bố đính hôn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "drinks or meals that are on the house are provided free by the pub or restaurant and you do not have to pay",
+                    "vi": "đồ uống hoặc bữa ăn trong nhà được cung cấp miễn phí bởi quán rượu hoặc nhà hàng và bạn không phải trả tiền"
+                },
+                "examples": [
+                    {
+                        "en": "Have a drink on the house.",
+                        "vi": "Vào nhà uống rượu đi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "you should not criticize other people, because they will easily find ways of criticizing you",
+                    "vi": "bạn không nên chỉ trích người khác, vì họ sẽ dễ dàng tìm cách chỉ trích bạn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to play at being a family in its home",
+                    "vi": "chơi để trở thành một gia đình trong ngôi nhà của nó"
+                },
+                "examples": [
+                    {
+                        "en": "The children were playing house, giving dinner to their dolls.",
+                        "vi": "Những đứa trẻ đang chơi nhà, đưa bữa tối cho búp bê của chúng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to organize your own business or improve your own behaviour before you try to criticize somebody else",
+                    "vi": "tổ chức công việc kinh doanh của riêng bạn hoặc cải thiện hành vi của chính bạn trước khi bạn cố gắng chỉ trích người khác"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "very safe",
+                    "vi": "rất an toàn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to make a place your home",
+                    "vi": "để biến một nơi thành nhà của bạn"
+                },
+                "examples": [
+                    {
+                        "en": "They set up house together in a small flat in Brighton.",
+                        "vi": "Họ cùng nhau dựng nhà trong một căn hộ nhỏ ở Brighton."
+                    },
+                    {
+                        "en": "They want to set up house together.",
+                        "vi": "Họ muốn thiết lập một ngôi nhà cùng nhau."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "70c668401c0f49b183d6d961204e44ac",
+        "word": "palace",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/ˈpæləs/",
+            "us": "/ˈpæləs/"
+        },
+        "nearby": [
+            {
+                "word": "PAL",
+                "pos": "noun"
+            },
+            {
+                "word": "Pal",
+                "pos": "noun"
+            },
+            {
+                "word": "palace",
+                "pos": "noun"
+            },
+            {
+                "word": "palace coup",
+                "pos": "noun"
+            },
+            {
+                "word": "the Palace of Westminster",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the official home of a king, queen, president, etc.",
+                    "vi": "nhà chính thức của vua, hoàng hậu, tổng thống, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "Buckingham Palace",
+                        "vi": "cung điện Buckingham"
+                    },
+                    {
+                        "en": "the royal/presidential palace",
+                        "vi": "dinh thự hoàng gia / tổng thống"
+                    },
+                    {
+                        "en": "He spent his early days at the Palace of Versailles.",
+                        "vi": "Ông đã dành những ngày đầu tiên của mình tại Cung điện Versailles."
+                    },
+                    {
+                        "en": "the palace gates/grounds/walls",
+                        "vi": "cổng / sân / tường cung điện"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a way of referring to the people who live or work in a palace, especially the British royal family and their advisers",
+                    "vi": "một cách đề cập đến những người sống hoặc làm việc trong cung điện, đặc biệt là hoàng gia Anh và các cố vấn của họ"
+                },
+                "examples": [
+                    {
+                        "en": "The Palace last night refused to comment on the reports.",
+                        "vi": "Cung điện đêm qua từ chối bình luận về các báo cáo."
+                    },
+                    {
+                        "en": "a Palace spokesman",
+                        "vi": "một phát ngôn viên của Cung điện"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "any large impressive house",
+                    "vi": "bất kỳ ngôi nhà lớn ấn tượng"
+                },
+                "examples": [
+                    {
+                        "en": "The Old Town has a whole collection of churches, palaces and mosques.",
+                        "vi": "Old Town có một bộ sưu tập toàn bộ các nhà thờ, cung điện và nhà thờ Hồi giáo."
+                    },
+                    {
+                        "en": "Even this small house was a veritable palace compared to his tent.",
+                        "vi": "Ngay cả ngôi nhà nhỏ này cũng là một cung điện thực sự so với căn lều của anh ta."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a large public building, such as a hotel or cinema",
+                    "vi": "một tòa nhà công cộng lớn, chẳng hạn như khách sạn hoặc rạp chiếu phim"
+                },
+                "examples": [
+                    {
+                        "en": "the Strand Palace Hotel",
+                        "vi": "khách sạn Strand Palace"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "35e96553354c44469505da9c5ad77d6e",
+        "word": "accommodation",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/əˌkɒməˈdeɪʃn/",
+            "us": "/əˌkɑːməˈdeɪʃn/"
+        },
+        "nearby": [
+            {
+                "word": "accommodate",
+                "pos": "verb"
+            },
+            {
+                "word": "accommodating",
+                "pos": "adjective"
+            },
+            {
+                "word": "accommodation",
+                "pos": "noun"
+            },
+            {
+                "word": "accompaniment",
+                "pos": "noun"
+            },
+            {
+                "word": "accompanist",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a place to live, work or stay in",
+                    "vi": "một nơi để sống, làm việc hoặc ở"
+                },
+                "examples": [
+                    {
+                        "en": "rented/temporary accommodation",
+                        "vi": "chỗ ở thuê / tạm thời"
+                    },
+                    {
+                        "en": "Hotel accommodation is included in the price of your holiday.",
+                        "vi": "Chỗ ở khách sạn được bao gồm trong giá kỳ nghỉ của bạn."
+                    },
+                    {
+                        "en": "We may have to provide alternative accommodation for you.",
+                        "vi": "Chúng tôi có thể phải cung cấp chỗ ở thay thế cho bạn."
+                    },
+                    {
+                        "en": "First-class accommodation is available on all flights.",
+                        "vi": "Chỗ ở hạng nhất có sẵn trên tất cả các chuyến bay."
+                    },
+                    {
+                        "en": "It can be difficult to find suitable accommodation for those in need.",
+                        "vi": "Có thể khó khăn để tìm chỗ ở thích hợp cho những người có nhu cầu."
+                    },
+                    {
+                        "en": "The building plans include much needed new office accommodation.",
+                        "vi": "Các kế hoạch xây dựng bao gồm nhiều chỗ ở văn phòng mới cần thiết."
+                    },
+                    {
+                        "en": "furnished accommodation",
+                        "vi": "chỗ ở đầy đủ tiện nghi"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "somewhere to live or stay, often also providing food or other services",
+                    "vi": "nơi nào đó để sinh sống hoặc ở, thường cũng cung cấp thực phẩm hoặc các dịch vụ khác"
+                },
+                "examples": [
+                    {
+                        "en": "More and more travelers are looking for bed and breakfast accommodations in private homes.",
+                        "vi": "Ngày càng có nhiều du khách tìm kiếm các phòng nghỉ chỉ phục vụ bữa sáng tại nhà riêng."
+                    },
+                    {
+                        "en": "The boat provides reasonable overnight accommodations for four adults.",
+                        "vi": "Thuyền cung cấp chỗ ở qua đêm hợp lý cho bốn người lớn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an agreement or arrangement between people or groups with different opinions that is acceptable to everyone; the process of reaching this agreement",
+                    "vi": "thỏa thuận hoặc sắp xếp giữa những người hoặc nhóm có ý kiến khác nhau được mọi người chấp nhận; quá trình đạt được thỏa thuận này"
+                },
+                "examples": [
+                    {
+                        "en": "They were forced to reach an accommodation with the rebels.",
+                        "vi": "Họ buộc phải đến chỗ ở với quân nổi dậy."
+                    },
+                    {
+                        "en": "The two countries should be persuaded to work towards some sort of mutual accommodation.",
+                        "vi": "Hai nước nên được thuyết phục để làm việc hướng tới một số hình thức lưu trú chung."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the way in which the lens (= a part of the eye) becomes flatter or thicker in order to create a clear image of the object that you want to look at",
+                    "vi": "cách mà ống kính (= một phần của mắt) trở nên phẳng hơn hoặc dày hơn để tạo ra hình ảnh rõ ràng về đối tượng mà bạn muốn nhìn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "3d7abc1804a14b91a18f556b7950475d",
+        "word": "cottage",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈkɒtɪdʒ/",
+            "us": "/ˈkɑːtɪdʒ/"
+        },
+        "nearby": [
+            {
+                "word": "coterminous",
+                "pos": "adjective"
+            },
+            {
+                "word": "the Cotswolds",
+                "pos": ""
+            },
+            {
+                "word": "cottage",
+                "pos": "noun"
+            },
+            {
+                "word": "cottage cheese",
+                "pos": "noun"
+            },
+            {
+                "word": "cottage hospital",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small house, especially in the country",
+                    "vi": "một ngôi nhà nhỏ, đặc biệt là trong nước"
+                },
+                "examples": [
+                    {
+                        "en": "a thatched cottage",
+                        "vi": "một ngôi nhà tranh"
+                    },
+                    {
+                        "en": "(British English) a holiday cottage",
+                        "vi": "(Tiếng Anh Anh) một ngôi nhà nghỉ mát"
+                    },
+                    {
+                        "en": "in a cottage James lived in a charming country cottage with roses around the door.",
+                        "vi": "trong một ngôi nhà nhỏ, James sống trong một ngôi nhà nông thôn duyên dáng với hoa hồng quanh cửa."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4904fa3ea427457da9633a407231fdae",
+        "word": "farm",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/fɑːm/",
+            "us": "/fɑːrm/"
+        },
+        "nearby": [
+            {
+                "word": "far gone",
+                "pos": "adjective"
+            },
+            {
+                "word": "Farley's Rusks",
+                "pos": "noun"
+            },
+            {
+                "word": "farm",
+                "pos": "noun"
+            },
+            {
+                "word": "farm",
+                "pos": "verb"
+            },
+            {
+                "word": "farm belt",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an area of land, and the buildings on it, used for growing crops and/or keeping animals",
+                    "vi": "một diện tích đất và các tòa nhà trên đó, được sử dụng để trồng trọt và / hoặc nuôi gia súc"
+                },
+                "examples": [
+                    {
+                        "en": "a 200-hectare farm",
+                        "vi": "một trang trại rộng 200 ha"
+                    },
+                    {
+                        "en": "a dairy farm",
+                        "vi": "một trang trại bò sữa"
+                    },
+                    {
+                        "en": "an organic farm",
+                        "vi": "một trang trại hữu cơ"
+                    },
+                    {
+                        "en": "a pig/sheep/poultry farm",
+                        "vi": "một trang trại lợn / cừu / gia cầm"
+                    },
+                    {
+                        "en": "He runs the farm on his own.",
+                        "vi": "Anh ấy điều hành trang trại của riêng mình."
+                    },
+                    {
+                        "en": "on a farm to live on a farm",
+                        "vi": "ở một trang trại để sống trong một trang trại"
+                    },
+                    {
+                        "en": "She works on the family farm.",
+                        "vi": "Cô ấy làm việc trong trang trại của gia đình."
+                    },
+                    {
+                        "en": "at a farm At harvest time they helped out at the farm.",
+                        "vi": "tại một trang trại Vào lúc thu hoạch, họ đã giúp đỡ tại trang trại."
+                    },
+                    {
+                        "en": "a farm worker/labourer",
+                        "vi": "một công nhân nông trại / người lao động"
+                    },
+                    {
+                        "en": "farm animals",
+                        "vi": "động vật trong nông trại"
+                    },
+                    {
+                        "en": "farm buildings/machinery",
+                        "vi": "các tòa nhà / máy móc trang trại"
+                    },
+                    {
+                        "en": "farm income/subsidies",
+                        "vi": "thu nhập trang trại / trợ cấp"
+                    },
+                    {
+                        "en": "(North American English) a farm family",
+                        "vi": "(Tiếng Anh Bắc Mỹ) một gia đình nông dân"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the main house on a farm, where the farmer lives",
+                    "vi": "ngôi nhà chính trong một trang trại, nơi người nông dân sống"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a place where particular fish or animals are kept in order to produce young",
+                    "vi": "một nơi mà cá hoặc động vật cụ thể được nuôi để tạo ra con non"
+                },
+                "examples": [
+                    {
+                        "en": "a trout/mink farm",
+                        "vi": "một trang trại cá hồi / chồn"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to risk everything you have on an investment, a bet, etc.",
+                    "vi": "mạo hiểm mọi thứ bạn có khi đầu tư, đặt cược, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "The company bet the farm on the new marketing model, only to find that it wasn’t successful.",
+                        "vi": "Công ty đặt cược trang trại vào mô hình tiếp thị mới, nhưng nhận thấy rằng nó không thành công."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to get back a country's assets, such as land or property, after they have been owned by another country",
+                    "vi": "để lấy lại tài sản của một quốc gia, chẳng hạn như đất đai hoặc tài sản, sau khi chúng đã thuộc sở hữu của một quốc gia khác"
+                },
+                "examples": [
+                    {
+                        "en": "The prime minister revealed his plan to buy back the farm from foreign ownership.",
+                        "vi": "Thủ tướng tiết lộ kế hoạch mua lại trang trại từ sở hữu nước ngoài."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to die",
+                    "vi": "chết"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to sell a country's assets, such as land or property, to foreign owners",
+                    "vi": "bán tài sản của một quốc gia, chẳng hạn như đất đai hoặc tài sản, cho các chủ sở hữu nước ngoài"
+                },
+                "examples": [
+                    {
+                        "en": "The government is happy to keep selling off the farm.",
+                        "vi": "Chính phủ rất vui khi tiếp tục bán bớt trang trại."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "bb71f2ce75a44a0db26bca0fa4828736",
+        "word": "country house",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˌkʌntri ˈhaʊs/",
+            "us": "/ˌkʌntri ˈhaʊs/"
+        },
+        "nearby": [
+            {
+                "word": "country dance",
+                "pos": "noun"
+            },
+            {
+                "word": "country dancing",
+                "pos": "noun"
+            },
+            {
+                "word": "country house",
+                "pos": "noun"
+            },
+            {
+                "word": "Country Life",
+                "pos": ""
+            },
+            {
+                "word": "countrymade",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a large house in the country, especially one that belongs or used to belong to a rich important family",
+                    "vi": "một ngôi nhà lớn trong nước, đặc biệt là một ngôi nhà thuộc hoặc từng thuộc về một gia đình quan trọng giàu có"
+                },
+                "examples": [
+                    {
+                        "en": "He used to entertain the politicians of the day at his country house.",
+                        "vi": "Ông thường tiếp đãi các chính khách trong ngày tại ngôi nhà ở nông thôn của mình."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0daca57f6de94ac49f7563b8b082a118",
+        "word": "detached",
+        "pos": "adjective",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/dɪˈtætʃt/",
+            "us": "/dɪˈtætʃt/"
+        },
+        "nearby": [
+            {
+                "word": "detach",
+                "pos": "verb"
+            },
+            {
+                "word": "detachable",
+                "pos": "adjective"
+            },
+            {
+                "word": "detached",
+                "pos": "adjective"
+            },
+            {
+                "word": "detachment",
+                "pos": "noun"
+            },
+            {
+                "word": "detail",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "not joined to another house on either side",
+                    "vi": "không tham gia vào một ngôi nhà khác ở cả hai bên"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "showing a lack of feeling",
+                    "vi": "thiếu cảm giác"
+                },
+                "examples": [
+                    {
+                        "en": "She wanted him to stop being so cool, so detached, so cynical.",
+                        "vi": "Cô muốn anh đừng quá lạnh lùng, quá tách biệt, quá giễu cợt."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "not influenced by other people or by your own feelings",
+                    "vi": "không bị ảnh hưởng bởi người khác hoặc bởi cảm xúc của riêng bạn"
+                },
+                "examples": [
+                    {
+                        "en": "a detached observer",
+                        "vi": "một người quan sát tách rời"
+                    },
+                    {
+                        "en": "She tries to remain emotionally detached from her patients.",
+                        "vi": "Cô ấy cố gắng giữ tình cảm tách biệt với bệnh nhân của mình."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ab2063e15dbe4ad7aefba7ec2b39f2a0",
+        "word": "estate",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ɪˈsteɪt/",
+            "us": "/ɪˈsteɪt/"
+        },
+        "nearby": [
+            {
+                "word": "establishment",
+                "pos": "noun"
+            },
+            {
+                "word": "the Establishment Clause",
+                "pos": ""
+            },
+            {
+                "word": "estate",
+                "pos": "noun"
+            },
+            {
+                "word": "estate agent",
+                "pos": "noun"
+            },
+            {
+                "word": "estate car",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an area of land with a lot of houses or factories of the same type on it",
+                    "vi": "một khu đất có nhiều nhà ở hoặc nhà xưởng cùng loại trên đó"
+                },
+                "examples": [
+                    {
+                        "en": "on an estate She lives in a tower block on an estate in London.",
+                        "vi": "trên một điền trang Cô ấy sống trong một tòa tháp trên một điền trang ở Luân Đôn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a large area of land, usually in the country, that is owned by one person or family",
+                    "vi": "một vùng đất rộng lớn, thường là ở trong nước, thuộc sở hữu của một người hoặc một gia đình"
+                },
+                "examples": [
+                    {
+                        "en": "a 3 000-acre estate",
+                        "vi": "một điền trang rộng 3.000 mẫu Anh"
+                    },
+                    {
+                        "en": "on an estate The poet's childhood was spent on a country estate.",
+                        "vi": "trên một điền trang Tuổi thơ của nhà thơ đã trải qua trên một điền trang ở nông thôn."
+                    },
+                    {
+                        "en": "She receives rent from all the people whose cottages are on estate land.",
+                        "vi": "Cô ấy nhận tiền thuê từ tất cả những người có ngôi nhà trên đất điền trang."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "all the money and property that a person owns, especially everything that is left when they die",
+                    "vi": "tất cả tiền bạc và tài sản mà một người sở hữu, đặc biệt là tất cả những gì còn lại khi họ chết"
+                },
+                "examples": [
+                    {
+                        "en": "Her estate was left to her daughter.",
+                        "vi": "Gia sản của bà được để lại cho con gái."
+                    },
+                    {
+                        "en": "He left estate valued at a million dollars.",
+                        "vi": "Ông để lại bất động sản trị giá một triệu đô la."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a car with a lot of space behind the back seats and a door at the back for loading large items",
+                    "vi": "một chiếc xe có nhiều không gian phía sau hàng ghế sau và một cửa ở phía sau để chất hàng hóa lớn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "95e9e03a636f4600a990ab147aae7719",
+        "word": "houseboat",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈhaʊsbəʊt/",
+            "us": "/ˈhaʊsbəʊt/"
+        },
+        "nearby": [
+            {
+                "word": "house",
+                "pos": "verb"
+            },
+            {
+                "word": "house arrest",
+                "pos": "noun"
+            },
+            {
+                "word": "houseboat",
+                "pos": "noun"
+            },
+            {
+                "word": "housebound",
+                "pos": "adjective"
+            },
+            {
+                "word": "houseboy",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a boat that people can live in, usually kept at a particular place on a river or canal",
+                    "vi": "một chiếc thuyền mà mọi người có thể sinh sống, thường được giữ ở một địa điểm cụ thể trên sông hoặc kênh"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "b284ab3521f443c0bb4a66d49de2e22e",
+        "word": "housing",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈhaʊzɪŋ/",
+            "us": "/ˈhaʊzɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "housewifely",
+                "pos": "adjective"
+            },
+            {
+                "word": "housework",
+                "pos": "noun"
+            },
+            {
+                "word": "housing",
+                "pos": "noun"
+            },
+            {
+                "word": "housing association",
+                "pos": "noun"
+            },
+            {
+                "word": "housing benefit",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "houses, flats, etc. that people live in, especially when referring to their type, price or condition",
+                    "vi": "nhà, căn hộ, v.v. mà mọi người đang ở, đặc biệt là khi đề cập đến loại, giá cả hoặc tình trạng của họ"
+                },
+                "examples": [
+                    {
+                        "en": "rental/student housing",
+                        "vi": "cho thuê / nhà ở sinh viên"
+                    },
+                    {
+                        "en": "temporary/permanent housing",
+                        "vi": "nhà ở tạm thời / lâu dài"
+                    },
+                    {
+                        "en": "low-cost/cheap housing",
+                        "vi": "nhà ở giá rẻ / giá rẻ"
+                    },
+                    {
+                        "en": "There is an urgent need to build more affordable housing.",
+                        "vi": "Có một nhu cầu cấp thiết để xây dựng nhà ở giá cả phải chăng hơn."
+                    },
+                    {
+                        "en": "We must find a way to solve the city's housing crisis.",
+                        "vi": "Chúng ta phải tìm cách giải quyết cuộc khủng hoảng nhà ở của thành phố."
+                    },
+                    {
+                        "en": "The study linked poor housing conditions to a variety of health problems.",
+                        "vi": "Nghiên cứu liên kết tình trạng nhà ở tồi tàn với một loạt các vấn đề sức khỏe."
+                    },
+                    {
+                        "en": "How severe is the housing shortage in Hong Kong?",
+                        "vi": "Tình trạng thiếu nhà ở ở Hồng Kông trầm trọng như thế nào?"
+                    },
+                    {
+                        "en": "the housing market (= the activity of buying and selling houses, etc.)",
+                        "vi": "thị trường nhà ở (= hoạt động mua và bán nhà, v.v.)"
+                    },
+                    {
+                        "en": "The low interest rate has triggered a housing bubble (= a period of time when house prices increase quickly, but which is unlikely to last long).",
+                        "vi": "Lãi suất thấp đã gây ra bong bóng nhà đất (= khoảng thời gian giá nhà tăng nhanh nhưng khó có thể kéo dài)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the job of providing houses, flats, etc. for people to live in",
+                    "vi": "công việc cung cấp nhà, căn hộ, v.v. cho mọi người ở"
+                },
+                "examples": [
+                    {
+                        "en": "Tenants may only keep pets with the written consent of the housing department.",
+                        "vi": "Người thuê nhà chỉ có thể nuôi thú cưng khi có sự đồng ý bằng văn bản của bộ phận nhà ở."
+                    },
+                    {
+                        "en": "They discussed how the council's housing policy could be changed to deal with the growing housing crisis.",
+                        "vi": "Họ đã thảo luận về cách chính sách nhà ở của hội đồng có thể được thay đổi để đối phó với cuộc khủng hoảng nhà ở đang gia tăng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a hard cover that protects part of a machine",
+                    "vi": "một nắp cứng bảo vệ một phần của máy"
+                },
+                "examples": [
+                    {
+                        "en": "a car’s rear axle housing",
+                        "vi": "hộp trục sau của một chiếc ô tô"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8515ef55415f44379a9041a3510cadbc",
+        "word": "housing estate",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈhaʊzɪŋ ɪsteɪt/",
+            "us": "/ˈhaʊzɪŋ ɪsteɪt/"
+        },
+        "nearby": [
+            {
+                "word": "housing association",
+                "pos": "noun"
+            },
+            {
+                "word": "housing benefit",
+                "pos": "noun"
+            },
+            {
+                "word": "housing estate",
+                "pos": "noun"
+            },
+            {
+                "word": "housing project",
+                "pos": "noun"
+            },
+            {
+                "word": "housing scheme",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an area in which a large number of houses or flats are planned and built together at the same time",
+                    "vi": "một khu vực trong đó một số lượng lớn nhà hoặc căn hộ được quy hoạch và xây dựng cùng một lúc"
+                },
+                "examples": [
+                    {
+                        "en": "They live on a housing estate.",
+                        "vi": "Họ sống trên một khu nhà ở."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f3d28f7b4c1e4863a28bbd4545b18c56",
+        "word": "hut",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/hʌt/",
+            "us": "/hʌt/"
+        },
+        "nearby": [
+            {
+                "word": "hustler",
+                "pos": "noun"
+            },
+            {
+                "word": "John Huston",
+                "pos": ""
+            },
+            {
+                "word": "hut",
+                "pos": "noun"
+            },
+            {
+                "word": "hutch",
+                "pos": "noun"
+            },
+            {
+                "word": "Hutterite",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small, simply built house or shelter",
+                    "vi": "một ngôi nhà nhỏ được xây dựng đơn giản hoặc nơi trú ẩn"
+                },
+                "examples": [
+                    {
+                        "en": "You can rent a beach hut for about $10 a night.",
+                        "vi": "Bạn có thể thuê một túp lều trên bãi biển với giá khoảng 10 đô la một đêm."
+                    },
+                    {
+                        "en": "The wooden hut stood on a lonely stretch of beach.",
+                        "vi": "Túp lều gỗ sừng sững trên một bãi biển trải dài hiu quạnh."
+                    },
+                    {
+                        "en": "Traditional mud huts gave way to concrete houses.",
+                        "vi": "Những túp lều truyền thống bằng bùn đã nhường chỗ cho những ngôi nhà bê tông."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a48e75dd834b4ba5936fd2aa53047524",
+        "word": "semi-detached",
+        "pos": "adjective",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˌsemi dɪˈtætʃt/",
+            "us": "/ˌsemi dɪˈtætʃt/"
+        },
+        "nearby": [
+            {
+                "word": "semicolon",
+                "pos": "noun"
+            },
+            {
+                "word": "semiconductor",
+                "pos": "noun"
+            },
+            {
+                "word": "semi-detached",
+                "pos": "adjective"
+            },
+            {
+                "word": "semi-detached",
+                "pos": "noun"
+            },
+            {
+                "word": "semi-final",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "joined to another house by a wall on one side that is shared",
+                    "vi": "nối với một ngôi nhà khác bởi một bức tường ở một bên được chia sẻ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "6128a8b0670d4d4cad085215ad9c0c61",
+        "word": "shelter",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈʃeltə(r)/",
+            "us": "/ˈʃeltər/"
+        },
+        "nearby": [
+            {
+                "word": "shell-shocked",
+                "pos": "adjective"
+            },
+            {
+                "word": "shell suit",
+                "pos": "noun"
+            },
+            {
+                "word": "shelter",
+                "pos": "noun"
+            },
+            {
+                "word": "shelter",
+                "pos": "verb"
+            },
+            {
+                "word": "Shelter",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the fact of having a place to live or stay, considered as a basic human need",
+                    "vi": "thực tế là có một nơi để ở hoặc ở, được coi là nhu cầu cơ bản của con người"
+                },
+                "examples": [
+                    {
+                        "en": "Human beings need food, clothing and shelter.",
+                        "vi": "Con người cần thức ăn, quần áo và nơi ở."
+                    },
+                    {
+                        "en": "without shelter In developing countries, more than 640 million are without shelter.",
+                        "vi": "không có nơi trú ẩn Tại các nước đang phát triển, hơn 640 triệu người không có nơi ở."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "protection from rain, danger, or attack",
+                    "vi": "bảo vệ khỏi mưa, nguy hiểm hoặc tấn công"
+                },
+                "examples": [
+                    {
+                        "en": "shelter from something to take shelter from the storm",
+                        "vi": "trú ẩn khỏi một cái gì đó để trú ẩn khỏi cơn bão"
+                    },
+                    {
+                        "en": "People were desperately seeking shelter from the gunfire.",
+                        "vi": "Mọi người đang tuyệt vọng tìm nơi trú ẩn khỏi tiếng súng."
+                    },
+                    {
+                        "en": "The sand dunes provided shelter from the wind.",
+                        "vi": "Các cồn cát là nơi trú ẩn của gió."
+                    },
+                    {
+                        "en": "shelter of something The fox was running for the shelter of the trees.",
+                        "vi": "nơi trú ẩn của một cái gì đó Con cáo đang chạy tìm nơi trú ẩn của những cái cây."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a structure built to give protection, especially from the weather or from attack",
+                    "vi": "một cấu trúc được xây dựng để bảo vệ, đặc biệt là khỏi thời tiết hoặc khỏi sự tấn công"
+                },
+                "examples": [
+                    {
+                        "en": "They built a rough shelter from old pieces of wood.",
+                        "vi": "Họ xây dựng một nơi trú ẩn thô sơ từ những mảnh gỗ cũ."
+                    },
+                    {
+                        "en": "He helped construct temporary shelters in 10 villages before the rains came.",
+                        "vi": "Ông đã giúp xây dựng những nơi trú ẩn tạm thời ở 10 ngôi làng trước khi mưa đến."
+                    },
+                    {
+                        "en": "an air-raid shelter",
+                        "vi": "một nơi trú ẩn của cuộc không kích"
+                    },
+                    {
+                        "en": "a bomb shelter",
+                        "vi": "một hầm trú bom"
+                    },
+                    {
+                        "en": "Pupils have been sent home and schools have been turned into emergency shelters.",
+                        "vi": "Học sinh đã được gửi về nhà và trường học đã được biến thành nơi trú ẩn khẩn cấp."
+                    },
+                    {
+                        "en": "shelter for somebody/something a shelter for cattle",
+                        "vi": "nơi trú ẩn cho ai đó / cái gì đó là nơi trú ẩn cho gia súc"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a building, usually owned by a charity, that provides a place to stay for people without a home, or protection for people or animals who have been badly treated",
+                    "vi": "một tòa nhà, thường thuộc sở hữu của một tổ chức từ thiện, cung cấp nơi ở cho những người không có nhà ở hoặc bảo vệ những người hoặc động vật bị đối xử tệ"
+                },
+                "examples": [
+                    {
+                        "en": "a night shelter for the homeless",
+                        "vi": "nơi trú ẩn ban đêm cho người vô gia cư"
+                    },
+                    {
+                        "en": "an animal shelter",
+                        "vi": "một nơi trú ẩn động vật"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f204e98eeeb549059568f0e433acf296",
+        "word": "villa",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈvɪlə/",
+            "us": "/ˈvɪlə/"
+        },
+        "nearby": [
+            {
+                "word": "vilification",
+                "pos": "noun"
+            },
+            {
+                "word": "vilify",
+                "pos": "verb"
+            },
+            {
+                "word": "villa",
+                "pos": "noun"
+            },
+            {
+                "word": "Pancho Villa",
+                "pos": ""
+            },
+            {
+                "word": "village",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a house where people stay on holiday, especially in southern Europe",
+                    "vi": "một ngôi nhà nơi mọi người ở trong kỳ nghỉ, đặc biệt là ở Nam Âu"
+                },
+                "examples": [
+                    {
+                        "en": "We rented a holiday villa in Spain.",
+                        "vi": "Chúng tôi thuê một biệt thự nghỉ dưỡng ở Tây Ban Nha."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a house in the country with a large garden, especially in southern Europe",
+                    "vi": "một ngôi nhà ở đất nước có khu vườn rộng lớn, đặc biệt là ở Nam Âu"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a large house in a town",
+                    "vi": "một ngôi nhà lớn trong một thị trấn"
+                },
+                "examples": [
+                    {
+                        "en": "a Victorian villa in North London",
+                        "vi": "một biệt thự thời Victoria ở Bắc London"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a country house or farm with land attached to it",
+                    "vi": "một ngôi nhà nông thôn hoặc trang trại với đất gắn liền với nó"
+                },
+                "examples": [
+                    {
+                        "en": "They found the remains of an impressive Roman villa.",
+                        "vi": "Họ tìm thấy phần còn lại của một biệt thự La Mã ấn tượng."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ad1a8c36b2c64a57b8d195c509e68563",
+        "word": "affordable housing",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/əˌfɔːdəbl ˈhaʊzɪŋ/",
+            "us": "/əˌfɔːrdəbl ˈhaʊzɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "affordability",
+                "pos": "noun"
+            },
+            {
+                "word": "affordable",
+                "pos": "adjective"
+            },
+            {
+                "word": "affordable housing",
+                "pos": "noun"
+            },
+            {
+                "word": "affordably",
+                "pos": "adverb"
+            },
+            {
+                "word": "afforest",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "houses or flats that are available for people on low incomes to buy or rent at a low price, especially because the government has required house-building companies to offer a certain number of new properties at lower prices",
+                    "vi": "nhà hoặc căn hộ dành cho những người có thu nhập thấp mua hoặc thuê với giá thấp, đặc biệt là do chính phủ yêu cầu các công ty xây dựng nhà cung cấp một số lượng bất động sản mới với giá thấp hơn"
+                },
+                "examples": [
+                    {
+                        "en": "The city needs more affordable housing for families on low incomes.",
+                        "vi": "Thành phố cần nhiều nhà ở giá cả phải chăng hơn cho các gia đình có thu nhập thấp."
+                    },
+                    {
+                        "en": "The shortage of affordable housing has caused an increase in the number of homeless people.",
+                        "vi": "Tình trạng thiếu nhà ở giá rẻ đã khiến số lượng người vô gia cư ngày càng gia tăng."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e9825070c7e846a5b057a5c3a2c5b391",
+        "word": "bungalow",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈbʌŋɡələʊ/",
+            "us": "/ˈbʌŋɡələʊ/"
+        },
+        "nearby": [
+            {
+                "word": "bung",
+                "pos": "noun"
+            },
+            {
+                "word": "bung",
+                "pos": "adjective"
+            },
+            {
+                "word": "bungalow",
+                "pos": "noun"
+            },
+            {
+                "word": "bungee",
+                "pos": "noun"
+            },
+            {
+                "word": "bungee jump",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a house built all on one level, without stairs",
+                    "vi": "một ngôi nhà được xây dựng trên một tầng, không có cầu thang"
+                },
+                "examples": [
+                    {
+                        "en": "He retired at 70 and moved to a bungalow in Rosecroft Gardens.",
+                        "vi": "Ông nghỉ hưu ở tuổi 70 và chuyển đến một ngôi nhà gỗ ở Rosecroft Gardens."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "(in South-East Asia) a large house, sometimes on more than one level, that is not joined to another house on either side",
+                    "vi": "(ở Đông Nam Á) một ngôi nhà lớn, đôi khi ở nhiều tầng, không nối với ngôi nhà khác ở hai bên"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "42a88ae51ae247e2bb0cc662c8e9dc70",
+        "word": "chalet",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈʃæleɪ/",
+            "us": "/ʃæˈleɪ/"
+        },
+        "nearby": [
+            {
+                "word": "chakka",
+                "pos": "noun"
+            },
+            {
+                "word": "chakra",
+                "pos": "noun"
+            },
+            {
+                "word": "chalet",
+                "pos": "noun"
+            },
+            {
+                "word": "chalice",
+                "pos": "noun"
+            },
+            {
+                "word": "chalk",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a wooden house with a roof that slopes steeply down over the sides, usually built in mountain areas, especially in Switzerland",
+                    "vi": "một ngôi nhà gỗ có mái dốc xuống hai bên, thường được xây dựng ở các vùng núi, đặc biệt là ở Thụy Sĩ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a small house or hut, especially one used by people on holiday at the sea",
+                    "vi": "một ngôi nhà nhỏ hoặc túp lều, đặc biệt là một ngôi nhà được sử dụng bởi những người đi nghỉ ở biển"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "be053311535342778b0136e1e5e49463",
+        "word": "igloo",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈɪɡluː/",
+            "us": "/ˈɪɡluː/"
+        },
+        "nearby": [
+            {
+                "word": "Igbo",
+                "pos": "noun"
+            },
+            {
+                "word": "IGCSE",
+                "pos": "noun"
+            },
+            {
+                "word": "igloo",
+                "pos": "noun"
+            },
+            {
+                "word": "igneous",
+                "pos": "adjective"
+            },
+            {
+                "word": "ignite",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small round house or shelter built from blocks of hard snow by the Inuit people of northern North America and Greenland",
+                    "vi": "một ngôi nhà tròn nhỏ hoặc nơi trú ẩn được xây dựng từ những khối tuyết cứng của người Inuit ở bắc Bắc Mỹ và Greenland"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "6220a0d039d24841a56681b61012ef1c",
+        "word": "manor",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈmænə(r)/",
+            "us": "/ˈmænər/"
+        },
+        "nearby": [
+            {
+                "word": "man of letters",
+                "pos": "noun"
+            },
+            {
+                "word": "man-of-war",
+                "pos": "noun"
+            },
+            {
+                "word": "manor",
+                "pos": "noun"
+            },
+            {
+                "word": "manorial",
+                "pos": "adjective"
+            },
+            {
+                "word": "manpower",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a large country house surrounded by land that belongs to it",
+                    "vi": "một ngôi nhà nông thôn rộng lớn được bao quanh bởi đất thuộc về nó"
+                },
+                "examples": [
+                    {
+                        "en": "He bought the old manor and set about turning himself into the local squire.",
+                        "vi": "Anh ta mua lại trang viên cũ và bắt đầu biến mình thành cảnh sát địa phương."
+                    },
+                    {
+                        "en": "The manor house is a grade II listed building.",
+                        "vi": "Trang viên là một tòa nhà được xếp hạng cấp II."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an area of land with a manor house on it",
+                    "vi": "một khu đất với một trang viên trên đó"
+                },
+                "examples": [
+                    {
+                        "en": "the ancient manor of Tregarrick",
+                        "vi": "trang viên cổ xưa của Tregarrick"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an area in which somebody works or for which they are responsible, especially officers at a police station",
+                    "vi": "một khu vực mà ai đó làm việc hoặc họ chịu trách nhiệm, đặc biệt là các sĩ quan tại đồn cảnh sát"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "ed0b9f57b6754bd4a2d4652444ace012",
+        "word": "mansion",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈmænʃn/",
+            "us": "/ˈmænʃn/"
+        },
+        "nearby": [
+            {
+                "word": "Katherine Mansfield",
+                "pos": ""
+            },
+            {
+                "word": "Mansfield Park",
+                "pos": ""
+            },
+            {
+                "word": "mansion",
+                "pos": "noun"
+            },
+            {
+                "word": "Mansion House",
+                "pos": ""
+            },
+            {
+                "word": "man-sized",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a large, impressive house",
+                    "vi": "một ngôi nhà lớn, ấn tượng"
+                },
+                "examples": [
+                    {
+                        "en": "an 18th century country mansion",
+                        "vi": "một lâu đài nông thôn thế kỷ 18"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used in the names of blocks of flats",
+                    "vi": "được sử dụng trong tên của các khối căn hộ"
+                },
+                "examples": [
+                    {
+                        "en": "2 Moscow Mansions, Cromwell Road",
+                        "vi": "2 Lâu đài Moscow, Đường Cromwell"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e4254f3f71e74562be98e85deb9a1a32",
+        "word": "new build",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈnjuː bɪld/",
+            "us": "/ˈnuː bɪld/"
+        },
+        "nearby": [
+            {
+                "word": "newborn",
+                "pos": "adjective"
+            },
+            {
+                "word": "New Brunswick",
+                "pos": ""
+            },
+            {
+                "word": "new build",
+                "pos": "noun"
+            },
+            {
+                "word": "Newcastle",
+                "pos": ""
+            },
+            {
+                "word": "newcomer",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a building, ship or aircraft that has been built very recently or that is to be built soon; buildings, etc. of this type",
+                    "vi": "một tòa nhà, tàu thủy hoặc máy bay mới được đóng gần đây hoặc sắp được chế tạo; các tòa nhà, v.v. thuộc loại này"
+                },
+                "examples": [
+                    {
+                        "en": "400 new builds are planned for the village.",
+                        "vi": "400 công trình xây dựng mới được lên kế hoạch cho ngôi làng."
+                    },
+                    {
+                        "en": "We wanted the modern convenience of new build.",
+                        "vi": "Chúng tôi muốn sự tiện lợi hiện đại của bản dựng mới."
+                    },
+                    {
+                        "en": "new-build properties/apartments",
+                        "vi": "bất động sản / căn hộ mới xây"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "fc0003f0204346029157f52cc322f7f1",
+        "word": "public housing",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌpʌblɪk ˈhaʊzɪŋ/",
+            "us": "/ˌpʌblɪk ˈhaʊzɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "public holiday",
+                "pos": "noun"
+            },
+            {
+                "word": "public house",
+                "pos": "noun"
+            },
+            {
+                "word": "public housing",
+                "pos": "noun"
+            },
+            {
+                "word": "publicist",
+                "pos": "noun"
+            },
+            {
+                "word": "publicity",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "(in the US) houses and flats that are built by the government for people who do not have enough money to pay for private accommodation",
+                    "vi": "(ở Mỹ) những ngôi nhà và căn hộ do chính phủ xây dựng cho những người không có đủ tiền trả cho chỗ ở riêng"
+                },
+                "examples": [
+                    {
+                        "en": "Public housing is limited to low-income families and individuals.",
+                        "vi": "Nhà ở công vụ chỉ giới hạn cho các gia đình và cá nhân có thu nhập thấp."
+                    },
+                    {
+                        "en": "There has been massive investment in public housing.",
+                        "vi": "Đã có sự đầu tư ồ ạt vào nhà ở công cộng."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ed483df876284306b15f3b5729777925",
+        "word": "refuge",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈrefjuːdʒ/",
+            "us": "/ˈrefjuːdʒ/"
+        },
+        "nearby": [
+            {
+                "word": "refrigerator",
+                "pos": "noun"
+            },
+            {
+                "word": "refuel",
+                "pos": "verb"
+            },
+            {
+                "word": "refuge",
+                "pos": "noun"
+            },
+            {
+                "word": "refugee",
+                "pos": "noun"
+            },
+            {
+                "word": "the Refugee Council",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "shelter or protection from danger, trouble, etc.",
+                    "vi": "nơi trú ẩn hoặc bảo vệ khỏi nguy hiểm, rắc rối, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "A further 300 people have taken refuge in the US embassy.",
+                        "vi": "Hơn 300 người đã đến tị nạn trong đại sứ quán Hoa Kỳ."
+                    },
+                    {
+                        "en": "The region was a place of refuge for outlaws and bandits.",
+                        "vi": "Khu vực này là nơi ẩn náu của những kẻ sống ngoài vòng pháp luật và những tên cướp."
+                    },
+                    {
+                        "en": "refuge from somebody/something They were forced to seek refuge from the fighting.",
+                        "vi": "nơi ẩn náu từ ai đó / cái gì đó Họ buộc phải tìm nơi ẩn náu từ cuộc giao tranh."
+                    },
+                    {
+                        "en": "As the situation at home got worse she increasingly took refuge in her work.",
+                        "vi": "Khi tình hình ở nhà trở nên tồi tệ hơn, cô ấy ngày càng trốn tránh công việc của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a place, person or thing that provides shelter or protection for somebody/something",
+                    "vi": "một nơi, người hoặc vật cung cấp nơi trú ẩn hoặc bảo vệ cho ai đó / cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "The marshes are a wetland refuge for seabirds, waders and wild fowl.",
+                        "vi": "Các đầm lầy là nơi trú ẩn của các loài chim biển, chim lội nước và gà rừng."
+                    },
+                    {
+                        "en": "refuge from somebody/something He regarded the room as a refuge from the outside world.",
+                        "vi": "nơi ẩn náu từ ai đó / cái gì đó Anh ấy coi căn phòng như một nơi ẩn náu từ thế giới bên ngoài."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a building that provides a temporary home for people in need of shelter or protection from somebody/something",
+                    "vi": "một tòa nhà cung cấp một ngôi nhà tạm thời cho những người cần nơi trú ẩn hoặc sự bảo vệ khỏi ai đó / thứ gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "The best option for a female victim of domestic abuse is to contact a women's refuge.",
+                        "vi": "Lựa chọn tốt nhất cho một nạn nhân nữ của lạm dụng gia đình là liên hệ với nơi ẩn náu của phụ nữ."
+                    },
+                    {
+                        "en": "During the great fire of 1871 the church served as a refuge for the homeless.",
+                        "vi": "Trong trận hỏa hoạn lớn năm 1871, nhà thờ là nơi ẩn náu cho những người vô gia cư."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an area in the middle of a road where you can stand and wait for cars to go past until it is safe for you to cross",
+                    "vi": "khu vực ở giữa đường nơi bạn có thể đứng và đợi xe ô tô đi qua cho đến khi bạn băng qua đường an toàn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "5d65673c67bf459bbf16e6607fbf11b4",
+        "word": "residential",
+        "pos": "adjective",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌrezɪˈdenʃl/",
+            "us": "/ˌrezɪˈdenʃl/"
+        },
+        "nearby": [
+            {
+                "word": "resident",
+                "pos": "adjective"
+            },
+            {
+                "word": "resident alien",
+                "pos": "noun"
+            },
+            {
+                "word": "residential",
+                "pos": "adjective"
+            },
+            {
+                "word": "residents' association",
+                "pos": "noun"
+            },
+            {
+                "word": "reside with",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "suitable for living in; consisting of houses rather than factories or offices",
+                    "vi": "thích hợp để ở; bao gồm nhà ở chứ không phải nhà máy hoặc văn phòng"
+                },
+                "examples": [
+                    {
+                        "en": "a quiet residential area",
+                        "vi": "một khu dân cư yên tĩnh"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "requiring a person to live at a particular place; offering living accommodation",
+                    "vi": "yêu cầu một người sống tại một địa điểm cụ thể; cung cấp chỗ ở sinh hoạt"
+                },
+                "examples": [
+                    {
+                        "en": "a residential language course",
+                        "vi": "một khóa học ngôn ngữ dân cư"
+                    },
+                    {
+                        "en": "a residential home for the elderly",
+                        "vi": "nhà ở cho người già"
+                    },
+                    {
+                        "en": "residential care for children",
+                        "vi": "khu dân cư chăm sóc trẻ em"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e0b82a0234ee4316b3cffb39f687afb0",
+        "word": "second home",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌsekənd ˈhəʊm/",
+            "us": "/ˌsekənd ˈhəʊm/"
+        },
+        "nearby": [
+            {
+                "word": "second-hand",
+                "pos": "adverb"
+            },
+            {
+                "word": "second-hand smoke",
+                "pos": "noun"
+            },
+            {
+                "word": "second home",
+                "pos": "noun"
+            },
+            {
+                "word": "second in command",
+                "pos": "noun"
+            },
+            {
+                "word": "second language",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a house or flat that somebody owns as well as their main home and uses, for example, for holidays",
+                    "vi": "một ngôi nhà hoặc căn hộ mà ai đó sở hữu cũng như ngôi nhà chính của họ và sử dụng, ví dụ, cho các kỳ nghỉ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a place where somebody now lives and which they know as well as, and like as much as, the place where they grew up",
+                    "vi": "một nơi mà ai đó hiện đang sống và nơi mà họ biết rõ và cũng như họ rất thích, nơi mà họ đã lớn lên"
+                },
+                "examples": [
+                    {
+                        "en": "I was born in New York but France is my second home.",
+                        "vi": "Tôi sinh ra ở New York nhưng Pháp là quê hương thứ hai của tôi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c164c3c010ad4f24b504203c3a616f50",
+        "word": "social housing",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌsəʊʃl ˈhaʊzɪŋ/",
+            "us": "/ˌsəʊʃl ˈhaʊzɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "social gamer",
+                "pos": "noun"
+            },
+            {
+                "word": "social gaming",
+                "pos": "noun"
+            },
+            {
+                "word": "social housing",
+                "pos": "noun"
+            },
+            {
+                "word": "Social Insurance number",
+                "pos": "noun"
+            },
+            {
+                "word": "socialism",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "(in the UK) houses or flats that are provided by a local council or another organization for people on low incomes to buy or rent at a low price",
+                    "vi": "(ở Anh) nhà hoặc căn hộ do hội đồng địa phương hoặc một tổ chức khác cung cấp cho những người có thu nhập thấp mua hoặc thuê với giá thấp"
+                },
+                "examples": [
+                    {
+                        "en": "Public expenditure on social housing provision has doubled in the last five years.",
+                        "vi": "Chi tiêu công cho việc cung cấp nhà ở xã hội đã tăng gấp đôi trong 5 năm qua."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "85fedc52b820425280f78fa0ab2ef41c",
+        "word": "terraced",
+        "pos": "adjective",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈterəst/",
+            "us": "/ˈterəst/"
+        },
+        "nearby": [
+            {
+                "word": "terpsichorean",
+                "pos": "adjective"
+            },
+            {
+                "word": "terrace",
+                "pos": "noun"
+            },
+            {
+                "word": "terraced",
+                "pos": "adjective"
+            },
+            {
+                "word": "terraced house",
+                "pos": "noun"
+            },
+            {
+                "word": "terracing",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "used to describe houses that form part of a terrace, or streets with houses in terraces",
+                    "vi": "được sử dụng để mô tả những ngôi nhà tạo thành một phần của sân thượng hoặc đường phố với những ngôi nhà trong sân thượng"
+                },
+                "examples": [
+                    {
+                        "en": "a terraced cottage",
+                        "vi": "một ngôi nhà kiểu nông thôn"
+                    },
+                    {
+                        "en": "terraced housing",
+                        "vi": "nhà ở bậc thang"
+                    },
+                    {
+                        "en": "terraced streets",
+                        "vi": "phố bậc thang"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "having a series of flat areas of ground like steps cut into it",
+                    "vi": "có một loạt các khu vực bằng phẳng của mặt đất giống như các bước cắt vào nó"
+                },
+                "examples": [
+                    {
+                        "en": "a terraced garden",
+                        "vi": "một khu vườn bậc thang"
+                    },
+                    {
+                        "en": "a terraced hillside",
+                        "vi": "một sườn đồi bậc thang"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e914b88389b8413e8651a2c0ab8a3387",
+        "word": "A-frame",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈeɪ freɪm/",
+            "us": "/ˈeɪ freɪm/"
+        },
+        "nearby": [
+            {
+                "word": "afoul",
+                "pos": "adverb"
+            },
+            {
+                "word": "afraid",
+                "pos": "adjective"
+            },
+            {
+                "word": "A-frame",
+                "pos": "noun"
+            },
+            {
+                "word": "A-frame tent",
+                "pos": "noun"
+            },
+            {
+                "word": "afresh",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a house with very steep sides that meet at the top in the shape of the letter A",
+                    "vi": "một ngôi nhà có các mặt rất dốc gặp nhau ở đỉnh hình chữ A"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "6f08d4655e034edba4c93ce2f72578c1",
+        "word": "almshouse",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈɑːmzhaʊs/",
+            "us": "/ˈɑːmzhaʊs/"
+        },
+        "nearby": [
+            {
+                "word": "almost",
+                "pos": "adverb"
+            },
+            {
+                "word": "alms",
+                "pos": "noun"
+            },
+            {
+                "word": "almshouse",
+                "pos": "noun"
+            },
+            {
+                "word": "aloe",
+                "pos": "noun"
+            },
+            {
+                "word": "aloe vera",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "(in the past in the UK) a house owned by a charity where poor people (usually the old) lived without paying rent",
+                    "vi": "(trước đây ở Anh) một ngôi nhà thuộc sở hữu của một tổ chức từ thiện, nơi những người nghèo (thường là người già) sống mà không phải trả tiền thuê nhà"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "ad1a689106f3482b89dd7def03534413",
+        "word": "bachelor pad",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbætʃələ pæd/",
+            "us": "/ˈbætʃələr pæd/"
+        },
+        "nearby": [
+            {
+                "word": "bachelor girl",
+                "pos": "noun"
+            },
+            {
+                "word": "bachelorhood",
+                "pos": "noun"
+            },
+            {
+                "word": "bachelor pad",
+                "pos": "noun"
+            },
+            {
+                "word": "bachelor party",
+                "pos": "noun"
+            },
+            {
+                "word": "bachelor's degree",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a house or flat in which a man who is not married enjoys a lifestyle without family responsibilities",
+                    "vi": "một ngôi nhà hoặc căn hộ trong đó một người đàn ông chưa kết hôn thích lối sống không có trách nhiệm với gia đình"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "62296125c00e4d6bb62299b2060338f6",
+        "word": "back-to-back",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌbæk tə ˈbæk/",
+            "us": "/ˌbæk tə ˈbæk/"
+        },
+        "nearby": [
+            {
+                "word": "back talk",
+                "pos": "noun"
+            },
+            {
+                "word": "back-to-back",
+                "pos": "adjective"
+            },
+            {
+                "word": "back-to-back",
+                "pos": "noun"
+            },
+            {
+                "word": "back to basics",
+                "pos": ""
+            },
+            {
+                "word": "Back to the Future",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "sports games that are played on consecutive days (= with no days in between)",
+                    "vi": "các trò chơi thể thao được chơi vào những ngày liên tiếp (= không có ngày nào ở giữa)"
+                },
+                "examples": [
+                    {
+                        "en": "They play 18 games in 31 days, including five back-to-backs.",
+                        "vi": "Họ chơi 18 trận trong 31 ngày, trong đó có năm trận đấu giáp lưng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a house in a row of houses that share walls with the houses on each side and behind",
+                    "vi": "một ngôi nhà trong một dãy nhà có bức tường với những ngôi nhà ở mỗi bên và phía sau"
+                },
+                "examples": [
+                    {
+                        "en": "back-to-backs built for the poor in the nineteenth century",
+                        "vi": "chống lưng được xây dựng cho người nghèo trong thế kỷ XIX"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "58002d8a519741c0827a1529e97d4ef7",
+        "word": "bedsit",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbedsɪt/",
+            "us": "/ˈbedsɪt/"
+        },
+        "nearby": [
+            {
+                "word": "bedside manner",
+                "pos": "noun"
+            },
+            {
+                "word": "bedside table",
+                "pos": "noun"
+            },
+            {
+                "word": "bedsit",
+                "pos": "noun"
+            },
+            {
+                "word": "bedsore",
+                "pos": "noun"
+            },
+            {
+                "word": "bedspread",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a room that a person rents and uses for both living and sleeping in",
+                    "vi": "một căn phòng mà một người thuê và sử dụng để ở và ngủ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "49b04f1e4c7344bbbada7d051abc28ec",
+        "word": "boarding house",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbɔːdɪŋ haʊs/",
+            "us": "/ˈbɔːrdɪŋ haʊs/"
+        },
+        "nearby": [
+            {
+                "word": "boarding",
+                "pos": "noun"
+            },
+            {
+                "word": "boarding card",
+                "pos": "noun"
+            },
+            {
+                "word": "boarding house",
+                "pos": "noun"
+            },
+            {
+                "word": "boarding kennel",
+                "pos": "noun"
+            },
+            {
+                "word": "boarding school",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a private house where people can pay for accommodation and meals",
+                    "vi": "một ngôi nhà riêng, nơi mọi người có thể trả tiền ăn ở"
+                },
+                "examples": [
+                    {
+                        "en": "His parents kept a boarding house in Blackpool.",
+                        "vi": "Cha mẹ của anh ta giữ một ngôi nhà nội trú ở Blackpool."
+                    },
+                    {
+                        "en": "She had been the landlady of a seaside boarding house.",
+                        "vi": "Cô đã từng là bà chủ của một ngôi nhà trọ ven biển."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9ea98d727d134aefa3eeafb51a8c5f3b",
+        "word": "brownstone",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbraʊnstəʊn/",
+            "us": "/ˈbraʊnstəʊn/"
+        },
+        "nearby": [
+            {
+                "word": "brown rice",
+                "pos": "noun"
+            },
+            {
+                "word": "brown sauce",
+                "pos": "noun"
+            },
+            {
+                "word": "brownstone",
+                "pos": "noun"
+            },
+            {
+                "word": "brown sugar",
+                "pos": "noun"
+            },
+            {
+                "word": "Brown v Board of Education",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a house built of, or with a front made of, a type of red-brown stone, which is also called brownstone",
+                    "vi": "một ngôi nhà được xây bằng hoặc có mặt trước làm bằng một loại đá nâu đỏ, còn được gọi là đá nâu"
+                },
+                "examples": [
+                    {
+                        "en": "New York brownstones",
+                        "vi": "Đá nâu New York"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5367681dc30c48cd86bec4e241c036fb",
+        "word": "condo",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkɒndəʊ/",
+            "us": "/ˈkɑːndəʊ/"
+        },
+        "nearby": [
+            {
+                "word": "conditioner",
+                "pos": "noun"
+            },
+            {
+                "word": "conditioning",
+                "pos": "noun"
+            },
+            {
+                "word": "condo",
+                "pos": "noun"
+            },
+            {
+                "word": "condole",
+                "pos": "verb"
+            },
+            {
+                "word": "condolence",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a condominium (= an apartment building or group of houses in which each flat/house is owned by the person living in it but the shared areas are owned by everyone together; a flat/house in such a building or group of houses)",
+                    "vi": "chung cư (= một tòa nhà chung cư hoặc một nhóm nhà trong đó mỗi căn hộ / căn nhà thuộc sở hữu của người sống trong đó nhưng các phần sở hữu chung thuộc sở hữu chung của mọi người; căn hộ / căn nhà trong một tòa nhà hoặc nhóm nhà đó)"
+                },
+                "examples": [
+                    {
+                        "en": "He bought an ocean-front condo in his native Florida.",
+                        "vi": "Anh ấy đã mua một căn hộ trước biển ở Florida, quê hương của anh ấy."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3d0cd75a040d4199a7adb798eb8def36",
+        "word": "condominium",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌkɒndəˈmɪniəm/",
+            "us": "/ˌkɑːndəˈmɪniəm/"
+        },
+        "nearby": [
+            {
+                "word": "condolence",
+                "pos": "noun"
+            },
+            {
+                "word": "condom",
+                "pos": "noun"
+            },
+            {
+                "word": "condominium",
+                "pos": "noun"
+            },
+            {
+                "word": "condone",
+                "pos": "verb"
+            },
+            {
+                "word": "condor",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an apartment building or group of houses in which each apartment/house is owned by the person living in it but the shared areas are owned by everyone together; an apartment/a house in such a building or group of houses",
+                    "vi": "nhà chung cư hoặc nhóm nhà ở mà mỗi căn hộ / nhà ở thuộc sở hữu riêng của người ở trong đó nhưng các phần sở hữu chung thuộc sở hữu chung của mọi người; một căn hộ / một ngôi nhà trong một tòa nhà hoặc một nhóm nhà như vậy"
+                },
+                "examples": [
+                    {
+                        "en": "We were staying in a condominium just off of the beach.",
+                        "vi": "Chúng tôi đã ở trong một chung cư ngay gần bãi biển."
+                    },
+                    {
+                        "en": "a new condominium complex in Long Beach",
+                        "vi": "một khu chung cư mới ở Bãi Dài"
+                    },
+                    {
+                        "en": "There are town house and condominium developments going up in town.",
+                        "vi": "Có những phát triển nhà phố và chung cư đang tăng lên trong thị trấn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3bb33f5988ef47e6a73433ae83356096",
+        "word": "duplex",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈdjuːpleks/",
+            "us": "/ˈduːpleks/"
+        },
+        "nearby": [
+            {
+                "word": "dupe",
+                "pos": "verb"
+            },
+            {
+                "word": "dupe",
+                "pos": "noun"
+            },
+            {
+                "word": "duplex",
+                "pos": "adjective"
+            },
+            {
+                "word": "duplex",
+                "pos": "noun"
+            },
+            {
+                "word": "duplicate",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "with rooms on two floors",
+                    "vi": "với các phòng trên hai tầng"
+                },
+                "examples": [
+                    {
+                        "en": "a duplex apartment",
+                        "vi": "căn hộ 2 tầng"
+                    },
+                    {
+                        "en": "The duplex penthouses cover the top two floors of the building.",
+                        "vi": "Các căn hộ thông tầng song lập bao phủ hai tầng trên cùng của tòa nhà."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "joined to another house by a wall on one side that is shared",
+                    "vi": "nối với một ngôi nhà khác bởi một bức tường ở một bên được chia sẻ"
+                },
+                "examples": [
+                    {
+                        "en": "a duplex house/villa",
+                        "vi": "một ngôi nhà / biệt thự song lập"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "able to print on both sides of the paper",
+                    "vi": "có thể in trên cả hai mặt của giấy"
+                },
+                "examples": [
+                    {
+                        "en": "This model comes with nice features such as Wi-Fi and duplex printing.",
+                        "vi": "Mô hình này đi kèm với các tính năng tuyệt vời như Wi-Fi và in hai mặt."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "allowing signals to be sent in both directions at the same time",
+                    "vi": "cho phép tín hiệu được gửi theo cả hai hướng cùng một lúc"
+                },
+                "examples": [
+                    {
+                        "en": "A common application of duplex communication is in online chat systems.",
+                        "vi": "Một ứng dụng phổ biến của giao tiếp song công là trong các hệ thống trò chuyện trực tuyến."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "d2e0f977c2f24c0aa99f176189e459e0",
+        "word": "duplex",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈdjuːpleks/",
+            "us": "/ˈduːpleks/"
+        },
+        "nearby": [
+            {
+                "word": "dupe",
+                "pos": "noun"
+            },
+            {
+                "word": "duplex",
+                "pos": "adjective"
+            },
+            {
+                "word": "duplex",
+                "pos": "noun"
+            },
+            {
+                "word": "duplicate",
+                "pos": "verb"
+            },
+            {
+                "word": "duplicate",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a building divided into two homes or apartments with separate entrances",
+                    "vi": "một tòa nhà được chia thành hai ngôi nhà hoặc căn hộ có lối vào riêng biệt"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a flat with rooms on two floors",
+                    "vi": "một căn hộ với các phòng trên hai tầng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a house that is joined to another house by a wall on one side that is shared; a semi-detached house",
+                    "vi": "một ngôi nhà thông với một ngôi nhà khác bằng một bức tường ở một phía được sử dụng chung; nhà liền kề"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "622c222dde114a02812cbc9f6f53be21",
+        "word": "dwelling",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈdwelɪŋ/",
+            "us": "/ˈdwelɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "dwell",
+                "pos": "verb"
+            },
+            {
+                "word": "dweller",
+                "pos": "noun"
+            },
+            {
+                "word": "dwelling",
+                "pos": "noun"
+            },
+            {
+                "word": "dwelling house",
+                "pos": "noun"
+            },
+            {
+                "word": "dwelling place",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a house, flat, etc. where a person lives",
+                    "vi": "một ngôi nhà, căn hộ, v.v. nơi một người sống"
+                },
+                "examples": [
+                    {
+                        "en": "The development will consist of 66 dwellings and a number of offices.",
+                        "vi": "Sự phát triển sẽ bao gồm 66 căn hộ và một số văn phòng."
+                    },
+                    {
+                        "en": "an application to convert the old barn into a dwelling",
+                        "vi": "một ứng dụng để chuyển đổi nhà kho cũ thành một nơi ở"
+                    },
+                    {
+                        "en": "ancient cliff dwellings",
+                        "vi": "nhà ở vách đá cổ"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3cc2aae1cc844c85b5a5eefd844611fc",
+        "word": "forever home",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/fərˈevə həʊm/",
+            "us": "/fərˌevər ˈhəʊm/"
+        },
+        "nearby": [
+            {
+                "word": "foretold",
+                "pos": "verb"
+            },
+            {
+                "word": "forever",
+                "pos": "adverb"
+            },
+            {
+                "word": "forever home",
+                "pos": "noun"
+            },
+            {
+                "word": "forewarn",
+                "pos": "verb"
+            },
+            {
+                "word": "forewarning",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the home that an animal goes to live in when it is adopted and goes to live with somebody for the rest of its life",
+                    "vi": "ngôi nhà mà một con vật sẽ ở khi nó được nhận nuôi và sống với ai đó trong suốt quãng đời còn lại của nó"
+                },
+                "examples": [
+                    {
+                        "en": "She's an amazing dog — I hope she finds a forever home.",
+                        "vi": "Cô ấy là một con chó tuyệt vời - tôi hy vọng cô ấy sẽ tìm thấy một ngôi nhà vĩnh viễn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a house or flat that you like so much that you plan to live in it for the rest of your life",
+                    "vi": "một ngôi nhà hoặc căn hộ mà bạn rất thích và bạn dự định sẽ sống ở đó trong suốt quãng đời còn lại"
+                },
+                "examples": [
+                    {
+                        "en": "In 2001 the couple moved into the cottage that would be their forever home.",
+                        "vi": "Năm 2001, cặp đôi chuyển đến ngôi nhà nhỏ sẽ là ngôi nhà vĩnh viễn của họ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "516985d2e61345e898511c3255f9fda3",
+        "word": "log cabin",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌlɒɡ ˈkæbɪn/",
+            "us": "/ˌlɔːɡ ˈkæbɪn/"
+        },
+        "nearby": [
+            {
+                "word": "logarithmic",
+                "pos": "adjective"
+            },
+            {
+                "word": "logbook",
+                "pos": "noun"
+            },
+            {
+                "word": "log cabin",
+                "pos": "noun"
+            },
+            {
+                "word": "logger",
+                "pos": "noun"
+            },
+            {
+                "word": "loggerheads",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small house built of logs",
+                    "vi": "một ngôi nhà nhỏ được xây dựng bằng các khúc gỗ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "75fd88c2e24d457e9bff51c6193ba548",
+        "word": "maisonette",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌmeɪzəˈnet/",
+            "us": "/ˌmeɪzəˈnet/"
+        },
+        "nearby": [
+            {
+                "word": "main verb",
+                "pos": "noun"
+            },
+            {
+                "word": "Maisie",
+                "pos": ""
+            },
+            {
+                "word": "maisonette",
+                "pos": "noun"
+            },
+            {
+                "word": "maître d'",
+                "pos": "noun"
+            },
+            {
+                "word": "maize",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a flat with rooms on two floors within a building, usually with a separate entrance",
+                    "vi": "một căn hộ có các phòng trên hai tầng trong một tòa nhà, thường có lối vào riêng"
+                },
+                "examples": [
+                    {
+                        "en": "The maisonette is situated on the second and third floors.",
+                        "vi": "Nhà nhỏ nằm trên tầng 2 và tầng 3."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "11314229d6fc42fabc47109f064fceb8",
+        "word": "manse",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/mæns/",
+            "us": "/mæns/"
+        },
+        "nearby": [
+            {
+                "word": "mansard",
+                "pos": "noun"
+            },
+            {
+                "word": "manscaping",
+                "pos": "noun"
+            },
+            {
+                "word": "manse",
+                "pos": "noun"
+            },
+            {
+                "word": "manservant",
+                "pos": "noun"
+            },
+            {
+                "word": "Katherine Mansfield",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the house of a Christian minister, especially in Scotland",
+                    "vi": "nhà của một mục sư Cơ đốc, đặc biệt là ở Scotland"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "2131cf83f9554e0fbcc50a5db58884cf",
+        "word": "mews house",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈmjuːz haʊs/",
+            "us": "/ˈmjuːz haʊs/"
+        },
+        "nearby": [
+            {
+                "word": "mewling",
+                "pos": "noun"
+            },
+            {
+                "word": "mews",
+                "pos": "noun"
+            },
+            {
+                "word": "mews house",
+                "pos": "noun"
+            },
+            {
+                "word": "Mexican",
+                "pos": "adjective"
+            },
+            {
+                "word": "Mexican",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a house in a row of houses that were stables (= buildings used to keep horses in) in the past",
+                    "vi": "một ngôi nhà trong dãy nhà là chuồng ngựa (= tòa nhà dùng để nhốt ngựa) trong quá khứ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "db43545f5a2c43a48e90c2cfdb8d5044",
+        "word": "mobile home",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌməʊbaɪl ˈhəʊm/",
+            "us": "/ˌməʊbl ˈhəʊm/"
+        },
+        "nearby": [
+            {
+                "word": "the Battle of Mobile Bay",
+                "pos": ""
+            },
+            {
+                "word": "mobile device",
+                "pos": "noun"
+            },
+            {
+                "word": "mobile home",
+                "pos": "noun"
+            },
+            {
+                "word": "mobile learning",
+                "pos": "noun"
+            },
+            {
+                "word": "mobile library",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small building for people to live in that is made in a factory and moved to a permanent place",
+                    "vi": "một tòa nhà nhỏ cho mọi người sống trong đó được làm trong một nhà máy và chuyển đến một nơi lâu dài"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a large caravan that can be moved, sometimes with wheels, that is usually parked in one place and used for living in",
+                    "vi": "một đoàn lữ hành lớn có thể di chuyển, đôi khi có bánh xe, thường đậu ở một nơi và dùng để ở"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "d29483396bd447f6a90f9c1a1b05cde7",
+        "word": "pile",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/paɪl/",
+            "us": "/paɪl/"
+        },
+        "nearby": [
+            {
+                "word": "pilau",
+                "pos": "noun"
+            },
+            {
+                "word": "pilchard",
+                "pos": "noun"
+            },
+            {
+                "word": "pile",
+                "pos": "noun"
+            },
+            {
+                "word": "pile",
+                "pos": "verb"
+            },
+            {
+                "word": "piledriver",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a number of things that have been placed on top of each other",
+                    "vi": "một số thứ đã được đặt chồng lên nhau"
+                },
+                "examples": [
+                    {
+                        "en": "pile of something a pile of clothes/paper",
+                        "vi": "đống thứ gì đó một đống quần áo / giấy"
+                    },
+                    {
+                        "en": "I found it in a pile of documents on his desk.",
+                        "vi": "Tôi tìm thấy nó trong một đống tài liệu trên bàn làm việc của anh ấy."
+                    },
+                    {
+                        "en": "in/into a pile The hats were stacked in neat piles.",
+                        "vi": "vào / thành một đống Những chiếc mũ được chất thành từng đống ngay ngắn."
+                    },
+                    {
+                        "en": "I've sorted the books into three separate piles.",
+                        "vi": "Tôi đã sắp xếp các cuốn sách thành ba chồng riêng biệt."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a mass of something that is high in the middle and wider at the bottom than at the top",
+                    "vi": "một khối gì đó cao ở giữa và rộng hơn ở dưới cùng hơn là ở trên cùng"
+                },
+                "examples": [
+                    {
+                        "en": "pile of something piles of dirty washing",
+                        "vi": "đống thứ gì đó đống giặt giũ bẩn thỉu"
+                    },
+                    {
+                        "en": "The house was reduced to a pile of rubble.",
+                        "vi": "Căn nhà bị thu nhỏ thành một đống gạch vụn."
+                    },
+                    {
+                        "en": "He threw the remaining stones onto the pile.",
+                        "vi": "Anh ném những viên đá còn lại lên đống đá."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a lot of something",
+                    "vi": "rất nhiều thứ"
+                },
+                "examples": [
+                    {
+                        "en": "He made a pile of cash on the sale of his house.",
+                        "vi": "Anh ta kiếm được một đống tiền từ việc bán ngôi nhà của mình."
+                    },
+                    {
+                        "en": "He walked out leaving a pile of debt behind him.",
+                        "vi": "Anh bước ra ngoài để lại một đống nợ sau lưng."
+                    },
+                    {
+                        "en": "I have got piles of work to do.",
+                        "vi": "Tôi có hàng đống việc phải làm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the short threads, pieces of wool, etc. that form the soft surface of carpets and some types of cloth such as velvet",
+                    "vi": "các sợi ngắn, các mảnh len, v.v. tạo nên bề mặt mềm mại của thảm và một số loại vải như nhung"
+                },
+                "examples": [
+                    {
+                        "en": "a deep-pile carpet",
+                        "vi": "một tấm thảm sâu"
+                    },
+                    {
+                        "en": "Corduroy is the poor man’s velvet; its pile is made of cotton rather than silk or satin.",
+                        "vi": "Corduroy là nhung của người nghèo; đống của nó được làm bằng bông chứ không phải lụa hoặc sa tanh."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a large wooden, metal or stone post that is fixed into the ground and used to support a building, bridge, etc.",
+                    "vi": "một trụ lớn bằng gỗ, kim loại hoặc đá được cố định vào đất và được sử dụng để nâng đỡ một tòa nhà, cây cầu, v.v."
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a large impressive building",
+                    "vi": "một tòa nhà lớn ấn tượng"
+                },
+                "examples": [
+                    {
+                        "en": "a Victorian pile built as a private hospital",
+                        "vi": "một đống thời Victoria được xây dựng như một bệnh viện tư nhân"
+                    },
+                    {
+                        "en": "her family's ancestral pile",
+                        "vi": "đống tổ tiên của gia đình cô ấy"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "in the least/most important position in a group of people or things",
+                    "vi": "ở vị trí ít nhất / quan trọng nhất trong một nhóm người hoặc sự vật"
+                },
+                "examples": [
+                    {
+                        "en": "It’s been 20 years since a British player was top of the pile.",
+                        "vi": "Đã 20 năm kể từ khi một cầu thủ người Anh đứng đầu bảng xếp hạng."
+                    },
+                    {
+                        "en": "The government is doing little to help those at the bottom of the social pile.",
+                        "vi": "Chính phủ đang làm rất ít để giúp đỡ những người ở dưới cùng của xã hội."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make a lot of money",
+                    "vi": "kiếm nhiều tiền"
+                },
+                "examples": [
+                    {
+                        "en": "The family made its pile from oil.",
+                        "vi": "Gia đình đã làm đống của nó từ dầu."
+                    },
+                    {
+                        "en": "I bet they made an absolute pile out of the deal.",
+                        "vi": "Tôi cá rằng họ đã hoàn thành một khoản tiền tuyệt đối từ thỏa thuận."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a3c05c8d97ba42f388902f46a39196b6",
+        "word": "prefab",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpriːfæb/",
+            "us": "/ˈpriːfæb/"
+        },
+        "nearby": [
+            {
+                "word": "pre-exist",
+                "pos": "verb"
+            },
+            {
+                "word": "pre-existent",
+                "pos": "adjective"
+            },
+            {
+                "word": "prefab",
+                "pos": "noun"
+            },
+            {
+                "word": "prefabricated",
+                "pos": "adjective"
+            },
+            {
+                "word": "prefabrication",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a prefabricated building",
+                    "vi": "một tòa nhà tiền chế"
+                },
+                "examples": [
+                    {
+                        "en": "prefabs built after the war",
+                        "vi": "prefabs được xây dựng sau chiến tranh"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e2e4e66ef2314a9bb73a450415d09eea",
+        "word": "split-level",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌsplɪt ˈlevl/",
+            "us": "/ˌsplɪt ˈlevl/"
+        },
+        "nearby": [
+            {
+                "word": "split end",
+                "pos": "noun"
+            },
+            {
+                "word": "split infinitive",
+                "pos": "noun"
+            },
+            {
+                "word": "split-level",
+                "pos": "adjective"
+            },
+            {
+                "word": "split off",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "split on",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "having parts at different levels",
+                    "vi": "có các bộ phận ở các cấp độ khác nhau"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "849350ca294e4931bb12b313adb8022a",
+        "word": "stately home",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌsteɪtli ˈhəʊm/",
+            "us": "/ˌsteɪtli ˈhəʊm/"
+        },
+        "nearby": [
+            {
+                "word": "stateliness",
+                "pos": "noun"
+            },
+            {
+                "word": "stately",
+                "pos": "adjective"
+            },
+            {
+                "word": "stately home",
+                "pos": "noun"
+            },
+            {
+                "word": "statement",
+                "pos": "noun"
+            },
+            {
+                "word": "statement",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a large, impressive house of historical interest, especially one that the public may visit",
+                    "vi": "một ngôi nhà lớn, ấn tượng về lợi ích lịch sử, đặc biệt là ngôi nhà mà công chúng có thể ghé thăm"
+                },
+                "examples": [
+                    {
+                        "en": "Priceless antique furniture was destroyed in the fire at the stately home.",
+                        "vi": "Đồ nội thất cổ vô giá bị thiêu rụi trong đám cháy tại ngôi nhà trang nghiêm."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "895573a2e1aa435abe872c4fb5542f74",
+        "word": "summer house",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈsʌmə haʊs/",
+            "us": "/ˈsʌmər haʊs/"
+        },
+        "nearby": [
+            {
+                "word": "Summer Bank Holiday",
+                "pos": ""
+            },
+            {
+                "word": "summer camp",
+                "pos": "noun"
+            },
+            {
+                "word": "summer house",
+                "pos": "noun"
+            },
+            {
+                "word": "summer pudding",
+                "pos": "noun"
+            },
+            {
+                "word": "summer school",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small building in a garden for sitting in in good weather",
+                    "vi": "một tòa nhà nhỏ trong khu vườn để ngồi trong thời tiết tốt"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a house that somebody lives in only during the summer",
+                    "vi": "một ngôi nhà mà ai đó chỉ sống trong mùa hè"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "221073267bb1435d801d4a7ab0b20f22",
+        "word": "terrace",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈterəs/",
+            "us": "/ˈterəs/"
+        },
+        "nearby": [
+            {
+                "word": "ternary form",
+                "pos": "noun"
+            },
+            {
+                "word": "terpsichorean",
+                "pos": "adjective"
+            },
+            {
+                "word": "terrace",
+                "pos": "noun"
+            },
+            {
+                "word": "terraced",
+                "pos": "adjective"
+            },
+            {
+                "word": "terraced house",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a continuous row of similar houses that are joined together in one block",
+                    "vi": "một dãy nhà giống nhau liên tục được nối với nhau trong một khối"
+                },
+                "examples": [
+                    {
+                        "en": "12 Albert Terrace",
+                        "vi": "12 Albert Terrace"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a flat, hard area, especially outside a house or restaurant, where you can sit, eat and enjoy the sun",
+                    "vi": "một khu vực bằng phẳng, cứng, đặc biệt là bên ngoài một ngôi nhà hoặc nhà hàng, nơi bạn có thể ngồi, ăn và tận hưởng ánh nắng mặt trời"
+                },
+                "examples": [
+                    {
+                        "en": "Close to the villa is a big pool with a sun terrace around it.",
+                        "vi": "Gần biệt thự là một hồ bơi lớn với sân hiên tắm nắng xung quanh."
+                    },
+                    {
+                        "en": "The view from the roof terrace is spectacular.",
+                        "vi": "Khung cảnh từ sân thượng thật ngoạn mục."
+                    },
+                    {
+                        "en": "All rooms have a balcony or terrace.",
+                        "vi": "Tất cả các phòng đều có ban công hoặc sân hiên."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the wide steps where people can stand to watch the game",
+                    "vi": "những bậc thang rộng, nơi mọi người có thể đứng xem trận đấu"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "one of a series of flat areas of ground that are cut into the side of a hill like steps so that crops can be grown there",
+                    "vi": "một trong một loạt các khu đất bằng phẳng được khoét vào sườn đồi giống như các bậc thang để có thể trồng trọt ở đó"
+                },
+                "examples": [
+                    {
+                        "en": "The villagers had dug terraces in the hillside.",
+                        "vi": "Dân làng đã đào ruộng bậc thang trên sườn đồi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "dd5976e85f0e43faa649d3e275943bfe",
+        "word": "terraced house",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌterəst ˈhaʊs/",
+            "us": "/ˌterəst ˈhaʊs/"
+        },
+        "nearby": [
+            {
+                "word": "terrace",
+                "pos": "noun"
+            },
+            {
+                "word": "terraced",
+                "pos": "adjective"
+            },
+            {
+                "word": "terraced house",
+                "pos": "noun"
+            },
+            {
+                "word": "terracing",
+                "pos": "noun"
+            },
+            {
+                "word": "terracotta",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a house that is one of a row of houses that are joined together on each side",
+                    "vi": "một ngôi nhà là một trong những dãy nhà liên kết với nhau ở mỗi bên"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "5c922689ead64bf4bce35c6cf4702a7b",
+        "word": "town house",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtaʊn haʊs/",
+            "us": "/ˈtaʊn haʊs/"
+        },
+        "nearby": [
+            {
+                "word": "townee",
+                "pos": "noun"
+            },
+            {
+                "word": "town hall",
+                "pos": "noun"
+            },
+            {
+                "word": "town house",
+                "pos": "noun"
+            },
+            {
+                "word": "townie",
+                "pos": "noun"
+            },
+            {
+                "word": "town meeting",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a house in a town owned by somebody who also has a house in the country",
+                    "vi": "một ngôi nhà trong thị trấn thuộc sở hữu của ai đó cũng có một ngôi nhà ở nông thôn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a tall, narrow house in a town that is part of a row of similar houses",
+                    "vi": "một ngôi nhà cao và hẹp trong một thị trấn nằm trong dãy những ngôi nhà giống nhau"
+                },
+                "examples": [
+                    {
+                        "en": "an elegant Georgian town house",
+                        "vi": "một ngôi nhà phố thanh lịch kiểu Georgia"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a house that is one of a row of houses that are joined together on each side",
+                    "vi": "một ngôi nhà là một trong những dãy nhà liên kết với nhau ở mỗi bên"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "0d93aaf7fb6f49bca0138d712d5b0376",
+        "word": "two-up two-down",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/tuː ˌʌp tuː ˈdaʊn/",
+            "us": "/tuː ˌʌp tuː ˈdaʊn/"
+        },
+        "nearby": [
+            {
+                "word": "2.2",
+                "pos": "noun"
+            },
+            {
+                "word": "'twould",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "two-up two-down",
+                "pos": "noun"
+            },
+            {
+                "word": "two-way",
+                "pos": "adjective"
+            },
+            {
+                "word": "two-way mirror",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a house with two rooms on the bottom floor and two bedrooms upstairs",
+                    "vi": "một ngôi nhà có hai phòng ở tầng dưới cùng và hai phòng ngủ ở tầng trên"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "d6dc1b9a213b4209bdc2ed366e18d65f",
+        "word": "yurt",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/jɜːt/",
+            "us": "/jɜːrt/"
+        },
+        "nearby": [
+            {
+                "word": "yuppification",
+                "pos": "noun"
+            },
+            {
+                "word": "yuppify",
+                "pos": "verb"
+            },
+            {
+                "word": "yurt",
+                "pos": "noun"
+            },
+            {
+                "word": "Yvonne",
+                "pos": ""
+            },
+            {
+                "word": "YWCA",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a type of traditional round tent used in Mongolia and Siberia",
+                    "vi": "một loại lều tròn truyền thống được sử dụng ở Mông Cổ và Siberia"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a large tent used for holidays in Western countries, based on the shape and style of a traditional yurt",
+                    "vi": "một chiếc lều lớn được sử dụng cho các kỳ nghỉ ở các nước phương Tây, dựa trên hình dạng và kiểu dáng của một chiếc lều truyền thống"
+                },
+                "examples": [
+                    {
+                        "en": "All our yurts are made of quality canvas and raised on wooden platforms for warmth and an even surface.",
+                        "vi": "Tất cả các bộ chăn ga gối đệm của chúng tôi đều được làm bằng vải bạt chất lượng và được nâng lên trên các bệ gỗ để tạo sự ấm áp và bề mặt đồng đều."
+                    }
+                ]
+            }
+        ]
+    }
+]

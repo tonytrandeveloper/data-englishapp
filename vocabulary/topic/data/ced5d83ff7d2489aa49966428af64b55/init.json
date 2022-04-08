@@ -1,0 +1,3277 @@
+[
+    {
+        "id": "1c2f5984e2844de79d74feb08137c13a",
+        "word": "fly",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/flaɪ/",
+            "us": "/flaɪ/"
+        },
+        "nearby": [
+            {
+                "word": "fly-drive",
+                "pos": "noun"
+            },
+            {
+                "word": "fly",
+                "pos": "verb"
+            },
+            {
+                "word": "fly",
+                "pos": "noun"
+            },
+            {
+                "word": "fly",
+                "pos": "adjective"
+            },
+            {
+                "word": "fly agaric",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small flying insect with two wings. There are many different types of fly and many of them spread disease.",
+                    "vi": "một con côn trùng bay nhỏ với hai cánh. Có nhiều loại ruồi khác nhau và nhiều loại trong số chúng truyền bệnh."
+                },
+                "examples": [
+                    {
+                        "en": "A fly was buzzing against the window.",
+                        "vi": "Một con ruồi bay vo ve trên cửa sổ."
+                    },
+                    {
+                        "en": "Flies rose in thick black swarms.",
+                        "vi": "Ruồi bay thành từng bầy dày đen."
+                    },
+                    {
+                        "en": "A fly settled on the butter.",
+                        "vi": "Một con ruồi đậu trên bơ."
+                    },
+                    {
+                        "en": "I swatted the fly with a newspaper.",
+                        "vi": "Tôi đánh ruồi bằng một tờ báo."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a fly or something made to look like a fly, that is put on the end of a fishing line and used as bait to catch fish",
+                    "vi": "một con ruồi hoặc một cái gì đó được làm giống ruồi, được đặt ở cuối dây câu và dùng làm mồi để bắt cá"
+                },
+                "examples": [
+                    {
+                        "en": "fly fishing",
+                        "vi": "bay câu cá"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an opening down the front of a pair of trousers that fastens with a zip or buttons and is usually covered over by a narrow piece of material",
+                    "vi": "một phần mở xuống phía trước của một chiếc quần được buộc bằng khóa hoặc cúc và thường được che phủ bởi một mảnh vật liệu hẹp"
+                },
+                "examples": [
+                    {
+                        "en": "Your fly is undone!",
+                        "vi": "Con ruồi của bạn đã được hoàn tác!"
+                    },
+                    {
+                        "en": "Your flies are undone!",
+                        "vi": "Ruồi của bạn đã được hoàn tác!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a piece of material that covers the entrance to a tent",
+                    "vi": "một mảnh vật liệu che lối vào lều"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a ball that is hit high into the air",
+                    "vi": "một quả bóng được đánh lên cao vào không trung"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to die or become ill and fall down in very large numbers",
+                    "vi": "chết hoặc bị bệnh và ngã xuống với số lượng rất lớn"
+                },
+                "examples": [
+                    {
+                        "en": "People were dropping like flies in the intense heat.",
+                        "vi": "Mọi người đang thả mình như ruồi trong cái nóng gay gắt."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person or thing that makes a situation or an occasion less pleasant, successful, etc.",
+                    "vi": "một người hoặc một việc làm cho một tình huống hoặc một dịp kém vui vẻ, thành công, v.v."
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person who watches others without being noticed",
+                    "vi": "một người quan sát người khác mà không bị chú ý"
+                },
+                "examples": [
+                    {
+                        "en": "I'd love to be a fly on the wall when he tells her the news.",
+                        "vi": "Tôi thích trở thành một con ruồi trên tường khi anh ấy nói với cô ấy tin tức."
+                    },
+                    {
+                        "en": "fly-on-the-wall documentaries (= in which people are filmed going about their normal lives as if the camera were not there)",
+                        "vi": "phim tài liệu bay trên tường (= trong đó mọi người được quay về cuộc sống bình thường của họ như thể không có máy quay)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the person mentioned is clever and not easily tricked",
+                    "vi": "người được đề cập thông minh và không dễ bị lừa"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be kind and gentle and unwilling to cause unhappiness",
+                    "vi": "tử tế và nhẹ nhàng và không muốn gây ra bất hạnh"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "if you do something on the fly, you do it quickly while something else is happening, and without thinking about it very much",
+                    "vi": "nếu bạn làm điều gì đó một cách nhanh chóng, bạn làm điều đó nhanh chóng trong khi điều gì đó khác đang xảy ra và không cần suy nghĩ về nó nhiều"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "while a computer program or application is operating, without completely restarting it",
+                    "vi": "trong khi một chương trình hoặc ứng dụng máy tính đang hoạt động mà không cần khởi động lại hoàn toàn"
+                },
+                "examples": [
+                    {
+                        "en": "Now, while I'm on the desktop, I can switch between open apps on the fly.",
+                        "vi": "Giờ đây, khi đang sử dụng máy tính để bàn, tôi có thể chuyển đổi nhanh chóng giữa các ứng dụng đang mở."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a9d276ac3441460ea96718cfa772eb01",
+        "word": "insect",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/ˈɪnsekt/",
+            "us": "/ˈɪnsekt/"
+        },
+        "nearby": [
+            {
+                "word": "inscrutably",
+                "pos": "adverb"
+            },
+            {
+                "word": "inseam",
+                "pos": "noun"
+            },
+            {
+                "word": "insect",
+                "pos": "noun"
+            },
+            {
+                "word": "insecticidal",
+                "pos": "adjective"
+            },
+            {
+                "word": "insecticide",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "any small creature with six legs and a body divided into three parts. Insects usually also have wings. Ants, bees and flies are all insects.",
+                    "vi": "bất kỳ sinh vật nhỏ nào có sáu chân và cơ thể được chia thành ba phần. Côn trùng thường cũng có cánh. Kiến, ong và ruồi đều là côn trùng."
+                },
+                "examples": [
+                    {
+                        "en": "Most birds spend most of the day eating insects.",
+                        "vi": "Hầu hết các loài chim dành phần lớn thời gian trong ngày để ăn côn trùng."
+                    },
+                    {
+                        "en": "There are about 30 million species of insects in the world.",
+                        "vi": "Có khoảng 30 triệu loài côn trùng trên thế giới."
+                    },
+                    {
+                        "en": "insect species",
+                        "vi": "các loài côn trùng"
+                    },
+                    {
+                        "en": "insect repellent (= a chemical that keeps insects away)",
+                        "vi": "thuốc chống côn trùng (= một loại hóa chất giúp côn trùng tránh xa)"
+                    },
+                    {
+                        "en": "an insect bite",
+                        "vi": "một vết côn trùng đốt"
+                    },
+                    {
+                        "en": "The pesticide is lethal to all insect life.",
+                        "vi": "Thuốc trừ sâu có thể gây chết tất cả đời sống côn trùng."
+                    },
+                    {
+                        "en": "methods to ensure the plants are as free of disease and insect pests as possible",
+                        "vi": "các phương pháp để đảm bảo cây sạch bệnh và không bị côn trùng gây hại nhất có thể"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3c406e02232b4ce0a4060f373d25dff0",
+        "word": "ant",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ænt/",
+            "us": "/ænt/"
+        },
+        "nearby": [
+            {
+                "word": "answerphone",
+                "pos": "noun"
+            },
+            {
+                "word": "answer to",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "ant",
+                "pos": "noun"
+            },
+            {
+                "word": "-ant",
+                "pos": "suffix"
+            },
+            {
+                "word": "antacid",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small insect that lives in highly organized groups. There are many types of ant.",
+                    "vi": "một loài côn trùng nhỏ sống trong các nhóm có tổ chức cao. Có nhiều loại kiến."
+                },
+                "examples": [
+                    {
+                        "en": "an ants’ nest",
+                        "vi": "một tổ kiến"
+                    },
+                    {
+                        "en": "an ant colony",
+                        "vi": "một đàn kiến"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be very excited or impatient about something and unable to stay still",
+                    "vi": "rất hào hứng hoặc thiếu kiên nhẫn về điều gì đó và không thể đứng yên"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "f707c6d1108a4f2aa31788d5454f1bea",
+        "word": "bee",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/biː/",
+            "us": "/biː/"
+        },
+        "nearby": [
+            {
+                "word": "bedtime",
+                "pos": "noun"
+            },
+            {
+                "word": "bed-wetting",
+                "pos": "noun"
+            },
+            {
+                "word": "bee",
+                "pos": "noun"
+            },
+            {
+                "word": "the Beeb",
+                "pos": "noun"
+            },
+            {
+                "word": "beech",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a black and yellow flying insect that can sting (= touch your skin and make you feel a sharp pain).Bees live in large groups and make honey (= a sweet sticky substance that is good to eat).",
+                    "vi": "một loại côn trùng bay màu đen và vàng có thể đốt (= chạm vào da và khiến bạn cảm thấy đau nhói)."
+                },
+                "examples": [
+                    {
+                        "en": "Bees were buzzing in the clover.",
+                        "vi": "Ong vo ve trong cỏ ba lá."
+                    },
+                    {
+                        "en": "a swarm of bees",
+                        "vi": "một bầy ong"
+                    },
+                    {
+                        "en": "a bee sting",
+                        "vi": "một con ong đốt"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a meeting in a group where people combine work, competition and pleasure",
+                    "vi": "một cuộc họp trong một nhóm nơi mọi người kết hợp công việc, cạnh tranh và niềm vui"
+                },
+                "examples": [
+                    {
+                        "en": "a sewing bee",
+                        "vi": "ong may"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "very busy",
+                    "vi": "rất bận"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "an excellent person or thing",
+                    "vi": "một người hay một thứ xuất sắc"
+                },
+                "examples": [
+                    {
+                        "en": "She thinks she's the bee's knees (= she has a very high opinion of herself).",
+                        "vi": "Cô ấy nghĩ cô ấy là đầu gối của con ong (= cô ấy có quan điểm rất cao về bản thân)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the basic facts about sex, especially as told to children",
+                    "vi": "những điều cơ bản về tình dục, đặc biệt là khi nói với trẻ em"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to think or talk about something all the time and to think that it is very important",
+                    "vi": "nghĩ hoặc nói về điều gì đó mọi lúc và nghĩ rằng điều đó rất quan trọng"
+                },
+                "examples": [
+                    {
+                        "en": "Our teacher has a bee in his bonnet about punctuation.",
+                        "vi": "Giáo viên của chúng tôi có một con ong trong nắp ca-pô của mình về dấu câu."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "351c2bf446e04307894c292b2719cb27",
+        "word": "butterfly",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈbʌtəflaɪ/",
+            "us": "/ˈbʌtərflaɪ/"
+        },
+        "nearby": [
+            {
+                "word": "butterfat",
+                "pos": "noun"
+            },
+            {
+                "word": "butterfingers",
+                "pos": "noun"
+            },
+            {
+                "word": "butterfly",
+                "pos": "noun"
+            },
+            {
+                "word": "butterfly bush",
+                "pos": "noun"
+            },
+            {
+                "word": "butterfly effect",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a flying insect with a long thin body and four large, usually brightly coloured, wings",
+                    "vi": "một loài côn trùng bay có thân dài mỏng và bốn cánh lớn, thường có màu sắc rực rỡ"
+                },
+                "examples": [
+                    {
+                        "en": "butterflies and moths",
+                        "vi": "bướm và bướm đêm"
+                    },
+                    {
+                        "en": "She's like a butterfly. She flits in and out of people's lives.",
+                        "vi": "Cô ấy giống như một con bướm. Cô ấy ra vào cuộc sống của mọi người."
+                    },
+                    {
+                        "en": "The butterfly emerged from the pupa.",
+                        "vi": "Con bướm hiện ra từ con nhộng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a swimming stroke in which you swim on your front and lift both arms forward at the same time while your legs move up and down together",
+                    "vi": "một động tác bơi trong đó bạn bơi ở phía trước và đồng thời nâng cả hai cánh tay về phía trước trong khi hai chân di chuyển lên và xuống cùng nhau"
+                },
+                "examples": [
+                    {
+                        "en": "She was third in the 200m butterfly (= a swimming race).",
+                        "vi": "Cô ấy về thứ ba trong 200m bướm (= một cuộc đua bơi lội)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to have a nervous feeling in your stomach before doing something",
+                    "vi": "có cảm giác lo lắng trong bụng trước khi làm điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "I had butterflies in my stomach as I went to get my exam results.",
+                        "vi": "Tôi đau thắt ruột khi đi lấy kết quả thi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1e835f008009416eb6b007fe2aa4aa57",
+        "word": "mosquito",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/məˈskiːtəʊ/",
+            "us": "/məˈskiːtəʊ/"
+        },
+        "nearby": [
+            {
+                "word": "Mosotho",
+                "pos": "noun"
+            },
+            {
+                "word": "mosque",
+                "pos": "noun"
+            },
+            {
+                "word": "mosquito",
+                "pos": "noun"
+            },
+            {
+                "word": "mosquito net",
+                "pos": "noun"
+            },
+            {
+                "word": "moss",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a flying insect that bites humans and animals and drinks their blood. One type of mosquito can spread the disease malaria.",
+                    "vi": "một loài côn trùng bay, cắn người và động vật và uống máu của họ. Một loại muỗi có thể truyền bệnh sốt rét."
+                },
+                "examples": [
+                    {
+                        "en": "I was awake all night scratching my mosquito bites.",
+                        "vi": "Tôi thức trắng đêm gãi ngứa cho con."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "bccd139f389741a29faac8e1bbdd6250",
+        "word": "bug",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/bʌɡ/",
+            "us": "/bʌɡ/"
+        },
+        "nearby": [
+            {
+                "word": "buff up",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "Buffy the Vampire Slayer",
+                "pos": ""
+            },
+            {
+                "word": "bug",
+                "pos": "noun"
+            },
+            {
+                "word": "bug",
+                "pos": "verb"
+            },
+            {
+                "word": "bugaboo",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "any small insect",
+                    "vi": "bất kỳ loài côn trùng nhỏ nào"
+                },
+                "examples": [
+                    {
+                        "en": "There's a bug crawling up your arm.",
+                        "vi": "Có một con bọ đang bò lên trên cánh tay của bạn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an illness that is usually fairly mild but spreads easily from person to person",
+                    "vi": "một bệnh thường khá nhẹ nhưng dễ lây lan từ người này sang người khác"
+                },
+                "examples": [
+                    {
+                        "en": "a flu bug",
+                        "vi": "một con bọ cúm"
+                    },
+                    {
+                        "en": "There's a stomach bug going round (= people are catching it from each other).",
+                        "vi": "Có một con bọ trong dạ dày đang bùng phát (= mọi người đang bắt nó từ nhau)."
+                    },
+                    {
+                        "en": "I picked up a bug in the office.",
+                        "vi": "Tôi đã nhặt được một lỗi trong văn phòng."
+                    },
+                    {
+                        "en": "He's off work with a flu bug.",
+                        "vi": "Anh ấy đang nghỉ việc vì bị cúm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an enthusiastic interest in something such as a sport or a hobby",
+                    "vi": "quan tâm nhiệt tình đến một cái gì đó chẳng hạn như một môn thể thao hoặc một sở thích"
+                },
+                "examples": [
+                    {
+                        "en": "She's been bitten by the travel bug.",
+                        "vi": "Cô ấy đã bị cắn bởi con bọ du lịch."
+                    },
+                    {
+                        "en": "She was never interested in fitness before but now she's been bitten by the bug.",
+                        "vi": "Trước đây cô ấy chưa bao giờ quan tâm đến thể dục nhưng giờ cô ấy đã bị con bọ cắn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a fault in a machine, especially in a computer system or program",
+                    "vi": "lỗi trong máy, đặc biệt là trong hệ thống máy tính hoặc chương trình"
+                },
+                "examples": [
+                    {
+                        "en": "The software is full of bugs.",
+                        "vi": "Phần mềm có đầy lỗi."
+                    },
+                    {
+                        "en": "My computer's really slow at the moment—it must be some kind of bug.",
+                        "vi": "Máy tính của tôi thực sự chậm vào lúc này — chắc là một loại lỗi nào đó."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a small hidden device for listening to other people’s conversations",
+                    "vi": "một thiết bị ẩn nhỏ để nghe cuộc trò chuyện của người khác"
+                },
+                "examples": [
+                    {
+                        "en": "They planted a bug in his hotel room.",
+                        "vi": "Họ đã gieo một con bọ trong phòng khách sạn của anh ấy."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "60fd9c173ed14e748f3f523525b206c7",
+        "word": "wasp",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/wɒsp/",
+            "us": "/wɑːsp/"
+        },
+        "nearby": [
+            {
+                "word": "wash up",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "wasn't",
+                "pos": "verb"
+            },
+            {
+                "word": "wasp",
+                "pos": "noun"
+            },
+            {
+                "word": "Wasp",
+                "pos": "noun"
+            },
+            {
+                "word": "waspish",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a black and yellow flying insect that can sting",
+                    "vi": "côn trùng bay màu đen và vàng có thể đốt"
+                },
+                "examples": [
+                    {
+                        "en": "a wasp sting",
+                        "vi": "một con ong bắp cày"
+                    },
+                    {
+                        "en": "a wasps’ nest",
+                        "vi": "một tổ ong bắp cày"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "07755e9e905546ca9fbace981d5769f7",
+        "word": "beetle",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈbiːtl/",
+            "us": "/ˈbiːtl/"
+        },
+        "nearby": [
+            {
+                "word": "beeswax",
+                "pos": "noun"
+            },
+            {
+                "word": "beet",
+                "pos": "noun"
+            },
+            {
+                "word": "beetle",
+                "pos": "noun"
+            },
+            {
+                "word": "beetle",
+                "pos": "verb"
+            },
+            {
+                "word": "Beetle",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an insect, often large and black, with a hard case on its back, covering its wings. There are several types of beetle.",
+                    "vi": "một loài côn trùng, thường to và đen, trên lưng có một cái vỏ cứng, che đi đôi cánh. Có một số loại bọ cánh cứng."
+                },
+                "examples": [
+                    {
+                        "en": "a black beetle",
+                        "vi": "một con bọ đen"
+                    },
+                    {
+                        "en": "a dung beetle",
+                        "vi": "một con bọ phân"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ebebb3e7bea540e08403a4636df0ff8f",
+        "word": "cockroach",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈkɒkrəʊtʃ/",
+            "us": "/ˈkɑːkrəʊtʃ/"
+        },
+        "nearby": [
+            {
+                "word": "cockney",
+                "pos": "noun"
+            },
+            {
+                "word": "cockpit",
+                "pos": "noun"
+            },
+            {
+                "word": "cockroach",
+                "pos": "noun"
+            },
+            {
+                "word": "John Cockroft",
+                "pos": ""
+            },
+            {
+                "word": "cocksucker",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a large brown insect with wings, that lives in houses, especially where there is dirt",
+                    "vi": "một loài côn trùng lớn màu nâu có cánh, sống trong nhà, đặc biệt là nơi có bụi bẩn"
+                },
+                "examples": [
+                    {
+                        "en": "The kitchens were discovered to be infested with cockroaches.",
+                        "vi": "Các nhà bếp được phát hiện là bị nhiễm gián."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c4677a0998a5484f8becdc4ddba358b7",
+        "word": "flea",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/fliː/",
+            "us": "/fliː/"
+        },
+        "nearby": [
+            {
+                "word": "flaxseed oil",
+                "pos": "noun"
+            },
+            {
+                "word": "flay",
+                "pos": "verb"
+            },
+            {
+                "word": "flea",
+                "pos": "noun"
+            },
+            {
+                "word": "fleabag",
+                "pos": "noun"
+            },
+            {
+                "word": "flea-bitten",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a very small jumping insect without wings, that bites animals and humans and drinks their blood",
+                    "vi": "một loài côn trùng nhảy rất nhỏ không có cánh, cắn động vật và con người và uống máu của họ"
+                },
+                "examples": [
+                    {
+                        "en": "The dog has fleas.",
+                        "vi": "Con chó có bọ chét."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if somebody sends a person away with a flea in their ear, they tell them angrily to go away",
+                    "vi": "nếu ai đó đuổi một người đi với một con bọ chét trong tai của họ, họ giận dữ bảo họ hãy biến đi"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "f0fb061914ba4439a6cc0f2e82013f10",
+        "word": "moth",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/mɒθ/",
+            "us": "/mɔːθ/"
+        },
+        "nearby": [
+            {
+                "word": "motel",
+                "pos": "noun"
+            },
+            {
+                "word": "motet",
+                "pos": "noun"
+            },
+            {
+                "word": "moth",
+                "pos": "noun"
+            },
+            {
+                "word": "mothball",
+                "pos": "noun"
+            },
+            {
+                "word": "mothball",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a flying insect with a long thin body and four large wings, like a butterfly, but less brightly coloured. Moths fly mainly at night and are attracted to bright lights.",
+                    "vi": "một loài côn trùng bay có thân dài mỏng và bốn cánh lớn, giống như một con bướm, nhưng màu sắc kém rực rỡ hơn. Bướm đêm bay chủ yếu vào ban đêm và bị thu hút bởi ánh sáng rực rỡ."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "f3cefbfe4eb5477aabe61bd8dd7e0427",
+        "word": "swarm",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/swɔːm/",
+            "us": "/swɔːrm/"
+        },
+        "nearby": [
+            {
+                "word": "sward",
+                "pos": "noun"
+            },
+            {
+                "word": "Swarfega",
+                "pos": "noun"
+            },
+            {
+                "word": "swarm",
+                "pos": "noun"
+            },
+            {
+                "word": "swarm",
+                "pos": "verb"
+            },
+            {
+                "word": "swarm with",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a large group of insects, especially bees, moving together in the same direction",
+                    "vi": "một nhóm lớn côn trùng, đặc biệt là ong, cùng nhau di chuyển theo cùng một hướng"
+                },
+                "examples": [
+                    {
+                        "en": "a swarm of bees/locusts/flies",
+                        "vi": "một bầy ong / cào cào / ruồi"
+                    },
+                    {
+                        "en": "Gnats came in swarms to torment them.",
+                        "vi": "Các loài gặm nhấm đến thành từng đàn để hành hạ họ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a large group of people, especially when they are all moving quickly in the same direction",
+                    "vi": "một nhóm lớn người, đặc biệt là khi tất cả họ đang di chuyển nhanh chóng theo cùng một hướng"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "473c6538e2714ff880190b90638598d8",
+        "word": "termite",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈtɜːmaɪt/",
+            "us": "/ˈtɜːrmaɪt/"
+        },
+        "nearby": [
+            {
+                "word": "terminology",
+                "pos": "noun"
+            },
+            {
+                "word": "terminus",
+                "pos": "noun"
+            },
+            {
+                "word": "termite",
+                "pos": "noun"
+            },
+            {
+                "word": "termly",
+                "pos": "adjective"
+            },
+            {
+                "word": "term paper",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an insect that lives in organized groups, mainly in hot countries. Termites do a lot of damage by eating the wood of trees and buildings.",
+                    "vi": "một loài côn trùng sống thành từng nhóm có tổ chức, chủ yếu ở xứ nóng. Mối gây ra nhiều thiệt hại bằng cách ăn gỗ của cây cối và các tòa nhà."
+                },
+                "examples": [
+                    {
+                        "en": "a termite colony",
+                        "vi": "một thuộc địa của mối"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9611866e43224f1c82461b8f03ea0ea1",
+        "word": "ant lion",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈænt laɪən/",
+            "us": "/ˈænt laɪən/"
+        },
+        "nearby": [
+            {
+                "word": "antivirus",
+                "pos": "adjective"
+            },
+            {
+                "word": "antler",
+                "pos": "noun"
+            },
+            {
+                "word": "ant lion",
+                "pos": "noun"
+            },
+            {
+                "word": "Antoinette",
+                "pos": ""
+            },
+            {
+                "word": "Antonia",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small insect that eats other insects, especially ants, which it catches in a hole made in the sand",
+                    "vi": "một loại côn trùng nhỏ ăn các loại côn trùng khác, đặc biệt là kiến, chúng bắt được trong một cái lỗ được làm trên cát"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "c6bc92a4dc3f47e6940da069d1304505",
+        "word": "aphid",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈeɪfɪd/",
+            "us": "/ˈeɪfɪd/"
+        },
+        "nearby": [
+            {
+                "word": "Apex",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "aphasia",
+                "pos": "noun"
+            },
+            {
+                "word": "aphid",
+                "pos": "noun"
+            },
+            {
+                "word": "aphorism",
+                "pos": "noun"
+            },
+            {
+                "word": "aphoristic",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a very small insect that is harmful to plants. There are several types of aphid, including, for example, greenfly.",
+                    "vi": "một loại côn trùng rất nhỏ có hại cho cây trồng. Có một số loại rệp, bao gồm, ví dụ, ruồi xanh."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "aa6745355f5a45dcab9bc7f4fd015a6b",
+        "word": "bedbug",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbedbʌɡ/",
+            "us": "/ˈbedbʌɡ/"
+        },
+        "nearby": [
+            {
+                "word": "bedazzle",
+                "pos": "verb"
+            },
+            {
+                "word": "bedazzlement",
+                "pos": "noun"
+            },
+            {
+                "word": "bedbug",
+                "pos": "noun"
+            },
+            {
+                "word": "bedchamber",
+                "pos": "noun"
+            },
+            {
+                "word": "bedclothes",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small flat insect that lives especially in beds, where it bites people and drinks their blood",
+                    "vi": "một loài côn trùng nhỏ sống đặc biệt trên giường, nơi nó cắn người và uống máu của họ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "71e1ad14ade64d9ba32ccbb26fa0b2a9",
+        "word": "blackfly",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈblækflaɪ/",
+            "us": "/ˈblækflaɪ/"
+        },
+        "nearby": [
+            {
+                "word": "blackface",
+                "pos": "noun"
+            },
+            {
+                "word": "black flag",
+                "pos": "noun"
+            },
+            {
+                "word": "blackfly",
+                "pos": "noun"
+            },
+            {
+                "word": "Blackfoot",
+                "pos": "noun"
+            },
+            {
+                "word": "Black Forest gateau",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small black or dark green insect that damages plants",
+                    "vi": "một loại côn trùng nhỏ màu đen hoặc xanh đậm gây hại cho cây trồng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a small black fly that bites humans and animals and drinks their blood",
+                    "vi": "một con ruồi đen nhỏ cắn người và động vật và uống máu của họ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "6e19350c1ded43318cfe8501acc0084d",
+        "word": "boll weevil",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbəʊl wiːvl/",
+            "us": "/ˈbəʊl wiːvl/"
+        },
+        "nearby": [
+            {
+                "word": "bollocking",
+                "pos": "noun"
+            },
+            {
+                "word": "bollocks",
+                "pos": "noun"
+            },
+            {
+                "word": "boll weevil",
+                "pos": "noun"
+            },
+            {
+                "word": "Bollywood",
+                "pos": "noun"
+            },
+            {
+                "word": "bologna",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an insect that damages cotton plants",
+                    "vi": "côn trùng phá hoại cây bông vải"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "bc6bced6579a46b2aa085d99c42d0de9",
+        "word": "caddis",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkædɪs/",
+            "us": "/ˈkædɪs/"
+        },
+        "nearby": [
+            {
+                "word": "caddie",
+                "pos": "noun"
+            },
+            {
+                "word": "caddie",
+                "pos": "verb"
+            },
+            {
+                "word": "caddis",
+                "pos": "noun"
+            },
+            {
+                "word": "caddy",
+                "pos": "noun"
+            },
+            {
+                "word": "Jack Cade",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small insect. The young forms, called caddis worms, are often used for catching fish.",
+                    "vi": "một loài côn trùng nhỏ. Các dạng non, được gọi là giun caddis, thường được sử dụng để đánh bắt cá."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "94013728894c426984eff69fa7a53f4f",
+        "word": "chigger",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtʃɪɡə(r)/",
+            "us": "/ˈtʃɪɡər/"
+        },
+        "nearby": [
+            {
+                "word": "Chief Whip",
+                "pos": "noun"
+            },
+            {
+                "word": "chiffon",
+                "pos": "noun"
+            },
+            {
+                "word": "chigger",
+                "pos": "noun"
+            },
+            {
+                "word": "chignon",
+                "pos": "noun"
+            },
+            {
+                "word": "chihuahua",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small flea that lives in tropical regions and lays eggs under a person’s or an animal’s skin, causing painful areas on the skin",
+                    "vi": "một loài bọ chét nhỏ sống ở các vùng nhiệt đới và đẻ trứng dưới da của người hoặc động vật, gây ra các vùng đau trên da"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "c6198bd24c60440e98fb18d4a022111f",
+        "word": "cicada",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/sɪˈkɑːdə/",
+            "us": "/sɪˈkeɪdə/"
+        },
+        "nearby": [
+            {
+                "word": "Ciara",
+                "pos": ""
+            },
+            {
+                "word": "Ciaran",
+                "pos": ""
+            },
+            {
+                "word": "cicada",
+                "pos": "noun"
+            },
+            {
+                "word": "CID",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "-cidal",
+                "pos": "suffix"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a large insect with transparent wings, common in hot countries. The male makes a continuous high sound after dark by making two membranes (= pieces of thin skin) on its body vibrate (= move very fast).",
+                    "vi": "một loài côn trùng lớn có cánh trong suốt, phổ biến ở xứ nóng. Con đực tạo ra âm thanh cao liên tục sau khi trời tối bằng cách làm cho hai lớp màng (= mảnh da mỏng) trên cơ thể nó rung lên (= di chuyển rất nhanh)."
+                },
+                "examples": [
+                    {
+                        "en": "Cicadas buzzed in the heat of the day.",
+                        "vi": "Tiếng ve kêu râm ran trong ngày nắng nóng."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ea76d19f08aa47b99c33e4d8ba9935ca",
+        "word": "cockchafer",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkɒktʃeɪfə(r)/",
+            "us": "/ˈkɑːktʃeɪfər/"
+        },
+        "nearby": [
+            {
+                "word": "cockatiel",
+                "pos": "noun"
+            },
+            {
+                "word": "cockatoo",
+                "pos": "noun"
+            },
+            {
+                "word": "cockchafer",
+                "pos": "noun"
+            },
+            {
+                "word": "cockcrow",
+                "pos": "noun"
+            },
+            {
+                "word": "cocked hat",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a large brown insect that flies and makes a loud noise in early evening in summer",
+                    "vi": "một con côn trùng lớn màu nâu bay và gây ra tiếng ồn lớn vào đầu mùa hè"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "d7d04adc090b4aafa70595e370202213",
+        "word": "Colorado beetle",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌkɒlərɑːdəʊ ˈbiːtl/",
+            "us": "/ˌkɑːlərædəʊ ˈbiːtl/"
+        },
+        "nearby": [
+            {
+                "word": "color",
+                "pos": "verb"
+            },
+            {
+                "word": "Colorado",
+                "pos": ""
+            },
+            {
+                "word": "Colorado beetle",
+                "pos": "noun"
+            },
+            {
+                "word": "the Colorado River",
+                "pos": ""
+            },
+            {
+                "word": "Colorado Springs",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a yellow and black insect that damages potato plants",
+                    "vi": "một loại côn trùng màu vàng và đen làm hại cây khoai tây"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "9e63a98a5ab04a4899d9ed3a0d6c0c90",
+        "word": "crane fly",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkreɪn flaɪ/",
+            "us": "/ˈkreɪn flaɪ/"
+        },
+        "nearby": [
+            {
+                "word": "crane",
+                "pos": "verb"
+            },
+            {
+                "word": "Stephen Crane",
+                "pos": ""
+            },
+            {
+                "word": "crane fly",
+                "pos": "noun"
+            },
+            {
+                "word": "cranial",
+                "pos": "adjective"
+            },
+            {
+                "word": "cranium",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a flying insect with very long legs",
+                    "vi": "một con côn trùng bay với đôi chân rất dài"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "5dbf58d224c54d0e994a31f2587a5d77",
+        "word": "cricket",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkrɪkɪt/",
+            "us": "/ˈkrɪkɪt/"
+        },
+        "nearby": [
+            {
+                "word": "crick",
+                "pos": "noun"
+            },
+            {
+                "word": "Francis Crick",
+                "pos": ""
+            },
+            {
+                "word": "cricket",
+                "pos": "noun"
+            },
+            {
+                "word": "cricketer",
+                "pos": "noun"
+            },
+            {
+                "word": "cricketing",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a game played on grass by two teams of 11 players. Players score points (called runs) by hitting the ball with a wooden bat and running between two sets of vertical wooden sticks, called stumps.",
+                    "vi": "một trò chơi được chơi trên sân cỏ của hai đội gồm 11 người chơi. Người chơi ghi điểm (gọi là chạy) bằng cách đánh bóng bằng gậy gỗ và chạy giữa hai bộ gậy gỗ thẳng đứng, được gọi là gốc cây."
+                },
+                "examples": [
+                    {
+                        "en": "a cricket match/team/club/ball",
+                        "vi": "một trận đấu cricket / đội / câu lạc bộ / bóng"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a small brown jumping insect that makes a loud high sound by rubbing its wings together",
+                    "vi": "một con côn trùng nhỏ màu nâu nhảy tạo ra âm thanh lớn bằng cách cọ xát cánh của chúng với nhau"
+                },
+                "examples": [
+                    {
+                        "en": "the chirping of crickets",
+                        "vi": "tiếng kêu của dế"
+                    },
+                    {
+                        "en": "The only sound was a cricket chirping.",
+                        "vi": "Âm thanh duy nhất là tiếng dế kêu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "unfair; not honourable",
+                    "vi": "không công bằng; không danh giá"
+                },
+                "examples": [
+                    {
+                        "en": "You can’t do it without telling him; it’s just not cricket.",
+                        "vi": "Bạn không thể làm điều đó mà không nói với anh ta; nó không chỉ là cricket."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ffc5fb04da654e2ea6dc296f27e1c170",
+        "word": "daddy-long-legs",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌdædi ˈlɒŋ leɡz/",
+            "us": "/ˌdædi ˈlɔːŋ leɡz/"
+        },
+        "nearby": [
+            {
+                "word": "Dadaist",
+                "pos": "noun"
+            },
+            {
+                "word": "daddy",
+                "pos": "noun"
+            },
+            {
+                "word": "daddy-long-legs",
+                "pos": "noun"
+            },
+            {
+                "word": "dado",
+                "pos": "noun"
+            },
+            {
+                "word": "dado rail",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a crane fly (= a flying insect with very long legs)",
+                    "vi": "một con sếu ruồi (= một loài côn trùng bay có đôi chân rất dài)"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a small creature like a spider with very long legs",
+                    "vi": "một sinh vật nhỏ như một con nhện với đôi chân rất dài"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "0dcc850bfaa64595b0dee5cb8ca2640c",
+        "word": "damselfly",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈdæmzlflaɪ/",
+            "us": "/ˈdæmzlflaɪ/"
+        },
+        "nearby": [
+            {
+                "word": "damp-proof course",
+                "pos": "noun"
+            },
+            {
+                "word": "damsel",
+                "pos": "noun"
+            },
+            {
+                "word": "damselfly",
+                "pos": "noun"
+            },
+            {
+                "word": "damson",
+                "pos": "noun"
+            },
+            {
+                "word": "dan",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an insect with a long thin body and two pairs of wings, similar to a dragonfly but smaller",
+                    "vi": "một loài côn trùng có thân dài mỏng và hai đôi cánh, tương tự như chuồn chuồn nhưng nhỏ hơn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "7f676cf0b6b64c19bf80e78c8a2ed9ef",
+        "word": "deathwatch beetle",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌdeθwɒtʃ ˈbiːtl/",
+            "us": "/ˌdeθwɑːtʃ ˈbiːtl/"
+        },
+        "nearby": [
+            {
+                "word": "Death Valley",
+                "pos": ""
+            },
+            {
+                "word": "death warrant",
+                "pos": "noun"
+            },
+            {
+                "word": "deathwatch beetle",
+                "pos": "noun"
+            },
+            {
+                "word": "death wish",
+                "pos": "noun"
+            },
+            {
+                "word": "deb",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small insect that eats into old wood, making sounds like a watch ticking",
+                    "vi": "một con côn trùng nhỏ ăn vào gỗ cũ, tạo ra âm thanh như tiếng đồng hồ tích tắc"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "f9c9cf2913164bcfa0ec6daad3e6ec5d",
+        "word": "dragonfly",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈdræɡənflaɪ/",
+            "us": "/ˈdræɡənflaɪ/"
+        },
+        "nearby": [
+            {
+                "word": "dragon",
+                "pos": "noun"
+            },
+            {
+                "word": "dragon boat",
+                "pos": "noun"
+            },
+            {
+                "word": "dragonfly",
+                "pos": "noun"
+            },
+            {
+                "word": "dragon lady",
+                "pos": "noun"
+            },
+            {
+                "word": "dragoon",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an insect with a long, thin body, often brightly coloured, and two pairs of large transparent wings. Dragonflies are often seen over water.",
+                    "vi": "một loài côn trùng có thân dài, mỏng, thường có màu sắc rực rỡ và hai cặp cánh lớn trong suốt. Chuồn chuồn thường được nhìn thấy trên mặt nước."
+                },
+                "examples": [
+                    {
+                        "en": "Bright blue dragonflies hovered and darted in the reeds.",
+                        "vi": "Những con chuồn chuồn màu xanh sáng bay lượn và lao vào đám lau sậy."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "04a3c94b58e44d78a76a1e5bf17df9ef",
+        "word": "earwig",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈɪəwɪɡ/",
+            "us": "/ˈɪrwɪɡ/"
+        },
+        "nearby": [
+            {
+                "word": "ear trumpet",
+                "pos": "noun"
+            },
+            {
+                "word": "earwax",
+                "pos": "noun"
+            },
+            {
+                "word": "earwig",
+                "pos": "noun"
+            },
+            {
+                "word": "earworm",
+                "pos": "noun"
+            },
+            {
+                "word": "ease",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small brown insect with a long body and two curved pointed parts called pincers that stick out at the back end of its body",
+                    "vi": "một loài côn trùng nhỏ màu nâu có thân dài và hai phần nhọn cong được gọi là panh nhô ra ở cuối cơ thể"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "0d8e7216dd344db49968c799b90a5ac9",
+        "word": "fire ant",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈfaɪər ænt/",
+            "us": "/ˈfaɪər ænt/"
+        },
+        "nearby": [
+            {
+                "word": "fire",
+                "pos": "verb"
+            },
+            {
+                "word": "fire alarm",
+                "pos": "noun"
+            },
+            {
+                "word": "fire ant",
+                "pos": "noun"
+            },
+            {
+                "word": "firearm",
+                "pos": "noun"
+            },
+            {
+                "word": "fire away",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a type of ant (= a small insect) that has a painful sting that is sometimes dangerous",
+                    "vi": "một loại kiến (= một loại côn trùng nhỏ) có vết đốt gây đau đớn đôi khi rất nguy hiểm"
+                },
+                "examples": [
+                    {
+                        "en": "They had an infestation of fire ants.",
+                        "vi": "Họ đã bị kiến lửa phá hoại."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "bd2fbd85ad66461a9f07ff5871891c85",
+        "word": "firefly",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈfaɪəflaɪ/",
+            "us": "/ˈfaɪərflaɪ/"
+        },
+        "nearby": [
+            {
+                "word": "firefighter",
+                "pos": "noun"
+            },
+            {
+                "word": "firefighting",
+                "pos": "noun"
+            },
+            {
+                "word": "firefly",
+                "pos": "noun"
+            },
+            {
+                "word": "fireguard",
+                "pos": "noun"
+            },
+            {
+                "word": "fire hose",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a flying insect with a tail that shines in the dark",
+                    "vi": "côn trùng bay có đuôi tỏa sáng trong bóng tối"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "ff1f6258d8164a33be912a3acdde92c5",
+        "word": "furniture beetle",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈfɜːnɪtʃə biːtl/",
+            "us": "/ˈfɜːrnɪtʃər biːtl/"
+        },
+        "nearby": [
+            {
+                "word": "furnishings",
+                "pos": "noun"
+            },
+            {
+                "word": "furniture",
+                "pos": "noun"
+            },
+            {
+                "word": "furniture beetle",
+                "pos": "noun"
+            },
+            {
+                "word": "furniture van",
+                "pos": "noun"
+            },
+            {
+                "word": "furore",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an insect, the larva (= young) of which damages wooden furniture and buildings",
+                    "vi": "một loài côn trùng, ấu trùng (= trẻ) trong số đó làm hỏng đồ đạc và các tòa nhà bằng gỗ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "7cafb6c6b3434fce827ed107d0be2311",
+        "word": "glow-worm",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈɡləʊ wɜːm/",
+            "us": "/ˈɡləʊ wɜːrm/"
+        },
+        "nearby": [
+            {
+                "word": "glowingly",
+                "pos": "adverb"
+            },
+            {
+                "word": "glow stick",
+                "pos": "noun"
+            },
+            {
+                "word": "glow-worm",
+                "pos": "noun"
+            },
+            {
+                "word": "glucose",
+                "pos": "noun"
+            },
+            {
+                "word": "glue",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a type of insect. The female has no wings and produces a green light at the end of the tail.",
+                    "vi": "một loại côn trùng. Con cái không có cánh và tạo ra ánh sáng màu xanh lục ở cuối đuôi."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "bdf0ec45ea9e4f85909b77906839a508",
+        "word": "gnat",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/næt/",
+            "us": "/næt/"
+        },
+        "nearby": [
+            {
+                "word": "gnash",
+                "pos": "verb"
+            },
+            {
+                "word": "gnashers",
+                "pos": "noun"
+            },
+            {
+                "word": "gnat",
+                "pos": "noun"
+            },
+            {
+                "word": "gnaw",
+                "pos": "verb"
+            },
+            {
+                "word": "gnaw at",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a very small fly with two wings that bites and often flies in large groups",
+                    "vi": "một con ruồi rất nhỏ có hai cánh cắn và thường bay theo nhóm lớn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "fad56f74be5c462fad4acf5a5a8bd357",
+        "word": "gogga",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈxɒxə/",
+            "us": "/ˈxɑːxə/"
+        },
+        "nearby": [
+            {
+                "word": "go forward",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "go-getter",
+                "pos": "noun"
+            },
+            {
+                "word": "gogga",
+                "pos": "noun"
+            },
+            {
+                "word": "goggle",
+                "pos": "verb"
+            },
+            {
+                "word": "goggle-box",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an insect",
+                    "vi": "một con côn trùng"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "be5963328a7143c2a68cea50f0cd0a7a",
+        "word": "grasshopper",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈɡrɑːshɒpə(r)/",
+            "us": "/ˈɡræshɑːpər/"
+        },
+        "nearby": [
+            {
+                "word": "grasscutter",
+                "pos": "noun"
+            },
+            {
+                "word": "grassed",
+                "pos": "adjective"
+            },
+            {
+                "word": "grasshopper",
+                "pos": "noun"
+            },
+            {
+                "word": "grassland",
+                "pos": "noun"
+            },
+            {
+                "word": "grass over",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an insect with long back legs, that can jump very high and that makes a sound with its legs",
+                    "vi": "một loài côn trùng có chân dài, có thể nhảy rất cao và phát ra âm thanh bằng chân"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "very small; very young",
+                    "vi": "rất nhỏ; rất trẻ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "704227a0228c438fa3525c14f6bc315b",
+        "word": "greenfly",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈɡriːnflaɪ/",
+            "us": "/ˈɡriːnflaɪ/"
+        },
+        "nearby": [
+            {
+                "word": "green-fingered",
+                "pos": "adjective"
+            },
+            {
+                "word": "green fingers",
+                "pos": "noun"
+            },
+            {
+                "word": "greenfly",
+                "pos": "noun"
+            },
+            {
+                "word": "greengage",
+                "pos": "noun"
+            },
+            {
+                "word": "Green Giant",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small flying insect that is harmful to plants",
+                    "vi": "một loài côn trùng bay nhỏ có hại cho cây trồng"
+                },
+                "examples": [
+                    {
+                        "en": "The roses have got greenfly.",
+                        "vi": "Hoa hồng đã có con ruồi xanh."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0af173dcc4b14685ba8cb1635e884335",
+        "word": "gypsy moth",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈdʒɪpsi mɒθ/",
+            "us": "/ˈdʒɪpsi mɔːθ/"
+        },
+        "nearby": [
+            {
+                "word": "gypsum",
+                "pos": "noun"
+            },
+            {
+                "word": "Gypsy",
+                "pos": "noun"
+            },
+            {
+                "word": "gypsy moth",
+                "pos": "noun"
+            },
+            {
+                "word": "gyrate",
+                "pos": "verb"
+            },
+            {
+                "word": "gyration",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a type of moth, the caterpillar of which eats leaves and causes serious damage to trees and plants",
+                    "vi": "một loại sâu bướm, sâu bướm ăn lá và gây hại nghiêm trọng cho cây cối và thực vật"
+                },
+                "examples": [
+                    {
+                        "en": "The gypsy moth is a notorious pest that feeds on birches.",
+                        "vi": "Bướm đêm gypsy là một loài gây hại khét tiếng ăn các loài bạch dương."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "eaf922003a7c4a2ab3d37bebfbb379d9",
+        "word": "hornet",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈhɔːnɪt/",
+            "us": "/ˈhɔːrnɪt/"
+        },
+        "nearby": [
+            {
+                "word": "A S Hornby",
+                "pos": ""
+            },
+            {
+                "word": "horned",
+                "pos": "adjective"
+            },
+            {
+                "word": "hornet",
+                "pos": "noun"
+            },
+            {
+                "word": "horn in",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "horn of plenty",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a large wasp (= a black and yellow flying insect) that has a very powerful sting",
+                    "vi": "một con ong bắp cày lớn (= một loài côn trùng bay màu đen và vàng) có một vết đốt rất mạnh"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a difficult situation in which a lot of people get very angry",
+                    "vi": "một tình huống khó khăn trong đó nhiều người rất tức giận"
+                },
+                "examples": [
+                    {
+                        "en": "His letter to the papers stirred up a real hornets' nest.",
+                        "vi": "Bức thư của anh ta gửi đến các tờ giấy đã khuấy động một tổ ong bắp cày thực sự."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ee066ed8c70e418dbc0fa637cde2b9a0",
+        "word": "jigger",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈdʒɪɡə(r)/",
+            "us": "/ˈdʒɪɡər/"
+        },
+        "nearby": [
+            {
+                "word": "jig",
+                "pos": "noun"
+            },
+            {
+                "word": "jig",
+                "pos": "verb"
+            },
+            {
+                "word": "jigger",
+                "pos": "noun"
+            },
+            {
+                "word": "jiggered",
+                "pos": "adjective"
+            },
+            {
+                "word": "jiggery-pokery",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small flea that lives in tropical regions and lays eggs under a person’s or an animal’s skin, causing painful areas on the skin",
+                    "vi": "một loài bọ chét nhỏ sống ở các vùng nhiệt đới và đẻ trứng dưới da của người hoặc động vật, gây ra các vùng đau trên da"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "02b30d5891a3437fbe5eb9f9cb4631f5",
+        "word": "lacewing",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈleɪswɪŋ/",
+            "us": "/ˈleɪswɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "laceration",
+                "pos": "noun"
+            },
+            {
+                "word": "lace-up",
+                "pos": "noun"
+            },
+            {
+                "word": "lacewing",
+                "pos": "noun"
+            },
+            {
+                "word": "Lacey",
+                "pos": ""
+            },
+            {
+                "word": "lachrymose",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an insect that has large transparent wings with lines on",
+                    "vi": "một loài côn trùng có đôi cánh lớn trong suốt với các đường kẻ trên"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "f162462f3e0f43689feeac43f5f173f2",
+        "word": "ladybird",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈleɪdibɜːd/",
+            "us": "/ˈleɪdibɜːrd/"
+        },
+        "nearby": [
+            {
+                "word": "ladoo",
+                "pos": "noun"
+            },
+            {
+                "word": "lady",
+                "pos": "noun"
+            },
+            {
+                "word": "ladybird",
+                "pos": "noun"
+            },
+            {
+                "word": "Ladybird",
+                "pos": ""
+            },
+            {
+                "word": "Lady Bountiful",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small flying insect, usually red with black spots",
+                    "vi": "một loài côn trùng bay nhỏ, thường có màu đỏ với những đốm đen"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "e94f45c841064dbaaa534d8790aefea4",
+        "word": "lightning bug",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈlaɪtnɪŋ bʌɡ/",
+            "us": "/ˈlaɪtnɪŋ bʌɡ/"
+        },
+        "nearby": [
+            {
+                "word": "lightning",
+                "pos": "noun"
+            },
+            {
+                "word": "lightning",
+                "pos": "adjective"
+            },
+            {
+                "word": "lightning bug",
+                "pos": "noun"
+            },
+            {
+                "word": "lightning conductor",
+                "pos": "noun"
+            },
+            {
+                "word": "lightning rod",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a flying insect with a tail that shines in the dark",
+                    "vi": "côn trùng bay có đuôi tỏa sáng trong bóng tối"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "22329654a7ae4687b4ade441117e9346",
+        "word": "locust",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈləʊkəst/",
+            "us": "/ˈləʊkəst/"
+        },
+        "nearby": [
+            {
+                "word": "locum",
+                "pos": "noun"
+            },
+            {
+                "word": "locus",
+                "pos": "noun"
+            },
+            {
+                "word": "locust",
+                "pos": "noun"
+            },
+            {
+                "word": "locution",
+                "pos": "noun"
+            },
+            {
+                "word": "lode",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a large insect that lives in hot countries and sometimes flies in large groups, destroying all the plants and crops of an area",
+                    "vi": "một loài côn trùng lớn sống ở xứ nóng và đôi khi bay thành đàn lớn, phá hoại tất cả cây cối hoa màu của một vùng"
+                },
+                "examples": [
+                    {
+                        "en": "a swarm of locusts",
+                        "vi": "một bầy châu chấu"
+                    },
+                    {
+                        "en": "The locusts have destroyed a lot of the crops.",
+                        "vi": "Những con cào cào đã phá hoại rất nhiều mùa màng."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a27c437ecf2d4aaba189d980539481fb",
+        "word": "louse",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/laʊs/",
+            "us": "/laʊs/"
+        },
+        "nearby": [
+            {
+                "word": "loungewear",
+                "pos": "noun"
+            },
+            {
+                "word": "lour",
+                "pos": "verb"
+            },
+            {
+                "word": "louse",
+                "pos": "noun"
+            },
+            {
+                "word": "louse",
+                "pos": "verb"
+            },
+            {
+                "word": "louse up",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small insect that lives on the bodies of humans and animals",
+                    "vi": "một loài côn trùng nhỏ sống trên cơ thể người và động vật"
+                },
+                "examples": [
+                    {
+                        "en": "head lice",
+                        "vi": "chấy trên đầu"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a very unpleasant person",
+                    "vi": "một người rất khó chịu"
+                },
+                "examples": [
+                    {
+                        "en": "Steve had let her down; she should never have trusted the louse.",
+                        "vi": "Steve đã làm cô thất vọng; cô ấy không bao giờ nên tin tưởng vào con rận."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0b16d36f941d42d2a30732ac7dda8468",
+        "word": "mantis",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈmæntɪs/",
+            "us": "/ˈmæntɪs/"
+        },
+        "nearby": [
+            {
+                "word": "manta",
+                "pos": "noun"
+            },
+            {
+                "word": "mantelpiece",
+                "pos": "noun"
+            },
+            {
+                "word": "mantis",
+                "pos": "noun"
+            },
+            {
+                "word": "mantle",
+                "pos": "noun"
+            },
+            {
+                "word": "mantle",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a large green insect that eats other insects. The female mantis often eats the male.",
+                    "vi": "một loại côn trùng lớn màu xanh lá cây ăn các loại côn trùng khác. Bọ ngựa cái thường ăn thịt con đực."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "3170a98d975947968d50d20d1229f1d1",
+        "word": "May bug",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈmeɪ bʌɡ/",
+            "us": "/ˈmeɪ bʌɡ/"
+        },
+        "nearby": [
+            {
+                "word": "maybe",
+                "pos": "adverb"
+            },
+            {
+                "word": "maybe",
+                "pos": "noun"
+            },
+            {
+                "word": "May bug",
+                "pos": "noun"
+            },
+            {
+                "word": "May Day",
+                "pos": "noun"
+            },
+            {
+                "word": "Mayday",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a large brown insect that flies and makes a loud noise in early evening in summer",
+                    "vi": "một con côn trùng lớn màu nâu bay và gây ra tiếng ồn lớn vào đầu mùa hè"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "d75c8c6cfa1240cfa7c3c16303eec65b",
+        "word": "mayfly",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈmeɪflaɪ/",
+            "us": "/ˈmeɪflaɪ/"
+        },
+        "nearby": [
+            {
+                "word": "Curtis Mayfield",
+                "pos": ""
+            },
+            {
+                "word": "The Mayflower",
+                "pos": ""
+            },
+            {
+                "word": "mayfly",
+                "pos": "noun"
+            },
+            {
+                "word": "mayhem",
+                "pos": "noun"
+            },
+            {
+                "word": "the Mayo Clinic",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small insect that lives near water and only lives for a very short time",
+                    "vi": "một loài côn trùng nhỏ sống gần nước và chỉ sống trong một thời gian rất ngắn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "76b377b782c34f8b8aa1d6b169a2c5e6",
+        "word": "midge",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/mɪdʒ/",
+            "us": "/mɪdʒ/"
+        },
+        "nearby": [
+            {
+                "word": "midfield",
+                "pos": "noun"
+            },
+            {
+                "word": "midfielder",
+                "pos": "noun"
+            },
+            {
+                "word": "midge",
+                "pos": "noun"
+            },
+            {
+                "word": "midget",
+                "pos": "noun"
+            },
+            {
+                "word": "midget",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small flying insect that lives especially in wet places and that bites humans and animals",
+                    "vi": "một loài côn trùng bay nhỏ sống đặc biệt ở những nơi ẩm ướt và cắn người và động vật"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "ace126d1f10c49b59f0b0bd3fae8238c",
+        "word": "plague",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/pleɪɡ/",
+            "us": "/pleɪɡ/"
+        },
+        "nearby": [
+            {
+                "word": "plagiarist",
+                "pos": "noun"
+            },
+            {
+                "word": "plagiarize",
+                "pos": "verb"
+            },
+            {
+                "word": "plague",
+                "pos": "noun"
+            },
+            {
+                "word": "plague",
+                "pos": "verb"
+            },
+            {
+                "word": "plaice",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a disease spread by rats that causes a high temperature, swellings (= areas that are larger and rounder than usual) on the body and usually death",
+                    "vi": "một căn bệnh do chuột lây lan gây ra nhiệt độ cao, sưng tấy (= những vùng to và tròn hơn bình thường) trên cơ thể và thường là tử vong"
+                },
+                "examples": [
+                    {
+                        "en": "a decline in population following outbreaks of plague",
+                        "vi": "sự suy giảm dân số sau khi bùng phát dịch hạch"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "any disease that spreads quickly and kills a lot of people",
+                    "vi": "bất kỳ căn bệnh nào lây lan nhanh chóng và giết chết rất nhiều người"
+                },
+                "examples": [
+                    {
+                        "en": "the plague of AIDS",
+                        "vi": "bệnh dịch AIDS"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "large numbers of an animal or insect that come into an area and cause great damage",
+                    "vi": "một số lượng lớn động vật hoặc côn trùng đến một khu vực và gây ra thiệt hại lớn"
+                },
+                "examples": [
+                    {
+                        "en": "a plague of locusts/rats, etc.",
+                        "vi": "một trận dịch cào cào / chuột, v.v."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to try very hard not to meet somebody, do something, etc.",
+                    "vi": "cố gắng rất nhiều để không gặp ai đó, làm điều gì đó, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "She's been avoiding me like the plague since the party last Saturday.",
+                        "vi": "Cô ấy đã tránh mặt tôi như một bệnh dịch kể từ bữa tiệc thứ bảy tuần trước."
+                    },
+                    {
+                        "en": "I hate office parties—I avoid them like the plague.",
+                        "vi": "Tôi ghét các bữa tiệc văn phòng — tôi tránh chúng như bệnh dịch."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6af9140fa7134dac97bbbd2cd45ab87c",
+        "word": "pond skater",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpɒnd skeɪtə(r)/",
+            "us": "/ˈpɑːnd skeɪtər/"
+        },
+        "nearby": [
+            {
+                "word": "ponderousness",
+                "pos": "noun"
+            },
+            {
+                "word": "Pond's",
+                "pos": ""
+            },
+            {
+                "word": "pond skater",
+                "pos": "noun"
+            },
+            {
+                "word": "pondweed",
+                "pos": "noun"
+            },
+            {
+                "word": "pone",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an insect that moves quickly across the surface of water",
+                    "vi": "côn trùng di chuyển nhanh trên mặt nước"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "5c41043210c94f18a4eec3225c679d86",
+        "word": "praying mantis",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌpreɪɪŋ ˈmæntɪs/",
+            "us": "/ˌpreɪɪŋ ˈmæntɪs/"
+        },
+        "nearby": [
+            {
+                "word": "prayer rug",
+                "pos": "noun"
+            },
+            {
+                "word": "prayer wheel",
+                "pos": "noun"
+            },
+            {
+                "word": "praying mantis",
+                "pos": "noun"
+            },
+            {
+                "word": "pre-order",
+                "pos": "noun"
+            },
+            {
+                "word": "Pre-Raphaelite",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a large green insect that eats other insects. The female praying mantis often eats the male.",
+                    "vi": "một loại côn trùng lớn màu xanh lá cây ăn các loại côn trùng khác. Bọ ngựa cái thường ăn thịt con đực."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "70345596a84a492f89e5163c7dcb4283",
+        "word": "queen",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/kwiːn/",
+            "us": "/kwiːn/"
+        },
+        "nearby": [
+            {
+                "word": "Quebec City",
+                "pos": ""
+            },
+            {
+                "word": "Quechua",
+                "pos": "noun"
+            },
+            {
+                "word": "queen",
+                "pos": "noun"
+            },
+            {
+                "word": "Queen",
+                "pos": ""
+            },
+            {
+                "word": "Ellery Queen",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the female ruler of an independent state that has a royal family",
+                    "vi": "nữ cai trị của một quốc gia độc lập có một gia đình hoàng gia"
+                },
+                "examples": [
+                    {
+                        "en": "She was crowned queen at the age of fifteen.",
+                        "vi": "Cô lên ngôi hoàng hậu khi mới mười lăm tuổi."
+                    },
+                    {
+                        "en": "kings and queens",
+                        "vi": "Những vị vua và hoàng hậu"
+                    },
+                    {
+                        "en": "queen of… the Queen of Norway",
+                        "vi": "nữ hoàng của… Nữ hoàng Na Uy"
+                    },
+                    {
+                        "en": "Queen Victoria",
+                        "vi": "Nữ hoàng Victoria"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the wife of a king",
+                    "vi": "vợ của một vị vua"
+                },
+                "examples": [
+                    {
+                        "en": "Henry VII and his queen, Elizabeth of York",
+                        "vi": "Henry VII và nữ hoàng của ông, Elizabeth of York"
+                    },
+                    {
+                        "en": "queen of… The King and Queen of Denmark attended the wedding.",
+                        "vi": "nữ hoàng của… Nhà vua và Nữ hoàng Đan Mạch đã tham dự lễ cưới."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a woman, place or thing that is thought to be one of the best in a particular group or area",
+                    "vi": "một người phụ nữ, địa điểm hoặc thứ được cho là tốt nhất trong một nhóm hoặc khu vực cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "the queen of fashion",
+                        "vi": "nữ hoàng thời trang"
+                    },
+                    {
+                        "en": "a movie queen",
+                        "vi": "một nữ hoàng điện ảnh"
+                    },
+                    {
+                        "en": "Venice, queen of the Adriatic",
+                        "vi": "Venice, nữ hoàng của Adriatic"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a woman or girl chosen to perform official duties at a festival or celebration",
+                    "vi": "một phụ nữ hoặc cô gái được chọn để thực hiện nhiệm vụ chính thức tại một lễ hội hoặc lễ kỷ niệm"
+                },
+                "examples": [
+                    {
+                        "en": "a carnival queen",
+                        "vi": "một nữ hoàng lễ hội"
+                    },
+                    {
+                        "en": "a May queen (= at a festival to celebrate the coming of spring)",
+                        "vi": "nữ hoàng tháng 5 (= tại lễ hội mừng mùa xuân sắp đến)"
+                    },
+                    {
+                        "en": "a homecoming queen",
+                        "vi": "một nữ hoàng trở về nhà"
+                    },
+                    {
+                        "en": "She was nominated for prom queen in high school.",
+                        "vi": "Cô từng được đề cử là nữ hoàng vũ hội ở trường trung học."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the most powerful piece used in the game of chess that can move any number of squares in any direction",
+                    "vi": "quân cờ mạnh nhất được sử dụng trong trò chơi cờ vua có thể di chuyển bất kỳ số ô vuông nào theo bất kỳ hướng nào"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a playing card with the picture of a queen on it",
+                    "vi": "một thẻ chơi với hình ảnh của một nữ hoàng trên đó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a large female insect that lays eggs for the whole group",
+                    "vi": "một con côn trùng cái lớn đẻ trứng cho cả đàn"
+                },
+                "examples": [
+                    {
+                        "en": "a queen bee",
+                        "vi": "ong chúa"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an offensive word for a gay man who behaves like a woman",
+                    "vi": "một từ xúc phạm cho một người đồng tính nam cư xử như một phụ nữ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the person considered to be the best, most famous or successful in a particular place or area of activity",
+                    "vi": "người được coi là giỏi nhất, nổi tiếng nhất hoặc thành công ở một địa điểm hoặc lĩnh vực hoạt động cụ thể"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "98ebd07b340a4ab7b662f24470991af0",
+        "word": "red admiral",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌred ˈædmərəl/",
+            "us": "/ˌred ˈædmərəl/"
+        },
+        "nearby": [
+            {
+                "word": "redact",
+                "pos": "verb"
+            },
+            {
+                "word": "redaction",
+                "pos": "noun"
+            },
+            {
+                "word": "red admiral",
+                "pos": "noun"
+            },
+            {
+                "word": "red alert",
+                "pos": "noun"
+            },
+            {
+                "word": "the Red Arrows",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a butterfly (= a flying insect with large brightly coloured wings) that has black wings with bright red marks on them",
+                    "vi": "một con bướm (= một loài côn trùng bay với đôi cánh lớn màu sáng) có đôi cánh màu đen với những vết đỏ tươi trên chúng"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "7c899ea5a18a44e19c576408cf8bc465",
+        "word": "scarab",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈskærəb/",
+            "us": "/ˈskærəb/"
+        },
+        "nearby": [
+            {
+                "word": "scar",
+                "pos": "noun"
+            },
+            {
+                "word": "scar",
+                "pos": "verb"
+            },
+            {
+                "word": "scarab",
+                "pos": "noun"
+            },
+            {
+                "word": "Scarborough",
+                "pos": ""
+            },
+            {
+                "word": "scarce",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a large black beetle (= an insect with a hard shell); a design showing a scarab beetle",
+                    "vi": "một con bọ lớn màu đen (= một loài côn trùng có vỏ cứng); một thiết kế cho thấy một con bọ hung"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "40468ec12f804de1bd7c9b13e7c5254a",
+        "word": "silverfish",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈsɪlvəfɪʃ/",
+            "us": "/ˈsɪlvərfɪʃ/"
+        },
+        "nearby": [
+            {
+                "word": "silver disc",
+                "pos": "noun"
+            },
+            {
+                "word": "silver dollar",
+                "pos": "noun"
+            },
+            {
+                "word": "silverfish",
+                "pos": "noun"
+            },
+            {
+                "word": "silver foil",
+                "pos": "noun"
+            },
+            {
+                "word": "silver jubilee",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small silver insect without wings that lives in houses and that can cause damage to materials such as cloth and paper",
+                    "vi": "một loại côn trùng nhỏ màu bạc không có cánh sống trong nhà và có thể gây hư hỏng các vật liệu như vải và giấy"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "e87fc5105a2b45378885ba8858a22dbe",
+        "word": "Spanish fly",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌspænɪʃ ˈflaɪ/",
+            "us": "/ˌspænɪʃ ˈflaɪ/"
+        },
+        "nearby": [
+            {
+                "word": "the Spanish Armada",
+                "pos": ""
+            },
+            {
+                "word": "Spanish chestnut",
+                "pos": "noun"
+            },
+            {
+                "word": "Spanish fly",
+                "pos": "noun"
+            },
+            {
+                "word": "the Spanish Inquisition",
+                "pos": "noun"
+            },
+            {
+                "word": "the Spanish Main",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a bright green insect that has a strong smell and produces a harmful substance",
+                    "vi": "một loại côn trùng màu xanh lá cây tươi sáng có mùi nồng và tạo ra chất độc hại"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a poisonous mixture made from the dried bodies of these insects, that is said to give people a strong desire to have sex",
+                    "vi": "một hỗn hợp độc được làm từ xác khô của những con côn trùng này, được cho là khiến con người có ham muốn quan hệ tình dục mạnh mẽ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "b6400ae44e1740d5ad541cd0b0ce18d7",
+        "word": "stag beetle",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈstæɡ biːtl/",
+            "us": "/ˈstæɡ biːtl/"
+        },
+        "nearby": [
+            {
+                "word": "staff writer",
+                "pos": "noun"
+            },
+            {
+                "word": "stag",
+                "pos": "noun"
+            },
+            {
+                "word": "stag beetle",
+                "pos": "noun"
+            },
+            {
+                "word": "stage",
+                "pos": "noun"
+            },
+            {
+                "word": "stage",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a large insect with a mouth that has parts like the horns of an animal",
+                    "vi": "một con côn trùng lớn có miệng có các bộ phận giống như sừng của động vật"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "f90e3cf4250e4bc1a9eee54eca4b062f",
+        "word": "stick insect",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈstɪk ɪnsekt/",
+            "us": "/ˈstɪk ɪnsekt/"
+        },
+        "nearby": [
+            {
+                "word": "sticking plaster",
+                "pos": "noun"
+            },
+            {
+                "word": "sticking point",
+                "pos": "noun"
+            },
+            {
+                "word": "stick insect",
+                "pos": "noun"
+            },
+            {
+                "word": "stick-in-the-mud",
+                "pos": "noun"
+            },
+            {
+                "word": "stick it out",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a large insect with a long thin body that looks like a stick",
+                    "vi": "một con côn trùng lớn với một cơ thể dài mỏng trông giống như một cái que"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "3d2a2bb2312f452bb2094907d45b29b5",
+        "word": "water strider",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈwɔːtə straɪdə(r)/",
+            "us": "/ˈwɔːtər straɪdər/"
+        },
+        "nearby": [
+            {
+                "word": "waterspout",
+                "pos": "noun"
+            },
+            {
+                "word": "Waterstones",
+                "pos": ""
+            },
+            {
+                "word": "water strider",
+                "pos": "noun"
+            },
+            {
+                "word": "water supply",
+                "pos": "noun"
+            },
+            {
+                "word": "water table",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an insect which moves quickly across the surface of water",
+                    "vi": "côn trùng di chuyển nhanh trên mặt nước"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "b51ae1433a0a4a089ec6328e1b026ccb",
+        "word": "weevil",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈwiːvl/",
+            "us": "/ˈwiːvl/"
+        },
+        "nearby": [
+            {
+                "word": "weepy",
+                "pos": "noun"
+            },
+            {
+                "word": "Weetabix",
+                "pos": "noun"
+            },
+            {
+                "word": "weevil",
+                "pos": "noun"
+            },
+            {
+                "word": "wee-wee",
+                "pos": "noun"
+            },
+            {
+                "word": "Wee Willie Winkie",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small insect with a hard shell, that eats grain, nuts and other seeds and destroys crops",
+                    "vi": "một loại côn trùng nhỏ có vỏ cứng, ăn ngũ cốc, quả hạch và các loại hạt khác và phá hoại mùa màng"
+                },
+                "examples": []
+            }
+        ]
+    }
+]

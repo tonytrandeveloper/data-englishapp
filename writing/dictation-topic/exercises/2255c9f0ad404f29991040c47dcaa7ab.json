@@ -1,0 +1,354 @@
+{
+    "id": "2255c9f0ad404f29991040c47dcaa7ab",
+    "title": "Restaurant",
+    "questions": [
+        {
+            "id": "369b397e297a4d6591840db645791f40",
+            "text": "How often do you eat out?",
+            "items": [
+                "How",
+                "often",
+                "do",
+                "you",
+                "eat",
+                "out?"
+            ]
+        },
+        {
+            "id": "c35df81eba0e42d687a4a432960999be",
+            "text": "Who do you go with?",
+            "items": [
+                "Who",
+                "do",
+                "you",
+                "go",
+                "with?"
+            ]
+        },
+        {
+            "id": "6a0d34aea016483e9860de5f5eaba3f2",
+            "text": "I often eat out on weekends, when I hang out with my friends.",
+            "items": [
+                "I",
+                "often",
+                "eat",
+                "out",
+                "on",
+                "weekends,",
+                "when",
+                "I",
+                "hang",
+                "out",
+                "with",
+                "my",
+                "friends."
+            ]
+        },
+        {
+            "id": "587e0b9807e0430489405b347e43d866",
+            "text": "What restaurant do you usually visit?",
+            "items": [
+                "What",
+                "restaurant",
+                "do",
+                "you",
+                "usually",
+                "visit?"
+            ]
+        },
+        {
+            "id": "8071429c06654d038f29ea0bb1fd01f2",
+            "text": "Well, there are not many restaurants in my neighborhood,",
+            "items": [
+                "Well,",
+                "there",
+                "are",
+                "not",
+                "many",
+                "restaurants",
+                "in",
+                "my",
+                [
+                    "neighborhood,",
+                    "neighbourhood"
+                ]
+            ]
+        },
+        {
+            "id": "9b09487da6f64b61af55264fc8836ff1",
+            "text": "so my best choice is the deli in convenient stores like the Circle K, Mini-Stop, B'smart.",
+            "items": [
+                "so",
+                "my",
+                "best",
+                "choice",
+                "is",
+                "the",
+                "deli",
+                "in",
+                "convenient",
+                "stores",
+                "like",
+                "the",
+                "Circle",
+                "K,",
+                [
+                    "Mini-Stop,",
+                    "Mini Stop,"
+                ],
+                "B'smart."
+            ]
+        },
+        {
+            "id": "271e803d088d448da05de005b92678cb",
+            "text": "What type of food do you enjoy to eat? Western or Asian?",
+            "items": [
+                "What",
+                "type",
+                "of",
+                "food",
+                "do",
+                "you",
+                "enjoy",
+                "to",
+                "eat?",
+                "Western",
+                "or",
+                "Asian?"
+            ]
+        },
+        {
+            "id": "e8da369032834e22ad722f6bb6d53203",
+            "text": "I'm interested in Asian food, Western food is not my thing.",
+            "items": [
+                "I'm",
+                "interested",
+                "in",
+                "Asian",
+                "food,",
+                "Western",
+                "food",
+                "is",
+                "not",
+                "my",
+                "thing."
+            ]
+        },
+        {
+            "id": "69289230e0904dc8ab9ae5653145770a",
+            "text": "How much do you usually pay when you eat out?",
+            "items": [
+                "How",
+                "much",
+                "do",
+                "you",
+                "usually",
+                "pay",
+                "when",
+                "you",
+                "eat",
+                "out?"
+            ]
+        },
+        {
+            "id": "036b2bb2abda4d6f9599d0a567538725",
+            "text": "It's not very expensive, just around $5 for each meal.",
+            "items": [
+                "It's",
+                "not",
+                "very",
+                "expensive,",
+                "just",
+                "around",
+                "$5",
+                "for",
+                "each",
+                "meal."
+            ]
+        },
+        {
+            "id": "dd4ddfc929644497b936cbc460c82447",
+            "text": "Do you enjoy spicy food?",
+            "items": [
+                "Do",
+                "you",
+                "enjoy",
+                "spicy",
+                "food?"
+            ]
+        },
+        {
+            "id": "f26a57732d6745409383d617a1b82aab",
+            "text": "Yes, I do, especially on cold days.",
+            "items": [
+                "Yes,",
+                "I",
+                "do,",
+                "especially",
+                "on",
+                "cold",
+                "days."
+            ]
+        },
+        {
+            "id": "15aa9ab121fa4fe18da7c3322a06b76b",
+            "text": "Are the servers there friendly to you?",
+            "items": [
+                "Are",
+                "the",
+                "servers",
+                "there",
+                "friendly",
+                "to",
+                "you?"
+            ]
+        },
+        {
+            "id": "127261cd8a6549778ba2e4a709fb62f7",
+            "text": "Yes, they are. Most of them are really helpful.",
+            "items": [
+                "Yes,",
+                "they",
+                "are.",
+                "Most",
+                "of",
+                "them",
+                "are",
+                "really",
+                "helpful."
+            ]
+        },
+        {
+            "id": "6e296c3cc16b47998ce562735b6522d2",
+            "text": "Have you ever tried Italian food?",
+            "items": [
+                "Have",
+                "you",
+                "ever",
+                "tried",
+                "Italian",
+                "food?"
+            ]
+        },
+        {
+            "id": "242098380c03444f8836225d47516788",
+            "text": "Yes, at least once, when I was in my friend's wedding party.",
+            "items": [
+                "Yes,",
+                "at",
+                "least",
+                "once,",
+                "when",
+                "I",
+                "was",
+                "in",
+                "my",
+                "friend's",
+                "wedding",
+                "party."
+            ]
+        },
+        {
+            "id": "aad98032cfb848f58e996011cb06d637",
+            "text": "Are you concerned about calories when eating out?",
+            "items": [
+                "Are",
+                "you",
+                "concerned",
+                "about",
+                "calories",
+                "when",
+                "eating",
+                "out?"
+            ]
+        },
+        {
+            "id": "98cd3a1cf56a4f6093d50bff5c7d8aa4",
+            "text": "Yes, I am. I'm on diet now, so this really matters to me.",
+            "items": [
+                "Yes,",
+                "I",
+                "am.",
+                "I'm",
+                "on",
+                "diet",
+                "now,",
+                "so",
+                "this",
+                "really",
+                "matters",
+                "to",
+                "me."
+            ]
+        },
+        {
+            "id": "22a4453976a74f8691b96beccd711858",
+            "text": "Are fast food restaurants like KFC or McDonald's famous in your country?",
+            "items": [
+                "Are",
+                "fast",
+                "food",
+                "restaurants",
+                "like",
+                "KFC",
+                "or",
+                "McDonald's",
+                "famous",
+                "in",
+                "your",
+                "country?"
+            ]
+        },
+        {
+            "id": "2736db35f8024b3cbc5752e301c26da5",
+            "text": "Yes, they are. The youth in my country are big fans of fast food.",
+            "items": [
+                "Yes,",
+                "they",
+                "are.",
+                "The",
+                "youth",
+                "in",
+                "my",
+                "country",
+                "are",
+                "big",
+                "fans",
+                "of",
+                "fast",
+                "food."
+            ]
+        },
+        {
+            "id": "bc2ebd688ac6424fbfe5e484dccf8724",
+            "text": "Do you often drink alcohol when eating out?",
+            "items": [
+                "Do",
+                "you",
+                "often",
+                "drink",
+                "alcohol",
+                "when",
+                "eating",
+                "out?"
+            ]
+        },
+        {
+            "id": "c232d55c9f8b4f8f9f76294eceb125b9",
+            "text": "No, not often. Just when I have parties with my friends.",
+            "items": [
+                "No,",
+                "not",
+                "often.",
+                "Just",
+                "when",
+                "I",
+                "have",
+                "parties",
+                "with",
+                "my",
+                "friends."
+            ]
+        }
+    ]
+}

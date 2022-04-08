@@ -1,0 +1,2426 @@
+{
+    "id": "5cc46b4bd4b241c98ceaac7bab9ab679",
+    "title": "Verb Patterns",
+    "exercises": [
+        {
+            "id": "730850fef87d4ef6a31659d85ec6b376",
+            "title": "Causatives Exercise 1 (Have / Get Something Done)",
+            "questions": [
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "I washed my car. (have)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I had my car washed."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "I cut my hair. (get)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I got my hair cut."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "I typed the documents. (have)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I had the documents typed."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "I fixed the washing machine. (get)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I got the washing machine fixed."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "I cut the grass. (have)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I had the grass cut."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "I painted my bedroom. (get)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I got my bedroom painted."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "I repaired my fridge. (have)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I had my fridge repaired."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "I tidied my garden. (get)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I got my garden tidied."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "I edited the article. (have)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I had the article edited."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "I cleaned the carpets. (get)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I got the carpets cleaned."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "I cleaned the windows. (have)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I had the windows cleaned."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "I checked my teeth. (get)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I got my teeth checked."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "I printed the photo. (have)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I had the photo printed."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "I made the necklace. (get)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I got the necklace made."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "I delivered the furniture. (have)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I had the furniture delivered."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "I wrote the report. (have)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I had the report written."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "I repaired the roof. (get)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I got the roof repaired."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "I built the shed. (get)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I got the shed built."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "I dyed my hair. (get)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I got my hair dyed."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "I sent the money. (have)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I had the money sent."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2e50f6d5ba8b45798ff7bac86f5e1837",
+            "title": "Causatives Exercise 2 (Have Someone Do Something / Get Someone to Do Something)",
+            "questions": [
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The cleaner cleaned the house. (have)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I had the cleaner clean the house."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The taxi driver collected us. (have)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I had the taxi driver collect us."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "John arrived on time. (get)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I got John to arrive on time."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The mechanic fixed the brakes. (have)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I had the mechanic fix the brakes."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The teacher explained the lesson. (have)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I had the teacher explain the lesson."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "My husband looked after our children. (get)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I got my husband to look after our children."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The waiter brought some water. (have)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I had the waiter bring some water."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The nurse took your temperature. (have)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I had the nurse take your temperature."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The students stopped sleeping in class. (get)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I got the students to stop sleeping in class."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The teenagers went to bed early. (get)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I got the teenagers to go to bed early."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The dentist cleaned my teeth. (have)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I had the dentist clean my teeth."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "My friend took her car. (get)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I got my friend to take her car."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The window cleaner washed the windows. (have)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I had the window cleaner wash the windows."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The toddler ate her vegetables. (get)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I got the toddler to eat her vegetables."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The teacher checked my writing. (get)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I got the teacher to check my writing."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The secretary typed the report. (have)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I had the secretary type the report."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The shop assistant gave me a discount. (get)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I got the shop assistant to give me a discount."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The shop delivered the food. (have)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I had the shop deliver the food."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The children did their homework. (get)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I got the children to do their homework."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "My colleague helped me write the report. (get)"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I got my colleague to help me write the report."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8bf7380648364c0fac00c622ac0ad21d",
+            "title": "Ergative and Unaccusative Verbs",
+            "questions": [
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "What was happened?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "What happened"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The mountain vanished."
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "-"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The fog appeared."
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "-"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The building destroyed."
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "The building was destroyed."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The flowers were died."
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "The flowers died."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The dirt was disappeared."
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "The dirt disappeared."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The answer emerged."
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "-"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The door opened."
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "-"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The train was arrived."
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "The train arrived."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The film started."
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "-"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The window was closed."
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "-"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The toy was broken."
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "-"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Interest rates were lowered."
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "-"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The house built."
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "The house was built."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The ice melted."
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "-"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The river froze."
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "-"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The cake was risen."
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "The cake rose."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The events were occurred."
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "The events occurred."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The vase fell."
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "-"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The tower demolished."
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "The tower was demolished."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "38dfacbfd95846cdaafc5d7cd7e5935b",
+            "title": "Embedded Questions in Statements",
+            "questions": [
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Where does she live?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know where she lives"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "What arrived in the post?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know what arrived in the post"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "How did they have the idea?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know how they had the idea"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "When is she working?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know when she's working",
+                                "I don't know when she is working"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Why did he leave?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know why he left"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Has she eaten?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know if she's eaten",
+                                "I don't know if she has eaten"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Have they found a flat?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know if they have found a flat",
+                                "I don't know if they've found a flat"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Did the teacher go on the training course?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know if the teacher went on the training course"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Did Julie like school?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know if Julie liked school"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Will David get a new job?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know if David will get a new job"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Whose socks are those?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know whose socks those are"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Where is the office?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know where the office is"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Who drinks coffee?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know who drinks coffee"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "How did it happen?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know how it happened"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Why will she be sleeping at 7pm?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know why she'll be sleeping at 7pm",
+                                "I don't know why she will be sleeping at 7pm"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Will I pass the exam?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know if I'll pass the exam",
+                                "I don't know if I will pass the exam"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Does Jenny own a car?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know if Jenny owns a car"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Had I had dinner before I met Jack?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know if I'd had dinner before I met Jack",
+                                "I don't know if I had had dinner before I met Jack"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Is the boss coming today?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know if the boss is coming today"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Has Amanda got a new job?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know if Amanda has got a new job",
+                                "I don't know if Amanda's got a new job"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1a32c6a0f48a406b9b2b669d6f217e58",
+            "title": "Embedded Questions in Statements",
+            "questions": [
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Where does she live?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know where she lives"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "What arrived in the post?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know what arrived in the post"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "How did they have the idea?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know how they had the idea"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "When is she working?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know when she's working",
+                                "I don't know when she is working"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Why did he leave?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know why he left"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Has she eaten?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know if she's eaten",
+                                "I don't know if she has eaten"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Have they found a flat?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know if they have found a flat",
+                                "I don't know if they've found a flat"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Did the teacher go on the training course?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know if the teacher went on the training course"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Did Julie like school?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know if Julie liked school"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Will David get a new job?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know if David will get a new job"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Whose socks are those?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know whose socks those are"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Where is the office?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know where the office is"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Who drinks coffee?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know who drinks coffee"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "How did it happen?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know how it happened"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Why will she be sleeping at 7pm?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know why she'll be sleeping at 7pm",
+                                "I don't know why she will be sleeping at 7pm"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Will I pass the exam?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know if I'll pass the exam",
+                                "I don't know if I will pass the exam"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Does Jenny own a car?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know if Jenny owns a car"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Had I had dinner before I met Jack?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know if I'd had dinner before I met Jack",
+                                "I don't know if I had had dinner before I met Jack"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Is the boss coming today?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know if the boss is coming today"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Has Amanda got a new job?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "I don't know if Amanda has got a new job",
+                                "I don't know if Amanda's got a new job"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "b8cb6da7958843dc815db8182f8c54d7",
+            "title": "Indirect Questions Exercise 1 (Present Simple Tense)",
+            "questions": [
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Where does she play tennis?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Can you tell me where she plays tennis?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Does he live in Paris?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Can you tell me if he lives in Paris?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Is she hungry?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Can you tell me if she is hungry?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "What is this?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Can you tell me what this is?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Do they work in Canada?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Can you tell me if they work in Canada?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "When do John and Luke meet?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Can you tell me when John and Luke meet?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Is he a lawyer?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Can you tell me if he is a lawyer?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "When is the party?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Can you tell me when the party is?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Do they often go out?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Can you tell me if they often go out?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "What does he do at the weekend?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Can you tell me what he does at the weekend?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Are the children on holiday this week?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Can you tell me if the children are on holiday this week?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Who is she?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Can you tell me who she is?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Why do you like travelling so much?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Can you tell me why you like travelling so much?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Does Lizzie like ice cream?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Can you tell me if Lizzie likes ice cream?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Are they from Chile?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Can you tell me if they are from Chile?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Where is the station?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Can you tell me where the station is?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Where do you study Chinese?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Can you tell me where you study Chinese?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Where is the nearest supermarket?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Can you tell me where the nearest supermarket is?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Do you drink coffee?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Can you tell me if you drink coffee?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Is Richard always late?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Can you tell me if Richard is always late?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "0a023e421b084f9ab549630c30283e0c",
+            "title": "Indirect Questions Exercise 2 (Past Simple Tense)",
+            "questions": [
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Did she go out last night?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Do you know if she went out last night?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Where did she meet her brother?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Do you know where she met her brother?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "How was the film?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Do you know how the film was?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Was David the first to arrive?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Do you know if David was the first to arrive?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Did Lucy work at home yesterday?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Do you know if Lucy worked at home yesterday?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "What was the problem?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Do you know what the problem was?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Who did we see at the party?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Do you know who we saw at the party?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Did Zac call his mum yesterday?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Do you know if Zac called his mum yesterday?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Were they at the beach?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Do you know if they were at the beach?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Where was the class?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Do you know where the class was?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Why did they arrive so late?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Do you know why they arrived so late?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Was she at home yesterday?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Do you know if she was at home yesterday?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "How did she do it?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Do you know how she did it?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Were they in the garden?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Do you know if they were in the garden?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Did they arrive late?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Do you know if they arrived late?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Did John finish the report?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Do you know if John finished the report?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Were we late for the meeting?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Do you know if we were late for the meeting?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "What did they do at the weekend?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Do you know what they did at the weekend?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Why was she so early?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Do you know why she was so early?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3337e1d3963f40a1b9b90abe10e6ac53",
+            "title": "Indirect Questions Exercise 3 (Modal Verbs)",
+            "questions": [
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Can she swim?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Could you tell me if she can swim?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "When can they come?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Could you tell me when they can come?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Ought I to work tomorrow?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Could you tell me if I ought to work tomorrow?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Why must she leave?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Could you tell me why she must leave?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Must he cook tonight?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Could you tell me if he must cook tonight?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Why should I leave early?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Could you tell me why I should leave early?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "How well can she swim?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Could you tell me how well she can swim?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Why ought he to become a doctor?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Could you tell me why he ought to become a doctor?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Can he work on Monday?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Could you tell me if he can work on Monday?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Why can't they leave now?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Could you tell me why they can't leave now?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Should he get there before 7?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Could you tell me if he should get there before 7?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "When should we go?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Could you tell me when we should go?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Can he come to the restaurant?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Could you tell me if he can come to the restaurant?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Must she leave?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Could you tell me if she must leave?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "What can't we bring onto the plane?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Could you tell me what we can't bring onto the plane?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Should I take this medicine?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Could you tell me if I should take this medicine?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Who ought she to see?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Could you tell me who she ought to see?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Can they arrive before 6?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Could you tell me if they can arrive before 6?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "When must he meet the boss?"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Could you tell me when he must meet the boss?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "46693008cde543e78ef78facec051700",
+            "title": "Inversion 1",
+            "questions": [
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "John had never been to such a fantastic restaurant."
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Never had John been to such a fantastic restaurant."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "I in no way want to be associated with this project."
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "In no way do I want to be associated with this project."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "They had no sooner eaten dinner than the ceiling crashed onto the dining table."
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "No sooner had they eaten dinner than the ceiling crashed onto the dining table."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "I had scarcely finished writing my essay when the examiner announced the end of the exam."
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Scarcely had I finished writing my essay when the examiner announced the end of the exam."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "I seldom leave my house so early."
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Seldom do I leave my house so early."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "People rarely appreciate this musician's talent."
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Rarely do people appreciate this musician's talent."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "We would understand what had happened that night only later."
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Only later would we understand what had happened that night."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "They had met such rude people nowhere before."
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Nowhere had they met such rude people before."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "He understood little about the situation."
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "Little did he understand about the situation."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The children should on no account go on their own."
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "On no account should the children go on their own."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

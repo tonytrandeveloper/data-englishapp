@@ -1,0 +1,655 @@
+{
+    "id": "c8085966448541908ccb0cbd912ee4b2",
+    "title": "The shopping mall",
+    "questions": [
+        {
+            "id": "e271d66152e147828ad8f5cb47847ac0",
+            "text": "There are many different stores in the shopping mall.",
+            "items": [
+                "There",
+                "are",
+                "many",
+                "different",
+                "stores",
+                "in",
+                "the",
+                "shopping",
+                "mall."
+            ]
+        },
+        {
+            "id": "8bcd2632de37466e9781447697a30099",
+            "text": "There are ladies' wear stores.",
+            "items": [
+                "There",
+                "are",
+                "ladies'",
+                "wear",
+                "stores."
+            ]
+        },
+        {
+            "id": "6287671ae90244cf874565eff2b8044f",
+            "text": "They sell dresses, blouses, and many kinds of clothes for women.",
+            "items": [
+                "They",
+                "sell",
+                "dresses,",
+                "blouses,",
+                "and",
+                "many",
+                "kinds",
+                "of",
+                "clothes",
+                "for",
+                "women."
+            ]
+        },
+        {
+            "id": "96813861803740b498ea0a5077eb459d",
+            "text": "In the men's wear stores there are suits, ties, shirts and slacks.",
+            "items": [
+                "In",
+                "the",
+                "men's",
+                "wear",
+                "stores",
+                "there",
+                "are",
+                "suits,",
+                "ties,",
+                "shirts",
+                "and",
+                "slacks."
+            ]
+        },
+        {
+            "id": "c542c4d34966499484ccf2089104977f",
+            "text": "There are also clothing stores that appeal just to teenagers.",
+            "items": [
+                "There",
+                "are",
+                "also",
+                "clothing",
+                "stores",
+                "that",
+                "appeal",
+                "just",
+                "to",
+                "teenagers."
+            ]
+        },
+        {
+            "id": "5882a8ef5772493da26949c09bc0c253",
+            "text": "Some clothing stores only sell children's clothes.",
+            "items": [
+                "Some",
+                "clothing",
+                "stores",
+                "only",
+                "sell",
+                "children's",
+                "clothes."
+            ]
+        },
+        {
+            "id": "ef21d639acec486b8e71676425ee7b29",
+            "text": "There is even a store that sells bathing suits and cover-ups for the beach or pool.",
+            "items": [
+                "There",
+                "is",
+                "even",
+                "a",
+                "store",
+                "that",
+                "sells",
+                "bathing",
+                "suits",
+                "and",
+                [
+                    "cover-ups",
+                    "cover ups"
+                ],
+                "for",
+                "the",
+                "beach",
+                "or",
+                "pool."
+            ]
+        },
+        {
+            "id": "a6bb6ee1d8e14a73b0c5413a2684519b",
+            "text": "There are lingerie stores that sell ladies' underwear and nightwear.",
+            "items": [
+                "There",
+                "are",
+                "lingerie",
+                "stores",
+                "that",
+                "sell",
+                "ladies'",
+                "underwear",
+                "and",
+                "nightwear."
+            ]
+        },
+        {
+            "id": "7a2a24def1d84242acf5b1afd6584bc9",
+            "text": "There are hardware stores that sell tools.",
+            "items": [
+                "There",
+                "are",
+                "hardware",
+                "stores",
+                "that",
+                "sell",
+                "tools."
+            ]
+        },
+        {
+            "id": "20c5e7bf5a6946dbacc9636f11ec4869",
+            "text": "There are shoe stores.",
+            "items": [
+                "There",
+                "are",
+                "shoe",
+                "stores."
+            ]
+        },
+        {
+            "id": "fba19439c36d4a37aa9d228765215dda",
+            "text": "You buy shoes and boots in a shoe store.",
+            "items": [
+                "You",
+                "buy",
+                "shoes",
+                "and",
+                "boots",
+                "in",
+                "a",
+                "shoe",
+                "store."
+            ]
+        },
+        {
+            "id": "d4c0796962a54f4bbcebc7dc0acc5a18",
+            "text": "There are bookstores.",
+            "items": [
+                "There",
+                "are",
+                "bookstores."
+            ]
+        },
+        {
+            "id": "2e676eeea17b42648b34d02c36c2e3d2",
+            "text": "You can buy a book on almost any topic at the bookstore.",
+            "items": [
+                "You",
+                "can",
+                "buy",
+                "a",
+                "book",
+                "on",
+                "almost",
+                "any",
+                "topic",
+                "at",
+                "the",
+                "bookstore."
+            ]
+        },
+        {
+            "id": "56d3bebe10ec4e428bbea3869a06b3f3",
+            "text": "There are stores that sell compact discs.",
+            "items": [
+                "There",
+                "are",
+                "stores",
+                "that",
+                "sell",
+                "compact",
+                "discs."
+            ]
+        },
+        {
+            "id": "03c26d8716a544dbad65ae0065468b4c",
+            "text": "Those stores also have tapes and videos.",
+            "items": [
+                "Those",
+                "stores",
+                "also",
+                "have",
+                "tapes",
+                "and",
+                "videos."
+            ]
+        },
+        {
+            "id": "38462ac4aa7b48dda4c24520ced1374f",
+            "text": "There are sports stores that sell special shoes and clothes for sports.",
+            "items": [
+                "There",
+                "are",
+                "sports",
+                "stores",
+                "that",
+                "sell",
+                "special",
+                "shoes",
+                "and",
+                "clothes",
+                "for",
+                "sports."
+            ]
+        },
+        {
+            "id": "13b8f84c365440cf8873e705aabbd03d",
+            "text": "They also sell sports equipment, and t-shirts and hats with the logo of your favorite teams.",
+            "items": [
+                "They",
+                "also",
+                "sell",
+                "sports",
+                "equipment,",
+                "and",
+                "t-shirts",
+                "and",
+                "hats",
+                "with",
+                "the",
+                "logo",
+                "of",
+                "your",
+                [
+                    "favorite",
+                    "favourite"
+                ],
+                "teams."
+            ]
+        },
+        {
+            "id": "e22538566e4a48349c4eba5a6d81d528",
+            "text": "There are gift stores that sell all kinds of things that someone might want for their house.",
+            "items": [
+                "There",
+                "are",
+                "gift",
+                "stores",
+                "that",
+                "sell",
+                "all",
+                "kinds",
+                "of",
+                "things",
+                "that",
+                "someone",
+                "might",
+                "want",
+                "for",
+                "their",
+                "house."
+            ]
+        },
+        {
+            "id": "ddd583db0b05475fa1b219398f6f6915",
+            "text": "There are kitchen stores where you can buy utensils and pots and pans.",
+            "items": [
+                "There",
+                "are",
+                "kitchen",
+                "stores",
+                "where",
+                "you",
+                "can",
+                "buy",
+                "utensils",
+                "and",
+                "pots",
+                "and",
+                "pans."
+            ]
+        },
+        {
+            "id": "dbc482991c1742879d340480e86486d9",
+            "text": "Those kinds of stores also sell aprons and napkins, and anything you might need for your kitchen.",
+            "items": [
+                "Those",
+                "kinds",
+                "of",
+                "stores",
+                "also",
+                "sell",
+                "aprons",
+                "and",
+                "napkins,",
+                "and",
+                "anything",
+                "you",
+                "might",
+                "need",
+                "for",
+                "your",
+                "kitchen."
+            ]
+        },
+        {
+            "id": "c1f2a3714e6f43b682a4c9ab012a3227",
+            "text": "There is a movie theater at the mall.",
+            "items": [
+                "There",
+                "is",
+                "a",
+                "movie",
+                [
+                    "theater",
+                    "theatre"
+                ],
+                "at",
+                "the",
+                "mall."
+            ]
+        },
+        {
+            "id": "82b5e5db5cf646b0a3a34cce40869a05",
+            "text": "There is a jewellery store that has a lot of gold and silver jewellery.",
+            "items": [
+                "There",
+                "is",
+                "a",
+                "jewellery",
+                "store",
+                "that",
+                "has",
+                "a",
+                "lot",
+                "of",
+                "gold",
+                "and",
+                "silver",
+                "jewellery."
+            ]
+        },
+        {
+            "id": "583394af328048d290248f6b1983eeeb",
+            "text": "There is a hairdresser in the mall.",
+            "items": [
+                "There",
+                "is",
+                "a",
+                "hairdresser",
+                "in",
+                "the",
+                "mall."
+            ]
+        },
+        {
+            "id": "0ba37df492c64f07b9d9c77d3bedd949",
+            "text": "Sometimes, I go in there to get my hair cut.",
+            "items": [
+                "Sometimes,",
+                "I",
+                "go",
+                "in",
+                "there",
+                "to",
+                "get",
+                "my",
+                "hair",
+                "cut."
+            ]
+        },
+        {
+            "id": "a560f283351044c2b09ddfcc55db6274",
+            "text": "There are fast food places in the mall.",
+            "items": [
+                "There",
+                "are",
+                "fast",
+                "food",
+                "places",
+                "in",
+                "the",
+                "mall."
+            ]
+        },
+        {
+            "id": "ae9d448424cc4e54b68e7061348f01e3",
+            "text": "You can get a quick lunch like a hamburger or some french fries.",
+            "items": [
+                "You",
+                "can",
+                "get",
+                "a",
+                "quick",
+                "lunch",
+                "like",
+                "a",
+                "hamburger",
+                "or",
+                "some",
+                "french",
+                "fries."
+            ]
+        },
+        {
+            "id": "a953e40823a048c7bd19c3c0dc3a82ce",
+            "text": "There are also fancier restaurants in the mall.",
+            "items": [
+                "There",
+                "are",
+                "also",
+                "fancier",
+                "restaurants",
+                "in",
+                "the",
+                "mall."
+            ]
+        },
+        {
+            "id": "f0661ec96eaf4e6eb965d7e7362de551",
+            "text": "You can sit down for a nice meal.",
+            "items": [
+                "You",
+                "can",
+                "sit",
+                "down",
+                "for",
+                "a",
+                "nice",
+                "meal."
+            ]
+        },
+        {
+            "id": "0f9d59a10def4b0fa68a81d1dae98ab0",
+            "text": "There is a furniture store in the mall.",
+            "items": [
+                "There",
+                "is",
+                "a",
+                "furniture",
+                "store",
+                "in",
+                "the",
+                "mall."
+            ]
+        },
+        {
+            "id": "2dc3d9d3898347d48e2e13f1f5e56a40",
+            "text": "You can buy a new sofa or bed at the furniture store.",
+            "items": [
+                "You",
+                "can",
+                "buy",
+                "a",
+                "new",
+                "sofa",
+                "or",
+                "bed",
+                "at",
+                "the",
+                "furniture",
+                "store."
+            ]
+        },
+        {
+            "id": "fdd6327a547c4f6fbdd085a6a9cd5b89",
+            "text": "There are bulk food stores.",
+            "items": [
+                "There",
+                "are",
+                "bulk",
+                "food",
+                "stores."
+            ]
+        },
+        {
+            "id": "b1e5f7f8527a408684440299968acf8b",
+            "text": "At a bulk food store, all the foods are in bins.",
+            "items": [
+                "At",
+                "a",
+                "bulk",
+                "food",
+                "store,",
+                "all",
+                "the",
+                "foods",
+                "are",
+                "in",
+                "bins."
+            ]
+        },
+        {
+            "id": "905ac6f1cf7945de92630c080425a812",
+            "text": "You take as much as you want and pay for it at the counter.",
+            "items": [
+                "You",
+                "take",
+                "as",
+                "much",
+                "as",
+                "you",
+                "want",
+                "and",
+                "pay",
+                "for",
+                "it",
+                "at",
+                "the",
+                "counter."
+            ]
+        },
+        {
+            "id": "710ee95dd40b46059ffd3cbecf1bc613",
+            "text": "There is even a telephone store and an electronics store at the mall.",
+            "items": [
+                "There",
+                "is",
+                "even",
+                "a",
+                "telephone",
+                "store",
+                "and",
+                "an",
+                "electronics",
+                "store",
+                "at",
+                "the",
+                "mall."
+            ]
+        },
+        {
+            "id": "3faa00c923c14f12941cbdb759e5403d",
+            "text": "My brother's favorite store is the toy store.",
+            "items": [
+                "My",
+                "brother's",
+                [
+                    "favorite",
+                    "favourite"
+                ],
+                "store",
+                "is",
+                "the",
+                "toy",
+                "store."
+            ]
+        },
+        {
+            "id": "e9a2efc7b45443a0b793b37a673bd6af",
+            "text": "He could spend hours in there.",
+            "items": [
+                "He",
+                "could",
+                "spend",
+                "hours",
+                "in",
+                "there."
+            ]
+        },
+        {
+            "id": "1d1ff726f99844ee9c333951c5b14c45",
+            "text": "There are also department stores at the mall.",
+            "items": [
+                "There",
+                "are",
+                "also",
+                "department",
+                "stores",
+                "at",
+                "the",
+                "mall."
+            ]
+        },
+        {
+            "id": "0a409382eb424eb380785b38316debb6",
+            "text": "Department stores sell all kinds of things.",
+            "items": [
+                "Department",
+                "stores",
+                "sell",
+                "all",
+                "kinds",
+                "of",
+                "things."
+            ]
+        },
+        {
+            "id": "1e9f033563c343b8bd2f69c5e27e4c24",
+            "text": "They sell perfume, clothes, shoes, kitchen utensils, or just about anything you might need.",
+            "items": [
+                "They",
+                "sell",
+                "perfume,",
+                "clothes,",
+                "shoes,",
+                "kitchen",
+                "utensils,",
+                "or",
+                "just",
+                "about",
+                "anything",
+                "you",
+                "might",
+                "need."
+            ]
+        },
+        {
+            "id": "3ba3fc9ce468404cb170c65ec54dc042",
+            "text": "You can get almost anything you want at the shopping mall.",
+            "items": [
+                "You",
+                "can",
+                "get",
+                "almost",
+                "anything",
+                "you",
+                "want",
+                "at",
+                "the",
+                "shopping",
+                "mall."
+            ]
+        }
+    ]
+}

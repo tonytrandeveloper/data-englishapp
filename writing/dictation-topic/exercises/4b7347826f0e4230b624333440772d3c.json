@@ -1,0 +1,110 @@
+{
+    "id": "4b7347826f0e4230b624333440772d3c",
+    "title": "Color (1)",
+    "questions": [
+        {
+            "id": "7e03bd668eb6480587c3bffae977e187",
+            "text": "May I help you?",
+            "items": [
+                "May",
+                "I",
+                "help",
+                "you?"
+            ]
+        },
+        {
+            "id": "069108b611484ea09a9f22b396997bf0",
+            "text": "Yes, please. I am looking for an umbrella.",
+            "items": [
+                "Yes,",
+                "please.",
+                "I",
+                "am",
+                "looking",
+                "for",
+                "an",
+                "umbrella."
+            ]
+        },
+        {
+            "id": "c30a8bbe8b204c1585a1d32a8202c521",
+            "text": "What's your favorite color?",
+            "items": [
+                "What's",
+                "your",
+                [
+                    "favorite",
+                    "favourite"
+                ],
+                [
+                    "color?",
+                    "colour"
+                ]
+            ]
+        },
+        {
+            "id": "58e1c0e9207b42d8af9ede365cf3a70e",
+            "text": "It's black.",
+            "items": [
+                "It's",
+                "black."
+            ]
+        },
+        {
+            "id": "ecc327511d6b4d11a0de1f54cd06b2e2",
+            "text": "Sorry, we have no black umbrellas right now.",
+            "items": [
+                "Sorry,",
+                "we",
+                "have",
+                "no",
+                "black",
+                "umbrellas",
+                "right",
+                "now."
+            ]
+        },
+        {
+            "id": "d5a0264046d047b790fc53fc7eed3972",
+            "text": "Here is a nice umbrella.",
+            "items": [
+                [
+                    "Here is",
+                    "Here's"
+                ],
+                "a",
+                "nice",
+                "umbrella."
+            ]
+        },
+        {
+            "id": "1477b16446344f94ae97475787ea3ad5",
+            "text": "But this umbrella is yellow.",
+            "items": [
+                "But",
+                "this",
+                "umbrella",
+                "is",
+                "yellow."
+            ]
+        },
+        {
+            "id": "36158a4b3ab5430fbaec319b8d020ac5",
+            "text": "That's OK. Yellow umbrellas are very popular this year.",
+            "items": [
+                "That's",
+                [
+                    "OK.",
+                    "okay"
+                ],
+                "Yellow",
+                "umbrellas",
+                "are",
+                "very",
+                "popular",
+                "this",
+                "year."
+            ]
+        }
+    ]
+}

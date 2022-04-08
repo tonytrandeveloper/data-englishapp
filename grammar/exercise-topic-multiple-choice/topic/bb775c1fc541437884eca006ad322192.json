@@ -1,0 +1,104 @@
+{
+    "id": "bb775c1fc541437884eca006ad322192",
+    "title": "Sentence correction: adverbs of frequency",
+    "exercises": [
+        {
+            "id": "9b360d9b267942c1acfb1dcc3853999e",
+            "title": "Adverbs of Frequency",
+            "questions": [
+                {
+                    "question": "He often comes very ................................. to the class.",
+                    "description": "",
+                    "answers": [
+                        "late",
+                        "lately"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "He came here two months ..................................",
+                    "description": "",
+                    "answers": [
+                        "ago",
+                        "before"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "He .................................... to our house.",
+                    "description": "",
+                    "answers": [
+                        "often comes",
+                        "comes often"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Though James worked very .............................., he failed.",
+                    "description": "",
+                    "answers": [
+                        "hard",
+                        "hardly"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "But Peter, who took things .............................., passed.",
+                    "description": "",
+                    "answers": [
+                        "easy",
+                        "easily"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "He .............................. comes to see me.",
+                    "description": "",
+                    "answers": [
+                        "seldom",
+                        "ever"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "I .................................... to meet him.",
+                    "description": "",
+                    "answers": [
+                        "always have wanted",
+                        "have always wanted",
+                        "have wanted always"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "He is ................................. lazy fellow.",
+                    "description": "",
+                    "answers": [
+                        "rather",
+                        "a rather",
+                        "rather a"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "I have never seen such a man he is ............................. noble.",
+                    "description": "",
+                    "answers": [
+                        "so",
+                        "too"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "When I met John last summer he told me that he had lost his father two years .....................................",
+                    "description": "",
+                    "answers": [
+                        "before",
+                        "ago"
+                    ],
+                    "correct": 0
+                }
+            ]
+        }
+    ]
+}

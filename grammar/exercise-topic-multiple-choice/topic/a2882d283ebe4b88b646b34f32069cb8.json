@@ -1,0 +1,128 @@
+{
+    "id": "a2882d283ebe4b88b646b34f32069cb8",
+    "title": "Grammar Check",
+    "exercises": [
+        {
+            "id": "6c4b7397d94f47d38975325d22ea3bfc",
+            "title": "Grammar Check",
+            "questions": [
+                {
+                    "question": "Which of the following is the plural form of young one?",
+                    "description": "There are no apostrophes in plural nouns.",
+                    "answers": [
+                        "young ones",
+                        "young one's",
+                        "young ones'"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Which of the following sentences is grammatically correct?",
+                    "description": "We cannot use past time expressions with the present perfect tense.",
+                    "answers": [
+                        "I have seen him yesterday.",
+                        "I saw him yesterday."
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "The simple present tense can be used to talk about future.",
+                    "description": "The simple present tense can be used to talk about future events that are part of a time table.",
+                    "answers": [
+                        "True",
+                        "False"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "The negative form of will is ............................",
+                    "description": "In the case of auxiliary verbs, questions and negatives are made without do.",
+                    "answers": [
+                        "will not",
+                        "don't will",
+                        "doesn't will"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Which of the following sentences is grammatically correct?",
+                    "description": "Look is a copular verb we use adjectives to modify copular verbs.",
+                    "answers": [
+                        "She looked happy",
+                        "She looked happily",
+                        "Either could be used here"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Can you lend me ................................ of butter?",
+                    "description": "Pound is a singular countable noun we need an article or another determiner with singular countable nouns.",
+                    "answers": [
+                        "pound",
+                        "a pound",
+                        "Either could be used here"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "We have got enough money to buy a car. Here enough is an ...............................",
+                    "description": "When enough modifies a noun, it is an adjective.",
+                    "answers": [
+                        "adjective",
+                        "adverb"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "She is old enough to know better. Here enough is an ......................................",
+                    "description": "When enough modifies an adjective, it is an adverb.",
+                    "answers": [
+                        "adjective",
+                        "adverb"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "I love ................................ types of cars.",
+                    "description": "We use these and those with plural nouns.",
+                    "answers": [
+                        "these",
+                        "this",
+                        "that"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "There are no secrets between ....................................",
+                    "description": "We use object pronouns after a preposition.",
+                    "answers": [
+                        "us",
+                        "we"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Which of the following is not a form of be?",
+                    "description": "The forms of be are: is, am, are, was and were.",
+                    "answers": [
+                        "are",
+                        "were",
+                        "am",
+                        "has"
+                    ],
+                    "correct": 3
+                },
+                {
+                    "question": "My brother loves ...........................................",
+                    "description": "We do not normally use articles with plural nouns when we are talking about things in general.",
+                    "answers": [
+                        "dogs",
+                        "the dogs",
+                        "Either could be used here"
+                    ],
+                    "correct": 0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,3297 @@
+[
+    {
+        "id": "e083bf3b60e3441aabe33e1907c77d7d",
+        "word": "leg",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/leɡ/",
+            "us": "/leɡ/"
+        },
+        "nearby": [
+            {
+                "word": "lefty",
+                "pos": "adjective"
+            },
+            {
+                "word": "lefty",
+                "pos": "noun"
+            },
+            {
+                "word": "leg",
+                "pos": "noun"
+            },
+            {
+                "word": "leg",
+                "pos": "verb"
+            },
+            {
+                "word": "legacy",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "one of the long parts that connect the feet to the rest of the body",
+                    "vi": "một trong những phần dài kết nối bàn chân với phần còn lại của cơ thể"
+                },
+                "examples": [
+                    {
+                        "en": "Sit on the floor, stretching your legs out in front of you.",
+                        "vi": "Ngồi trên sàn, duỗi thẳng chân trước mặt."
+                    },
+                    {
+                        "en": "your left/right leg",
+                        "vi": "chân trái / phải của bạn"
+                    },
+                    {
+                        "en": "I broke my leg playing football.",
+                        "vi": "Tôi bị gãy chân khi chơi bóng đá."
+                    },
+                    {
+                        "en": "She has a broken leg.",
+                        "vi": "Cô ấy bị gãy chân."
+                    },
+                    {
+                        "en": "He lost a leg in a motorcycle accident.",
+                        "vi": "Anh ấy bị mất một chân trong một vụ tai nạn xe máy."
+                    },
+                    {
+                        "en": "She had to have her leg amputated.",
+                        "vi": "Cô ấy đã phải cắt bỏ chân của mình."
+                    },
+                    {
+                        "en": "How many legs does a centipede have?",
+                        "vi": "Con rết có mấy chân?"
+                    },
+                    {
+                        "en": "The bear rose up on its hind legs.",
+                        "vi": "Con gấu vươn lên bằng hai chân sau."
+                    },
+                    {
+                        "en": "a wooden leg",
+                        "vi": "một cái chân gỗ"
+                    },
+                    {
+                        "en": "between somebody's legs He dribbled the ball between the defender's legs.",
+                        "vi": "giữa hai chân của ai đó Anh ta rê bóng vào giữa hai chân của hậu vệ."
+                    },
+                    {
+                        "en": "on somebody's leg I had a big bruise on my leg.",
+                        "vi": "trên chân của ai đó, tôi có một vết bầm tím lớn ở chân."
+                    },
+                    {
+                        "en": "a leg injury",
+                        "vi": "một vết thương ở chân"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the leg of an animal, especially the top part, cooked and eaten",
+                    "vi": "chân của động vật, đặc biệt là phần trên cùng, nấu chín và ăn"
+                },
+                "examples": [
+                    {
+                        "en": "Have you ever tried frogs' legs?",
+                        "vi": "Bạn đã từng thử món chân ếch chưa?"
+                    },
+                    {
+                        "en": "chicken legs",
+                        "vi": "chân gà"
+                    },
+                    {
+                        "en": "leg of something roast leg of lamb",
+                        "vi": "chân cừu nướng cái gì đó"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the part of a pair of trousers that covers the leg",
+                    "vi": "một phần của một chiếc quần dài che đi phần chân"
+                },
+                "examples": [
+                    {
+                        "en": "a trouser/pant leg",
+                        "vi": "ống quần / ống quần"
+                    },
+                    {
+                        "en": "He rolled up the legs of his jeans.",
+                        "vi": "Anh xắn gấu quần jean lên."
+                    },
+                    {
+                        "en": "in the leg These jeans are too long in the leg.",
+                        "vi": "ở chân Những chiếc quần jean này quá dài ở chân."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "one of the long thin parts on the bottom of a table, chair, etc. that support it",
+                    "vi": "một trong những bộ phận mỏng dài ở dưới cùng của bàn, ghế, v.v. để hỗ trợ nó"
+                },
+                "examples": [
+                    {
+                        "en": "a table/chair leg",
+                        "vi": "chân bàn / ghế"
+                    },
+                    {
+                        "en": "He tripped over the leg of the chair.",
+                        "vi": "Anh vấp phải chân ghế."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "having the number or type of legs mentioned",
+                    "vi": "có số lượng hoặc loại chân được đề cập"
+                },
+                "examples": [
+                    {
+                        "en": "a three-legged stool",
+                        "vi": "ghế đẩu ba chân"
+                    },
+                    {
+                        "en": "a long-legged insect",
+                        "vi": "côn trùng chân dài"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "one part of a journey or race",
+                    "vi": "một phần của cuộc hành trình hoặc cuộc đua"
+                },
+                "examples": [
+                    {
+                        "en": "The final leg of the trip was by donkey.",
+                        "vi": "Chặng cuối cùng của chuyến đi là bằng lừa."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "one of a pair of matches played between the same opponents in a sports competition, which together form a single round (= stage) of the competition",
+                    "vi": "một trong các cặp đấu được chơi giữa các đối thủ giống nhau trong một cuộc thi thể thao, các trận đấu này cùng nhau tạo thành một vòng (= giai đoạn) của cuộc thi"
+                },
+                "examples": [
+                    {
+                        "en": "The Spanish team won the third leg.",
+                        "vi": "Đội tuyển Tây Ban Nha đã giành chiến thắng trong trận lượt về."
+                    },
+                    {
+                        "en": "I really believe we can turn around that 4–2 first leg deficit and win this game.",
+                        "vi": "Tôi thực sự tin rằng chúng tôi có thể xoay chuyển tình thế 4–2 trận lượt đi và giành chiến thắng trong trận đấu này."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "as quickly as you can",
+                    "vi": "nhanh nhất có thể"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be going to die or stop functioning very soon; to be very weak or in bad condition",
+                    "vi": "sắp chết hoặc ngừng hoạt động rất sớm; rất yếu hoặc trong tình trạng tồi tệ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used to wish somebody good luck, especially to an actor before they go on stage",
+                    "vi": "từng chúc ai đó may mắn, đặc biệt là với một diễn viên trước khi họ lên sân khấu"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to cost/pay a lot of money",
+                    "vi": "tốn kém / trả nhiều tiền"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to have sex",
+                    "vi": "quan hệ tình dục"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "if you say that a news story, etc. has legs, you mean that people will continue to be interested in it for a long time",
+                    "vi": "nếu bạn nói rằng một câu chuyện tin tức, v.v. có chân, bạn có nghĩa là mọi người sẽ tiếp tục quan tâm đến nó trong một thời gian dài"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be in a position where you are unable to prove something or explain why something is reasonable",
+                    "vi": "ở một vị trí mà bạn không thể chứng minh điều gì đó hoặc giải thích tại sao điều gì đó là hợp lý"
+                },
+                "examples": [
+                    {
+                        "en": "Without written evidence, we don't have a leg to stand on.",
+                        "vi": "Không có bằng chứng bằng văn bản, chúng tôi không có chân để đứng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to play a joke on somebody, usually by making them believe something that is not true",
+                    "vi": "để đùa ai đó, thường là khiến họ tin điều gì đó không đúng sự thật"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used to tell somebody to start to do something or to hurry",
+                    "vi": "được sử dụng để nói với ai đó bắt đầu làm điều gì đó hoặc nhanh lên"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to go for a short walk after sitting for some time",
+                    "vi": "đi dạo một lát sau khi ngồi một lúc"
+                },
+                "examples": [
+                    {
+                        "en": "It was good to get out of the car and stretch our legs.",
+                        "vi": "Thật tốt khi chúng tôi bước ra khỏi xe và duỗi thẳng chân."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to talk too much, especially about things that are boring or not important",
+                    "vi": "nói quá nhiều, đặc biệt là về những thứ nhàm chán hoặc không quan trọng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "feeling ashamed or unhappy because you have been defeated or punished",
+                    "vi": "cảm thấy xấu hổ hoặc không vui vì bạn đã bị đánh bại hoặc bị trừng phạt"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "d7ce58c0dceb41e79413446b0958b2ab",
+        "word": "button",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/ˈbʌtn/",
+            "us": "/ˈbʌtn/"
+        },
+        "nearby": [
+            {
+                "word": "butt in",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "buttock",
+                "pos": "noun"
+            },
+            {
+                "word": "button",
+                "pos": "noun"
+            },
+            {
+                "word": "button",
+                "pos": "verb"
+            },
+            {
+                "word": "button-down",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small round piece of metal, plastic, etc. that is sewn onto a piece of clothing and used for fastening two parts together",
+                    "vi": "một miếng kim loại, nhựa tròn nhỏ, v.v. được khâu vào một bộ quần áo và được sử dụng để gắn hai bộ phận lại với nhau"
+                },
+                "examples": [
+                    {
+                        "en": "(British English) to do up/undo your buttons",
+                        "vi": "(Tiếng Anh Anh) để sửa / hoàn tác các nút của bạn"
+                    },
+                    {
+                        "en": "(North American English) to button/unbutton your buttons",
+                        "vi": "(Tiếng Anh Bắc Mỹ) để nút / mở các nút của bạn"
+                    },
+                    {
+                        "en": "to sew on a button",
+                        "vi": "khâu vào một cái nút"
+                    },
+                    {
+                        "en": "shirt buttons",
+                        "vi": "cúc áo sơ mi"
+                    },
+                    {
+                        "en": "a row of gilt buttons",
+                        "vi": "một hàng nút mạ vàng"
+                    },
+                    {
+                        "en": "One of the buttons on his jacket was missing.",
+                        "vi": "Một trong những chiếc cúc áo khoác của anh ấy đã bị thiếu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a small part of a machine that you press to make it work",
+                    "vi": "một phần nhỏ của máy mà bạn nhấn để làm cho nó hoạt động"
+                },
+                "examples": [
+                    {
+                        "en": "the start/stop/pause button",
+                        "vi": "nút bắt đầu / dừng / tạm dừng"
+                    },
+                    {
+                        "en": "Adam pressed a button and waited for the lift.",
+                        "vi": "Adam nhấn một nút và đợi thang máy."
+                    },
+                    {
+                        "en": "Choose ‘printer’ from the menu and click with the right mouse button.",
+                        "vi": "Chọn 'máy in' từ menu và nhấp chuột phải."
+                    },
+                    {
+                        "en": "She pushed a button on the control panel.",
+                        "vi": "Cô nhấn một nút trên bảng điều khiển."
+                    },
+                    {
+                        "en": "I hit the play button on the remote.",
+                        "vi": "Tôi nhấn nút phát trên điều khiển từ xa."
+                    },
+                    {
+                        "en": "The windows slide down at the touch of a button.",
+                        "vi": "Các cửa sổ trượt xuống chỉ bằng một nút bấm."
+                    },
+                    {
+                        "en": "With a push of a button, I can print out everything I need.",
+                        "vi": "Chỉ với một nút nhấn, tôi có thể in ra mọi thứ tôi cần."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a small area on a computer screen that you click on to make it do something",
+                    "vi": "một khu vực nhỏ trên màn hình máy tính mà bạn nhấp vào để làm cho nó thực hiện điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "Click on the back button to go back to the previous screen.",
+                        "vi": "Bấm vào nút quay lại để quay lại màn hình trước đó."
+                    },
+                    {
+                        "en": "Click the ‘Finish’ button in the top right-hand corner of the screen.",
+                        "vi": "Nhấp vào nút 'Hoàn tất' ở góc trên cùng bên phải của màn hình."
+                    },
+                    {
+                        "en": "I hit the ‘Reply’ button in the mail toolbar.",
+                        "vi": "Tôi nhấn nút 'Trả lời' trong thanh công cụ thư."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a badge, especially one with a message printed on it",
+                    "vi": "huy hiệu, đặc biệt là huy hiệu có in thông điệp"
+                },
+                "examples": [
+                    {
+                        "en": "He wore a button saying ‘Life begins at 40!’",
+                        "vi": "Anh ấy đeo một chiếc cúc áo nói rằng 'Cuộc sống bắt đầu ở tuổi 40!'"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "intelligent and quick to understand",
+                    "vi": "thông minh và nhanh chóng để hiểu"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "at exactly the right time or at the exact time mentioned",
+                    "vi": "vào đúng thời điểm hoặc đúng thời điểm đã đề cập"
+                },
+                "examples": [
+                    {
+                        "en": "We arrived at 4 o'clock on the button.",
+                        "vi": "Chúng tôi đến lúc 4 giờ trên nút."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "exactly right",
+                    "vi": "hoàn toàn chính xác"
+                },
+                "examples": [
+                    {
+                        "en": "You're on the button there!",
+                        "vi": "Bạn đang ở trên nút ở đó!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to do exactly the right things to please somebody",
+                    "vi": "làm chính xác những điều đúng đắn để làm hài lòng ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "a new satirical comedy show that pushes all the right buttons",
+                        "vi": "một chương trình hài châm biếm mới nhấn tất cả các nút bên phải"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make somebody react in either a positive or a negative way",
+                    "vi": "để khiến ai đó phản ứng theo cách tích cực hoặc tiêu cực"
+                },
+                "examples": [
+                    {
+                        "en": "I've known him for years, but I still don't know what pushes his buttons.",
+                        "vi": "Tôi biết anh ấy nhiều năm rồi, nhưng tôi vẫn không biết điều gì đã nhấn nút của anh ấy."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "77332287bc1945508f06cce506a3ccb9",
+        "word": "knee",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/niː/",
+            "us": "/niː/"
+        },
+        "nearby": [
+            {
+                "word": "knave",
+                "pos": "noun"
+            },
+            {
+                "word": "knead",
+                "pos": "verb"
+            },
+            {
+                "word": "knee",
+                "pos": "noun"
+            },
+            {
+                "word": "knee",
+                "pos": "verb"
+            },
+            {
+                "word": "kneecap",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the joint between the top and bottom parts of the leg where it bends in the middle",
+                    "vi": "khớp giữa phần trên và phần dưới của chân, nơi nó uốn cong ở giữa"
+                },
+                "examples": [
+                    {
+                        "en": "a knee injury",
+                        "vi": "chấn thương đầu gối"
+                    },
+                    {
+                        "en": "I had knee surgery three years ago.",
+                        "vi": "Tôi đã phẫu thuật đầu gối cách đây ba năm."
+                    },
+                    {
+                        "en": "Bend your knees until you feel your thigh muscles working.",
+                        "vi": "Gập đầu gối cho đến khi bạn cảm thấy cơ đùi đang hoạt động."
+                    },
+                    {
+                        "en": "I grazed my knee when I fell.",
+                        "vi": "Tôi sượt qua đầu gối khi tôi bị ngã."
+                    },
+                    {
+                        "en": "He went down on one knee and asked her to marry him.",
+                        "vi": "Anh quỳ gối cầu hôn cô."
+                    },
+                    {
+                        "en": "on your knees She was on her knees scrubbing the kitchen floor.",
+                        "vi": "trên đầu gối của bạn Cô ấy đang quỳ gối cọ rửa sàn bếp."
+                    },
+                    {
+                        "en": "Everyone was down on (their) hands and knees (= crawling on the floor) looking for the ring.",
+                        "vi": "Mọi người chống tay và đầu gối (= bò trên sàn) tìm kiếm chiếc nhẫn."
+                    },
+                    {
+                        "en": "He fell to his knees and begged for mercy.",
+                        "vi": "Anh quỳ xuống và cầu xin sự thương xót."
+                    },
+                    {
+                        "en": "My knees were knocking (= I was frightened).",
+                        "vi": "Đầu gối của tôi đã bị gõ (= Tôi đã hoảng sợ)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the part of a piece of clothing that covers the knee",
+                    "vi": "phần quần áo che đầu gối"
+                },
+                "examples": [
+                    {
+                        "en": "I brushed the dust from the knees of my trousers.",
+                        "vi": "Tôi phủi bụi khỏi đầu gối quần."
+                    },
+                    {
+                        "en": "at the knee These jeans are torn at the knee.",
+                        "vi": "ở đầu gối Những chiếc quần jean này bị rách ở đầu gối."
+                    },
+                    {
+                        "en": "a knee patch",
+                        "vi": "miếng dán đầu gối"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the top surface of the upper part of the legs when you are sitting down",
+                    "vi": "bề mặt trên của phần trên của chân khi bạn ngồi xuống"
+                },
+                "examples": [
+                    {
+                        "en": "Come and sit on Daddy's knee.",
+                        "vi": "Hãy đến và ngồi trên đầu gối của Bố."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "when you were very young",
+                    "vi": "khi bạn còn rất trẻ"
+                },
+                "examples": [
+                    {
+                        "en": "I learnt these songs at my mother's knee.",
+                        "vi": "Tôi đã học những bài hát này ở đầu gối của mẹ tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an excellent person or thing",
+                    "vi": "một người hay một thứ xuất sắc"
+                },
+                "examples": [
+                    {
+                        "en": "She thinks she's the bee's knees (= she has a very high opinion of herself).",
+                        "vi": "Cô ấy nghĩ cô ấy là đầu gối của con ong (= cô ấy có quan điểm rất cao về bản thân)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to defeat somebody, especially in a war",
+                    "vi": "để đánh bại ai đó, đặc biệt là trong một cuộc chiến"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to badly affect an organization, etc. so that it can no longer function",
+                    "vi": "ảnh hưởng xấu đến tổ chức, v.v. để tổ chức đó không còn hoạt động"
+                },
+                "examples": [
+                    {
+                        "en": "The strikes brought the industry to its knees.",
+                        "vi": "Các cuộc đình công đã đưa ngành công nghiệp này sụp đổ."
+                    },
+                    {
+                        "en": "The fuel shortage brought the country to its knees within weeks.",
+                        "vi": "Tình trạng thiếu nhiên liệu đã khiến đất nước phải đứng trước nguy cơ sụp đổ trong vòng vài tuần."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if you ask for something on bended knee(s), you ask for it in a very anxious and/or humble way (= showing you think you are less important than the person you are asking)",
+                    "vi": "nếu bạn yêu cầu một thứ gì đó trên đầu gối gập lại, bạn yêu cầu điều đó một cách rất lo lắng và / hoặc khiêm tốn (= cho thấy bạn nghĩ rằng bạn kém quan trọng hơn người bạn đang yêu cầu)"
+                },
+                "examples": [
+                    {
+                        "en": "I’d go down on bended knee if I thought she’d change her mind.",
+                        "vi": "Tôi sẽ khuỵu gối xuống nếu tôi nghĩ rằng cô ấy sẽ đổi ý."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to punish somebody by making them lie on top of your knee and hitting their bottom",
+                    "vi": "trừng phạt ai đó bằng cách bắt họ nằm trên đầu gối của bạn và đánh vào mông của họ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to kneel on one knee in public in order to protest about the unfair treatment of black people",
+                    "vi": "quỳ gối nơi công cộng để phản đối việc đối xử bất công với người da đen"
+                },
+                "examples": [
+                    {
+                        "en": "Officers at the rally were seen taking a knee in solidarity with the demonstrators.",
+                        "vi": "Các nhân viên tại cuộc biểu tình đã quỳ gối trong tình đoàn kết với những người biểu tình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "hardly able to stand because of emotion, fear, illness, etc.",
+                    "vi": "hầu như không thể đứng vững vì xúc động, sợ hãi, bệnh tật, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "His sudden smile made her go weak at the knees.",
+                        "vi": "Nụ cười bất ngờ của anh khiến cô yếu mềm hai đầu gối."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "cb64c8e0c58f4c188f5eeb2ca9d43d9d",
+        "word": "neck",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/nek/",
+            "us": "/nek/"
+        },
+        "nearby": [
+            {
+                "word": "necessitate",
+                "pos": "verb"
+            },
+            {
+                "word": "necessity",
+                "pos": "noun"
+            },
+            {
+                "word": "neck",
+                "pos": "noun"
+            },
+            {
+                "word": "neck",
+                "pos": "verb"
+            },
+            {
+                "word": "neckerchief",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the part of the body between the head and the shoulders",
+                    "vi": "phần cơ thể giữa đầu và vai"
+                },
+                "examples": [
+                    {
+                        "en": "He tied a scarf around his neck.",
+                        "vi": "Anh ta buộc một chiếc khăn quanh cổ."
+                    },
+                    {
+                        "en": "I woke up with a stiff neck.",
+                        "vi": "Tôi thức dậy với một cái cổ cứng đơ."
+                    },
+                    {
+                        "en": "Giraffes have very long necks.",
+                        "vi": "Hươu cao cổ có cổ rất dài."
+                    },
+                    {
+                        "en": "She craned (= stretched) her neck to get a better view.",
+                        "vi": "Cô ấy rướn cổ lên để nhìn rõ hơn."
+                    },
+                    {
+                        "en": "He broke his neck in the fall.",
+                        "vi": "Anh ấy bị gãy cổ vào mùa thu."
+                    },
+                    {
+                        "en": "Somebody's going to break their neck (= injure themselves) on these steps.",
+                        "vi": "Ai đó sẽ bị gãy cổ (= tự làm bị thương) trên những bước này."
+                    },
+                    {
+                        "en": "The hairs on the nape of my neck stood on end.",
+                        "vi": "Tóc gáy tôi dựng đứng hết cả lên."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the part of a piece of clothing that fits around the neck",
+                    "vi": "phần quần áo ôm sát cổ"
+                },
+                "examples": [
+                    {
+                        "en": "He wore a casual shirt with an open neck.",
+                        "vi": "Anh ta mặc một chiếc áo sơ mi giản dị hở cổ."
+                    },
+                    {
+                        "en": "Her dress had three buttons at the neck undone.",
+                        "vi": "Chiếc váy của cô ấy có ba chiếc cúc ở cổ không được cởi ra."
+                    },
+                    {
+                        "en": "What neck size do you take?",
+                        "vi": "Bạn lấy cỡ cổ nào?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "having the type of neck mentioned",
+                    "vi": "có loại cổ được đề cập"
+                },
+                "examples": [
+                    {
+                        "en": "a round-necked sweater",
+                        "vi": "áo len cổ tròn"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a long narrow part of something",
+                    "vi": "một phần dài hẹp của một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "the neck of a bottle",
+                        "vi": "cổ chai"
+                    },
+                    {
+                        "en": "the narrow neck of land between the lake and the sea",
+                        "vi": "đất hẹp giữa hồ và biển"
+                    },
+                    {
+                        "en": "the neck of a guitar",
+                        "vi": "cổ đàn guitar"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the neck of an animal, cooked and eaten",
+                    "vi": "cổ của động vật, nấu chín và ăn"
+                },
+                "examples": [
+                    {
+                        "en": "neck of lamb",
+                        "vi": "cổ cừu"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to have a lot of something to deal with",
+                    "vi": "có rất nhiều thứ để giải quyết"
+                },
+                "examples": [
+                    {
+                        "en": "We're up to our neck in debt.",
+                        "vi": "Chúng ta đang mắc nợ."
+                    },
+                    {
+                        "en": "He's in it (= trouble) up to his neck.",
+                        "vi": "Anh ấy đang ở trong đó (= rắc rối) đến tận cổ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a combination of confidence and lack of respect",
+                    "vi": "sự kết hợp của sự tự tin và sự thiếu tôn trọng"
+                },
+                "examples": [
+                    {
+                        "en": "I didn't think she would have the brass neck to do that.",
+                        "vi": "Tôi không nghĩ rằng cô ấy sẽ có cái cổ bằng đồng để làm điều đó."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to watch closely what somebody is doing in a way that makes them feel anxious and/or annoyed",
+                    "vi": "để theo dõi chặt chẽ những gì ai đó đang làm theo cách khiến họ cảm thấy lo lắng và / hoặc khó chịu"
+                },
+                "examples": [
+                    {
+                        "en": "I can’t get any work done with you breathing down my neck.",
+                        "vi": "Tôi không thể hoàn thành bất kỳ công việc nào nếu bạn thở dài trên cổ của tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if a person or an animal wins a race by a neck, they win it by a short distance",
+                    "vi": "nếu một người hoặc một con vật thắng cuộc đua bằng cổ, họ sẽ thắng nó trong một khoảng cách ngắn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "roughly holding the back of an animal’s or person’s neck",
+                    "vi": "thô bạo giữ sau cổ của động vật hoặc người"
+                },
+                "examples": [
+                    {
+                        "en": "She grabbed him by the scruff of the neck and threw him out.",
+                        "vi": "Cô túm cổ anh ta và ném anh ta ra ngoài."
+                    },
+                    {
+                        "en": "The cat picked up her kitten by the scruff of its neck.",
+                        "vi": "Con mèo bế con mèo lên bằng cái gáy của nó."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be shouted at or punished because of something that you have done",
+                    "vi": "bị la mắng hoặc bị trừng phạt vì điều gì đó mà bạn đã làm"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a difficult problem or responsibility that it seems impossible to solve or get rid of",
+                    "vi": "một vấn đề khó khăn hoặc một trách nhiệm mà dường như không thể giải quyết hoặc loại bỏ được"
+                },
+                "examples": [
+                    {
+                        "en": "My debts are a millstone around my neck.",
+                        "vi": "Nợ của tôi là một cái cối xay quanh cổ tôi."
+                    },
+                    {
+                        "en": "Unemployment was an economic millstone around the country’s neck.",
+                        "vi": "Thất nghiệp là một cối xay kinh tế quanh cổ đất nước."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "level with somebody in a race or competition",
+                    "vi": "ngang hàng với ai đó trong một cuộc đua hoặc cuộc thi"
+                },
+                "examples": [
+                    {
+                        "en": "The cyclists were neck and neck as they approached the final lap.",
+                        "vi": "Những người đi xe đạp đã ngửa cổ khi tiến đến vòng đua cuối cùng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a particular place or area",
+                    "vi": "một địa điểm hoặc khu vực cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "He's from your neck of the woods (= the area where you live).",
+                        "vi": "Anh ấy đến từ cổ rừng của bạn (= khu vực bạn sống)."
+                    },
+                    {
+                        "en": "What are you doing in this neck of the woods?",
+                        "vi": "Bạn đang làm gì trong khu rừng này?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person or thing that is very annoying",
+                    "vi": "một người hoặc một điều rất khó chịu"
+                },
+                "examples": [
+                    {
+                        "en": "That man's a pain in the neck!",
+                        "vi": "Người đàn ông đó rất đau cổ!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to risk losing your job, damaging your reputation, etc. by doing or saying something",
+                    "vi": "có nguy cơ mất việc, làm tổn hại danh tiếng của bạn, v.v. bằng cách làm hoặc nói điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "It's not a matter that I'm prepared to put my head on the block for.",
+                        "vi": "Đó không phải là vấn đề mà tôi đã chuẩn bị sẵn sàng để đặt đầu của mình vào khối."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to risk being killed or injured in order to do something",
+                    "vi": "mạo hiểm bị giết hoặc bị thương để làm điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "I'm not going to risk my neck playing rugby with you!",
+                        "vi": "Tôi sẽ không liều mạng chơi bóng bầu dục với anh đâu!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to rescue somebody from a very difficult situation",
+                    "vi": "để giải cứu ai đó khỏi một tình huống rất khó khăn"
+                },
+                "examples": [
+                    {
+                        "en": "He's out to save his own political neck.",
+                        "vi": "Anh ấy ra ngoài để cứu lấy cái cổ chính trị của chính mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to try to avoid death, punishment, etc., especially by leaving others in an extremely difficult situation",
+                    "vi": "để cố gắng tránh cái chết, sự trừng phạt, v.v., đặc biệt là bằng cách bỏ rơi người khác trong một tình huống cực kỳ khó khăn"
+                },
+                "examples": [
+                    {
+                        "en": "To save his own skin, he lied and blamed the accident on his friend.",
+                        "vi": "Để cứu lấy làn da của chính mình, anh đã nói dối và đổ lỗi tai nạn cho bạn mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to do or say something when there is a risk that you may be wrong",
+                    "vi": "làm hoặc nói điều gì đó khi có nguy cơ bạn sai"
+                },
+                "examples": [
+                    {
+                        "en": "I’ll stick my neck out and say that Bill is definitely the best candidate for the job.",
+                        "vi": "Tôi sẽ ưỡn ẹo và nói rằng Bill chắc chắn là ứng cử viên sáng giá nhất cho công việc."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "when you say that you will wring somebody’s neck, you mean that you are very angry or annoyed with them",
+                    "vi": "khi bạn nói rằng bạn sẽ vặn cổ ai đó, bạn có nghĩa là bạn đang rất tức giận hoặc khó chịu với họ"
+                },
+                "examples": [
+                    {
+                        "en": "When he was late again I wanted to wring his neck.",
+                        "vi": "Khi anh ấy lại đến muộn, tôi muốn vặn cổ anh ấy."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2f93f823bf9e4c1f897234e6c8f4f761",
+        "word": "pocket",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/ˈpɒkɪt/",
+            "us": "/ˈpɑːkɪt/"
+        },
+        "nearby": [
+            {
+                "word": "Pocahontas",
+                "pos": ""
+            },
+            {
+                "word": "pocked",
+                "pos": "adjective"
+            },
+            {
+                "word": "pocket",
+                "pos": "noun"
+            },
+            {
+                "word": "pocket",
+                "pos": "verb"
+            },
+            {
+                "word": "pocketbook",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small piece of material like a small bag sewn into or onto a piece of clothing so that you can carry things in it",
+                    "vi": "một mảnh vật liệu nhỏ như một chiếc túi nhỏ được khâu vào hoặc vào một bộ quần áo để bạn có thể đựng những thứ trong đó"
+                },
+                "examples": [
+                    {
+                        "en": "a jacket/coat/shirt/trouser pocket",
+                        "vi": "áo khoác / áo khoác / áo sơ mi / túi quần"
+                    },
+                    {
+                        "en": "a back/a hip/an inside pocket",
+                        "vi": "lưng / hông / túi trong"
+                    },
+                    {
+                        "en": "in/into a pocket I put the note in my pocket.",
+                        "vi": "vào / vào túi Tôi bỏ tờ tiền vào túi."
+                    },
+                    {
+                        "en": "The three of us stood there, hands in pockets, and waited.",
+                        "vi": "Ba người chúng tôi đứng đó, tay đút túi và chờ đợi."
+                    },
+                    {
+                        "en": "She reached into her pocket and pulled out her phone.",
+                        "vi": "Cô ấy thò tay vào túi và rút điện thoại ra."
+                    },
+                    {
+                        "en": "out of/from a pocket Take your hands out of your pockets!",
+                        "vi": "ra / khỏi túi Bỏ tay ra khỏi túi!"
+                    },
+                    {
+                        "en": "Turn out your pockets (= empty your pockets).",
+                        "vi": "Quay ra khỏi túi của bạn (= làm trống túi của bạn)."
+                    },
+                    {
+                        "en": "a pocket dictionary (= one that is small enough to fit in your pocket)",
+                        "vi": "từ điển bỏ túi (= một từ điển đủ nhỏ để bỏ vào túi của bạn)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a small bag or container fastened to something so that you can put things in it, for example, in a car door or in a bag",
+                    "vi": "một túi nhỏ hoặc hộp đựng được gắn chặt vào một thứ gì đó để bạn có thể đặt mọi thứ vào đó, chẳng hạn như ở cửa xe hơi hoặc trong túi"
+                },
+                "examples": [
+                    {
+                        "en": "Information about safety procedures is in the pocket in front of you (= on a plane).",
+                        "vi": "Thông tin về các thủ tục an toàn ở trong túi trước mặt bạn (= trên máy bay)."
+                    },
+                    {
+                        "en": "Forged passports were found in a secret pocket in the suitcase.",
+                        "vi": "Hộ chiếu giả được tìm thấy trong một túi bí mật trong vali."
+                    },
+                    {
+                        "en": "a 20 litre rucksack with a pocket for a water bottle and map",
+                        "vi": "một ba lô 20 lít có túi đựng chai nước và bản đồ"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to talk about the amount of money that you have to spend",
+                    "vi": "được sử dụng để nói về số tiền mà bạn phải chi tiêu"
+                },
+                "examples": [
+                    {
+                        "en": "We have holidays to suit every pocket.",
+                        "vi": "Chúng tôi có những ngày nghỉ để phù hợp với mọi túi tiền."
+                    },
+                    {
+                        "en": "He had no intention of paying for the meal out of his own pocket.",
+                        "vi": "Anh không có ý định trả tiền cho bữa ăn bằng tiền túi của mình."
+                    },
+                    {
+                        "en": "The libel case was a huge drain on her pocket.",
+                        "vi": "Vụ kiện phỉ báng là một sự tiêu hao rất lớn trong túi của cô ấy."
+                    },
+                    {
+                        "en": "tourists with bulging pockets",
+                        "vi": "khách du lịch với túi phình"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a small group or area that is different from everyone or everything around it",
+                    "vi": "một nhóm nhỏ hoặc khu vực khác với mọi người hoặc mọi thứ xung quanh nó"
+                },
+                "examples": [
+                    {
+                        "en": "There are still a few isolated pockets of resistance to the new regime.",
+                        "vi": "Vẫn còn một số ít người bị cô lập phản đối chế độ mới."
+                    },
+                    {
+                        "en": "The country has large pockets of unemployment.",
+                        "vi": "Nước này có tỷ lệ thất nghiệp lớn."
+                    },
+                    {
+                        "en": "a pocket of air",
+                        "vi": "một túi không khí"
+                    },
+                    {
+                        "en": "Geologists have found a few remaining pockets of iron ore.",
+                        "vi": "Các nhà địa chất đã tìm thấy một vài túi quặng sắt còn sót lại."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "any of the holes or nets around the edges of the table used in the games of billiards, pool or snooker, which you have to hit the ball into",
+                    "vi": "bất kỳ lỗ hoặc lưới nào xung quanh các cạnh của bàn được sử dụng trong các trò chơi bida, bida hoặc bi da mà bạn phải đánh bóng vào"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "if two people are or live in each other’s pockets, they are too close to each other or spend too much time with each other",
+                    "vi": "nếu hai người đang hoặc sống trong túi của nhau, họ ở quá gần nhau hoặc dành quá nhiều thời gian cho nhau"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be controlled or strongly influenced by somebody",
+                    "vi": "bị kiểm soát hoặc bị ảnh hưởng mạnh mẽ bởi ai đó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "if money burns a hole in your pocket, you want to spend it as soon as you have it",
+                    "vi": "nếu tiền làm cháy một lỗ trong túi của bạn, bạn muốn tiêu nó ngay khi có nó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to spend some of your own money on something",
+                    "vi": "chi tiêu một số tiền của riêng bạn cho một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "She was forced to dip into her own pocket to pay for the repairs.",
+                        "vi": "Cô buộc phải tự bỏ tiền túi ra để trả tiền sửa chữa."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to have influence or power over somebody, for example, a police officer or a politician, especially by threatening them or by offering them money",
+                    "vi": "để có ảnh hưởng hoặc quyền lực đối với ai đó, ví dụ, một sĩ quan cảnh sát hoặc một chính trị gia, đặc biệt là bằng cách đe dọa họ hoặc bằng cách cho họ tiền"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be certain to win something",
+                    "vi": "để chắc chắn giành được một cái gì đó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "having gained/lost money as a result of something",
+                    "vi": "có được / mất tiền do kết quả của một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "We're in pocket on that deal.",
+                        "vi": "Chúng tôi đang bỏ túi về thỏa thuận đó."
+                    },
+                    {
+                        "en": "That one mistake left him thousands of pounds out of pocket.",
+                        "vi": "Một sai lầm đó đã khiến anh ta phải bỏ túi hàng nghìn bảng Anh."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to get richer or make somebody richer, especially by taking unfair advantage of a situation or by being dishonest",
+                    "vi": "để giàu hơn hoặc làm cho ai đó giàu hơn, đặc biệt là bằng cách lợi dụng hoàn cảnh không công bằng hoặc bằng cách không trung thực"
+                },
+                "examples": [
+                    {
+                        "en": "Health services are lining the drug companies’ pockets, according to the report.",
+                        "vi": "Theo báo cáo, các dịch vụ y tế đang móc hầu bao của các công ty dược phẩm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to steal something from somebody’s pocket without them noticing",
+                    "vi": "ăn trộm thứ gì đó từ túi của ai đó mà họ không nhận ra"
+                },
+                "examples": [
+                    {
+                        "en": "The back pocket on a pair of jeans is the easiest one to pick.",
+                        "vi": "Túi sau của quần jean là túi dễ chọn nhất."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to spend money or give it to somebody",
+                    "vi": "tiêu tiền hoặc đưa nó cho ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "I've heard he doesn't like putting his hand in his pocket.",
+                        "vi": "Tôi nghe nói anh ấy không thích đút tay vào túi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "13219fe5bb6544069093a361462db62e",
+        "word": "shoulder",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/ˈʃəʊldə(r)/",
+            "us": "/ˈʃəʊldər/"
+        },
+        "nearby": [
+            {
+                "word": "shot-put",
+                "pos": "noun"
+            },
+            {
+                "word": "should",
+                "pos": "modal verb"
+            },
+            {
+                "word": "shoulder",
+                "pos": "noun"
+            },
+            {
+                "word": "shoulder",
+                "pos": "verb"
+            },
+            {
+                "word": "shoulder bag",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "either of the two parts of the body between the top of each arm and the neck",
+                    "vi": "một trong hai phần của cơ thể giữa đầu mỗi cánh tay và cổ"
+                },
+                "examples": [
+                    {
+                        "en": "your left/right shoulder",
+                        "vi": "vai trái / phải của bạn"
+                    },
+                    {
+                        "en": "a tall man with broad shoulders",
+                        "vi": "một người đàn ông cao với đôi vai rộng"
+                    },
+                    {
+                        "en": "over somebody's shoulder He slung the bag over his shoulder.",
+                        "vi": "qua vai ai đó. Anh ấy quàng chiếc túi qua vai."
+                    },
+                    {
+                        "en": "He looked back over his shoulder.",
+                        "vi": "Anh nhìn lại qua vai mình."
+                    },
+                    {
+                        "en": "on somebody's shoulder He carried the child on his shoulders.",
+                        "vi": "trên vai ai đó Anh ta cõng đứa trẻ trên vai."
+                    },
+                    {
+                        "en": "I put a hand on her shoulder to stop her.",
+                        "vi": "Tôi đặt một tay lên vai cô ấy để ngăn cô ấy lại."
+                    },
+                    {
+                        "en": "She tapped him on the shoulder.",
+                        "vi": "Cô vỗ vào vai anh."
+                    },
+                    {
+                        "en": "around somebody's shoulder He put an arm around her shoulders and pulled her close.",
+                        "vi": "quanh vai ai đó Anh choàng tay qua vai cô và kéo cô lại gần."
+                    },
+                    {
+                        "en": "She shrugged her shoulders (= showing that she didn't know or care).",
+                        "vi": "Cô ấy nhún vai (= thể hiện rằng cô ấy không biết hoặc không quan tâm)."
+                    },
+                    {
+                        "en": "an off-the-shoulder dress (= that does not cover the shoulders)",
+                        "vi": "một chiếc váy trễ vai (= không che được vai)"
+                    },
+                    {
+                        "en": "a shoulder injury",
+                        "vi": "chấn thương vai"
+                    },
+                    {
+                        "en": "I have to have shoulder surgery.",
+                        "vi": "Tôi phải phẫu thuật vai."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "having the type of shoulders mentioned",
+                    "vi": "có loại vai được đề cập"
+                },
+                "examples": [
+                    {
+                        "en": "broad-shouldered",
+                        "vi": "vai rộng"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the part of a piece of clothing that covers the shoulder",
+                    "vi": "phần của một mảnh quần áo che vai"
+                },
+                "examples": [
+                    {
+                        "en": "a jacket with padded shoulders",
+                        "vi": "áo khoác có đệm vai"
+                    },
+                    {
+                        "en": "There was snow on the shoulders of his heavy black coat.",
+                        "vi": "Có tuyết trên vai áo khoác đen dày của anh ấy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "meat from the top part of one of the front legs of an animal that has four legs",
+                    "vi": "thịt từ phần trên cùng của một trong các chân trước của động vật có bốn chân"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a part of something, such as a bottle or mountain, that is like a shoulder in shape",
+                    "vi": "một phần của cái gì đó, chẳng hạn như một cái chai hoặc một ngọn núi, giống như một cái vai"
+                },
+                "examples": [
+                    {
+                        "en": "The village lay just around the shoulder of the hill.",
+                        "vi": "Ngôi làng nằm ngay vai đồi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an area of ground at the side of a road where vehicles can stop in an emergency",
+                    "vi": "khu vực đất ở bên đường nơi các phương tiện có thể dừng lại trong trường hợp khẩn cấp"
+                },
+                "examples": [
+                    {
+                        "en": "No shoulder for next 5 miles (= on a notice).",
+                        "vi": "Không có vai trong 5 dặm tiếp theo (= trên một thông báo)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be much better than other people or things",
+                    "vi": "tốt hơn nhiều so với những người khác hoặc những thứ khác"
+                },
+                "examples": [
+                    {
+                        "en": "His performance stood head and shoulders above the rest.",
+                        "vi": "Màn biểu diễn của anh ấy đứng đầu và vai trên phần còn lại."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be anxious and have the feeling that somebody is going to do something unpleasant or harmful to you",
+                    "vi": "lo lắng và có cảm giác rằng ai đó sẽ làm điều gì đó khó chịu hoặc có hại cho bạn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to treat somebody in a way that is not friendly",
+                    "vi": "đối xử với ai đó theo cách không thân thiện"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be sensitive about something that happened in the past and become easily offended if it is mentioned because you think that you were treated unfairly",
+                    "vi": "nhạy cảm về điều gì đó đã xảy ra trong quá khứ và dễ bị xúc phạm nếu nó được đề cập vì bạn nghĩ rằng bạn đã bị đối xử bất công"
+                },
+                "examples": [
+                    {
+                        "en": "He has a real chip on his shoulder about being adopted.",
+                        "vi": "Anh ấy có một con chip thực sự trên vai về việc được nhận làm con nuôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be a sensible person",
+                    "vi": "trở thành một người hợp lý"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used to describe a young person who acts in a more sensible way than you would expect for a person of their age",
+                    "vi": "được sử dụng để mô tả một người trẻ hành động theo cách hợp lý hơn bạn mong đợi đối với một người ở độ tuổi của họ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "if blame, guilt, etc. is on somebody’s shoulders, they must take responsibility for it",
+                    "vi": "nếu trách cứ, tội lỗi, v.v. đổ lên vai ai đó, họ phải chịu trách nhiệm về điều đó"
+                },
+                "examples": [
+                    {
+                        "en": "Stop trying to put the blame on somebody else’s shoulders.",
+                        "vi": "Đừng cố đổ lỗi lên vai người khác nữa."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to start working very hard at a particular task",
+                    "vi": "bắt đầu làm việc rất chăm chỉ trong một nhiệm vụ cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "Everyone is going to have to put their shoulder to the wheel.",
+                        "vi": "Mọi người sẽ phải đặt vai của họ vào bánh xe."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to meet and spend time with a famous person, socially or as part of your job",
+                    "vi": "gặp gỡ và dành thời gian với một người nổi tiếng, trên phương diện xã hội hoặc trong công việc của bạn"
+                },
+                "examples": [
+                    {
+                        "en": "He’s rubbing shoulders with stars all the time.",
+                        "vi": "Anh ấy luôn xoa vai với các vì sao."
+                    },
+                    {
+                        "en": "She had been rubbing elbows with celebrities.",
+                        "vi": "Cô ấy đã từng cọ xát với những người nổi tiếng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to describe a person who listens to your problems and gives you sympathy",
+                    "vi": "được sử dụng để mô tả một người lắng nghe vấn đề của bạn và thông cảm cho bạn"
+                },
+                "examples": [
+                    {
+                        "en": "He was a fatherly shoulder to cry on when things went wrong.",
+                        "vi": "Anh ấy là bờ vai của một người cha để em khóc khi mọi chuyện không như ý."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "physically close to somebody",
+                    "vi": "thân thiết với ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "The large crowd stood shoulder to shoulder in the stands.",
+                        "vi": "Đông đảo khán giả kề vai sát cánh trên khán đài."
+                    },
+                    {
+                        "en": "The route of the procession was lined with police officers standing shoulder to shoulder.",
+                        "vi": "Lộ trình của đoàn rước được xếp hàng ngang với các chiến sĩ cảnh sát sánh vai."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "as one group that has the same aims, opinions, etc.",
+                    "vi": "như một nhóm có cùng mục đích, quan điểm, v.v."
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "if you say something straight from the shoulder, you are being very honest and direct, even if what you are saying is critical",
+                    "vi": "nếu bạn nói điều gì đó thẳng thắn từ vai, bạn đang rất trung thực và trực tiếp, ngay cả khi điều bạn đang nói là chỉ trích"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "e29c097414f64e88bbb04a92e176255f",
+        "word": "fasten",
+        "pos": "verb",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈfɑːsn/",
+            "us": "/ˈfæsn/"
+        },
+        "nearby": [
+            {
+                "word": "fast break",
+                "pos": "noun"
+            },
+            {
+                "word": "fast breeder",
+                "pos": "noun"
+            },
+            {
+                "word": "fasten",
+                "pos": "verb"
+            },
+            {
+                "word": "fastener",
+                "pos": "noun"
+            },
+            {
+                "word": "fastening",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to close or join together the two parts of something; to become closed or joined together",
+                    "vi": "để đóng hoặc nối hai phần của một cái gì đó lại với nhau; trở nên khép kín hoặc kết hợp với nhau"
+                },
+                "examples": [
+                    {
+                        "en": "fasten something Fasten your seat belts, please.",
+                        "vi": "thắt chặt thứ gì đó Hãy thắt dây an toàn của bạn."
+                    },
+                    {
+                        "en": "Emma shivered and fastened the top button of her coat.",
+                        "vi": "Emma rùng mình và cài chặt nút trên cùng của áo khoác."
+                    },
+                    {
+                        "en": "fasten something up He fastened up his coat and hurried out.",
+                        "vi": "buộc chặt một thứ gì đó Anh buộc chặt áo khoác và vội vã ra ngoài."
+                    },
+                    {
+                        "en": "fasten (something) with something The garment is fastened with a sash.",
+                        "vi": "buộc chặt (một cái gì đó) bằng một cái gì đó Quần áo được buộc chặt bằng dây thắt lưng."
+                    },
+                    {
+                        "en": "fasten + adv./prep. The dress fastens at the back.",
+                        "vi": "fasten + adv./prep. Chiếc váy buộc dây ở phía sau."
+                    },
+                    {
+                        "en": "a short yellow skirt which fastens up the side.",
+                        "vi": "một chiếc váy ngắn màu vàng bó sát bên hông."
+                    },
+                    {
+                        "en": "The gown fastens down the front with Velcro.",
+                        "vi": "Chiếc áo choàng buộc xuống phía trước bằng Velcro."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to close something so that it will not open; to be closed in this way",
+                    "vi": "để đóng một cái gì đó để nó sẽ không mở ra; được đóng theo cách này"
+                },
+                "examples": [
+                    {
+                        "en": "Fasten the gates securely so that they do not blow open.",
+                        "vi": "Vặn chặt các cánh cổng để chúng không bị bung ra."
+                    },
+                    {
+                        "en": "Make sure all the exits are securely fastened.",
+                        "vi": "Đảm bảo rằng tất cả các lối ra đều được gắn chặt."
+                    },
+                    {
+                        "en": "The window wouldn't fasten.",
+                        "vi": "Cửa sổ sẽ không đóng chặt."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to fix something in a particular position",
+                    "vi": "để sửa một cái gì đó ở một vị trí cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "He fastened back the shutters.",
+                        "vi": "Anh buộc lại cửa chớp."
+                    },
+                    {
+                        "en": "Use the special kit provided to fasten the child seat in the car.",
+                        "vi": "Sử dụng bộ dụng cụ đặc biệt được cung cấp để buộc chặt ghế trẻ em trong ô tô."
+                    },
+                    {
+                        "en": "A gold locket was fastened around Eleanor's neck.",
+                        "vi": "Một chiếc mề đay bằng vàng được buộc chặt quanh cổ Eleanor."
+                    },
+                    {
+                        "en": "Each bundle of 100 votes was rolled up and fastened with a rubber band.",
+                        "vi": "Mỗi bó 100 phiếu được cuộn lại và buộc chặt bằng dây chun."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to attach or tie one thing to another thing",
+                    "vi": "để gắn hoặc buộc một thứ này với một thứ khác"
+                },
+                "examples": [
+                    {
+                        "en": "fasten A and B together He fastened the papers together with a paper clip.",
+                        "vi": "buộc chặt A và B lại với nhau Anh ta buộc chặt các tờ giấy lại với nhau bằng một cái kẹp giấy."
+                    },
+                    {
+                        "en": "fasten A to B She fastened the rope to a tree.",
+                        "vi": "buộc A với B Cô buộc dây vào một cái cây."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if you fasten your arms around somebody, your teeth into something, etc., or if your arms, teeth, etc. fasten around, into, etc. somebody/something, you hold the person/thing strongly with your arms, etc.",
+                    "vi": "nếu bạn siết chặt cánh tay của bạn xung quanh ai đó, răng của bạn vào một cái gì đó, v.v., hoặc nếu cánh tay, răng của bạn, v.v. siết chặt xung quanh, vào, v.v. ai đó / cái gì đó, bạn giữ mạnh người / vật bằng cánh tay của mình, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "fasten something + adv./prep. The dog fastened its teeth in his leg.",
+                        "vi": "buộc chặt cái gì đó + adv./prep. Con chó gắn chặt răng vào chân anh."
+                    },
+                    {
+                        "en": "+ adv./prep. His hand fastened on her arm.",
+                        "vi": "Err:509"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if you fasten your eyes on somebody/something or your eyes fasten on somebody/something, you look at them for a long time",
+                    "vi": "nếu bạn dán chặt mắt vào ai đó / cái gì đó hoặc mắt bạn dán chặt vào ai đó / cái gì đó, bạn nhìn họ rất lâu"
+                },
+                "examples": [
+                    {
+                        "en": "He fastened his gaze on her face.",
+                        "vi": "Anh dán chặt ánh mắt vào mặt cô."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a99073f4a5434d42bb88ea789b0caa01",
+        "word": "collar",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈkɒlə(r)/",
+            "us": "/ˈkɑːlər/"
+        },
+        "nearby": [
+            {
+                "word": "collapsed",
+                "pos": "adjective"
+            },
+            {
+                "word": "collapsible",
+                "pos": "adjective"
+            },
+            {
+                "word": "collar",
+                "pos": "noun"
+            },
+            {
+                "word": "collar",
+                "pos": "verb"
+            },
+            {
+                "word": "collarbone",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the part around the neck of a shirt, jacket or coat that usually folds down",
+                    "vi": "phần xung quanh cổ áo sơ mi, áo khoác hoặc áo khoác thường gập xuống"
+                },
+                "examples": [
+                    {
+                        "en": "a coat with a fur collar",
+                        "vi": "áo khoác có cổ lông"
+                    },
+                    {
+                        "en": "I turned up my collar against the wind (= to keep warm).",
+                        "vi": "Tôi lật cổ áo lên trước gió (= để giữ ấm)."
+                    },
+                    {
+                        "en": "He always wears a collar and tie for work.",
+                        "vi": "Anh ấy luôn đeo cổ và cà vạt khi đi làm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a band of leather or plastic put around the neck of an animal, especially a dog",
+                    "vi": "một dải da hoặc nhựa quấn quanh cổ động vật, đặc biệt là chó"
+                },
+                "examples": [
+                    {
+                        "en": "a collar and lead/leash",
+                        "vi": "cổ áo và dây buộc / dây buộc"
+                    },
+                    {
+                        "en": "The dog slipped its collar and ran off.",
+                        "vi": "Con chó tuột cổ áo và bỏ chạy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a band made of a strong material that is put round something, such as a pipe or a machine, to make it stronger or to join two parts together",
+                    "vi": "một dải làm bằng vật liệu chắc chắn được đặt quanh một thứ gì đó, chẳng hạn như ống hoặc máy, để làm cho nó chắc hơn hoặc nối hai phần lại với nhau"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "angry or embarrassed",
+                    "vi": "tức giận hoặc xấu hổ"
+                },
+                "examples": [
+                    {
+                        "en": "He got very hot under the collar when I asked him where he'd been all day.",
+                        "vi": "Anh ấy rất nóng dưới cổ áo khi tôi hỏi anh ấy đã ở đâu cả ngày."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "566bb916a006469ba9b48b10bbe6f97f",
+        "word": "lining",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈlaɪnɪŋ/",
+            "us": "/ˈlaɪnɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "linguistics",
+                "pos": "noun"
+            },
+            {
+                "word": "liniment",
+                "pos": "noun"
+            },
+            {
+                "word": "lining",
+                "pos": "noun"
+            },
+            {
+                "word": "link",
+                "pos": "noun"
+            },
+            {
+                "word": "link",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a layer of material used to cover the inside surface of something",
+                    "vi": "một lớp vật liệu được sử dụng để bao phủ bề mặt bên trong của một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "a pair of leather gloves with fur linings",
+                        "vi": "một đôi găng tay da có lót lông"
+                    },
+                    {
+                        "en": "Pin the lining to the outer fabric.",
+                        "vi": "Ghim tấm vải lót vào lớp vải bên ngoài."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the layer that covers the inner surface of a part of the body",
+                    "vi": "lớp bao phủ bề mặt bên trong của một phần cơ thể"
+                },
+                "examples": [
+                    {
+                        "en": "the stomach lining",
+                        "vi": "niêm mạc dạ dày"
+                    },
+                    {
+                        "en": "the lining of the womb",
+                        "vi": "niêm mạc tử cung"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "every sad or difficult situation has a positive side",
+                    "vi": "mọi hoàn cảnh buồn hay khó khăn đều có mặt tích cực"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "db59a43abd994cc49af7025e1f7d7d9f",
+        "word": "sleeve",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/sliːv/",
+            "us": "/sliːv/"
+        },
+        "nearby": [
+            {
+                "word": "sleet",
+                "pos": "noun"
+            },
+            {
+                "word": "sleet",
+                "pos": "verb"
+            },
+            {
+                "word": "sleeve",
+                "pos": "noun"
+            },
+            {
+                "word": "sleeveless",
+                "pos": "adjective"
+            },
+            {
+                "word": "sleeve note",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a part of a piece of clothing that covers all or part of your arm",
+                    "vi": "một phần của quần áo che toàn bộ hoặc một phần cánh tay của bạn"
+                },
+                "examples": [
+                    {
+                        "en": "a dress with short/long sleeves",
+                        "vi": "một chiếc váy có tay ngắn / dài"
+                    },
+                    {
+                        "en": "Dan rolled up his sleeves and washed his hands.",
+                        "vi": "Đan xăn tay áo rửa tay."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "having sleeves of the type mentioned",
+                    "vi": "có tay áo của loại được đề cập"
+                },
+                "examples": [
+                    {
+                        "en": "a short-sleeved shirt",
+                        "vi": "Một chiếc áo sơ mi ngắn tay"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a stiff paper cover for a record",
+                    "vi": "một bìa giấy cứng để ghi lại"
+                },
+                "examples": [
+                    {
+                        "en": "a colourful sleeve design",
+                        "vi": "một thiết kế tay áo đầy màu sắc"
+                    },
+                    {
+                        "en": "He designed record sleeves for the Rolling Stones.",
+                        "vi": "Anh ấy đã thiết kế tay áo kỷ lục cho Rolling Stones."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a tube that covers a part of a machine to protect it",
+                    "vi": "một ống bao phủ một bộ phận của máy để bảo vệ nó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a secret advantage, for example a piece of information or a skill, that you are ready to use if you need to",
+                    "vi": "một lợi thế bí mật, ví dụ như một phần thông tin hoặc một kỹ năng, mà bạn sẵn sàng sử dụng nếu bạn cần"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to have an idea, a plan, etc. that will give you an advantage in a particular situation and that you keep secret until it is needed",
+                    "vi": "để có một ý tưởng, một kế hoạch, v.v. sẽ mang lại lợi thế cho bạn trong một tình huống cụ thể và bạn giữ bí mật cho đến khi cần"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to have an idea, some plans, etc. that you keep ready to use if it becomes necessary",
+                    "vi": "để có một ý tưởng, một số kế hoạch, v.v. mà bạn luôn sẵn sàng sử dụng nếu nó trở nên cần thiết"
+                },
+                "examples": [
+                    {
+                        "en": "I have a few tricks up my sleeve.",
+                        "vi": "Tôi có một vài thủ thuật trong tay áo của tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to keep a plan or an idea secret until you need to use it",
+                    "vi": "để giữ bí mật một kế hoạch hoặc một ý tưởng cho đến khi bạn cần sử dụng nó"
+                },
+                "examples": [
+                    {
+                        "en": "Actually I do have a few ideas up my sleeve.",
+                        "vi": "Trên thực tế, tôi có một vài ý tưởng trong tay áo của tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to secretly think that something is funny",
+                    "vi": "thầm nghĩ rằng điều gì đó thật vui nhộn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to prepare to work or fight",
+                    "vi": "để chuẩn bị làm việc hoặc chiến đấu"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to allow your feelings to be seen by other people",
+                    "vi": "để cho phép người khác nhìn thấy cảm xúc của bạn"
+                },
+                "examples": [
+                    {
+                        "en": "He’s not one to wear his heart on his sleeve.",
+                        "vi": "Anh ấy không phải là người để mặc trái tim của mình trên tay áo của mình."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c335f5fd225c4f9987becfa758f2513d",
+        "word": "zip",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/zɪp/",
+            "us": "/zɪp/"
+        },
+        "nearby": [
+            {
+                "word": "Zionist",
+                "pos": "adjective"
+            },
+            {
+                "word": "Zion National Park",
+                "pos": ""
+            },
+            {
+                "word": "zip",
+                "pos": "noun"
+            },
+            {
+                "word": "zip",
+                "pos": "verb"
+            },
+            {
+                "word": "zip code",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a thing that you use to fasten clothes, bags, etc. It consists of two rows of metal or plastic teeth that you can pull together to close something or pull apart to open it.",
+                    "vi": "một thứ mà bạn dùng để buộc chặt quần áo, túi xách, v.v. Nó bao gồm hai hàng răng bằng kim loại hoặc nhựa mà bạn có thể kéo lại với nhau để đóng một thứ gì đó hoặc kéo ra để mở nó."
+                },
+                "examples": [
+                    {
+                        "en": "to do up/undo/open/close a zip",
+                        "vi": "thực hiện / hoàn tác / mở / đóng một zip"
+                    },
+                    {
+                        "en": "My zip's stuck.",
+                        "vi": "Mã zip của tôi bị kẹt."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "energy or speed",
+                    "vi": "năng lượng hoặc tốc độ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "nothing",
+                    "vi": "Không có gì"
+                },
+                "examples": [
+                    {
+                        "en": "We won four zip (= 4–0).",
+                        "vi": "Chúng tôi đã thắng bốn zip (= 4–0)."
+                    },
+                    {
+                        "en": "He said zip all evening.",
+                        "vi": "Anh ấy nói zip cả buổi tối."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e693bd696e8343b39a2d5e358d579f6a",
+        "word": "bow",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/bəʊ/",
+            "us": "/bəʊ/"
+        },
+        "nearby": [
+            {
+                "word": "bow1",
+                "pos": "verb"
+            },
+            {
+                "word": "bow1",
+                "pos": "noun"
+            },
+            {
+                "word": "bow2",
+                "pos": "noun"
+            },
+            {
+                "word": "bow2",
+                "pos": "verb"
+            },
+            {
+                "word": "Clara Bow",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a weapon used for shooting arrows, consisting of a long curved piece of wood or metal with a tight string joining its ends",
+                    "vi": "một vũ khí được sử dụng để bắn tên, bao gồm một mảnh gỗ hoặc kim loại dài cong với một sợi dây chặt chẽ nối các đầu của nó"
+                },
+                "examples": [
+                    {
+                        "en": "He was armed with a bow and arrow.",
+                        "vi": "Anh ta được trang bị cung tên."
+                    },
+                    {
+                        "en": "She drew and aimed her bow.",
+                        "vi": "Cô ấy vẽ và nhắm vào cây cung của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a knot with two loops and two loose ends which is used for decoration on clothes, in hair, etc. or for tying shoes",
+                    "vi": "một nút thắt với hai vòng và hai đầu rời dùng để trang trí trên quần áo, trên tóc, v.v. hoặc để buộc giày"
+                },
+                "examples": [
+                    {
+                        "en": "to tie your shoelaces in a bow",
+                        "vi": "buộc dây giày của bạn trong một chiếc nơ"
+                    },
+                    {
+                        "en": "Her hair was tied back in a neat bow.",
+                        "vi": "Tóc cô được buộc lại thành một chiếc nơ gọn gàng."
+                    },
+                    {
+                        "en": "a dress decorated with bows and ribbons",
+                        "vi": "một chiếc váy được trang trí bằng nơ và ruy băng"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a long thin piece of wood with thin string stretched along it, used for playing musical instruments such as the violin",
+                    "vi": "một miếng gỗ mỏng dài với dây mảnh kéo dài dọc theo nó, được sử dụng để chơi các nhạc cụ như đàn vi-ô-lông"
+                },
+                "examples": [
+                    {
+                        "en": "She drew the bow across the strings.",
+                        "vi": "Cô vẽ chiếc nơ trên dây."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to have more than one skill or plan that you can use if you need to",
+                    "vi": "có nhiều kỹ năng hoặc kế hoạch mà bạn có thể sử dụng nếu cần"
+                },
+                "examples": [
+                    {
+                        "en": "The exhibition shows that he has other strings to his artistic bow.",
+                        "vi": "Triển lãm cho thấy anh ấy có những sợi dây khác với cung nghệ thuật của mình."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f1492d6b5ae34018b65155cc73c56f26",
+        "word": "buckle",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈbʌkl/",
+            "us": "/ˈbʌkl/"
+        },
+        "nearby": [
+            {
+                "word": "Buckinghamshire",
+                "pos": ""
+            },
+            {
+                "word": "buckle",
+                "pos": "verb"
+            },
+            {
+                "word": "buckle",
+                "pos": "noun"
+            },
+            {
+                "word": "buckle down",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "buckle up",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a piece of metal or plastic used for joining the ends of a belt or for fastening a part of a bag, shoe, etc.",
+                    "vi": "một miếng kim loại hoặc nhựa được sử dụng để nối các đầu của thắt lưng hoặc để buộc một phần của túi, giày, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "shoes with silver buckles",
+                        "vi": "giày có khóa bạc"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "74ac58192d274c1fa40470a5a06fb9f0",
+        "word": "cuff",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/kʌf/",
+            "us": "/kʌf/"
+        },
+        "nearby": [
+            {
+                "word": "cue ball",
+                "pos": "noun"
+            },
+            {
+                "word": "cue card",
+                "pos": "noun"
+            },
+            {
+                "word": "cuff",
+                "pos": "noun"
+            },
+            {
+                "word": "cuff",
+                "pos": "verb"
+            },
+            {
+                "word": "cufflink",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the lower end of a coat or shirt sleeve at the wrist",
+                    "vi": "đầu dưới của áo khoác hoặc tay áo sơ mi ở cổ tay"
+                },
+                "examples": [
+                    {
+                        "en": "a collar and cuffs of white lace",
+                        "vi": "cổ áo và cổ tay áo bằng ren trắng"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "handcuffs (= a pair of metal rings joined by a chain, used for holding the wrists of a prisoner together)",
+                    "vi": "còng tay (= một cặp vòng kim loại nối với nhau bằng dây xích, dùng để giữ cổ tay của tù nhân lại với nhau)"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the bottom of the leg of a pair of trousers that has been folded over on the outside",
+                    "vi": "phần dưới của ống quần đã được gấp lại ở bên ngoài."
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a light hit with an open hand",
+                    "vi": "một cú đánh nhẹ với bàn tay mở"
+                },
+                "examples": [
+                    {
+                        "en": "to give somebody a friendly cuff",
+                        "vi": "tặng ai đó một chiếc còng thân thiện"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "without previous thought or preparation",
+                    "vi": "mà không cần suy nghĩ hoặc chuẩn bị trước"
+                },
+                "examples": [
+                    {
+                        "en": "I'm just speaking off the cuff here—I haven't seen the results yet.",
+                        "vi": "Tôi chỉ nói sơ qua ở đây — tôi chưa thấy kết quả."
+                    },
+                    {
+                        "en": "an off-the-cuff remark",
+                        "vi": "một nhận xét lạc quan"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2bc68e006d964db9bcabfee2a3b93dfc",
+        "word": "fastener",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈfɑːsnə(r)/",
+            "us": "/ˈfæsnər/"
+        },
+        "nearby": [
+            {
+                "word": "fast breeder",
+                "pos": "noun"
+            },
+            {
+                "word": "fasten",
+                "pos": "verb"
+            },
+            {
+                "word": "fastener",
+                "pos": "noun"
+            },
+            {
+                "word": "fastening",
+                "pos": "noun"
+            },
+            {
+                "word": "fasten on",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a device, such as a button or a zip, used to close a piece of clothing; a device used to close a window, bag, etc. tightly",
+                    "vi": "một thiết bị, chẳng hạn như một cái cúc hoặc một cái zip, được sử dụng để đóng một mảnh quần áo; một thiết bị dùng để đóng chặt cửa sổ, túi xách, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "buttons, zippers and other fasteners",
+                        "vi": "nút, khóa kéo và các dây buộc khác"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "48ed316ffa3b42db94caac5c6d43e6e1",
+        "word": "fly",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/flaɪ/",
+            "us": "/flaɪ/"
+        },
+        "nearby": [
+            {
+                "word": "fly-drive",
+                "pos": "noun"
+            },
+            {
+                "word": "fly",
+                "pos": "verb"
+            },
+            {
+                "word": "fly",
+                "pos": "noun"
+            },
+            {
+                "word": "fly",
+                "pos": "adjective"
+            },
+            {
+                "word": "fly agaric",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small flying insect with two wings. There are many different types of fly and many of them spread disease.",
+                    "vi": "một con côn trùng bay nhỏ với hai cánh. Có nhiều loại ruồi khác nhau và nhiều loại trong số chúng truyền bệnh."
+                },
+                "examples": [
+                    {
+                        "en": "A fly was buzzing against the window.",
+                        "vi": "Một con ruồi bay vo ve trên cửa sổ."
+                    },
+                    {
+                        "en": "Flies rose in thick black swarms.",
+                        "vi": "Ruồi bay thành từng bầy dày đen."
+                    },
+                    {
+                        "en": "A fly settled on the butter.",
+                        "vi": "Một con ruồi đậu trên bơ."
+                    },
+                    {
+                        "en": "I swatted the fly with a newspaper.",
+                        "vi": "Tôi đánh ruồi bằng một tờ báo."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a fly or something made to look like a fly, that is put on the end of a fishing line and used as bait to catch fish",
+                    "vi": "một con ruồi hoặc một cái gì đó được làm giống ruồi, được đặt ở cuối dây câu và dùng làm mồi để bắt cá"
+                },
+                "examples": [
+                    {
+                        "en": "fly fishing",
+                        "vi": "bay câu cá"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an opening down the front of a pair of trousers that fastens with a zip or buttons and is usually covered over by a narrow piece of material",
+                    "vi": "một phần mở xuống phía trước của một chiếc quần được buộc bằng khóa hoặc cúc và thường được che phủ bởi một mảnh vật liệu hẹp"
+                },
+                "examples": [
+                    {
+                        "en": "Your fly is undone!",
+                        "vi": "Con ruồi của bạn đã được hoàn tác!"
+                    },
+                    {
+                        "en": "Your flies are undone!",
+                        "vi": "Ruồi của bạn đã được hoàn tác!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a piece of material that covers the entrance to a tent",
+                    "vi": "một mảnh vật liệu che lối vào lều"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a ball that is hit high into the air",
+                    "vi": "một quả bóng được đánh lên cao vào không trung"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to die or become ill and fall down in very large numbers",
+                    "vi": "chết hoặc bị bệnh và ngã xuống với số lượng rất lớn"
+                },
+                "examples": [
+                    {
+                        "en": "People were dropping like flies in the intense heat.",
+                        "vi": "Mọi người đang thả mình như ruồi trong cái nóng gay gắt."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person or thing that makes a situation or an occasion less pleasant, successful, etc.",
+                    "vi": "một người hoặc một việc làm cho một tình huống hoặc một dịp kém vui vẻ, thành công, v.v."
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person who watches others without being noticed",
+                    "vi": "một người quan sát người khác mà không bị chú ý"
+                },
+                "examples": [
+                    {
+                        "en": "I'd love to be a fly on the wall when he tells her the news.",
+                        "vi": "Tôi thích trở thành một con ruồi trên tường khi anh ấy nói với cô ấy tin tức."
+                    },
+                    {
+                        "en": "fly-on-the-wall documentaries (= in which people are filmed going about their normal lives as if the camera were not there)",
+                        "vi": "phim tài liệu bay trên tường (= trong đó mọi người được quay về cuộc sống bình thường của họ như thể không có máy quay)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the person mentioned is clever and not easily tricked",
+                    "vi": "người được đề cập thông minh và không dễ bị lừa"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be kind and gentle and unwilling to cause unhappiness",
+                    "vi": "tử tế và nhẹ nhàng và không muốn gây ra bất hạnh"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "if you do something on the fly, you do it quickly while something else is happening, and without thinking about it very much",
+                    "vi": "nếu bạn làm điều gì đó một cách nhanh chóng, bạn làm điều đó nhanh chóng trong khi điều gì đó khác đang xảy ra và không cần suy nghĩ về nó nhiều"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "while a computer program or application is operating, without completely restarting it",
+                    "vi": "trong khi một chương trình hoặc ứng dụng máy tính đang hoạt động mà không cần khởi động lại hoàn toàn"
+                },
+                "examples": [
+                    {
+                        "en": "Now, while I'm on the desktop, I can switch between open apps on the fly.",
+                        "vi": "Giờ đây, khi đang sử dụng máy tính để bàn, tôi có thể chuyển đổi nhanh chóng giữa các ứng dụng đang mở."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f1f15c7c79384a3cb5c44d84bf81f475",
+        "word": "hood",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/hʊd/",
+            "us": "/hʊd/"
+        },
+        "nearby": [
+            {
+                "word": "Hons",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "hooch",
+                "pos": "noun"
+            },
+            {
+                "word": "hood",
+                "pos": "noun"
+            },
+            {
+                "word": "-hood",
+                "pos": "suffix"
+            },
+            {
+                "word": "hooded",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a part of a coat, etc. that you can pull up to cover the back and top of your head",
+                    "vi": "một phần của áo khoác, v.v. mà bạn có thể kéo lên để che phía sau và đỉnh đầu của mình"
+                },
+                "examples": [
+                    {
+                        "en": "a jacket with a detachable hood",
+                        "vi": "áo khoác có mũ trùm đầu có thể tháo rời"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a piece of cloth put over somebody’s face and head so that they cannot be recognized or so that they cannot see",
+                    "vi": "một mảnh vải trùm lên mặt và đầu của ai đó để không thể nhận ra họ hoặc để họ không thể nhìn thấy"
+                },
+                "examples": [
+                    {
+                        "en": "The victim was sitting tied to a chair with a black hood over her head.",
+                        "vi": "Nạn nhân đang ngồi bị trói vào một chiếc ghế với chiếc mũ trùm đầu màu đen."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a piece of coloured silk or fur worn over an academic gown to show the kind of degree held by the person wearing it",
+                    "vi": "một mảnh lụa màu hoặc lông thú khoác trên áo choàng học thuật để thể hiện loại bằng cấp của người mặc nó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a folding cover over a car, child's buggy, etc.",
+                    "vi": "một tấm bìa gấp trên ô tô, xe đẩy của trẻ em, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "We drove all the way with the hood down.",
+                        "vi": "Chúng tôi đã lái xe suốt chặng đường với mui xe được hạ xuống."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the metal part over the front of a vehicle, usually covering the engine",
+                    "vi": "phần kim loại phía trước xe, thường bao phủ động cơ"
+                },
+                "examples": [
+                    {
+                        "en": "the sound of a bird hitting the hood of the car",
+                        "vi": "tiếng chim va vào mui xe"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a cover placed over a device or machine, for example, to protect it",
+                    "vi": "ví dụ như một tấm che được đặt trên một thiết bị hoặc máy móc để bảo vệ nó"
+                },
+                "examples": [
+                    {
+                        "en": "a lens hood",
+                        "vi": "một loa che nắng"
+                    },
+                    {
+                        "en": "an extractor hood (= one that removes cooking smells from a kitchen)",
+                        "vi": "máy hút mùi (= máy hút mùi loại bỏ mùi nấu ăn trong nhà bếp)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "hoodlum (= a violent criminal, especially one who is part of a gang)",
+                    "vi": "lưu manh (= một tên tội phạm bạo lực, đặc biệt là một phần của băng đảng)"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a neighbourhood, especially a person’s own neighbourhood",
+                    "vi": "một vùng lân cận, đặc biệt là vùng lân cận của một người"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "at the fundamental level of how something works rather than at the obvious surface level",
+                    "vi": "ở cấp độ cơ bản về cách một thứ hoạt động hơn là ở cấp độ bề mặt rõ ràng"
+                },
+                "examples": [
+                    {
+                        "en": "They are urging potential job seekers to take a look under the hood of industry.",
+                        "vi": "Họ đang kêu gọi những người tìm việc tiềm năng xem xét kỹ năng của ngành."
+                    },
+                    {
+                        "en": "If you look under the hood of these these technological wonders, you'll find carbon fibre components in many places.",
+                        "vi": "Nếu bạn nhìn dưới mui xe của những kỳ quan công nghệ này, bạn sẽ tìm thấy các thành phần sợi carbon ở nhiều nơi."
+                    },
+                    {
+                        "en": "The latest version includes numerous under-the-hood improvements.",
+                        "vi": "Phiên bản mới nhất bao gồm nhiều cải tiến dưới mui xe."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ed1ba276e7ea47788edf8e0cdf5488c9",
+        "word": "shoulder pad",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈʃəʊldə pæd/",
+            "us": "/ˈʃəʊldər pæd/"
+        },
+        "nearby": [
+            {
+                "word": "shoulder-high",
+                "pos": "adjective, adverb"
+            },
+            {
+                "word": "shoulder-length",
+                "pos": "adjective"
+            },
+            {
+                "word": "shoulder pad",
+                "pos": "noun"
+            },
+            {
+                "word": "shoulder strap",
+                "pos": "noun"
+            },
+            {
+                "word": "shoulder surfing",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small piece of thick cloth that is sewn into the shoulder of a dress, jacket, etc. to make a person’s shoulders look bigger",
+                    "vi": "Một mảnh vải dày nhỏ được may vào vai của váy, áo khoác, ... để làm cho vai của một người trông to hơn."
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a piece of hard plastic that people wear under their shirts to protect their shoulders when playing American football, ice hockey, etc.",
+                    "vi": "một miếng nhựa cứng mà mọi người mặc dưới áo để bảo vệ vai khi chơi bóng bầu dục Mỹ, khúc côn cầu trên băng, v.v."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "376caa341e694f9eaee8327de2d43dd9",
+        "word": "strap",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/stræp/",
+            "us": "/stræp/"
+        },
+        "nearby": [
+            {
+                "word": "strangulated",
+                "pos": "adjective"
+            },
+            {
+                "word": "strangulation",
+                "pos": "noun"
+            },
+            {
+                "word": "strap",
+                "pos": "noun"
+            },
+            {
+                "word": "strap",
+                "pos": "verb"
+            },
+            {
+                "word": "strapless",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a narrow piece of leather, cloth or other material that is used to fasten something, keep something in place, carry something or hold onto something",
+                    "vi": "một mảnh da, vải hoặc vật liệu hẹp khác được sử dụng để buộc chặt một thứ gì đó, giữ một thứ gì đó ở đúng vị trí, mang một thứ gì đó hoặc giữ chặt một thứ gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "the shoulder straps of her dress",
+                        "vi": "dây vai của váy"
+                    },
+                    {
+                        "en": "a watch with a leather strap",
+                        "vi": "một chiếc đồng hồ có dây da"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4afed10dfa3241c9b934392a36cd1126",
+        "word": "waistline",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈweɪstlaɪn/",
+            "us": "/ˈweɪstlaɪn/"
+        },
+        "nearby": [
+            {
+                "word": "waist-deep",
+                "pos": "adjective, adverb"
+            },
+            {
+                "word": "waist-high",
+                "pos": "adjective, adverb"
+            },
+            {
+                "word": "waistline",
+                "pos": "noun"
+            },
+            {
+                "word": "wait",
+                "pos": "verb"
+            },
+            {
+                "word": "wait",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the amount that a person measures around the middle part of their body, used to talk about how fat or thin they are",
+                    "vi": "số lượng mà một người đo xung quanh phần giữa cơ thể của họ, được sử dụng để nói về mức độ béo hay gầy của họ"
+                },
+                "examples": [
+                    {
+                        "en": "an expanding waistline",
+                        "vi": "vòng eo nở nang"
+                    },
+                    {
+                        "en": "All this butter and cream won’t do much for my waistline.",
+                        "vi": "Tất cả bơ và kem này sẽ không giúp ích nhiều cho vòng eo của tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the part of a piece of clothing where your waist is",
+                    "vi": "phần của một mảnh quần áo nơi eo của bạn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "0719fbb0434640c2aa8198211abcb71c",
+        "word": "bodice",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbɒdɪs/",
+            "us": "/ˈbɑːdɪs/"
+        },
+        "nearby": [
+            {
+                "word": "Bodhisattva",
+                "pos": "noun"
+            },
+            {
+                "word": "bodhrán",
+                "pos": "noun"
+            },
+            {
+                "word": "bodice",
+                "pos": "noun"
+            },
+            {
+                "word": "bodice-ripper",
+                "pos": "noun"
+            },
+            {
+                "word": "bodily",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the top part of a dress, above the middle part of the body",
+                    "vi": "phần trên của một chiếc váy, phía trên phần giữa của cơ thể"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "04a57383e5744e9297b71bd926c9be64",
+        "word": "buttonhole",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbʌtnhəʊl/",
+            "us": "/ˈbʌtnhəʊl/"
+        },
+        "nearby": [
+            {
+                "word": "button-down",
+                "pos": "adjective"
+            },
+            {
+                "word": "buttoned-up",
+                "pos": "adjective"
+            },
+            {
+                "word": "buttonhole",
+                "pos": "noun"
+            },
+            {
+                "word": "buttonhole",
+                "pos": "verb"
+            },
+            {
+                "word": "button lift",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a hole on a piece of clothing for a button to be put through",
+                    "vi": "một lỗ trên quần áo để cài cúc áo"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a flower that is worn in the buttonhole of a coat or jacket",
+                    "vi": "một bông hoa được mặc trong lỗ của áo khoác hoặc áo khoác"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "a017e4f9aa1f44789021a3c8a07cf10b",
+        "word": "crew neck",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌkruː ˈnek/",
+            "us": "/ˌkruː ˈnek/"
+        },
+        "nearby": [
+            {
+                "word": "Crewe",
+                "pos": ""
+            },
+            {
+                "word": "crewman",
+                "pos": "noun"
+            },
+            {
+                "word": "crew neck",
+                "pos": "noun"
+            },
+            {
+                "word": "crib",
+                "pos": "noun"
+            },
+            {
+                "word": "crib",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a round neck on a sweater, etc.; a sweater with a round neck",
+                    "vi": "cổ tròn trên áo len, v.v ...; áo len cổ tròn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "44bc90356bd44927a29e3e959d3f8067",
+        "word": "halter",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈhɔːltə(r)/",
+            "us": "/ˈhɔːltər/"
+        },
+        "nearby": [
+            {
+                "word": "halt",
+                "pos": "verb"
+            },
+            {
+                "word": "halt",
+                "pos": "noun"
+            },
+            {
+                "word": "halter",
+                "pos": "noun"
+            },
+            {
+                "word": "halting",
+                "pos": "adjective"
+            },
+            {
+                "word": "haltingly",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a rope or narrow piece of leather put around the head of a horse or other animal for leading it with",
+                    "vi": "một sợi dây hoặc mảnh da hẹp quấn quanh đầu của một con ngựa hoặc con vật khác để dắt nó đi cùng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a narrow piece of cloth around the neck that holds a dress or shirt in position, with the back and shoulders not covered",
+                    "vi": "một mảnh vải hẹp quanh cổ để giữ cố định váy hoặc áo sơ mi, không che lưng và vai"
+                },
+                "examples": [
+                    {
+                        "en": "She was dressed in a halter top and shorts.",
+                        "vi": "Cô mặc áo hai dây và quần đùi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "d28d8d642f6d4a2faf086dbd951a0352",
+        "word": "hem",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/hem/",
+            "us": "/hem/"
+        },
+        "nearby": [
+            {
+                "word": "helter-skelter",
+                "pos": "noun"
+            },
+            {
+                "word": "helter-skelter",
+                "pos": "adverb"
+            },
+            {
+                "word": "hem",
+                "pos": "noun"
+            },
+            {
+                "word": "hem",
+                "pos": "verb"
+            },
+            {
+                "word": "he-man",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the edge of a piece of cloth that has been turned under and sewn, especially on a piece of clothing",
+                    "vi": "mép của mảnh vải đã được lộn dưới và khâu lại, đặc biệt là trên một mảnh quần áo"
+                },
+                "examples": [
+                    {
+                        "en": "to take up the hem of a dress (= to make the dress shorter)",
+                        "vi": "để chiếm đường viền của chiếc váy (= để làm cho chiếc váy ngắn hơn)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "96dc413a290b47fa919459be2848e59a",
+        "word": "polo neck",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpəʊləʊ nek/",
+            "us": "/ˈpəʊləʊ nek/"
+        },
+        "nearby": [
+            {
+                "word": "Polo",
+                "pos": ""
+            },
+            {
+                "word": "polonaise",
+                "pos": "noun"
+            },
+            {
+                "word": "polo neck",
+                "pos": "noun"
+            },
+            {
+                "word": "polonium",
+                "pos": "noun"
+            },
+            {
+                "word": "polo shirt",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a high round collar made when the neck of a piece of clothing is folded over; a piece of clothing with a polo neck",
+                    "vi": "cổ áo tròn cao được tạo ra khi cổ của một bộ quần áo được gấp lại; một bộ quần áo có cổ polo"
+                },
+                "examples": [
+                    {
+                        "en": "a polo-neck sweater",
+                        "vi": "áo len cổ lọ"
+                    },
+                    {
+                        "en": "You can wear a polo neck with that jacket.",
+                        "vi": "Bạn có thể mặc áo khoác có cổ polo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "b5cf20c0ab464f6896574dae087fe4d5",
+        "word": "suspender",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/səˈspendə(r)/",
+            "us": "/səˈspendər/"
+        },
+        "nearby": [
+            {
+                "word": "suspended animation",
+                "pos": "noun"
+            },
+            {
+                "word": "suspended sentence",
+                "pos": "noun"
+            },
+            {
+                "word": "suspender",
+                "pos": "noun"
+            },
+            {
+                "word": "suspender belt",
+                "pos": "noun"
+            },
+            {
+                "word": "suspense",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a piece of elastic attached to a belt and fastened to the top of a stocking to hold it up",
+                    "vi": "một mảnh đàn hồi gắn vào thắt lưng và buộc chặt vào đầu tất để giữ cố định"
+                },
+                "examples": [
+                    {
+                        "en": "She performed the act in stockings and suspenders.",
+                        "vi": "Cô ấy biểu diễn màn trong tất chân và dây treo."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "long narrow pieces of cloth, leather, etc. for holding trousers up. They are fastened to the top of the trousers at the front and back and passed over the shoulders.",
+                    "vi": "mảnh vải dài hẹp, da, v.v. để giữ quần lên. Chúng được buộc chặt vào đầu quần ở phía trước và phía sau và chuyền qua vai."
+                },
+                "examples": [
+                    {
+                        "en": "The suspenders held up his trousers.",
+                        "vi": "Những người treo cổ giữ quần của anh ta."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "bb6f3e8bdf72483996e749799b53e6ed",
+        "word": "toggle",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtɒɡl/",
+            "us": "/ˈtɑːɡl/"
+        },
+        "nearby": [
+            {
+                "word": "together",
+                "pos": "adjective"
+            },
+            {
+                "word": "togetherness",
+                "pos": "noun"
+            },
+            {
+                "word": "toggle",
+                "pos": "noun"
+            },
+            {
+                "word": "toggle",
+                "pos": "verb"
+            },
+            {
+                "word": "toggle switch",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a short piece of wood, plastic, etc. that is put through a loop of thread to fasten something, such as a coat or bag, instead of a button",
+                    "vi": "một đoạn gỗ ngắn, nhựa, v.v. được luồn qua một vòng sợi để buộc chặt thứ gì đó, chẳng hạn như áo khoác hoặc túi, thay vì nút"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a key on a computer that you press to change from one style or operation to another, and back again",
+                    "vi": "một phím trên máy tính mà bạn nhấn để thay đổi từ kiểu hoặc thao tác này sang kiểu hoặc thao tác khác và quay lại lần nữa"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "51f85037c5fc4d1ea1c7d630d8aa38c2",
+        "word": "V-neck",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈviː nek/",
+            "us": "/ˈviː nek/"
+        },
+        "nearby": [
+            {
+                "word": "vlogging",
+                "pos": "noun"
+            },
+            {
+                "word": "V-mail",
+                "pos": "noun"
+            },
+            {
+                "word": "V-neck",
+                "pos": "noun"
+            },
+            {
+                "word": "V-necked",
+                "pos": "adjective"
+            },
+            {
+                "word": "VOA",
+                "pos": "abbreviation"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an opening for the neck in a piece of clothing that has a shape like the letter V; a piece of clothing with a V-neck",
+                    "vi": "một lỗ hở cho cổ trong một bộ quần áo có hình dạng như chữ V; một bộ quần áo có cổ chữ V"
+                },
+                "examples": [
+                    {
+                        "en": "He was wearing a black V-neck sweater.",
+                        "vi": "Anh ấy đang mặc một chiếc áo len cổ chữ V màu đen."
+                    },
+                    {
+                        "en": "a navy V-neck",
+                        "vi": "cổ chữ V màu xanh nước biển"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "90f0b93c18884987a04d3036634ec5c5",
+        "word": "waistband",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈweɪstbænd/",
+            "us": "/ˈweɪstbænd/"
+        },
+        "nearby": [
+            {
+                "word": "Alfred Wainwright",
+                "pos": ""
+            },
+            {
+                "word": "waist",
+                "pos": "noun"
+            },
+            {
+                "word": "waistband",
+                "pos": "noun"
+            },
+            {
+                "word": "waistcoat",
+                "pos": "noun"
+            },
+            {
+                "word": "waist-deep",
+                "pos": "adjective, adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the piece of cloth that forms the waist of a piece of clothing, especially at the top of a skirt or pair of trousers",
+                    "vi": "mảnh vải tạo thành eo của một mảnh quần áo, đặc biệt là ở phần trên cùng của váy hoặc quần"
+                },
+                "examples": [
+                    {
+                        "en": "an elasticated waistband",
+                        "vi": "một dây thắt lưng đàn hồi"
+                    }
+                ]
+            }
+        ]
+    }
+]

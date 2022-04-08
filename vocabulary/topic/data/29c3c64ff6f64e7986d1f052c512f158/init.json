@@ -1,0 +1,5429 @@
+[
+    {
+        "id": "1ae812b1cb0d42269490e519890bb17c",
+        "word": "floor",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/flɔː(r)/",
+            "us": "/flɔːr/"
+        },
+        "nearby": [
+            {
+                "word": "flood tide",
+                "pos": "noun"
+            },
+            {
+                "word": "floodwater",
+                "pos": "noun"
+            },
+            {
+                "word": "floor",
+                "pos": "noun"
+            },
+            {
+                "word": "floor",
+                "pos": "verb"
+            },
+            {
+                "word": "floorboard",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the surface of a room that you walk on",
+                    "vi": "bề mặt của một căn phòng mà bạn đi qua"
+                },
+                "examples": [
+                    {
+                        "en": "a wooden/concrete/tiled floor",
+                        "vi": "sàn gỗ / bê tông / lát gạch"
+                    },
+                    {
+                        "en": "His glass fell to the floor and broke.",
+                        "vi": "Kính của anh ấy rơi xuống sàn và vỡ nát."
+                    },
+                    {
+                        "en": "on the floor The body was lying on the kitchen floor.",
+                        "vi": "trên sàn nhà Thi thể nằm trên sàn bếp."
+                    },
+                    {
+                        "en": "ceramic floor tiles",
+                        "vi": "sàn gạch men"
+                    },
+                    {
+                        "en": "The furniture and floor coverings date from the 1920s.",
+                        "vi": "Đồ nội thất và trải sàn có niên đại từ những năm 1920."
+                    },
+                    {
+                        "en": "The alterations should give us extra floor space.",
+                        "vi": "Các thay đổi sẽ cung cấp cho chúng tôi thêm không gian sàn."
+                    },
+                    {
+                        "en": "The study was stacked from floor to ceiling with books.",
+                        "vi": "Nghiên cứu được xếp chồng lên nhau từ sàn đến trần với sách."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the bottom surface of a vehicle",
+                    "vi": "bề mặt dưới cùng của một chiếc xe"
+                },
+                "examples": [
+                    {
+                        "en": "The floor of the car was covered in cigarette ends.",
+                        "vi": "Sàn xe ngập trong tàn thuốc."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "all the rooms that are on the same level of a building",
+                    "vi": "tất cả các phòng trên cùng một tầng của một tòa nhà"
+                },
+                "examples": [
+                    {
+                        "en": "Their apartment occupies the top floor of the building.",
+                        "vi": "Căn hộ của họ nằm trên tầng cao nhất của tòa nhà."
+                    },
+                    {
+                        "en": "on the… floor Her office is on the second floor.",
+                        "vi": "trên tầng… Văn phòng của cô ấy ở tầng hai."
+                    },
+                    {
+                        "en": "a cafe on the mezzanine floor",
+                        "vi": "một quán cà phê trên tầng lửng"
+                    },
+                    {
+                        "en": "The upper floors of the building will contain function rooms.",
+                        "vi": "Các tầng trên của tòa nhà sẽ bố trí các phòng chức năng."
+                    },
+                    {
+                        "en": "the Irish guy who lives two floors above",
+                        "vi": "anh chàng người Ireland sống ở hai tầng trên"
+                    },
+                    {
+                        "en": "There is a lift to all floors.",
+                        "vi": "Có thang máy lên tất cả các tầng."
+                    },
+                    {
+                        "en": "on… floors Their house is on three floors (= it has three floors).",
+                        "vi": "trên… tầng Ngôi nhà của họ ở ba tầng (= nó có ba tầng)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the ground at the bottom of the sea, a forest, etc.",
+                    "vi": "mặt đất dưới đáy biển, một khu rừng, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "the ocean/sea/forest floor",
+                        "vi": "đáy đại dương / biển / rừng"
+                    },
+                    {
+                        "en": "A layer of fine mud spread over the floor of the cave.",
+                        "vi": "Một lớp bùn mịn trải dài trên nền hang."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the part of a building where discussions or debates are held, especially in a parliament; the people who attend a discussion or debate",
+                    "vi": "phần của một tòa nhà nơi các cuộc thảo luận hoặc tranh luận được tổ chức, đặc biệt là trong quốc hội; những người tham gia một cuộc thảo luận hoặc tranh luận"
+                },
+                "examples": [
+                    {
+                        "en": "Opposition politicians registered their protest on the floor of the House.",
+                        "vi": "Các chính trị gia đối lập đã đăng ký cuộc biểu tình của họ trên sàn của Hạ viện."
+                    },
+                    {
+                        "en": "We will now take any questions from the floor.",
+                        "vi": "Bây giờ chúng tôi sẽ lấy bất kỳ câu hỏi nào từ sàn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an area in a building that is used for a particular activity",
+                    "vi": "một khu vực trong tòa nhà được sử dụng cho một hoạt động cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "on the floor of the Stock Exchange (= where trading takes place)",
+                        "vi": "trên sàn của Sở giao dịch chứng khoán (= nơi diễn ra giao dịch)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the lowest level allowed for wages or prices",
+                    "vi": "mức thấp nhất cho phép đối với tiền lương hoặc giá cả"
+                },
+                "examples": [
+                    {
+                        "en": "Prices have gone through the floor (= fallen to a very low level).",
+                        "vi": "Giá đã giảm sàn (= giảm xuống mức rất thấp)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to become involved in a plan, project, etc. at the beginning",
+                    "vi": "tham gia vào một kế hoạch, dự án, v.v. ngay từ đầu"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to get/be given/have the right to speak during a discussion or debate",
+                    "vi": "được / được cho / có quyền phát biểu trong một cuộc thảo luận hoặc tranh luận"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to speak during a discussion or debate, especially for a long time so that nobody else is able to say anything",
+                    "vi": "nói trong một cuộc thảo luận hoặc tranh luận, đặc biệt là trong một thời gian dài để không ai khác có thể nói bất cứ điều gì"
+                },
+                "examples": [
+                    {
+                        "en": "She held the floor for over an hour.",
+                        "vi": "Cô ấy đã giữ sàn hơn một giờ đồng hồ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to start dancing on a dance floor",
+                    "vi": "bắt đầu khiêu vũ trên sàn nhảy"
+                },
+                "examples": [
+                    {
+                        "en": "Couples took the floor for the last dance of the evening.",
+                        "vi": "Các cặp đôi đã lên sàn cho buổi khiêu vũ cuối cùng của buổi tối."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to defeat somebody completely in an argument or a competition",
+                    "vi": "để đánh bại ai đó hoàn toàn trong một cuộc tranh cãi hoặc một cuộc cạnh tranh"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "53564f1ff7da44e8894fa1e2fb8ab479",
+        "word": "window",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˈwɪndəʊ/",
+            "us": "/ˈwɪndəʊ/"
+        },
+        "nearby": [
+            {
+                "word": "windmill",
+                "pos": "noun"
+            },
+            {
+                "word": "the Windmill Theatre",
+                "pos": ""
+            },
+            {
+                "word": "window",
+                "pos": "noun"
+            },
+            {
+                "word": "window box",
+                "pos": "noun"
+            },
+            {
+                "word": "window cleaner",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an opening in the wall or roof of a building, car, etc., usually covered with glass, that allows light and air to come in and people to see out; the glass in a window",
+                    "vi": "một khe hở trên tường hoặc mái của một tòa nhà, ô tô, v.v., thường được che bằng kính, cho phép ánh sáng và không khí đi vào và mọi người có thể nhìn ra ngoài; kính trong cửa sổ"
+                },
+                "examples": [
+                    {
+                        "en": "out of the window She looked out of the window.",
+                        "vi": "ngoài cửa sổ Cô ấy nhìn ra ngoài cửa sổ."
+                    },
+                    {
+                        "en": "through the window He saw her through the rear window of the car.",
+                        "vi": "qua cửa sổ Anh nhìn thấy cô qua cửa sổ phía sau xe hơi."
+                    },
+                    {
+                        "en": "to open/close the window",
+                        "vi": "để mở / đóng cửa sổ"
+                    },
+                    {
+                        "en": "the bedroom/kitchen/car window",
+                        "vi": "cửa sổ phòng ngủ / bếp / xe hơi"
+                    },
+                    {
+                        "en": "a broken window",
+                        "vi": "một cửa sổ bị vỡ"
+                    },
+                    {
+                        "en": "The burglars smashed a window to get in.",
+                        "vi": "Những tên trộm đã đập vỡ một cửa sổ để vào."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the glass at the front of a shop and the area behind it where goods are shown to the public",
+                    "vi": "kính ở phía trước của một cửa hàng và khu vực phía sau nó, nơi hàng hóa được trưng bày cho công chúng"
+                },
+                "examples": [
+                    {
+                        "en": "in the window I saw the dress I wanted in the window.",
+                        "vi": "trong cửa sổ, tôi nhìn thấy chiếc váy mà tôi muốn trên cửa sổ."
+                    },
+                    {
+                        "en": "a window display",
+                        "vi": "màn hình cửa sổ"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a small area of something that you can see through, for example to talk to somebody or read something on the other side",
+                    "vi": "một khu vực nhỏ của thứ gì đó mà bạn có thể nhìn xuyên qua, chẳng hạn như để nói chuyện với ai đó hoặc đọc một cái gì đó ở phía bên kia"
+                },
+                "examples": [
+                    {
+                        "en": "There was a long line of people at the box-office window.",
+                        "vi": "Có một hàng dài người ở cửa sổ phòng vé."
+                    },
+                    {
+                        "en": "We tapped on the window to get their attention.",
+                        "vi": "Chúng tôi gõ vào cửa sổ để thu hút sự chú ý của họ."
+                    },
+                    {
+                        "en": "The address must be clearly visible through the window of the envelope.",
+                        "vi": "Địa chỉ phải được nhìn thấy rõ ràng qua cửa sổ của phong bì."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an area within a frame on a computer screen, in which a particular program is operating or in which information of a particular type is shown",
+                    "vi": "một khu vực trong khung trên màn hình máy tính, trong đó một chương trình cụ thể đang hoạt động hoặc trong đó thông tin của một loại cụ thể được hiển thị"
+                },
+                "examples": [
+                    {
+                        "en": "to create/open a window",
+                        "vi": "để tạo / mở một cửa sổ"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a way of seeing and learning about something",
+                    "vi": "một cách nhìn và học hỏi về một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "Television is a sort of window on the world.",
+                        "vi": "Truyền hình là một loại cửa sổ trên thế giới."
+                    },
+                    {
+                        "en": "It gave me an intriguing window into the way people live.",
+                        "vi": "Nó đã cho tôi một cửa sổ hấp dẫn về cách mọi người sống."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a time when there is an opportunity to do something, although it may not last long",
+                    "vi": "thời điểm khi có cơ hội để làm điều gì đó, mặc dù nó có thể không kéo dài"
+                },
+                "examples": [
+                    {
+                        "en": "We now have a small window of opportunity in which to make our views known.",
+                        "vi": "Bây giờ chúng tôi có một cơ hội nhỏ để làm cho quan điểm của chúng tôi được biết đến."
+                    },
+                    {
+                        "en": "Do you have a window next Monday?",
+                        "vi": "Bạn có cửa sổ vào thứ Hai tới không?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to stop existing; to disappear completely",
+                    "vi": "ngừng tồn tại; biến mất hoàn toàn"
+                },
+                "examples": [
+                    {
+                        "en": "As soon as the kids arrived, order went out of the window.",
+                        "vi": "Ngay sau khi những đứa trẻ đến, đơn đặt hàng đã bay ra khỏi cửa sổ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a53cf8d0a2ba4e3999ce78f92278f4a1",
+        "word": "lock",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/lɒk/",
+            "us": "/lɑːk/"
+        },
+        "nearby": [
+            {
+                "word": "loci",
+                "pos": "noun"
+            },
+            {
+                "word": "lock",
+                "pos": "verb"
+            },
+            {
+                "word": "lock",
+                "pos": "noun"
+            },
+            {
+                "word": "lockable",
+                "pos": "adjective"
+            },
+            {
+                "word": "lock away",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a device that keeps a door, window, box, etc. shut, usually needing a key to open it",
+                    "vi": "một thiết bị đóng cửa, cửa sổ, hộp, v.v., thường cần chìa khóa để mở"
+                },
+                "examples": [
+                    {
+                        "en": "She turned the key in the lock.",
+                        "vi": "Cô vặn chìa khóa vào ổ khóa."
+                    },
+                    {
+                        "en": "It's a good idea to have locks fitted on all your windows.",
+                        "vi": "Bạn nên lắp ổ khóa trên tất cả các cửa sổ của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a device that prevents a vehicle, machine or piece of equipment from being used",
+                    "vi": "thiết bị ngăn phương tiện, máy móc hoặc thiết bị được sử dụng"
+                },
+                "examples": [
+                    {
+                        "en": "a bicycle lock",
+                        "vi": "khóa xe đạp"
+                    },
+                    {
+                        "en": "a steering lock",
+                        "vi": "một khóa lái"
+                    },
+                    {
+                        "en": "safety locks for handguns",
+                        "vi": "khóa an toàn cho súng ngắn"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a feature on a computer or mobile phone that prevents somebody from accessing it without a code",
+                    "vi": "một tính năng trên máy tính hoặc điện thoại di động ngăn ai đó truy cập vào nó mà không có mã"
+                },
+                "examples": [
+                    {
+                        "en": "There's a security lock on the phone.",
+                        "vi": "Có một khóa bảo mật trên điện thoại."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a state in which the parts of a machine, etc. do not move",
+                    "vi": "trạng thái mà các bộ phận của máy, v.v. không chuyển động"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the amount that the front wheels can be turned in one direction or the other in order to turn the vehicle",
+                    "vi": "số lượng bánh trước có thể quay theo hướng này hay hướng khác để quay đầu xe"
+                },
+                "examples": [
+                    {
+                        "en": "I had the steering wheel on full lock (= I had turned it as far as it would turn).",
+                        "vi": "Tôi đã khóa tay lái hoàn toàn (= Tôi đã bẻ lái hết cỡ)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a section of canal or river with a gate at either end, in which the water level can be changed so that boats can move from one level of the canal or river to another",
+                    "vi": "một đoạn kênh hoặc sông có cửa ở hai đầu, mực nước có thể thay đổi để tàu thuyền có thể di chuyển từ kênh, sông này sang mực nước khác"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a few hairs that hang or lie together on your head",
+                    "vi": "một vài sợi tóc buông thõng hoặc nằm lại với nhau trên đầu của bạn"
+                },
+                "examples": [
+                    {
+                        "en": "John brushed a lock of hair from his eyes.",
+                        "vi": "John vuốt một lọn tóc trên mắt."
+                    },
+                    {
+                        "en": "She kept a lock of her mother’s hair.",
+                        "vi": "Cô ấy giữ một lọn tóc của mẹ cô ấy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person’s hair",
+                    "vi": "tóc của một người"
+                },
+                "examples": [
+                    {
+                        "en": "She shook her long, flowing locks.",
+                        "vi": "Cô lắc những lọn tóc dài đang chảy của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a player in the second row of the scrum",
+                    "vi": "một người chơi ở hàng thứ hai của trò chơi"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "total control of something",
+                    "vi": "kiểm soát hoàn toàn một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "One company had a virtual lock on all orange juice sales in the state.",
+                        "vi": "Một công ty đã khóa ảo tất cả doanh số bán nước cam trong tiểu bang."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "including everything",
+                    "vi": "bao gồm tất cả mọi thứ"
+                },
+                "examples": [
+                    {
+                        "en": "He sold the business lock, stock and barrel.",
+                        "vi": "Anh ta đã bán khóa kinh doanh, cổ phiếu và thùng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to open a lock without a key, using something such as a piece of wire",
+                    "vi": "để mở một ổ khóa mà không cần chìa khóa, sử dụng một cái gì đó chẳng hạn như một đoạn dây"
+                },
+                "examples": [
+                    {
+                        "en": "The burglars must have picked the lock on the back door.",
+                        "vi": "Những tên trộm chắc chắn đã cạy khóa cửa sau."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "locked up safely somewhere; in prison",
+                    "vi": "bị nhốt an toàn ở một nơi nào đó; trong nhà tù"
+                },
+                "examples": [
+                    {
+                        "en": "We keep our valuables under lock and key.",
+                        "vi": "Chúng tôi giữ các vật có giá trị của chúng tôi trong khóa và chìa khóa."
+                    },
+                    {
+                        "en": "I will not rest until the murderer is under lock and key.",
+                        "vi": "Tôi sẽ không nghỉ ngơi cho đến khi kẻ sát nhân bị khóa và chìa khóa."
+                    },
+                    {
+                        "en": "Prisoners are kept under lock and key 24 hours a day.",
+                        "vi": "Các tù nhân được giữ trong khóa và chìa khóa 24 giờ một ngày."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "d220c0cea4f34566b2904c9d6d365320",
+        "word": "roof",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/ruːf/",
+            "us": "/ruːf/"
+        },
+        "nearby": [
+            {
+                "word": "roo",
+                "pos": "noun"
+            },
+            {
+                "word": "rood screen",
+                "pos": "noun"
+            },
+            {
+                "word": "roof",
+                "pos": "noun"
+            },
+            {
+                "word": "roof",
+                "pos": "verb"
+            },
+            {
+                "word": "roofer",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the structure that covers or forms the top of a building or vehicle",
+                    "vi": "cấu trúc bao phủ hoặc tạo thành phần trên cùng của một tòa nhà hoặc phương tiện"
+                },
+                "examples": [
+                    {
+                        "en": "a flat/sloping/pitched roof",
+                        "vi": "mái bằng / dốc / dốc"
+                    },
+                    {
+                        "en": "Offices on the upper floors have access to a roof terrace.",
+                        "vi": "Văn phòng ở các tầng trên có lối đi lên sân thượng."
+                    },
+                    {
+                        "en": "a tin/slate/tiled/thatched roof",
+                        "vi": "một mái nhà thiếc / đá phiến / lát gạch / tranh"
+                    },
+                    {
+                        "en": "The corner of the classroom was damp where the roof had leaked.",
+                        "vi": "Góc phòng học ẩm thấp nơi mái tôn dột."
+                    },
+                    {
+                        "en": "Tim climbed on to the garage roof.",
+                        "vi": "Tim trèo lên mái nhà để xe."
+                    },
+                    {
+                        "en": "The roof of the car was not damaged in the accident.",
+                        "vi": "Phần mui của chiếc ô tô không bị hư hỏng trong vụ tai nạn."
+                    },
+                    {
+                        "en": "Offices on the upper floors have access to a roof terrace.",
+                        "vi": "Văn phòng ở các tầng trên có lối đi lên sân thượng."
+                    },
+                    {
+                        "en": "We stepped out onto the roof of the building.",
+                        "vi": "Chúng tôi bước ra sân thượng của tòa nhà."
+                    },
+                    {
+                        "en": "I have solar panels on my roof.",
+                        "vi": "Tôi có các tấm pin mặt trời trên mái nhà của tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "having the type of roof mentioned",
+                    "vi": "có loại mái được đề cập"
+                },
+                "examples": [
+                    {
+                        "en": "flat-roofed buildings",
+                        "vi": "tòa nhà mái bằng"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the top of an underground space such as a tunnel or cave",
+                    "vi": "trên cùng của một không gian ngầm như đường hầm hoặc hang động"
+                },
+                "examples": [
+                    {
+                        "en": "The roof of the tunnel was starting to collapse.",
+                        "vi": "Mái của đường hầm bắt đầu sập xuống."
+                    },
+                    {
+                        "en": "The cave had a very low roof.",
+                        "vi": "Hang động có mái rất thấp."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the top of the inside of your mouth",
+                    "vi": "đầu bên trong miệng của bạn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to rise or increase very quickly",
+                    "vi": "tăng hoặc tăng rất nhanh"
+                },
+                "examples": [
+                    {
+                        "en": "House prices here have gone through the roof.",
+                        "vi": "Giá nhà ở đây đã lên tới nóc nhà."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to become very angry",
+                    "vi": "trở nên rất tức giận"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to have somewhere to live",
+                    "vi": "có một nơi nào đó để sống"
+                },
+                "examples": [
+                    {
+                        "en": "Thanks to Bob’s generosity, I still have a roof over my head.",
+                        "vi": "Cảm ơn sự hào phóng của Bob, tôi vẫn có một mái nhà trên đầu của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "very nervous",
+                    "vi": "rất lo lắng"
+                },
+                "examples": [
+                    {
+                        "en": "She was like a cat on a hot tin roof before her driving test.",
+                        "vi": "Cô ấy giống như một con mèo trên một mái nhà thiếc nóng trước khi thi lái xe."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to produce or make somebody produce a lot of noise in a building, for example by shouting or cheering",
+                    "vi": "để tạo ra hoặc khiến ai đó tạo ra nhiều tiếng ồn trong một tòa nhà, chẳng hạn như bằng cách la hét hoặc cổ vũ"
+                },
+                "examples": [
+                    {
+                        "en": "Their cheers raised the roof.",
+                        "vi": "Tiếng hò reo của họ đã nâng nóc nhà."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "in the same building or house",
+                    "vi": "trong cùng một tòa nhà hoặc một ngôi nhà"
+                },
+                "examples": [
+                    {
+                        "en": "There are various stores and restaurants all under one roof.",
+                        "vi": "Có nhiều cửa hàng và nhà hàng khác nhau dưới một mái nhà."
+                    },
+                    {
+                        "en": "I don't think I can live under the same roof as you any longer.",
+                        "vi": "Tôi không nghĩ mình có thể sống chung dưới một mái nhà với các bạn nữa."
+                    },
+                    {
+                        "en": "We're good friends but we could never live under the same roof.",
+                        "vi": "Chúng tôi là bạn tốt của nhau nhưng chúng tôi không bao giờ có thể sống chung dưới một mái nhà."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "in your home",
+                    "vi": "ở nhà bạn"
+                },
+                "examples": [
+                    {
+                        "en": "I don't want her under my roof again.",
+                        "vi": "Tôi không muốn cô ấy ở dưới mái nhà của tôi một lần nữa."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "523383a7a29d4a9db236df74f9decf38",
+        "word": "stair",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/steə(r)/",
+            "us": "/ster/"
+        },
+        "nearby": [
+            {
+                "word": "stainless steel",
+                "pos": "noun"
+            },
+            {
+                "word": "stair",
+                "pos": "adjective"
+            },
+            {
+                "word": "stair",
+                "pos": "noun"
+            },
+            {
+                "word": "staircase",
+                "pos": "noun"
+            },
+            {
+                "word": "stairlift",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a set of steps built between two floors inside a building",
+                    "vi": "một tập hợp các bước được xây dựng giữa hai tầng trong một tòa nhà"
+                },
+                "examples": [
+                    {
+                        "en": "We had to carry the piano up three flights of stairs.",
+                        "vi": "Chúng tôi phải khiêng cây đàn lên ba bậc cầu thang."
+                    },
+                    {
+                        "en": "He climbed the stairs to his bedroom",
+                        "vi": "Anh ấy leo lên cầu thang vào phòng ngủ của mình"
+                    },
+                    {
+                        "en": "up/down the stairs The children ran up the stairs.",
+                        "vi": "lên / xuống cầu thang Bọn trẻ chạy lên cầu thang."
+                    },
+                    {
+                        "en": "on the stairs He remembered passing her on the stairs.",
+                        "vi": "trên cầu thang Anh nhớ đã đèo cô trên cầu thang."
+                    },
+                    {
+                        "en": "at the bottom/top of the stairs",
+                        "vi": "ở dưới cùng / trên cùng của cầu thang"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "one of the steps in a set of stairs",
+                    "vi": "một trong những bước trong một bộ cầu thang"
+                },
+                "examples": [
+                    {
+                        "en": "How many stairs are there up to the second floor?",
+                        "vi": "Có bao nhiêu cầu thang lên tầng hai?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a set of stairs inside a building including the banisters (= posts and bars that are fixed at the side)",
+                    "vi": "một bộ cầu thang bên trong tòa nhà bao gồm cả lan can (= trụ và thanh được cố định ở bên cạnh)"
+                },
+                "examples": [
+                    {
+                        "en": "The house had a panelled hall and a fine oak stair.",
+                        "vi": "Ngôi nhà có một sảnh ốp và một cầu thang bằng gỗ sồi mỹ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "in the part of a house where the servants lived in the past",
+                    "vi": "trong phần của một ngôi nhà nơi những người hầu ở trong quá khứ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "006beb7142694d7c944366a1d4075ac3",
+        "word": "balcony",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈbælkəni/",
+            "us": "/ˈbælkəni/"
+        },
+        "nearby": [
+            {
+                "word": "George Balanchine",
+                "pos": ""
+            },
+            {
+                "word": "balancing act",
+                "pos": "noun"
+            },
+            {
+                "word": "balcony",
+                "pos": "noun"
+            },
+            {
+                "word": "bald",
+                "pos": "adjective"
+            },
+            {
+                "word": "bald eagle",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a platform that is built on the upstairs outside wall of a building, with a wall or rail around it. You can get out onto a balcony from an upstairs room.",
+                    "vi": "một nền tảng được xây dựng trên bức tường bên ngoài tầng trên của một tòa nhà, với một bức tường hoặc đường ray xung quanh nó. Bạn có thể ra ban công từ phòng trên lầu."
+                },
+                "examples": [
+                    {
+                        "en": "We had drinks on the hotel balcony.",
+                        "vi": "Chúng tôi đã có đồ uống trên ban công khách sạn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an area of seats upstairs in a theatre",
+                    "vi": "một khu vực ghế trên lầu trong rạp hát"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "d5a65ba842104742886c38df43a2fd06",
+        "word": "elevator",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈelɪveɪtə(r)/",
+            "us": "/ˈelɪveɪtər/"
+        },
+        "nearby": [
+            {
+                "word": "elevating",
+                "pos": "adjective"
+            },
+            {
+                "word": "elevation",
+                "pos": "noun"
+            },
+            {
+                "word": "elevator",
+                "pos": "noun"
+            },
+            {
+                "word": "eleven",
+                "pos": ""
+            },
+            {
+                "word": "eleven-plus",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a machine that carries people or goods up and down to different levels in a building or a mine",
+                    "vi": "máy vận chuyển người hoặc hàng hóa lên và xuống các tầng khác nhau trong tòa nhà hoặc hầm mỏ"
+                },
+                "examples": [
+                    {
+                        "en": "It's on the fifth floor, so we'd better take the elevator.",
+                        "vi": "Nó ở tầng năm, vì vậy tốt hơn chúng ta nên đi thang máy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a tall building used to store grain and that contains equipment to move it",
+                    "vi": "một tòa nhà cao được sử dụng để lưu trữ ngũ cốc và có thiết bị để di chuyển nó"
+                },
+                "examples": [
+                    {
+                        "en": "In the harbour a giant elevator stores prairie grain.",
+                        "vi": "Trong bến cảng, một chiếc thang máy khổng lồ lưu trữ ngũ cốc thảo nguyên."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a part in the tail of an aircraft that is moved to make it go up and down",
+                    "vi": "một bộ phận ở đuôi của máy bay được di chuyển để làm cho nó đi lên và đi xuống"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "d30b293d228141dc9985651c59777f97",
+        "word": "entrance",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈentrəns/",
+            "us": "/ˈentrəns/"
+        },
+        "nearby": [
+            {
+                "word": "entr'acte",
+                "pos": "noun"
+            },
+            {
+                "word": "entrails",
+                "pos": "noun"
+            },
+            {
+                "word": "entrance1",
+                "pos": "noun"
+            },
+            {
+                "word": "entrance2",
+                "pos": "verb"
+            },
+            {
+                "word": "entrance hall",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a door, gate, passage, etc. used for entering a room, building or place",
+                    "vi": "cửa, cổng, lối đi, v.v. được sử dụng để vào phòng, tòa nhà hoặc địa điểm"
+                },
+                "examples": [
+                    {
+                        "en": "the front/back/side entrance of the house",
+                        "vi": "lối vào trước / sau / bên hông của ngôi nhà"
+                    },
+                    {
+                        "en": "A separate entrance leads to the garden.",
+                        "vi": "Một lối vào riêng dẫn ra khu vườn."
+                    },
+                    {
+                        "en": "At last we reached the entrance of the cave.",
+                        "vi": "Cuối cùng thì chúng tôi cũng đến được cửa hang."
+                    },
+                    {
+                        "en": "entrance to something Protesters blocked the entrance to the building.",
+                        "vi": "lối vào một cái gì đó Người biểu tình đã chặn lối vào tòa nhà."
+                    },
+                    {
+                        "en": "A lighthouse marks the entrance to the harbour.",
+                        "vi": "Một ngọn hải đăng đánh dấu lối vào bến cảng."
+                    },
+                    {
+                        "en": "at the entrance I'll meet you at the main entrance.",
+                        "vi": "ở lối vào, tôi sẽ gặp bạn ở lối vào chính."
+                    },
+                    {
+                        "en": "Guards were posted at the entrance.",
+                        "vi": "Bảo vệ đã được bố trí ở lối vào."
+                    },
+                    {
+                        "en": "an entrance hall",
+                        "vi": "một sảnh vào"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the act of entering a room, building or place, especially in a way that attracts the attention of other people",
+                    "vi": "hành động bước vào một căn phòng, tòa nhà hoặc địa điểm, đặc biệt là theo cách thu hút sự chú ý của người khác"
+                },
+                "examples": [
+                    {
+                        "en": "His sudden entrance took everyone by surprise.",
+                        "vi": "Sự ra vào đột ngột của anh khiến mọi người không khỏi ngạc nhiên."
+                    },
+                    {
+                        "en": "A fanfare signalled the entrance of the king.",
+                        "vi": "Một cuộc phô trương báo hiệu sự ra vào của nhà vua."
+                    },
+                    {
+                        "en": "She made her entrance after all the other guests had arrived.",
+                        "vi": "Cô ấy vào cửa sau khi tất cả những vị khách khác đã đến."
+                    },
+                    {
+                        "en": "The hero makes his entrance (= walks onto the stage) in Scene 2.",
+                        "vi": "Người anh hùng đi vào (= bước lên sân khấu) trong Cảnh 2."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the right or opportunity to enter a building or place",
+                    "vi": "quyền hoặc cơ hội để vào một tòa nhà hoặc địa điểm"
+                },
+                "examples": [
+                    {
+                        "en": "They were refused entrance to the exhibition.",
+                        "vi": "Họ đã bị từ chối vào cửa triển lãm."
+                    },
+                    {
+                        "en": "The police were unable to gain entrance to the house.",
+                        "vi": "Cảnh sát không thể vào được ngôi nhà."
+                    },
+                    {
+                        "en": "an entrance fee (= money paid to go into a museum, etc.)",
+                        "vi": "phí vào cửa (= tiền phải trả để vào viện bảo tàng, v.v.)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the act of becoming involved in something",
+                    "vi": "hành động tham gia vào một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "The company made a dramatic entrance into the export market.",
+                        "vi": "Công ty đã thâm nhập mạnh mẽ vào thị trường xuất khẩu."
+                    },
+                    {
+                        "en": "her entrance into politics",
+                        "vi": "bước vào chính trị của cô ấy"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "permission to become a member of a club, society, university, etc.",
+                    "vi": "được phép trở thành thành viên của câu lạc bộ, xã hội, trường đại học, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "a university entrance exam",
+                        "vi": "một kỳ thi tuyển sinh đại học"
+                    },
+                    {
+                        "en": "What are the entrance requirements for this course?",
+                        "vi": "Yêu cầu đầu vào cho khóa học này là gì?"
+                    },
+                    {
+                        "en": "students hoping to gain entrance to college",
+                        "vi": "học sinh hy vọng vào được đại học"
+                    },
+                    {
+                        "en": "entrance (to something) Entrance to the golf club is by sponsorship only.",
+                        "vi": "lối vào (đến một cái gì đó) Lối vào câu lạc bộ gôn chỉ được tài trợ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "54dbc11d6e8144efa1704dcc91c245db",
+        "word": "column",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈkɒləm/",
+            "us": "/ˈkɑːləm/"
+        },
+        "nearby": [
+            {
+                "word": "Christopher Columbus",
+                "pos": ""
+            },
+            {
+                "word": "Columbus Day",
+                "pos": "noun"
+            },
+            {
+                "word": "column",
+                "pos": "noun"
+            },
+            {
+                "word": "column inch",
+                "pos": "noun"
+            },
+            {
+                "word": "columnist",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "one of the straight sections from top to bottom into which text on a page or screen is divided",
+                    "vi": "một trong các phần thẳng từ trên xuống dưới mà văn bản trên trang hoặc màn hình được chia"
+                },
+                "examples": [
+                    {
+                        "en": "a dictionary with two columns per page",
+                        "vi": "một từ điển có hai cột trên mỗi trang"
+                    },
+                    {
+                        "en": "column of something a column of text",
+                        "vi": "cột cái gì đó một cột văn bản"
+                    },
+                    {
+                        "en": "at the bottom of the right-hand column of this page",
+                        "vi": "ở cuối cột bên phải của trang này"
+                    },
+                    {
+                        "en": "The website has an attractive two-column format.",
+                        "vi": "Trang web có định dạng hai cột hấp dẫn."
+                    },
+                    {
+                        "en": "in a column Click on the name of your account in the left-hand column.",
+                        "vi": "trong một cột Nhấp vào tên tài khoản của bạn ở cột bên trái."
+                    },
+                    {
+                        "en": "Put a mark in the appropriate column.",
+                        "vi": "Đánh dấu vào cột thích hợp."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a series of numbers or words arranged one under the other down a page",
+                    "vi": "một loạt các số hoặc từ được sắp xếp một bên dưới cái kia trên một trang"
+                },
+                "examples": [
+                    {
+                        "en": "column of something to add up a column of figures",
+                        "vi": "cột cái gì đó để thêm một cột số liệu"
+                    },
+                    {
+                        "en": "the fifth column of Table 4",
+                        "vi": "cột thứ năm của Bảng 4"
+                    },
+                    {
+                        "en": "in a column The numbers in the left-hand column are not relevant here.",
+                        "vi": "trong một cột Các con số ở cột bên trái không có liên quan ở đây."
+                    },
+                    {
+                        "en": "The last column contains the probability of each of those outcomes occurring.",
+                        "vi": "Cột cuối cùng chứa xác suất xảy ra của mỗi kết quả đó."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a part of a newspaper, magazine or website that appears regularly and deals with a particular subject or is written by a particular writer",
+                    "vi": "một phần của một tờ báo, tạp chí hoặc trang web xuất hiện thường xuyên và liên quan đến một chủ đề cụ thể hoặc được viết bởi một nhà văn cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "She writes a monthly column for a leading national newspaper.",
+                        "vi": "Cô viết một chuyên mục hàng tháng cho một tờ báo quốc gia hàng đầu."
+                    },
+                    {
+                        "en": "a newspaper/weekly column",
+                        "vi": "một tờ báo / chuyên mục hàng tuần"
+                    },
+                    {
+                        "en": "the financial column",
+                        "vi": "cột tài chính"
+                    },
+                    {
+                        "en": "in a column I disagree with a lot of what he writes in his column.",
+                        "vi": "trong một chuyên mục, tôi không đồng ý với rất nhiều điều anh ấy viết trong chuyên mục của mình."
+                    },
+                    {
+                        "en": "I always read her column in the local paper.",
+                        "vi": "Tôi luôn đọc chuyên mục của cô ấy trên báo địa phương."
+                    },
+                    {
+                        "en": "column on/about something The website features a regular column on parenting.",
+                        "vi": "chuyên mục về / về điều gì đó Trang web có một cột thông thường về nuôi dạy con cái."
+                    },
+                    {
+                        "en": "column by somebody She always read the column by the local vicar in the parish magazine.",
+                        "vi": "chuyên mục của ai đó Cô luôn đọc chuyên mục của cha sở địa phương trên tạp chí giáo xứ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a tall, solid post, usually round and made of stone, that supports or decorates a building or stands alone as a monument",
+                    "vi": "một cột cao, vững chắc, thường tròn và làm bằng đá, nâng đỡ hoặc trang trí một tòa nhà hoặc đứng một mình như một đài kỷ niệm"
+                },
+                "examples": [
+                    {
+                        "en": "The temple is supported by marble columns.",
+                        "vi": "Ngôi đền được hỗ trợ bởi các cột bằng đá cẩm thạch."
+                    },
+                    {
+                        "en": "Nelson's Column in Trafalgar Square is one of London's best-known landmarks.",
+                        "vi": "Cột Nelson ở Quảng trường Trafalgar là một trong những địa danh nổi tiếng nhất của London."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a thing that is like a column in shape",
+                    "vi": "một thứ giống như một cái cột trong hình dạng"
+                },
+                "examples": [
+                    {
+                        "en": "a column of smoke (= smoke rising straight up)",
+                        "vi": "một cột khói (= khói bốc thẳng lên)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a long, moving line of people or vehicles",
+                    "vi": "một dòng người hoặc phương tiện di chuyển dài"
+                },
+                "examples": [
+                    {
+                        "en": "a long column of troops and tanks",
+                        "vi": "một cột dài của quân đội và xe tăng"
+                    },
+                    {
+                        "en": "to march in columns",
+                        "vi": "diễu hành trong các cột"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "53f3e5729c3f4530af2d82e99bd1cba5",
+        "word": "doorstep",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈdɔːstep/",
+            "us": "/ˈdɔːrstep/"
+        },
+        "nearby": [
+            {
+                "word": "door prize",
+                "pos": "noun"
+            },
+            {
+                "word": "The Doors",
+                "pos": ""
+            },
+            {
+                "word": "doorstep",
+                "pos": "noun"
+            },
+            {
+                "word": "doorstep",
+                "pos": "verb"
+            },
+            {
+                "word": "doorstop",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a step outside a door of a building, or the area that is very close to the door",
+                    "vi": "bước ra ngoài cửa của một tòa nhà hoặc khu vực rất gần cửa"
+                },
+                "examples": [
+                    {
+                        "en": "The police turned up on their doorstep at 3 o'clock this morning.",
+                        "vi": "Cảnh sát có mặt trước cửa nhà họ lúc 3 giờ sáng nay."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a thick piece of bread, usually one that is made into a sandwich",
+                    "vi": "một miếng bánh mì dày, thường là một miếng bánh mì được làm thành sandwich"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "very close to where a person lives",
+                    "vi": "rất gần nơi một người sống"
+                },
+                "examples": [
+                    {
+                        "en": "The nightlife is great with bars and clubs right on the doorstep.",
+                        "vi": "Cuộc sống về đêm thật tuyệt vời với các quán bar và câu lạc bộ ngay trước cửa nhà."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "77046c760edf4aa0820d832be4b858e9",
+        "word": "doorway",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈdɔːweɪ/",
+            "us": "/ˈdɔːrweɪ/"
+        },
+        "nearby": [
+            {
+                "word": "doorstep",
+                "pos": "verb"
+            },
+            {
+                "word": "doorstop",
+                "pos": "noun"
+            },
+            {
+                "word": "doorway",
+                "pos": "noun"
+            },
+            {
+                "word": "do out",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "do out of",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an opening into a building or a room, where the door is",
+                    "vi": "một sự mở cửa vào một tòa nhà hoặc một căn phòng, nơi có cánh cửa"
+                },
+                "examples": [
+                    {
+                        "en": "She stood in the doorway for a moment before going in.",
+                        "vi": "Cô đứng ở ngưỡng cửa một lúc trước khi đi vào."
+                    },
+                    {
+                        "en": "homeless people sleeping in shop doorways",
+                        "vi": "những người vô gia cư ngủ trong cửa hàng"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "577328ce80814ea0bb9ca6f40b0b5d95",
+        "word": "exit",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈeksɪt/",
+            "us": "/ˈeksɪt/"
+        },
+        "nearby": [
+            {
+                "word": "existentialist",
+                "pos": "adjective"
+            },
+            {
+                "word": "existing",
+                "pos": "adjective"
+            },
+            {
+                "word": "exit",
+                "pos": "noun"
+            },
+            {
+                "word": "exit",
+                "pos": "verb"
+            },
+            {
+                "word": "exit exam",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a way out of a public building or vehicle",
+                    "vi": "lối thoát ra khỏi tòa nhà hoặc phương tiện công cộng"
+                },
+                "examples": [
+                    {
+                        "en": "Where's the exit?",
+                        "vi": "Lối ra ở đâu?"
+                    },
+                    {
+                        "en": "There is a fire exit on each floor of the building.",
+                        "vi": "Mỗi tầng của tòa nhà đều có lối thoát hiểm."
+                    },
+                    {
+                        "en": "The emergency exit is at the back of the bus.",
+                        "vi": "Lối thoát hiểm ở phía sau xe buýt."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a place where vehicles can leave a road to join another road",
+                    "vi": "nơi mà các phương tiện có thể rời khỏi một con đường để tham gia vào một con đường khác"
+                },
+                "examples": [
+                    {
+                        "en": "Leave the roundabout at the second exit.",
+                        "vi": "Rời khỏi bùng binh ở lối ra thứ hai."
+                    },
+                    {
+                        "en": "Take the exit for Brno.",
+                        "vi": "Đi theo lối ra cho Brno."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an act of leaving, especially of an actor from the stage",
+                    "vi": "một hành động rời đi, đặc biệt là của một diễn viên từ sân khấu"
+                },
+                "examples": [
+                    {
+                        "en": "The heroine made her exit to great applause.",
+                        "vi": "Nhân vật nữ chính đã xuất hiện trong tràng pháo tay lớn."
+                    },
+                    {
+                        "en": "He made a quick exit to avoid meeting her.",
+                        "vi": "Anh nhanh chóng thoát ra để tránh gặp cô."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the fact of leaving a particular situation or activity",
+                    "vi": "thực tế là rời khỏi một tình huống hoặc hoạt động cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "exit from something They were disappointed by the team's early exit from the World Cup.",
+                        "vi": "thoát khỏi điều gì đó Họ thất vọng trước việc đội bị loại sớm khỏi World Cup."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "78a1792032394e918249efbaeaa1e843",
+        "word": "arch",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ɑːtʃ/",
+            "us": "/ɑːrtʃ/"
+        },
+        "nearby": [
+            {
+                "word": "arcana",
+                "pos": "noun"
+            },
+            {
+                "word": "arcane",
+                "pos": "adjective"
+            },
+            {
+                "word": "arch",
+                "pos": "noun"
+            },
+            {
+                "word": "arch-",
+                "pos": "combining form"
+            },
+            {
+                "word": "arch",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a curved structure that supports the weight of something above it, such as a bridge or the upper part of a building",
+                    "vi": "một cấu trúc cong hỗ trợ trọng lượng của một thứ gì đó bên trên nó, chẳng hạn như một cây cầu hoặc phần trên của một tòa nhà"
+                },
+                "examples": [
+                    {
+                        "en": "a bridge with three arches",
+                        "vi": "một cây cầu có ba mái vòm"
+                    },
+                    {
+                        "en": "Homeless people slept under the railway arches.",
+                        "vi": "Những người vô gia cư ngủ dưới vòm đường sắt."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a structure with a curved top that is supported by straight sides, sometimes forming an entrance or built as a monument",
+                    "vi": "một cấu trúc có đỉnh cong được đỡ bởi các cạnh thẳng, đôi khi tạo thành một lối vào hoặc được xây dựng như một tượng đài"
+                },
+                "examples": [
+                    {
+                        "en": "Go through the arch and follow the path.",
+                        "vi": "Đi qua vòm và đi theo con đường."
+                    },
+                    {
+                        "en": "Marble Arch is a famous London landmark.",
+                        "vi": "Vòm đá cẩm thạch là một địa danh nổi tiếng của London."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the raised part of the foot formed by a curved section of bones",
+                    "vi": "phần nhô lên của bàn chân được hình thành bởi một phần xương cong"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "anything that forms a curved shape at the top",
+                    "vi": "bất cứ thứ gì tạo thành hình cong ở trên cùng"
+                },
+                "examples": [
+                    {
+                        "en": "the delicate arch of her eyebrows",
+                        "vi": "cung mày thanh tú của cô ấy"
+                    },
+                    {
+                        "en": "The branches of the trees formed an arch over the bench.",
+                        "vi": "Những cành cây tạo thành một vòm che trên chiếc ghế dài."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "09b7721575394576950e99e6871849ad",
+        "word": "chimney",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈtʃɪmni/",
+            "us": "/ˈtʃɪmni/"
+        },
+        "nearby": [
+            {
+                "word": "chimera",
+                "pos": "noun"
+            },
+            {
+                "word": "chime with",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "chimney",
+                "pos": "noun"
+            },
+            {
+                "word": "chimney breast",
+                "pos": "noun"
+            },
+            {
+                "word": "chimney piece",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a structure through which smoke or steam is carried up away from a fire, etc. and through the roof of a building; the part of this that is above the roof",
+                    "vi": "một cấu trúc mà qua đó khói hoặc hơi nước được bốc lên từ đám cháy, v.v. và xuyên qua mái của một tòa nhà; phần của cái này ở trên mái nhà"
+                },
+                "examples": [
+                    {
+                        "en": "He threw a bit of paper onto the fire and it flew up the chimney.",
+                        "vi": "Anh ta ném một chút giấy lên ngọn lửa và nó bay lên theo ống khói."
+                    },
+                    {
+                        "en": "the factory chimneys of an industrial landscape",
+                        "vi": "ống khói nhà máy của một cảnh quan công nghiệp"
+                    },
+                    {
+                        "en": "This chimney doesn’t draw very well.",
+                        "vi": "Cái ống khói này vẽ không đẹp lắm."
+                    },
+                    {
+                        "en": "factory chimneys belching smoke over the town",
+                        "vi": "ống khói nhà máy ợ khói bao trùm thị trấn"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a narrow opening in an area of rock that a person can climb up",
+                    "vi": "một khe hở hẹp trong một khu vực đá mà một người có thể trèo lên"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "c275f337a1d04d1f876bee6244d5e7f0",
+        "word": "courtyard",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈkɔːtjɑːd/",
+            "us": "/ˈkɔːrtjɑːrd/"
+        },
+        "nearby": [
+            {
+                "word": "court shoe",
+                "pos": "noun"
+            },
+            {
+                "word": "court tennis",
+                "pos": "noun"
+            },
+            {
+                "word": "courtyard",
+                "pos": "noun"
+            },
+            {
+                "word": "couscous",
+                "pos": "noun"
+            },
+            {
+                "word": "cousin",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an open space that is partly or completely surrounded by buildings and is usually part of a castle, a large house, etc.",
+                    "vi": "một không gian mở được bao quanh một phần hoặc hoàn toàn bởi các tòa nhà và thường là một phần của lâu đài, ngôi nhà lớn, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "the central/inner courtyard",
+                        "vi": "sân trung tâm / bên trong"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e40a9c880f7a438da9ce98cc27cb4603",
+        "word": "dome",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/dəʊm/",
+            "us": "/dəʊm/"
+        },
+        "nearby": [
+            {
+                "word": "domain",
+                "pos": "noun"
+            },
+            {
+                "word": "domain name",
+                "pos": "noun"
+            },
+            {
+                "word": "dome",
+                "pos": "noun"
+            },
+            {
+                "word": "domed",
+                "pos": "adjective"
+            },
+            {
+                "word": "the Domesday Book",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a round roof with a circular base",
+                    "vi": "một mái tròn với một cơ sở hình tròn"
+                },
+                "examples": [
+                    {
+                        "en": "the dome of St Paul’s Cathedral",
+                        "vi": "mái vòm của Nhà thờ St Paul"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a thing or a building that is like a dome in shape",
+                    "vi": "một thứ hoặc một tòa nhà giống như một mái vòm"
+                },
+                "examples": [
+                    {
+                        "en": "his bald dome of a head",
+                        "vi": "mái đầu hói của anh ấy"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a sports stadium whose roof is shaped like a dome",
+                    "vi": "một sân vận động thể thao có mái nhà hình mái vòm"
+                },
+                "examples": [
+                    {
+                        "en": "the Houston Astrodome",
+                        "vi": "Houston Astrodome"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6a685570073a450b9595290f2003b7b0",
+        "word": "drain",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/dreɪn/",
+            "us": "/dreɪn/"
+        },
+        "nearby": [
+            {
+                "word": "drag up",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "drain",
+                "pos": "verb"
+            },
+            {
+                "word": "drain",
+                "pos": "noun"
+            },
+            {
+                "word": "drainage",
+                "pos": "noun"
+            },
+            {
+                "word": "drained",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a pipe that carries away dirty water or other liquid waste",
+                    "vi": "ống dẫn nước bẩn hoặc chất thải lỏng khác"
+                },
+                "examples": [
+                    {
+                        "en": "We had to call in a plumber to unblock the drain.",
+                        "vi": "Chúng tôi đã phải gọi thợ sửa ống nước đến để thông tắc cống."
+                    },
+                    {
+                        "en": "The drains (= the system of pipes) date from the beginning of the century.",
+                        "vi": "Các cống (= hệ thống đường ống) có niên đại từ đầu thế kỷ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a frame of metal bars over the opening to a drain in the ground",
+                    "vi": "một khung các thanh kim loại trên lỗ thông ra cống trên mặt đất"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a hole in a bath, sink, etc. where the water flows away and into which a plug fits",
+                    "vi": "một lỗ trong bồn tắm, bồn rửa, v.v. nơi nước chảy đi và cắm vào đó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a thing that uses a lot of the time, money, etc. that could be used for something else",
+                    "vi": "một thứ sử dụng nhiều thời gian, tiền bạc, v.v. có thể được sử dụng cho việc khác"
+                },
+                "examples": [
+                    {
+                        "en": "Military spending is a huge drain on the country's resources.",
+                        "vi": "Chi tiêu quân sự đang làm tiêu hao rất nhiều tài nguyên của đất nước."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the fact of resources, people, etc. being lost or wasted",
+                    "vi": "thực trạng tài nguyên, con người, v.v. bị mất hoặc lãng phí"
+                },
+                "examples": [
+                    {
+                        "en": "the drain of talented staff to the United States",
+                        "vi": "nguồn nhân viên tài năng đến Hoa Kỳ"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "(to be) wasted; (to get) very much worse",
+                    "vi": "(lãng phí; (để trở nên) tệ hơn rất nhiều"
+                },
+                "examples": [
+                    {
+                        "en": "It's just money down the drain, you know.",
+                        "vi": "Đó chỉ là tiền xuống cống, bạn biết đấy."
+                    },
+                    {
+                        "en": "Safety standards have gone down the drain.",
+                        "vi": "Các tiêu chuẩn an toàn đã đi xuống cống."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to laugh very loudly",
+                    "vi": "cười rất to"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "0db4bc44259a4721a4ad3631eeb926b0",
+        "word": "extension",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ɪkˈstenʃn/",
+            "us": "/ɪkˈstenʃn/"
+        },
+        "nearby": [
+            {
+                "word": "extended",
+                "pos": "adjective"
+            },
+            {
+                "word": "extended family",
+                "pos": "noun"
+            },
+            {
+                "word": "extension",
+                "pos": "noun"
+            },
+            {
+                "word": "extension agent",
+                "pos": "noun"
+            },
+            {
+                "word": "extension lead",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the act of increasing the area of activity, group of people, etc. that is affected by something",
+                    "vi": "hành động tăng khu vực hoạt động, nhóm người, v.v. bị ảnh hưởng bởi điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "the extension of new technology into developing countries",
+                        "vi": "sự mở rộng của công nghệ mới vào các nước đang phát triển"
+                    },
+                    {
+                        "en": "a gradual extension of the powers of central government",
+                        "vi": "mở rộng dần quyền lực của chính quyền trung ương"
+                    },
+                    {
+                        "en": "The bank plans various extensions to its credit facilities.",
+                        "vi": "Ngân hàng có kế hoạch mở rộng khác nhau cho các cơ sở tín dụng của mình."
+                    },
+                    {
+                        "en": "My home life was becoming no more than an extension of my job.",
+                        "vi": "Cuộc sống ở nhà của tôi không chỉ là một phần mở rộng của công việc của tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a new room or rooms that are added to a house",
+                    "vi": "một căn phòng mới hoặc những căn phòng được thêm vào một ngôi nhà"
+                },
+                "examples": [
+                    {
+                        "en": "They're building an extension to their house.",
+                        "vi": "Họ đang xây dựng một phần mở rộng cho ngôi nhà của họ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a new part that is added to a building",
+                    "vi": "một phần mới được thêm vào một tòa nhà"
+                },
+                "examples": [
+                    {
+                        "en": "a planned two-storey extension to the hospital",
+                        "vi": "dự kiến mở rộng hai tầng cho bệnh viện"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an extra period of time allowed for something",
+                    "vi": "thêm một khoảng thời gian được phép cho một thứ gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "He's been granted an extension of the contract for another year.",
+                        "vi": "Anh ấy đã được gia hạn hợp đồng thêm một năm."
+                    },
+                    {
+                        "en": "a visa extension",
+                        "vi": "gia hạn thị thực"
+                    },
+                    {
+                        "en": "She was given an extension to finish writing her thesis.",
+                        "vi": "Cô ấy đã được gia hạn để hoàn thành việc viết luận án của mình."
+                    },
+                    {
+                        "en": "(British English) The pub had an extension (= was allowed to stay open longer) on Christmas Eve.",
+                        "vi": "(Tiếng Anh Anh) Quán rượu đã được mở rộng (= được phép mở cửa lâu hơn) vào đêm Giáng sinh."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an extra phone line connected to a central phone in a house or to a switchboard in a large building. In a large building, each extension usually has its own number.",
+                    "vi": "một đường dây điện thoại phụ kết nối với điện thoại trung tâm trong nhà hoặc với tổng đài trong một tòa nhà lớn. Trong một tòa nhà lớn, mỗi phần mở rộng thường có số hiệu riêng."
+                },
+                "examples": [
+                    {
+                        "en": "We have an extension in the bedroom.",
+                        "vi": "Chúng tôi có một phần mở rộng trong phòng ngủ."
+                    },
+                    {
+                        "en": "What's your extension number?",
+                        "vi": "Số máy nhánh của bạn là gì?"
+                    },
+                    {
+                        "en": "Can I have extension 4332 please?",
+                        "vi": "Cho tôi xin số máy lẻ 4332 được không?"
+                    },
+                    {
+                        "en": "I'll give you my extension number, so you can phone me directly.",
+                        "vi": "Tôi sẽ cung cấp cho bạn số máy nhánh của tôi, vì vậy bạn có thể gọi điện trực tiếp cho tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the act of making something longer or larger; the thing that is made longer and larger",
+                    "vi": "hành động làm một cái gì đó dài hơn hoặc lớn hơn; thứ được làm dài hơn và lớn hơn"
+                },
+                "examples": [
+                    {
+                        "en": "The extension of the subway will take several months.",
+                        "vi": "Việc gia hạn tàu điện ngầm sẽ mất vài tháng."
+                    },
+                    {
+                        "en": "extensions to the original railway track",
+                        "vi": "phần mở rộng cho đường ray ban đầu"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "pieces of artificial hair that are added to somebody's own hair to make it longer",
+                    "vi": "những phần tóc nhân tạo được thêm vào tóc của ai đó để làm cho nó dài hơn"
+                },
+                "examples": [
+                    {
+                        "en": "These extensions are very easy to use and won't damage your own hair.",
+                        "vi": "Những phần mở rộng này rất dễ sử dụng và sẽ không làm hỏng tóc của bạn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a part of a college or university that offers courses to students who are not studying full-time; a programme of study for these students",
+                    "vi": "một phần của trường cao đẳng hoặc đại học cung cấp các khóa học cho sinh viên không học toàn thời gian; một chương trình học cho những sinh viên này"
+                },
+                "examples": [
+                    {
+                        "en": "La Salle Extension University",
+                        "vi": "Đại học Mở rộng La Salle"
+                    },
+                    {
+                        "en": "extension courses",
+                        "vi": "các khóa học mở rộng"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the set of three letters that are placed after the dot (= small round mark) at the end of the name of a file and that show what type of file it is",
+                    "vi": "bộ ba chữ cái được đặt sau dấu chấm (= dấu tròn nhỏ) ở cuối tên tệp và cho biết loại tệp đó là"
+                },
+                "examples": [
+                    {
+                        "en": "The extension .doc indicates a word-processing file.",
+                        "vi": "Phần mở rộng .doc chỉ ra một tệp xử lý văn bản."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an extra length of electric wire, used when the wire on an electrical device is not long enough",
+                    "vi": "thêm chiều dài của dây điện, được sử dụng khi dây trên thiết bị điện không đủ dài"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "taking the argument or situation one stage further",
+                    "vi": "đưa lập luận hoặc tình huống lên một giai đoạn nữa"
+                },
+                "examples": [
+                    {
+                        "en": "The blame lies with the teachers and, by extension, with the Education Service.",
+                        "vi": "Trách nhiệm thuộc về các giáo viên và nói chung là với Sở Giáo dục."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "43e6894967014808905f337f372d58ef",
+        "word": "fire escape",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈfaɪər ɪskeɪp/",
+            "us": "/ˈfaɪər ɪskeɪp/"
+        },
+        "nearby": [
+            {
+                "word": "fire-eater",
+                "pos": "noun"
+            },
+            {
+                "word": "fire engine",
+                "pos": "noun"
+            },
+            {
+                "word": "fire escape",
+                "pos": "noun"
+            },
+            {
+                "word": "fire extinguisher",
+                "pos": "noun"
+            },
+            {
+                "word": "firefight",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "metal stairs or a ladder on the outside of a building that people can use to escape from a fire",
+                    "vi": "cầu thang kim loại hoặc thang bên ngoài tòa nhà mà mọi người có thể sử dụng để thoát khỏi đám cháy"
+                },
+                "examples": [
+                    {
+                        "en": "The thief got away down the fire escape.",
+                        "vi": "Tên trộm đã xuống xe thoát hiểm."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1acbd451b38c41fab2e23e2ff6b9ad78",
+        "word": "fireplace",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈfaɪəpleɪs/",
+            "us": "/ˈfaɪərpleɪs/"
+        },
+        "nearby": [
+            {
+                "word": "fire off",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "the Fire of London",
+                "pos": ""
+            },
+            {
+                "word": "fireplace",
+                "pos": "noun"
+            },
+            {
+                "word": "firepower",
+                "pos": "noun"
+            },
+            {
+                "word": "fire practice",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an open space for a fire in the wall of a room",
+                    "vi": "một không gian mở cho ngọn lửa trong bức tường của một căn phòng"
+                },
+                "examples": [
+                    {
+                        "en": "A log fire crackled in the fireplace.",
+                        "vi": "Một khúc củi cháy nổ lách tách trong lò sưởi."
+                    },
+                    {
+                        "en": "Every room in the house has a fireplace.",
+                        "vi": "Mỗi phòng trong nhà đều có lò sưởi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "765dda56f25c45c596c2ca73183ae855",
+        "word": "flooring",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈflɔːrɪŋ/",
+            "us": "/ˈflɔːrɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "floorboard",
+                "pos": "noun"
+            },
+            {
+                "word": "floorcloth",
+                "pos": "noun"
+            },
+            {
+                "word": "flooring",
+                "pos": "noun"
+            },
+            {
+                "word": "floor lamp",
+                "pos": "noun"
+            },
+            {
+                "word": "floor leader",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "material used to make the floor of a room",
+                    "vi": "vật liệu làm sàn phòng"
+                },
+                "examples": [
+                    {
+                        "en": "vinyl/wooden flooring",
+                        "vi": "sàn nhựa vinyl / gỗ"
+                    },
+                    {
+                        "en": "kitchen/bathroom flooring",
+                        "vi": "sàn nhà bếp / phòng tắm"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "388ef41d82c4475ba7b34ea53950fc5d",
+        "word": "green wall",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈɡriːn wɔːl/",
+            "us": "/ˈɡriːn wɔːl/"
+        },
+        "nearby": [
+            {
+                "word": "green thumb",
+                "pos": "noun"
+            },
+            {
+                "word": "green vegetable",
+                "pos": "noun"
+            },
+            {
+                "word": "green wall",
+                "pos": "noun"
+            },
+            {
+                "word": "greenwash",
+                "pos": "noun"
+            },
+            {
+                "word": "the green welly brigade",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a structure covered in plants that can be attached to the wall of a building",
+                    "vi": "một cấu trúc được bao phủ bằng thực vật có thể được gắn vào tường của một tòa nhà"
+                },
+                "examples": [
+                    {
+                        "en": "a 12-storey green wall",
+                        "vi": "12 tầng tường xanh"
+                    },
+                    {
+                        "en": "The client wants a green wall installed in his house.",
+                        "vi": "Khách hàng muốn có một bức tường xanh được lắp đặt trong ngôi nhà của mình."
+                    },
+                    {
+                        "en": "A green wall will improve the energy balance and aid biodiversity.",
+                        "vi": "Một bức tường xanh sẽ cải thiện sự cân bằng năng lượng và hỗ trợ đa dạng sinh học."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "50e6dc9cc8874bc8a8b7f7d6dc225d21",
+        "word": "porch",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/pɔːtʃ/",
+            "us": "/pɔːrtʃ/"
+        },
+        "nearby": [
+            {
+                "word": "pop-up",
+                "pos": "adjective"
+            },
+            {
+                "word": "porcelain",
+                "pos": "noun"
+            },
+            {
+                "word": "porch",
+                "pos": "noun"
+            },
+            {
+                "word": "porcine",
+                "pos": "adjective"
+            },
+            {
+                "word": "porcini",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small area at the entrance to a building, such as a house or a church, that is covered by a roof and often has walls",
+                    "vi": "một khu vực nhỏ ở lối vào một tòa nhà, chẳng hạn như một ngôi nhà hoặc một nhà thờ, có mái che và thường có tường"
+                },
+                "examples": [
+                    {
+                        "en": "She stood in the porch and rang the doorbell.",
+                        "vi": "Cô đứng trong hiên nhà và bấm chuông."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a platform with an open front and a roof, built onto the side of a house on the ground floor",
+                    "vi": "một nền tảng với một mặt trước mở và một mái nhà, được xây dựng ở phía bên của một ngôi nhà ở tầng trệt"
+                },
+                "examples": [
+                    {
+                        "en": "They were sitting out on the porch in the cool evening air.",
+                        "vi": "Họ đang ngồi ngoài hiên trong không khí mát mẻ buổi tối."
+                    },
+                    {
+                        "en": "After dinner we sat on the front porch and talked for hours.",
+                        "vi": "Sau bữa tối, chúng tôi ngồi trên hiên trước và nói chuyện hàng giờ."
+                    },
+                    {
+                        "en": "The screened porch looks across the backyard into the woods.",
+                        "vi": "Hàng hiên có màn che nhìn qua sân sau vào rừng."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c946243e4b924528810df8f62282aa24",
+        "word": "sewer",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈsuːə(r)/",
+            "us": "/ˈsuːər/"
+        },
+        "nearby": [
+            {
+                "word": "sewage works",
+                "pos": "noun"
+            },
+            {
+                "word": "William H Seward",
+                "pos": ""
+            },
+            {
+                "word": "sewer",
+                "pos": "noun"
+            },
+            {
+                "word": "sewerage",
+                "pos": "noun"
+            },
+            {
+                "word": "sewer grate",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an underground pipe that is used to carry sewage away from houses, factories, etc.",
+                    "vi": "một đường ống ngầm được sử dụng để dẫn nước thải ra khỏi nhà ở, nhà máy, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "a sewer pipe/system",
+                        "vi": "một đường ống / hệ thống thoát nước"
+                    },
+                    {
+                        "en": "an open sewer (= a channel on the surface of the ground that is used to carry sewage)",
+                        "vi": "cống hở (= kênh trên bề mặt đất được sử dụng để dẫn nước thải)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "50658ef24afb4833ba1f70d258216cd0",
+        "word": "shutter",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈʃʌtə(r)/",
+            "us": "/ˈʃʌtər/"
+        },
+        "nearby": [
+            {
+                "word": "shut out",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "shutout",
+                "pos": "noun"
+            },
+            {
+                "word": "shutter",
+                "pos": "noun"
+            },
+            {
+                "word": "shutterbug",
+                "pos": "noun"
+            },
+            {
+                "word": "shuttered",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "one of a pair of wooden or metal covers that can be closed over the outside of a window to keep out light or protect the windows from damage",
+                    "vi": "một trong hai tấm bìa bằng gỗ hoặc kim loại có thể đóng lại bên ngoài cửa sổ để tránh ánh sáng hoặc bảo vệ cửa sổ khỏi bị hư hại"
+                },
+                "examples": [
+                    {
+                        "en": "to open/close the shutters",
+                        "vi": "để mở / đóng cửa chớp"
+                    },
+                    {
+                        "en": "They explored, throwing open the shutters in each of the big rooms.",
+                        "vi": "Họ khám phá, mở cửa chớp trong từng phòng lớn."
+                    },
+                    {
+                        "en": "(British English, figurative) More than 70 000 shopkeepers have been forced to put up the shutters (= close down their businesses) in the past year.",
+                        "vi": "(Tiếng Anh Anh, nghĩa bóng) Hơn 70 000 chủ cửa hàng đã bị buộc phải đóng cửa (= đóng cửa các cơ sở kinh doanh của họ) trong năm qua."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the part of a camera that opens to allow light to pass through the lens when you take a photograph",
+                    "vi": "phần của máy ảnh mở ra để cho phép ánh sáng đi qua ống kính khi bạn chụp ảnh"
+                },
+                "examples": [
+                    {
+                        "en": "the quiet click of the shutter",
+                        "vi": "tiếng nhấp yên lặng của màn trập"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to stop letting somebody know what your thoughts or feelings are; to stop letting yourself think about something",
+                    "vi": "ngừng cho ai đó biết suy nghĩ hoặc cảm xúc của bạn là gì; ngừng để bản thân suy nghĩ về điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "He brought down the shutters on the image of the dying girl.",
+                        "vi": "Anh ta hạ cánh cửa chớp xuống hình ảnh cô gái đang hấp hối."
+                    },
+                    {
+                        "en": "I could feel the shutters coming down in her mind.",
+                        "vi": "Tôi có thể cảm thấy cửa chớp tắt dần trong tâm trí cô ấy."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e4c3fb96db9f474682a35423515e5744",
+        "word": "threshold",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈθreʃhəʊld/",
+            "us": "/ˈθreʃhəʊld/"
+        },
+        "nearby": [
+            {
+                "word": "thresh",
+                "pos": "verb"
+            },
+            {
+                "word": "threshing",
+                "pos": "noun"
+            },
+            {
+                "word": "threshold",
+                "pos": "noun"
+            },
+            {
+                "word": "threw",
+                "pos": ""
+            },
+            {
+                "word": "thrice",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the floor or ground at the bottom of a doorway, considered as the entrance to a building or room",
+                    "vi": "sàn hoặc mặt đất ở cuối ô cửa, được coi là lối vào một tòa nhà hoặc căn phòng"
+                },
+                "examples": [
+                    {
+                        "en": "He stepped across the threshold.",
+                        "vi": "Anh bước qua ngưỡng cửa."
+                    },
+                    {
+                        "en": "on the threshold She stood hesitating on the threshold.",
+                        "vi": "ở ngưỡng cửa Cô ấy đứng lưỡng lự trước ngưỡng cửa."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the level at which something starts to happen or have an effect",
+                    "vi": "mức độ mà tại đó điều gì đó bắt đầu xảy ra hoặc có ảnh hưởng"
+                },
+                "examples": [
+                    {
+                        "en": "He has a low boredom threshold (= he gets bored easily).",
+                        "vi": "Anh ấy có ngưỡng buồn chán thấp (= anh ấy dễ chán)."
+                    },
+                    {
+                        "en": "I have a high pain threshold (= I can suffer a lot of pain before I start to react).",
+                        "vi": "Tôi có ngưỡng chịu đau cao (= Tôi có thể bị đau rất nhiều trước khi bắt đầu phản ứng)."
+                    },
+                    {
+                        "en": "My earnings are just above the tax threshold (= more than the amount at which you start paying tax).",
+                        "vi": "Thu nhập của tôi chỉ cao hơn ngưỡng thuế (= nhiều hơn số tiền bạn bắt đầu trả thuế)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the point just before a new situation, period of life, etc. begins",
+                    "vi": "điểm ngay trước khi một tình huống mới, giai đoạn cuộc sống, v.v. bắt đầu"
+                },
+                "examples": [
+                    {
+                        "en": "on the threshold of something She felt as though she was on the threshold of a new life.",
+                        "vi": "trước ngưỡng cửa của điều gì đó Cô ấy cảm thấy như thể cô ấy đang ở ngưỡng cửa của một cuộc sống mới."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4df6443b603f4e13ac4cd3c56c6c9049",
+        "word": "walkway",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈwɔːkweɪ/",
+            "us": "/ˈwɔːkweɪ/"
+        },
+        "nearby": [
+            {
+                "word": "walk up",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "walk-up",
+                "pos": "noun"
+            },
+            {
+                "word": "walkway",
+                "pos": "noun"
+            },
+            {
+                "word": "wall",
+                "pos": "noun"
+            },
+            {
+                "word": "wall",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a passage or path for walking along, often outside and raised above the ground",
+                    "vi": "một lối đi hoặc lối đi để đi bộ dọc theo, thường ở bên ngoài và nhô lên khỏi mặt đất"
+                },
+                "examples": [
+                    {
+                        "en": "A covered walkway joins the two buildings.",
+                        "vi": "Một lối đi có mái che nối hai tòa nhà."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "11c14bb507ed4ba99d9c84d0b4fdc9d8",
+        "word": "windowsill",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈwɪndəʊsɪl/",
+            "us": "/ˈwɪndəʊsɪl/"
+        },
+        "nearby": [
+            {
+                "word": "window shade",
+                "pos": "noun"
+            },
+            {
+                "word": "window shopping",
+                "pos": "noun"
+            },
+            {
+                "word": "windowsill",
+                "pos": "noun"
+            },
+            {
+                "word": "window tax",
+                "pos": "noun"
+            },
+            {
+                "word": "window washer",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a narrow shelf below a window, either inside or outside",
+                    "vi": "một kệ hẹp bên dưới cửa sổ, bên trong hoặc bên ngoài"
+                },
+                "examples": [
+                    {
+                        "en": "Place the plants on a sunny windowsill.",
+                        "vi": "Đặt cây trên bệ cửa sổ đầy nắng."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4229cd063a5a4bdeb71545cad45e226d",
+        "word": "arcade",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ɑːˈkeɪd/",
+            "us": "/ɑːrˈkeɪd/"
+        },
+        "nearby": [
+            {
+                "word": "arc",
+                "pos": "noun"
+            },
+            {
+                "word": "arc",
+                "pos": "verb"
+            },
+            {
+                "word": "arcade",
+                "pos": "noun"
+            },
+            {
+                "word": "Arcadia",
+                "pos": "noun"
+            },
+            {
+                "word": "Arcadian",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a covered passage with arches along the side of a row of buildings (usually a row of shops)",
+                    "vi": "một lối đi có mái che với mái vòm dọc theo một dãy nhà (thường là một dãy cửa hàng)"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a covered passage between streets, with shops on either side",
+                    "vi": "một lối đi có mái che giữa các con phố, với các cửa hàng ở hai bên"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a large building with a number of shops in it",
+                    "vi": "một tòa nhà lớn với một số cửa hàng trong đó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a place where you can play games on machines which you use coins to operate",
+                    "vi": "nơi bạn có thể chơi trò chơi trên máy mà bạn sử dụng tiền xu để vận hành"
+                },
+                "examples": [
+                    {
+                        "en": "arcade games",
+                        "vi": "trò chơi arcade"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "cdabdd669304434291096ad08d72023f",
+        "word": "archway",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈɑːtʃweɪ/",
+            "us": "/ˈɑːrtʃweɪ/"
+        },
+        "nearby": [
+            {
+                "word": "archly",
+                "pos": "adverb"
+            },
+            {
+                "word": "arch-rival",
+                "pos": "noun"
+            },
+            {
+                "word": "archway",
+                "pos": "noun"
+            },
+            {
+                "word": "arc lamp",
+                "pos": "noun"
+            },
+            {
+                "word": "Arctic",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a passage or an entrance with an arch over it",
+                    "vi": "một lối đi hoặc một lối vào với một mái vòm trên nó"
+                },
+                "examples": [
+                    {
+                        "en": "We went through a stone archway into the courtyard.",
+                        "vi": "Chúng tôi đi qua một cổng vòm bằng đá vào sân trong."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "131b727984b84bd58c9d247afa1b9b8c",
+        "word": "atrium",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈeɪtriəm/",
+            "us": "/ˈeɪtriəm/"
+        },
+        "nearby": [
+            {
+                "word": "ATP",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "at-risk",
+                "pos": "adjective"
+            },
+            {
+                "word": "atrium",
+                "pos": "noun"
+            },
+            {
+                "word": "atrocious",
+                "pos": "adjective"
+            },
+            {
+                "word": "atrociously",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a large high space, usually with a glass roof, in the centre of a modern building",
+                    "vi": "một không gian cao lớn, thường có mái kính, ở trung tâm của một tòa nhà hiện đại"
+                },
+                "examples": [
+                    {
+                        "en": "The reception was held in the atrium.",
+                        "vi": "Tiệc chiêu đãi được tổ chức trong giếng trời."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an open space in the centre of an ancient Roman villa (= a large house)",
+                    "vi": "một không gian mở ở trung tâm của một biệt thự La Mã cổ đại (= một ngôi nhà lớn)"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "either of the two upper spaces in the heart that are used in the first stage of sending the blood around the body",
+                    "vi": "một trong hai không gian phía trên của tim được sử dụng trong giai đoạn đầu tiên đưa máu đi khắp cơ thể"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "a0de9b81e25a442d9f57884109e5174b",
+        "word": "balustrade",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌbæləˈstreɪd/",
+            "us": "/ˈbæləstreɪd/"
+        },
+        "nearby": [
+            {
+                "word": "Baluchi",
+                "pos": "noun"
+            },
+            {
+                "word": "baluster",
+                "pos": "noun"
+            },
+            {
+                "word": "balustrade",
+                "pos": "noun"
+            },
+            {
+                "word": "bam",
+                "pos": "exclamation"
+            },
+            {
+                "word": "Bambi",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a row of posts, joined together at the top, built along the edge of a balcony, bridge, etc. to prevent people from falling off, or as a decoration",
+                    "vi": "một dãy cột, nối với nhau ở phía trên, dựng dọc theo mép ban công, chân cầu, ... để ngăn người rơi xuống, hoặc làm vật trang trí."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "73027e4274c2476ca11aef764897e2f4",
+        "word": "bas-relief",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌbæs rɪˈliːf/",
+            "us": "/ˌbæs rɪˈliːf/"
+        },
+        "nearby": [
+            {
+                "word": "Basque",
+                "pos": "noun"
+            },
+            {
+                "word": "Basque",
+                "pos": "adjective"
+            },
+            {
+                "word": "bas-relief",
+                "pos": "noun"
+            },
+            {
+                "word": "Sam Bass",
+                "pos": ""
+            },
+            {
+                "word": "bass1",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a form of sculpture in which the shapes are cut so that they are slightly raised from the background; a sculpture made in this way",
+                    "vi": "một hình thức điêu khắc trong đó các hình dạng được cắt sao cho chúng hơi nhô lên khỏi nền; một tác phẩm điêu khắc được làm theo cách này"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "38e1e8294db64789a21936f82358391e",
+        "word": "belvedere",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbelvədɪə(r)/",
+            "us": "/ˈbelvədɪr/"
+        },
+        "nearby": [
+            {
+                "word": "beltway",
+                "pos": "noun"
+            },
+            {
+                "word": "beluga",
+                "pos": "noun"
+            },
+            {
+                "word": "belvedere",
+                "pos": "noun"
+            },
+            {
+                "word": "bemoan",
+                "pos": "verb"
+            },
+            {
+                "word": "bemuse",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small house or structure, sometimes with one side open, designed to give a beautiful view",
+                    "vi": "một ngôi nhà hoặc công trình kiến trúc nhỏ, đôi khi có một mặt mở, được thiết kế để có tầm nhìn đẹp"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "1f2ffdf5d0f04fa78a719624356de3a1",
+        "word": "booth",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/buːð/",
+            "us": "/buːθ/"
+        },
+        "nearby": [
+            {
+                "word": "bootee",
+                "pos": "noun"
+            },
+            {
+                "word": "boot-faced",
+                "pos": "adjective"
+            },
+            {
+                "word": "booth",
+                "pos": "noun"
+            },
+            {
+                "word": "John Wilkes Booth",
+                "pos": ""
+            },
+            {
+                "word": "booth capturing",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small place with walls or sides where you can do something privately, for example make a phone call or vote",
+                    "vi": "một nơi nhỏ với các bức tường hoặc các cạnh, nơi bạn có thể làm việc gì đó riêng tư, chẳng hạn như gọi điện thoại hoặc bỏ phiếu"
+                },
+                "examples": [
+                    {
+                        "en": "a phone booth",
+                        "vi": "một bốt điện thoại"
+                    },
+                    {
+                        "en": "a polling/voting booth",
+                        "vi": "một phòng bỏ phiếu / phòng bỏ phiếu"
+                    },
+                    {
+                        "en": "an information/a ticket booth",
+                        "vi": "một thông tin / một quầy bán vé"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a small tent or temporary structure at a market, an exhibition or a fairground, where you can buy things, get information or watch something",
+                    "vi": "lều nhỏ hoặc công trình tạm thời tại chợ, triển lãm hoặc khu hội chợ, nơi bạn có thể mua đồ, lấy thông tin hoặc xem thứ gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "The stalls and booths were doing a brisk trade.",
+                        "vi": "Các quầy hàng và gian hàng đang buôn bán nhanh chóng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a place to sit in a restaurant which consists of two long seats with a table between them",
+                    "vi": "một nơi để ngồi trong một nhà hàng bao gồm hai ghế dài với một bàn giữa chúng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a place in a sports ground, theatre, etc. where the people who introduce or describe an event for radio or television sit",
+                    "vi": "một địa điểm trong sân thể thao, nhà hát, v.v. nơi những người giới thiệu hoặc mô tả một sự kiện cho đài phát thanh hoặc truyền hình ngồi"
+                },
+                "examples": [
+                    {
+                        "en": "the announcer's/announce/announcing booth",
+                        "vi": "gian hàng của người thông báo / thông báo / thông báo"
+                    },
+                    {
+                        "en": "Sportsnet has announced that Bob Cole will return to the broadcast booth for his final season of calling National Hockey League games.",
+                        "vi": "Sportsnet đã thông báo rằng Bob Cole sẽ trở lại gian hàng phát sóng cho mùa giải cuối cùng của anh ấy là các trận đấu của Liên đoàn Khúc côn cầu Quốc gia."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7764ad9429f84cb4ada23675a21f2c8f",
+        "word": "buttress",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbʌtrəs/",
+            "us": "/ˈbʌtrəs/"
+        },
+        "nearby": [
+            {
+                "word": "Buttons",
+                "pos": ""
+            },
+            {
+                "word": "butt out",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "buttress",
+                "pos": "noun"
+            },
+            {
+                "word": "buttress",
+                "pos": "verb"
+            },
+            {
+                "word": "butt ugly",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a structure made of stone or brick that supports a wall",
+                    "vi": "một cấu trúc bằng đá hoặc gạch đỡ một bức tường"
+                },
+                "examples": [
+                    {
+                        "en": "It was necessary to strengthen the building with large external buttresses.",
+                        "vi": "Nó là cần thiết để tăng cường tòa nhà với các bốt lớn bên ngoài."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4cc2ce0bbb314e83ba755ed7272d17bf",
+        "word": "capital",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkæpɪtl/",
+            "us": "/ˈkæpɪtl/"
+        },
+        "nearby": [
+            {
+                "word": "capillary",
+                "pos": "noun"
+            },
+            {
+                "word": "capillary action",
+                "pos": "noun"
+            },
+            {
+                "word": "capital",
+                "pos": "noun"
+            },
+            {
+                "word": "capital",
+                "pos": "adjective"
+            },
+            {
+                "word": "Capital FM",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the most important town or city of a country or region, where the government operates from",
+                    "vi": "thị trấn hoặc thành phố quan trọng nhất của một quốc gia hoặc khu vực, nơi chính phủ hoạt động"
+                },
+                "examples": [
+                    {
+                        "en": "Cairo is the capital of Egypt.",
+                        "vi": "Cairo là thủ đô của Ai Cập."
+                    },
+                    {
+                        "en": "the state capital",
+                        "vi": "thủ đô nhà nước"
+                    },
+                    {
+                        "en": "Rennes is the provincial capital of Brittany.",
+                        "vi": "Rennes là thủ phủ tỉnh của Brittany."
+                    },
+                    {
+                        "en": "a tour of six European capital cities",
+                        "vi": "một chuyến tham quan sáu thành phố thủ đô của châu Âu"
+                    },
+                    {
+                        "en": "She liked the fast pace of life in the capital.",
+                        "vi": "Cô thích nhịp sống nhanh ở thủ đô."
+                    },
+                    {
+                        "en": "(figurative) Paris, the fashion capital of the world",
+                        "vi": "(nghĩa bóng) Paris, kinh đô thời trang của thế giới"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a letter of the form and size that is used at the beginning of a sentence or a name (= A,B,C rather than a,b,c)",
+                    "vi": "một chữ cái có dạng và kích thước được sử dụng ở đầu câu hoặc tên (= A, B, C thay vì a, b, c)"
+                },
+                "examples": [
+                    {
+                        "en": "Use block capitals (= separate capital letters).",
+                        "vi": "Sử dụng viết hoa khối (= các chữ cái viết hoa riêng biệt)."
+                    },
+                    {
+                        "en": "in capitals Please write in capitals.",
+                        "vi": "viết hoa Vui lòng viết hoa."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "wealth or property that is owned by a business or a person and can be invested or used to start a business",
+                    "vi": "của cải hoặc tài sản thuộc sở hữu của một doanh nghiệp hoặc một người và có thể được đầu tư hoặc sử dụng để bắt đầu kinh doanh"
+                },
+                "examples": [
+                    {
+                        "en": "share/investment/equity capital",
+                        "vi": "vốn cổ phần / đầu tư / vốn cổ phần"
+                    },
+                    {
+                        "en": "He had various ideas on how to raise capital for the project.",
+                        "vi": "Ông đã có nhiều ý tưởng về cách huy động vốn cho dự án."
+                    },
+                    {
+                        "en": "a guide to investing capital in new markets",
+                        "vi": "hướng dẫn đầu tư vốn vào các thị trường mới"
+                    },
+                    {
+                        "en": "Our capital is all tied up in property.",
+                        "vi": "Vốn của chúng ta đều bị ràng buộc vào tài sản."
+                    },
+                    {
+                        "en": "capital investment (= money invested in a business)",
+                        "vi": "vốn đầu tư (= tiền đầu tư vào một doanh nghiệp)"
+                    },
+                    {
+                        "en": "capital expenditure/spending (= money that an organization spends on buildings, equipment, etc.)",
+                        "vi": "chi tiêu / chi tiêu vốn (= số tiền mà một tổ chức chi cho các tòa nhà, thiết bị, v.v.)"
+                    },
+                    {
+                        "en": "capital costs/assets",
+                        "vi": "chi phí vốn / tài sản"
+                    },
+                    {
+                        "en": "the capital value of the property",
+                        "vi": "giá trị vốn của tài sản"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an amount of money that is invested or is used to start a business",
+                    "vi": "một số tiền được đầu tư hoặc được sử dụng để bắt đầu kinh doanh"
+                },
+                "examples": [
+                    {
+                        "en": "to set up a business with a starting capital of £100 000",
+                        "vi": "để thành lập doanh nghiệp với số vốn ban đầu là £ 100 000"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "people who use their money to start businesses, considered as a group",
+                    "vi": "những người sử dụng tiền của họ để bắt đầu kinh doanh, được coi là một nhóm"
+                },
+                "examples": [
+                    {
+                        "en": "capital and labour",
+                        "vi": "vốn và lao động"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a valuable resource of a particular kind",
+                    "vi": "một nguồn tài nguyên có giá trị của một loại cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "Education creates intellectual capital to convert into economic and social rewards.",
+                        "vi": "Giáo dục tạo ra vốn tri thức để chuyển thành phần thưởng kinh tế và xã hội."
+                    },
+                    {
+                        "en": "Immigrant children have cultural capital of their own—including their home language—which may be undervalued.",
+                        "vi": "Trẻ em nhập cư có vốn văn hóa của riêng mình — bao gồm cả ngôn ngữ mẹ đẻ — có thể bị đánh giá thấp."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the top part of a column",
+                    "vi": "phần trên cùng của một cột"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to use a situation for your own advantage",
+                    "vi": "sử dụng một tình huống có lợi cho riêng bạn"
+                },
+                "examples": [
+                    {
+                        "en": "The opposition parties are making political capital out of the government's problems.",
+                        "vi": "Các đảng đối lập đang tìm kiếm nguồn vốn chính trị từ các vấn đề của chính phủ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1f0230b791ee4a9b9a3e760514609080",
+        "word": "casement",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkeɪsmənt/",
+            "us": "/ˈkeɪsmənt/"
+        },
+        "nearby": [
+            {
+                "word": "case law",
+                "pos": "noun"
+            },
+            {
+                "word": "caseload",
+                "pos": "noun"
+            },
+            {
+                "word": "casement",
+                "pos": "noun"
+            },
+            {
+                "word": "case-sensitive",
+                "pos": "adjective"
+            },
+            {
+                "word": "case study",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a window that opens on hinges like a door",
+                    "vi": "một cửa sổ mở ra trên bản lề như một cánh cửa"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "4aaed9e9695d499f9d8be6e2c248c8f3",
+        "word": "chimney pot",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtʃɪmni pɒt/",
+            "us": "/ˈtʃɪmni pɑːt/"
+        },
+        "nearby": [
+            {
+                "word": "chimney breast",
+                "pos": "noun"
+            },
+            {
+                "word": "chimney piece",
+                "pos": "noun"
+            },
+            {
+                "word": "chimney pot",
+                "pos": "noun"
+            },
+            {
+                "word": "chimney stack",
+                "pos": "noun"
+            },
+            {
+                "word": "chimney sweep",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a short wide pipe that is placed on top of a chimney",
+                    "vi": "một đường ống rộng ngắn được đặt trên đầu ống khói"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "a052f5b2bc8643408a19fe03ab6d5157",
+        "word": "colonnade",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌkɒləˈneɪd/",
+            "us": "/ˌkɑːləˈneɪd/"
+        },
+        "nearby": [
+            {
+                "word": "colonize",
+                "pos": "verb"
+            },
+            {
+                "word": "colonizer",
+                "pos": "noun"
+            },
+            {
+                "word": "colonnade",
+                "pos": "noun"
+            },
+            {
+                "word": "colonnaded",
+                "pos": "adjective"
+            },
+            {
+                "word": "colony",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a row of stone columns with equal spaces between them, usually supporting a roof",
+                    "vi": "một hàng cột đá với khoảng trống bằng nhau giữa chúng, thường đỡ một mái nhà"
+                },
+                "examples": [
+                    {
+                        "en": "the oldest Greek temple whose colonnade still stands",
+                        "vi": "ngôi đền Hy Lạp cổ nhất có hàng cột vẫn còn sừng sững"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6d8f46e9f1bf4f8291a0af7bfdd4e736",
+        "word": "corbel",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkɔːbl/",
+            "us": "/ˈkɔːrbl/"
+        },
+        "nearby": [
+            {
+                "word": "coral snake",
+                "pos": "noun"
+            },
+            {
+                "word": "cor anglais",
+                "pos": "noun"
+            },
+            {
+                "word": "corbel",
+                "pos": "noun"
+            },
+            {
+                "word": "'Gentleman Jim' Corbett",
+                "pos": ""
+            },
+            {
+                "word": "Ronnie Corbett",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a piece of stone or wood that sticks out from a wall to support something, for example an arch",
+                    "vi": "một mảnh đá hoặc gỗ nhô ra khỏi tường để đỡ một thứ gì đó, ví dụ như một cái vòm"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "f74e63fe9dc14643b06b7f33f74314ec",
+        "word": "downspout",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈdaʊnspaʊt/",
+            "us": "/ˈdaʊnspaʊt/"
+        },
+        "nearby": [
+            {
+                "word": "downsize",
+                "pos": "verb"
+            },
+            {
+                "word": "downsizing",
+                "pos": "noun"
+            },
+            {
+                "word": "downspout",
+                "pos": "noun"
+            },
+            {
+                "word": "Down's syndrome",
+                "pos": "noun"
+            },
+            {
+                "word": "downstage",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a pipe that carries rainwater from the roof of a building to a drain",
+                    "vi": "ống dẫn nước mưa từ mái của một tòa nhà đến cống thoát nước"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "71df915dff484401b1e8f9aec84341c2",
+        "word": "drainpipe",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈdreɪnpaɪp/",
+            "us": "/ˈdreɪnpaɪp/"
+        },
+        "nearby": [
+            {
+                "word": "drained",
+                "pos": "adjective"
+            },
+            {
+                "word": "draining board",
+                "pos": "noun"
+            },
+            {
+                "word": "drainpipe",
+                "pos": "noun"
+            },
+            {
+                "word": "drake",
+                "pos": "noun"
+            },
+            {
+                "word": "Francis Drake",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a pipe that carries rainwater from the roof of a building to a drain",
+                    "vi": "ống dẫn nước mưa từ mái của một tòa nhà đến cống thoát nước"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a pipe that carries dirty water or other liquid waste away from a building",
+                    "vi": "đường ống dẫn nước bẩn hoặc chất thải lỏng khác ra khỏi tòa nhà"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "b6750da732264584924da93ac67ca9e5",
+        "word": "eaves",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/iːvz/",
+            "us": "/iːvz/"
+        },
+        "nearby": [
+            {
+                "word": "eau de cologne",
+                "pos": "noun"
+            },
+            {
+                "word": "eau de toilette",
+                "pos": "noun"
+            },
+            {
+                "word": "eaves",
+                "pos": "noun"
+            },
+            {
+                "word": "eavesdrop",
+                "pos": "verb"
+            },
+            {
+                "word": "eavesdropper",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the lower edges of a roof that stick out over the walls",
+                    "vi": "các cạnh dưới của mái nhà nhô ra ngoài các bức tường"
+                },
+                "examples": [
+                    {
+                        "en": "birds nesting under the eaves",
+                        "vi": "chim làm tổ dưới mái hiên"
+                    },
+                    {
+                        "en": "overhanging eaves",
+                        "vi": "mái hiên nhô ra"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "700052e9f14a415da38d36ed3f2a7e7c",
+        "word": "facia",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈfeɪʃə/",
+            "us": "/ˈfeɪʃə/"
+        },
+        "nearby": [
+            {
+                "word": "face up to",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "face value",
+                "pos": "noun"
+            },
+            {
+                "word": "facia",
+                "pos": "noun"
+            },
+            {
+                "word": "facial",
+                "pos": "adjective"
+            },
+            {
+                "word": "facial",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the part of a car in front of the driver that has instruments and controls in it",
+                    "vi": "phần của một chiếc ô tô phía trước người lái xe có các thiết bị và điều khiển trong đó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a board on the roof of a house, at the end of the rafters",
+                    "vi": "ván trên nóc nhà, cuối vì kèo."
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a board above the entrance of a shop, with the name of the shop on it",
+                    "vi": "một tấm bảng phía trên lối vào của một cửa hàng, với tên của cửa hàng trên đó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the hard cover on a mobile phone",
+                    "vi": "bìa cứng trên điện thoại di động"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "392792fe96f140fd891c8aa72ee2c3ff",
+        "word": "fascia",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈfeɪʃə/",
+            "us": "/ˈfeɪʃə/"
+        },
+        "nearby": [
+            {
+                "word": "fartlek",
+                "pos": "noun"
+            },
+            {
+                "word": "the Far West",
+                "pos": ""
+            },
+            {
+                "word": "fascia",
+                "pos": "noun"
+            },
+            {
+                "word": "fasciitis",
+                "pos": "noun"
+            },
+            {
+                "word": "fascinate",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the part of a car in front of the driver that has instruments and controls in it",
+                    "vi": "phần của một chiếc ô tô phía trước người lái xe có các thiết bị và điều khiển trong đó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a board on the roof of a house, at the end of the rafters",
+                    "vi": "ván trên nóc nhà, cuối vì kèo."
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a board above the entrance of a shop, with the name of the shop on it",
+                    "vi": "một tấm bảng phía trên lối vào của một cửa hàng, với tên của cửa hàng trên đó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the hard cover on a mobile phone",
+                    "vi": "bìa cứng trên điện thoại di động"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "10328973094340c79aaf5344423c983e",
+        "word": "fretwork",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈfretwɜːk/",
+            "us": "/ˈfretwɜːrk/"
+        },
+        "nearby": [
+            {
+                "word": "fretsaw",
+                "pos": "noun"
+            },
+            {
+                "word": "fretted",
+                "pos": "adjective"
+            },
+            {
+                "word": "fretwork",
+                "pos": "noun"
+            },
+            {
+                "word": "Lucian Freud",
+                "pos": ""
+            },
+            {
+                "word": "Freudian",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "patterns cut into wood, metal, etc. to decorate it; the process of making these patterns",
+                    "vi": "hoa văn cắt thành gỗ, kim loại, vv để trang trí nó; quá trình tạo ra những mẫu này"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "080e86d9c7bb4c24afed87d714b16097",
+        "word": "gable",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈɡeɪbl/",
+            "us": "/ˈɡeɪbl/"
+        },
+        "nearby": [
+            {
+                "word": "gabfest",
+                "pos": "noun"
+            },
+            {
+                "word": "gabion",
+                "pos": "noun"
+            },
+            {
+                "word": "gable",
+                "pos": "noun"
+            },
+            {
+                "word": "Clark Gable",
+                "pos": ""
+            },
+            {
+                "word": "gabled",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the upper part of the end wall of a building, between the two sloping sides of the roof, that is like a triangle in shape",
+                    "vi": "Phần trên của bức tường cuối của một tòa nhà, giữa hai mặt dốc của mái, giống như một hình tam giác."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "bd86fe8185a54c22a7d9d834bf706706",
+        "word": "gutter",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈɡʌtə(r)/",
+            "us": "/ˈɡʌtər/"
+        },
+        "nearby": [
+            {
+                "word": "gutta-percha",
+                "pos": "noun"
+            },
+            {
+                "word": "gutted",
+                "pos": "adjective"
+            },
+            {
+                "word": "gutter",
+                "pos": "noun"
+            },
+            {
+                "word": "gutter",
+                "pos": "verb"
+            },
+            {
+                "word": "guttering",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a long curved channel made of metal or plastic that is fixed under the edge of a roof to carry away the water when it rains",
+                    "vi": "một kênh dài cong làm bằng kim loại hoặc nhựa được cố định dưới mép mái nhà để dẫn nước đi khi trời mưa"
+                },
+                "examples": [
+                    {
+                        "en": "a blocked/leaking gutter",
+                        "vi": "máng xối bị tắc / rò rỉ"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a channel at the edge of a road where water collects and is carried away to drains",
+                    "vi": "một con kênh ở mép đường nơi nước đọng lại và được mang đi thoát nước"
+                },
+                "examples": [
+                    {
+                        "en": "I stepped off the pavement and walked in the gutter.",
+                        "vi": "Tôi bước ra khỏi vỉa hè và đi trong rãnh nước."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the bad social conditions or low moral standards sometimes connected with the lowest level of society",
+                    "vi": "điều kiện xã hội tồi tệ hoặc tiêu chuẩn đạo đức thấp đôi khi liên quan đến cấp thấp nhất của xã hội"
+                },
+                "examples": [
+                    {
+                        "en": "She rose from the gutter to become a great star.",
+                        "vi": "Cô ấy đã vươn lên từ rãnh nước để trở thành một ngôi sao vĩ đại."
+                    },
+                    {
+                        "en": "the language of the gutter (= using swear words)",
+                        "vi": "ngôn ngữ của máng xối (= sử dụng các từ chửi thề)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a6898e71228248d88009f333b5ceb91b",
+        "word": "guttering",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈɡʌtərɪŋ/",
+            "us": "/ˈɡʌtərɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "gutter",
+                "pos": "noun"
+            },
+            {
+                "word": "gutter",
+                "pos": "verb"
+            },
+            {
+                "word": "guttering",
+                "pos": "noun"
+            },
+            {
+                "word": "the gutter press",
+                "pos": "noun"
+            },
+            {
+                "word": "guttersnipe",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the system of gutters on a building; the material used to make gutters",
+                    "vi": "hệ thống máng xối trên tòa nhà; vật liệu được sử dụng để làm máng xối"
+                },
+                "examples": [
+                    {
+                        "en": "a length of guttering",
+                        "vi": "chiều dài của rãnh nước"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "b7389e139ecc4b52b6d153790cbd6f0a",
+        "word": "inscription",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ɪnˈskrɪpʃn/",
+            "us": "/ɪnˈskrɪpʃn/"
+        },
+        "nearby": [
+            {
+                "word": "inscape",
+                "pos": "noun"
+            },
+            {
+                "word": "inscribe",
+                "pos": "verb"
+            },
+            {
+                "word": "inscription",
+                "pos": "noun"
+            },
+            {
+                "word": "inscrutability",
+                "pos": "noun"
+            },
+            {
+                "word": "inscrutable",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "words written in the front of a book or cut in stone or metal",
+                    "vi": "những dòng chữ được viết ở mặt trước của một cuốn sách hoặc được cắt bằng đá hoặc kim loại"
+                },
+                "examples": [
+                    {
+                        "en": "There was an inscription carved over the doorway.",
+                        "vi": "Có một dòng chữ được khắc trên ngưỡng cửa."
+                    },
+                    {
+                        "en": "There are no inscriptions or markings to identify the tombs.",
+                        "vi": "Không có chữ khắc hoặc dấu hiệu để xác định các ngôi mộ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a6d8c32d6a42402eac4f58d5d3b0e2f6",
+        "word": "keystone",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkiːstəʊn/",
+            "us": "/ˈkiːstəʊn/"
+        },
+        "nearby": [
+            {
+                "word": "key ring",
+                "pos": "noun"
+            },
+            {
+                "word": "key signature",
+                "pos": "noun"
+            },
+            {
+                "word": "keystone",
+                "pos": "noun"
+            },
+            {
+                "word": "the Keystone Kops",
+                "pos": ""
+            },
+            {
+                "word": "keystroke",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the central stone at the top of an arch that keeps all the other stones in position",
+                    "vi": "viên đá trung tâm trên đỉnh của một vòm giữ cho tất cả các viên đá khác ở đúng vị trí"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the most important part of a plan or argument that the other parts depend on",
+                    "vi": "phần quan trọng nhất của một kế hoạch hoặc lập luận mà các phần khác phụ thuộc vào"
+                },
+                "examples": [
+                    {
+                        "en": "Changes to the welfare system are the keystone of the government’s reforms.",
+                        "vi": "Những thay đổi đối với hệ thống phúc lợi là nền tảng của các cải cách của chính phủ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9090c6463c8d46c499c3d9cefba47ff7",
+        "word": "leaded",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈledɪd/",
+            "us": "/ˈledɪd/"
+        },
+        "nearby": [
+            {
+                "word": "lead2",
+                "pos": "noun"
+            },
+            {
+                "word": "'Leadbelly'",
+                "pos": ""
+            },
+            {
+                "word": "leaded",
+                "pos": "adjective"
+            },
+            {
+                "word": "leaded light",
+                "pos": "noun"
+            },
+            {
+                "word": "leaden",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "with lead added to it",
+                    "vi": "với chì được thêm vào nó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "with a cover or a frame of lead",
+                    "vi": "bằng bìa hoặc khung bằng chì"
+                },
+                "examples": [
+                    {
+                        "en": "a leaded roof",
+                        "vi": "một mái nhà bằng chì"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "30a58a09534f4476b4779ab41d8a292c",
+        "word": "lintel",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈlɪntl/",
+            "us": "/ˈlɪntl/"
+        },
+        "nearby": [
+            {
+                "word": "linseed oil",
+                "pos": "noun"
+            },
+            {
+                "word": "lint",
+                "pos": "noun"
+            },
+            {
+                "word": "lintel",
+                "pos": "noun"
+            },
+            {
+                "word": "Linus",
+                "pos": ""
+            },
+            {
+                "word": "Linux",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a piece of wood, stone, metal or concrete over a door or window that forms part of the frame",
+                    "vi": "một miếng gỗ, đá, kim loại hoặc bê tông trên cửa ra vào hoặc cửa sổ tạo thành một phần của khung"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "078d9d32cdd84a6d8aa5edcfa4aa3fd9",
+        "word": "loggia",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈləʊdʒə/",
+            "us": "/ˈləʊdʒə/"
+        },
+        "nearby": [
+            {
+                "word": "logger",
+                "pos": "noun"
+            },
+            {
+                "word": "loggerheads",
+                "pos": "noun"
+            },
+            {
+                "word": "loggia",
+                "pos": "noun"
+            },
+            {
+                "word": "logging",
+                "pos": "noun"
+            },
+            {
+                "word": "logic",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a room or gallery with one or more open sides, especially one that forms part of a house and has one side open to the garden",
+                    "vi": "phòng hoặc phòng trưng bày có một hoặc nhiều mặt mở, đặc biệt là phòng hoặc phòng trưng bày tạo thành một phần của ngôi nhà và có một mặt mở ra vườn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "58cf7046003c48a4926603e6277d5bf2",
+        "word": "mantelpiece",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈmæntlpiːs/",
+            "us": "/ˈmæntlpiːs/"
+        },
+        "nearby": [
+            {
+                "word": "manspreading",
+                "pos": "noun"
+            },
+            {
+                "word": "manta",
+                "pos": "noun"
+            },
+            {
+                "word": "mantelpiece",
+                "pos": "noun"
+            },
+            {
+                "word": "mantis",
+                "pos": "noun"
+            },
+            {
+                "word": "mantle",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a shelf above a fireplace",
+                    "vi": "một cái kệ phía trên lò sưởi"
+                },
+                "examples": [
+                    {
+                        "en": "There was a clock on the mantelpiece.",
+                        "vi": "Có một chiếc đồng hồ trên lò sưởi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7a4639fa3fcd484092c3d3d3c7d5e443",
+        "word": "newel post",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈnjuːəl pəʊst/",
+            "us": "/ˈnuːəl pəʊst/"
+        },
+        "nearby": [
+            {
+                "word": "New Deal",
+                "pos": ""
+            },
+            {
+                "word": "the New Democratic Party",
+                "pos": "noun"
+            },
+            {
+                "word": "newel post",
+                "pos": "noun"
+            },
+            {
+                "word": "New England",
+                "pos": "noun"
+            },
+            {
+                "word": "the New English Bible",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a post at the top or bottom of a set of stairs, supporting the handrail",
+                    "vi": "một trụ ở trên cùng hoặc dưới cùng của một bộ cầu thang, đỡ lan can"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "358029f9576646b6a76c4d830c55844b",
+        "word": "niche",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/niːʃ/",
+            "us": "/niːʃ/"
+        },
+        "nearby": [
+            {
+                "word": "niceness",
+                "pos": "noun"
+            },
+            {
+                "word": "nicety",
+                "pos": "noun"
+            },
+            {
+                "word": "niche",
+                "pos": "noun"
+            },
+            {
+                "word": "niche",
+                "pos": "adjective"
+            },
+            {
+                "word": "Nicholas",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a comfortable or suitable role, job, way of life, etc.",
+                    "vi": "một vai trò, công việc, cách sống, v.v. thoải mái hoặc phù hợp."
+                },
+                "examples": [
+                    {
+                        "en": "He eventually found his niche in sports journalism.",
+                        "vi": "Cuối cùng anh ấy đã tìm thấy vị trí thích hợp của mình trong lĩnh vực báo chí thể thao."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a small section of the market for a particular kind of product or service",
+                    "vi": "một phần nhỏ của thị trường cho một loại sản phẩm hoặc dịch vụ cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "They spotted a niche in the market, with no serious competition.",
+                        "vi": "Họ đã phát hiện ra một thị trường ngách trên thị trường, không có sự cạnh tranh nghiêm trọng."
+                    },
+                    {
+                        "en": "There's a niche for a small stylish car.",
+                        "vi": "Có một thị trường thích hợp cho một chiếc xe hơi nhỏ kiểu cách."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a small hollow place, especially in a wall to contain a statue, etc., or in the side of a hill",
+                    "vi": "một nơi rỗng nhỏ, đặc biệt là trong bức tường để chứa một bức tượng, v.v., hoặc ở sườn đồi"
+                },
+                "examples": [
+                    {
+                        "en": "The niche was just big enough to hold two small candles.",
+                        "vi": "Cái hốc vừa đủ lớn để chứa hai cây nến nhỏ."
+                    },
+                    {
+                        "en": "I found a niche in the rock and sat and watched while the sun rose and filled the valley with light.",
+                        "vi": "Tôi tìm một cái hốc trong tảng đá và ngồi quan sát trong khi mặt trời mọc và tràn ngập ánh sáng trong thung lũng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a position or role taken by a kind of living thing within its community. Different living things may have the same niche in different places, for example antelopes in Africa and kangaroos in Australia.",
+                    "vi": "một vị trí hoặc vai trò của một loại sinh vật sống trong cộng đồng của nó. Các sinh vật sống khác nhau có thể có cùng một ngách ở những nơi khác nhau, ví dụ như linh dương ở Châu Phi và chuột túi ở Úc."
+                },
+                "examples": [
+                    {
+                        "en": "Within each niche, similar animals avoid competing with each other.",
+                        "vi": "Trong mỗi ngách, các loài động vật giống nhau tránh cạnh tranh với nhau."
+                    },
+                    {
+                        "en": "Mammals moved into the niche left vacant by the disappearance of the dinosaurs.",
+                        "vi": "Động vật có vú di chuyển vào ngách bị bỏ trống bởi sự biến mất của khủng long."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "d6fda60d2d5942b3a228893cd0c383a7",
+        "word": "paving",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpeɪvɪŋ/",
+            "us": "/ˈpeɪvɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "pavement artist",
+                "pos": "noun"
+            },
+            {
+                "word": "pavilion",
+                "pos": "noun"
+            },
+            {
+                "word": "paving",
+                "pos": "noun"
+            },
+            {
+                "word": "paving stone",
+                "pos": "noun"
+            },
+            {
+                "word": "pavlova",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a surface of flat stones or material like stone on the ground",
+                    "vi": "bề mặt bằng đá phẳng hoặc vật liệu như đá trên mặt đất"
+                },
+                "examples": [
+                    {
+                        "en": "Weeds grew through the cracks in the paving.",
+                        "vi": "Cỏ dại mọc qua các vết nứt trên đường lát."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the stones or material that are used to make a flat surface on the ground",
+                    "vi": "đá hoặc vật liệu được sử dụng để tạo bề mặt phẳng trên mặt đất"
+                },
+                "examples": [
+                    {
+                        "en": "We'll use concrete paving.",
+                        "vi": "Chúng tôi sẽ sử dụng lát bê tông."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "18a074c166dc409ba8a580499bae5ace",
+        "word": "pediment",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpedɪmənt/",
+            "us": "/ˈpedɪmənt/"
+        },
+        "nearby": [
+            {
+                "word": "pedigree",
+                "pos": "noun"
+            },
+            {
+                "word": "pedigree",
+                "pos": "adjective"
+            },
+            {
+                "word": "pediment",
+                "pos": "noun"
+            },
+            {
+                "word": "pedlar",
+                "pos": "noun"
+            },
+            {
+                "word": "pedometer",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the part in the shape of a triangle above the entrance of a building in the ancient Greek style",
+                    "vi": "phần hình tam giác phía trên lối vào của một tòa nhà theo phong cách Hy Lạp cổ đại"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "0a2401bd5d894c4fae8c3b7576adca5b",
+        "word": "pillar",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpɪlə(r)/",
+            "us": "/ˈpɪlər/"
+        },
+        "nearby": [
+            {
+                "word": "pillage",
+                "pos": "verb"
+            },
+            {
+                "word": "pillager",
+                "pos": "noun"
+            },
+            {
+                "word": "pillar",
+                "pos": "noun"
+            },
+            {
+                "word": "pillar box",
+                "pos": "noun"
+            },
+            {
+                "word": "pillar-box red",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a large round stone, metal or wooden post that is used to support a bridge, the roof of a building, etc., especially when it is part of an attractive design",
+                    "vi": "một trụ tròn lớn bằng đá, kim loại hoặc gỗ được sử dụng để nâng đỡ cây cầu, mái của một tòa nhà, v.v., đặc biệt khi nó là một phần của thiết kế hấp dẫn"
+                },
+                "examples": [
+                    {
+                        "en": "Two white marble pillars stood on either side of the entrance.",
+                        "vi": "Hai cột đá cẩm thạch trắng đứng ở hai bên lối vào."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a large round stone, metal or wooden post that is built to remind people of a famous person or event",
+                    "vi": "một trụ tròn lớn bằng đá, kim loại hoặc gỗ được xây dựng để nhắc nhở mọi người về một người hoặc sự kiện nổi tiếng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a mass of something that is like a pillar in shape",
+                    "vi": "một thứ gì đó giống như một cái cột có hình dạng"
+                },
+                "examples": [
+                    {
+                        "en": "a pillar of smoke/rock",
+                        "vi": "một cột khói / đá"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a strong supporter of something; an important member of something",
+                    "vi": "một người ủng hộ mạnh mẽ một cái gì đó; một thành viên quan trọng của một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "He was a pillar of the Church.",
+                        "vi": "Ông là một trụ cột của Giáo hội."
+                    },
+                    {
+                        "en": "a pillar of society",
+                        "vi": "một trụ cột của xã hội"
+                    },
+                    {
+                        "en": "He was the local magistrate and a pillar of the community.",
+                        "vi": "Ông là thẩm phán địa phương và là trụ cột của cộng đồng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who has a lot of a particular quality",
+                    "vi": "một người có rất nhiều phẩm chất cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "She is a pillar of strength in a crisis.",
+                        "vi": "Cô ấy là trụ cột sức mạnh trong cơn khủng hoảng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a basic part or feature of a system, organization, belief, etc.",
+                    "vi": "một phần hoặc tính năng cơ bản của hệ thống, tổ chức, niềm tin, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "the central pillar of this theory",
+                        "vi": "trụ cột trung tâm của lý thuyết này"
+                    },
+                    {
+                        "en": "Education and investment are the twin pillars on which a successful economy is built.",
+                        "vi": "Giáo dục và đầu tư là hai trụ cột để xây dựng một nền kinh tế thành công."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be forced to go from one person or situation to another without achieving anything",
+                    "vi": "bị buộc phải đi từ người này sang tình huống khác mà không đạt được bất cứ điều gì"
+                },
+                "examples": [
+                    {
+                        "en": "Morale is very low. People have just had enough of being thrown from pillar to post.",
+                        "vi": "Tinh thần rất thấp. Mọi người vừa đủ bị ném từ cột này sang cột khác."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "632f6646dcbe48fab0b38c2fc90ea501",
+        "word": "pinnacle",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpɪnəkl/",
+            "us": "/ˈpɪnəkl/"
+        },
+        "nearby": [
+            {
+                "word": "pin money",
+                "pos": "noun"
+            },
+            {
+                "word": "pinna",
+                "pos": "noun"
+            },
+            {
+                "word": "pinnacle",
+                "pos": "noun"
+            },
+            {
+                "word": "pinny",
+                "pos": "noun"
+            },
+            {
+                "word": "Pinocchio",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the most important or successful part of something",
+                    "vi": "phần quan trọng nhất hoặc thành công của một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "the pinnacle of her career",
+                        "vi": "đỉnh cao trong sự nghiệp của cô ấy"
+                    },
+                    {
+                        "en": "He spent more than twenty years at the pinnacle of his profession.",
+                        "vi": "Ông đã trải qua hơn hai mươi năm ở đỉnh cao của nghề nghiệp của mình."
+                    },
+                    {
+                        "en": "Formula One is the pinnacle of motor racing.",
+                        "vi": "Công thức một là đỉnh cao của môn đua xe."
+                    },
+                    {
+                        "en": "She is at the pinnacle of her profession.",
+                        "vi": "Cô ấy đang ở đỉnh cao của nghề."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a small pointed stone decoration built on the roof of a building",
+                    "vi": "một trang trí bằng đá nhọn nhỏ được xây dựng trên mái của một tòa nhà"
+                },
+                "examples": [
+                    {
+                        "en": "We could just make out the pinnacles of the cathedral in the distance.",
+                        "vi": "Chúng tôi chỉ có thể tìm ra những tháp nhọn của nhà thờ ở phía xa."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a high pointed piece of rock, especially at the top of a mountain",
+                    "vi": "một tảng đá nhọn cao, đặc biệt là trên đỉnh núi"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "0fca819b2e1d478ab3cbdff0c6ed8d73",
+        "word": "plasterwork",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈplɑːstəwɜːk/",
+            "us": "/ˈplæstərwɜːrk/"
+        },
+        "nearby": [
+            {
+                "word": "plaster over",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "plaster saint",
+                "pos": "noun"
+            },
+            {
+                "word": "plasterwork",
+                "pos": "noun"
+            },
+            {
+                "word": "plastic",
+                "pos": "noun"
+            },
+            {
+                "word": "plastic",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the dry plaster on ceilings when it has been formed into shapes and patterns for decoration",
+                    "vi": "thạch cao khô trên trần nhà khi nó đã được tạo thành các hình dạng và hoa văn để trang trí"
+                },
+                "examples": [
+                    {
+                        "en": "elaborate plasterwork",
+                        "vi": "tác phẩm thạch cao công phu"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ffd43912a5f94b249e05f467efb7b49e",
+        "word": "plinth",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/plɪnθ/",
+            "us": "/plɪnθ/"
+        },
+        "nearby": [
+            {
+                "word": "plimsoll",
+                "pos": "noun"
+            },
+            {
+                "word": "Plimsoll line",
+                "pos": "noun"
+            },
+            {
+                "word": "plinth",
+                "pos": "noun"
+            },
+            {
+                "word": "plod",
+                "pos": "verb"
+            },
+            {
+                "word": "plod",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a block of stone on which a column or statue stands",
+                    "vi": "một khối đá trên đó có cột hoặc tượng"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "e0858f17321548c687497ef6a0485f9c",
+        "word": "portico",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpɔːtɪkəʊ/",
+            "us": "/ˈpɔːrtɪkəʊ/"
+        },
+        "nearby": [
+            {
+                "word": "portfolio",
+                "pos": "noun"
+            },
+            {
+                "word": "porthole",
+                "pos": "noun"
+            },
+            {
+                "word": "portico",
+                "pos": "noun"
+            },
+            {
+                "word": "portion",
+                "pos": "noun"
+            },
+            {
+                "word": "portion",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a roof that is supported by columns, especially one that forms the entrance to a large building",
+                    "vi": "mái nhà được hỗ trợ bởi các cột, đặc biệt là một mái nhà tạo thành lối vào một tòa nhà lớn"
+                },
+                "examples": [
+                    {
+                        "en": "Guests gathered under the classical portico of the hotel.",
+                        "vi": "Khách tập trung dưới mái hiên cổ điển của khách sạn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a0ae41ea01b54cfaa9ba8f8507741883",
+        "word": "relief",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/rɪˈliːf/",
+            "us": "/rɪˈliːf/"
+        },
+        "nearby": [
+            {
+                "word": "reliant",
+                "pos": "adjective"
+            },
+            {
+                "word": "relic",
+                "pos": "noun"
+            },
+            {
+                "word": "relief",
+                "pos": "noun"
+            },
+            {
+                "word": "relief map",
+                "pos": "noun"
+            },
+            {
+                "word": "relief pitcher",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the feeling of happiness that you have when something unpleasant stops or does not happen",
+                    "vi": "cảm giác hạnh phúc mà bạn có khi điều gì đó khó chịu dừng lại hoặc không xảy ra"
+                },
+                "examples": [
+                    {
+                        "en": "I felt a huge sense of relief when I heard they were all OK.",
+                        "vi": "Tôi cảm thấy nhẹ nhõm vô cùng khi nghe tin rằng tất cả đều ổn."
+                    },
+                    {
+                        "en": "We all breathed a sigh of relief when he left.",
+                        "vi": "Tất cả chúng tôi đều thở phào nhẹ nhõm khi anh ấy ra đi."
+                    },
+                    {
+                        "en": "Much to my relief the car was not damaged.",
+                        "vi": "Tôi rất nhẹ nhõm khi chiếc xe không bị hư hại."
+                    },
+                    {
+                        "en": "News of their safety came as a great relief.",
+                        "vi": "Tin tức về sự an toàn của họ đến như một sự cứu trợ lớn."
+                    },
+                    {
+                        "en": "She sighed with relief.",
+                        "vi": "Cô thở phào nhẹ nhõm."
+                    },
+                    {
+                        "en": "He smiled in relief as he saw them both.",
+                        "vi": "Anh mỉm cười nhẹ nhõm khi nhìn thấy cả hai."
+                    },
+                    {
+                        "en": "She had gone through hell and there was no relief in sight for her.",
+                        "vi": "Cô ấy đã trải qua địa ngục và không có sự nhẹ nhõm nào cho cô ấy."
+                    },
+                    {
+                        "en": "relief to somebody This was a great relief to him.",
+                        "vi": "nhẹ nhõm cho ai đó Đây là một sự nhẹ nhõm tuyệt vời đối với anh ấy."
+                    },
+                    {
+                        "en": "It was a relief to be able to talk to someone about it.",
+                        "vi": "Thật nhẹ nhõm khi có thể nói chuyện với ai đó về điều đó."
+                    },
+                    {
+                        "en": "It was a relief to her to realize that she was not the only one with this problem.",
+                        "vi": "Cô cảm thấy nhẹ nhõm khi nhận ra rằng mình không phải là người duy nhất gặp vấn đề này."
+                    },
+                    {
+                        "en": "relief that… His mother spoke of her relief that he was now safely home.",
+                        "vi": "nhẹ nhõm rằng… Mẹ anh ấy nói về sự nhẹ nhõm của bà rằng giờ đây anh ấy đã về nhà an toàn."
+                    },
+                    {
+                        "en": "It is actually a relief that it's finally happened.",
+                        "vi": "Nó thực sự là một sự nhẹ nhõm khi nó cuối cùng đã xảy ra."
+                    },
+                    {
+                        "en": "relief at something She expressed relief at the outcome of the investigation.",
+                        "vi": "nhẹ nhõm về điều gì đó Cô ấy bày tỏ sự nhẹ nhõm trước kết quả của cuộc điều tra."
+                    },
+                    {
+                        "en": "relief at doing something He described his relief at securing his freedom.",
+                        "vi": "nhẹ nhõm khi làm điều gì đó."
+                    },
+                    {
+                        "en": "What a relief!",
+                        "vi": "Thật là nhẹ nhõm!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the act of removing or reducing pain, worry, etc.",
+                    "vi": "hành động loại bỏ hoặc giảm bớt đau đớn, lo lắng, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "modern methods of pain relief",
+                        "vi": "phương pháp giảm đau hiện đại"
+                    },
+                    {
+                        "en": "relief of something the relief of symptoms/suffering/poverty/pain",
+                        "vi": "giảm nhẹ điều gì đó giảm các triệu chứng / đau khổ / nghèo đói / đau đớn"
+                    },
+                    {
+                        "en": "relief from something The drugs only provided temporary relief from the pain.",
+                        "vi": "Thuốc chỉ giúp giảm đau tạm thời."
+                    },
+                    {
+                        "en": "All the tables in the shade were occupied by people seeking relief from the heat.",
+                        "vi": "Tất cả các bàn trong bóng râm đều có người tìm cách giải tỏa cái nóng."
+                    },
+                    {
+                        "en": "Massage can bring some relief from tension.",
+                        "vi": "Mát-xa có thể giúp giảm căng thẳng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "food, money, medicine, etc. that is given to help people in places where there has been a war or natural disaster",
+                    "vi": "thực phẩm, tiền bạc, thuốc men, v.v. được trao để giúp đỡ đồng bào ở những nơi đã xảy ra chiến tranh, thiên tai"
+                },
+                "examples": [
+                    {
+                        "en": "disaster relief",
+                        "vi": "cứu trợ thiên tai"
+                    },
+                    {
+                        "en": "relief efforts/operations",
+                        "vi": "nỗ lực / hoạt động cứu trợ"
+                    },
+                    {
+                        "en": "relief organizations/supplies/work",
+                        "vi": "tổ chức cứu trợ / vật tư / công việc"
+                    },
+                    {
+                        "en": "We raised £5 000 for famine relief.",
+                        "vi": "Chúng tôi đã quyên góp được £ 5 000 để cứu trợ nạn đói."
+                    },
+                    {
+                        "en": "One relief agency worker described the situation as ‘catastrophic’.",
+                        "vi": "Một nhân viên của cơ quan cứu trợ mô tả tình hình là 'thảm khốc'."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "financial help given by the government to people who need it",
+                    "vi": "trợ giúp tài chính của chính phủ cho những người cần nó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a reduction in the amount of tax you have to pay",
+                    "vi": "giảm số thuế bạn phải trả"
+                },
+                "examples": [
+                    {
+                        "en": "relief on mortgage interest payments",
+                        "vi": "giảm nhẹ thanh toán lãi suất thế chấp"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "something that is interesting or fun that replaces something boring, difficult or unpleasant for a short period of time",
+                    "vi": "thứ gì đó thú vị hoặc vui vẻ thay thế thứ gì đó nhàm chán, khó khăn hoặc khó chịu trong một khoảng thời gian ngắn"
+                },
+                "examples": [
+                    {
+                        "en": "a few moments of light relief in an otherwise dull performance",
+                        "vi": "một vài khoảnh khắc nhẹ nhõm trong một màn trình diễn buồn tẻ"
+                    },
+                    {
+                        "en": "There was little comic relief in his speech.",
+                        "vi": "Có một chút nhẹ nhõm hài hước trong bài phát biểu của anh ấy."
+                    },
+                    {
+                        "en": "relief from something The calm of the countryside came as a welcome relief from the hustle and bustle of city life.",
+                        "vi": "nhẹ nhõm từ một cái gì đó Sự bình lặng của vùng nông thôn đến như một sự chào đón nhẹ nhõm khỏi cuộc sống hối hả và nhộn nhịp của thành phố."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person or group of people that replaces another when they have finished working for the day or when they are sick",
+                    "vi": "một người hoặc một nhóm người thay thế người khác khi họ đã hoàn thành công việc trong ngày hoặc khi họ bị ốm"
+                },
+                "examples": [
+                    {
+                        "en": "The next crew relief comes on duty at 9 o'clock.",
+                        "vi": "Phi hành đoàn tiếp theo cứu trợ đến làm nhiệm vụ lúc 9 giờ."
+                    },
+                    {
+                        "en": "We have a pool of relief drivers available to us.",
+                        "vi": "Chúng tôi có một nhóm các trình điều khiển cứu trợ có sẵn cho chúng tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the act of freeing a town, etc. from an enemy army that has surrounded it",
+                    "vi": "hành động giải phóng một thị trấn, v.v. khỏi quân địch đã bao vây nó"
+                },
+                "examples": [
+                    {
+                        "en": "the relief of Mafeking",
+                        "vi": "sự nhẹ nhõm của Mafeking"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a way of decorating wood, stone, etc. by cutting designs into the surface of it so that some parts stick out more than others; a design that is made in this way",
+                    "vi": "một cách trang trí gỗ, đá, vv bằng cách cắt các thiết kế trên bề mặt của nó để một số bộ phận nhô ra nhiều hơn những bộ phận khác; một thiết kế được thực hiện theo cách này"
+                },
+                "examples": [
+                    {
+                        "en": "The column was decorated in high relief (= with designs that stick out a lot) with scenes from Greek mythology.",
+                        "vi": "Cột được trang trí rất nổi (= với các thiết kế nhô ra nhiều) với các cảnh trong thần thoại Hy Lạp."
+                    },
+                    {
+                        "en": "The bronze doors are covered with sculpted reliefs.",
+                        "vi": "Các cánh cửa bằng đồng được bao phủ bởi các bức phù điêu điêu khắc."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the effect of colours, light, etc. that makes an object easier to notice than others around it",
+                    "vi": "hiệu ứng của màu sắc, ánh sáng, v.v. làm cho một vật thể dễ nhận thấy hơn những vật thể khác xung quanh nó"
+                },
+                "examples": [
+                    {
+                        "en": "The snow-capped mountain stood out in sharp relief against the blue sky.",
+                        "vi": "Ngọn núi phủ tuyết trắng xóa nổi bật trên nền trời xanh."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the quality of a particular situation, problem, etc. that makes it easier to notice than before",
+                    "vi": "chất lượng của một tình huống, vấn đề cụ thể, v.v. khiến bạn dễ dàng nhận thấy hơn trước đây"
+                },
+                "examples": [
+                    {
+                        "en": "Their differences have been thrown into sharp relief by the present crisis.",
+                        "vi": "Sự khác biệt của họ đã được giải tỏa rõ rệt bởi cuộc khủng hoảng hiện tại."
+                    },
+                    {
+                        "en": "The proximity of the wealthy suburb to the squatter camp throws the plight of the squatters into even sharper relief.",
+                        "vi": "Sự gần gũi của vùng ngoại ô giàu có với trại người bỏ xác khiến hoàn cảnh của những người ngồi xổm càng trở nên nhẹ nhõm hơn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e21795caab4b495da18cbca8d0d770fe",
+        "word": "span",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/spæn/",
+            "us": "/spæn/"
+        },
+        "nearby": [
+            {
+                "word": "spammy",
+                "pos": "adjective"
+            },
+            {
+                "word": "span",
+                "pos": "verb"
+            },
+            {
+                "word": "span",
+                "pos": "noun"
+            },
+            {
+                "word": "span",
+                "pos": "adjective"
+            },
+            {
+                "word": "spandex",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the length of time that something lasts or is able to continue",
+                    "vi": "khoảng thời gian mà điều gì đó kéo dài hoặc có thể tiếp tục"
+                },
+                "examples": [
+                    {
+                        "en": "I worked with him over a span of six years.",
+                        "vi": "Tôi đã làm việc với anh ấy trong khoảng thời gian sáu năm."
+                    },
+                    {
+                        "en": "The project must be completed within a specific time span.",
+                        "vi": "Dự án phải được hoàn thành trong một khoảng thời gian cụ thể."
+                    },
+                    {
+                        "en": "Small children have a short attention span.",
+                        "vi": "Trẻ nhỏ có thời gian chú ý ngắn."
+                    },
+                    {
+                        "en": "a study of the entire span of Arab history",
+                        "vi": "một nghiên cứu về toàn bộ lịch sử Ả Rập"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a range or variety of something",
+                    "vi": "một loạt hoặc nhiều thứ gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "Managers have a wide span of control.",
+                        "vi": "Các nhà quản lý có phạm vi kiểm soát rộng rãi."
+                    },
+                    {
+                        "en": "These forests cover a broad span of latitudes.",
+                        "vi": "Những khu rừng này bao phủ một dải vĩ độ rộng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the part of a bridge or an arch between one support and another",
+                    "vi": "phần của một cây cầu hoặc một vòm giữa giá đỡ này và giá đỡ khác"
+                },
+                "examples": [
+                    {
+                        "en": "The bridge crosses the river in a single span.",
+                        "vi": "Cây cầu bắc qua sông trong một nhịp duy nhất."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the measurement of something from one side to the other",
+                    "vi": "sự đo lường của một cái gì đó từ bên này sang bên kia"
+                },
+                "examples": [
+                    {
+                        "en": "The kite has a span of 1.5 metres.",
+                        "vi": "Con diều có sải dài 1,5 mét."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "79d96b8fc5394d77ab9bc7cb1e77b453",
+        "word": "surround",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/səˈraʊnd/",
+            "us": "/səˈraʊnd/"
+        },
+        "nearby": [
+            {
+                "word": "surrogate mother",
+                "pos": "noun"
+            },
+            {
+                "word": "surround",
+                "pos": "verb"
+            },
+            {
+                "word": "surround",
+                "pos": "noun"
+            },
+            {
+                "word": "surrounding",
+                "pos": "adjective"
+            },
+            {
+                "word": "surroundings",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a border or an area around the edge of something, especially one that is decorated",
+                    "vi": "đường viền hoặc khu vực xung quanh cạnh của thứ gì đó, đặc biệt là vùng được trang trí"
+                },
+                "examples": [
+                    {
+                        "en": "a fireplace with a tiled surround",
+                        "vi": "lò sưởi với xung quanh lát gạch"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ad6b07b30a26419c885b0500abfec452",
+        "word": "turret",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtʌrət/",
+            "us": "/ˈtɜːrət/"
+        },
+        "nearby": [
+            {
+                "word": "turquoise",
+                "pos": "noun"
+            },
+            {
+                "word": "turquoise",
+                "pos": "adjective"
+            },
+            {
+                "word": "turret",
+                "pos": "noun"
+            },
+            {
+                "word": "turreted",
+                "pos": "adjective"
+            },
+            {
+                "word": "turtle",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small tower on top of a wall or building, especially a castle",
+                    "vi": "một tháp nhỏ trên đỉnh tường hoặc tòa nhà, đặc biệt là lâu đài"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a small metal tower on a ship, plane or tank that can usually turn around and from which guns are fired",
+                    "vi": "một tháp kim loại nhỏ trên tàu, máy bay hoặc xe tăng thường có thể quay đầu lại và từ đó súng được bắn ra"
+                },
+                "examples": [
+                    {
+                        "en": "a gun turret",
+                        "vi": "một tháp súng"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8e9c252419334b678bbeaf376da6f4f2",
+        "word": "vaulting",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈvɔːltɪŋ/",
+            "us": "/ˈvɔːltɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "vault",
+                "pos": "verb"
+            },
+            {
+                "word": "vaulted",
+                "pos": "adjective"
+            },
+            {
+                "word": "vaulting",
+                "pos": "noun"
+            },
+            {
+                "word": "vaulting horse",
+                "pos": "noun"
+            },
+            {
+                "word": "vaunted",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a pattern of arches in a ceiling or roof",
+                    "vi": "một mô hình vòm trên trần nhà hoặc mái nhà"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "fd8e246fb69e4b688aa7de1e961516aa",
+        "word": "veranda",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/vəˈrændə/",
+            "us": "/vəˈrændə/"
+        },
+        "nearby": [
+            {
+                "word": "Vera",
+                "pos": ""
+            },
+            {
+                "word": "veracity",
+                "pos": "noun"
+            },
+            {
+                "word": "veranda",
+                "pos": "noun"
+            },
+            {
+                "word": "verb",
+                "pos": "noun"
+            },
+            {
+                "word": "verbal",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a platform with an open front and a roof, built onto the side of a house on the ground floor",
+                    "vi": "một nền tảng với một mặt trước mở và một mái nhà, được xây dựng ở phía bên của một ngôi nhà ở tầng trệt"
+                },
+                "examples": [
+                    {
+                        "en": "After dinner, we sat talking on the veranda.",
+                        "vi": "Sau bữa tối, chúng tôi ngồi nói chuyện trên hiên."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a roof over the part of the street where people walk in front of a shop",
+                    "vi": "một mái nhà trên một phần của đường phố nơi mọi người đi bộ trước cửa hàng"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "18b271ac851243458e339dd5ad58a3f6",
+        "word": "weathervane",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈweðəveɪn/",
+            "us": "/ˈweðərveɪn/"
+        },
+        "nearby": [
+            {
+                "word": "weatherstrip",
+                "pos": "noun"
+            },
+            {
+                "word": "weatherstripping",
+                "pos": "noun"
+            },
+            {
+                "word": "weathervane",
+                "pos": "noun"
+            },
+            {
+                "word": "weave",
+                "pos": "verb"
+            },
+            {
+                "word": "weave",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a metal object on the roof of a building that turns easily in the wind and shows which direction the wind is blowing from",
+                    "vi": "một vật kim loại trên mái của một tòa nhà dễ dàng quay theo gió và cho biết gió đang thổi từ hướng nào"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "507d907dca9647ccbbcdd044c7d4bfe7",
+        "word": "window ledge",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈwɪndəʊ ledʒ/",
+            "us": "/ˈwɪndəʊ ledʒ/"
+        },
+        "nearby": [
+            {
+                "word": "window cleaner",
+                "pos": "noun"
+            },
+            {
+                "word": "window dressing",
+                "pos": "noun"
+            },
+            {
+                "word": "window ledge",
+                "pos": "noun"
+            },
+            {
+                "word": "windowless",
+                "pos": "adjective"
+            },
+            {
+                "word": "windowpane",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a narrow shelf below a window, either inside or outside",
+                    "vi": "một kệ hẹp bên dưới cửa sổ, bên trong hoặc bên ngoài"
+                },
+                "examples": []
+            }
+        ]
+    }
+]

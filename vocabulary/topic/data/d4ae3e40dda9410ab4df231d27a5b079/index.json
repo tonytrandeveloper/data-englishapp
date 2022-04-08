@@ -1,0 +1,620 @@
+[
+    {
+        "id": "ca31380255d54215a743dc399e58cc80",
+        "word": "creature",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈkriːtʃə(r)/",
+            "us": "/ˈkriːtʃər/"
+        },
+        "nearby": [
+            {
+                "word": "creativity",
+                "pos": "noun"
+            },
+            {
+                "word": "creator",
+                "pos": "noun"
+            },
+            {
+                "word": "creature",
+                "pos": "noun"
+            },
+            {
+                "word": "creature comforts",
+                "pos": "noun"
+            },
+            {
+                "word": "crèche",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a living thing, real or imaginary, that can move around, such as an animal",
+                    "vi": "một sinh vật sống, thực hoặc tưởng tượng, có thể di chuyển xung quanh, chẳng hạn như động vật"
+                },
+                "examples": [
+                    {
+                        "en": "respect for all living creatures",
+                        "vi": "tôn trọng tất cả các sinh vật sống"
+                    },
+                    {
+                        "en": "alien/strange/mythical creatures",
+                        "vi": "sinh vật ngoài hành tinh / kỳ lạ / thần thoại"
+                    },
+                    {
+                        "en": "octopuses and other sea creatures",
+                        "vi": "bạch tuộc và các sinh vật biển khác"
+                    },
+                    {
+                        "en": "The dormouse is a shy, nocturnal creature.",
+                        "vi": "Ký túc xá là một sinh vật sống về đêm, nhút nhát."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person, considered in a particular way",
+                    "vi": "một người, được xem xét theo một cách cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "You pathetic creature!",
+                        "vi": "Bạn là sinh vật đáng thương!"
+                    },
+                    {
+                        "en": "She was an exotic creature with long red hair and brilliant green eyes.",
+                        "vi": "Cô là một sinh vật kỳ lạ với mái tóc dài màu đỏ và đôi mắt xanh lục rực rỡ."
+                    },
+                    {
+                        "en": "He always goes to bed at ten—he's a creature of habit (= he likes to do the same things at the same time every day).",
+                        "vi": "Anh ấy luôn đi ngủ lúc mười giờ - anh ấy là một người có thói quen (= anh ấy thích làm những việc giống nhau vào cùng một thời điểm mỗi ngày)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person or thing that depends completely on somebody else and is controlled by them",
+                    "vi": "một người hoặc một sự vật phụ thuộc hoàn toàn vào người khác và bị kiểm soát bởi họ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "39c993bc789b4c929a18d5fbc74c5ae9",
+        "word": "snail",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/sneɪl/",
+            "us": "/sneɪl/"
+        },
+        "nearby": [
+            {
+                "word": "snaggle-tooth",
+                "pos": "noun"
+            },
+            {
+                "word": "snaggle-toothed",
+                "pos": "adjective"
+            },
+            {
+                "word": "snail",
+                "pos": "noun"
+            },
+            {
+                "word": "snail mail",
+                "pos": "noun"
+            },
+            {
+                "word": "snake",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small, soft creature with a hard, round shell on its back, that moves very slowly and often eats garden plants. Some types of snail can be eaten.",
+                    "vi": "một sinh vật nhỏ, mềm, có vỏ cứng, tròn trên lưng, di chuyển rất chậm và thường ăn các loại cây trong vườn. Một số loại ốc có thể ăn được."
+                },
+                "examples": [
+                    {
+                        "en": "the war with the slugs and snails in my garden",
+                        "vi": "cuộc chiến với sên và ốc sên trong vườn của tôi"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "very slowly",
+                    "vi": "rất chậm"
+                },
+                "examples": [
+                    {
+                        "en": "Traffic had slowed to a snail’s pace.",
+                        "vi": "Giao thông đã chậm lại như một con ốc sên."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "60c25b42f107468ab937b699fab9a371",
+        "word": "pest",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/pest/",
+            "us": "/pest/"
+        },
+        "nearby": [
+            {
+                "word": "pessimistic",
+                "pos": "adjective"
+            },
+            {
+                "word": "pessimistically",
+                "pos": "adverb"
+            },
+            {
+                "word": "pest",
+                "pos": "noun"
+            },
+            {
+                "word": "PEST analysis",
+                "pos": "noun"
+            },
+            {
+                "word": "pester",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an insect or animal that destroys plants, food, etc.",
+                    "vi": "côn trùng hoặc động vật phá hoại thực vật, thực phẩm, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "insect/plant/garden pests",
+                        "vi": "côn trùng / cây / vườn gây hại"
+                    },
+                    {
+                        "en": "a pest control officer",
+                        "vi": "một nhân viên kiểm soát dịch hại"
+                    },
+                    {
+                        "en": "These birds provide a useful function in controlling insect pests.",
+                        "vi": "Những con chim này cung cấp một chức năng hữu ích trong việc kiểm soát côn trùng gây hại."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an annoying person or thing",
+                    "vi": "một người hay một thứ khó chịu"
+                },
+                "examples": [
+                    {
+                        "en": "That child is being a real pest.",
+                        "vi": "Đứa trẻ đó là một sinh vật gây hại thực sự."
+                    },
+                    {
+                        "en": "Ex-colleagues describe him as a sex pest.",
+                        "vi": "Các đồng nghiệp cũ mô tả anh ta như một kẻ gây hại tình dục."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f447f22961c345d3883d687bfdac226f",
+        "word": "arthropod",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈɑːθrəpɒd/",
+            "us": "/ˈɑːrθrəpɑːd/"
+        },
+        "nearby": [
+            {
+                "word": "arthritic",
+                "pos": "adjective"
+            },
+            {
+                "word": "arthritis",
+                "pos": "noun"
+            },
+            {
+                "word": "arthropod",
+                "pos": "noun"
+            },
+            {
+                "word": "arthroscopic surgery",
+                "pos": "noun"
+            },
+            {
+                "word": "Arthur",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an invertebrate animal such as an insect, spider or crab, that has its skeleton on the outside of its body and has joints on its legs",
+                    "vi": "một động vật không xương sống như côn trùng, nhện hoặc cua, có bộ xương bên ngoài cơ thể và có khớp ở chân"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "63b64c2c6907482583e2f9ddb6ad6499",
+        "word": "centipede",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈsentɪpiːd/",
+            "us": "/ˈsentɪpiːd/"
+        },
+        "nearby": [
+            {
+                "word": "centilitre",
+                "pos": "noun"
+            },
+            {
+                "word": "centimetre",
+                "pos": "noun"
+            },
+            {
+                "word": "centipede",
+                "pos": "noun"
+            },
+            {
+                "word": "central",
+                "pos": "adjective"
+            },
+            {
+                "word": "Central African",
+                "pos": "noun, adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small creature like an insect, with a long thin body and many legs",
+                    "vi": "một sinh vật nhỏ giống như côn trùng, với một cơ thể dài mỏng và nhiều chân"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "1fe94165b38948ddbe4ca04018f5d5f8",
+        "word": "invertebrate",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ɪnˈvɜːtɪbrət/",
+            "us": "/ɪnˈvɜːrtɪbrət/"
+        },
+        "nearby": [
+            {
+                "word": "inversion",
+                "pos": "noun"
+            },
+            {
+                "word": "invert",
+                "pos": "verb"
+            },
+            {
+                "word": "invertebrate",
+                "pos": "noun"
+            },
+            {
+                "word": "invertebrate",
+                "pos": "adjective"
+            },
+            {
+                "word": "inverted commas",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "any animal with no backbone, for example a worm",
+                    "vi": "bất kỳ động vật nào không có xương sống, ví dụ như sâu"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "b996bfad5fe54e88b4678344bb823b4c",
+        "word": "invertebrate",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ɪnˈvɜːtɪbrət/",
+            "us": "/ɪnˈvɜːrtɪbrət/"
+        },
+        "nearby": [
+            {
+                "word": "invert",
+                "pos": "verb"
+            },
+            {
+                "word": "invertebrate",
+                "pos": "noun"
+            },
+            {
+                "word": "invertebrate",
+                "pos": "adjective"
+            },
+            {
+                "word": "inverted commas",
+                "pos": "noun"
+            },
+            {
+                "word": "inverted snobbery",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "without a backbone",
+                    "vi": "không có xương sống"
+                },
+                "examples": [
+                    {
+                        "en": "invertebrate pests",
+                        "vi": "động vật không xương sống"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "117091a026fe45119044c45ab3bb8486",
+        "word": "millipede",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈmɪlɪpiːd/",
+            "us": "/ˈmɪlɪpiːd/"
+        },
+        "nearby": [
+            {
+                "word": "millionth",
+                "pos": "ordinal number"
+            },
+            {
+                "word": "millionth",
+                "pos": "noun"
+            },
+            {
+                "word": "millipede",
+                "pos": "noun"
+            },
+            {
+                "word": "millisecond",
+                "pos": "noun"
+            },
+            {
+                "word": "millivolt",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small creature like an insect, with a long thin body divided into many sections, each with two pairs of legs",
+                    "vi": "một sinh vật nhỏ giống như côn trùng, với một cơ thể dài mỏng được chia thành nhiều phần, mỗi phần có hai cặp chân"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "98d0052ad01c49c0aca174807a221f27",
+        "word": "minibeast",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈmɪnibiːst/",
+            "us": "/ˈmɪnibiːst/"
+        },
+        "nearby": [
+            {
+                "word": "miniaturized",
+                "pos": "adjective"
+            },
+            {
+                "word": "minibar",
+                "pos": "noun"
+            },
+            {
+                "word": "minibeast",
+                "pos": "noun"
+            },
+            {
+                "word": "minibus",
+                "pos": "noun"
+            },
+            {
+                "word": "minicab",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "any small animal that does not have a backbone",
+                    "vi": "bất kỳ động vật nhỏ nào không có xương sống"
+                },
+                "examples": [
+                    {
+                        "en": "minibeasts such as worms, snails, centipedes and spiders",
+                        "vi": "các loài thú nhỏ như giun, ốc sên, rết và nhện"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e0c3638429994144b034a7a04388b82b",
+        "word": "mollusc",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈmɒləsk/",
+            "us": "/ˈmɑːləsk/"
+        },
+        "nearby": [
+            {
+                "word": "Moll Flanders",
+                "pos": ""
+            },
+            {
+                "word": "mollify",
+                "pos": "verb"
+            },
+            {
+                "word": "mollusc",
+                "pos": "noun"
+            },
+            {
+                "word": "molly",
+                "pos": "noun"
+            },
+            {
+                "word": "Molly",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "any creature with a soft body that is not divided into different sections, and usually a hard outer shell. Snails and slugs are molluscs.",
+                    "vi": "bất kỳ sinh vật nào có thân mềm không được chia thành nhiều phần khác nhau, và thường là lớp vỏ cứng bên ngoài. Ốc sên và sên là động vật thân mềm."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "ae91c59b2c54435983a0c09549c22f33",
+        "word": "slug",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/slʌɡ/",
+            "us": "/slʌɡ/"
+        },
+        "nearby": [
+            {
+                "word": "slubbed",
+                "pos": "adjective"
+            },
+            {
+                "word": "sludge",
+                "pos": "noun"
+            },
+            {
+                "word": "slug",
+                "pos": "noun"
+            },
+            {
+                "word": "slug",
+                "pos": "verb"
+            },
+            {
+                "word": "slugfest",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small, soft creature, like a snail without a shell, that moves very slowly and often eats garden plants",
+                    "vi": "một sinh vật nhỏ, mềm, giống như một con ốc không có vỏ, di chuyển rất chậm và thường ăn các loại cây trong vườn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a small amount of a strong alcoholic drink",
+                    "vi": "một lượng nhỏ đồ uống có cồn mạnh"
+                },
+                "examples": [
+                    {
+                        "en": "He took another slug of whisky.",
+                        "vi": "Anh ta uống một ly rượu whisky khác."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a bullet",
+                    "vi": "viên đạn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a piece of metal like a coin in shape used to get things from machines, etc., sometimes illegally",
+                    "vi": "một miếng kim loại có hình dạng giống như đồng xu được sử dụng để lấy đồ từ máy móc, v.v., đôi khi là bất hợp pháp"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "6a48a0bfa8ee4d7bb829e39313c2fa4e",
+        "word": "woodlouse",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈwʊdlaʊs/",
+            "us": "/ˈwʊdlaʊs/"
+        },
+        "nearby": [
+            {
+                "word": "Parson Woodforde",
+                "pos": ""
+            },
+            {
+                "word": "woodland",
+                "pos": "noun"
+            },
+            {
+                "word": "woodlouse",
+                "pos": "noun"
+            },
+            {
+                "word": "woodman",
+                "pos": "noun"
+            },
+            {
+                "word": "woodpecker",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small grey creature like an insect, with a hard shell, that lives in decaying wood or wet soil",
+                    "vi": "một sinh vật nhỏ màu xám như côn trùng, có vỏ cứng, sống trong gỗ mục nát hoặc đất ẩm ướt"
+                },
+                "examples": []
+            }
+        ]
+    }
+]

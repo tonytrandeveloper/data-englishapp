@@ -1,0 +1,508 @@
+{
+    "id": "0a13cac458ed4be587b58bbe734ecd71",
+    "title": "Editing Exercise",
+    "exercises": [
+        {
+            "id": "83b6e8bdefac40d2964b1381e61cabd8",
+            "title": "Editing Exercise",
+            "questions": [
+                {
+                    "question": "They went out despite of the rain.",
+                    "description": "You have to use despite or in spite of.",
+                    "answers": [
+                        "out",
+                        "of",
+                        "the"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Raju, who is my cousin, he is a painter.",
+                    "description": "The relative pronoun acts as the subject or object of the verb in the relative clause.",
+                    "answers": [
+                        "who",
+                        "he",
+                        "a"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "No matter what that I do, nothing seems to work.",
+                    "description": "",
+                    "answers": [
+                        "what",
+                        "that",
+                        "to"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "We discussed about his problems when we met yesterday.",
+                    "description": "Discuss is one of those verbs that are not followed by a preposition.",
+                    "answers": [
+                        "about",
+                        "when",
+                        "his"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "The boy that you find over there he is my son.",
+                    "description": "",
+                    "answers": [
+                        "that",
+                        "over",
+                        "he"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "I have had an unforgettable experience yesterday.",
+                    "description": "We cannot use the present perfect with past time expressions. ",
+                    "answers": [
+                        "have",
+                        "had",
+                        "an"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "I want that you to tell me what happened.",
+                    "description": "",
+                    "answers": [
+                        "that",
+                        "you",
+                        "me"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "As you know that I work very hard.",
+                    "description": "",
+                    "answers": [
+                        "as",
+                        "that",
+                        "Either can be removed"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "He plays the hockey for a local team.",
+                    "description": "We say hockey, not the hockey.",
+                    "answers": [
+                        "the",
+                        "a"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "What a terrible weather we are having.",
+                    "description": "Weather is uncountable. We cannot use a with it. ",
+                    "answers": [
+                        "a",
+                        "having",
+                        "what"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "I had left my keys on the table.",
+                    "description": "To simply state that we did something in the past, use the simple past.",
+                    "answers": [
+                        "had",
+                        "on",
+                        "left"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "She resembles of her mother.",
+                    "description": "",
+                    "answers": [
+                        "of",
+                        "her"
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "id": "544791a1298d40a28dac8fb3d5b171b3",
+            "title": "Editing Exercise",
+            "questions": [
+                {
+                    "question": "Few of people can say that they always tell the truth.",
+                    "description": "We use few without of before a noun without a determiner.",
+                    "answers": [
+                        "of",
+                        "that",
+                        "always"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "I always take an umbrella if in case it rains.",
+                    "description": "In case is similar to if but they are not interchangeable. ",
+                    "answers": [
+                        "if",
+                        "in case",
+                        "always"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "The first time I have met him was last year.",
+                    "description": "We cannot use the present perfect with past time expressions.",
+                    "answers": [
+                        "have",
+                        "met",
+                        "last"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "As you know that next Friday's meeting has been called.",
+                    "description": "We use as or that. We cannot use them both.",
+                    "answers": [
+                        "that",
+                        "has",
+                        "been"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "We went out despite of the rain.",
+                    "description": "Despite is used without of.",
+                    "answers": [
+                        "out",
+                        "of",
+                        "despite"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "There is a garage opposite of my house.",
+                    "description": "Opposite is used without of.",
+                    "answers": [
+                        "a",
+                        "opposite",
+                        "of"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "Although she had prepared well for the test, but she could not pass.",
+                    "description": "Although and but are both used to connect contrasting ideas. Use only one of them in a sentence.",
+                    "answers": [
+                        "although",
+                        "but",
+                        "Either but or although"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "As he was not there so I left a message with his mother.",
+                    "description": "As indicates the reason and so indicates the result. Use only one of them in a sentence.",
+                    "answers": [
+                        "as",
+                        "so",
+                        "Either as or so"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "This is Jane who she works with me.",
+                    "description": "The relative pronoun who acts as the subject of the relative clause. Since a clause needs only one subject, we cannot write she.",
+                    "answers": [
+                        "who",
+                        "she",
+                        "with"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "They have got married a couple of months ago.",
+                    "description": "We cannot use the present perfect tense with past time expressions.",
+                    "answers": [
+                        "have",
+                        "a",
+                        "of"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "This is the guy whom we have met yesterday.",
+                    "description": "",
+                    "answers": [
+                        "whom",
+                        "have",
+                        "the"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Because I have great respect for him so I listened to him.",
+                    "description": "Because shows the reason and so shows the result. Use only one of them in a sentence. ",
+                    "answers": [
+                        "because",
+                        "have",
+                        "to"
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "id": "78f6953ab7814f478ca301164d1df8ff",
+            "title": "Editing Exercise",
+            "questions": [
+                {
+                    "question": "They went out despite of the rain.",
+                    "description": "The correct preposition is despite.",
+                    "answers": [
+                        "out",
+                        "of",
+                        "the"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Sonia, who is my neighbor, she is a writer.",
+                    "description": "A clause needs just one subject.",
+                    "answers": [
+                        "who",
+                        "she",
+                        "a"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "No matter what that I do, he is never happy.",
+                    "description": "",
+                    "answers": [
+                        "what",
+                        "that",
+                        "do"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "I almost nearly wish I had stayed home.",
+                    "description": "Nearly is similar to almost. It is mainly used to suggest progress towards a goal.",
+                    "answers": [
+                        "almost",
+                        "nearly",
+                        "had"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "She is nearly never at home.",
+                    "description": "We cannot use nearly with negative words like never.",
+                    "answers": [
+                        "nearly",
+                        "never",
+                        "at"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "I have visited them a fortnight ago.",
+                    "description": "We cannot use the present perfect with past time expressions like 'a fortnight ago'.",
+                    "answers": [
+                        "have",
+                        "visited",
+                        "a"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "You had better not to disturb dad.",
+                    "description": "After had better the infinitive is used without to.",
+                    "answers": [
+                        "had",
+                        "better",
+                        "to"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "I want that you to tell me exactly what happened.",
+                    "description": "The sentence should read: I want you to tell me exactly what happened.",
+                    "answers": [
+                        "that",
+                        "to",
+                        "what"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "They made me to retract my statement.",
+                    "description": "The infinitive is used without to after make.",
+                    "answers": [
+                        "made",
+                        "to",
+                        "my"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "As well as he breaking his leg, John hurt his arm.",
+                    "description": "",
+                    "answers": [
+                        "as",
+                        "he",
+                        "his"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "The house where I live in is very small.",
+                    "description": "We use where instead of that...in.",
+                    "answers": [
+                        "where",
+                        "in",
+                        "very"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "I saw him to come out of the house.",
+                    "description": "The infinitive is used without to after see.",
+                    "answers": [
+                        "to",
+                        "of",
+                        "the"
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "id": "86838ad873094d2e8391864a888da7f2",
+            "title": "Editing Exercise",
+            "questions": [
+                {
+                    "question": "'Where is Samuel?' 'He was working at outside ten minutes ago'.",
+                    "description": "There is no preposition before the place adverb outside.",
+                    "answers": [
+                        "at",
+                        "outside",
+                        "ago"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "There are more unemployed compared to than ever before.",
+                    "description": "We use 'more ...than' in comparative structures. ",
+                    "answers": [
+                        "more",
+                        "compared to",
+                        "than"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "My grandfather would used to have an old Rolls Royce.",
+                    "description": "We can use both would and used to talk about repeated actions in the past. We do not use them both. Also, would cannot be used to talk about past states. ",
+                    "answers": [
+                        "would",
+                        "used to",
+                        "an"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "'She is in a bad mood.' 'Why not you send her some flowers?'",
+                    "description": "We use the structure 'why not + infinitive without to' to make suggestions. No pronouns are used in this structure. ",
+                    "answers": [
+                        "a",
+                        "you",
+                        "some"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "The question is whether the man can be trusted with.",
+                    "description": "",
+                    "answers": [
+                        "whether",
+                        "be",
+                        "with"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "They can't decide whether they should to get married now or wait.",
+                    "description": "Infinitives are used without to after modals. ",
+                    "answers": [
+                        "whether",
+                        "should",
+                        "to"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "I don't want that woman to come here ever over again.",
+                    "description": "",
+                    "answers": [
+                        "that",
+                        "ever",
+                        "over"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "We are still awaiting for instructions.",
+                    "description": "We use await or wait for.",
+                    "answers": [
+                        "still",
+                        "awaiting",
+                        "for"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "I have just been given a lovely picture to.",
+                    "description": "Some verbs take two objects. When these verbs are used in passive structures, the prepositions to and for are not used. ",
+                    "answers": [
+                        "been",
+                        "given",
+                        "to"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "We were all bought nice presents for.",
+                    "description": "Some verbs take two objects. When these verbs are used in passive structures, the prepositions to and for are not used. ",
+                    "answers": [
+                        "were",
+                        "all",
+                        "for"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "Do not expect quick results when you start to learning a language.",
+                    "description": "The verb start can be followed by a to-infinitive or an ing form. ",
+                    "answers": [
+                        "expect",
+                        "quick",
+                        "to"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "You need not have to woken me up.",
+                    "description": "When need is used as a modal, it is followed by an infinitive without to. ",
+                    "answers": [
+                        "not",
+                        "to",
+                        "up"
+                    ],
+                    "correct": 1
+                }
+            ]
+        }
+    ]
+}

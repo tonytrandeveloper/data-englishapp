@@ -1,0 +1,3609 @@
+{
+    "id": "f06adca71cd046dca8e57bbf61648f13",
+    "title": "Reported Speech",
+    "exercises": [
+        {
+            "id": "8cdd3c01c21249799d08355710896165",
+            "title": "Mixed Tense Reported Statements",
+            "questions": [
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"He works in a bank.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said that he worked in a bank.",
+                                "She said he worked in a bank."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"We went out last night.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said that they had gone out last night.",
+                                "She said they went out last night."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I'm coming!\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said that she was coming.",
+                                "She said she was coming."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I was waiting for the bus when he arrived.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said that she had been waiting for the bus when he arrived.",
+                                "She said she had been waiting for the bus when he arrived."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I'd never been there before.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said that she had never been there before.",
+                                "She said she had never been there before."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I didn't go to the party.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said that she hadn't gone to the party.",
+                                "She said that she didn't go to the party."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Lucy will come later.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said that Lucy would come later.",
+                                "She said Lucy would come later."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"He hasn't eaten breakfast.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said that he hadn't eaten breakfast.",
+                                "She said he hadn't eaten breakfast."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I can help you tomorrow.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said that she could help me tomorrow.",
+                                "She said that she could help me the next day."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"You should go to bed early.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said that I should go to bed early.",
+                                "She said I should go to bed early."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I don't like chocolate.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said that she didn't like chocolate.",
+                                "She said she didn't like chocolate."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I won't see you tomorrow.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said that she wouldn't see me tomorrow.",
+                                "She said that she wouldn't see me the next day."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"She's living in Paris for a few months.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said that she was living in Paris for a few months.",
+                                "She said she was living in Paris for a few months."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I visited my parents at the weekend.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said that she had visited her parents at the weekend.",
+                                "She said that she visited her parents at the weekend."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"She hasn't eaten sushi before.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said that she hadn't eaten sushi before.",
+                                "She said she hadn't eaten sushi before."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I hadn't travelled by underground before I came to London.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said that she hadn't travelled by underground before she came to London.",
+                                "She said she hadn't travelled by underground before she came to London."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"They would help if they could.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said that they would help if they could.",
+                                "She said they would help if they could."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I'll do the washing-up later.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said that she would do the washing-up later.",
+                                "She said she would do the washing-up later."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"He could read when he was three.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said that he could read when he was three.",
+                                "She said he could read when he was three."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I was sleeping when Julie called.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said that she had been sleeping when Julie called.",
+                                "She said she had been sleeping when Julie called."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "dada07f43e27462bbe9b253b2af60765",
+            "title": "Present Simple Reported Statements",
+            "questions": [
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"He works in a bank.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said he worked in a bank.",
+                                "She said that he worked in a bank."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Julie doesn't like going out much.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said Julie didn't like going out much.",
+                                "She said that Julie didn't like going out much."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I don't have a computer.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said that she didn't have a computer."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"They never arrive on time.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said they never arrived on time.",
+                                "She said that they never arrived on time."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"We often meet friends in London at the weekend.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said they often met friends in London at the weekend.",
+                                "She said that they often met friends in London at the weekend."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"David doesn't have any children.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said David didn't have any children.",
+                                "She said that David didn't have any children."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I don't go to the gym very often.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said she didn't go to the gym very often.",
+                                "She said that she didn't go to the gym very often."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Lucy owns three flats in the city.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said Lucy owned three flats in the city.",
+                                "She said that Lucy owned three flats in the city."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I never get up early on Sundays.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said she never got up early on Sundays.",
+                                "She said that she never got up early on Sundays."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Jill meets her boyfriend at the cinema every Friday night.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said Jill met her boyfriend at the cinema every Friday night.",
+                                "She said that Jill met her boyfriend at the cinema every Friday night."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"We don't travel much.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said they didn't travel much.",
+                                "She said that they didn't travel much."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"John doesn't live in Japan any more.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said John didn't live in Japan any more.",
+                                "She said that John didn't live in Japan any more."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"They work in Hong Kong.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said they worked in Hong Kong.",
+                                "She said that they worked in Hong Kong.."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I have to work until seven or eight pm every night.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said she had to work until seven or eight pm every night.",
+                                "She said that she had to work until seven or eight pm every night."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I don't want to go to the theatre next weekend.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said she didn't want to go to the theatre next weekend.",
+                                "She said that she didn't want to go to the theatre next weekend."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"We like working in Paris.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said they liked working in Paris.",
+                                "She said that they liked working in Paris."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"She doesn't have enough time to do everything.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said she didn't have enough time to do everything.",
+                                "She said that she didn't have enough time to do everything."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Tony hates mushrooms.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said Tony hated mushrooms.",
+                                "She said that Tony hated mushrooms."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"They often go on holiday in July.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said they often went on holiday in July.",
+                                "She said that they often went on holiday in July."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I live in New York.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said she lived in New York.",
+                                "She said that she lived in New York."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "36d1fb13be8a4ceda22ddb8190380b81",
+            "title": "Present Continuous Reported Statements",
+            "questions": [
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"We're working.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me they were working.",
+                                "He told me that they were working."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"She's coming to the party.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me she was coming to the party.",
+                                "He told me that he was coming to the party."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"She's talking on the telephone.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me she was talking on the telephone.",
+                                "He told me that she was talking on the telephone."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Lucy is reading a book in front of the fire.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me Lucy was reading a book in front of the fire.",
+                                "He told me that Lucy was reading a book in front of the fire."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I'm not going out.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me he wasn't going out.",
+                                "He told me that he wasn't going out."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"We are not visiting Paris during our trip.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me they weren't visiting Paris during their trip.",
+                                "He told me that they weren't visiting Paris during their trip."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I'm listening to my new CD.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me he was listening to his new CD.",
+                                "He told me that he was listening to his new CD."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"John is working in a bar for the summer.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me John was working in a bar for the summer.",
+                                "He told me that John was working in a bar for the summer."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I'm not going to go on holiday.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me he wasn't going to go on holiday.",
+                                "He told me that he wasn't going to go on holiday."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"He isn't living in Beijing.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me he wasn't living in Beijing.",
+                                "He told me that he wasn't living in Beijing."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I'm taking the train to Berlin.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me he was taking the train to Berlin.",
+                                "He told me that he was taking the train to Berlin."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"She is never coming back.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me she was never coming back.",
+                                "He told me that she was never coming back."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Jill is studying a lot.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me Jill was studying a lot.",
+                                "He told me that Jill was studying a lot."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I'm not meeting Julie.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me he wasn't meeting Julie.",
+                                "He told me that he wasn't meeting Julie."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"We aren't renting a flat.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me they weren't renting a flat.",
+                                "He told me that they weren't renting a flat."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"They are visiting the museum.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me they were visiting the museum.",
+                                "He told me that they were were visiting the museum."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"She's eating dinner.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me she was eating dinner.",
+                                "He told me that she was eating dinner."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"We aren't going to the library.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me they weren't going to the library.",
+                                "He told me that they weren't going to the library."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I'm coming.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me he was coming.",
+                                "He told me that he was coming."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I'm sleeping.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me he was sleeping.",
+                                "He told me that he was sleeping."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4ce1d6f492134f7c9271f12e639a6d01",
+            "title": "Past Simple Reported Statements",
+            "questions": [
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Jane left the party early.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me Jane had left the party early."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I didn't go out at the weekend.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me he hadn't gone out at the weekend."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"He didn't like chocolate as a child.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me he hadn't liked chocolate as a child."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"They visited Japan.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me they had visited Japan."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"She didn't buy the dress.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me she hadn't bought the dress."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I travelled through India and Pakistan.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me he had travelled through India and Pakistan."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"He met his girlfriend in a café.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me he had met his girlfriend in a café."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"David didn't arrive until 10 o'clock.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me David hadn't arrived until 10 o'clock."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"We went to the park to have a picnic.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me they had gone to the park to have a picnic."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"We ate Chinese food, then we walked home.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me they had eaten Chinese food, then they walked home."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"She forgot to bring the CDs.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me she had forgotten to bring the CDs."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I didn't like the food in the restaurant.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me he hadn't liked the food in the restaurant."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"He didn't take a shower.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me he hadn't taken a shower."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I worked until six.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me he had worked until six."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"We went to Paris for the weekend.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me they had gone to Paris for the weekend.",
+                                "He told me they had been to Paris for the weekend."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"The plane left at seven.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me the plane had left at seven."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I came to London in 2004.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me he had come to London in 2004."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Lucy didn't go to university.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me Lucy hadn't gone to university.",
+                                "He told me Lucy hadn't been to university."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"John never studied German.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me John had never studied  German."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I went to the cinema yesterday.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "He told me he had been to the cinema yesterday."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "06d8bce36c33433b980428171379993d",
+            "title": "Present Perfect Reported Statements",
+            "questions": [
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"She has visited Paris three times.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said she had visited Paris three times.",
+                                "She said that she had visited Paris three times."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"He has read War and Peace.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said he had read War and Peace.",
+                                "She said that he had read War and Peace."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I haven't seen Julie for ages.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said she hadn't seen Julie for ages.",
+                                "She said that she hadn't seen Julie for ages."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"He hasn't been to school this week.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said he hadn't been to school this week.",
+                                "She said that he hadn't been to school this week."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"We haven't seen The Lord of the Rings.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said they hadn't seen The Lord of the Rings.",
+                                "She said that they hadn't seen The Lord of the Rings."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"They've eaten in a lot of different restaurants.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said they had eaten in a lot of different restaurants.",
+                                "She said that they had eaten in a lot of different restaurants."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I've never tried skateboarding.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said she had never tried skateboarding.",
+                                "She said that she had never tried skateboarding."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Lucy has drunk six cups of coffee today.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said Lucy had drunk six cups of coffee today.",
+                                "She said that Lucy had drunk six cups of coffee today."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Mr Black has written three books.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said Mr Black had written three books.",
+                                "She said that Mr Black had written three books."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"It hasn't rained much this year.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said it hadn't rained much this year.",
+                                "She said that it hadn't rained much this year."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"She has never swum in the sea.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said she had never swum in the sea.",
+                                "She said that she had never swum in the sea."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"He has studied Latin.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said he had studied Latin.",
+                                "She said that he had studied Latin."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I've been sick all week.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said she had been sick all week.",
+                                "She said that she had been sick all week."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Robert has been to China five times.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said Robert had been to China five times.",
+                                "She said that Robert had been to China five times."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I haven't met Richard before.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said she hadn't met Richard before.",
+                                "She said that she hadn't met Richard before."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Julie has never studied music.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said Julie had never studied music.",
+                                "She said that Julie had never studied music."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"He has eaten too much chocolate.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said he had eaten too much chocolate.",
+                                "She said that he had eaten too much chocolate."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"We haven't seen the new play.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said they hadn't seen the new play.",
+                                "She said that they hadn't seen the new play."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I haven't tried the new restaurant yet.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said she hadn't tried the new restaurant yet.",
+                                "She said that she hadn't tried the new restaurant yet."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I've never been to Brazil.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said she had never been to Brazil.",
+                                "She said that she had never been to Brazil."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "9e0d070f870f4511b1875a78ba28ad9b",
+            "title": "Future Simple Reported Statements",
+            "questions": [
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I'll go to the cinema later.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said she would go to the cinema later."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"We'll meet the children at six.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said they would meet the children at six."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"She'll be late.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said she would be late."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Lucy will definitely come.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said Lucy would definitely come."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I will stop smoking on Tuesday.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said she would stop smoking on Tuesday."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"John won't do it.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said John wouldn't do it."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"They won't be able to arrive early.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said they wouldn't be able to arrive early."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I won't come with you.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said she wouldn't come with me."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"He won't remember to buy milk.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said he wouldn't remember to buy milk."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"It won't rain later I'm sure.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said it wouldn't rain later she was sure."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"The Conservatives will win the next election.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said the Conservatives would win the next election."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"The girl will never pass the exam.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said the girl would never pass the exam."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"John will arrive before David.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said John would arrive before David."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"It will be cold tonight.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said it would be cold tonight."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Jenny will cook dinner.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said Jenny would cook dinner."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"We will get married next year.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said they would get married next year.",
+                                "She said they would get married the following year."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I won't be able to afford a new car.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said she wouldn't be able to afford a new car."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"She won't want to attend the meeting.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said she wouldn't want to attend the meeting."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Richard won't drink coffee.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said Richard wouldn't drink coffee."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I won't vote at the next election.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said she wouldn't vote at the next election."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "f284e2f7dc8647af91ebbb15415aa54e",
+            "title": "Reported Yes/No Questions",
+            "questions": [
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Am I late?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me if she was late."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Is it cold outside?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me if it was cold outside."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Are they in Paris?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me if they were in Paris."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Is the bus stop near the shopping centre?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me if the bus stop was near the shopping centre."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Is the milk fresh?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me if the milk was fresh."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Are you a doctor?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me if I was a doctor."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Are James and Lucy from France?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me if James and Lucy were from France."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Is my brother in the garden?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me if her brother was in the garden."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Is the weather good in Shanghai in the summer?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me if the weather was good in Shanghai in the summer."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Does Julie drink tea?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me if Julie drank tea."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Do you like chocolate?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me if I liked chocolate."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Do they own a flat?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me if they owned a flat."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Does David go to the cinema often?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me if David went to the cinema often."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Do the children study Chinese?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me if the children studied Chinese."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Do they go on holiday every summer?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me if they went on holiday every summer."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Does your sister live in Stockholm?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me if my sister lived in Stockholm."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Do I talk too much?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me if she talked too much."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Does Jennifer want a new job?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me if Jennifer wanted a new job."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Does it rain a lot in London?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me if it rained a lot in London."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Is John at home?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me if John was at home."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "7248686408874051ae47a47cbb12912d",
+            "title": "Reported Wh Questions",
+            "questions": [
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Why is Julie sad?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me why Julie was sad."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"What's for dinner?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me what was for dinner."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Who is the woman in the red dress?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me who the woman in the red dress was."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"How is your grandmother?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me how my grandmother was."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"When is the party?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me when the party was."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"How much is the rent on your flat?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me how much the rent on my flat was."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Where are the glasses?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me where the glasses were."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"How is the weather in Chicago?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me how the weather in Chicago was."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Who is the Prime Minister of Canada?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me who the Prime Minister of Canada was."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Where do you usually go swimming?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me where I usually went swimming."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"What does Luke do at the weekend?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me what Luke did at the weekend."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Where do your parents live?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me where my parents lived."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Who do you go running with?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me who I went running with."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"When does Lucy get up?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me when Lucy got up."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"How much TV do you watch?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me how much TV I watched."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"How many books do they own?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me how many books they owned."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Where does John work?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me where John worked."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"What do the children study on Fridays?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me what the children studied on Fridays."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Why do you study English?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me why I studied English."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Where is the post office?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me where the post office was."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "cbf370d67e844c7e8f5760c414449a66",
+            "title": "Reported Requests and Orders",
+            "questions": [
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Please help me carry this.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me to help her carry this."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Please come early.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me to come early."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Please buy some milk.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me to buy some milk."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Could you please open the window?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me to open the window."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Could you bring the book tonight?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me to bring the book tonight.",
+                                "She asked me to bring the book that night."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Can you help me with my homework, please?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me to help her with her homework."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Would you bring me a cup of coffee, please?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me to bring her a cup of coffee."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Would you mind passing the salt?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me to pass the salt."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Would you mind lending me a pencil?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me to lend her a pencil."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I was wondering if you could possibly tell me the time?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me to tell her the time."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Do your homework!\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She told me to do my homework."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Don't smoke!\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She told me not to smoke."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Don't be late!\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She told me not to be late."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Go to bed!\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She told me to go to bed."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Tidy your room!\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She told me to tidy my room."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Wait here!\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She told me to wait here.",
+                                "She told me to wait there."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Don't do that!\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She told me not to do that."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Eat your dinner!\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She told me to eat my dinner."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Don't make a mess!\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She told me not to make a mess."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Do the washing-up!\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She told me to do the washing-up."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "e485c27798af4ea39b0baec8644e416a",
+            "title": "Reported Speech Mixed Exercise 1",
+            "questions": [
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Don't do it!\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She told me not to do it."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I'm leaving tomorrow.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said that she was leaving tomorrow.",
+                                "She said that she was leaving the next day."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Please get me a cup of tea.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me to get her a cup of tea."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"She got married last year.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said that she had got married last year.",
+                                "She said that she got married last year."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Be quick!\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She told me to be quick."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Could you explain number four, please?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me to explain number four."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Where do you live?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me where I lived."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"We went to the cinema and then to a Chinese restaurant.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said that they had gone to the cinema and then to a Chinese restaurant.",
+                                "She said that they went to the cinema and then to a Chinese restaurant."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I'll come and help you at twelve.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said that she would come and help me at twelve."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"What are you doing tomorrow?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me what I was doing tomorrow.",
+                                "She asked me what I was doing the next day."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Don't go!\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She told me not to go."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Do you work in London?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me if I worked in London."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Could you tell me where the post office is?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me to tell her where the post office was."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Come here!\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She told me to come here.",
+                                "She told me to come there."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I've never been to Wales.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said that she had never been to Wales."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Have you ever seen The Lord of the Rings?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me if I had ever seen The Lord of the Rings."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I don't like mushrooms.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said that she didn't like mushrooms."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Don't be silly!\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She told me not to be silly."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Would you mind waiting a moment please?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me to wait a moment."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"How often do you play sport?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me how often I played sport."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "e6aa94922b194d5aab6362ece6415cab",
+            "title": "Reported Speech Mixed Exercise 2",
+            "questions": [
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Did you arrive before seven?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me if I had arrived before seven.",
+                                "She asked me if I arrived before seven."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"How was your holiday?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me how my holiday had been."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I would have visited the hospital, if I had known you were sick.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said that she would have visited the hospital, if she had known I was sick."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Don't touch!\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She told me not to touch."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Do you usually cook at home?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me if I usually cooked at home."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"They had never been to Scotland until last year.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said that they had never been to Scotland until last year."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Make sure you arrive early!\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She told me to arrive early."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I should have studied harder for the exam.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said that she should have studied harder for the exam."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Would you mind telling me how to get to the art gallery, please?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me how to get to the art gallery."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Please don't forget my book.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me not to forget her book."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Make sure you arrive at six!\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She told me to arrive at six."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Remember to study hard!\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She told me to remember to study hard."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Where do you want to eat tonight?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me where I wanted to eat tonight.",
+                                "She asked me where I wanted to eat that night."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I usually drink coffee in the mornings.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said that she usually drank coffee in the mornings."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Do you like studying English?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me if I liked studying English."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"I'll come and help you on Saturday.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She said that she would come and help me on Saturday."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Please buy some bread on your way home.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me to buy some bread on my way home."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Please give this to John.\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me to give this to John."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Could you give me the glass on the table, please?\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She asked me to give her the glass on the table."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "\"Come quickly!\""
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "She told me to come quickly."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "9931d6b029c74162857c85f3e8f0a9f8",
+            "title": "'Say' and 'Tell'",
+            "questions": [
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Julie"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "said"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "that she would join us after work."
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "She"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "told"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "me that she was going running this evening."
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "John"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "told"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "us that he couldn't come to the party."
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "John"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "said"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "that he had been to the cinema at the weekend."
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "She"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "told"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "them she wanted to quit."
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "David"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "said"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "that he was going to arrive at eight."
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "They"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "said"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "that they didn't want to meet us on Tuesday."
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "I"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "told"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "him I wasn't impressed."
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Lucy"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "told"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "Julie that she was leaving on Wednesday."
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "We"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "said"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "that we were going on holiday the following week."
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Jack"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "told"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "my mother he would be in Spain this week."
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "I"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "said"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "that I hated mushrooms."
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "She"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "said"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "she loved chocolate."
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "They"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "said"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "they were meeting Luke today."
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "They"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "told"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "us they were going to the museum this afternoon."
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "He"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "said"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "he wouldn't start without us."
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "I"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "told"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "them I'd bring pudding."
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "Jonathan"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "said"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "it would rain today."
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "They"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "told"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "us that it was fine to come late."
+                        }
+                    ]
+                },
+                {
+                    "parts": [
+                        {
+                            "type": "text",
+                            "value": "The boss"
+                        },
+                        {
+                            "type": "input",
+                            "answers": [
+                                "told"
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "value": "me that I should do some more work on this report."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

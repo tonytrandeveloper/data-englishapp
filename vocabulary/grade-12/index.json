@@ -1,0 +1,3362 @@
+[
+    {
+        "id": "4cd7a8e3305f4c3a803fa9d83cd835b5",
+        "name": "Unit 1 - Life Stories",
+        "words": [
+            {
+                "id": "268c4e0361d04f22a723fae552bc2749",
+                "word": "reputation",
+                "pos": "noun",
+                "vi": "sự nổi danh, danh tiếng",
+                "phonetic": "/ˌrɛpjəˈteɪʃn/",
+                "example": {
+                    "en": "the overall quality of character",
+                    "vi": "chất lượng tổng thể của nhân vật"
+                },
+                "definition": {
+                    "en": "He acquired a reputation as an actor before he started writing",
+                    "vi": "Anh ấy đã có được danh tiếng như một diễn viên trước khi bắt đầu viết văn"
+                }
+            },
+            {
+                "id": "c213924c40bc43e9be6ef041ea9e3b67",
+                "word": "achievement",
+                "pos": "noun",
+                "vi": "thành tựu",
+                "phonetic": "/əˈtʃivmənt/",
+                "example": {
+                    "en": "something very good and difficult that you have succeeded in doing",
+                    "vi": "điều gì đó rất tốt và khó mà bạn đã thành công trong việc làm"
+                },
+                "definition": {
+                    "en": "An Olympic silver medal is a remarkable achievement for one so young.",
+                    "vi": "Huy chương bạc Olympic là một thành tích đáng kể đối với một người còn quá trẻ."
+                }
+            },
+            {
+                "id": "92a0daf3a6f74786a2a7e2d997e9710c",
+                "word": "talented",
+                "pos": "adjective",
+                "vi": "tài năng",
+                "phonetic": "/ˈtæləntəd/",
+                "example": {
+                    "en": "having a natural ability to do something well",
+                    "vi": "có khả năng tự nhiên để làm tốt điều gì đó"
+                },
+                "definition": {
+                    "en": "Peter is an exceptionally talented lawyer",
+                    "vi": "Peter là một luật sư đặc biệt tài năng"
+                }
+            },
+            {
+                "id": "dfd5589d3e504475ba8041404dfcbea8",
+                "word": "diagnose",
+                "pos": "verb",
+                "vi": "chẩn đoán",
+                "phonetic": "/ˈdaɪəɡˌnoʊs/",
+                "example": {
+                    "en": "to recognize a disease; to analyze the nature of something",
+                    "vi": "để nhận biết một căn bệnh; để phân tích bản chất của một cái gì đó"
+                },
+                "definition": {
+                    "en": "His condition was diagnosed as some type of blood disorder",
+                    "vi": "Tình trạng của anh ấy được chẩn đoán là một số loại rối loạn máu"
+                }
+            },
+            {
+                "id": "574cb6d89499449dbd313ddd35c98d8f",
+                "word": "generosity",
+                "pos": "noun",
+                "vi": "sự hào phóng, sự quảng đại",
+                "phonetic": "/ˌdʒɛnəˈrɑsət̮i/",
+                "example": {
+                    "en": "the fact of being generous",
+                    "vi": "thực tế là hào phóng"
+                },
+                "definition": {
+                    "en": "She is admired for her generosity.",
+                    "vi": "Cô được ngưỡng mộ vì sự hào phóng của mình."
+                }
+            },
+            {
+                "id": "f40d400630a74c2da56441663aa99ace",
+                "word": "perseverance",
+                "pos": "noun",
+                "vi": "tính kiên trì, sự bền chí",
+                "phonetic": "/,pɜrsə'virəns/",
+                "example": {
+                    "en": "persistence : continuing or repeating behavior",
+                    "vi": "kiên trì: tiếp tục hoặc lặp lại hành vi"
+                },
+                "definition": {
+                    "en": "Through hard work and perseverance, he worked his way up to the top.",
+                    "vi": "Bằng sự chăm chỉ và kiên trì, anh ấy đã làm việc theo cách của mình để vươn tới đỉnh cao."
+                }
+            },
+            {
+                "id": "95ca9de477f84201adbfd73f5cbea459",
+                "word": "dedication",
+                "pos": "noun",
+                "vi": "sự cống hiến",
+                "phonetic": "/ˌded·ɪˈkeɪ·ʃən/",
+                "example": {
+                    "en": "the activity of giving a lot of your energy and time to something you think is important",
+                    "vi": "hoạt động dành nhiều năng lượng và thời gian của bạn cho một thứ mà bạn nghĩ là quan trọng"
+                },
+                "definition": {
+                    "en": "He has always shown great dedication to the cause",
+                    "vi": "Anh ấy luôn thể hiện sự cống hiến to lớn cho sự nghiệp"
+                }
+            },
+            {
+                "id": "87d3f392898246f69b1af2dc20596c97",
+                "word": "waver",
+                "pos": "verb",
+                "vi": "phân vân, do dự",
+                "phonetic": "/ˈweɪ·vər/",
+                "example": {
+                    "en": "to begin to doubt or lose your determination to do something",
+                    "vi": "bắt đầu nghi ngờ hoặc mất quyết tâm làm điều gì đó"
+                },
+                "definition": {
+                    "en": "He never wavered as the leading voice of African-Americans’ call for freedom and equality.",
+                    "vi": "Anh ấy không bao giờ dao động khi là tiếng nói hàng đầu trong lời kêu gọi tự do và bình đẳng của người Mỹ gốc Phi."
+                }
+            },
+            {
+                "id": "b518a48aad0b41e9a90255ef4ee042e3",
+                "word": "anonymous",
+                "pos": "adjective",
+                "vi": "ẩn danh, giấu tên",
+                "phonetic": "/ əˈnɑːnəməs/",
+                "example": {
+                    "en": "(of a person) with a name that is not known or that is not made public",
+                    "vi": "(của một người) với một cái tên không được biết đến hoặc không được công khai"
+                },
+                "definition": {
+                    "en": "She tried to ascertain the identity of the writer of the anonymous letter.",
+                    "vi": "Cô cố gắng xác định danh tính của người viết bức thư nặc danh."
+                }
+            },
+            {
+                "id": "30db841a870d4f9592b0f55a15ff1b97",
+                "word": "distinguished",
+                "pos": "adjective",
+                "vi": "kiệt xuất, lỗi lạc",
+                "phonetic": "dɪˈstɪŋ·ɡwɪʃt",
+                "example": {
+                    "en": "used to describe a respected and admired person, or their work",
+                    "vi": "được sử dụng để mô tả một người được tôn trọng và ngưỡng mộ, hoặc công việc của họ"
+                },
+                "definition": {
+                    "en": "He had a long and distinguished career as a diplomat.",
+                    "vi": "Ông đã có một sự nghiệp lâu dài và nổi tiếng với tư cách là một nhà ngoại giao."
+                }
+            },
+            {
+                "id": "355dd108b90543bf82825b4782823e37",
+                "word": "figure",
+                "pos": "noun",
+                "vi": "nhân vật",
+                "phonetic": "ˈfɪɡ·jər",
+                "example": {
+                    "en": "the shape of the human body, or a person",
+                    "vi": "hình dạng của cơ thể con người, hoặc một người"
+                },
+                "definition": {
+                    "en": "She was a central figure in the movement for constitutional reform.",
+                    "vi": "Bà là nhân vật trung tâm trong phong trào cải cách hiến pháp."
+                }
+            },
+            {
+                "id": "60bf19d0912b41289244a2120b10b021",
+                "word": "hospitalisation",
+                "pos": "noun",
+                "vi": "sự nhập viện, đưa vào bệnh viện",
+                "phonetic": "/hɒs.pɪ.təl.aɪˈzeɪ.ʃən/",
+                "example": {
+                    "en": "the act of taking someone to hospital and keeping them there for treatment",
+                    "vi": "hành động đưa ai đó đến bệnh viện và giữ họ ở đó để điều trị"
+                },
+                "definition": {
+                    "en": "Because of the severity of the accident, the patient required hospitalisation",
+                    "vi": "Do mức độ nghiêm trọng của vụ tai nạn, bệnh nhân phải nhập viện điều trị."
+                }
+            },
+            {
+                "id": "87210bbfa84a4f5898a7e26bdc3c14e2",
+                "word": "prosthetic leg",
+                "pos": "noun",
+                "vi": "chân giả",
+                "phonetic": "/p&#633;as&theta;&#603;t&#618;k/",
+                "example": {
+                    "en": "a leg that replaces a missing part",
+                    "vi": "một cái chân thay thế một phần bị thiếu"
+                },
+                "definition": {
+                    "en": "Some of them are in wheelchairs, some wearing a prosthetic leg",
+                    "vi": "Một số ngồi trên xe lăn, một số đeo chân giả"
+                }
+            },
+            {
+                "id": "a478b7eee00644919b0c1da0b45c1ae9",
+                "word": "respectable",
+                "pos": "adjective",
+                "vi": "đáng kính, đứng đắn",
+                "phonetic": "rɪˈspek·tə·bəl",
+                "example": {
+                    "en": "considered to be socially acceptable because of your good character, appearance, or behaviour",
+                    "vi": "được coi là được xã hội chấp nhận vì tính cách, ngoại hình hoặc hành vi tốt của bạn"
+                },
+                "definition": {
+                    "en": "I wore my boring, respectable suit to the interview",
+                    "vi": "Tôi đã mặc bộ đồ nhàm chán, đáng kính của mình đến buổi phỏng vấn"
+                }
+            }
+        ]
+    },
+    {
+        "id": "f83bc0a2b14340b4805a591b2a6806e1",
+        "name": "Unit 2 - Urbanisation",
+        "words": [
+            {
+                "id": "3d687f45626e428099155d0f93e1a082",
+                "word": "slum",
+                "pos": "noun",
+                "vi": "khu ổ chuột",
+                "phonetic": "/slʌm/",
+                "example": {
+                    "en": "a very poor and crowded area, especially of a city",
+                    "vi": "một khu vực rất nghèo và đông đúc, đặc biệt là của một thành phố"
+                },
+                "definition": {
+                    "en": "She was brought up in the slums of Lima.",
+                    "vi": "Cô được nuôi dưỡng trong khu ổ chuột ở Lima."
+                }
+            },
+            {
+                "id": "7ea3316a4a064a58bda929a57673d06b",
+                "word": "time-consuming",
+                "pos": "adjective",
+                "vi": "tốn nhiều thời gian",
+                "phonetic": "/ taɪm kənˈsumɪŋ /",
+                "example": {
+                    "en": "taking up a lot of time, lengthy",
+                    "vi": "chiếm nhiều thời gian, dài dòng"
+                },
+                "definition": {
+                    "en": "\"They have moving parts; they're fiddly; there's a lot of sticking and sewing.They're time-consuming.",
+                    "vi": "\"Chúng có các bộ phận chuyển động; chúng khó sử dụng; có rất nhiều vết dính và khâu. Chúng tốn nhiều thời gian."
+                }
+            },
+            {
+                "id": "6e39690bb33f4ea8a200cfeb02c43e84",
+                "word": "urbanisation",
+                "pos": "noun",
+                "vi": "sự thành thị hoá, sự đô thị hóa",
+                "phonetic": "/ˌərbənəˈzeɪʃn/",
+                "example": {
+                    "en": "the process by which more and more people leave the countryside to live in cities",
+                    "vi": "quá trình ngày càng nhiều người rời nông thôn đến thành phố sống"
+                },
+                "definition": {
+                    "en": "The two causes of urbanisation are natural population increase and rural to urban migration",
+                    "vi": "Hai nguyên nhân của quá trình đô thị hóa là gia tăng dân số tự nhiên và di cư từ nông thôn ra thành thị"
+                }
+            },
+            {
+                "id": "5d8224b760014ebfa94f766274d4d2b6",
+                "word": "discrimination",
+                "pos": "noun",
+                "vi": "sự phân biệt đối xử",
+                "phonetic": "/dɪˌskrɪməˈneɪʃn/",
+                "example": {
+                    "en": "the practice of treating somebody or a particular group in society less fairly than others",
+                    "vi": "thực hành đối xử với ai đó hoặc một nhóm cụ thể nào đó trong xã hội kém công bằng hơn những người khác"
+                },
+                "definition": {
+                    "en": "There should be no discrimination on the grounds of colour.",
+                    "vi": "Không nên phân biệt đối xử về màu sắc."
+                }
+            },
+            {
+                "id": "3f5929c3ab69493982a359cf9d6dfa4c",
+                "word": "migrate",
+                "pos": "verb",
+                "vi": "di cư",
+                "phonetic": "/ˈmaɪɡreɪt/",
+                "example": {
+                    "en": "to move from one place to another",
+                    "vi": "để di chuyển từ nơi này đến nơi khác"
+                },
+                "definition": {
+                    "en": "Many Germans migrated to South America in the mid-19th century",
+                    "vi": "Nhiều người Đức di cư đến Nam Mỹ vào giữa thế kỷ 19"
+                }
+            },
+            {
+                "id": "bae80de3149c4830b201a6978d9a544a",
+                "word": "overload",
+                "pos": "verb",
+                "vi": "làm quá tải",
+                "phonetic": "/ˈoʊvərˈloʊd/",
+                "example": {
+                    "en": "to put too many things in or on something",
+                    "vi": "đặt quá nhiều thứ vào hoặc vào thứ gì đó"
+                },
+                "definition": {
+                    "en": "Don’t overload the washer or it won’t work properly.",
+                    "vi": "Đừng làm quá tải máy giặt nếu không nó sẽ không hoạt động bình thường."
+                }
+            },
+            {
+                "id": "4b1e81bd24574f32af502b3bc8668b86",
+                "word": "double",
+                "pos": "verb",
+                "vi": "gấp đôi",
+                "phonetic": "/ˈdʌb·əl/",
+                "example": {
+                    "en": "to become twice as much or as many, or to make something twice as much or as many",
+                    "vi": "để trở nên nhiều gấp đôi hoặc nhiều hơn, hoặc để tạo ra một cái gì đó nhiều gấp đôi hoặc nhiều hơn"
+                },
+                "definition": {
+                    "en": "For four people, just double the recipe (= make twice as much).",
+                    "vi": "Đối với bốn người, chỉ cần nhân đôi công thức (= làm nhiều gấp đôi)."
+                }
+            },
+            {
+                "id": "355c620b47974d4aaff08f99683973e0",
+                "word": "worldwide",
+                "pos": "adjective",
+                "vi": "trên phạm vi toàn cầu",
+                "phonetic": "/ˈwɜrldˈwɑɪd/",
+                "example": {
+                    "en": "existing or happening in all parts of the world",
+                    "vi": "tồn tại hoặc đang xảy ra ở tất cả các nơi trên thế giới"
+                },
+                "definition": {
+                    "en": "The rock group has sold six million copies of the album worldwide.",
+                    "vi": "Nhóm nhạc rock đã bán được sáu triệu bản album trên toàn thế giới."
+                }
+            },
+            {
+                "id": "e2e80c6f80614074b49b29d1c32a1487",
+                "word": "expand",
+                "pos": "verb",
+                "vi": "mở rộng",
+                "phonetic": "/ɪkˈspænd/",
+                "example": {
+                    "en": "to increase something in size, number, or importance",
+                    "vi": "để tăng thứ gì đó về quy mô, số lượng hoặc tầm quan trọng"
+                },
+                "definition": {
+                    "en": "They expanded their number of stores significantly in the 1990s.",
+                    "vi": "Họ đã mở rộng số lượng cửa hàng đáng kể vào những năm 1990."
+                }
+            },
+            {
+                "id": "d9c6ab951e534a6bb9266ff2b819e55a",
+                "word": "unemployment",
+                "pos": "noun",
+                "vi": "thất nghiệp",
+                "phonetic": "/ˌʌn·ɪmˈplɔɪ·mənt/",
+                "example": {
+                    "en": "the situation of not having a job that provides money, or the number of people in this situation at any time",
+                    "vi": "tình huống không có việc làm cung cấp tiền, hoặc số người trong tình huống này bất cứ lúc nào"
+                },
+                "definition": {
+                    "en": "The unemployment rate was 4 percent in October.",
+                    "vi": "Tỷ lệ thất nghiệp là 4 phần trăm trong tháng Mười."
+                }
+            },
+            {
+                "id": "1158b2de837046a49a39fa9935302b08",
+                "word": "centralize",
+                "pos": "verb",
+                "vi": "tập trung",
+                "phonetic": "/ˈsen·trəˌlɑɪz/",
+                "example": {
+                    "en": "to bring separate parts together so that they are organized or controlled from one place",
+                    "vi": "để kết hợp các bộ phận riêng biệt lại với nhau để chúng được tổ chức hoặc kiểm soát từ một nơi"
+                },
+                "definition": {
+                    "en": "The law centralized control over the banking industry.",
+                    "vi": "Luật tập trung kiểm soát ngành ngân hàng."
+                }
+            },
+            {
+                "id": "c0859082dcd5472a9290df9ff8bb9ea6",
+                "word": "mindset",
+                "pos": "noun",
+                "vi": "định kiến",
+                "phonetic": "/ˈmaɪnd.set/",
+                "example": {
+                    "en": "a person's way of thinking and their opinions",
+                    "vi": "cách suy nghĩ của một người và ý kiến ​​của họ"
+                },
+                "definition": {
+                    "en": "It's extraordinary how hard it is to change the mindset of the public and the press.",
+                    "vi": "Thật phi thường khó thay đổi suy nghĩ của công chúng và báo chí."
+                }
+            },
+            {
+                "id": "b973c5b80f324c3a806a104537d56a8f",
+                "word": "agricultural",
+                "pos": "adjective",
+                "vi": "thuộc về nông nghiệp",
+                "phonetic": "/ˌæɡ.rəˈkʌl.tʃɚ.əl/",
+                "example": {
+                    "en": "used for farming or relating to farming",
+                    "vi": "được sử dụng để trồng trọt hoặc liên quan đến nông nghiệp"
+                },
+                "definition": {
+                    "en": "The country's economy is mainly agricultural (= based on farming).",
+                    "vi": "Nền kinh tế của đất nước chủ yếu là nông nghiệp (= dựa vào nông nghiệp)."
+                }
+            },
+            {
+                "id": "686542dbee13420098c8b76481175c48",
+                "word": "energy-saving",
+                "pos": "adjective",
+                "vi": "tiết kiệm năng lượng",
+                "phonetic": "EH N ER JH IY S EY V IH NG",
+                "example": {
+                    "en": "relating to products, systems, etc. that use as little electricity, gas, etc. as possible",
+                    "vi": "liên quan đến các sản phẩm, hệ thống, v.v. sử dụng càng ít điện, khí đốt, v.v. càng tốt"
+                },
+                "definition": {
+                    "en": "The heat-recycling system therefore provides an energy-saving solution",
+                    "vi": "Do đó, hệ thống tái chế nhiệt cung cấp một giải pháp tiết kiệm năng lượng"
+                }
+            },
+            {
+                "id": "9757da8910b147b8b8310f73363787de",
+                "word": "self-motivated",
+                "pos": "adjective",
+                "vi": "có động lực cá nhân",
+                "phonetic": "/ˌself ˈməʊtɪveɪtɪd/",
+                "example": {
+                    "en": "able and willing to work without being told what to do",
+                    "vi": "có thể và sẵn sàng làm việc mà không bị chỉ bảo phải làm gì"
+                },
+                "definition": {
+                    "en": "The successful candidate should be self-motivated.",
+                    "vi": "Các ứng viên thành công nên tự động viên bản thân."
+                }
+            },
+            {
+                "id": "3db22ad3b6314ef693a36b5023db15c4",
+                "word": "densely populated",
+                "pos": "adjective",
+                "vi": "dân cư đông đúc",
+                "phonetic": "ˈpɑp·jəˌleɪ·t̬ɪd",
+                "example": {
+                    "en": "having too many people",
+                    "vi": "có quá nhiều người"
+                },
+                "definition": {
+                    "en": "Barbados is one of the most densely populated areas in the world",
+                    "vi": "Barbados là một trong những khu vực đông dân cư nhất trên thế giới"
+                }
+            },
+            {
+                "id": "e0c41a126b134620ba2bacbbfb67e8ef",
+                "word": "cost-effective",
+                "pos": "adjective",
+                "vi": "hiệu quả, xứng đáng với chi phí",
+                "phonetic": "K AA S T IH F EH K T IH V",
+                "example": {
+                    "en": "providing good value for the amount paid",
+                    "vi": "cung cấp giá trị tốt cho số tiền đã thanh toán"
+                },
+                "definition": {
+                    "en": "It’s not cost-effective to heat the whole building if only three people are working here",
+                    "vi": "Không tiết kiệm chi phí để sưởi ấm cả tòa nhà nếu chỉ có ba người làm việc ở đây"
+                }
+            },
+            {
+                "id": "9cf53a6f087a4e11a1d9497286fafb17",
+                "word": "counter-urbanisation",
+                "pos": "noun",
+                "vi": "phản đô thị hóa, dãn dân",
+                "phonetic": "",
+                "example": {
+                    "en": "the movement of people out of cities, to the surrounding areas",
+                    "vi": "sự di chuyển của người dân ra khỏi thành phố, đến các khu vực xung quanh"
+                },
+                "definition": {
+                    "en": "The East Moors Steelworks closed in 1978 and Cardiff lost population during the 1980s, consistent with a wider pattern of counter-urbanisation in Britain",
+                    "vi": "Nhà máy thép East Moors đóng cửa vào năm 1978 và Cardiff mất dân số trong những năm 1980, phù hợp với mô hình phản đô thị hóa rộng rãi hơn ở Anh"
+                }
+            },
+            {
+                "id": "dfc6b4ede7d34af58a9de40ae5cdb03d",
+                "word": "downmarket",
+                "pos": "noun",
+                "vi": "giá rẻ, giá binh dân",
+                "phonetic": "/ˌdaʊnˈmɑː.kɪt/",
+                "example": {
+                    "en": "low in quality and cheap in price; relating to or intended for people who are poor or not educated",
+                    "vi": "chất lượng thấp và giá rẻ; liên quan đến hoặc dành cho những người nghèo hoặc không được giáo dục"
+                },
+                "definition": {
+                    "en": "Bild is instantly recognizable as a down-market tabloid newspaper",
+                    "vi": "Bild có thể được nhận ra ngay lập tức như một tờ báo lá cải thị trường"
+                }
+            },
+            {
+                "id": "6738a2d04b8747c3be377cb117b29f7d",
+                "word": "down-to-earth",
+                "pos": "adjective",
+                "vi": "thực tế",
+                "phonetic": "D AW N T UW ER TH",
+                "example": {
+                    "en": "practical, reasonable, and friendly",
+                    "vi": "thiết thực, hợp lý và thân thiện"
+                },
+                "definition": {
+                    "en": "She's a down-to-earth woman with no pretensions",
+                    "vi": "Cô ấy là một người phụ nữ bình dị không có ảo tưởng"
+                }
+            },
+            {
+                "id": "f36d191eb9a84d84a88e838444b3323f",
+                "word": "industrialisation",
+                "pos": "noun",
+                "vi": "sự công nghiệp hóa",
+                "phonetic": "IY N D UW S T R IY AA L IY S AA T IY AO N",
+                "example": {
+                    "en": "the process of developing industries in a country",
+                    "vi": "quá trình phát triển các ngành công nghiệp ở một quốc gia"
+                },
+                "definition": {
+                    "en": "Those countries that stayed at this import industrialisation substitution stage stagnated economically",
+                    "vi": "Những nước ở giai đoạn thay thế công nghiệp hóa nhập khẩu này đã trì trệ về kinh tế"
+                }
+            },
+            {
+                "id": "48491fa197c549d8b3cf12ab0fc158a7",
+                "word": "interest-free",
+                "pos": "adjective",
+                "vi": "không tính lãi/ không lãi suất",
+                "phonetic": "",
+                "example": {
+                    "en": "used to describe a loan with no extra payment in the form of interest",
+                    "vi": "được sử dụng để mô tả một khoản vay không phải trả thêm dưới hình thức lãi suất"
+                },
+                "definition": {
+                    "en": "The card offers 59 days' interest-free credit",
+                    "vi": "Thẻ cung cấp tín dụng miễn lãi trong 59 ngày"
+                }
+            },
+            {
+                "id": "e1fea8510c924031af2274b2ecb19a66",
+                "word": "kind-hearted",
+                "pos": "adjective",
+                "vi": "tử tế, tốt bụng",
+                "phonetic": "/ˌkaɪndˈhɑː.tɪd/",
+                "example": {
+                    "en": "person is one who likes other people a lot and always wants to help them",
+                    "vi": "người là một người rất thích người khác và luôn muốn giúp đỡ họ"
+                },
+                "definition": {
+                    "en": "She was friendly and kindhearted",
+                    "vi": "Cô ấy thân thiện và tốt bụng"
+                }
+            },
+            {
+                "id": "51eec2e49fbf4d878d98586160bfa043",
+                "word": "long-lasting",
+                "pos": "adjective",
+                "vi": "kéo dài, diễn ra trong thời gian dài",
+                "phonetic": "ˌlɑːŋˈlæs.tɪŋ",
+                "example": {
+                    "en": "continuing for a long period of time",
+                    "vi": "tiếp tục trong một thời gian dài"
+                },
+                "definition": {
+                    "en": "One of the long-lasting effects of the infection is damage to a valve in the heart",
+                    "vi": "Một trong những ảnh hưởng lâu dài của nhiễm trùng là làm hỏng van ở tim"
+                }
+            },
+            {
+                "id": "af64f739dbe142f8b01388238f60da58",
+                "word": "sanitation",
+                "pos": "noun",
+                "vi": "vệ sinh",
+                "phonetic": "ˌsæn·ɪˈteɪ·ʃən",
+                "example": {
+                    "en": "the systems for taking dirty water and other waste products away from buildings in order to protect people's health",
+                    "vi": "hệ thống lấy nước bẩn và các chất thải khác ra khỏi tòa nhà để bảo vệ sức khỏe người dân"
+                },
+                "definition": {
+                    "en": "Many illnesses in these temporary refugee camps are the result of inadequate sanitation",
+                    "vi": "Nhiều bệnh tật trong các trại tị nạn tạm thời này là kết quả của điều kiện vệ sinh không đầy đủ"
+                }
+            },
+            {
+                "id": "80b7f7c29ec543dcb503def989c230cc",
+                "word": "switch off",
+                "pos": "verb",
+                "vi": "ngừng, thôi không chú ý đến nữa",
+                "phonetic": "swɪtʃ ɔf",
+                "example": {
+                    "en": "to stop giving your attention to someone or something",
+                    "vi": "ngừng dành sự chú ý của bạn cho một ai đó hoặc một cái gì đó"
+                },
+                "definition": {
+                    "en": "Many people in stressful jobs find it difficult to switch off when they come home",
+                    "vi": "Nhiều người làm việc căng thẳng cảm thấy khó tắt khi về nhà"
+                }
+            },
+            {
+                "id": "660748eae67943fd994867df43539bf8",
+                "word": "thought-provoking",
+                "pos": "adjective",
+                "vi": "đáng để suy nghĩ",
+                "phonetic": "ˈθɑːt.prəˌvoʊk.ɪŋ",
+                "example": {
+                    "en": "making you think a lot about a subject",
+                    "vi": "khiến bạn suy nghĩ nhiều về một chủ đề"
+                },
+                "definition": {
+                    "en": "His contribution is, however, thought-provoking, as are all of the eleven in this collection",
+                    "vi": "Tuy nhiên, sự đóng góp của anh ấy rất kích thích tư duy, cũng như tất cả 11 người trong bộ sưu tập này"
+                }
+            },
+            {
+                "id": "50b23c68d6df42c482917088018ce5ed",
+                "word": "upmarket",
+                "pos": "adjective",
+                "vi": "đắt tiền, xa xỉ",
+                "phonetic": "/ˌʌpˈmɑːkɪt/",
+                "example": {
+                    "en": "used to describe products and services that are of a high quality compared to others",
+                    "vi": "được sử dụng để mô tả các sản phẩm và dịch vụ có chất lượng cao so với các sản phẩm và dịch vụ khác"
+                },
+                "definition": {
+                    "en": "Gucci is an upmarket brand name",
+                    "vi": "Gucci là một thương hiệu cao cấp"
+                }
+            },
+            {
+                "id": "ff8b02fbf02a4494abd9bf3f746548be",
+                "word": "weather-beaten",
+                "pos": "adjective",
+                "vi": "dãi dầu sương gió",
+                "phonetic": "/ˈweðəˌbiː.tən/",
+                "example": {
+                    "en": "Something such as skin or a building material that is weather-beaten has been changed or damaged by the weather",
+                    "vi": "Một thứ gì đó như da hoặc vật liệu xây dựng chịu tác động của thời tiết đã bị thay đổi hoặc hư hỏng do thời tiết"
+                },
+                "definition": {
+                    "en": "The fisherman had a weather-beaten face",
+                    "vi": "Người đánh cá có khuôn mặt bị đánh bại bởi thời tiết"
+                }
+            },
+            {
+                "id": "588d45e8d7e04a439b2a88c7dfb84c83",
+                "word": "well-established",
+                "pos": "adjective",
+                "vi": "được hình thành từ lâu, có tiếng tăm",
+                "phonetic": "W EH L IH S T AE B L IH SH T",
+                "example": {
+                    "en": "having a recognized position, or being generally known about",
+                    "vi": "có một vị trí được công nhận hoặc thường được biết đến về"
+                },
+                "definition": {
+                    "en": "World Music is now well-established and popular with mass audiences",
+                    "vi": "World Music hiện đã có tên tuổi và được đông đảo khán giả yêu thích"
+                }
+            }
+        ]
+    },
+    {
+        "id": "e1a69c869c46467585457f802e64e99c",
+        "name": "Unit 3 - The Green Movement",
+        "words": [
+            {
+                "id": "a4732f8582e7411abbe67d220ddafab6",
+                "word": "preservation",
+                "pos": "noun",
+                "vi": "sự giữ gìn, sự duy trì, sự bảo tồn",
+                "phonetic": "/ˌprɛzərˈveɪʃn/",
+                "example": {
+                    "en": "the act of keeping something in its original state or in good condition",
+                    "vi": "hành động giữ một cái gì đó ở trạng thái ban đầu hoặc trong tình trạng tốt"
+                },
+                "definition": {
+                    "en": "Janet is very interested in historic preservation.",
+                    "vi": "Janet rất quan tâm đến việc bảo tồn lịch sử."
+                }
+            },
+            {
+                "id": "65448d3f280b493db430db91539e787c",
+                "word": "bronchitis",
+                "pos": "noun",
+                "vi": "viêm phế quản",
+                "phonetic": "/brɑŋˈkaɪt̮əs/",
+                "example": {
+                    "en": "an illness that affects the bronchial tubes leading to the lungs",
+                    "vi": "một căn bệnh ảnh hưởng đến các ống phế quản dẫn đến phổi"
+                },
+                "definition": {
+                    "en": "It can be difficult to diagnose because the symptoms are similar to those of the common cold, bronchitis and asthma.",
+                    "vi": "Có thể khó chẩn đoán vì các triệu chứng tương tự như các triệu chứng của cảm lạnh thông thường, viêm phế quản và hen suyễn."
+                }
+            },
+            {
+                "id": "02d9406e1e604f3088e5ca862c7eb4be",
+                "word": "combustion",
+                "pos": "noun",
+                "vi": "sự đốt cháy, sự cháy",
+                "phonetic": "/kəmˈbʌstʃən/",
+                "example": {
+                    "en": "the process of burning",
+                    "vi": "quá trình đốt cháy"
+                },
+                "definition": {
+                    "en": "The heat is released by combustion of a match.",
+                    "vi": "Nhiệt lượng được giải phóng khi đốt diêm."
+                }
+            },
+            {
+                "id": "c5e4c616f6b44947b1980913f06633d7",
+                "word": "conservation",
+                "pos": "noun",
+                "vi": "sự bảo tồn",
+                "phonetic": "/ˌkɑnsərˈveɪʃn/",
+                "example": {
+                    "en": "the management of land and water in ways that prevent it from being damaged or destroyed",
+                    "vi": "quản lý đất và nước theo những cách ngăn chặn nó bị hư hại hoặc bị phá hủy"
+                },
+                "definition": {
+                    "en": "Energy conservation reduces your fuel bills and helps the environment.",
+                    "vi": "Tiết kiệm năng lượng làm giảm hóa đơn nhiên liệu của bạn và giúp ích cho môi trường."
+                }
+            },
+            {
+                "id": "223b9fcf320d4f488878e41fab578432",
+                "word": "dispose of",
+                "pos": "phrasal verb",
+                "vi": "bỏ đi, ném đi",
+                "phonetic": "/dɪˈspoʊz əv/",
+                "example": {
+                    "en": "to get rid of something; throw out or destroy",
+                    "vi": "bỏ một thứ gì đó; ném ra ngoài hoặc phá hủy"
+                },
+                "definition": {
+                    "en": "Surely there must be a better way to dispose of nuclear waste?",
+                    "vi": "Chắc chắn phải có một cách tốt hơn để xử lý chất thải hạt nhân?"
+                }
+            },
+            {
+                "id": "1a7441455b2b46d28f833c55ac8a31e6",
+                "word": "habitat",
+                "pos": "noun",
+                "vi": "môi trường sống",
+                "phonetic": "/ˈhæbəˌtæt/",
+                "example": {
+                    "en": "the place where a particular type of animal or plant is normally found",
+                    "vi": "nơi mà một loại động vật hoặc thực vật cụ thể thường được tìm thấy"
+                },
+                "definition": {
+                    "en": "With so many areas of woodland being cut down, a lot of wildlife is losing its natural habitat.",
+                    "vi": "Với rất nhiều diện tích rừng bị chặt phá, nhiều loài động vật hoang dã đang mất dần môi trường sống tự nhiên."
+                }
+            },
+            {
+                "id": "4bd790e98066468a9e633e8a1f01d6db",
+                "word": "mildew",
+                "pos": "noun",
+                "vi": "nấm mốc",
+                "phonetic": "/ˈmɪlˌdu/",
+                "example": {
+                    "en": "a very small white fungus that grows on walls, plants, food, etc. in warm wet conditions",
+                    "vi": "một loại nấm màu trắng rất nhỏ mọc trên tường, cây cối, thực phẩm, v.v. trong điều kiện ẩm ướt ấm áp"
+                },
+                "definition": {
+                    "en": "She complained about the damp and the smell of mildew and the dozens of tasks associated with a second home.",
+                    "vi": "Cô phàn nàn về sự ẩm ướt và mùi ẩm mốc và hàng tá công việc liên quan đến ngôi nhà thứ hai."
+                }
+            },
+            {
+                "id": "5cd316a7a288435d8b539260f5c6e6c9",
+                "word": "asthma",
+                "pos": "noun",
+                "vi": "hen suyễn",
+                "phonetic": "/ˈæzmə/",
+                "example": {
+                    "en": "a medical condition that makes breathing difficult by causing the air passages to become narrow or blocked",
+                    "vi": "một tình trạng sức khỏe gây khó thở do đường dẫn khí bị hẹp hoặc tắc nghẽn"
+                },
+                "definition": {
+                    "en": "They should not be used to treat an acute asthma attack.",
+                    "vi": "Chúng không nên được sử dụng để điều trị cơn hen suyễn cấp tính."
+                }
+            },
+            {
+                "id": "60039a0ed0fd4bd1a2d266ef7cecee8a",
+                "word": "replenish",
+                "pos": "verb",
+                "vi": "làm đầy lại, bổ sung",
+                "phonetic": "/rɪ'plɛnɪʃ/",
+                "example": {
+                    "en": "refill : to fill something that had previously been emptied",
+                    "vi": "refill: để lấp đầy một cái gì đó đã được làm trống trước đó"
+                },
+                "definition": {
+                    "en": "We need to replenish our cookie supply.",
+                    "vi": "Chúng tôi cần bổ sung nguồn cung cấp cookie của mình."
+                }
+            },
+            {
+                "id": "d9509d004e0040fb9b8af326b33efdb1",
+                "word": "organic",
+                "pos": "adjective",
+                "vi": "không dùng chất nhân tạo, hữu cơ",
+                "phonetic": "/ɔrˈɡæn·ɪk/",
+                "example": {
+                    "en": "consisting of or relating to living plants and animals, or the substances of which they are made",
+                    "vi": "bao gồm hoặc liên quan đến thực vật và động vật sống, hoặc các chất tạo ra chúng"
+                },
+                "definition": {
+                    "en": "Organic fruits and vegetables are good for the body.",
+                    "vi": "Rau củ quả hữu cơ rất tốt cho cơ thể."
+                }
+            },
+            {
+                "id": "16d747d7233c48c8a809adbb2fb03b96",
+                "word": "lifestyle",
+                "pos": "noun",
+                "vi": "phong cách sống",
+                "phonetic": "/ˈlɑɪfˌstɑɪl/",
+                "example": {
+                    "en": "the particular way that a person or group lives and the values and ideas supported by that person or group",
+                    "vi": "cách cụ thể mà một người hoặc một nhóm sống và các giá trị và ý tưởng được hỗ trợ bởi người hoặc nhóm đó"
+                },
+                "definition": {
+                    "en": "Ask yourself how much your job enhances your lifestyle.",
+                    "vi": "Tự hỏi bản thân xem công việc của bạn nâng cao lối sống của bạn đến mức nào."
+                }
+            },
+            {
+                "id": "3568ab53e36e44609d2e33bf92e58cc2",
+                "word": "promote",
+                "pos": "verb",
+                "vi": "thúc đẩy, phát triển",
+                "phonetic": "p&#633;&#601;mo&#650;t",
+                "example": {
+                    "en": "to encourage or support something, or to help something become successful",
+                    "vi": "để khuyến khích hoặc hỗ trợ điều gì đó hoặc để giúp điều gì đó trở nên thành công"
+                },
+                "definition": {
+                    "en": "A new campaign has been launched to promote safe driving.",
+                    "vi": "Một chiến dịch mới đã được đưa ra để thúc đẩy việc lái xe an toàn."
+                }
+            },
+            {
+                "id": "b569dfc486a04e34b745058fea123261",
+                "word": "sustainability",
+                "pos": "noun",
+                "vi": "\bsự bền vững",
+                "phonetic": "/-ətIi/",
+                "example": {
+                    "en": "the idea that goods and services should be produced in ways that do not use resources that cannot be replaced and that do not damage the environment",
+                    "vi": "ý tưởng rằng hàng hóa và dịch vụ nên được sản xuất theo cách không sử dụng các nguồn tài nguyên không thể thay thế và không làm tổn hại đến môi trường"
+                },
+                "definition": {
+                    "en": "The successful coffee chain promotes sustainability within the coffee-growing regions.",
+                    "vi": "Chuỗi cà phê thành công thúc đẩy tính bền vững trong các vùng trồng cà phê."
+                }
+            },
+            {
+                "id": "c2342b924e394821b2ddfb22dbb6f068",
+                "word": "deplete",
+                "pos": "verb",
+                "vi": "rút hết, làm cạn kiệt",
+                "phonetic": "/dɪˈplit/",
+                "example": {
+                    "en": "to reduce something in size or amount, esp. supplies, energy, or money",
+                    "vi": "để giảm kích thước hoặc số lượng một cái gì đó, đặc biệt. nguồn cung cấp, năng lượng hoặc tiền bạc"
+                },
+                "definition": {
+                    "en": "Acid rain depletes the region’s fish stocks.",
+                    "vi": "Mưa axit làm cạn kiệt nguồn cá trong khu vực."
+                }
+            },
+            {
+                "id": "e7664a61bf87476595c85b029b0f7210",
+                "word": "biomass",
+                "pos": "noun",
+                "vi": "nguyên liệu tự nhiên từ động vật/ thực vật ; sinh khối",
+                "phonetic": "B AY AH M AE S",
+                "example": {
+                    "en": "dead plant and animal material suitable for using as fuel",
+                    "vi": "thực vật và động vật chết phù hợp để sử dụng làm nhiên liệu"
+                },
+                "definition": {
+                    "en": "New technologies extract more energy from each pound of biomass",
+                    "vi": "Công nghệ mới chiết xuất nhiều năng lượng hơn từ mỗi pound sinh khối"
+                }
+            },
+            {
+                "id": "a31351066ef1403e8eccb1294a3f490f",
+                "word": "clutter",
+                "pos": "noun",
+                "vi": "sự bừa bộn",
+                "phonetic": "/ ˈklʌt̬·ər/",
+                "example": {
+                    "en": "(a lot of objects in) a state of being untidy",
+                    "vi": "(rất nhiều đối tượng trong tình trạng không được làm sạch"
+                },
+                "definition": {
+                    "en": "The basement work area is filled with creative clutter.",
+                    "vi": "Khu vực làm việc dưới tầng hầm chứa đầy sự lộn xộn đầy sáng tạo."
+                }
+            },
+            {
+                "id": "a85af8ab4baf449f8563e2ba7ba1f473",
+                "word": "geothermal",
+                "pos": "adjective",
+                "vi": "(thuộc) địa nhiệt",
+                "phonetic": "JH IY OW TH ER M AH L",
+                "example": {
+                    "en": "of or connected with the heat inside the earth",
+                    "vi": "của hoặc kết nối với nhiệt bên trong trái đất"
+                },
+                "definition": {
+                    "en": "Microbial life can thus exist in isolated geothermal refuges despite long-term subfreezing surface conditions",
+                    "vi": "Do đó, sự sống của vi sinh vật có thể tồn tại trong các khu bảo tồn địa nhiệt biệt lập bất chấp các điều kiện bề mặt đông lạnh lâu dài"
+                }
+            },
+            {
+                "id": "09afb8599f844408afec97ba864e5a33",
+                "word": "mould",
+                "pos": "noun",
+                "vi": "mốc, meo",
+                "phonetic": "moʊld",
+                "example": {
+                    "en": "a soft, green or grey growth that develops on old food or on objects that have been left for too long in warm, wet air",
+                    "vi": "sự phát triển mềm, màu xanh lá cây hoặc màu xám phát triển trên thức ăn cũ hoặc trên các đồ vật đã để quá lâu trong không khí ẩm ướt, ấm áp"
+                },
+                "definition": {
+                    "en": "There was mould on the cheese",
+                    "vi": "Có nấm mốc trên pho mát"
+                }
+            },
+            {
+                "id": "213d803deb0f473c950d942130a20c6f",
+                "word": "pathway",
+                "pos": "noun",
+                "vi": "đường mòn, lối nhỏ",
+                "phonetic": "ˈpæθˌweɪ",
+                "example": {
+                    "en": "a path that a person can walk along",
+                    "vi": "con đường mà một người có thể đi cùng"
+                },
+                "definition": {
+                    "en": "New pedestrian pathways are being built alongside the road",
+                    "vi": "Đường dành cho người đi bộ mới đang được xây dựng dọc theo con đường"
+                }
+            },
+            {
+                "id": "e4eced80ad104a158e55937a3259b12a",
+                "word": "purification",
+                "pos": "noun",
+                "vi": "sự làm sạch sẽ, sự tinh chế",
+                "phonetic": "/ ˌpjʊr.ə.fəˈkeɪ.ʃən/",
+                "example": {
+                    "en": "the act of removing harmful substances from something",
+                    "vi": "hành động loại bỏ các chất độc hại khỏi thứ gì đó"
+                },
+                "definition": {
+                    "en": "As a green project, the City Line includes the purification of waste water; noise reduction through sound-attenuating tracks",
+                    "vi": "Là một dự án xanh, City Line bao gồm việc lọc nước thải; giảm tiếng ồn thông qua các bản nhạc giảm âm thanh"
+                }
+            },
+            {
+                "id": "59695f7d67064bd58b9ce0a9b1ce87ba",
+                "word": "soot",
+                "pos": "noun",
+                "vi": "bồ hóng, nhọ nồi",
+                "phonetic": "sʊt",
+                "example": {
+                    "en": "a black powder composed mainly of carbon, produced when coal, wood, etc. is burned",
+                    "vi": "một loại bột màu đen có thành phần chủ yếu là cacbon, được tạo ra khi đốt than, gỗ, v.v."
+                },
+                "definition": {
+                    "en": "It can be dangerous to let too much soot accumulate inside a chimney",
+                    "vi": "Có thể nguy hiểm nếu để quá nhiều muội than tích tụ bên trong ống khói"
+                }
+            }
+        ]
+    },
+    {
+        "id": "7243d5989897491fb44b3972186bc32c",
+        "name": "Unit 4 - The Mass Media",
+        "words": [
+            {
+                "id": "5f2a5f84eeae4ba39d60070ee08762db",
+                "word": "pie chart",
+                "pos": "noun",
+                "vi": "biểu đồ tròn",
+                "phonetic": "/paɪ tʃɑrt/",
+                "example": {
+                    "en": "a diagram consisting of a circle that is divided into sections to show the size of particular amounts in relation to the whole",
+                    "vi": "một sơ đồ bao gồm một vòng tròn được chia thành các phần để hiển thị kích thước của các số tiền cụ thể so với toàn bộ"
+                },
+                "definition": {
+                    "en": "Sales reps were given a pie chart showing sales in their various sectors",
+                    "vi": "Các đại diện bán hàng đã được đưa ra một biểu đồ hình tròn cho thấy doanh số bán hàng trong các lĩnh vực khác nhau của họ"
+                }
+            },
+            {
+                "id": "e15b8720f38647b1b70df8cc7f777901",
+                "word": "subscribe",
+                "pos": "verb",
+                "vi": "đặt mua dài hạn",
+                "phonetic": "/səbˈskraɪb/",
+                "example": {
+                    "en": "to receive a periodical regularly in order",
+                    "vi": "để nhận được một định kỳ thường xuyên để"
+                },
+                "definition": {
+                    "en": "She subscribes to a couple of magazines.",
+                    "vi": "Cô ấy đăng ký một vài tạp chí."
+                }
+            },
+            {
+                "id": "56444c1cdd694e93a85ba3bcc3d5487c",
+                "word": "website",
+                "pos": "noun",
+                "vi": "trang web, cổng điện tử",
+                "phonetic": "/ˈwɛbsaɪt/",
+                "example": {
+                    "en": "a place connected to the Internet, where a company or an organization, or an individual person, puts information",
+                    "vi": "một nơi được kết nối với Internet, nơi một công ty hoặc một tổ chức hoặc một cá nhân, đưa thông tin"
+                },
+                "definition": {
+                    "en": "His fans created a website, giving every detail of his private life.",
+                    "vi": "Những người hâm mộ của anh ấy đã tạo ra một trang web, cung cấp mọi chi tiết về cuộc sống riêng tư của anh ấy."
+                }
+            },
+            {
+                "id": "64d482e40afb40529bf9eb7758d9d639",
+                "word": "media",
+                "pos": "noun",
+                "vi": "phương tiện truyền thông",
+                "phonetic": "/ˈmidiə/",
+                "example": {
+                    "en": "the main ways that large numbers of people receive information and entertainment, that is television, radio, newspapers and the Internet",
+                    "vi": "những cách chính mà một lượng lớn người tiếp nhận thông tin và giải trí, đó là truyền hình, đài phát thanh, báo chí và Internet"
+                },
+                "definition": {
+                    "en": "The issue has been much discussed in the media",
+                    "vi": "Vấn đề đã được thảo luận nhiều trên các phương tiện truyền thông"
+                }
+            },
+            {
+                "id": "fcb426d623ba4a459b33925f5a7cca73",
+                "word": "social networking",
+                "pos": "noun",
+                "vi": "mạng xã hội",
+                "phonetic": "/ˈsoʊʃl ˈnɛtˌwərkɪŋ/",
+                "example": {
+                    "en": "communication with people who share your interests using a Web site or other service on the Internet",
+                    "vi": "giao tiếp với những người có cùng sở thích với bạn bằng cách sử dụng một trang Web hoặc dịch vụ khác trên Internet"
+                },
+                "definition": {
+                    "en": "There's a social networking site for everyone",
+                    "vi": "Có một trang mạng xã hội cho tất cả mọi người"
+                }
+            },
+            {
+                "id": "a431f0fb814b461fa2007f22b5e43e9a",
+                "word": "tablet PC",
+                "pos": "noun",
+                "vi": "máy tính bảng",
+                "phonetic": "/ˌtæblət ˌpi ˈsi/",
+                "example": {
+                    "en": "a laptop computer with a screen you can write on",
+                    "vi": "một máy tính xách tay có màn hình bạn có thể viết"
+                },
+                "definition": {
+                    "en": "This tablet PC converts into a smoothly working notebook with a keyboard addition",
+                    "vi": "Máy tính bảng này chuyển đổi thành một máy tính xách tay hoạt động trơn tru với bàn phím bổ sung"
+                }
+            },
+            {
+                "id": "c2dbfdb3b89e412cabaca86589b1fb08",
+                "word": "addicted",
+                "pos": "adjective",
+                "vi": "nghiện",
+                "phonetic": "/əˈdɪktəd/",
+                "example": {
+                    "en": "unable to stop taking harmful drugs, or using or doing something as a habit",
+                    "vi": "Không thể ngừng uống các loại thuốc có hại, hoặc sử dụng hoặc làm việc gì đó như một thói quen"
+                },
+                "definition": {
+                    "en": "She is addicted to chocolate",
+                    "vi": "Cô ấy nghiện sô cô la"
+                }
+            },
+            {
+                "id": "2591538b9e904409819732299e10399a",
+                "word": "advent",
+                "pos": "noun",
+                "vi": "sự diễn ra của một sự kiện quan trọng, sự xuất hiện",
+                "phonetic": "/ˈæd·vent/",
+                "example": {
+                    "en": "the coming of an important event, person, invention, etc.",
+                    "vi": "sự kiện quan trọng, con người, phát minh, v.v. sắp xảy ra."
+                },
+                "definition": {
+                    "en": "Life was transformed by the advent of the steam engine.",
+                    "vi": "Cuộc sống đã được thay đổi bởi sự ra đời của động cơ hơi nước."
+                }
+            },
+            {
+                "id": "c54e59949ed8435eb2a2f416e3ca52df",
+                "word": "connect",
+                "pos": "verb",
+                "vi": "kết nối",
+                "phonetic": "/kəˈnɛkt/",
+                "example": {
+                    "en": "to join something to a supply of electricity, water, etc.",
+                    "vi": "tham gia một cái gì đó để cung cấp điện, nước, v.v."
+                },
+                "definition": {
+                    "en": "The telephone company finally put in lines to connect the towns in this area",
+                    "vi": "Công ty điện thoại cuối cùng đã đặt đường dây để kết nối các thị trấn trong khu vực này"
+                }
+            },
+            {
+                "id": "b2eca71e333f4e99bf2d295e8a9aec09",
+                "word": "dominant",
+                "pos": "adjective",
+                "vi": "át, trội, có ưu thế",
+                "phonetic": "/ˈdɑmənənt/",
+                "example": {
+                    "en": "more important, powerful or noticeable than other things",
+                    "vi": "quan trọng hơn, mạnh mẽ hoặc đáng chú ý hơn những thứ khác"
+                },
+                "definition": {
+                    "en": "Television plays a dominant role in molding public opinion",
+                    "vi": "Truyền hình đóng vai trò chủ đạo trong việc định hướng dư luận"
+                }
+            },
+            {
+                "id": "8ebaab7536294d1ab1287c85d47655e3",
+                "word": "drama",
+                "pos": "noun",
+                "vi": "kịch",
+                "phonetic": "/ˈdræmə/",
+                "example": {
+                    "en": "a play for the theatre, television, or radio",
+                    "vi": "một vở kịch cho nhà hát, truyền hình hoặc đài phát thanh"
+                },
+                "definition": {
+                    "en": "She studied English and drama at college.",
+                    "vi": "Cô ấy học tiếng Anh và kịch ở trường đại học."
+                }
+            },
+            {
+                "id": "972a902216c142069be5ab247c659f08",
+                "word": "efficient",
+                "pos": "adjective",
+                "vi": "hiệu quả",
+                "phonetic": "/ɪˈfɪʃnt/",
+                "example": {
+                    "en": "acting or producing effectively with a minimum of waste or unnecessary",
+                    "vi": "hoạt động hoặc sản xuất hiệu quả với mức tối thiểu lãng phí hoặc không cần thiết"
+                },
+                "definition": {
+                    "en": "We need someone really efficient who can organize the office and make it run smoothly.",
+                    "vi": "Chúng tôi cần một người thực sự hiệu quả, người có thể tổ chức văn phòng và làm cho nó hoạt động trơn tru."
+                }
+            },
+            {
+                "id": "34b97f9f2b1047b6bb8a18e53cd981cc",
+                "word": "GPS",
+                "pos": "noun",
+                "vi": "định vị toàn cầu",
+                "phonetic": "/ˌdʒi pi ˈɛs/",
+                "example": {
+                    "en": "​global ​positioning ​system: a ​system that can show the ​exact ​position of a ​person or thing by using ​signals from ​satellites",
+                    "vi": "Hệ thống định vị toàn cầu: một hệ thống có thể hiển thị vị trí chính xác của người hoặc vật bằng cách sử dụng tín hiệu từ vệ tinh"
+                },
+                "definition": {
+                    "en": "The unit uses GPS to determine the delivery truck's position",
+                    "vi": "Đơn vị sử dụng GPS để xác định vị trí của xe tải giao hàng"
+                }
+            },
+            {
+                "id": "dc888ea74c33433588eade00379a082b",
+                "word": "attitude",
+                "pos": "noun",
+                "vi": "thái độ, quan điểm",
+                "phonetic": "/ˈæt̮əˌtud/",
+                "example": {
+                    "en": "the way that you think and feel about somebody/something; the way that you behave towards somebody/something that shows how you think and feel",
+                    "vi": "cách bạn nghĩ và cảm nhận về ai đó / điều gì đó; cách bạn cư xử với ai đó / điều gì đó thể hiện cách bạn suy nghĩ và cảm nhận"
+                },
+                "definition": {
+                    "en": "Start each day with a positive attitude.",
+                    "vi": "Bắt đầu mỗi ngày với một thái độ tích cực."
+                }
+            },
+            {
+                "id": "385d8c8c21bd41a09979c001b8747b17",
+                "word": "mass",
+                "pos": "noun",
+                "vi": "số nhiều, số đông, đại chúng",
+                "phonetic": "/mæs/",
+                "example": {
+                    "en": "a large amount or number",
+                    "vi": "một số lượng lớn"
+                },
+                "definition": {
+                    "en": "The forest is a mass of colour in autumn.",
+                    "vi": "Khu rừng là một khối màu vào mùa thu."
+                }
+            },
+            {
+                "id": "d6cb1b49aa7946eda0bd7d28980302ea",
+                "word": "documentary",
+                "pos": "noun",
+                "vi": "phim tài liệu",
+                "phonetic": "/ˌdɑk·jəˈmen·tə·ri/",
+                "example": {
+                    "en": "a film or television or radio program that gives information about a subject and is based on facts",
+                    "vi": "một bộ phim hoặc chương trình truyền hình hoặc đài phát thanh cung cấp thông tin về một chủ đề và dựa trên sự kiện"
+                },
+                "definition": {
+                    "en": "The documentary took a fresh look at the life of Darwin",
+                    "vi": "Bộ phim tài liệu đã có một cái nhìn mới mẻ về cuộc đời của Darwin"
+                }
+            },
+            {
+                "id": "405999f4e51a40bca0a15ef76e627a1b",
+                "word": "emerge",
+                "pos": "verb",
+                "vi": "vượt trội, nổi bật, nổi lên",
+                "phonetic": "&#618;m&#604;`d&#658;",
+                "example": {
+                    "en": "to become known or develop as a result of something",
+                    "vi": "được biết đến hoặc phát triển do kết quả của điều gì đó"
+                },
+                "definition": {
+                    "en": "New business opportunities will emerge with advances in technology.",
+                    "vi": "Các cơ hội kinh doanh mới sẽ xuất hiện với những tiến bộ trong công nghệ."
+                }
+            },
+            {
+                "id": "0b30b8ea33ac4f23af515e1eb9ebcdd0",
+                "word": "leaflet",
+                "pos": "noun",
+                "vi": "tờ rơi",
+                "phonetic": "/ˈlif·lɪt/",
+                "example": {
+                    "en": "a piece of paper, or several pieces of paper folded together, that gives information or advertises something",
+                    "vi": "một mảnh giấy hoặc nhiều mảnh giấy được gấp lại với nhau, cung cấp thông tin hoặc quảng cáo một cái gì đó"
+                },
+                "definition": {
+                    "en": "They were handing out leaflets outside the supermarket about the school board election.",
+                    "vi": "Họ đang phát tờ rơi bên ngoài siêu thị về cuộc bầu cử hội đồng trường."
+                }
+            },
+            {
+                "id": "29bf91d1b7424417b2877197a995f034",
+                "word": "app",
+                "pos": "noun",
+                "vi": "ứng dụng",
+                "phonetic": "æp",
+                "example": {
+                    "en": "application: a computer program or piece of software designed for a particular purpose that you can download onto a mobile phone or other mobile device",
+                    "vi": "ứng dụng: chương trình máy tính hoặc phần mềm được thiết kế cho một mục đích cụ thể mà bạn có thể tải xuống điện thoại di động hoặc thiết bị di động khác"
+                },
+                "definition": {
+                    "en": "There are apps for everything, from learning a language to booking movie tickets",
+                    "vi": "Có các ứng dụng cho mọi thứ, từ học ngoại ngữ đến đặt vé xem phim"
+                }
+            },
+            {
+                "id": "90bd5a0836514ad9bf640caf1c541827",
+                "word": "cyberbullying",
+                "pos": "noun",
+                "vi": "tấn công mạng",
+                "phonetic": "S AY B ER B UH L IY IH NG",
+                "example": {
+                    "en": "the activity of using the internet to harm or frighten another person, especially by sending them unpleasant messages",
+                    "vi": "hoạt động sử dụng Internet để làm hại hoặc làm người khác sợ hãi, đặc biệt là bằng cách gửi cho họ những tin nhắn khó chịu"
+                },
+                "definition": {
+                    "en": "Schools are required to come up with ways to address cyberbullying",
+                    "vi": "Các trường học được yêu cầu tìm ra các cách để giải quyết vấn đề đe dọa trực tuyến"
+                }
+            },
+            {
+                "id": "9fbe29f834684af29eae6fd6227d329f",
+                "word": "fivefold",
+                "pos": "adjective",
+                "vi": "gấp 5 lần",
+                "phonetic": "F AY V F OW L D",
+                "example": {
+                    "en": "five times as big or as much",
+                    "vi": "lớn gấp năm lần hoặc nhiều hơn"
+                },
+                "definition": {
+                    "en": "Arrests have increased fivefold",
+                    "vi": "Số vụ bắt giữ đã tăng gấp 5 lần"
+                }
+            },
+            {
+                "id": "90d73047ac59491a912d3a4a52bd77ab",
+                "word": "microblogging",
+                "pos": "noun",
+                "vi": "việc (cá nhân) thường xuyên gửi các tin nhắn/ hình ảnh/ video lên mạng xã hội để cộng đồng mạng biết được các hoạt động của người đăng tin",
+                "phonetic": "/ˈmaɪkrəʊˌblɒɡɪŋ/",
+                "example": {
+                    "en": "the activity of sending short messages for anyone to read, especially from a mobile phone",
+                    "vi": "hoạt động gửi tin nhắn ngắn cho mọi người đọc, đặc biệt là từ điện thoại di động"
+                },
+                "definition": {
+                    "en": "She's written several articles on how microblogging can help your business",
+                    "vi": "Cô ấy đã viết một số bài báo về cách tiểu blog có thể giúp doanh nghiệp của bạn"
+                }
+            },
+            {
+                "id": "38b4c6c423554c29b4cb9ce4c5cac32b",
+                "word": "the mass media",
+                "pos": "noun",
+                "vi": "truyền thông đại chúng",
+                "phonetic": "ðə, ði mæs ˈmid·i·ə",
+                "example": {
+                    "en": "the newspapers, magazines, television, and radio that reach large numbers of people",
+                    "vi": "báo, tạp chí, truyền hình và đài phát thanh tiếp cận được nhiều người"
+                },
+                "definition": {
+                    "en": "Governments use a host of the mass media to alert the public about risks",
+                    "vi": "Các chính phủ sử dụng nhiều phương tiện thông tin đại chúng để cảnh báo công chúng về những rủi ro"
+                }
+            },
+            {
+                "id": "363fbb19a8dd41ddb4802d26a6226923",
+                "word": "tie in",
+                "pos": "verb",
+                "vi": "gắn với",
+                "phonetic": "tɑɪ ɪn",
+                "example": {
+                    "en": "to plan something so that it happens as part of another activity",
+                    "vi": "lập kế hoạch cho một điều gì đó để nó diễn ra như một phần của hoạt động khác"
+                },
+                "definition": {
+                    "en": "The product launch date was set to tie in with the movie release",
+                    "vi": "Ngày ra mắt sản phẩm được ấn định gắn liền với ngày phát hành phim"
+                }
+            }
+        ]
+    },
+    {
+        "id": "13057744f81145b58551429e56d650bb",
+        "name": "Unit 5 - Cultural Identity",
+        "words": [
+            {
+                "id": "fb90b64765d642838166042cf5302366",
+                "word": "solidarity",
+                "pos": "noun",
+                "vi": "sự đoàn kết, tình đoàn kết",
+                "phonetic": "/ˌsɑləˈdærət̮i/",
+                "example": {
+                    "en": "support by one person or group of people for another because they share feelings, opinions, aims, etc.",
+                    "vi": "sự hỗ trợ của một người hoặc một nhóm người cho người khác vì họ có chung cảm xúc, ý kiến, mục tiêu, v.v."
+                },
+                "definition": {
+                    "en": "Hundreds of supporters gathered to show solidarity for the three men.",
+                    "vi": "Hàng trăm người ủng hộ đã tụ tập để thể hiện tình đoàn kết cho ba người đàn ông."
+                }
+            },
+            {
+                "id": "64e84a689c014cd48f806a6826284563",
+                "word": "unify",
+                "pos": "verb",
+                "vi": "hợp nhất, thống nhất",
+                "phonetic": "/ˈjunəˌfaɪ/",
+                "example": {
+                    "en": "to join people, things, parts of a country, etc. together so that they form a single unit",
+                    "vi": "để kết hợp mọi người, mọi thứ, các bộ phận của một quốc gia, v.v. với nhau để chúng tạo thành một đơn vị duy nhất"
+                },
+                "definition": {
+                    "en": "With his speech, the president sought to unify the country.",
+                    "vi": "Với bài phát biểu của mình, tổng thống đã tìm cách thống nhất đất nước."
+                }
+            },
+            {
+                "id": "c8d9388a9cd14652a6c988df41b514b6",
+                "word": "unique",
+                "pos": "adjective",
+                "vi": "độc nhất",
+                "phonetic": "/jʊˈnik/",
+                "example": {
+                    "en": "being the only one of its kind",
+                    "vi": "là người duy nhất của loại hình này"
+                },
+                "definition": {
+                    "en": "I'd recognize your handwriting anywhere - it's unique.",
+                    "vi": "Tôi sẽ nhận ra chữ viết tay của bạn ở bất cứ đâu - nó là duy nhất."
+                }
+            },
+            {
+                "id": "7a52a25998984038848697a47d9a30e0",
+                "word": "worship",
+                "pos": "noun",
+                "vi": "sự tôn sùng, sự thờ phụng",
+                "phonetic": "/ˈwərʃəp/",
+                "example": {
+                    "en": "the activity of showing respect and love for a god, for example by singing or praying",
+                    "vi": "hoạt động thể hiện lòng kính trọng và tình yêu đối với một vị thần, chẳng hạn bằng cách hát hoặc cầu nguyện"
+                },
+                "definition": {
+                    "en": "Local people have complained about improperly dressed tourists entering places of worship",
+                    "vi": "Người dân địa phương phàn nàn về việc du khách ăn mặc không phù hợp khi vào nơi thờ tự"
+                }
+            },
+            {
+                "id": "67f96c0ce11645a4a5c84a8ea0f97164",
+                "word": "custom",
+                "pos": "noun",
+                "vi": "Phong tục, tục lệ",
+                "phonetic": "/ˈkʌstəm/",
+                "example": {
+                    "en": "a way of behaving or a belief that has been established for a long time",
+                    "vi": "một cách cư xử hoặc một niềm tin đã được hình thành từ lâu"
+                },
+                "definition": {
+                    "en": "In my country, it's the custom (for women) to get married in white.",
+                    "vi": "Ở đất nước tôi, có phong tục (đối với phụ nữ) để kết hôn với người da trắng."
+                }
+            },
+            {
+                "id": "45e0d57db82543b1b7d11bef1035b4a6",
+                "word": "diversity",
+                "pos": "noun",
+                "vi": "sự đa dạng",
+                "phonetic": "/daɪˈvərsət̮i/",
+                "example": {
+                    "en": "the fact that very different people or things exist within a group or place",
+                    "vi": "thực tế là những người hoặc những thứ rất khác nhau tồn tại trong một nhóm hoặc địa điểm"
+                },
+                "definition": {
+                    "en": "Does television adequately reflect the ethnic and cultural diversity of the country?",
+                    "vi": "Truyền hình có phản ánh đầy đủ sự đa dạng về sắc tộc và văn hóa của đất nước không?"
+                }
+            },
+            {
+                "id": "f06d403333c64864afe2839103cc649e",
+                "word": "maintain",
+                "pos": "verb",
+                "vi": "duy trì, giữ quan điểm",
+                "phonetic": "/meɪnˈteɪn/",
+                "example": {
+                    "en": "to continue to have or say; to keep in existence",
+                    "vi": "để tiếp tục có hoặc nói; để tồn tại"
+                },
+                "definition": {
+                    "en": "He maintained his innocence",
+                    "vi": "Anh ấy duy trì sự trong trắng của mình"
+                }
+            },
+            {
+                "id": "f06af910ba2241b188b90b0db8dc9f24",
+                "word": "multicultural",
+                "pos": "adjective",
+                "vi": "đa dạng văn hóa",
+                "phonetic": "/ˌmʌltiˈkʌltʃərəl/",
+                "example": {
+                    "en": "for or including people of several different races, religions, languages and traditions",
+                    "vi": "cho hoặc bao gồm những người thuộc một số chủng tộc, tôn giáo, ngôn ngữ và truyền thống khác nhau"
+                },
+                "definition": {
+                    "en": "Britain is increasingly a multicultural society",
+                    "vi": "Nước Anh ngày càng là một xã hội đa văn hóa"
+                }
+            },
+            {
+                "id": "bbd2fc5d6a664cf095473ab662062bf1",
+                "word": "assimilate",
+                "pos": "verb",
+                "vi": "đồng hóa",
+                "phonetic": "/əˈsɪməˌleɪt/",
+                "example": {
+                    "en": "to help someone feel that they are part of a community or culture rather than feeling foreign",
+                    "vi": "để giúp ai đó cảm thấy rằng họ là một phần của cộng đồng hoặc nền văn hóa hơn là cảm thấy xa lạ"
+                },
+                "definition": {
+                    "en": "The nasal assimilates to the following consonant",
+                    "vi": "Mũi đồng hóa với phụ âm sau"
+                }
+            },
+            {
+                "id": "578519d61ad14618b5532f4c833c80c4",
+                "word": "attire",
+                "pos": "noun",
+                "vi": "y phục, trang phục",
+                "phonetic": "/əˈtaɪər/",
+                "example": {
+                    "en": "nice or special clothing",
+                    "vi": "quần áo đẹp hoặc đặc biệt"
+                },
+                "definition": {
+                    "en": "I hardly think jeans are appropriate attire for a wedding",
+                    "vi": "Tôi hầu như không nghĩ rằng quần jean là trang phục thích hợp cho một đám cưới"
+                }
+            },
+            {
+                "id": "7a9a1675b70f4930b10760f138ae16c7",
+                "word": "unite",
+                "pos": "verb",
+                "vi": "đoàn kết, hợp nhất",
+                "phonetic": "/ju'naɪt/",
+                "example": {
+                    "en": "join : to join or come together",
+                    "vi": "tham gia: tham gia hoặc đến với nhau"
+                },
+                "definition": {
+                    "en": "The thirteen American colonies united to form a new nation.",
+                    "vi": "Mười ba thuộc địa của Mỹ đã thống nhất để thành lập một quốc gia mới."
+                }
+            },
+            {
+                "id": "3fd40cad7dea4630b6892d9a1b3cb18e",
+                "word": "blind man's buff",
+                "pos": "phrase",
+                "vi": "trò bịt mắt bắt dê",
+                "phonetic": "/m&aelig;nz/",
+                "example": {
+                    "en": "a children's game in which one person has a cloth tied over their eyes and tries to catch the others",
+                    "vi": "một trò chơi dành cho trẻ em, trong đó một người bị buộc khăn che mắt và cố gắng bắt những người khác"
+                },
+                "definition": {
+                    "en": "It's like a high-tech version of blind man's buff.",
+                    "vi": "Nó giống như một phiên bản buff của người mù công nghệ cao."
+                }
+            },
+            {
+                "id": "a4a31b5d2e9543488af3899b631c4de8",
+                "word": "cultural identity",
+                "pos": "noun",
+                "vi": "bản sắc dân tộc",
+                "phonetic": "ˈkʌl·tʃər·əl ɑɪˈden·tɪ·t̬i",
+                "example": {
+                    "en": "the feeling of belonging to a certain ethnic group or culture",
+                    "vi": "cảm giác thuộc về một nhóm dân tộc hoặc nền văn hóa nhất định"
+                },
+                "definition": {
+                    "en": "The events of 1948 contributed further to this search for cultural identity",
+                    "vi": "Các sự kiện năm 1948 đã góp phần sâu hơn vào việc tìm kiếm bản sắc văn hóa này"
+                }
+            },
+            {
+                "id": "40df87b069a94d08be13f897e2386580",
+                "word": "cultural practices",
+                "pos": "noun",
+                "vi": "các hoạt động văn hóa, tập quán văn hóa",
+                "phonetic": "ˈkʌl·tʃər·əl P R AE K T IH S IH Z",
+                "example": {
+                    "en": "Objects, events, activities, social groupings and ... produce and reproduce in the context of making meaning in everyday life",
+                    "vi": "Đối tượng, sự kiện, hoạt động, nhóm xã hội và ... sản xuất và tái tạo trong bối cảnh có ý nghĩa trong cuộc sống hàng ngày"
+                },
+                "definition": {
+                    "en": "I believe in the critical potential of music as a living cultural practices",
+                    "vi": "Tôi tin vào tiềm năng quan trọng của âm nhạc như một thực tiễn văn hóa sống"
+                }
+            },
+            {
+                "id": "ccf9948d22a64cf686ed5dfedf7d7570",
+                "word": "flock",
+                "pos": "verb",
+                "vi": "lũ lượt kéo đến",
+                "phonetic": "flɑk",
+                "example": {
+                    "en": "to move or come together in large numbers",
+                    "vi": "để di chuyển hoặc đến với nhau với số lượng lớn"
+                },
+                "definition": {
+                    "en": "Hundreds of people flocked to the football match",
+                    "vi": "Hàng trăm người kéo đến xem trận bóng đá"
+                }
+            },
+            {
+                "id": "c86a9cbe83714a48bc89da6969520556",
+                "word": "martial spirit",
+                "pos": "adjective",
+                "vi": "tinh thần thượng võ",
+                "phonetic": "ˈmɑr·ʃəl ˈspɪr·ɪt",
+                "example": {
+                    "en": "the mind, attitude and wisdom cultivated by a real warrior",
+                    "vi": "tâm trí, thái độ và trí tuệ được trau dồi bởi một chiến binh thực sự"
+                },
+                "definition": {
+                    "en": "Why do you want to learn martial spirit?",
+                    "vi": "Tại sao bạn muốn học tinh thần thượng võ?"
+                }
+            },
+            {
+                "id": "771a9d992f7847549f28244949f46d8b",
+                "word": "national pride",
+                "pos": "noun",
+                "vi": "lòng tự hào dân tộc",
+                "phonetic": "/ ˈnæʃ·ə·nəl prɑɪd/",
+                "example": {
+                    "en": "the feeling of love, devotion and sense of attachment to a homeland and alliance with other citizens who share the same sentiment",
+                    "vi": "tình yêu, sự tận tụy và cảm giác gắn bó với quê hương và liên minh với những công dân khác có cùng tình cảm"
+                },
+                "definition": {
+                    "en": "Football has inspired patriotism and national pride",
+                    "vi": "Bóng đá đã khơi dậy lòng yêu nước và lòng tự hào dân tộc"
+                }
+            }
+        ]
+    },
+    {
+        "id": "275994f65a224fa49c01407b6f78dbeb",
+        "name": "Unit 6 - Endangered species",
+        "words": [
+            {
+                "id": "c81ae450882c43c5bbe0ce573e84a47e",
+                "word": "rhino",
+                "pos": "noun",
+                "vi": "tê giác",
+                "phonetic": "/ˈraɪnoʊ/",
+                "example": {
+                    "en": "a very large thick-skinned animal from Africa or Asia, which has one or two horns on its nose",
+                    "vi": "một loài động vật da dày rất lớn từ Châu Phi hoặc Châu Á, có một hoặc hai sừng trên mũi"
+                },
+                "definition": {
+                    "en": "Up to 70 white rhinos had been recorded in 1992.",
+                    "vi": "Có tới 70 con tê giác trắng đã được ghi nhận vào năm 1992."
+                }
+            },
+            {
+                "id": "add9a8504b9f4ea4affade3cd80715d7",
+                "word": "survive",
+                "pos": "verb",
+                "vi": "sóng sót",
+                "phonetic": "/sərˈvɑɪv/",
+                "example": {
+                    "en": "to continue to live or to exist, especially after a dangerous event",
+                    "vi": "để tiếp tục sống hoặc tồn tại, đặc biệt là sau một sự kiện nguy hiểm"
+                },
+                "definition": {
+                    "en": "The baby was born with a heart problem and only survived for a few hours.",
+                    "vi": "Đứa bé sinh ra với vấn đề về tim và chỉ sống được trong vài giờ."
+                }
+            },
+            {
+                "id": "4a0699f12418498e8ea3f11250a7f843",
+                "word": "biodiversity",
+                "pos": "noun",
+                "vi": "sự đa dạng sinh học",
+                "phonetic": "/ˌbaɪoʊdəˈvərsət̮i/",
+                "example": {
+                    "en": "the number and types of plants and animals that exist in a particular area or in the world generally",
+                    "vi": "số lượng và chủng loại thực vật và động vật tồn tại ở một khu vực cụ thể hoặc trên thế giới nói chung"
+                },
+                "definition": {
+                    "en": "a high level of biodiversity is desirable",
+                    "vi": "mức độ đa dạng sinh học cao là điều mong muốn"
+                }
+            },
+            {
+                "id": "538ba577704141208c3e3eed277bf664",
+                "word": "biologist",
+                "pos": "noun",
+                "vi": "nhà sinh vật học",
+                "phonetic": "/baɪˈɑlədʒɪst/",
+                "example": {
+                    "en": "a scientist who studies biology",
+                    "vi": "một nhà khoa học nghiên cứu sinh học"
+                },
+                "definition": {
+                    "en": "Wilson is a prize-winning conservation biologist and author.",
+                    "vi": "Wilson là một nhà sinh học và tác giả bảo tồn từng đoạt nhiều giải thưởng."
+                }
+            },
+            {
+                "id": "37cf7caaa14d4d439021161e9bbf4e6b",
+                "word": "biology",
+                "pos": "noun",
+                "vi": "sinh vật học",
+                "phonetic": "/baɪˈɑlədʒi/",
+                "example": {
+                    "en": "the scientific study of the life and structure of plants and animals",
+                    "vi": "nghiên cứu khoa học về đời sống và cấu trúc của thực vật và động vật"
+                },
+                "definition": {
+                    "en": "What mark did you get in the biology exam?",
+                    "vi": "Bạn đã đạt điểm nào trong kỳ thi sinh học?"
+                }
+            },
+            {
+                "id": "cda5c0c57ef844648eb3920b54e430e8",
+                "word": "vulnerable",
+                "pos": "adjective",
+                "vi": "dễ bị tổn thương",
+                "phonetic": "/ˈvʌl·nər·ə·bəl/",
+                "example": {
+                    "en": "able to be easily influenced",
+                    "vi": "có thể dễ dàng bị ảnh hưởng"
+                },
+                "definition": {
+                    "en": "I felt very vulnerable, standing there without any clothes on",
+                    "vi": "Tôi cảm thấy rất dễ bị tổn thương, đứng đó mà không có quần áo mặc"
+                }
+            },
+            {
+                "id": "28be92cd473646f2a739617a4072caf8",
+                "word": "evolution",
+                "pos": "noun",
+                "vi": "sự tiến hóa",
+                "phonetic": "/ˌɛvəˈluʃn/",
+                "example": {
+                    "en": "the gradual development of plants, animals, etc. over many years as they adapt to changes in their environment",
+                    "vi": "sự phát triển dần dần của thực vật, động vật, v.v. trong nhiều năm khi chúng thích nghi với những thay đổi của môi trường"
+                },
+                "definition": {
+                    "en": "This product was an extremely significant step in the evolution of computer games.",
+                    "vi": "Sản phẩm này là một bước tiến cực kỳ quan trọng trong sự phát triển của trò chơi máy tính."
+                }
+            },
+            {
+                "id": "e03efb5e4ab847a7a4d0d8e06aa73bff",
+                "word": "extinct",
+                "pos": "adjective",
+                "vi": "tuyệt chủng",
+                "phonetic": "/ɪkˈstɪŋkt/",
+                "example": {
+                    "en": "(of a type of plant, animal, etc.) no longer in existence",
+                    "vi": "(của một loại thực vật, động vật, v.v.) không còn tồn tại"
+                },
+                "definition": {
+                    "en": "There is concern that the giant panda will soon become extinct.",
+                    "vi": "Có lo ngại rằng loài gấu trúc khổng lồ sẽ sớm tuyệt chủng."
+                }
+            },
+            {
+                "id": "79fa3c9946504d9fad2586bcc4f85fbc",
+                "word": "habitat",
+                "pos": "noun",
+                "vi": "môi trường sống",
+                "phonetic": "/ˈhæbəˌtæt/",
+                "example": {
+                    "en": "the place where a particular type of animal or plant is normally found",
+                    "vi": "nơi mà một loại động vật hoặc thực vật cụ thể thường được tìm thấy"
+                },
+                "definition": {
+                    "en": "With so many areas of woodland being cut down, a lot of wildlife is losing its natural habitat.",
+                    "vi": "Với rất nhiều diện tích rừng bị chặt phá, nhiều loài động vật hoang dã đang mất dần môi trường sống tự nhiên."
+                }
+            },
+            {
+                "id": "9fe2f5b1996047428cef5455341f1180",
+                "word": "assignment",
+                "pos": "noun",
+                "vi": "phân công",
+                "phonetic": "/əˈsaɪnmənt/",
+                "example": {
+                    "en": "a task or piece of work that somebody is given to do, usually as part of their job or studies",
+                    "vi": "một nhiệm vụ hoặc một phần công việc mà ai đó được giao làm, thường là một phần của công việc hoặc nghiên cứu của họ"
+                },
+                "definition": {
+                    "en": "I have a lot of reading assignments to complete before the end of term.",
+                    "vi": "Tôi có rất nhiều bài tập phải đọc trước khi kết thúc học kỳ."
+                }
+            },
+            {
+                "id": "efce0e7f99fe4081921f6fe9326ffe86",
+                "word": "die out",
+                "pos": "verb",
+                "vi": "chết dần, tắt ngấm, lỗi thời",
+                "phonetic": "/da&#618; a&#650;t/",
+                "example": {
+                    "en": "to disappear gradually",
+                    "vi": "biến mất dần dần"
+                },
+                "definition": {
+                    "en": "Some animals are starting to die out because of global warming.",
+                    "vi": "Một số loài động vật đang bắt đầu chết vì sự nóng lên toàn cầu."
+                }
+            },
+            {
+                "id": "90970d1197074f1bb44054c46fd46342",
+                "word": "conservation",
+                "pos": "noun",
+                "vi": "sự bảo tồn",
+                "phonetic": "/ ˌkɑːnsɝˈveɪʃən/",
+                "example": {
+                    "en": "Conservation is also the protection of plants, animals, and natural areas, esp. from the damaging effects of human activity",
+                    "vi": "Bảo tồn cũng là bảo vệ thực vật, động vật và các khu vực tự nhiên, đặc biệt. khỏi những tác hại của hoạt động của con người"
+                },
+                "definition": {
+                    "en": "Energy conservation reduces your fuel bills and helps the environment.",
+                    "vi": "Tiết kiệm năng lượng làm giảm hóa đơn nhiên liệu của bạn và giúp ích cho môi trường."
+                }
+            },
+            {
+                "id": "d4f5f857e843491d843eab38cd63dd97",
+                "word": "trade",
+                "pos": "noun",
+                "vi": "buôn bán",
+                "phonetic": "/t&#633;e&#618;d/",
+                "example": {
+                    "en": "the commercial exchange (buying and selling on domestic or international markets) of goods and services",
+                    "vi": "trao đổi thương mại (mua và bán trên thị trường trong nước hoặc thị trường quốc tế) hàng hóa và dịch vụ"
+                },
+                "definition": {
+                    "en": "Venice was an important center of trade with the East",
+                    "vi": "Venice là một trung tâm thương mại quan trọng với phương Đông"
+                }
+            },
+            {
+                "id": "35d5f15baf9742b3a08c4e789a380991",
+                "word": "endangered species",
+                "pos": "noun",
+                "vi": "những loài có nguy có bị tuyệt chủng",
+                "phonetic": "ɪnˈdeɪn.dʒɚd ˈspi·ʃiz, -siz",
+                "example": {
+                    "en": "a type of animal or plant that might stop existing because there are only a few of that type alive",
+                    "vi": "một loại động vật hoặc thực vật có thể ngừng tồn tại vì chỉ có một số loại đó còn sống"
+                },
+                "definition": {
+                    "en": "WWF is committed to saving endangered species",
+                    "vi": "WWF cam kết cứu các loài có nguy cơ tuyệt chủng"
+                }
+            },
+            {
+                "id": "e78f1c7c72ea4673890f2e0cc7c3388b",
+                "word": "poach",
+                "pos": "verb",
+                "vi": "săn trộm",
+                "phonetic": "poʊtʃ",
+                "example": {
+                    "en": "to catch and kill animals without permission on someone else's land",
+                    "vi": "bắt và giết động vật mà không được phép trên đất của người khác"
+                },
+                "definition": {
+                    "en": "The farmer claimed that he shot the men because they were poaching on his land",
+                    "vi": "Người nông dân tuyên bố rằng anh ta bắn những người đàn ông vì họ đang săn trộm trên đất của anh ta"
+                }
+            },
+            {
+                "id": "54c7e664b0c546e5871bf1d526fb06f0",
+                "word": "sea turtle",
+                "pos": "noun",
+                "vi": "rùa biển",
+                "phonetic": "si ˈtɜr·t̬əl",
+                "example": {
+                    "en": "a large marine reptile with a bony or leathery shell and flippers, coming ashore annually on sandy beaches to lay eggs.",
+                    "vi": "Một loài bò sát biển lớn có vỏ xương hoặc da và chân chèo, lên bờ hàng năm trên các bãi biển đầy cát để đẻ trứng."
+                },
+                "definition": {
+                    "en": "The flesh of a sea turtle, especially the green turtle, used chiefly for soup.",
+                    "vi": "Thịt rùa biển, đặc biệt là rùa xanh, được dùng chủ yếu để nấu canh."
+                }
+            },
+            {
+                "id": "d116d3d24f2e40aa9791a9ada2dd857a",
+                "word": "biological feature",
+                "pos": "noun",
+                "vi": "đặc điểm sinh học",
+                "phonetic": "ˌbɑɪ·əˈlɑdʒ·ɪ·kəl ˈfi·tʃər",
+                "example": {
+                    "en": "sets of characteristics that makes up plants and animals",
+                    "vi": "tập hợp các đặc điểm tạo nên thực vật và động vật"
+                },
+                "definition": {
+                    "en": "All living organisms have biological features, but they vary greatly depending on the species.",
+                    "vi": "Tất cả các sinh vật sống đều có các đặc điểm sinh học, nhưng chúng rất khác nhau tùy thuộc vào loài."
+                }
+            }
+        ]
+    },
+    {
+        "id": "df610b9cfb34421393bfce7b8375cf46",
+        "name": "Unit 7 - Artificial intelligence",
+        "words": [
+            {
+                "id": "b146adbc981747138072667fcb676558",
+                "word": "automated",
+                "pos": "adjective",
+                "vi": "tự động",
+                "phonetic": "/ˌɔt̮əmeɪtəd/",
+                "example": {
+                    "en": "having controls that work without needing a person to operate them",
+                    "vi": "có các điều khiển hoạt động mà không cần một người vận hành chúng"
+                },
+                "definition": {
+                    "en": "Automated check-in machines are common in airports.",
+                    "vi": "Máy làm thủ tục tự động thường thấy ở các sân bay."
+                }
+            },
+            {
+                "id": "6db3c280e9a04c4687c77e7bbd1df83d",
+                "word": "capable of",
+                "pos": "adj,phrase",
+                "vi": "có khả năng",
+                "phonetic": "/ˈkeɪpəbl əv/",
+                "example": {
+                    "en": "having the ability or qualities necessary for doing something",
+                    "vi": "có khả năng hoặc phẩm chất cần thiết để làm điều gì đó"
+                },
+                "definition": {
+                    "en": "I think both sexes are equally capable of looking after children.",
+                    "vi": "Tôi nghĩ cả hai giới đều có khả năng chăm sóc con cái như nhau."
+                }
+            },
+            {
+                "id": "7c4d0ec6b11740ba9006cbd02b99491c",
+                "word": "call for",
+                "pos": "phrasal verb",
+                "vi": "gọi cho",
+                "phonetic": "/kɔl fɔr/",
+                "example": {
+                    "en": "to publicly ask for something to happen",
+                    "vi": "công khai yêu cầu một điều gì đó sẽ xảy ra"
+                },
+                "definition": {
+                    "en": "Members have called for his resignation.",
+                    "vi": "Các thành viên đã kêu gọi ông từ chức."
+                }
+            },
+            {
+                "id": "b37daf2aa7214bc8bed6a5ea412cbe41",
+                "word": "consequence",
+                "pos": "noun",
+                "vi": "hậu quả",
+                "phonetic": "/ˈkɑːn.sɪ.kwəns/",
+                "example": {
+                    "en": "a result of a particular action or situation, often one that is bad or not convenient",
+                    "vi": "kết quả của một hành động hoặc tình huống cụ thể, thường là kết quả xấu hoặc không thuận tiện"
+                },
+                "definition": {
+                    "en": "I told the hairdresser to do what she wanted to my hair, and look at the consequences!",
+                    "vi": "Tôi đã bảo người thợ làm tóc làm những gì cô ấy muốn với mái tóc của tôi, và hãy xem hậu quả!"
+                }
+            },
+            {
+                "id": "def7c5a8f1da429e86cfc598396eec6c",
+                "word": "hopelessness",
+                "pos": "noun",
+                "vi": "vô vọng",
+                "phonetic": "/ˈhoʊp.ləs.nəs/",
+                "example": {
+                    "en": "the despair you feel when you have abandoned hope of comfort or success",
+                    "vi": "sự tuyệt vọng mà bạn cảm thấy khi bạn đã từ bỏ hy vọng an ủi hoặc thành công"
+                },
+                "definition": {
+                    "en": "Selection of the retest cohort was staggered based on the date of T1 questionnaire return, as early and late responders may differ on levels of hopelessness or depression.",
+                    "vi": "Việc lựa chọn nhóm thuần tập kiểm tra lại được so sánh dựa trên ngày trả lại bảng câu hỏi T1, vì những người trả lời sớm và muộn có thể khác nhau về mức độ tuyệt vọng hoặc trầm cảm."
+                }
+            },
+            {
+                "id": "b11a98afb981403abbe0a1c500545556",
+                "word": "incredible",
+                "pos": "adjective",
+                "vi": "đáng kinh ngạc",
+                "phonetic": "/ɪnˈkrɛdəbl/",
+                "example": {
+                    "en": "surprising, or difficult to believe",
+                    "vi": "đáng ngạc nhiên, hoặc khó tin"
+                },
+                "definition": {
+                    "en": "the book's plot is simply incredible",
+                    "vi": "cốt truyện của cuốn sách đơn giản là đáng kinh ngạc"
+                }
+            },
+            {
+                "id": "6a7c7a0dd74f4282868259f8b096bf61",
+                "word": "overpopulation",
+                "pos": "noun",
+                "vi": "dân số quá đông",
+                "phonetic": "/ˌoʊvərˌpɑpjəˈleɪʃn/",
+                "example": {
+                    "en": "the fact of a country or city having too many people living in it",
+                    "vi": "thực tế là một quốc gia hoặc thành phố có quá nhiều người sống trong đó"
+                },
+                "definition": {
+                    "en": "Global overpopulation must be the top priority of any administration.",
+                    "vi": "Dân số quá đông trên toàn cầu phải là ưu tiên hàng đầu của bất kỳ chính quyền nào."
+                }
+            },
+            {
+                "id": "c76c4281c43f41f194dcd6b5cc481f41",
+                "word": "algorithm",
+                "pos": "noun",
+                "vi": "thuật toán",
+                "phonetic": "/a&#621;g&#596;&#633;ithm/",
+                "example": {
+                    "en": "a list of instructions for solving a problem",
+                    "vi": "một danh sách các hướng dẫn để giải quyết một vấn đề"
+                },
+                "definition": {
+                    "en": "The concept of algorithm is also used to define the notion of decidability.",
+                    "vi": "Khái niệm thuật toán cũng được sử dụng để xác định khái niệm về khả năng giải mã."
+                }
+            },
+            {
+                "id": "2d1a491494654343b7c2c2b368b01643",
+                "word": "intervention",
+                "pos": "noun",
+                "vi": "sự can thiệp",
+                "phonetic": "/ˌɪn·tərˈven·ʃən/",
+                "example": {
+                    "en": "the act or fact of becoming involved intentionally in a difficult situation",
+                    "vi": "hành động hoặc thực tế cố ý tham gia vào một tình huống khó khăn"
+                },
+                "definition": {
+                    "en": "The intervention by UN troops prevented fighting from breaking out.",
+                    "vi": "Sự can thiệp của quân đội Liên Hợp Quốc đã ngăn không cho giao tranh nổ ra."
+                }
+            },
+            {
+                "id": "9b422acb79f84aa8b4d31e3236f19c15",
+                "word": "hacker",
+                "pos": "noun",
+                "vi": "Tin tặc",
+                "phonetic": "/ˈhæk·ər/",
+                "example": {
+                    "en": "a person who is skilled in the use of computer systems, often one who illegally obtains access to private computer systems",
+                    "vi": "một người có kỹ năng sử dụng hệ thống máy tính, thường là người có quyền truy cập bất hợp pháp vào hệ thống máy tính riêng"
+                },
+                "definition": {
+                    "en": "Hackers are a major defense department concern.",
+                    "vi": "Tin tặc là mối quan tâm lớn của bộ quốc phòng."
+                }
+            },
+            {
+                "id": "1c277bbe98c940dbbd5895eca484694d",
+                "word": "activate",
+                "pos": "verb",
+                "vi": "kích hoạt",
+                "phonetic": "/ˈæk·təˌveɪt/",
+                "example": {
+                    "en": "to cause something to start working",
+                    "vi": "để làm cho một cái gì đó bắt đầu hoạt động"
+                },
+                "definition": {
+                    "en": "Something activated the car alarm.",
+                    "vi": "Một cái gì đó đã kích hoạt báo động xe hơi."
+                }
+            },
+            {
+                "id": "0e5fc134604b4e2aae4f8779a9e90822",
+                "word": "unbelievable",
+                "pos": "adjective",
+                "vi": "Không thể tin được",
+                "phonetic": "/ˌʌn·bɪˈli·və·bəl/",
+                "example": {
+                    "en": "extremely surprising",
+                    "vi": "cực kỳ ngạc nhiên"
+                },
+                "definition": {
+                    "en": "That little dog eats an unbelievable amount of food.",
+                    "vi": "Con chó nhỏ đó ăn một lượng thức ăn không thể tin được."
+                }
+            },
+            {
+                "id": "86df26ff1602457bbdfaf8db9f379b30",
+                "word": "artificial intelligence",
+                "pos": "noun",
+                "vi": "trí tuệ nhân tạo",
+                "phonetic": "ˌɑr·t̬əˈfɪʃ·əl ɪnˈtel·ɪ·dʒəns",
+                "example": {
+                    "en": "the study of how to produce machines that have some of the qualities that the human mind has, such as the ability to understand language, recognize pictures, solve problems, and learn",
+                    "vi": "nghiên cứu về cách sản xuất máy móc có một số phẩm chất mà trí óc con người có, chẳng hạn như khả năng hiểu ngôn ngữ, nhận dạng hình ảnh, giải quyết vấn đề và học hỏi"
+                },
+                "definition": {
+                    "en": "Artificial intelligence research has been going on for decades without making an impact outside a few specialized areas.",
+                    "vi": "Nghiên cứu trí tuệ nhân tạo đã diễn ra trong nhiều thập kỷ mà không tạo ra tác động bên ngoài một vài lĩnh vực chuyên biệt."
+                }
+            },
+            {
+                "id": "fb460110b939474486256e2eea0f6362",
+                "word": "cyberattack",
+                "pos": "noun",
+                "vi": "Tấn công mạng",
+                "phonetic": "ˈsaɪ.bɚ.əˌtæk",
+                "example": {
+                    "en": "an illegal attempt to harm someone's computer system or the information on it, using the internet",
+                    "vi": "một nỗ lực bất hợp pháp nhằm làm hại hệ thống máy tính của ai đó hoặc thông tin trên đó, sử dụng internet"
+                },
+                "definition": {
+                    "en": "It will attempt to find and, when necessary, neutralize cyberattacks and to defend military computer networks.",
+                    "vi": "Nó sẽ cố gắng tìm và khi cần thiết, vô hiệu hóa các cuộc tấn công mạng và bảo vệ các mạng máy tính quân sự."
+                }
+            },
+            {
+                "id": "273ca3be883b40ffbbe32a4227ef08bf",
+                "word": "exterminate",
+                "pos": "verb",
+                "vi": "tiêu diệt",
+                "phonetic": "ɪkˈstɜr·məˌneɪt",
+                "example": {
+                    "en": "to kill all the animals or people in a particular place or of a particular type",
+                    "vi": "giết tất cả động vật hoặc người ở một nơi cụ thể hoặc một loại cụ thể"
+                },
+                "definition": {
+                    "en": "Millions of Jewish people were exterminated in concentration camps in the Second World War.",
+                    "vi": "Hàng triệu người Do Thái đã bị tiêu diệt trong các trại tập trung trong Chiến tranh thế giới thứ hai."
+                }
+            },
+            {
+                "id": "abdea48f025d41eabe9acec5198f24aa",
+                "word": "faraway",
+                "pos": "adjective",
+                "vi": "Xa Xăm",
+                "phonetic": "ˈfɑr·əˌweɪ",
+                "example": {
+                    "en": "a long way away",
+                    "vi": "một chặng đường dài"
+                },
+                "definition": {
+                    "en": "They travelled to faraway lands/places",
+                    "vi": "Họ đã đi đến những vùng đất / địa điểm xa xôi"
+                }
+            },
+            {
+                "id": "9b76fb48522148d4b6f4bef9c7b3ec2e",
+                "word": "implant",
+                "pos": "verb",
+                "vi": "cấy ghép",
+                "phonetic": "ɪmˈplænt",
+                "example": {
+                    "en": "to put an organ, group of cells, or device into the body in a medical operation",
+                    "vi": "để đưa một cơ quan, nhóm tế bào hoặc thiết bị vào cơ thể trong một hoạt động y tế"
+                },
+                "definition": {
+                    "en": "The owner's name and address is stored on a microchip and implanted in the dog's body",
+                    "vi": "Tên và địa chỉ của chủ sở hữu được lưu trên một vi mạch và được cấy vào cơ thể của chú chó"
+                }
+            },
+            {
+                "id": "a6e491cc2e704481a074e23b9c90b47c",
+                "word": "malfunction",
+                "pos": "noun",
+                "vi": "sự cố",
+                "phonetic": "mælˈfʌŋk·ʃən",
+                "example": {
+                    "en": "a failure to work or operate correctly",
+                    "vi": "không hoạt động hoặc hoạt động chính xác"
+                },
+                "definition": {
+                    "en": "Shortly before the crash the pilot had reported a malfunction of the aircraft's navigation system",
+                    "vi": "Một thời gian ngắn trước khi vụ tai nạn xảy ra, phi công đã báo cáo sự cố hệ thống định vị của máy bay"
+                }
+            },
+            {
+                "id": "44fca894c39c402f932717b97a340220",
+                "word": "resurrect",
+                "pos": "verb",
+                "vi": "sống lại",
+                "phonetic": "ˌrez·əˈrekt",
+                "example": {
+                    "en": "to bring someone back to life",
+                    "vi": "để mang một người nào đó trở lại cuộc sống"
+                },
+                "definition": {
+                    "en": "Almost all Christians believe that Jesus was resurrected from the dead",
+                    "vi": "Hầu hết tất cả các Cơ đốc nhân tin rằng Chúa Giê-xu đã phục sinh từ cõi chết"
+                }
+            },
+            {
+                "id": "a7e3d839945e42b9968999b70b91f8a6",
+                "word": "voice recognition system",
+                "pos": "noun",
+                "vi": "hệ thống nhận dạng giọng nói",
+                "phonetic": "vɔɪs ˌrek·əɡˈnɪʃ·ən ˈsɪs·təm",
+                "example": {
+                    "en": "a system where a computer or other equipment is operated by someone’s voice",
+                    "vi": "một hệ thống trong đó máy tính hoặc thiết bị khác được vận hành bằng giọng nói của ai đó"
+                },
+                "definition": {
+                    "en": "You can make calls either by manually selecting the contact or through voice recognition system",
+                    "vi": "Bạn có thể thực hiện cuộc gọi bằng cách chọn thủ công số liên lạc hoặc thông qua hệ thống nhận dạng giọng nói"
+                }
+            },
+            {
+                "id": "9f213960fea240949b389410a1e12eba",
+                "word": "in real time",
+                "pos": "undefined",
+                "vi": "trong thời gian thực",
+                "phonetic": "ɪn ˈri·əl, ril tɑɪm",
+                "example": {
+                    "en": "Instantaneously; as things develop; at the moment something happens.",
+                    "vi": "Ngay lập tức; khi mọi thứ phát triển; tại thời điểm một cái gì đó xảy ra."
+                },
+                "definition": {
+                    "en": "Luckily, because of our undercover reporter, we can get updates on the situation in real time.",
+                    "vi": "May mắn thay, vì có phóng viên bí mật của chúng tôi, chúng tôi có thể cập nhật tình hình theo thời gian thực."
+                }
+            }
+        ]
+    },
+    {
+        "id": "4131574f93b54cf8b076d048e2198d14",
+        "name": "Unit 8 - The world of work",
+        "words": [
+            {
+                "id": "b20e070256dd4859993c12105a5a58df",
+                "word": "potential",
+                "pos": "adjective",
+                "vi": "tiềm năng",
+                "phonetic": "/pəˈtɛnʃl/",
+                "example": {
+                    "en": "that can develop into something or be developed in the future",
+                    "vi": "có thể phát triển thành thứ gì đó hoặc được phát triển trong tương lai"
+                },
+                "definition": {
+                    "en": "Many potential customers are waiting for a fall in prices before buying.",
+                    "vi": "Nhiều khách hàng tiềm năng đang đợi giá giảm trước khi mua."
+                }
+            },
+            {
+                "id": "7006f26a79434f3fa05f38e87e6bbff3",
+                "word": "recruit",
+                "pos": "verb",
+                "vi": "tuyển dụng",
+                "phonetic": "/rɪˈkrut/",
+                "example": {
+                    "en": "to get someone to work in a company or join an organization",
+                    "vi": "để có ai đó làm việc trong một công ty hoặc tham gia một tổ chức"
+                },
+                "definition": {
+                    "en": "Peter Watson has been recruited as Sales Manager.",
+                    "vi": "Peter Watson đã được tuyển dụng làm Giám đốc bán hàng."
+                }
+            },
+            {
+                "id": "9d739e2894c6440590ed404c6d423de8",
+                "word": "relevant",
+                "pos": "adjective",
+                "vi": "liên quan, thích hợp",
+                "phonetic": "/ˈrɛləvənt/",
+                "example": {
+                    "en": "closely connected with the subject you are discussing or the situation you are thinking about",
+                    "vi": "kết nối chặt chẽ với chủ đề bạn đang thảo luận hoặc tình huống bạn đang nghĩ đến"
+                },
+                "definition": {
+                    "en": "the scientist corresponds with colleagues in order to learn about matters relevant to her own research",
+                    "vi": "nhà khoa học trao đổi với các đồng nghiệp để tìm hiểu về các vấn đề liên quan đến nghiên cứu của riêng cô ấy"
+                }
+            },
+            {
+                "id": "30f08ddd32f042cda2e77ad0c76f7253",
+                "word": "specialize",
+                "pos": "verb",
+                "vi": "chuyên môn hóa",
+                "phonetic": "/ˈspɛʃəˌlaɪz/",
+                "example": {
+                    "en": "to concentrate on a particular activity",
+                    "vi": "tập trung vào một hoạt động cụ thể"
+                },
+                "definition": {
+                    "en": "She hired a lawyer who specializes in divorce cases.",
+                    "vi": "Cô thuê một luật sư chuyên phụ trách các vụ ly hôn."
+                }
+            },
+            {
+                "id": "ac460d0501734f5eb809574e6415afd3",
+                "word": "unique",
+                "pos": "adjective",
+                "vi": "độc nhất",
+                "phonetic": "/jʊˈnik/",
+                "example": {
+                    "en": "being the only one of its kind",
+                    "vi": "là người duy nhất của loại hình này"
+                },
+                "definition": {
+                    "en": "I'd recognize your handwriting anywhere - it's unique.",
+                    "vi": "Tôi sẽ nhận ra chữ viết tay của bạn ở bất cứ đâu - nó là duy nhất."
+                }
+            },
+            {
+                "id": "50c2cb9445a5478a8d90767eb58000f8",
+                "word": "candidate",
+                "pos": "noun",
+                "vi": "ứng viên",
+                "phonetic": "/ˈkændədət/",
+                "example": {
+                    "en": "a person who is competing to get a job",
+                    "vi": "một người đang cạnh tranh để có được một công việc"
+                },
+                "definition": {
+                    "en": "The candidate must demonstrate good communication skills.",
+                    "vi": "Ứng viên phải thể hiện kỹ năng giao tiếp tốt."
+                }
+            },
+            {
+                "id": "190d62e21350408a8ab58af0a3ec290c",
+                "word": "colleague",
+                "pos": "noun",
+                "vi": "đồng nghiệp",
+                "phonetic": "/ˈkɑliɡ/",
+                "example": {
+                    "en": "a person that you work with, especially in a profession or a business",
+                    "vi": "một người mà bạn làm việc cùng, đặc biệt là trong một ngành nghề hoặc một doanh nghiệp"
+                },
+                "definition": {
+                    "en": "the surgeon consulted his colleagues",
+                    "vi": "bác sĩ phẫu thuật đã hỏi ý kiến ​​đồng nghiệp của mình"
+                }
+            },
+            {
+                "id": "cd97ec72aa394097abf5e5bb6a6af8c8",
+                "word": "compassionate",
+                "pos": "adjective",
+                "vi": "thương xót",
+                "phonetic": "/kəmˈpæʃənət/",
+                "example": {
+                    "en": "feeling or showing sympathy for people who are suffering",
+                    "vi": "cảm thấy hoặc bày tỏ sự cảm thông với những người đang đau khổ"
+                },
+                "definition": {
+                    "en": "The public's response to the crisis appeal was generous and compassionate.",
+                    "vi": "Phản ứng của công chúng đối với lời kêu gọi giải quyết khủng hoảng là rất hào phóng và nhân ái."
+                }
+            },
+            {
+                "id": "9d735544b51448c8a708279b20520c7e",
+                "word": "covering letter",
+                "pos": "noun",
+                "vi": "thư xin việc",
+                "phonetic": "/ˌkʌvrɪŋ ˈlɛt̮ər/",
+                "example": {
+                    "en": "a letter containing extra information that you send with something",
+                    "vi": "một lá thư chứa thông tin bổ sung mà bạn gửi kèm theo thứ gì đó"
+                },
+                "definition": {
+                    "en": "A covering letter outlining the purpose of the study along with a three-page questionnaire was sent to each participant.",
+                    "vi": "Một lá thư giới thiệu nêu rõ mục đích của cuộc nghiên cứu cùng với một bảng câu hỏi dài ba trang đã được gửi đến từng người tham gia."
+                }
+            },
+            {
+                "id": "a7f26530183b48b0944c40223c7a6bb7",
+                "word": "demonstrate",
+                "pos": "verb",
+                "vi": "chứng minh",
+                "phonetic": "/ˈdem·ənˌstreɪt/",
+                "example": {
+                    "en": "to show how to do something; explain",
+                    "vi": "để chỉ cách làm một cái gì đó; giải thích"
+                },
+                "definition": {
+                    "en": "He got a job demonstrating kitchen equipment in a department store.",
+                    "vi": "Anh ấy nhận được một công việc trình diễn thiết bị nhà bếp trong một cửa hàng bách hóa."
+                }
+            },
+            {
+                "id": "0257b381a82c4d82a1a815eb329ed244",
+                "word": "entrepreneur",
+                "pos": "noun",
+                "vi": "doanh nhân",
+                "phonetic": "/ˌɑntrəprəˈnər/",
+                "example": {
+                    "en": "a person who makes money by starting or running businesses, especially when this involves taking financial risks",
+                    "vi": "một người kiếm tiền bằng cách bắt đầu hoặc điều hành doanh nghiệp, đặc biệt khi điều này liên quan đến việc chấp nhận rủi ro tài chính"
+                },
+                "definition": {
+                    "en": "He was a creative entrepreneur and he was continually dreaming up new projects.",
+                    "vi": "Anh ấy là một doanh nhân sáng tạo và anh ấy luôn mơ ước về những dự án mới."
+                }
+            },
+            {
+                "id": "c02c1e9f6f134681a6cf253ffa85a67d",
+                "word": "apply",
+                "pos": "verb",
+                "vi": "nộp đơn (xin việc)",
+                "phonetic": "/əˈplaɪ/",
+                "example": {
+                    "en": "to submit an application",
+                    "vi": "nộp đơn"
+                },
+                "definition": {
+                    "en": "By the time I saw the job advertised it was already too late to apply.",
+                    "vi": "Khi tôi nhìn thấy công việc được quảng cáo thì đã quá muộn để nộp đơn."
+                }
+            },
+            {
+                "id": "8c0fac33bde8414bac7f7e027117cc5c",
+                "word": "academic",
+                "pos": "adjective",
+                "vi": "thuộc về lý thuyết",
+                "phonetic": "/ˌækəˈdɛmɪk/",
+                "example": {
+                    "en": "relating to education, especially education in colleges and universities",
+                    "vi": "liên quan đến giáo dục, đặc biệt là giáo dục ở các trường cao đẳng và đại học"
+                },
+                "definition": {
+                    "en": "Good academic writing starts with reading.",
+                    "vi": "Văn bản học thuật tốt bắt đầu bằng việc đọc."
+                }
+            },
+            {
+                "id": "4c140f648c994c778ca4fb1fa7852b86",
+                "word": "applicant",
+                "pos": "noun",
+                "vi": "người xin việc",
+                "phonetic": "/ˈæp·lɪ·kənt/",
+                "example": {
+                    "en": "a person who formally requests something, such as a job or admission to a college or university",
+                    "vi": "một người chính thức yêu cầu một cái gì đó, chẳng hạn như một công việc hoặc nhập học vào một trường cao đẳng hoặc đại học"
+                },
+                "definition": {
+                    "en": "The manager hired the new applicant because of his skills.",
+                    "vi": "Người quản lý đã thuê ứng viên mới vì kỹ năng của anh ta."
+                }
+            },
+            {
+                "id": "0b8e1b766b5b4b6bb2de9a5240687191",
+                "word": "trailer",
+                "pos": "noun",
+                "vi": "đoạn phim giới thiệu",
+                "phonetic": "/ˈtreɪ·lər/",
+                "example": {
+                    "en": "a vehicle without an engine, often in the form of a flat frame or a container, that can be pulled by another vehicle",
+                    "vi": "phương tiện không có động cơ, thường ở dạng khung phẳng hoặc thùng chứa, có thể được kéo bởi một phương tiện khác"
+                },
+                "definition": {
+                    "en": "The celebrity used her trailer as a mobile home.",
+                    "vi": "Người nổi tiếng đã sử dụng xe kéo của mình như một ngôi nhà di động."
+                }
+            },
+            {
+                "id": "834f5aef0ddf4836832fb340437243dd",
+                "word": "administrator",
+                "pos": "noun",
+                "vi": "người quản lý",
+                "phonetic": "/ədˈmɪn.ə.streɪ.t̬ɚ/",
+                "example": {
+                    "en": "someone whose job is to control the operation of a business, organization, or plan",
+                    "vi": "người có công việc là kiểm soát hoạt động của một doanh nghiệp, tổ chức hoặc kế hoạch"
+                },
+                "definition": {
+                    "en": "From 1969 to 1971, he was administrator of the Illinois state drug abuse program.",
+                    "vi": "Từ năm 1969 đến năm 1971, ông là quản trị viên của chương trình lạm dụng ma túy bang Illinois."
+                }
+            },
+            {
+                "id": "e9ea362989e14807a33e0d90c1460b5d",
+                "word": "tuition",
+                "pos": "noun",
+                "vi": "học phí",
+                "phonetic": "/tʊˈɪʃ·ən/",
+                "example": {
+                    "en": "the money paid for being taught, esp. at a college or university",
+                    "vi": "số tiền phải trả để được dạy, đặc biệt. tại một trường cao đẳng hoặc đại học"
+                },
+                "definition": {
+                    "en": "My college tuition is more than $25,000.",
+                    "vi": "Học phí đại học của tôi là hơn $ 25,000."
+                }
+            },
+            {
+                "id": "d96bf126933b46c68260bf742f04176f",
+                "word": "qualification",
+                "pos": "noun",
+                "vi": "bằng cấp",
+                "phonetic": "/ˌkwɑl·ə·fɪˈkeɪ·ʃən/",
+                "example": {
+                    "en": "knowledge, skill, or some other characteristic that gives a person the ability or the right to do or have something",
+                    "vi": "kiến thức, kỹ năng hoặc một số đặc điểm khác mang lại cho một người khả năng hoặc quyền để làm hoặc có một cái gì đó"
+                },
+                "definition": {
+                    "en": "I assume my qualifications for the job will be considered along with theirs.",
+                    "vi": "Tôi cho rằng trình độ của tôi cho công việc sẽ được xem xét cùng với họ."
+                }
+            },
+            {
+                "id": "4ca551e5d20641958a51156f35db61f3",
+                "word": "probation",
+                "pos": "noun",
+                "vi": "kiểm soát",
+                "phonetic": "/proʊˈbeɪ·ʃən/",
+                "example": {
+                    "en": "a period of time at the start of a new job when you are watched and tested to see if you are suitable for the job",
+                    "vi": "Khoảng thời gian khi bắt đầu công việc mới khi bạn được theo dõi và kiểm tra để xem bạn có phù hợp với công việc đó hay không"
+                },
+                "definition": {
+                    "en": "I’m on a period of probation.",
+                    "vi": "Tôi đang trong thời gian thử việc."
+                }
+            },
+            {
+                "id": "4c75099768d64836967da19713e30b4f",
+                "word": "apprentice",
+                "pos": "noun",
+                "vi": "học nghề",
+                "phonetic": "/əˈpren·tɪs/",
+                "example": {
+                    "en": "someone who works for an expert to learn a particular skill or job",
+                    "vi": "một người làm việc cho một chuyên gia để học một kỹ năng hoặc công việc cụ thể"
+                },
+                "definition": {
+                    "en": "He worked for two years as a plumber’s apprentice",
+                    "vi": "Anh ấy đã làm việc trong hai năm với tư cách là người học việc của một thợ sửa ống nước"
+                }
+            },
+            {
+                "id": "eba05a59229e477db955f7574c4e52fe",
+                "word": "tailor",
+                "pos": "verb",
+                "vi": "thợ may",
+                "phonetic": "ˈteɪlɝ",
+                "example": {
+                    "en": "to adjust something to suit a particular need or situation",
+                    "vi": "để điều chỉnh một cái gì đó cho phù hợp với nhu cầu hoặc tình huống cụ thể"
+                },
+                "definition": {
+                    "en": "Their services are tailored to clients’ needs.",
+                    "vi": "Dịch vụ của họ phù hợp với nhu cầu của khách hàng."
+                }
+            },
+            {
+                "id": "a5efb57f7d734268a4c7e2b3c7b3ce1d",
+                "word": "dealership",
+                "pos": "noun",
+                "vi": "đại lý",
+                "phonetic": "/ˈdi·lərˌʃɪp/",
+                "example": {
+                    "en": "a business that has the right to sell a company’s products in a particular area using the company’s name",
+                    "vi": "một doanh nghiệp có quyền bán các sản phẩm của công ty trong một khu vực cụ thể bằng cách sử dụng tên của công ty"
+                },
+                "definition": {
+                    "en": "Their company has just won the dealership for Rolls-Royce.",
+                    "vi": "Công ty của họ vừa giành được đại lý cho Rolls-Royce."
+                }
+            },
+            {
+                "id": "e06057f404ae4135822320ec283d6e3d",
+                "word": "articulate",
+                "pos": "verb",
+                "vi": "nói rõ",
+                "phonetic": "ɑːrˈtɪkjəˌleɪt",
+                "example": {
+                    "en": "V. (1) express (an idea) clearly; (2) pronounce distinctly.",
+                    "vi": "V. (1) bày tỏ (một ý tưởng) rõ ràng; (2) phát âm rõ ràng."
+                },
+                "definition": {
+                    "en": "A skilled impromptu debater must be able to articulate her ideas clearly and fluently. A speech therapist helps patients articulate sounds.",
+                    "vi": "Một người tranh luận ngẫu hứng có kỹ năng phải có khả năng trình bày ý tưởng của mình một cách rõ ràng và trôi chảy. Nhà trị liệu ngôn ngữ giúp bệnh nhân phát âm rõ ràng."
+                }
+            },
+            {
+                "id": "63046df4bba942b1af141e1294216fec",
+                "word": "align",
+                "pos": "verb",
+                "vi": "căn chỉnh",
+                "phonetic": "əˈlɑɪn",
+                "example": {
+                    "en": "to change something so that it has a correct relationship to something else",
+                    "vi": "để thay đổi một cái gì đó để nó có một mối quan hệ chính xác với một cái gì đó khác"
+                },
+                "definition": {
+                    "en": "Later this year, the company will introduce a price platform for its home insurance contracts, and will align all its prices",
+                    "vi": "Cuối năm nay, công ty sẽ giới thiệu một nền tảng giá cho các hợp đồng bảo hiểm nhà của mình và sẽ điều chỉnh tất cả các mức giá của nó"
+                }
+            },
+            {
+                "id": "f1ab7af156a646b0adec310712c2410b",
+                "word": "well spoken",
+                "pos": "adjective",
+                "vi": "nói hay lắm",
+                "phonetic": "wel ˈspoʊ·kən",
+                "example": {
+                    "en": "having a pleasant and polite way of speaking that is considered socially acceptable",
+                    "vi": "có cách nói dễ chịu và lịch sự được xã hội coi là có thể chấp nhận được"
+                },
+                "definition": {
+                    "en": "The young man was well spoken and polite",
+                    "vi": "Người thanh niên ăn nói tốt và lịch sự"
+                }
+            },
+            {
+                "id": "c663ad019ebf4d6f861ead4052a7536d",
+                "word": "shortlist",
+                "pos": "verb",
+                "vi": "danh sách rút gọn",
+                "phonetic": "ˈʃɔːrt.lɪst",
+                "example": {
+                    "en": "to put someone on a shortlist",
+                    "vi": "đưa ai đó vào danh sách chọn lọc"
+                },
+                "definition": {
+                    "en": "I have applied for numerous management jobs and, despite fulfilling the criteria, have never been shortlisted",
+                    "vi": "Tôi đã nộp đơn cho nhiều công việc quản lý và, mặc dù đáp ứng các tiêu chí, chưa bao giờ được lọt vào danh sách"
+                }
+            },
+            {
+                "id": "a119aec7cdbf49a081c8e86067262e01",
+                "word": "cluttered",
+                "pos": "adjective",
+                "vi": "lộn xộn",
+                "phonetic": "ˈklʌt.əd",
+                "example": {
+                    "en": "untidy, not organized, and covered with a lot of things",
+                    "vi": "lộn xộn, không có tổ chức và bị che phủ bởi rất nhiều thứ"
+                },
+                "definition": {
+                    "en": "The floor is cluttered with hoses, tools and buckets",
+                    "vi": "Sàn nhà ngổn ngang ống mềm, dụng cụ và xô"
+                }
+            },
+            {
+                "id": "b241cd9232bf47c0b318b4c915b8d108",
+                "word": "barista",
+                "pos": "noun",
+                "vi": "thợ pha cà phê",
+                "phonetic": "bɑːrˈiːs.tə",
+                "example": {
+                    "en": "a person who serves customers in a coffee shop (= a small restaurant that serves coffee)",
+                    "vi": "một người phục vụ khách hàng trong quán cà phê (= một nhà hàng nhỏ phục vụ cà phê)"
+                },
+                "definition": {
+                    "en": "The steamed milk hasn't much foam, but many baristas make some micro foam to make latte art.",
+                    "vi": "Sữa hấp không có nhiều bọt, nhưng nhiều nhân viên pha chế tạo ra một ít bọt siêu nhỏ để tạo thành nghệ thuật pha cà phê."
+                }
+            },
+            {
+                "id": "ac87a4a120c144ffbc09e41bdbf104e2",
+                "word": "approachable",
+                "pos": "adjective",
+                "vi": "dễ gần",
+                "phonetic": "əˈproʊ·tʃə·bəl",
+                "example": {
+                    "en": "friendly and easy to talk to",
+                    "vi": "thân thiện và dễ nói chuyện"
+                },
+                "definition": {
+                    "en": "Graham's always very approachable - why don't you talk the problem over with him?",
+                    "vi": "Graham luôn rất dễ gần - tại sao bạn không nói vấn đề với anh ấy?"
+                }
+            },
+            {
+                "id": "9d511c08890d4a9f86e8045ab66b38d5",
+                "word": "prioritize",
+                "pos": "verb",
+                "vi": "ưu tiên",
+                "phonetic": "prɑɪˈɔr·əˌtɑɪz, -ˈɑr-",
+                "example": {
+                    "en": "to decide which of a group of things are the most important so that you can deal with them first",
+                    "vi": "để quyết định nhóm điều nào là quan trọng nhất để bạn có thể giải quyết chúng trước tiên"
+                },
+                "definition": {
+                    "en": "You must learn to prioritize your work",
+                    "vi": "Bạn phải học cách ưu tiên công việc của mình"
+                }
+            }
+        ]
+    },
+    {
+        "id": "c6d0f8970819403ab4cfa54848e199ad",
+        "name": "Unit 9 - Choosing a career",
+        "words": [
+            {
+                "id": "d06ad6ce353f471684092ceae06cf53c",
+                "word": "rewarding",
+                "pos": "adjective",
+                "vi": "phần thưởng",
+                "phonetic": "/rɪˈwɔrdɪŋ/",
+                "example": {
+                    "en": "(of an activity, etc.) worth doing; that makes you happy because you think it is useful or important",
+                    "vi": "(của một hoạt động, v.v.) đáng làm; điều đó làm cho bạn hạnh phúc vì bạn nghĩ rằng nó hữu ích hoặc quan trọng"
+                },
+                "definition": {
+                    "en": "Nursing can be a very rewarding career.",
+                    "vi": "Điều dưỡng có thể là một nghề nghiệp rất bổ ích."
+                }
+            },
+            {
+                "id": "d613a006049a481cb32c56dfd39715e2",
+                "word": "tedious",
+                "pos": "adjective",
+                "vi": "tẻ nhạt",
+                "phonetic": "/ˈtidiəs/",
+                "example": {
+                    "en": "lasting or taking too long and not interesting",
+                    "vi": "kéo dài hoặc mất quá nhiều thời gian và không thú vị"
+                },
+                "definition": {
+                    "en": "The problem is I find most forms of exercise so tedious.",
+                    "vi": "Vấn đề là tôi thấy hầu hết các hình thức tập thể dục quá tẻ nhạt."
+                }
+            },
+            {
+                "id": "dde8704322b54f18bdb9b027028d0ad4",
+                "word": "think back",
+                "pos": "phrasal verb",
+                "vi": "Nghĩ lại",
+                "phonetic": "/θɪŋk bæk/",
+                "example": {
+                    "en": "to think about something that happened in the past",
+                    "vi": "nghĩ về điều gì đó đã xảy ra trong quá khứ"
+                },
+                "definition": {
+                    "en": "It might help you to understand Julia if you think back to when you were her age.",
+                    "vi": "Nó có thể giúp bạn hiểu Julia nếu bạn nghĩ lại khi bạn ở độ tuổi của cô ấy."
+                }
+            },
+            {
+                "id": "e7324ce15db7488987a846173fa6a7b5",
+                "word": "workforce",
+                "pos": "noun",
+                "vi": "lực lượng lao động",
+                "phonetic": "/ˈwərkfɔrs/",
+                "example": {
+                    "en": "the total number of people who work in a particular company, industry, or area",
+                    "vi": "tổng số người làm việc trong một công ty, ngành hoặc khu vực cụ thể"
+                },
+                "definition": {
+                    "en": "The majority of factories in the region have a workforce of 50 to 100.",
+                    "vi": "Phần lớn các nhà máy trong khu vực có lực lượng lao động từ 50 đến 100 người."
+                }
+            },
+            {
+                "id": "3e16223bdab04a64b22c290bc8c566fb",
+                "word": "come up with",
+                "pos": "phrasal verb",
+                "vi": "tìm thấy/ nảy ra ( ý tưởng/ giải pháp)",
+                "phonetic": "/ kʌm ʌp wɪθ /",
+                "example": {
+                    "en": "to think of something such as an idea or a plan",
+                    "vi": "nghĩ về một cái gì đó chẳng hạn như một ý tưởng hoặc một kế hoạch"
+                },
+                "definition": {
+                    "en": "He will come up with a great idea for the ad campaign.",
+                    "vi": "Anh ấy sẽ đưa ra một ý tưởng tuyệt vời cho chiến dịch quảng cáo."
+                }
+            },
+            {
+                "id": "c994f121d03548998a47c5162f52205d",
+                "word": "put up with",
+                "pos": "phrasal verb",
+                "vi": "chịu đựng",
+                "phonetic": "/pʊt ʌp wɪθ/",
+                "example": {
+                    "en": "to accept someone or something that is annoying, unpleasant, etc. without complaining",
+                    "vi": "chấp nhận ai đó hoặc điều gì đó khó chịu, khó chịu, v.v. mà không phàn nàn"
+                },
+                "definition": {
+                    "en": "At least I won’t have to put up with your non-sense anymore",
+                    "vi": "Ít nhất tôi sẽ không phải chịu đựng sự vô nghĩa của bạn nữa"
+                }
+            },
+            {
+                "id": "ba9bc6d2c78e42f590386d58750b42ac",
+                "word": "look forward to",
+                "pos": "phrase",
+                "vi": "háo hức, mong đợi",
+                "phonetic": "/lʊk ˈfɔrwərd tu/",
+                "example": {
+                    "en": "to anticipate, to be eager for something to happen",
+                    "vi": "dự đoán, háo hức cho một điều gì đó sẽ xảy ra"
+                },
+                "definition": {
+                    "en": "It would be a pleasure to face off with you sometime, somewhere. I look forward to this.",
+                    "vi": "Sẽ rất vui khi được đối đầu với bạn vào một lúc nào đó, ở một nơi nào đó. Tôi trông chờ điều này."
+                }
+            },
+            {
+                "id": "03dad6748b974308998eeeedacb377b7",
+                "word": "run out of",
+                "pos": "phrasal verb",
+                "vi": "hết",
+                "phonetic": "/rʌn ɑʊt əv/",
+                "example": {
+                    "en": "to lose (patience), come to the end of (usually money or time)",
+                    "vi": "mất (kiên nhẫn), đến hết (thường là tiền bạc hoặc thời gian)"
+                },
+                "definition": {
+                    "en": "I’ve nearly run out of money.",
+                    "vi": "Tôi gần hết tiền."
+                }
+            },
+            {
+                "id": "5d9a9723b83e4abfacd6cef137c955e5",
+                "word": "drop out of",
+                "pos": "phrasal verb",
+                "vi": "bỏ học",
+                "phonetic": "/drɑp ɑʊt əv/",
+                "example": {
+                    "en": "to stop going to of participating in (often a shool of a contest)",
+                    "vi": "ngừng tham gia (thường là một cuộc thi)"
+                },
+                "definition": {
+                    "en": "Family members might drop out of college.",
+                    "vi": "Các thành viên trong gia đình có thể bỏ học đại học."
+                }
+            },
+            {
+                "id": "ef469de6c18f4c059bdfb6ed412b7a5d",
+                "word": "paperwork",
+                "pos": "noun",
+                "vi": "thủ tục giấy tờ",
+                "phonetic": "/ˈpeɪpərˌwərk/",
+                "example": {
+                    "en": "the written work that is part of a job, such as filling in forms or writing letters and reports",
+                    "vi": "công việc bằng văn bản là một phần của công việc, chẳng hạn như điền vào biểu mẫu hoặc viết thư và báo cáo"
+                },
+                "definition": {
+                    "en": "She liked everything about her job except the paperwork.",
+                    "vi": "Cô thích mọi thứ về công việc của mình ngoại trừ các thủ tục giấy tờ."
+                }
+            },
+            {
+                "id": "161f1a78091b41b99c5e852fb39e1e87",
+                "word": "get to grips with",
+                "pos": "phrase",
+                "vi": "nắm bắt",
+                "phonetic": "/ɡɛt tə ɡrɪp wɪð/",
+                "example": {
+                    "en": "start to deal with or understand something such as a problem",
+                    "vi": "bắt đầu đối phó với hoặc hiểu một cái gì đó chẳng hạn như một vấn đề"
+                },
+                "definition": {
+                    "en": "I hope he can get to grips with recruitment.",
+                    "vi": "Tôi hy vọng anh ấy có thể nắm bắt được công việc tuyển dụng."
+                }
+            },
+            {
+                "id": "a7f0fec8fc4f41259152436c758008f8",
+                "word": "cut down on",
+                "pos": "phrasal verb",
+                "vi": "cắt giảm",
+                "phonetic": "/kʌt daʊn ɔn/",
+                "example": {
+                    "en": "to reduce the amount of something used",
+                    "vi": "để giảm số lượng thứ gì đó được sử dụng"
+                },
+                "definition": {
+                    "en": "Gradually work your way up, finishing with the attic.Cut down on clutter.",
+                    "vi": "Dần dần làm việc theo cách của bạn, hoàn thành với tầng áp mái."
+                }
+            },
+            {
+                "id": "2f09555a8812492e97076bf8b29a9a98",
+                "word": "be in touch with",
+                "pos": "idiom",
+                "vi": "liên lạc với",
+                "phonetic": "/bi ɪn tʌtʃ wɪð ˈsʌmθɪŋ/",
+                "example": {
+                    "en": "to know what is happening in a particular subject or area",
+                    "vi": "để biết những gì đang xảy ra trong một chủ đề hoặc lĩnh vực cụ thể"
+                },
+                "definition": {
+                    "en": "Are you still in touch with any friends from university?",
+                    "vi": "Bạn vẫn còn liên lạc với bất kỳ người bạn nào từ trường đại học?"
+                }
+            },
+            {
+                "id": "afe6d58016934af9b03edb15959351fa",
+                "word": "career",
+                "pos": "noun",
+                "vi": "sự nghiệp",
+                "phonetic": "/kəˈrɪr/",
+                "example": {
+                    "en": "the series of jobs that a person has in a particular area of work, usually involving more responsibility as time passes",
+                    "vi": "một loạt công việc mà một người có trong một lĩnh vực công việc cụ thể, thường liên quan đến nhiều trách nhiệm hơn khi thời gian trôi qua"
+                },
+                "definition": {
+                    "en": "He’s hoping for a career in social work",
+                    "vi": "Anh ấy đang hy vọng vào một công việc xã hội"
+                }
+            },
+            {
+                "id": "ebc6880b582b42abbc6b067500b1ab01",
+                "word": "keep up with",
+                "pos": "phrasal verb",
+                "vi": "theo kịp, đuổi kịp",
+                "phonetic": "/kip ʌp wɪθ/",
+                "example": {
+                    "en": "to stay level or equal with someone or something",
+                    "vi": "để duy trì mức độ hoặc ngang hàng với ai đó hoặc điều gì đó"
+                },
+                "definition": {
+                    "en": "It's staggering. You can't keep up with it",
+                    "vi": "Thật đáng kinh ngạc. Bạn không thể theo kịp nó"
+                }
+            },
+            {
+                "id": "07c7970856a44565ad96dd2b5fcfa05f",
+                "word": "mature",
+                "pos": "adjective",
+                "vi": "chín chắn, trưởng thành",
+                "phonetic": "/məˈtʊr/",
+                "example": {
+                    "en": "be considered to have the good qualities of an older person, for example the knowledge and experience of how to deal with particular situations",
+                    "vi": "được coi là có những phẩm chất tốt của một người lớn tuổi, ví dụ như kiến ​​thức và kinh nghiệm về cách đối phó với các tình huống cụ thể"
+                },
+                "definition": {
+                    "en": "We’re mature enough to disagree on this issue but still respect each other.",
+                    "vi": "Chúng tôi đủ trưởng thành để bất đồng về vấn đề này nhưng vẫn tôn trọng nhau."
+                }
+            },
+            {
+                "id": "be19b2fb6fb546ac83086fa6a241595e",
+                "word": "fascinating",
+                "pos": "adjective",
+                "vi": "lôi cuốn",
+                "phonetic": "/'fæsə,neɪtɪŋ/",
+                "example": {
+                    "en": "very interesting : extremely interesting",
+                    "vi": "rất thú vị: cực kỳ thú vị"
+                },
+                "definition": {
+                    "en": "The book offers a fascinating glimpse of the lives of the rich and famous",
+                    "vi": "Cuốn sách mang đến cái nhìn hấp dẫn về cuộc sống của những người giàu có và nổi tiếng"
+                }
+            },
+            {
+                "id": "93f5b045b0624be88795c3d4d6f5cc5f",
+                "word": "advice",
+                "pos": "noun",
+                "vi": "lời khuyên",
+                "phonetic": "/ədˈvɑɪs, æd-/",
+                "example": {
+                    "en": "an opinion that someone offers you about what you should do or how you should act in a particular situation",
+                    "vi": "ý kiến ​​mà ai đó cung cấp cho bạn về những gì bạn nên làm hoặc cách bạn nên hành động trong một tình huống cụ thể"
+                },
+                "definition": {
+                    "en": "I think I’ll take your advice and go home.",
+                    "vi": "Tôi nghĩ tôi sẽ nghe theo lời khuyên của bạn và về nhà."
+                }
+            },
+            {
+                "id": "a583df43b0174321b98be14fc6a1ecb2",
+                "word": "secure",
+                "pos": "verb",
+                "vi": "chắc chắn",
+                "phonetic": "/sɪˈkjʊr/",
+                "example": {
+                    "en": "to obtain something, sometimes with difficulty",
+                    "vi": "để có được thứ gì đó, đôi khi gặp khó khăn"
+                },
+                "definition": {
+                    "en": "She managed to secure a loan from the bank.",
+                    "vi": "Cô xoay sở để đảm bảo một khoản vay từ ngân hàng."
+                }
+            },
+            {
+                "id": "65f44c725c8341129994a677e2f4b74e",
+                "word": "pursue",
+                "pos": "verb",
+                "vi": "theo đuổi",
+                "phonetic": "/pərˈsu/",
+                "example": {
+                    "en": "to follow or search for someone or something, in order to catch or attack that person or thing",
+                    "vi": "để theo dõi hoặc tìm kiếm một ai đó hoặc một cái gì đó, để bắt hoặc tấn công người đó"
+                },
+                "definition": {
+                    "en": "The police pursued on foot, but lost him in the crowd.",
+                    "vi": "Cảnh sát đã đi bộ truy đuổi, nhưng mất anh ta trong đám đông."
+                }
+            },
+            {
+                "id": "f475e12f6eb848d4b4310e4281e68374",
+                "word": "dishwasher",
+                "pos": "noun",
+                "vi": "máy rửa bát",
+                "phonetic": "/ˈdɪʃˌwɑʃ·ər, -wɔ·ʃər/",
+                "example": {
+                    "en": "a machine for washing dishes",
+                    "vi": "máy rửa bát đĩa"
+                },
+                "definition": {
+                    "en": "This dishwasher even washes pots and pans .",
+                    "vi": "Máy rửa bát này thậm chí còn rửa được cả xoong nồi."
+                }
+            },
+            {
+                "id": "7bcce4f2647548409555226ef0b099ac",
+                "word": "ambition",
+                "pos": "noun",
+                "vi": "tham vọng",
+                "phonetic": "/æmˈbɪʃ·ən/",
+                "example": {
+                    "en": "a strong desire for success, achievement, power, or wealth",
+                    "vi": "một mong muốn mạnh mẽ về thành công, thành tựu, quyền lực hoặc sự giàu có"
+                },
+                "definition": {
+                    "en": "His presidential ambitions were frustrated in the 1980s.",
+                    "vi": "Tham vọng tổng thống của ông đã bị thất bại trong những năm 1980."
+                }
+            },
+            {
+                "id": "256c5331f1cd4626b16b996da8fa5a02",
+                "word": "downside",
+                "pos": "noun",
+                "vi": "nhược điểm",
+                "phonetic": "/ˈdɑʊnˌsɑɪd/",
+                "example": {
+                    "en": "the negative part of a situation",
+                    "vi": "phần tiêu cực của một tình huống"
+                },
+                "definition": {
+                    "en": "It’s a great plan – the downside is that it’s going to cost a lot of money.",
+                    "vi": "Đó là một kế hoạch tuyệt vời - nhược điểm là nó sẽ tốn rất nhiều tiền."
+                }
+            },
+            {
+                "id": "604249c0574a42959d0fc110ebb702c6",
+                "word": "career adviser",
+                "pos": "noun",
+                "vi": "cố vấn nghề nghiệp",
+                "phonetic": "kəˈrɪər ədˈvaɪ.zɚ",
+                "example": {
+                    "en": "give information about opportunities, as well as helping with competencies and help with CVs and application forms",
+                    "vi": "cung cấp thông tin về các cơ hội, cũng như trợ giúp về năng lực và trợ giúp về CV và đơn đăng ký"
+                },
+                "definition": {
+                    "en": "What makes a good career adviser?",
+                    "vi": "Điều gì tạo nên một cố vấn nghề nghiệp tốt?"
+                }
+            },
+            {
+                "id": "63423245302c4898853994d00ac31bc0",
+                "word": "drop in on",
+                "pos": "verb",
+                "vi": "thả vào",
+                "phonetic": "drɑp ɪn ɔn, ɑn",
+                "example": {
+                    "en": "to come for a visit, esp. without having received an invitation for a specific time",
+                    "vi": "đến thăm, đặc biệt. mà không nhận được lời mời trong một thời gian cụ thể"
+                },
+                "definition": {
+                    "en": "Drop in on whenever you’re in the neighborhood.",
+                    "vi": "Ghé vào bất cứ khi nào bạn ở trong khu vực lân cận."
+                }
+            },
+            {
+                "id": "dbc39c40146e4b42b5d95557404c72e5",
+                "word": "get on with",
+                "pos": "verb",
+                "vi": "thân với",
+                "phonetic": "ɡet ɔn, ɑn wɪθ, wɪð",
+                "example": {
+                    "en": "have a harmonious or friendly relationship",
+                    "vi": "có một mối quan hệ hài hòa hoặc thân thiện"
+                },
+                "definition": {
+                    "en": "I always get on with my mother",
+                    "vi": "Tôi luôn hòa thuận với mẹ tôi"
+                }
+            },
+            {
+                "id": "a6e08d1a9cfd4b6db711a26742434b01",
+                "word": "shadow",
+                "pos": "verb",
+                "vi": "bóng",
+                "phonetic": "ˈʃæd·oʊ",
+                "example": {
+                    "en": "to follow someone else while they are at work in order to learn about that person's job",
+                    "vi": "theo dõi người khác khi họ đang làm việc để tìm hiểu về công việc của người đó"
+                },
+                "definition": {
+                    "en": "Your first week in the job will be spent shadowing one of our more experienced employees.",
+                    "vi": "Tuần đầu tiên của bạn trong công việc sẽ được dành cho một trong những nhân viên giàu kinh nghiệm hơn của chúng tôi."
+                }
+            }
+        ]
+    },
+    {
+        "id": "4c29a6dd7673488c901d00edd07021f0",
+        "name": "Unit 10 - Life Long Learning",
+        "words": [
+            {
+                "id": "cbdb48cd2bd14d4c87f1fe2fa90d255d",
+                "word": "pursuit",
+                "pos": "noun",
+                "vi": "theo đuổi",
+                "phonetic": "/pərˈsut/",
+                "example": {
+                    "en": "the act of trying to achieve a plan, activity, or situation, usually over a long period of time",
+                    "vi": "hành động cố gắng đạt được một kế hoạch, hoạt động hoặc tình huống, thường là trong một khoảng thời gian dài"
+                },
+                "definition": {
+                    "en": "The Declaration of Independence states that life, liberty, and the pursuit of happiness are basic human rights.",
+                    "vi": "Tuyên ngôn Độc lập nêu rõ cuộc sống, quyền tự do và quyền mưu cầu hạnh phúc là những quyền cơ bản của con người."
+                }
+            },
+            {
+                "id": "4a55c4f1e9e74e78b1f92f191dd7e6ce",
+                "word": "voluntarily",
+                "pos": "adverb",
+                "vi": "tự nguyện",
+                "phonetic": "/ˌvɑlənˈtɛrəli/",
+                "example": {
+                    "en": "willingly; without being forced",
+                    "vi": "sẵn lòng; không bị ép buộc"
+                },
+                "definition": {
+                    "en": "he voluntarily submitted to the fingerprinting",
+                    "vi": "anh ấy tự nguyện nộp hồ sơ lấy dấu vân tay"
+                }
+            },
+            {
+                "id": "08b19a68c3c947e3a1d18b90d412423e",
+                "word": "flexitime",
+                "pos": "noun",
+                "vi": "uốn dẻo",
+                "phonetic": "/ˈfleksitaɪm/",
+                "example": {
+                    "en": "a system of working in which people work a particular number of hours within a fixed period of time, but can change the time they start or finish work",
+                    "vi": "một hệ thống làm việc trong đó mọi người làm việc trong một số giờ cụ thể trong một khoảng thời gian cố định, nhưng có thể thay đổi thời gian họ bắt đầu hoặc kết thúc công việc"
+                },
+                "definition": {
+                    "en": "25% of the employees work flexitime",
+                    "vi": "25% nhân viên làm việc linh hoạt"
+                }
+            },
+            {
+                "id": "9ebd9c3a64a241a69c56fca09cd4906f",
+                "word": "adequate",
+                "pos": "adjective",
+                "vi": "đủ",
+                "phonetic": "/ˈædəkwət/",
+                "example": {
+                    "en": "enough or satisfactory for a particular purpose",
+                    "vi": "đủ hoặc thỏa mãn cho một mục đích cụ thể"
+                },
+                "definition": {
+                    "en": "He didn’t have adequate time to prepare for the exam.",
+                    "vi": "Anh ấy không có đủ thời gian để chuẩn bị cho kỳ thi."
+                }
+            },
+            {
+                "id": "d7a44834101b4bc5b686d7d99cc881f1",
+                "word": "facilitate",
+                "pos": "verb",
+                "vi": "tạo điều kiện",
+                "phonetic": "/fəˈsɪləˌteɪt/",
+                "example": {
+                    "en": "to make easier",
+                    "vi": "để làm cho dễ dàng hơn"
+                },
+                "definition": {
+                    "en": "You could facilitate the process by sharing your knowledge",
+                    "vi": "Bạn có thể tạo điều kiện thuận lợi cho quá trình này bằng cách chia sẻ kiến ​​thức của mình"
+                }
+            },
+            {
+                "id": "9922b6dc9a6e4416b49012620ed3b4d9",
+                "word": "genius",
+                "pos": "noun",
+                "vi": "Thiên tài",
+                "phonetic": "/ˈdʒiniəs/",
+                "example": {
+                    "en": "someone who is much more intelligent or skilful than other people",
+                    "vi": "một người thông minh hoặc khéo léo hơn nhiều so với những người khác"
+                },
+                "definition": {
+                    "en": "He has a genius for interior decorating",
+                    "vi": "Anh ấy có thiên tài về trang trí nội thất"
+                }
+            },
+            {
+                "id": "b40c3ae2821b4a3ea4c60459de6f4e48",
+                "word": "initiative",
+                "pos": "noun",
+                "vi": "sáng kiến",
+                "phonetic": "/ɪˈnɪʃ.ə.t̬ɪv/",
+                "example": {
+                    "en": "the ability to decide in an independent way what to do and when to do it",
+                    "vi": "khả năng quyết định một cách độc lập những gì cần làm và khi nào làm điều đó"
+                },
+                "definition": {
+                    "en": "Employees are encouraged to use their initiative if faced with a problem.",
+                    "vi": "Nhân viên được khuyến khích sử dụng sáng kiến ​​của họ nếu đối mặt với một vấn đề."
+                }
+            },
+            {
+                "id": "16ba8d41ed1d4ed381da8b645de759e7",
+                "word": "institution",
+                "pos": "noun",
+                "vi": "Tổ chức",
+                "phonetic": "/ˌɪnstəˈtuʃn/",
+                "example": {
+                    "en": "a large important organization that has a particular purpose",
+                    "vi": "một tổ chức quan trọng lớn có một mục đích cụ thể"
+                },
+                "definition": {
+                    "en": "Harvard University is an internationally respected institution.",
+                    "vi": "Đại học Harvard là một tổ chức quốc tế có uy tín."
+                }
+            },
+            {
+                "id": "ad2ccb7d8ee24883a2ecaafdcb32a0c6",
+                "word": "lifelong",
+                "pos": "adjective",
+                "vi": "suốt đời",
+                "phonetic": "/ˈlaɪflɔŋ/",
+                "example": {
+                    "en": "lasting for the whole of a person's life",
+                    "vi": "kéo dài trong suốt cuộc đời của một con người"
+                },
+                "definition": {
+                    "en": "He’s had a lifelong interest in science.",
+                    "vi": "Anh ấy đã quan tâm suốt đời đến khoa học."
+                }
+            },
+            {
+                "id": "017a124bd0994d048ba4bea01f0d7124",
+                "word": "opportunity",
+                "pos": "noun",
+                "vi": "cơ hội",
+                "phonetic": "/ˌɑp·ərˈtu·nɪ·t̬i/",
+                "example": {
+                    "en": "the possibility of doing something",
+                    "vi": "khả năng làm điều gì đó"
+                },
+                "definition": {
+                    "en": "The holiday gave us the opportunity to visit Washington",
+                    "vi": "Kỳ nghỉ đã cho chúng tôi cơ hội đến thăm Washington"
+                }
+            },
+            {
+                "id": "f2fbf91ddb5b4148b36f23003ee053d2",
+                "word": "overwhelming",
+                "pos": "adjective",
+                "vi": "choáng ngợp",
+                "phonetic": "/ˌoʊvərˈwelmɪŋ/",
+                "example": {
+                    "en": "very great or very strong; so powerful that you cannot resist it or decide how to react",
+                    "vi": "rất lớn hoặc rất mạnh; mạnh mẽ đến mức bạn không thể chống lại nó hoặc quyết định cách phản ứng"
+                },
+                "definition": {
+                    "en": "An overwhelming majority voted in favor of the proposal.",
+                    "vi": "Đa số đã bỏ phiếu ủng hộ đề xuất này."
+                }
+            },
+            {
+                "id": "bbe8480a9e2e40cca5f2b8c0e8eb95f4",
+                "word": "interaction",
+                "pos": "noun",
+                "vi": "sự tương tác",
+                "phonetic": "/ˌɪn.t̬ɚˈræk.ʃən/",
+                "example": {
+                    "en": "an occasion when two or more people or things communicate with or react to each other",
+                    "vi": "một dịp khi hai hoặc nhiều người hoặc nhiều thứ giao tiếp hoặc phản ứng với nhau"
+                },
+                "definition": {
+                    "en": "There's not enough interaction between the management and the workers.",
+                    "vi": "Không có đủ sự tương tác giữa quản lý và người lao động."
+                }
+            },
+            {
+                "id": "0ad2acacaa1d44618a15d24f16ab95e9",
+                "word": "ultimate",
+                "pos": "adjective",
+                "vi": "tối hậu",
+                "phonetic": "/ˈʌl·tə·mət/",
+                "example": {
+                    "en": "most important, highest, last, or final",
+                    "vi": "quan trọng nhất, cao nhất, cuối cùng hoặc cuối cùng"
+                },
+                "definition": {
+                    "en": "Your ultimate goal is to play the game as well as you can.",
+                    "vi": "Mục tiêu cuối cùng của bạn là chơi trò chơi tốt nhất có thể."
+                }
+            },
+            {
+                "id": "758c32d8ae934f89aafdbc0f7d7caf63",
+                "word": "hospitality",
+                "pos": "noun",
+                "vi": "lòng hiếu khách",
+                "phonetic": "/ˌhɑs·pəˈtæl·ɪ·t̬i/",
+                "example": {
+                    "en": "kindness and friendly behavior, esp. to guests",
+                    "vi": "lòng tốt và hành vi thân thiện, đặc biệt. cho khách"
+                },
+                "definition": {
+                    "en": "Thank you for your hospitality.",
+                    "vi": "Cám ơn lòng hiếu khách của bạn."
+                }
+            },
+            {
+                "id": "98d7e04c26924c8281cbc252e5b0a23a",
+                "word": "employable",
+                "pos": "adjective",
+                "vi": "có thể tuyển dụng",
+                "phonetic": "/ɪmˈplɔɪ.ə.bəl/",
+                "example": {
+                    "en": "having enough skills and abilities for someone to employ you",
+                    "vi": "có đủ kỹ năng và khả năng để ai đó tuyển dụng bạn"
+                },
+                "definition": {
+                    "en": "Computer skills make you far more employable.",
+                    "vi": "Kỹ năng máy tính làm cho bạn có nhiều công việc hơn."
+                }
+            },
+            {
+                "id": "35ca3988336f4e5cb7e46ea6958f6c5d",
+                "word": "self-directed",
+                "pos": "adjective",
+                "vi": "tự định hướng",
+                "phonetic": "/sef-dəˈrektɪd/",
+                "example": {
+                    "en": "making your own decisions and organizing your own work rather than being told what to do by managers, teachers, etc.",
+                    "vi": "tự quyết định và tự tổ chức công việc thay vì bị người quản lý, giáo viên, v.v. chỉ dẫn phải làm gì."
+                },
+                "definition": {
+                    "en": "Structured opportunities help students become more self-directed.",
+                    "vi": "Cơ hội có cấu trúc giúp học sinh tự định hướng hơn."
+                }
+            },
+            {
+                "id": "f3a4e8b0f5404a5aa5d4467bc9db5e96",
+                "word": "self-motivated",
+                "pos": "adjective",
+                "vi": "có động lực cá nhân",
+                "phonetic": "/ˌself ˈməʊtɪveɪtɪd/",
+                "example": {
+                    "en": "able and willing to work without being told what to do",
+                    "vi": "có thể và sẵn sàng làm việc mà không bị chỉ bảo phải làm gì"
+                },
+                "definition": {
+                    "en": "The successful candidate should be self-motivated.",
+                    "vi": "Các ứng viên thành công nên tự động viên bản thân."
+                }
+            },
+            {
+                "id": "ce9f1739f9b649258d62f800f821b2b5",
+                "word": "temptation",
+                "pos": "noun",
+                "vi": "sự cám dỗ",
+                "phonetic": "/tempˈteɪʃn/",
+                "example": {
+                    "en": "the desire to have or do something, esp. something wrong, or something that causes this desire",
+                    "vi": "mong muốn có hoặc làm điều gì đó, đặc biệt. điều gì đó sai hoặc điều gì đó gây ra mong muốn này"
+                },
+                "definition": {
+                    "en": "Ice cream is always a real temptation for me",
+                    "vi": "Kem luôn là một cám dỗ thực sự đối với tôi"
+                }
+            },
+            {
+                "id": "c16fba6de3e34748a9578da204e38f67",
+                "word": "e-learning",
+                "pos": "noun",
+                "vi": "học điện tử",
+                "phonetic": "/ˈiːˌlɜː.nɪŋ/",
+                "example": {
+                    "en": "learning done by studying at home using computers and courses provided on the internet",
+                    "vi": "học được thực hiện bằng cách tự học ở nhà sử dụng máy tính và các khóa học được cung cấp trên internet"
+                },
+                "definition": {
+                    "en": "E-learning is becoming an increasingly popular training option as technology developments have rendered it less costly",
+                    "vi": "Học trực tuyến đang trở thành một lựa chọn đào tạo ngày càng phổ biến vì sự phát triển của công nghệ đã giúp nó ít tốn kém hơn"
+                }
+            }
+        ]
+    }
+]

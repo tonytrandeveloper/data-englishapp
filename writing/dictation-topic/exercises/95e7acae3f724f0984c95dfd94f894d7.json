@@ -1,0 +1,122 @@
+{
+    "id": "95e7acae3f724f0984c95dfd94f894d7",
+    "title": "To Buy a Bus Ticket",
+    "questions": [
+        {
+            "id": "ac378ab5094146fba986b67ee728c2d3",
+            "text": "Excuse me...",
+            "items": [
+                "Excuse",
+                "me..."
+            ]
+        },
+        {
+            "id": "a6c1430f4a9a431a8e6081268ff8024b",
+            "text": "Yes. Can I help you?",
+            "items": [
+                "Yes.",
+                "Can",
+                "I",
+                "help",
+                "you?"
+            ]
+        },
+        {
+            "id": "775ae0162ac24fa9ac04192d4b2aa4a2",
+            "text": "Yes, I'd like some information about buses please.",
+            "items": [
+                "Yes,",
+                "I'd",
+                "like",
+                "some",
+                "information",
+                "about",
+                "buses",
+                "please."
+            ]
+        },
+        {
+            "id": "62502853f512473aa68137bc7b1449b4",
+            "text": "Where to?",
+            "items": [
+                "Where",
+                "to?"
+            ]
+        },
+        {
+            "id": "27195fcdb3bb48bb94078d6148f3178f",
+            "text": "...to Toronto.",
+            "items": [
+                "...to",
+                "Toronto."
+            ]
+        },
+        {
+            "id": "c55930416f084b5694422e942d266340",
+            "text": "When?",
+            "items": [
+                "When?"
+            ]
+        },
+        {
+            "id": "0b9f2b544a6f4b328756bc1c5353efc9",
+            "text": "This Saturday.",
+            "items": [
+                "This",
+                "Saturday."
+            ]
+        },
+        {
+            "id": "ebac2c12233646f8a33feb9676eb28f4",
+            "text": "Morning or afternoon?",
+            "items": [
+                "Morning",
+                "or",
+                "afternoon?"
+            ]
+        },
+        {
+            "id": "02344b3886b248e2a4c7aadd54a95b87",
+            "text": "In the afternoon. About three o'clock.",
+            "items": [
+                "In",
+                "the",
+                "afternoon.",
+                "About",
+                [
+                    "three",
+                    "3"
+                ],
+                "o'clock."
+            ]
+        },
+        {
+            "id": "73ad237e667045fdbc79ff3c0c2e4cf6",
+            "text": "There's one at 3:20.",
+            "items": [
+                "There's",
+                [
+                    "one",
+                    "i,",
+                    "1"
+                ],
+                "at",
+                "3:20."
+            ]
+        },
+        {
+            "id": "2e7a03fdfa3c4049a63faa4be7ba79e6",
+            "text": "Thank you! That sounds perfect; I'll take it!",
+            "items": [
+                "Thank",
+                "you!",
+                "That",
+                "sounds",
+                "perfect;",
+                "I'll",
+                "take",
+                "it!"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,978 @@
+[
+    {
+        "id": "2cdf6a48793745dab1127010734e2ba9",
+        "word": "person of interest",
+        "pos": "idiom",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpɜːsn/",
+            "us": "/ˈpɜːrsn/"
+        },
+        "nearby": [
+            {
+                "word": "persistent vegetative state",
+                "pos": "noun"
+            },
+            {
+                "word": "persnickety",
+                "pos": "adjective"
+            },
+            {
+                "word": "person",
+                "pos": "noun"
+            },
+            {
+                "word": "persona",
+                "pos": "noun"
+            },
+            {
+                "word": "personable",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a human as an individual",
+                    "vi": "một con người với tư cách là một cá nhân"
+                },
+                "examples": [
+                    {
+                        "en": "What sort of person would do a thing like that?",
+                        "vi": "Loại người nào sẽ làm một điều như vậy?"
+                    },
+                    {
+                        "en": "He's a fascinating person.",
+                        "vi": "Anh ấy là một người hấp dẫn."
+                    },
+                    {
+                        "en": "as a person What is she like as a person?",
+                        "vi": "với tư cách là người Cô ấy là người như thế nào?"
+                    },
+                    {
+                        "en": "He's just the person we need for the job.",
+                        "vi": "Anh ấy chỉ là người mà chúng tôi cần cho công việc."
+                    },
+                    {
+                        "en": "She's the only person I can talk to about my problems.",
+                        "vi": "Cô ấy là người duy nhất tôi có thể nói chuyện về những vấn đề của mình."
+                    },
+                    {
+                        "en": "Gary was the last person I expected to see when I answered the doorbell.",
+                        "vi": "Gary là người cuối cùng tôi muốn gặp khi tôi trả lời chuông cửa."
+                    },
+                    {
+                        "en": "I had a letter from the people who used to live next door.",
+                        "vi": "Tôi có một lá thư từ những người từng sống cạnh nhà."
+                    },
+                    {
+                        "en": "I'm not really a city person (= I don't really like cities).",
+                        "vi": "Tôi không thực sự là người thành phố (= Tôi không thực sự thích thành phố)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a human, especially one who is not identified",
+                    "vi": "một con người, đặc biệt là một người không được xác định"
+                },
+                "examples": [
+                    {
+                        "en": "A certain person (= somebody that I do not wish to name) told me about it.",
+                        "vi": "Một người nào đó (= ai đó mà tôi không muốn nêu tên) đã nói với tôi về điều đó."
+                    },
+                    {
+                        "en": "The price is $40 per person.",
+                        "vi": "Giá là $ 40 một người."
+                    },
+                    {
+                        "en": "This vehicle is licensed to carry 4 persons. (= in a notice)",
+                        "vi": "Xe này được phép chở 4 người. (= trong một thông báo)"
+                    },
+                    {
+                        "en": "(law) The verdict was murder by a person or persons unknown.",
+                        "vi": "(luật) Bản án là giết người bởi một người hoặc những người không rõ danh tính."
+                    },
+                    {
+                        "en": "The virus is spread from person to person.",
+                        "vi": "Vi rút lây lan từ người này sang người khác."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person working in the area of business mentioned; a person connected with the thing mentioned",
+                    "vi": "một người làm việc trong lĩnh vực kinh doanh được đề cập; một người kết nối với điều được đề cập"
+                },
+                "examples": [
+                    {
+                        "en": "a salesperson",
+                        "vi": "một nhân viên bán hàng"
+                    },
+                    {
+                        "en": "a spokesperson",
+                        "vi": "người phát ngôn"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "any of the three classes of personal pronouns. The first person (I/we) refers to the person(s) speaking; the second person (you) refers to the person(s) spoken to; the third person (he/she/it/they) refers to the person(s) or thing(s) spoken about.",
+                    "vi": "bất kỳ trong ba loại đại từ nhân xưng. Ngôi thứ nhất (tôi / chúng tôi) dùng để chỉ (những) người đang nói; ngôi thứ hai (bạn) đề cập đến (những) người được nói chuyện với; ngôi thứ ba (anh ấy / cô ấy / nó / họ) đề cập đến (những) người hoặc (những) điều được nói đến."
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "if you have or carry something about/on your person, you carry it about with you, for example in your pocket",
+                    "vi": "nếu bạn có hoặc mang theo một thứ gì đó trên người, bạn sẽ mang nó theo bên mình, ví dụ như trong túi của bạn"
+                },
+                "examples": [
+                    {
+                        "en": "Relatives of the dead man were traced through an address found on his person.",
+                        "vi": "Người thân của người đàn ông đã chết được truy tìm thông qua một địa chỉ được tìm thấy trên người của anh ta."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to treat everyone in the same way, without being influenced by their importance, wealth, etc.",
+                    "vi": "đối xử với mọi người theo cách giống nhau, không bị ảnh hưởng bởi tầm quan trọng, sự giàu có của họ, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "Death is no respecter of persons.",
+                        "vi": "Cái chết không tôn trọng con người."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if you do something in person, you go somewhere and do it yourself, instead of doing it by letter, asking somebody else to do it, etc.",
+                    "vi": "nếu bạn trực tiếp làm điều gì đó, bạn đi đến một nơi nào đó và tự làm, thay vì làm bằng thư, nhờ người khác làm, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "He had to pick up his welfare cheque in person.",
+                        "vi": "Anh ta phải đích thân đến nhận séc phúc lợi của mình."
+                    },
+                    {
+                        "en": "She appeared in person to collect her prize.",
+                        "vi": "Cô ấy đã đích thân xuất hiện để nhận giải thưởng của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "in the form or shape of somebody",
+                    "vi": "trong hình thức hoặc hình dạng của ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "Help arrived in the person of his mother.",
+                        "vi": "Sự giúp đỡ đã đến với người của mẹ anh ấy."
+                    },
+                    {
+                        "en": "The firm has an important asset in the person of the sales director.",
+                        "vi": "Công ty có một tài sản quan trọng là người của giám đốc bán hàng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who is believed to be involved in a crime, but who has not been arrested",
+                    "vi": "một người được cho là có liên quan đến tội phạm, nhưng chưa bị bắt"
+                },
+                "examples": [
+                    {
+                        "en": "Police have said they do have a person of interest in the case.",
+                        "vi": "Cảnh sát cho biết họ có một người quan tâm trong vụ án."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "090d5c271da240d9b0b16be59fb8c1aa",
+        "word": "photofit",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈfəʊtəʊfɪt/",
+            "us": "/ˈfəʊtəʊfɪt/"
+        },
+        "nearby": [
+            {
+                "word": "photoelectric cell",
+                "pos": "noun"
+            },
+            {
+                "word": "photo finish",
+                "pos": "noun"
+            },
+            {
+                "word": "photofit",
+                "pos": "noun"
+            },
+            {
+                "word": "photogenic",
+                "pos": "adjective"
+            },
+            {
+                "word": "photograph",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a picture of a person who is wanted by the police, made by putting together photographs of different features of faces from information that is given by somebody who has seen the person",
+                    "vi": "ảnh của một người đang bị cảnh sát truy nã, được thực hiện bằng cách ghép các bức ảnh có các đặc điểm khác nhau trên khuôn mặt từ thông tin được cung cấp bởi một người nào đó đã nhìn thấy người đó"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "4b5958705d9e4497a133fc255899ca89",
+        "word": "polygraph",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpɒliɡrɑːf/",
+            "us": "/ˈpɑːliɡræf/"
+        },
+        "nearby": [
+            {
+                "word": "polygon",
+                "pos": "noun"
+            },
+            {
+                "word": "polygonal",
+                "pos": "adjective"
+            },
+            {
+                "word": "polygraph",
+                "pos": "noun"
+            },
+            {
+                "word": "polyhedral",
+                "pos": "adjective"
+            },
+            {
+                "word": "polyhedron",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a lie detector (= a piece of equipment that is used, for example by the police, to find out if somebody is telling the truth)",
+                    "vi": "máy phát hiện nói dối (= một thiết bị được sử dụng, chẳng hạn bởi cảnh sát, để tìm xem ai đó đang nói sự thật)"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "df3487dafb464faa9f573cf4f4049846",
+        "word": "post-mortem",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌpəʊst ˈmɔːtəm/",
+            "us": "/ˌpəʊst ˈmɔːrtəm/"
+        },
+        "nearby": [
+            {
+                "word": "postmodernist",
+                "pos": "noun"
+            },
+            {
+                "word": "postmodifier",
+                "pos": "noun"
+            },
+            {
+                "word": "post-mortem",
+                "pos": "noun"
+            },
+            {
+                "word": "postnatal",
+                "pos": "adjective"
+            },
+            {
+                "word": "postnatal depression",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a medical examination of the body of a dead person in order to find out how they died",
+                    "vi": "kiểm tra y tế cơ thể của một người chết để tìm hiểu xem họ đã chết như thế nào"
+                },
+                "examples": [
+                    {
+                        "en": "to do/conduct/carry out a post-mortem",
+                        "vi": "làm / tiến hành / thực hiện khám nghiệm tử thi"
+                    },
+                    {
+                        "en": "post-mortem on somebody The post-mortem on the child revealed that she had been poisoned.",
+                        "vi": "Khám nghiệm tử thi đối với một người nào đó Việc khám nghiệm tử thi đối với đứa trẻ cho thấy rằng cô đã bị đầu độc."
+                    },
+                    {
+                        "en": "They’re doing a post-mortem on her today.",
+                        "vi": "Hôm nay họ đang khám nghiệm tử thi cô ấy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a discussion or an examination of an event after it has happened, especially in order to find out why it failed",
+                    "vi": "một cuộc thảo luận hoặc kiểm tra một sự kiện sau khi nó đã xảy ra, đặc biệt là để tìm ra lý do tại sao nó không thành công"
+                },
+                "examples": [
+                    {
+                        "en": "to hold a post-mortem on the party’s election defeat",
+                        "vi": "tổ chức khám nghiệm tử thi về thất bại trong cuộc bầu cử của đảng"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e2e479a35c724ff8870c00d2f57678d3",
+        "word": "scene-of-crime",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌsiːn əv ˈkraɪm/",
+            "us": "/ˌsiːn əv ˈkraɪm/"
+        },
+        "nearby": [
+            {
+                "word": "scenario",
+                "pos": "noun"
+            },
+            {
+                "word": "scene",
+                "pos": "noun"
+            },
+            {
+                "word": "scene-of-crime",
+                "pos": "adjective"
+            },
+            {
+                "word": "scenery",
+                "pos": "noun"
+            },
+            {
+                "word": "scene-shifter",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "relating to the part of the police service that examines the physical evidence of a crime that is present in the place where the crime was committed",
+                    "vi": "liên quan đến một phần của dịch vụ cảnh sát kiểm tra bằng chứng vật chất của tội phạm có mặt tại nơi tội phạm được thực hiện"
+                },
+                "examples": [
+                    {
+                        "en": "a scene-of-crime officer",
+                        "vi": "một cảnh sát phạm tội"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "721510cda1b64a548ba5fc66d29b3ea3",
+        "word": "Scotland Yard",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌskɒtlənd ˈjɑːd/",
+            "us": "/ˌskɑːtlənd ˈjɑːrd/"
+        },
+        "nearby": [
+            {
+                "word": "Scotland's Great Trails",
+                "pos": ""
+            },
+            {
+                "word": "Scotland the Brave",
+                "pos": ""
+            },
+            {
+                "word": "Scotland Yard",
+                "pos": "noun"
+            },
+            {
+                "word": "Scots, wha hae",
+                "pos": ""
+            },
+            {
+                "word": "Scots",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the main office of the London police, especially the department that deals with serious crimes in London",
+                    "vi": "văn phòng chính của cảnh sát Luân Đôn, đặc biệt là cục chuyên xử lý tội phạm nghiêm trọng ở Luân Đôn"
+                },
+                "examples": [
+                    {
+                        "en": "Scotland Yard has/have been called in.",
+                        "vi": "Scotland Yard đã / đã được gọi vào."
+                    },
+                    {
+                        "en": "Scotland Yard’s Counter Terrorism Command",
+                        "vi": "Bộ chỉ huy chống khủng bố của Scotland Yard"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4406f2ee19cc48bd9c128ee4a59bfe47",
+        "word": "Special Branch",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈspeʃl brɑːntʃ/",
+            "us": "/ˈspeʃl bræntʃ/"
+        },
+        "nearby": [
+            {
+                "word": "special",
+                "pos": "noun"
+            },
+            {
+                "word": "special agent",
+                "pos": "noun"
+            },
+            {
+                "word": "Special Branch",
+                "pos": "noun"
+            },
+            {
+                "word": "special constable",
+                "pos": "noun"
+            },
+            {
+                "word": "special delivery",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the department of the British police force that deals with the defence of the country against political crimes and terrorism",
+                    "vi": "Bộ phận của lực lượng cảnh sát Anh có nhiệm vụ bảo vệ đất nước chống lại tội phạm chính trị và khủng bố"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "2ac111e9cfab4e5c871c9c22faf16de1",
+        "word": "stake-out",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈsteɪk aʊt/",
+            "us": "/ˈsteɪk aʊt/"
+        },
+        "nearby": [
+            {
+                "word": "stakeholder pension",
+                "pos": "noun"
+            },
+            {
+                "word": "stake out",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "stake-out",
+                "pos": "noun"
+            },
+            {
+                "word": "stalactite",
+                "pos": "noun"
+            },
+            {
+                "word": "stalagmite",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a situation in which police watch a building secretly to find evidence of illegal activities",
+                    "vi": "tình huống trong đó cảnh sát bí mật theo dõi một tòa nhà để tìm bằng chứng về các hoạt động bất hợp pháp"
+                },
+                "examples": [
+                    {
+                        "en": "an armed stake-out of the building",
+                        "vi": "một cổ phần có vũ trang của tòa nhà"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0ee04e461aee437e8b3ce475411d3d2f",
+        "word": "stake out",
+        "pos": "phrasal verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "",
+            "us": ""
+        },
+        "nearby": [
+            {
+                "word": "stakeholder",
+                "pos": "noun"
+            },
+            {
+                "word": "stakeholder pension",
+                "pos": "noun"
+            },
+            {
+                "word": "stake out",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "stake-out",
+                "pos": "noun"
+            },
+            {
+                "word": "stalactite",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to clearly mark the limits of something that you claim is yours",
+                    "vi": "để đánh dấu rõ ràng các giới hạn của thứ mà bạn khẳng định là của bạn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to state your opinion, position, etc. on something very clearly",
+                    "vi": "để nêu ý kiến, vị trí của bạn, v.v. về một điều gì đó thật rõ ràng"
+                },
+                "examples": [
+                    {
+                        "en": "The president staked out his position on the issue.",
+                        "vi": "Tổng thống nêu rõ quan điểm của mình về vấn đề này."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to watch a place secretly, especially for signs of illegal activity",
+                    "vi": "để theo dõi một địa điểm một cách bí mật, đặc biệt là đối với các dấu hiệu của hoạt động bất hợp pháp"
+                },
+                "examples": [
+                    {
+                        "en": "Detectives had been staking out the house for several weeks.",
+                        "vi": "Các thám tử đã theo dõi ngôi nhà trong vài tuần."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e4d5916a7dee48388fdfc8f9ea45167b",
+        "word": "strip search",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈstrɪp sɜːtʃ/",
+            "us": "/ˈstrɪp sɜːrtʃ/"
+        },
+        "nearby": [
+            {
+                "word": "stripper",
+                "pos": "noun"
+            },
+            {
+                "word": "strippergram",
+                "pos": "noun"
+            },
+            {
+                "word": "strip search",
+                "pos": "noun"
+            },
+            {
+                "word": "strip-search",
+                "pos": "verb"
+            },
+            {
+                "word": "striptease",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an act of searching a person for illegal drugs, weapons, etc., for example at an airport or in a prison, after they have been made to take off all their clothes",
+                    "vi": "Một hành động khám xét một người để tìm ma túy, vũ khí bất hợp pháp, v.v., chẳng hạn như tại sân bay hoặc trong nhà tù, sau khi họ đã được thực hiện để cởi bỏ tất cả quần áo của họ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "133afa4f8e2b46c18c2e9c70152778a4",
+        "word": "strip-search",
+        "pos": "verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈstrɪp sɜːtʃ/",
+            "us": "/ˈstrɪp sɜːrtʃ/"
+        },
+        "nearby": [
+            {
+                "word": "strippergram",
+                "pos": "noun"
+            },
+            {
+                "word": "strip search",
+                "pos": "noun"
+            },
+            {
+                "word": "strip-search",
+                "pos": "verb"
+            },
+            {
+                "word": "striptease",
+                "pos": "noun"
+            },
+            {
+                "word": "stripy",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to search a person for illegal drugs, weapons, etc, for example at an airport or in a prison, after they have been made to take off all their clothes",
+                    "vi": "để khám xét một người để tìm ma túy, vũ khí bất hợp pháp, v.v., chẳng hạn như tại sân bay hoặc trong nhà tù, sau khi họ đã được bắt hết quần áo."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "5843adb842d644cc99b16a8364a684f4",
+        "word": "tip-off",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtɪp ɒf/",
+            "us": "/ˈtɪp ɔːf/"
+        },
+        "nearby": [
+            {
+                "word": "tip-in",
+                "pos": "noun"
+            },
+            {
+                "word": "tip off",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "tip-off",
+                "pos": "noun"
+            },
+            {
+                "word": "tip over",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "tipper",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "secret information that somebody gives, for example to the police, to warn them about an illegal activity that is going to happen or has happened",
+                    "vi": "thông tin bí mật mà ai đó cung cấp, chẳng hạn như cho cảnh sát, để cảnh báo họ về một hoạt động bất hợp pháp sắp xảy ra hoặc đã xảy ra"
+                },
+                "examples": [
+                    {
+                        "en": "The man was arrested after an anonymous tip-off.",
+                        "vi": "Người đàn ông đã bị bắt sau một vụ lừa đảo giấu tên."
+                    },
+                    {
+                        "en": "Customs officers had received a tip-off about a shipment of cocaine.",
+                        "vi": "Các nhân viên hải quan đã nhận được tiền boa về một lô hàng cocaine."
+                    },
+                    {
+                        "en": "He was arrested after a tip-off to police.",
+                        "vi": "Anh ta bị bắt sau khi đầu thú với cảnh sát."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "cc280d73efd34f6fb637642d95fefcb6",
+        "word": "tip off",
+        "pos": "phrasal verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "",
+            "us": ""
+        },
+        "nearby": [
+            {
+                "word": "tip",
+                "pos": "verb"
+            },
+            {
+                "word": "tip-in",
+                "pos": "noun"
+            },
+            {
+                "word": "tip off",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "tip-off",
+                "pos": "noun"
+            },
+            {
+                "word": "tip over",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to warn somebody about something that is going to happen or has happened, especially something illegal",
+                    "vi": "để cảnh báo ai đó về điều gì đó sắp xảy ra hoặc đã xảy ra, đặc biệt là điều gì đó bất hợp pháp"
+                },
+                "examples": [
+                    {
+                        "en": "Three men were arrested after police were tipped off about the raid.",
+                        "vi": "Ba người đàn ông đã bị bắt sau khi cảnh sát tiết lộ thông tin về cuộc đột kích."
+                    },
+                    {
+                        "en": "An informant tipped me off as to where he was seen last.",
+                        "vi": "Một người cung cấp thông tin cho tôi biết nơi anh ta được nhìn thấy lần cuối."
+                    },
+                    {
+                        "en": "tip somebody off that… They were tipped off that he might be living in Wales.",
+                        "vi": "mách nước cho ai đó về điều đó… Họ cho rằng anh ta có thể đang sống ở Wales."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "706ae77bd09048118adfe1fc452cbdea",
+        "word": "tipster",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtɪpstə(r)/",
+            "us": "/ˈtɪpstər/"
+        },
+        "nearby": [
+            {
+                "word": "tipple",
+                "pos": "verb"
+            },
+            {
+                "word": "tippler",
+                "pos": "noun"
+            },
+            {
+                "word": "tipster",
+                "pos": "noun"
+            },
+            {
+                "word": "tipsy",
+                "pos": "adjective"
+            },
+            {
+                "word": "tiptoe",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who tells you, often in exchange for money, which horse is likely to win a race, so that you can bet on it and win money",
+                    "vi": "một người nói với bạn, thường đổi lấy tiền, con ngựa nào có khả năng thắng cuộc đua, để bạn có thể đặt cược vào nó và thắng tiền"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person who gives information to the police about a crime or criminal",
+                    "vi": "một người cung cấp thông tin cho cảnh sát về tội phạm hoặc tội phạm"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "d7536a14cb0541898a8387204ec4a2bf",
+        "word": "vigilante",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌvɪdʒɪˈlænti/",
+            "us": "/ˌvɪdʒɪˈlænti/"
+        },
+        "nearby": [
+            {
+                "word": "vigilance",
+                "pos": "noun"
+            },
+            {
+                "word": "vigilant",
+                "pos": "adjective"
+            },
+            {
+                "word": "vigilante",
+                "pos": "noun"
+            },
+            {
+                "word": "vigilantism",
+                "pos": "noun"
+            },
+            {
+                "word": "vigilantly",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a member of a group of people who try to prevent crime or punish criminals in their community, especially because they think the police are not doing this",
+                    "vi": "thành viên của một nhóm người cố gắng ngăn chặn tội phạm hoặc trừng phạt tội phạm trong cộng đồng của họ, đặc biệt là vì họ nghĩ rằng cảnh sát không làm điều này"
+                },
+                "examples": [
+                    {
+                        "en": "vigilantes patrolling the streets",
+                        "vi": "cảnh giác tuần tra trên đường phố"
+                    },
+                    {
+                        "en": "vigilante groups",
+                        "vi": "nhóm cảnh giác"
+                    },
+                    {
+                        "en": "The neighbours have formed a vigilante group to keep a watch on the car park.",
+                        "vi": "Những người hàng xóm đã thành lập một nhóm cảnh giác để canh chừng bãi đậu xe."
+                    },
+                    {
+                        "en": "Two vigilantes who took the law into their own hands were cleared yesterday of murder.",
+                        "vi": "Hai người cảnh giác đã nắm lấy luật pháp trong tay của họ đã được xóa tội giết người ngày hôm qua."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c2d192bfab3848bf96301b1c497cae11",
+        "word": "vigilantism",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌvɪdʒɪˈlæntɪzəm/",
+            "us": "/ˌvɪdʒɪˈlæntɪzəm/"
+        },
+        "nearby": [
+            {
+                "word": "vigilant",
+                "pos": "adjective"
+            },
+            {
+                "word": "vigilante",
+                "pos": "noun"
+            },
+            {
+                "word": "vigilantism",
+                "pos": "noun"
+            },
+            {
+                "word": "vigilantly",
+                "pos": "adverb"
+            },
+            {
+                "word": "vignette",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the activity of being a vigilante; the practice of having vigilantes in a place",
+                    "vi": "hoạt động của một người cảnh giác; thực hành có cảnh giác ở một nơi"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "3f77f2afb33f444381227848214c327b",
+        "word": "wanted",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈwɒntɪd/",
+            "us": "/ˈwɑːntɪd/"
+        },
+        "nearby": [
+            {
+                "word": "want",
+                "pos": "noun"
+            },
+            {
+                "word": "want ad",
+                "pos": "noun"
+            },
+            {
+                "word": "wanted",
+                "pos": "adjective"
+            },
+            {
+                "word": "want for",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "want from",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "being searched for by the police, in connection with a crime",
+                    "vi": "bị cảnh sát truy tìm vì liên quan đến tội phạm"
+                },
+                "examples": [
+                    {
+                        "en": "He is wanted by the police in connection with the deaths of two people.",
+                        "vi": "Anh ta bị cảnh sát truy nã liên quan đến cái chết của hai người."
+                    },
+                    {
+                        "en": "Italy’s most wanted man",
+                        "vi": "Người đàn ông được truy nã gắt gao nhất nước Ý"
+                    }
+                ]
+            }
+        ]
+    }
+]

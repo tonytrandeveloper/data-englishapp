@@ -1,0 +1,123 @@
+{
+    "id": "e718d447276f4d27b7db34dcadb3c2eb",
+    "title": "Sentence Verb Agreement",
+    "exercises": [
+        {
+            "id": "2415bb13499c4f82acf9eaea8f334d24",
+            "title": "Subject Verb Agreement",
+            "questions": [
+                {
+                    "question": "The council ………………….. chosen its chairman.",
+                    "description": " A collective noun takes a singular verb when the collection is thought of as a whole.",
+                    "answers": [
+                        "has",
+                        "have"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "The majority ……………… against the verdict.",
+                    "description": " A collective noun takes a singular verb when the collection is thought of as a whole.",
+                    "answers": [
+                        "is",
+                        "are"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "The wages of sin …………………… death.",
+                    "description": "Some verbs are plural in form, but singular in number. Wages is one of them.",
+                    "answers": [
+                        "is",
+                        "are"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Each of the sisters ……………………. pretty.",
+                    "description": "We use a singular verb after each.",
+                    "answers": [
+                        "is",
+                        "are"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Neither of the men ………………… able to solve the puzzle.",
+                    "description": "We use a singular verb after either and neither.",
+                    "answers": [
+                        "was",
+                        "were"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Justice as well as mercy …………… it.",
+                    "description": "When another noun is joined to a singular noun by as well as, the verb is singular in number.",
+                    "answers": [
+                        "permit",
+                        "permits"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "The quality of the mangoes …………….. not good.",
+                    "description": "Here we use a singular verb because the subject is the singular noun quality.",
+                    "answers": [
+                        "was",
+                        "were"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "John as well as his team mates ………………. praise.",
+                    "description": "When another noun is joined to a singular noun by as well as, the verb is singular in number.",
+                    "answers": [
+                        "deserve",
+                        "deserves"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "You, who ……………….. my friend, should stand by me.",
+                    "description": "The verb in the relative clause should agree with its antecedent in number and person.",
+                    "answers": [
+                        "am",
+                        "is",
+                        "are"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "Neither his father nor his mother ……………….. alive.",
+                    "description": "We use a singular verb after either and neither. ",
+                    "answers": [
+                        "is",
+                        "are"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "The jury ………………… divided in their opinion.",
+                    "description": "A collective noun usually takes a singular verb but when the reference is to the members of the group, it sometimes takes a plural verb. ",
+                    "answers": [
+                        "are",
+                        "is",
+                        "Either could be used here"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "I, who ……………….. your friend, will guard your interests.",
+                    "description": "The verb in the relative clause should agree with its antecedent in number and person.",
+                    "answers": [
+                        "am",
+                        "are",
+                        "is"
+                    ],
+                    "correct": 0
+                }
+            ]
+        }
+    ]
+}

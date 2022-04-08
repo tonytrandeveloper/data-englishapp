@@ -1,0 +1,5286 @@
+[
+    {
+        "id": "1749a2e48a90439b8349025cffe08db8",
+        "word": "pizza",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˈpiːtsə/",
+            "us": "/ˈpiːtsə/"
+        },
+        "nearby": [
+            {
+                "word": "pixelate",
+                "pos": "verb"
+            },
+            {
+                "word": "pixie",
+                "pos": "noun"
+            },
+            {
+                "word": "pizza",
+                "pos": "noun"
+            },
+            {
+                "word": "Pizza Hut",
+                "pos": ""
+            },
+            {
+                "word": "pizzazz",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an Italian dish consisting of a flat round bread base with cheese, tomatoes, vegetables, meat, etc. on top",
+                    "vi": "một món ăn Ý bao gồm một đế bánh mì tròn dẹt với pho mát, cà chua, rau, thịt, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "a ham and mushroom pizza",
+                        "vi": "bánh pizza thịt nguội và nấm"
+                    },
+                    {
+                        "en": "Is there any pizza left?",
+                        "vi": "Còn bánh pizza nào không?"
+                    },
+                    {
+                        "en": "What do you want on your pizza?",
+                        "vi": "Bạn muốn gì trên chiếc bánh pizza của mình?"
+                    },
+                    {
+                        "en": "a slice of cheese and tomato pizza",
+                        "vi": "một miếng bánh pizza phô mai và cà chua"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "bb2dc7dc20a6489d97495a6ec1472454",
+        "word": "salad",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˈsæləd/",
+            "us": "/ˈsæləd/"
+        },
+        "nearby": [
+            {
+                "word": "salacious",
+                "pos": "adjective"
+            },
+            {
+                "word": "salaciousness",
+                "pos": "noun"
+            },
+            {
+                "word": "salad",
+                "pos": "noun"
+            },
+            {
+                "word": "salad bar",
+                "pos": "noun"
+            },
+            {
+                "word": "salad cream",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a mixture of raw vegetables such as lettuce, tomato and cucumber, usually served with other food as part of a meal",
+                    "vi": "một hỗn hợp các loại rau sống như xà lách, cà chua và dưa chuột, thường được phục vụ với các thực phẩm khác như một phần của bữa ăn"
+                },
+                "examples": [
+                    {
+                        "en": "All main courses come with salad or vegetables.",
+                        "vi": "Tất cả các món chính đều đi kèm với salad hoặc rau."
+                    },
+                    {
+                        "en": "Is cold meat and salad OK for lunch?",
+                        "vi": "Thịt nguội và salad có ổn cho bữa trưa không?"
+                    },
+                    {
+                        "en": "a side salad (= a small bowl of salad served with the main course of a meal)",
+                        "vi": "một món salad phụ (= một bát salad nhỏ dùng với món chính của bữa ăn)"
+                    },
+                    {
+                        "en": "a salad bowl (= a large bowl for serving salad in)",
+                        "vi": "một bát salad (= một bát lớn để phục vụ salad)"
+                    },
+                    {
+                        "en": "a salad sandwich",
+                        "vi": "một chiếc bánh mì kẹp salad"
+                    },
+                    {
+                        "en": "Toss the salad with the dressing.",
+                        "vi": "Quăng salad với nước sốt."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "meat, fish, cheese, etc. served with salad",
+                    "vi": "thịt, cá, pho mát, vv ăn kèm với salad"
+                },
+                "examples": [
+                    {
+                        "en": "a chicken/tuna/seafood/egg salad",
+                        "vi": "salad gà / cá ngừ / hải sản / trứng"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "raw or cooked vegetables, etc. that are cut into small pieces, often mixed with mayonnaise and served cold with other food",
+                    "vi": "rau sống hoặc nấu chín, v.v. được cắt thành từng miếng nhỏ, thường trộn với sốt mayonnaise và dùng lạnh với thức ăn khác"
+                },
+                "examples": [
+                    {
+                        "en": "potato salad",
+                        "vi": "xà lách khoai tây"
+                    },
+                    {
+                        "en": "a pasta salad",
+                        "vi": "một món salad mì ống"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "any green vegetable, especially lettuce, that is eaten raw in a salad",
+                    "vi": "bất kỳ loại rau xanh nào, đặc biệt là rau diếp, được ăn sống trong món salad"
+                },
+                "examples": [
+                    {
+                        "en": "salad plants/leaves",
+                        "vi": "cây xà lách / lá"
+                    },
+                    {
+                        "en": "baby octopus served with salad greens",
+                        "vi": "bạch tuộc con ăn kèm salad rau xanh"
+                    },
+                    {
+                        "en": "Sow salads like lettuce, rocket and spring onions.",
+                        "vi": "Gieo xà lách như rau diếp, tên lửa và hành lá."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the time when you are young and do not have much experience of life",
+                    "vi": "khi bạn còn trẻ và chưa có nhiều kinh nghiệm sống"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "ed4c05689ae340d5922906f64c4de9cc",
+        "word": "soup",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/suːp/",
+            "us": "/suːp/"
+        },
+        "nearby": [
+            {
+                "word": "soundtrack",
+                "pos": "noun"
+            },
+            {
+                "word": "sound wave",
+                "pos": "noun"
+            },
+            {
+                "word": "soup",
+                "pos": "noun"
+            },
+            {
+                "word": "soup",
+                "pos": "verb"
+            },
+            {
+                "word": "soupçon",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a liquid food made by boiling meat, vegetables, etc. in water, often eaten as the first course of a meal",
+                    "vi": "thực phẩm dạng lỏng được làm bằng cách luộc thịt, rau, v.v. trong nước, thường được ăn như món đầu tiên của bữa ăn"
+                },
+                "examples": [
+                    {
+                        "en": "a bowl/cup of soup",
+                        "vi": "một bát / cốc súp"
+                    },
+                    {
+                        "en": "chicken/vegetable/tomato soup",
+                        "vi": "súp gà / rau / cà chua"
+                    },
+                    {
+                        "en": "a soup spoon/bowl/plate",
+                        "vi": "thìa súp / bát / đĩa"
+                    },
+                    {
+                        "en": "(British English) a tin/packet of soup",
+                        "vi": "(Anh Anh) một hộp thiếc / gói súp"
+                    },
+                    {
+                        "en": "(North American English) a can/package of soup",
+                        "vi": "(Tiếng Anh Bắc Mỹ) một lon / gói súp"
+                    },
+                    {
+                        "en": "He ladled out three bowls of soup.",
+                        "vi": "Anh múc ra ba bát súp."
+                    },
+                    {
+                        "en": "(British English) tinned/packet soups",
+                        "vi": "(Anh Anh) súp đóng hộp / gói"
+                    },
+                    {
+                        "en": "(North American English) canned/packaged soups",
+                        "vi": "(Tiếng Anh Bắc Mỹ) súp đóng hộp / đóng gói"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "from beginning to end",
+                    "vi": "từ đầu đến cuối"
+                },
+                "examples": [
+                    {
+                        "en": "She told me the whole story from soup to nuts.",
+                        "vi": "Cô ấy kể cho tôi nghe toàn bộ câu chuyện từ súp đến các loại hạt."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "in trouble",
+                    "vi": "gặp rắc rối"
+                },
+                "examples": [
+                    {
+                        "en": "We're all in the soup now.",
+                        "vi": "Bây giờ tất cả chúng ta đang ở trong súp."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "db0173d86bef42379ad7e5ca7039340c",
+        "word": "fish and chips",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/ˌfɪʃ ən ˈtʃɪps/",
+            "us": "/ˌfɪʃ ən ˈtʃɪps/"
+        },
+        "nearby": [
+            {
+                "word": "fish",
+                "pos": "noun"
+            },
+            {
+                "word": "fish",
+                "pos": "verb"
+            },
+            {
+                "word": "fish and chips",
+                "pos": "noun"
+            },
+            {
+                "word": "fish and chip shop",
+                "pos": "noun"
+            },
+            {
+                "word": "Fishbourne",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a dish of fish that has been fried in batter served with chips, and usually bought in the place where it has been cooked and eaten at home, etc., especially in the UK",
+                    "vi": "một món cá được chiên trong bột ăn kèm với khoai tây chiên, và thường được mua ở nơi nó đã được nấu chín và ăn ở nhà, v.v., đặc biệt là ở Anh"
+                },
+                "examples": [
+                    {
+                        "en": "Three portions of fish and chips, please.",
+                        "vi": "Làm ơn cho ba phần cá và khoai tây chiên."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "d61c82ae7f764cab9f9f302071b68064",
+        "word": "hot dog",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/ˈhɒt dɒɡ/",
+            "us": "/ˈhɑːt dɔːɡ/"
+        },
+        "nearby": [
+            {
+                "word": "hot-desk",
+                "pos": "verb"
+            },
+            {
+                "word": "hot-desking",
+                "pos": "noun"
+            },
+            {
+                "word": "hot dog",
+                "pos": "noun"
+            },
+            {
+                "word": "hot-dog",
+                "pos": "verb"
+            },
+            {
+                "word": "hotel",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a hot sausage served in a long bread roll",
+                    "vi": "xúc xích nóng được phục vụ trong một cuộn bánh mì dài"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person who performs clever or dangerous tricks while skiing, snowboarding or surfing",
+                    "vi": "một người thực hiện các thủ thuật thông minh hoặc nguy hiểm khi trượt tuyết, trượt ván trên tuyết hoặc lướt sóng"
+                },
+                "examples": [
+                    {
+                        "en": "He's a real hot dog.",
+                        "vi": "Anh ấy là một con chó nóng thực sự."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a3ae6e9601f04d81932d29b89ca7a2a3",
+        "word": "pie",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/paɪ/",
+            "us": "/paɪ/"
+        },
+        "nearby": [
+            {
+                "word": "pidgin",
+                "pos": "noun"
+            },
+            {
+                "word": "pi-dog",
+                "pos": "noun"
+            },
+            {
+                "word": "pie",
+                "pos": "noun"
+            },
+            {
+                "word": "piebald",
+                "pos": "noun"
+            },
+            {
+                "word": "piebald",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a baked dish of fruit or meat and/or vegetables with pastry on the bottom, sides and top",
+                    "vi": "một món nướng gồm trái cây hoặc thịt và / hoặc rau với bánh ngọt ở mặt dưới, mặt bên và mặt trên"
+                },
+                "examples": [
+                    {
+                        "en": "a slice of apple pie",
+                        "vi": "một lát bánh táo"
+                    },
+                    {
+                        "en": "a steak and kidney pie",
+                        "vi": "một miếng bít tết và bánh thận"
+                    },
+                    {
+                        "en": "Help yourself to some more pie.",
+                        "vi": "Giúp bản thân thêm một số miếng bánh."
+                    },
+                    {
+                        "en": "What’s the filling in these pies?",
+                        "vi": "Nhân trong những chiếc bánh này là gì?"
+                    },
+                    {
+                        "en": "a pie dish",
+                        "vi": "một món bánh"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to say that something is typical of America",
+                    "vi": "từng nói rằng một cái gì đó đặc trưng của nước Mỹ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "very easy or very easily",
+                    "vi": "rất dễ dàng hoặc rất dễ dàng"
+                },
+                "examples": [
+                    {
+                        "en": "The whole procedure is as easy as ABC.",
+                        "vi": "Toàn bộ thủ tục dễ dàng như ABC."
+                    },
+                    {
+                        "en": "Fooling him was as easy as falling off a log.",
+                        "vi": "Lừa anh ta dễ như rơi khúc gỗ vậy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "very kind and friendly, especially when you are not expecting it",
+                    "vi": "rất tốt bụng và thân thiện, đặc biệt là khi bạn không mong đợi điều đó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to say and show that you are sorry for a mistake that you made",
+                    "vi": "để nói và thể hiện rằng bạn xin lỗi vì một sai lầm mà bạn đã mắc phải"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be involved in a lot of different activities and have influence over them, especially when other people think that this is annoying",
+                    "vi": "tham gia vào nhiều hoạt động khác nhau và có ảnh hưởng đến chúng, đặc biệt là khi người khác nghĩ rằng điều này là khó chịu"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a share of the available money or benefits that you believe you have a right to",
+                    "vi": "một phần tiền hoặc lợi ích hiện có mà bạn tin rằng bạn có quyền"
+                },
+                "examples": [
+                    {
+                        "en": "The company is demanding a larger slice of the corporate pie.",
+                        "vi": "Công ty đang đòi hỏi một phần lớn hơn trong miếng bánh doanh nghiệp."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an event that somebody talks about that seems very unlikely to happen",
+                    "vi": "một sự kiện mà ai đó nói về điều đó dường như rất khó xảy ra"
+                },
+                "examples": [
+                    {
+                        "en": "This talk of moving to Australia is all just pie in the sky.",
+                        "vi": "Cuộc nói chuyện về việc chuyển đến Úc này chỉ là một chiếc bánh trên trời."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6285683ddd4447069546a86d47c9c868",
+        "word": "burger",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈbɜːɡə(r)/",
+            "us": "/ˈbɜːrɡər/"
+        },
+        "nearby": [
+            {
+                "word": "burgeon",
+                "pos": "verb"
+            },
+            {
+                "word": "burgeoning",
+                "pos": "adjective"
+            },
+            {
+                "word": "burger",
+                "pos": "noun"
+            },
+            {
+                "word": "Warren Burger",
+                "pos": ""
+            },
+            {
+                "word": "Burger King",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "beef cut into small pieces and made into a flat round shape that is then fried, often served in a bread roll",
+                    "vi": "thịt bò được cắt thành từng miếng nhỏ và thành hình tròn dẹt, sau đó chiên, thường được phục vụ trong bánh mì"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "fish, vegetables, nuts, etc. cut into small pieces and made into flat round shapes like hamburgers",
+                    "vi": "cá, rau, các loại hạt, v.v. cắt thành từng miếng nhỏ và tạo thành các hình tròn dẹt như bánh mì kẹp thịt"
+                },
+                "examples": [
+                    {
+                        "en": "a spicy beanburger",
+                        "vi": "một chiếc bánh mì cay"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to work as a chef in a fast-food restaurant, especially when this is considered to be a low-status job for people who lack the ambition or ability to do anything better",
+                    "vi": "làm đầu bếp trong một nhà hàng thức ăn nhanh, đặc biệt khi đây được coi là một công việc có địa vị thấp đối với những người thiếu tham vọng hoặc khả năng làm bất cứ điều gì tốt hơn"
+                },
+                "examples": [
+                    {
+                        "en": "He is now flipping burgers and serving drinks to make ends meet.",
+                        "vi": "Hiện anh ấy đang lật món bánh mì kẹp thịt và phục vụ đồ uống để kiếm sống qua ngày."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a8b6dc55209b46edb5820ca765b77e67",
+        "word": "cheeseburger",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈtʃiːzbɜːɡə(r)/",
+            "us": "/ˈtʃiːzbɜːrɡər/"
+        },
+        "nearby": [
+            {
+                "word": "cheese",
+                "pos": "noun"
+            },
+            {
+                "word": "cheeseboard",
+                "pos": "noun"
+            },
+            {
+                "word": "cheeseburger",
+                "pos": "noun"
+            },
+            {
+                "word": "cheesecake",
+                "pos": "noun"
+            },
+            {
+                "word": "cheesecloth",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a hamburger with a slice of cheese on top of the meat",
+                    "vi": "một chiếc bánh hamburger với một lát pho mát ở trên thịt"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "1bd243a78ef44ff2b2ccea0288dcb36f",
+        "word": "curry",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈkʌri/",
+            "us": "/ˈkɜːri/"
+        },
+        "nearby": [
+            {
+                "word": "curried",
+                "pos": "adjective"
+            },
+            {
+                "word": "Currier and Ives",
+                "pos": ""
+            },
+            {
+                "word": "curry",
+                "pos": "noun"
+            },
+            {
+                "word": "curry",
+                "pos": "verb"
+            },
+            {
+                "word": "curry leaf",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a South Asian dish of meat, vegetables, etc. cooked in a hot spicy sauce, often served with rice",
+                    "vi": "một món ăn Nam Á gồm thịt, rau, v.v. nấu trong nước sốt cay nóng, thường được dùng với cơm"
+                },
+                "examples": [
+                    {
+                        "en": "a chicken curry",
+                        "vi": "cà ri gà"
+                    },
+                    {
+                        "en": "Would you like some more curry?",
+                        "vi": "Bạn có muốn thêm chút cà ri không?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7e340dd059834c57bd4800fd5d290bae",
+        "word": "kabob",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/kɪˈbæb/",
+            "us": "/kɪˈbɑːb/"
+        },
+        "nearby": [
+            {
+                "word": "Kabbalah",
+                "pos": "noun"
+            },
+            {
+                "word": "kabbalistic",
+                "pos": "adjective"
+            },
+            {
+                "word": "kabob",
+                "pos": "noun"
+            },
+            {
+                "word": "kabuki",
+                "pos": "noun"
+            },
+            {
+                "word": "ka-ching",
+                "pos": "exclamation"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "small pieces of meat and vegetable cooked on a wooden or metal stick",
+                    "vi": "các miếng thịt và rau nhỏ nấu trên que gỗ hoặc kim loại"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "d8f49f5800b64349974a663610cd89cd",
+        "word": "kebab",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/kɪˈbæb/",
+            "us": "/kɪˈbɑːb/"
+        },
+        "nearby": [
+            {
+                "word": "Buster Keaton",
+                "pos": ""
+            },
+            {
+                "word": "John Keats",
+                "pos": ""
+            },
+            {
+                "word": "kebab",
+                "pos": "noun"
+            },
+            {
+                "word": "kebaya",
+                "pos": "noun"
+            },
+            {
+                "word": "kecks",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "small pieces of meat and vegetables cooked on a wooden or metal stick",
+                    "vi": "các miếng thịt và rau nhỏ nấu trên que gỗ hoặc kim loại"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "8c04a07f9f264a1688e51bc54e53d5d8",
+        "word": "omelette",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈɒmlət/",
+            "us": "/ˈɑːmlət/"
+        },
+        "nearby": [
+            {
+                "word": "Omega-3",
+                "pos": "noun"
+            },
+            {
+                "word": "omega",
+                "pos": "noun"
+            },
+            {
+                "word": "omelette",
+                "pos": "noun"
+            },
+            {
+                "word": "omen",
+                "pos": "noun"
+            },
+            {
+                "word": "omena",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a hot dish of eggs mixed together and fried, often with cheese, meat, vegetables, etc. added",
+                    "vi": "một món ăn nóng gồm trứng trộn với nhau và chiên, thường có thêm pho mát, thịt, rau, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "a cheese and mushroom omelette",
+                        "vi": "trứng tráng pho mát và nấm"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "you cannot achieve something important without causing a few small problems",
+                    "vi": "bạn không thể đạt được điều gì đó quan trọng mà không gây ra một số vấn đề nhỏ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "99ead399196b4a2aa5bae6b734be2b32",
+        "word": "casserole",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈkæsərəʊl/",
+            "us": "/ˈkæsərəʊl/"
+        },
+        "nearby": [
+            {
+                "word": "Mary Cassatt",
+                "pos": ""
+            },
+            {
+                "word": "cassava",
+                "pos": "noun"
+            },
+            {
+                "word": "casserole",
+                "pos": "noun"
+            },
+            {
+                "word": "casserole",
+                "pos": "verb"
+            },
+            {
+                "word": "cassette",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a hot dish made with meat, vegetables, etc. that are cooked slowly in liquid in an oven",
+                    "vi": "một món ăn nóng làm từ thịt, rau, v.v. được nấu từ từ ở dạng lỏng trong lò nướng"
+                },
+                "examples": [
+                    {
+                        "en": "a chicken casserole",
+                        "vi": "thịt gà hầm"
+                    },
+                    {
+                        "en": "Is there any casserole left?",
+                        "vi": "Còn thịt hầm không?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a container with a lid (= cover) used for cooking meat, etc. in liquid in an oven",
+                    "vi": "hộp có nắp (= nắp) dùng để nấu thịt, v.v. ở dạng lỏng trong lò nướng"
+                },
+                "examples": [
+                    {
+                        "en": "Place the chicken pieces in the bottom of a large casserole.",
+                        "vi": "Đặt các miếng gà vào đáy của một soong lớn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "cd3b7e5530ce4921a71d08bd847afddb",
+        "word": "finger food",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈfɪŋɡə fuːd/",
+            "us": "/ˈfɪŋɡər fuːd/"
+        },
+        "nearby": [
+            {
+                "word": "fingerboard",
+                "pos": "noun"
+            },
+            {
+                "word": "finger bowl",
+                "pos": "noun"
+            },
+            {
+                "word": "finger food",
+                "pos": "noun"
+            },
+            {
+                "word": "fingering",
+                "pos": "noun"
+            },
+            {
+                "word": "fingerless",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "pieces of food that you can easily eat with your fingers",
+                    "vi": "miếng thức ăn mà bạn có thể dễ dàng ăn bằng ngón tay"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "cd7e1108717e4fb1a48a0af7b83e137f",
+        "word": "Greek salad",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌɡriːk ˈsæləd/",
+            "us": "/ˌɡriːk ˈsæləd/"
+        },
+        "nearby": [
+            {
+                "word": "Greek",
+                "pos": "adjective"
+            },
+            {
+                "word": "Greek cross",
+                "pos": "noun"
+            },
+            {
+                "word": "Greek salad",
+                "pos": "noun"
+            },
+            {
+                "word": "green",
+                "pos": "adjective"
+            },
+            {
+                "word": "green",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a salad that is made with tomatoes, olives and feta cheese",
+                    "vi": "một món salad làm từ cà chua, ô liu và pho mát feta"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "d061bd978abc4c139368c9c5a42dc499",
+        "word": "paella",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/paɪˈelə/",
+            "us": "/paɪˈelə/"
+        },
+        "nearby": [
+            {
+                "word": "paedophile",
+                "pos": "noun"
+            },
+            {
+                "word": "paedophilia",
+                "pos": "noun"
+            },
+            {
+                "word": "paella",
+                "pos": "noun"
+            },
+            {
+                "word": "pagan",
+                "pos": "noun"
+            },
+            {
+                "word": "pagan",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a Spanish dish of rice, chicken, fish and vegetables, cooked and served in a large shallow pan",
+                    "vi": "một món ăn Tây Ban Nha gồm cơm, gà, cá và rau, nấu chín và phục vụ trong một chảo nông lớn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "f162ee2d9a04424e8ffed2caaac1805f",
+        "word": "savoury",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈseɪvəri/",
+            "us": "/ˈseɪvəri/"
+        },
+        "nearby": [
+            {
+                "word": "savour of",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "savoury",
+                "pos": "adjective"
+            },
+            {
+                "word": "savoury",
+                "pos": "noun"
+            },
+            {
+                "word": "savoy",
+                "pos": "noun"
+            },
+            {
+                "word": "the Savoy Hotel",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small amount of a food with a salty taste, not a sweet one, often served at a party, etc.",
+                    "vi": "một lượng nhỏ thức ăn có vị mặn, không ngọt, thường được dùng trong bữa tiệc, v.v."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "14f5dad27d7142b5ad215eb0122245f5",
+        "word": "stew",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/stjuː/",
+            "us": "/stuː/"
+        },
+        "nearby": [
+            {
+                "word": "Adlai Stevenson",
+                "pos": ""
+            },
+            {
+                "word": "Robert Louis Stevenson",
+                "pos": ""
+            },
+            {
+                "word": "stew",
+                "pos": "noun"
+            },
+            {
+                "word": "stew",
+                "pos": "verb"
+            },
+            {
+                "word": "steward",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a dish of meat and/or vegetables cooked slowly in liquid in a container that has a lid (= cover)",
+                    "vi": "một món thịt và / hoặc rau nấu chín từ từ ở dạng lỏng trong hộp có nắp đậy (= nắp đậy)"
+                },
+                "examples": [
+                    {
+                        "en": "beef stew and dumplings",
+                        "vi": "bò hầm và bánh bao"
+                    },
+                    {
+                        "en": "I'm making a stew for lunch.",
+                        "vi": "Tôi đang làm món hầm cho bữa trưa."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to become/feel very anxious or upset about something",
+                    "vi": "trở nên / cảm thấy rất lo lắng hoặc buồn phiền về điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "There’s no point getting in a stew about it.",
+                        "vi": "Không có lý do gì để làm cho nó hầm hố về nó."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "b87b8955ed2d40629d8f41ded877fe3c",
+        "word": "stir-fry",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈstɜː fraɪ/",
+            "us": "/ˈstɜːr fraɪ/"
+        },
+        "nearby": [
+            {
+                "word": "stipulate",
+                "pos": "verb"
+            },
+            {
+                "word": "stipulation",
+                "pos": "noun"
+            },
+            {
+                "word": "stir-fry",
+                "pos": "noun"
+            },
+            {
+                "word": "stir",
+                "pos": "verb"
+            },
+            {
+                "word": "stir",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a hot dish made by stir-frying small pieces of meat, fish and/or vegetables",
+                    "vi": "một món ăn nóng được chế biến bằng cách xào các miếng thịt, cá và / hoặc rau củ nhỏ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "9dae5de9a66e4b1cbe997e9d8fb1625b",
+        "word": "tofu",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈtəʊfuː/",
+            "us": "/ˈtəʊfuː/"
+        },
+        "nearby": [
+            {
+                "word": "toffee-nosed",
+                "pos": "adjective"
+            },
+            {
+                "word": "Alvin Toffler",
+                "pos": ""
+            },
+            {
+                "word": "tofu",
+                "pos": "noun"
+            },
+            {
+                "word": "tog",
+                "pos": "noun"
+            },
+            {
+                "word": "tog",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a soft white substance that is made from soya and used in cooking, often instead of meat",
+                    "vi": "một chất màu trắng mềm được làm từ đậu nành và được sử dụng trong nấu ăn, thường thay cho thịt"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "bac8b5a0b59b4be9947eaf38587cecdd",
+        "word": "alphabet soup",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌælfəbet ˈsuːp/",
+            "us": "/ˌælfəbet ˈsuːp/"
+        },
+        "nearby": [
+            {
+                "word": "alphabetically",
+                "pos": "adverb"
+            },
+            {
+                "word": "alphabetize",
+                "pos": "verb"
+            },
+            {
+                "word": "alphabet soup",
+                "pos": "noun"
+            },
+            {
+                "word": "alpha geek",
+                "pos": "noun"
+            },
+            {
+                "word": "alpha male",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a confusing mixture of things, especially language that contains many symbols or abbreviations",
+                    "vi": "một hỗn hợp khó hiểu của nhiều thứ, đặc biệt là ngôn ngữ chứa nhiều ký hiệu hoặc chữ viết tắt"
+                },
+                "examples": [
+                    {
+                        "en": "an alphabet soup of government agencies (= because their names consist of complicated abbreviations)",
+                        "vi": "một món súp bảng chữ cái của các cơ quan chính phủ (= vì tên của họ bao gồm các chữ viết tắt phức tạp)"
+                    },
+                    {
+                        "en": "Special education is an alphabet soup of legal requirements.",
+                        "vi": "Giáo dục đặc biệt là một món súp bảng chữ cái của các yêu cầu pháp lý."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "soup that contains pasta in the shape of letters",
+                    "vi": "súp có mì ống hình chữ cái"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "668c9ed2da9649799871dc7e3b5718e7",
+        "word": "balti",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbɔːlti/",
+            "us": "/ˈbɑːlti/"
+        },
+        "nearby": [
+            {
+                "word": "balsam",
+                "pos": "noun"
+            },
+            {
+                "word": "balsamic vinegar",
+                "pos": "noun"
+            },
+            {
+                "word": "balti",
+                "pos": "noun"
+            },
+            {
+                "word": "Baltic",
+                "pos": "adjective"
+            },
+            {
+                "word": "Baltimore",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a type of meat or vegetable dish cooked in Pakistani style, usually served in a round metal pan which gives its name to the dish",
+                    "vi": "một loại thịt hoặc món rau nấu theo phong cách Pakistan, thường được phục vụ trong một chảo kim loại tròn, mang lại tên cho món ăn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "7b44df345d7a4c259def374acde6a0b6",
+        "word": "bean curd",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbiːn kɜːd/",
+            "us": "/ˈbiːn kɜːrd/"
+        },
+        "nearby": [
+            {
+                "word": "beanbag",
+                "pos": "noun"
+            },
+            {
+                "word": "bean counter",
+                "pos": "noun"
+            },
+            {
+                "word": "bean curd",
+                "pos": "noun"
+            },
+            {
+                "word": "beanfeast",
+                "pos": "noun"
+            },
+            {
+                "word": "beanie",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a soft white substance that is made from soya and used in cooking, often instead of meat",
+                    "vi": "một chất màu trắng mềm được làm từ đậu nành và được sử dụng trong nấu ăn, thường thay cho thịt"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "fe68bc8508ea46a2b603df040c3bd326",
+        "word": "bhaji",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbɑːdʒi/",
+            "us": "/ˈbɑːdʒi/"
+        },
+        "nearby": [
+            {
+                "word": "Bhagwan",
+                "pos": "noun"
+            },
+            {
+                "word": "bhai",
+                "pos": "noun"
+            },
+            {
+                "word": "bhaji",
+                "pos": "noun"
+            },
+            {
+                "word": "bhang",
+                "pos": "noun"
+            },
+            {
+                "word": "bhangra",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a spicy South Asian food consisting of vegetables fried in batter (= a mixture of flour and liquid)",
+                    "vi": "một món ăn Nam Á cay bao gồm các loại rau được chiên trong bột (= hỗn hợp bột và chất lỏng)"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a South Asian dish of spicy fried vegetables",
+                    "vi": "món rau xào cay Nam Á"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "d2d7b53ebffa4995abde72e1c75e7c20",
+        "word": "biriani",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌbɪriˈɑːni/",
+            "us": "/ˌbɪriˈɑːni/"
+        },
+        "nearby": [
+            {
+                "word": "birdwatching",
+                "pos": "noun"
+            },
+            {
+                "word": "biretta",
+                "pos": "noun"
+            },
+            {
+                "word": "biriani",
+                "pos": "noun"
+            },
+            {
+                "word": "biriyani",
+                "pos": "noun"
+            },
+            {
+                "word": "Lord Birkenhead",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a South Asian dish made from rice with meat, fish or vegetables",
+                    "vi": "một món ăn Nam Á làm từ cơm với thịt, cá hoặc rau"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "c790150e6f95412d9284803d2147d2da",
+        "word": "biriyani",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "",
+            "us": ""
+        },
+        "nearby": [
+            {
+                "word": "biretta",
+                "pos": "noun"
+            },
+            {
+                "word": "biriani",
+                "pos": "noun"
+            },
+            {
+                "word": "biriyani",
+                "pos": "noun"
+            },
+            {
+                "word": "Lord Birkenhead",
+                "pos": ""
+            },
+            {
+                "word": "Birmingham",
+                "pos": ""
+            }
+        ],
+        "means": []
+    },
+    {
+        "id": "3e82f1b923d74333bfcf56aa37cc9d25",
+        "word": "broth",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/brɒθ/",
+            "us": "/brɔːθ/"
+        },
+        "nearby": [
+            {
+                "word": "broomstick",
+                "pos": "noun"
+            },
+            {
+                "word": "Bros",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "broth",
+                "pos": "noun"
+            },
+            {
+                "word": "brothel",
+                "pos": "noun"
+            },
+            {
+                "word": "brothel creepers",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "thick soup made by boiling meat or fish and vegetables in water",
+                    "vi": "súp đặc được làm bằng cách đun sôi thịt hoặc cá và rau trong nước"
+                },
+                "examples": [
+                    {
+                        "en": "chicken broth",
+                        "vi": "nước hầm gà"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if too many people are involved in doing something, it will not be done well",
+                    "vi": "Nếu quá nhiều người cùng tham gia vào việc gì đó, nó sẽ không được hoàn thành tốt"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "8e961bf216d24e939ee03e940b34ff24",
+        "word": "bruschetta",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/bruˈsketə/",
+            "us": "/bruˈsketə/"
+        },
+        "nearby": [
+            {
+                "word": "brunette",
+                "pos": "noun"
+            },
+            {
+                "word": "brunt",
+                "pos": "noun"
+            },
+            {
+                "word": "bruschetta",
+                "pos": "noun"
+            },
+            {
+                "word": "brush",
+                "pos": "verb"
+            },
+            {
+                "word": "brush",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an Italian dish consisting of pieces of warm bread covered with oil and small pieces of raw tomato",
+                    "vi": "một món ăn Ý gồm những miếng bánh mì ấm phủ dầu và những miếng cà chua sống nhỏ"
+                },
+                "examples": [
+                    {
+                        "en": "a first course of bruschetta",
+                        "vi": "một khóa học đầu tiên của bruschetta"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "11732bade6544196a6e1b940079e8cc5",
+        "word": "burrito",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/bʊˈriːtəʊ/",
+            "us": "/bʊˈriːtəʊ/"
+        },
+        "nearby": [
+            {
+                "word": "Burra Din",
+                "pos": "noun"
+            },
+            {
+                "word": "the Burrell Collection",
+                "pos": ""
+            },
+            {
+                "word": "burrito",
+                "pos": "noun"
+            },
+            {
+                "word": "burro",
+                "pos": "noun"
+            },
+            {
+                "word": "Edgar Rice Burroughs",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a Mexican dish consisting of a tortilla filled with meat or beans",
+                    "vi": "một món ăn Mexico bao gồm bánh tortilla nhân thịt hoặc đậu"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "a17088c0cd614db0851e6fae2c160969",
+        "word": "canapé",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkænəpeɪ/",
+            "us": "/ˌkænəˈpeɪ/"
+        },
+        "nearby": [
+            {
+                "word": "canalization",
+                "pos": "noun"
+            },
+            {
+                "word": "canalize",
+                "pos": "verb"
+            },
+            {
+                "word": "canapé",
+                "pos": "noun"
+            },
+            {
+                "word": "canard",
+                "pos": "noun"
+            },
+            {
+                "word": "canary",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small biscuit or piece of bread with cheese, meat, fish, etc. on it, usually served with drinks at a party",
+                    "vi": "một chiếc bánh quy nhỏ hoặc một miếng bánh mì với pho mát, thịt, cá, v.v. trên đó, thường được phục vụ với đồ uống trong bữa tiệc"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "5d67b8ef64104ec4855f887a5343fb6b",
+        "word": "cannelloni",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌkænəˈləʊni/",
+            "us": "/ˌkænəˈləʊni/"
+        },
+        "nearby": [
+            {
+                "word": "canned",
+                "pos": "adjective"
+            },
+            {
+                "word": "cannellini bean",
+                "pos": "noun"
+            },
+            {
+                "word": "cannelloni",
+                "pos": "noun"
+            },
+            {
+                "word": "cannery",
+                "pos": "noun"
+            },
+            {
+                "word": "cannibal",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "large tubes of pasta that are served filled with meat, vegetables or cheese",
+                    "vi": "những ống mì ống lớn được phục vụ với thịt, rau hoặc pho mát"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "2e285df00b7144fc91f3fbbb2b11c72d",
+        "word": "cassoulet",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkæsuleɪ/",
+            "us": "/ˌkæsuˈleɪ/"
+        },
+        "nearby": [
+            {
+                "word": "cassock",
+                "pos": "noun"
+            },
+            {
+                "word": "Hugh Casson",
+                "pos": ""
+            },
+            {
+                "word": "cassoulet",
+                "pos": "noun"
+            },
+            {
+                "word": "cassowary",
+                "pos": "noun"
+            },
+            {
+                "word": "cast",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a dish consisting of meat and beans cooked slowly in liquid",
+                    "vi": "một món ăn bao gồm thịt và đậu nấu chín từ từ trong chất lỏng"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "5c72217829934a9fb727ec1b0924c6dc",
+        "word": "cauliflower cheese",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌkɒliflaʊə ˈtʃiːz/",
+            "us": "/ˌkɑːliflaʊər ˈtʃiːz/"
+        },
+        "nearby": [
+            {
+                "word": "Holden Caulfield",
+                "pos": ""
+            },
+            {
+                "word": "cauliflower",
+                "pos": "noun"
+            },
+            {
+                "word": "cauliflower cheese",
+                "pos": "noun"
+            },
+            {
+                "word": "cauliflower ear",
+                "pos": "noun"
+            },
+            {
+                "word": "caulk",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a hot dish of cauliflower cooked and served in a cheese sauce",
+                    "vi": "một món súp lơ nấu nóng và phục vụ với sốt phô mai"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "557ff427c29c48d880dfb7a9d48ddf8f",
+        "word": "cheese straw",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌtʃiːz ˈstrɔː/",
+            "us": "/ˌtʃiːz ˈstrɔː/"
+        },
+        "nearby": [
+            {
+                "word": "cheese-paring",
+                "pos": "noun"
+            },
+            {
+                "word": "cheese-paring",
+                "pos": "adjective"
+            },
+            {
+                "word": "cheese straw",
+                "pos": "noun"
+            },
+            {
+                "word": "cheesy",
+                "pos": "adjective"
+            },
+            {
+                "word": "cheetah",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a stick of pastry with cheese in it, eaten as a snack",
+                    "vi": "một thanh bánh ngọt với pho mát trong đó, ăn như một món ăn nhẹ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "9cab415ffa3c4fbf829c2a11c5c00ae4",
+        "word": "chef’s salad",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌʃefs ˈsæləd/",
+            "us": "/ˌʃefs ˈsæləd/"
+        },
+        "nearby": [
+            {
+                "word": "chef-d'oeuvre",
+                "pos": "noun"
+            },
+            {
+                "word": "cheffy",
+                "pos": "adjective"
+            },
+            {
+                "word": "chef's salad",
+                "pos": "noun"
+            },
+            {
+                "word": "Chelsea",
+                "pos": ""
+            },
+            {
+                "word": "The Chelsea Arts Club",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a large salad consisting of lettuce, tomato and other vegetables with slices of cheese and meat such as chicken or ham on top",
+                    "vi": "một món salad lớn bao gồm rau diếp, cà chua và các loại rau khác với các lát pho mát và thịt như gà hoặc giăm bông ở trên"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "cf0d78dc684247aca367961735e8657b",
+        "word": "chilli con carne",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌtʃɪli kɒn ˈkɑːni/",
+            "us": "/ˌtʃɪli kɑːn ˈkɑːrni/"
+        },
+        "nearby": [
+            {
+                "word": "chill factor",
+                "pos": "noun"
+            },
+            {
+                "word": "chilli",
+                "pos": "noun"
+            },
+            {
+                "word": "chilli con carne",
+                "pos": "noun"
+            },
+            {
+                "word": "chilliness",
+                "pos": "noun"
+            },
+            {
+                "word": "chilling",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a hot spicy Mexican dish made with meat, beans and chillies",
+                    "vi": "một món ăn cay nóng của Mexico được làm từ thịt, đậu và ớt"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "cab095acab3a40ec8f4b75cfe129f5bb",
+        "word": "chop suey",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌtʃɒp ˈsuːi/",
+            "us": "/ˌtʃɑːp ˈsuːi/"
+        },
+        "nearby": [
+            {
+                "word": "chopstick",
+                "pos": "noun"
+            },
+            {
+                "word": "Chopsticks",
+                "pos": ""
+            },
+            {
+                "word": "chop suey",
+                "pos": "noun"
+            },
+            {
+                "word": "choral",
+                "pos": "adjective"
+            },
+            {
+                "word": "chorale",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a Chinese-style dish of small pieces of meat fried with vegetables and served with rice",
+                    "vi": "Một món ăn kiểu Trung Quốc gồm những miếng thịt nhỏ xào với rau và ăn với cơm"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "ec2d2d8ae2b646d1ab8a582aae55c7b2",
+        "word": "chow mein",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌtʃaʊ ˈmeɪn/",
+            "us": "/ˌtʃaʊ ˈmeɪn/"
+        },
+        "nearby": [
+            {
+                "word": "chowderhead",
+                "pos": "noun"
+            },
+            {
+                "word": "chowk",
+                "pos": "noun"
+            },
+            {
+                "word": "chow mein",
+                "pos": "noun"
+            },
+            {
+                "word": "Chrimbo",
+                "pos": "noun"
+            },
+            {
+                "word": "Chris",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a Chinese-style dish of fried noodles served with small pieces of meat and vegetables",
+                    "vi": "một món mì xào kiểu Trung Quốc ăn kèm với các miếng thịt nhỏ và rau"
+                },
+                "examples": [
+                    {
+                        "en": "chicken chow mein",
+                        "vi": "gà Chow Mein"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e1c7c7b1854940cabe075e72d7fe3685",
+        "word": "coq au vin",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌkɒk əʊ ˈvæ̃/",
+            "us": "/ˌkəʊk əʊ ˈvæ̃/"
+        },
+        "nearby": [
+            {
+                "word": "copy typist",
+                "pos": "noun"
+            },
+            {
+                "word": "copywriter",
+                "pos": "noun"
+            },
+            {
+                "word": "coq au vin",
+                "pos": "noun"
+            },
+            {
+                "word": "coquetry",
+                "pos": "noun"
+            },
+            {
+                "word": "coquette",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a dish of chicken cooked in wine",
+                    "vi": "một món gà nấu rượu"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "94fd7a04823f44c1941d31a0cc650f6d",
+        "word": "coronation chicken",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌkɒrəneɪʃn ˈtʃɪkɪn/",
+            "us": "/ˌkɔːrəneɪʃn ˈtʃɪkɪn/"
+        },
+        "nearby": [
+            {
+                "word": "coronation",
+                "pos": "noun"
+            },
+            {
+                "word": "the Coronation Chair",
+                "pos": ""
+            },
+            {
+                "word": "coronation chicken",
+                "pos": "noun"
+            },
+            {
+                "word": "Coronation Street",
+                "pos": ""
+            },
+            {
+                "word": "coronavirus",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a cold dish consisting of chicken in a sauce made with apricots, spices and cream",
+                    "vi": "một món ăn nguội gồm thịt gà sốt với mơ, gia vị và kem"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "09ac4bb68e0f4701b451c50b7317d00a",
+        "word": "couscous",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkʊskʊs/",
+            "us": "/ˈkʊskʊs/"
+        },
+        "nearby": [
+            {
+                "word": "court tennis",
+                "pos": "noun"
+            },
+            {
+                "word": "courtyard",
+                "pos": "noun"
+            },
+            {
+                "word": "couscous",
+                "pos": "noun"
+            },
+            {
+                "word": "cousin",
+                "pos": "noun"
+            },
+            {
+                "word": "cousin brother",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a type of North African food made from wheat in very small round pieces; a dish of meat and/or vegetables with couscous",
+                    "vi": "một loại thực phẩm Bắc Phi được làm từ lúa mì ở dạng miếng tròn rất nhỏ; một món thịt và / hoặc rau với rượu hầm"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "df146362ab81471790b67c429f63f797",
+        "word": "dim sum",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌdɪm ˈsʌm/",
+            "us": "/ˌdɪm ˈsʌm/"
+        },
+        "nearby": [
+            {
+                "word": "dimple",
+                "pos": "verb"
+            },
+            {
+                "word": "dimpled",
+                "pos": "adjective"
+            },
+            {
+                "word": "dim sum",
+                "pos": "noun"
+            },
+            {
+                "word": "dimwit",
+                "pos": "noun"
+            },
+            {
+                "word": "dim-witted",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a Chinese dish or meal consisting of small pieces of food wrapped in sheets of dough",
+                    "vi": "một món ăn hoặc bữa ăn Trung Quốc bao gồm những miếng thức ăn nhỏ được bọc trong những tấm bột"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "52de0f5cdb194d4a8e54f54bba3a3d6a",
+        "word": "doner kebab",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌdɒnə kɪˈbæb/",
+            "us": "/ˌdəʊnər kɪˈbɑːb/"
+        },
+        "nearby": [
+            {
+                "word": "done",
+                "pos": "adjective"
+            },
+            {
+                "word": "done",
+                "pos": "exclamation"
+            },
+            {
+                "word": "doner kebab",
+                "pos": "noun"
+            },
+            {
+                "word": "donga",
+                "pos": "noun"
+            },
+            {
+                "word": "dongle",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "thin slices of cooked meat, usually served with pitta bread",
+                    "vi": "lát mỏng của thịt nấu chín, thường được phục vụ với bánh mì pitta"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "ea6e725e1b7240eaae9829557a0ce146",
+        "word": "dopiaza",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈdəʊpiɑːzə/",
+            "us": "/ˈdəʊpiɑːzə/"
+        },
+        "nearby": [
+            {
+                "word": "dope",
+                "pos": "verb"
+            },
+            {
+                "word": "dopey",
+                "pos": "adjective"
+            },
+            {
+                "word": "dopiaza",
+                "pos": "noun"
+            },
+            {
+                "word": "doping",
+                "pos": "noun"
+            },
+            {
+                "word": "doppelgänger",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a South Asian dish consisting of meat cooked in an onion sauce",
+                    "vi": "một món ăn Nam Á gồm thịt nấu trong nước sốt hành"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "9632377123924ba48b02a6e14afd03d9",
+        "word": "eggs Benedict",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌeɡz ˈbenədɪkt/",
+            "us": "/ˌeɡz ˈbenədɪkt/"
+        },
+        "nearby": [
+            {
+                "word": "egg roll",
+                "pos": "noun"
+            },
+            {
+                "word": "egg-rolling",
+                "pos": "noun"
+            },
+            {
+                "word": "eggs Benedict",
+                "pos": "noun"
+            },
+            {
+                "word": "eggshell",
+                "pos": "noun"
+            },
+            {
+                "word": "egg timer",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a dish consisting of eggs and ham served on muffins (= round flat bread rolls) and covered with hollandaise sauce",
+                    "vi": "một món ăn bao gồm trứng và giăm bông được phục vụ trên bánh nướng xốp (= bánh mì cuộn tròn dẹt) và phủ sốt hollandaise"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "215842ec79d54f7d9bf550aa99e900f7",
+        "word": "enchilada",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌentʃɪˈlɑːdə/",
+            "us": "/ˌentʃɪˈlɑːdə/"
+        },
+        "nearby": [
+            {
+                "word": "enchantment",
+                "pos": "noun"
+            },
+            {
+                "word": "enchantress",
+                "pos": "noun"
+            },
+            {
+                "word": "enchilada",
+                "pos": "noun"
+            },
+            {
+                "word": "encircle",
+                "pos": "verb"
+            },
+            {
+                "word": "encirclement",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a Mexican dish consisting of a tortilla filled with meat and covered with a spicy sauce",
+                    "vi": "một món ăn Mexico bao gồm bánh tortilla nhân thịt và phủ sốt cay"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the most important person or thing",
+                    "vi": "người hoặc điều quan trọng nhất"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the whole thing; everything",
+                    "vi": "toàn bộ điều; mọi điều"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "1fc2e81d86544dfaaaa3b27dd601e09a",
+        "word": "fajitas",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/fəˈhiːtəz/",
+            "us": "/fəˈhiːtəz/"
+        },
+        "nearby": [
+            {
+                "word": "faithless",
+                "pos": "adjective"
+            },
+            {
+                "word": "faith school",
+                "pos": "noun"
+            },
+            {
+                "word": "fajitas",
+                "pos": "noun"
+            },
+            {
+                "word": "fake",
+                "pos": "adjective"
+            },
+            {
+                "word": "fake",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a Mexican dish of long thin pieces of meat and/or vegetables wrapped in a soft tortilla and often served with sour cream",
+                    "vi": "một món ăn Mexico gồm những miếng thịt và / hoặc rau củ mỏng dài được bọc trong một chiếc bánh tortilla mềm và thường được phục vụ với kem chua"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "9852dd0743b041e8aa444bf8b66b4ad3",
+        "word": "falafel",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/fəˈlæfl/",
+            "us": "/fəˈlɑːfl/"
+        },
+        "nearby": [
+            {
+                "word": "fakie",
+                "pos": "noun"
+            },
+            {
+                "word": "fakir",
+                "pos": "noun"
+            },
+            {
+                "word": "falafel",
+                "pos": "noun"
+            },
+            {
+                "word": "falcon",
+                "pos": "noun"
+            },
+            {
+                "word": "falconer",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a Middle Eastern dish consisting of small balls formed from chickpeas, usually eaten with flat bread; one of these balls",
+                    "vi": "một món ăn Trung Đông bao gồm những quả bóng nhỏ hình thành từ đậu gà, thường được ăn với bánh mì dẹt; một trong những quả bóng này"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "d93f4f78df264f158241c97a2584a51c",
+        "word": "felafel",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/fəˈlæfl/",
+            "us": "/fəˈlɑːfl/"
+        },
+        "nearby": [
+            {
+                "word": "feint",
+                "pos": "verb"
+            },
+            {
+                "word": "feisty",
+                "pos": "adjective"
+            },
+            {
+                "word": "felafel",
+                "pos": "noun"
+            },
+            {
+                "word": "feldspar",
+                "pos": "noun"
+            },
+            {
+                "word": "felicitous",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a Middle Eastern dish consisting of small balls formed from chickpeas, usually eaten with flat bread; one of these balls",
+                    "vi": "một món ăn Trung Đông bao gồm những quả bóng nhỏ hình thành từ đậu gà, thường được ăn với bánh mì dẹt; một trong những quả bóng này"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "062a54a5203a4e209ad71f478a8faa27",
+        "word": "fishcake",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈfɪʃkeɪk/",
+            "us": "/ˈfɪʃkeɪk/"
+        },
+        "nearby": [
+            {
+                "word": "Fishbourne",
+                "pos": ""
+            },
+            {
+                "word": "fishbowl",
+                "pos": "noun"
+            },
+            {
+                "word": "fishcake",
+                "pos": "noun"
+            },
+            {
+                "word": "fisher",
+                "pos": "noun"
+            },
+            {
+                "word": "fisherman",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "pieces of fish mixed with mashed potato made into a flat round shape, covered with breadcrumbs and fried",
+                    "vi": "miếng cá trộn với khoai tây nghiền thành hình tròn dẹt, phủ vụn bánh mì và chiên"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "3148595ef6984257b74df9a3ec90207a",
+        "word": "fondue",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈfɒnduː/",
+            "us": "/fɑːnˈduː/"
+        },
+        "nearby": [
+            {
+                "word": "fondly",
+                "pos": "adverb"
+            },
+            {
+                "word": "fondness",
+                "pos": "noun"
+            },
+            {
+                "word": "fondue",
+                "pos": "noun"
+            },
+            {
+                "word": "font",
+                "pos": "noun"
+            },
+            {
+                "word": "fontanelle",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a Swiss dish of melted cheese and wine into which pieces of bread are dipped",
+                    "vi": "một món ăn Thụy Sĩ gồm pho mát nấu chảy và rượu vang để nhúng những miếng bánh mì vào"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a dish of hot oil into which small pieces of meat, vegetables, etc. are dipped",
+                    "vi": "một đĩa dầu nóng nhúng các miếng thịt nhỏ, rau, v.v."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "ffc9e6a635ea4590852030d0412bb340",
+        "word": "gnocchi",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈnjɒki/",
+            "us": "/ˈnjɑːki/"
+        },
+        "nearby": [
+            {
+                "word": "gnawing",
+                "pos": "adjective"
+            },
+            {
+                "word": "gneiss",
+                "pos": "noun"
+            },
+            {
+                "word": "gnocchi",
+                "pos": "noun"
+            },
+            {
+                "word": "gnome",
+                "pos": "noun"
+            },
+            {
+                "word": "gnomic",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an Italian dish consisting of small balls of potato mixed with flour and boiled, usually eaten with a sauce",
+                    "vi": "một món ăn Ý bao gồm những viên khoai tây nhỏ trộn với bột mì và luộc chín, thường được ăn với nước sốt"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "8b9e914a176b4bf1840dd5365878631f",
+        "word": "goulash",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈɡuːlæʃ/",
+            "us": "/ˈɡuːlɑːʃ/"
+        },
+        "nearby": [
+            {
+                "word": "gouge out",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "goujons",
+                "pos": "noun"
+            },
+            {
+                "word": "goulash",
+                "pos": "noun"
+            },
+            {
+                "word": "Stephen Jay Gould",
+                "pos": ""
+            },
+            {
+                "word": "go under",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a hot spicy Hungarian dish of meat that is cooked slowly in liquid with paprika",
+                    "vi": "một món ăn cay nóng của Hungary gồm thịt được nấu từ từ trong chất lỏng với ớt bột"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "ab05bd7def4a43cc9abaea2ec58e1f4b",
+        "word": "gratin",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈɡrætæn/",
+            "us": "/ˈɡrætn/"
+        },
+        "nearby": [
+            {
+                "word": "gratifying",
+                "pos": "adjective"
+            },
+            {
+                "word": "gratifyingly",
+                "pos": "adverb"
+            },
+            {
+                "word": "gratin",
+                "pos": "noun"
+            },
+            {
+                "word": "grating",
+                "pos": "noun"
+            },
+            {
+                "word": "grating",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a cooked dish that is covered with a layer of cheese or breadcrumbs",
+                    "vi": "một món ăn đã nấu chín được phủ một lớp pho mát hoặc vụn bánh mì"
+                },
+                "examples": [
+                    {
+                        "en": "a gratin of tomatoes and basil with a crunchy crust",
+                        "vi": "một đĩa cà chua và húng quế với lớp vỏ giòn"
+                    },
+                    {
+                        "en": "gratin potatoes",
+                        "vi": "khoai tây gratin"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6e15f973e8794866abd20346b818a992",
+        "word": "guacamole",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌɡwækəˈməʊleɪ/",
+            "us": "/ˌɡwækəˈməʊleɪ/"
+        },
+        "nearby": [
+            {
+                "word": "G-string",
+                "pos": "noun"
+            },
+            {
+                "word": "Gt",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "guacamole",
+                "pos": "noun"
+            },
+            {
+                "word": "Guam",
+                "pos": ""
+            },
+            {
+                "word": "guanine",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a Mexican dish made from avocado mixed with onion, tomatoes, chillies, etc.",
+                    "vi": "một món ăn Mexico làm từ bơ trộn với hành tây, cà chua, ớt, v.v."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "1f895fe4b83a4996b480da9a793089c2",
+        "word": "haggis",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈhæɡɪs/",
+            "us": "/ˈhæɡɪs/"
+        },
+        "nearby": [
+            {
+                "word": "haggard",
+                "pos": "adjective"
+            },
+            {
+                "word": "Rider Haggard",
+                "pos": ""
+            },
+            {
+                "word": "haggis",
+                "pos": "noun"
+            },
+            {
+                "word": "haggle",
+                "pos": "verb"
+            },
+            {
+                "word": "hagiographer",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a Scottish dish that looks like a large round sausage made from the heart, lungs and liver of a sheep that are cut into small pieces, mixed with oats, herbs, etc. and boiled in a bag that is traditionally made from part of a sheep’s stomach",
+                    "vi": "một món ăn Scotland trông giống như một chiếc xúc xích tròn lớn được làm từ tim, phổi và gan của một con cừu được cắt thành từng miếng nhỏ, trộn với yến mạch, thảo mộc, v.v. và luộc trong một chiếc túi theo truyền thống được làm từ một phần của cừu. Dạ dày"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "467f60d31de44773bfb6864292aabc0f",
+        "word": "hash",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/hæʃ/",
+            "us": "/hæʃ/"
+        },
+        "nearby": [
+            {
+                "word": "has",
+                "pos": "verb"
+            },
+            {
+                "word": "has-been",
+                "pos": "noun"
+            },
+            {
+                "word": "hash",
+                "pos": "noun"
+            },
+            {
+                "word": "hash",
+                "pos": "verb"
+            },
+            {
+                "word": "hash browns",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a hot dish of cooked meat and potatoes that are cut into small pieces and mixed together",
+                    "vi": "một món ăn nóng gồm thịt chín và khoai tây được cắt thành từng miếng nhỏ và trộn với nhau"
+                },
+                "examples": [
+                    {
+                        "en": "corned beef hash",
+                        "vi": "Corned beef hash"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "hashish (= a drug made from the resin of the hemp plant, which gives a feeling of being relaxed when it is smoked or put in the mouth and chewed. Use of the drug is illegal in many countries.)",
+                    "vi": "hashish (= một loại thuốc làm từ nhựa của cây gai dầu, mang lại cảm giác thư thái khi hút hoặc cho vào miệng và nhai. Việc sử dụng thuốc là bất hợp pháp ở nhiều quốc gia.)"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the symbol ( # ), especially one on a phone or computer keyboard",
+                    "vi": "biểu tượng (#), đặc biệt là biểu tượng trên điện thoại hoặc bàn phím máy tính"
+                },
+                "examples": [
+                    {
+                        "en": "Press the hash key.",
+                        "vi": "Nhấn phím băm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to do something badly",
+                    "vi": "làm điều gì đó tồi tệ"
+                },
+                "examples": [
+                    {
+                        "en": "I made a real hash of the interview.",
+                        "vi": "Tôi đã thực hiện một băm thực sự của cuộc phỏng vấn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "03637bd1b740443db37dd32ce4b87cc4",
+        "word": "hash browns",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌhæʃ ˈbraʊnz/",
+            "us": "/ˌhæʃ ˈbraʊnz/"
+        },
+        "nearby": [
+            {
+                "word": "hash",
+                "pos": "noun"
+            },
+            {
+                "word": "hash",
+                "pos": "verb"
+            },
+            {
+                "word": "hash browns",
+                "pos": "noun"
+            },
+            {
+                "word": "hashish",
+                "pos": "noun"
+            },
+            {
+                "word": "hash out",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "potatoes and onions cut into small pieces, pressed into flat shapes and fried until they are brown",
+                    "vi": "khoai tây và hành tây cắt thành từng miếng nhỏ, ép thành hình dẹt và chiên cho đến khi chúng có màu nâu"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "998ee6afdcb744e098fa70d110a8d5b7",
+        "word": "hoagie",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈhəʊɡi/",
+            "us": "/ˈhəʊɡi/"
+        },
+        "nearby": [
+            {
+                "word": "HND",
+                "pos": "noun"
+            },
+            {
+                "word": "ho",
+                "pos": "noun"
+            },
+            {
+                "word": "hoagie",
+                "pos": "noun"
+            },
+            {
+                "word": "hoard",
+                "pos": "noun"
+            },
+            {
+                "word": "hoard",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a long piece of bread filled with meat, cheese and salad",
+                    "vi": "một miếng bánh mì dài với nhân thịt, pho mát và salad"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a piece of bread used to make a hoagie",
+                    "vi": "một miếng bánh mì dùng để làm món hoagie"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "87b65e7838184e19bb0605c3fdffc264",
+        "word": "houmous",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈhʊməs/",
+            "us": "/ˈhʊməs/"
+        },
+        "nearby": [
+            {
+                "word": "Houdini",
+                "pos": "noun"
+            },
+            {
+                "word": "Harry Houdini",
+                "pos": ""
+            },
+            {
+                "word": "houmous",
+                "pos": "noun"
+            },
+            {
+                "word": "hound",
+                "pos": "noun"
+            },
+            {
+                "word": "hound",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a type of food, originally from the Middle East, that is a soft mixture of chickpeas, sesame seeds, oil, lemon juice and garlic",
+                    "vi": "một loại thực phẩm, có nguồn gốc từ Trung Đông, là hỗn hợp mềm của đậu gà, hạt vừng, dầu, nước chanh và tỏi"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "0207b415a8a144e396dd16f71d4be801",
+        "word": "hummus",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈhʊməs/",
+            "us": "/ˈhʊməs/"
+        },
+        "nearby": [
+            {
+                "word": "hummingbird",
+                "pos": "noun"
+            },
+            {
+                "word": "hummock",
+                "pos": "noun"
+            },
+            {
+                "word": "hummus",
+                "pos": "noun"
+            },
+            {
+                "word": "humongous",
+                "pos": "adjective"
+            },
+            {
+                "word": "humor",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a type of food, originally from the Middle East, that is a soft mixture of chickpeas, sesame seeds, oil, lemon juice and garlic",
+                    "vi": "một loại thực phẩm, có nguồn gốc từ Trung Đông, là hỗn hợp mềm của đậu gà, hạt vừng, dầu, nước chanh và tỏi"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "d55b617719fd4cfa92d8c03879f9431b",
+        "word": "Irish stew",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌaɪrɪʃ ˈstjuː/",
+            "us": "/ˌaɪrɪʃ ˈstuː/"
+        },
+        "nearby": [
+            {
+                "word": "the Irish National Liberation Army",
+                "pos": ""
+            },
+            {
+                "word": "the Irish Sea",
+                "pos": ""
+            },
+            {
+                "word": "Irish stew",
+                "pos": "noun"
+            },
+            {
+                "word": "Irish whiskey",
+                "pos": "noun"
+            },
+            {
+                "word": "irk",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a hot dish of mutton (= meat from a sheep) and vegetables boiled together",
+                    "vi": "một món ăn nóng gồm thịt cừu (= thịt cừu) và rau luộc cùng nhau"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "441253110b334e73b467715e0e39ff69",
+        "word": "jambalaya",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌdʒæmbəˈlaɪə/",
+            "us": "/ˌdʒæmbəˈlaɪə/"
+        },
+        "nearby": [
+            {
+                "word": "Jamaican",
+                "pos": "noun, adjective"
+            },
+            {
+                "word": "jamb",
+                "pos": "noun"
+            },
+            {
+                "word": "jambalaya",
+                "pos": "noun"
+            },
+            {
+                "word": "jamboree",
+                "pos": "noun"
+            },
+            {
+                "word": "James",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a spicy dish of rice, seafood, chicken, etc. from Louisiana in the southern US",
+                    "vi": "một món ăn cay gồm cơm, hải sản, gà, v.v. từ Louisiana ở miền nam Hoa Kỳ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "8e46262c37ae4c9f8e5f33b02d1dd65c",
+        "word": "kimchi",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkɪmtʃi/",
+            "us": "/ˈkɪmtʃi/"
+        },
+        "nearby": [
+            {
+                "word": "Kim",
+                "pos": ""
+            },
+            {
+                "word": "Kimberly",
+                "pos": ""
+            },
+            {
+                "word": "kimchi",
+                "pos": "noun"
+            },
+            {
+                "word": "kimono",
+                "pos": "noun"
+            },
+            {
+                "word": "kin",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a spicy Korean dish made with pickled cabbage, onions, peppers, etc.",
+                    "vi": "một món ăn cay của Hàn Quốc được làm từ bắp cải muối, hành tây, ớt, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "Kimchi can be prepared many ways, from mild to very spicy.",
+                        "vi": "Kimchi có thể được chế biến theo nhiều cách, từ cay nhẹ đến cay nồng."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "222b7551642b4d0e8cdf41cc076f88d7",
+        "word": "kofta",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkɒftə/",
+            "us": "/ˈkɔːftə/"
+        },
+        "nearby": [
+            {
+                "word": "koeksister",
+                "pos": "noun"
+            },
+            {
+                "word": "Arthur Koestler",
+                "pos": ""
+            },
+            {
+                "word": "kofta",
+                "pos": "noun"
+            },
+            {
+                "word": "the Kohinoor",
+                "pos": ""
+            },
+            {
+                "word": "kohl",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a Middle Eastern or South Asian dish of meat, fish or cheese mixed with spices and shaped into balls; one of these balls",
+                    "vi": "một món ăn Trung Đông hoặc Nam Á gồm thịt, cá hoặc pho mát trộn với gia vị và nặn thành những quả bóng; một trong những quả bóng này"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "5e2cb32c55f245dfa98fa5d977e3533c",
+        "word": "korma",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkɔːmə/",
+            "us": "/ˈkɔːrmə/"
+        },
+        "nearby": [
+            {
+                "word": "David Koresh",
+                "pos": ""
+            },
+            {
+                "word": "korfball",
+                "pos": "noun"
+            },
+            {
+                "word": "korma",
+                "pos": "noun"
+            },
+            {
+                "word": "korowai",
+                "pos": "noun"
+            },
+            {
+                "word": "kosher",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a South Asian dish or sauce made with cream or yogurt, and often almonds",
+                    "vi": "một món ăn Nam Á hoặc nước sốt làm từ kem hoặc sữa chua, và thường là hạnh nhân"
+                },
+                "examples": [
+                    {
+                        "en": "chicken korma",
+                        "vi": "gà Korma"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c14c7c29e6fd4a21bd3c66fc87cf9e2e",
+        "word": "laksa",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈlɑːksə/",
+            "us": "/ˈlɑːksə/"
+        },
+        "nearby": [
+            {
+                "word": "lakeside",
+                "pos": "noun"
+            },
+            {
+                "word": "lakh",
+                "pos": "number"
+            },
+            {
+                "word": "laksa",
+                "pos": "noun"
+            },
+            {
+                "word": "la-la land",
+                "pos": "noun"
+            },
+            {
+                "word": "Lallans",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a Far Eastern dish consisting of noodles served in sauce or soup",
+                    "vi": "một món ăn Viễn Đông bao gồm mì ăn kèm với nước sốt hoặc súp"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "109df018564b43acb5e3481472bd41f0",
+        "word": "Lancashire hotpot",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌlænkəʃə ˈhɒtpɒt/",
+            "us": "/ˌlænkəʃər ˈhɑːtpɑːt/"
+        },
+        "nearby": [
+            {
+                "word": "LAN",
+                "pos": "noun"
+            },
+            {
+                "word": "Lancashire",
+                "pos": ""
+            },
+            {
+                "word": "Lancashire hotpot",
+                "pos": "noun"
+            },
+            {
+                "word": "Lancaster",
+                "pos": ""
+            },
+            {
+                "word": "Burt Lancaster",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a dish consisting of lamb (= meat from a sheep) cooked with vegetables in liquid",
+                    "vi": "một món ăn gồm thịt cừu (= thịt cừu) nấu với rau củ ở dạng lỏng"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "31c1c85cc3dc4b53bb59a30cef5fa582",
+        "word": "lobster thermidor",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌlɒbstə ˈθɜːmɪdɔː(r)/",
+            "us": "/ˌlɑːbstər ˈθɜːrmɪdɔːr/"
+        },
+        "nearby": [
+            {
+                "word": "lobster",
+                "pos": "noun"
+            },
+            {
+                "word": "lobster pot",
+                "pos": "noun"
+            },
+            {
+                "word": "lobster thermidor",
+                "pos": "noun"
+            },
+            {
+                "word": "local",
+                "pos": "adjective"
+            },
+            {
+                "word": "lo-cal",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a dish consisting of lobster in its shell with sauce, with cheese on top",
+                    "vi": "một món ăn bao gồm tôm hùm trong vỏ của nó với nước sốt, với pho mát ở trên"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "8de0792112bd4052894c52e5152641a8",
+        "word": "macaroni cheese",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌmækəˌrəʊni ˈtʃiːz/",
+            "us": "/ˌmækəˌrəʊni ˈtʃiːz/"
+        },
+        "nearby": [
+            {
+                "word": "macaroni",
+                "pos": "noun"
+            },
+            {
+                "word": "macaronic",
+                "pos": "adjective"
+            },
+            {
+                "word": "macaroni cheese",
+                "pos": "noun"
+            },
+            {
+                "word": "macaroon",
+                "pos": "noun"
+            },
+            {
+                "word": "Douglas MacArthur",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a hot dish of macaroni in a cheese sauce",
+                    "vi": "món mì ống sốt phô mai nóng hổi"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "bfb7e2573cbc4278b78e6addf2371467",
+        "word": "madras",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/məˈdræs/",
+            "us": "/məˈdræs/"
+        },
+        "nearby": [
+            {
+                "word": "madness",
+                "pos": "noun"
+            },
+            {
+                "word": "madonna",
+                "pos": "noun"
+            },
+            {
+                "word": "madras",
+                "pos": "noun"
+            },
+            {
+                "word": "madrasa",
+                "pos": "noun"
+            },
+            {
+                "word": "madrigal",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a spicy Indian dish, usually containing meat",
+                    "vi": "một món ăn cay của Ấn Độ, thường có thịt"
+                },
+                "examples": [
+                    {
+                        "en": "chicken madras",
+                        "vi": "gà madras"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5c372eab6b564a739bab58d11297dc4a",
+        "word": "masala",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/məˈsɑːlə/",
+            "us": "/məˈsɑːlə/"
+        },
+        "nearby": [
+            {
+                "word": "the Mary Rose",
+                "pos": ""
+            },
+            {
+                "word": "marzipan",
+                "pos": "noun"
+            },
+            {
+                "word": "masala",
+                "pos": "noun"
+            },
+            {
+                "word": "mascara",
+                "pos": "noun"
+            },
+            {
+                "word": "mascarpone",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a mixture of spices used in South Asian cooking",
+                    "vi": "một hỗn hợp các loại gia vị được sử dụng trong nấu ăn Nam Á"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a dish made with masala",
+                    "vi": "một món ăn làm từ masala"
+                },
+                "examples": [
+                    {
+                        "en": "chicken masala",
+                        "vi": "masala gà"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0acb97ea0fd3418b9b3b38894938c88a",
+        "word": "minestrone",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌmɪnəˈstrəʊni/",
+            "us": "/ˌmɪnəˈstrəʊni/"
+        },
+        "nearby": [
+            {
+                "word": "miners' strikes",
+                "pos": ""
+            },
+            {
+                "word": "mineshaft",
+                "pos": "noun"
+            },
+            {
+                "word": "minestrone",
+                "pos": "noun"
+            },
+            {
+                "word": "minesweeper",
+                "pos": "noun"
+            },
+            {
+                "word": "mineworker",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an Italian soup containing small pieces of vegetables and pasta",
+                    "vi": "một món súp Ý gồm những miếng rau nhỏ và mì ống"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "ebc281b8a73e42c18a3ffefd05285106",
+        "word": "mixed grill",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌmɪkst ˈɡrɪl/",
+            "us": "/ˌmɪkst ˈɡrɪl/"
+        },
+        "nearby": [
+            {
+                "word": "mixed economy",
+                "pos": "noun"
+            },
+            {
+                "word": "mixed farming",
+                "pos": "noun"
+            },
+            {
+                "word": "mixed grill",
+                "pos": "noun"
+            },
+            {
+                "word": "mixed martial arts",
+                "pos": "noun"
+            },
+            {
+                "word": "mixed media",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a hot dish of different types of meat and vegetables that have been grilled",
+                    "vi": "một món ăn nóng gồm các loại thịt và rau khác nhau đã được nướng"
+                },
+                "examples": [
+                    {
+                        "en": "a mixed grill of bacon, sausages, tomatoes and mushrooms",
+                        "vi": "một hỗn hợp thịt xông khói, xúc xích, cà chua và nấm nướng"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7a4fe278250e422088ba44acb19a8fa4",
+        "word": "moussaka",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/muːˈsɑːkə/",
+            "us": "/muːˈsɑːkə/"
+        },
+        "nearby": [
+            {
+                "word": "The Mousetrap",
+                "pos": ""
+            },
+            {
+                "word": "mousey",
+                "pos": "adjective"
+            },
+            {
+                "word": "moussaka",
+                "pos": "noun"
+            },
+            {
+                "word": "mousse",
+                "pos": "noun"
+            },
+            {
+                "word": "mousseline",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a Greek dish made from layers of aubergine and meat with cheese on top",
+                    "vi": "một món ăn Hy Lạp được làm từ nhiều lớp aubergine và thịt với pho mát ở trên"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "5fd7d91431b04e469ccd988278c5b860",
+        "word": "nachos",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈnætʃəʊz/",
+            "us": "/ˈnɑːtʃəʊz/"
+        },
+        "nearby": [
+            {
+                "word": "nabob",
+                "pos": "noun"
+            },
+            {
+                "word": "Vladimir Nabokov",
+                "pos": ""
+            },
+            {
+                "word": "nachos",
+                "pos": "noun"
+            },
+            {
+                "word": "nada",
+                "pos": "noun"
+            },
+            {
+                "word": "Nadia",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a dish of tortilla chips served with beans, cheese, spices, etc.",
+                    "vi": "một món bánh tortilla ăn kèm với đậu, pho mát, gia vị, v.v."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "c2f381531ac94c2293a9041e071b9c09",
+        "word": "open-faced sandwich",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌəʊpən feɪst ˈsænwɪtʃ/",
+            "us": "/ˌəʊpən feɪst ˈsænwɪtʃ/"
+        },
+        "nearby": [
+            {
+                "word": "open-ended",
+                "pos": "adjective"
+            },
+            {
+                "word": "opener",
+                "pos": "noun"
+            },
+            {
+                "word": "open-faced sandwich",
+                "pos": "noun"
+            },
+            {
+                "word": "open-handed",
+                "pos": "adjective"
+            },
+            {
+                "word": "open-hearted",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a slice of bread with meat, cheese, etc. on top but without a second slice of bread to cover this",
+                    "vi": "một lát bánh mì với thịt, pho mát, v.v. ở trên nhưng không có lát bánh mì thứ hai để phủ lên"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "ef4e416c6f90495a9b2f5cf331e16a8d",
+        "word": "pad thai",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌpæd ˈtaɪ/",
+            "us": "/ˌpæd ˈtaɪ/"
+        },
+        "nearby": [
+            {
+                "word": "pad out",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "padre",
+                "pos": "noun"
+            },
+            {
+                "word": "pad thai",
+                "pos": "noun"
+            },
+            {
+                "word": "paean",
+                "pos": "noun"
+            },
+            {
+                "word": "paed-",
+                "pos": "combining form"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a dish from Thailand made with a type of noodles made from rice, spices, egg, vegetables and sometimes meat or seafood",
+                    "vi": "một món ăn từ Thái Lan được làm từ một loại mì làm từ gạo, gia vị, trứng, rau và đôi khi là thịt hoặc hải sản"
+                },
+                "examples": [
+                    {
+                        "en": "For dinner, I ordered the chicken pad thai.",
+                        "vi": "Đối với bữa tối, tôi gọi món gà Thái."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e10f7e1bc21e4c778f873d7f25913ad5",
+        "word": "paste",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/peɪst/",
+            "us": "/peɪst/"
+        },
+        "nearby": [
+            {
+                "word": "past",
+                "pos": "adverb"
+            },
+            {
+                "word": "pasta",
+                "pos": "noun"
+            },
+            {
+                "word": "paste",
+                "pos": "noun"
+            },
+            {
+                "word": "paste",
+                "pos": "verb"
+            },
+            {
+                "word": "pasteboard",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a soft wet mixture, usually made of a powder and a liquid",
+                    "vi": "một hỗn hợp ướt mềm, thường được làm từ bột và chất lỏng"
+                },
+                "examples": [
+                    {
+                        "en": "She mixed the flour and water to a smooth paste.",
+                        "vi": "Cô trộn đều bột mì và nước thành hỗn hợp nhuyễn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a smooth, soft mixture of meat, fish, etc. that is spread on bread or used in cooking",
+                    "vi": "một hỗn hợp mịn, mềm của thịt, cá, v.v. được phết lên bánh mì hoặc dùng trong nấu ăn"
+                },
+                "examples": [
+                    {
+                        "en": "meat/fish/tomato paste",
+                        "vi": "thịt / cá / sốt cà chua"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a type of glue that is used for sticking paper to things",
+                    "vi": "một loại keo được sử dụng để dán giấy vào đồ vật"
+                },
+                "examples": [
+                    {
+                        "en": "wallpaper paste",
+                        "vi": "dán giấy dán tường"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a substance like glass, that is used for making artificial jewels, for example diamonds",
+                    "vi": "một chất như thủy tinh, được sử dụng để làm đồ trang sức nhân tạo, ví dụ như kim cương"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "d7b7e8b0feb84a5fa1cf9c38bc1a4401",
+        "word": "pasty",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpæsti/",
+            "us": "/ˈpæsti/"
+        },
+        "nearby": [
+            {
+                "word": "pasture",
+                "pos": "verb"
+            },
+            {
+                "word": "pastureland",
+                "pos": "noun"
+            },
+            {
+                "word": "pasty1",
+                "pos": "noun"
+            },
+            {
+                "word": "pasty2",
+                "pos": "adjective"
+            },
+            {
+                "word": "pat",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small pie containing meat and/or vegetables",
+                    "vi": "một chiếc bánh nhỏ chứa thịt và / hoặc rau"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "7d460bcacf7a4e6dab00f1d3ee823689",
+        "word": "ploughman’s lunch",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌplaʊmənz ˈlʌntʃ/",
+            "us": "/ˌplaʊmənz ˈlʌntʃ/"
+        },
+        "nearby": [
+            {
+                "word": "plough into",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "ploughman",
+                "pos": "noun"
+            },
+            {
+                "word": "ploughman's lunch",
+                "pos": "noun"
+            },
+            {
+                "word": "plough on",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "ploughshare",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a cold meal of bread, cheese, pickle and salad, often served in pubs",
+                    "vi": "một bữa ăn nguội gồm bánh mì, pho mát, dưa chua và salad, thường được phục vụ trong các quán rượu"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "0d28182c926a43e691e56c716019ee78",
+        "word": "pot pie",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpɒt paɪ/",
+            "us": "/ˈpɑːt paɪ/"
+        },
+        "nearby": [
+            {
+                "word": "Pot Noodle",
+                "pos": "noun"
+            },
+            {
+                "word": "the Potomac River",
+                "pos": ""
+            },
+            {
+                "word": "pot pie",
+                "pos": "noun"
+            },
+            {
+                "word": "pot plant",
+                "pos": "noun"
+            },
+            {
+                "word": "potpourri",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "meat, vegetables, etc. baked in a deep dish with pastry on top",
+                    "vi": "thịt, rau, v.v. nướng trong một đĩa sâu với bánh ngọt ở trên"
+                },
+                "examples": [
+                    {
+                        "en": "a chicken pot pie",
+                        "vi": "một chiếc bánh nồi gà"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1898a0482a294aaea9bc58ad57139f5b",
+        "word": "poutine",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/puːˈtɪn/",
+            "us": "/puːˈtɪn/"
+        },
+        "nearby": [
+            {
+                "word": "pout",
+                "pos": "verb"
+            },
+            {
+                "word": "pout",
+                "pos": "noun"
+            },
+            {
+                "word": "poutine",
+                "pos": "noun"
+            },
+            {
+                "word": "pouty",
+                "pos": "adjective"
+            },
+            {
+                "word": "poverty",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a dish of French fries with melted cheese on top, served with a sauce (usually gravy)",
+                    "vi": "một món khoai tây chiên với pho mát tan chảy bên trên, ăn kèm với nước sốt (thường là nước thịt)"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "13c52280f97e44a8a8b6833aabb63271",
+        "word": "quesadilla",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌkeɪsəˈdiːə/",
+            "us": "/ˌkeɪsəˈdiːə/"
+        },
+        "nearby": [
+            {
+                "word": "query",
+                "pos": "verb"
+            },
+            {
+                "word": "query language",
+                "pos": "noun"
+            },
+            {
+                "word": "quesadilla",
+                "pos": "noun"
+            },
+            {
+                "word": "quest",
+                "pos": "noun"
+            },
+            {
+                "word": "quest",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a Mexican dish consisting of a tortilla (= flat round bread) filled with cheese and sometimes meat or other ingredients, folded in half and fried",
+                    "vi": "một món ăn Mexico bao gồm một chiếc bánh tortilla (= bánh mì tròn dẹt) phủ đầy pho mát và đôi khi là thịt hoặc các thành phần khác, gấp đôi và chiên"
+                },
+                "examples": [
+                    {
+                        "en": "He ordered quesadillas with guacamole and sour cream.",
+                        "vi": "Anh ấy gọi món quesadillas với guacamole và kem chua."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7b911836805e485e94366846e0b2c429",
+        "word": "quiche",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/kiːʃ/",
+            "us": "/kiːʃ/"
+        },
+        "nearby": [
+            {
+                "word": "quibble",
+                "pos": "verb"
+            },
+            {
+                "word": "quibble",
+                "pos": "noun"
+            },
+            {
+                "word": "quiche",
+                "pos": "noun"
+            },
+            {
+                "word": "quick",
+                "pos": "adjective"
+            },
+            {
+                "word": "quick",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an open pie filled with a mixture of eggs and milk with meat, vegetables, cheese, etc.",
+                    "vi": "một chiếc bánh mở với hỗn hợp trứng và sữa với thịt, rau, pho mát, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "a mushroom quiche",
+                        "vi": "một chiếc bánh quiche nấm"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4ccdfc0be6634aad9b76aae20c8951a9",
+        "word": "ragout",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ræˈɡuː/",
+            "us": "/ræˈɡuː/"
+        },
+        "nearby": [
+            {
+                "word": "raglan",
+                "pos": "adjective"
+            },
+            {
+                "word": "rag on",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "ragout",
+                "pos": "noun"
+            },
+            {
+                "word": "rag rug",
+                "pos": "noun"
+            },
+            {
+                "word": "ragtag",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a hot dish of meat and vegetables boiled together with various spices",
+                    "vi": "một món ăn nóng gồm thịt và rau luộc cùng với nhiều loại gia vị khác nhau"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "5ab3a4325f2e46048a22ee63e06fc7ad",
+        "word": "rarebit",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈreəbɪt/",
+            "us": "/ˈrerbɪt/"
+        },
+        "nearby": [
+            {
+                "word": "rapturously",
+                "pos": "adverb"
+            },
+            {
+                "word": "rare",
+                "pos": "adjective"
+            },
+            {
+                "word": "rarebit",
+                "pos": "noun"
+            },
+            {
+                "word": "rare breed",
+                "pos": "noun"
+            },
+            {
+                "word": "rare earth",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a hot dish of cheese melted on toast",
+                    "vi": "một món pho mát nóng chảy trên bánh mì nướng"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "66425a19a0e4450b84571b63b86bdba1",
+        "word": "ratatouille",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌrætəˈtuːi/",
+            "us": "/ˌrætəˈtuːi/"
+        },
+        "nearby": [
+            {
+                "word": "rat-arsed",
+                "pos": "adjective"
+            },
+            {
+                "word": "rat-a-tat",
+                "pos": "noun"
+            },
+            {
+                "word": "ratatouille",
+                "pos": "noun"
+            },
+            {
+                "word": "ratbag",
+                "pos": "noun"
+            },
+            {
+                "word": "ratchet",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a dish of onions, peppers, aubergines, courgettes and tomatoes cooked together",
+                    "vi": "một món ăn gồm hành tây, ớt, cà chua, ớt sừng và cà chua nấu cùng nhau"
+                },
+                "examples": [
+                    {
+                        "en": "Ratatouille can be eaten hot or cold.",
+                        "vi": "Ratatouille có thể ăn nóng hoặc lạnh."
+                    },
+                    {
+                        "en": "She made a delicious ratatouille.",
+                        "vi": "Cô ấy đã làm món ratatouille ngon lành."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2e99b8f9f4f442379bf0c49a9bfc02e8",
+        "word": "ravioli",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌræviˈəʊli/",
+            "us": "/ˌræviˈəʊli/"
+        },
+        "nearby": [
+            {
+                "word": "raving",
+                "pos": "adverb"
+            },
+            {
+                "word": "ravings",
+                "pos": "noun"
+            },
+            {
+                "word": "ravioli",
+                "pos": "noun"
+            },
+            {
+                "word": "ravish",
+                "pos": "verb"
+            },
+            {
+                "word": "ravishing",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "pasta in the shape of small squares filled with meat, cheese, etc., usually served with a sauce",
+                    "vi": "mì ống ở dạng hình vuông nhỏ với nhân thịt, pho mát, v.v., thường được phục vụ với nước sốt"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "b0f2b48b1b684e5e9c4de2aa09912c2d",
+        "word": "risotto",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/rɪˈzɒtəʊ/",
+            "us": "/rɪˈsɔːtəʊ/"
+        },
+        "nearby": [
+            {
+                "word": "risk-taking",
+                "pos": "noun"
+            },
+            {
+                "word": "risky",
+                "pos": "adjective"
+            },
+            {
+                "word": "risotto",
+                "pos": "noun"
+            },
+            {
+                "word": "risqué",
+                "pos": "adjective"
+            },
+            {
+                "word": "rissole",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an Italian dish of rice cooked with vegetables, meat, etc.",
+                    "vi": "một món ăn Ý gồm cơm nấu với rau, thịt, v.v."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "f239726cb6ee495681cc8047db97c6d1",
+        "word": "rogan josh",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌrəʊɡən ˈdʒəʊʃ/",
+            "us": "/ˌrəʊɡən ˈdʒəʊʃ/"
+        },
+        "nearby": [
+            {
+                "word": "Roe v Wade",
+                "pos": "noun"
+            },
+            {
+                "word": "ROFL",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "rogan josh",
+                "pos": "noun"
+            },
+            {
+                "word": "Rogation Days",
+                "pos": "noun"
+            },
+            {
+                "word": "roger",
+                "pos": "exclamation"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a spicy South Asian dish consisting of lamb or other meat cooked in a sauce made with tomatoes",
+                    "vi": "một món ăn Nam Á cay bao gồm thịt cừu hoặc thịt khác nấu trong nước sốt làm từ cà chua"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "da1360ee052b4ea68801663952e7ccb0",
+        "word": "shepherd’s pie",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌʃepədz ˈpaɪ/",
+            "us": "/ˌʃepərdz ˈpaɪ/"
+        },
+        "nearby": [
+            {
+                "word": "shepherdess",
+                "pos": "noun"
+            },
+            {
+                "word": "Shepherd's Bush",
+                "pos": ""
+            },
+            {
+                "word": "shepherd's pie",
+                "pos": "noun"
+            },
+            {
+                "word": "Shepperton Studios",
+                "pos": ""
+            },
+            {
+                "word": "sher",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a dish of lamb (= meat from a young sheep) cut into very small pieces and covered with a layer of mashed potato",
+                    "vi": "một món thịt cừu (= thịt cừu non) được cắt thành những miếng rất nhỏ và phủ một lớp khoai tây nghiền"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "b1e8a80e16414f87b453ca02b592a236",
+        "word": "shish kebab",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈʃɪʃ kɪbæb/",
+            "us": "/ˈʃɪʃ kɪbɑːb/"
+        },
+        "nearby": [
+            {
+                "word": "shirty",
+                "pos": "adjective"
+            },
+            {
+                "word": "shisha",
+                "pos": "noun"
+            },
+            {
+                "word": "shish kebab",
+                "pos": "noun"
+            },
+            {
+                "word": "shit",
+                "pos": "exclamation"
+            },
+            {
+                "word": "shit",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "small pieces of meat and vegetables cooked on a wooden or metal stick",
+                    "vi": "các miếng thịt và rau nhỏ nấu trên que gỗ hoặc kim loại"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "aac246386195422f88c9327eb9e9b806",
+        "word": "sloppy joe",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌslɒpi ˈdʒəʊ/",
+            "us": "/ˌslɑːpi ˈdʒəʊ/"
+        },
+        "nearby": [
+            {
+                "word": "sloppiness",
+                "pos": "noun"
+            },
+            {
+                "word": "sloppy",
+                "pos": "adjective"
+            },
+            {
+                "word": "sloppy joe",
+                "pos": "noun"
+            },
+            {
+                "word": "slosh",
+                "pos": "verb"
+            },
+            {
+                "word": "slosh about",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "meat that has been cut into very small pieces, served in a spicy tomato sauce inside a bun (= bread roll)",
+                    "vi": "thịt đã được cắt thành những miếng rất nhỏ, phục vụ với nước sốt cà chua cay bên trong một chiếc bánh mì (= bánh mì cuộn)"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "a4d4f7f45b1f42cda587543b20ecb2cc",
+        "word": "soufflé",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈsuːfleɪ/",
+            "us": "/suːˈfleɪ/"
+        },
+        "nearby": [
+            {
+                "word": "sou",
+                "pos": "noun"
+            },
+            {
+                "word": "soubriquet",
+                "pos": "noun"
+            },
+            {
+                "word": "soufflé",
+                "pos": "noun"
+            },
+            {
+                "word": "sough",
+                "pos": "verb"
+            },
+            {
+                "word": "sought",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a dish made from egg whites, milk and flour mixed together to make it light, with cheese, fruit, etc. added and baked until it rises",
+                    "vi": "một món ăn làm từ lòng trắng trứng, sữa và bột mì trộn với nhau để tạo độ sánh nhẹ, có thêm pho mát, trái cây, v.v. và nướng cho đến khi nổi lên"
+                },
+                "examples": [
+                    {
+                        "en": "a cheese soufflé",
+                        "vi": "một Soufflé pho mát"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "286de456f16648cda4bec7a0c2481bd9",
+        "word": "souvlaki",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/suːˈvlɑːki/",
+            "us": "/suːˈvlɑːki/"
+        },
+        "nearby": [
+            {
+                "word": "South Yorkshire",
+                "pos": ""
+            },
+            {
+                "word": "souvenir",
+                "pos": "noun"
+            },
+            {
+                "word": "souvlaki",
+                "pos": "noun"
+            },
+            {
+                "word": "sou'wester",
+                "pos": "noun"
+            },
+            {
+                "word": "sovereign",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a Greek dish consisting of pieces of meat cooked on sticks",
+                    "vi": "một món ăn Hy Lạp bao gồm các miếng thịt được nấu chín trên que"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "2d18f901745a412eae2265eb5a8f08ab",
+        "word": "spaghetti bolognese",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/spəˌɡeti ˌbɒləˈneɪz/",
+            "us": "/spəˌɡeti ˌbəʊləˈneɪz/"
+        },
+        "nearby": [
+            {
+                "word": "spadework",
+                "pos": "noun"
+            },
+            {
+                "word": "spaghetti",
+                "pos": "noun"
+            },
+            {
+                "word": "spaghetti bolognese",
+                "pos": "noun"
+            },
+            {
+                "word": "spaghetti junction",
+                "pos": "noun"
+            },
+            {
+                "word": "spaghetti western",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a dish of spaghetti with a sauce of meat, tomatoes, etc.",
+                    "vi": "một món mì Ý với nước sốt thịt, cà chua, v.v."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "5d492838965143f883b8a6c393ddb505",
+        "word": "stroganoff",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈstrɒɡənɒf/",
+            "us": "/ˈstrɔːɡənɔːf/"
+        },
+        "nearby": [
+            {
+                "word": "strobing",
+                "pos": "noun"
+            },
+            {
+                "word": "strode",
+                "pos": "verb"
+            },
+            {
+                "word": "stroganoff",
+                "pos": "noun"
+            },
+            {
+                "word": "stroke",
+                "pos": "noun"
+            },
+            {
+                "word": "stroke",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a hot dish consisting of meat in a sauce that contains sour cream",
+                    "vi": "một món ăn nóng gồm thịt trong nước sốt có kem chua"
+                },
+                "examples": [
+                    {
+                        "en": "beef stroganoff",
+                        "vi": "thịt bò"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7c6c177c726b400cabff19122e6486a2",
+        "word": "stuffing",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈstʌfɪŋ/",
+            "us": "/ˈstʌfɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "stuffed up",
+                "pos": "adjective"
+            },
+            {
+                "word": "stuffiness",
+                "pos": "noun"
+            },
+            {
+                "word": "stuffing",
+                "pos": "noun"
+            },
+            {
+                "word": "stuffy",
+                "pos": "adjective"
+            },
+            {
+                "word": "stultify",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a mixture of food such as bread, onions and herbs, cut into very small pieces and placed inside a chicken, etc. before it is cooked",
+                    "vi": "một hỗn hợp thực phẩm như bánh mì, hành tây và rau thơm, được cắt thành những miếng rất nhỏ và đặt bên trong một con gà, v.v. trước khi nó được nấu chín"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "soft material used to fill cushions, toys, etc.",
+                    "vi": "vật liệu mềm được sử dụng để làm đệm, đồ chơi, v.v."
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to make somebody lose their confidence and enthusiasm",
+                    "vi": "làm cho ai đó mất tự tin và nhiệt tình"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "b466f004b0dc4f86a6cba9b4b1d140da",
+        "word": "succotash",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈsʌkətæʃ/",
+            "us": "/ˈsʌkətæʃ/"
+        },
+        "nearby": [
+            {
+                "word": "succinctly",
+                "pos": "adverb"
+            },
+            {
+                "word": "succinctness",
+                "pos": "noun"
+            },
+            {
+                "word": "succotash",
+                "pos": "noun"
+            },
+            {
+                "word": "Succoth",
+                "pos": "noun"
+            },
+            {
+                "word": "succour",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a dish of corn (maize) and beans cooked together",
+                    "vi": "một món ngô (ngô) và đậu nấu cùng nhau"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "e324f19077d24aaab758f315899588ee",
+        "word": "sushi",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈsuːʃi/",
+            "us": "/ˈsuːʃi/"
+        },
+        "nearby": [
+            {
+                "word": "susceptibility",
+                "pos": "noun"
+            },
+            {
+                "word": "susceptible",
+                "pos": "adjective"
+            },
+            {
+                "word": "sushi",
+                "pos": "noun"
+            },
+            {
+                "word": "Susie",
+                "pos": ""
+            },
+            {
+                "word": "suspect",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a Japanese dish of small cakes of cold cooked rice, with vinegar added and served with raw fish, etc. on top",
+                    "vi": "Một món ăn Nhật Bản gồm những chiếc bánh cơm nguội nhỏ, có thêm giấm và ăn kèm với cá sống, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "a sushi bar/restaurant",
+                        "vi": "một quán bar / nhà hàng sushi"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "aab804a535744780bd10ba61e4cdc34c",
+        "word": "tabbouleh",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/təˈbuːleɪ/",
+            "us": "/təˈbuːleɪ/"
+        },
+        "nearby": [
+            {
+                "word": "Tabasco",
+                "pos": "noun"
+            },
+            {
+                "word": "Tabata",
+                "pos": "noun"
+            },
+            {
+                "word": "tabbouleh",
+                "pos": "noun"
+            },
+            {
+                "word": "tabby",
+                "pos": "noun"
+            },
+            {
+                "word": "tabernacle",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an Arab dish consisting of wheat with tomatoes, onions and herbs, cut into small pieces",
+                    "vi": "một món ăn Ả Rập gồm lúa mì với cà chua, hành tây và rau thơm, cắt thành từng miếng nhỏ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "2d72f96315ee492dbf4660fa6dd3ab15",
+        "word": "tabouli",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/təˈbuːli/",
+            "us": "/təˈbuːli/"
+        },
+        "nearby": [
+            {
+                "word": "taboo word",
+                "pos": "noun"
+            },
+            {
+                "word": "tabor",
+                "pos": "noun"
+            },
+            {
+                "word": "tabouli",
+                "pos": "noun"
+            },
+            {
+                "word": "tab stop",
+                "pos": "noun"
+            },
+            {
+                "word": "tabular",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an Arab dish consisting of wheat with tomatoes, onions and herbs, cut into small pieces",
+                    "vi": "một món ăn Ả Rập gồm lúa mì với cà chua, hành tây và rau thơm, cắt thành từng miếng nhỏ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "a69a32a508db47aaaca5bbaa38a15d4c",
+        "word": "taco",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtækəʊ/",
+            "us": "/ˈtɑːkəʊ/"
+        },
+        "nearby": [
+            {
+                "word": "tack onto",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "tacky",
+                "pos": "adjective"
+            },
+            {
+                "word": "taco",
+                "pos": "noun"
+            },
+            {
+                "word": "Taco Bell",
+                "pos": ""
+            },
+            {
+                "word": "tact",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a type of Mexican food consisting of a fried pancake that is folded over and filled with meat, beans, etc.",
+                    "vi": "một loại thực phẩm Mexico bao gồm một chiếc bánh kếp chiên được gấp lại và nhân thịt, đậu, v.v."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "1e99849bb7ed43ed80f24e323f407eaa",
+        "word": "taramasalata",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌtærəməsəˈlɑːtə/",
+            "us": "/ˌtærəməsəˈlɑːtə/"
+        },
+        "nearby": [
+            {
+                "word": "tar",
+                "pos": "verb"
+            },
+            {
+                "word": "ta-ra",
+                "pos": "exclamation"
+            },
+            {
+                "word": "taramasalata",
+                "pos": "noun"
+            },
+            {
+                "word": "tarantula",
+                "pos": "noun"
+            },
+            {
+                "word": "tarboosh",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a type of Greek food made from fish eggs",
+                    "vi": "một loại thực phẩm Hy Lạp làm từ trứng cá"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "66c6fb15ecea4537bbd86863c5d5b3b7",
+        "word": "tempeh",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtempeɪ/",
+            "us": "/ˈtempeɪ/"
+        },
+        "nearby": [
+            {
+                "word": "temp",
+                "pos": "verb"
+            },
+            {
+                "word": "temp",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "tempeh",
+                "pos": "noun"
+            },
+            {
+                "word": "temper",
+                "pos": "noun"
+            },
+            {
+                "word": "temper",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an Indonesian dish made from fermented soya beans",
+                    "vi": "một món ăn Indonesia làm từ đậu nành lên men"
+                },
+                "examples": [
+                    {
+                        "en": "To make this dish vegetarian, substitute tempeh for meat.",
+                        "vi": "Để làm món ăn này là món chay, hãy thay tempeh bằng thịt."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8c08cbf6c86b4ff4a55ced5e1e09bb95",
+        "word": "teriyaki",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌteriˈæki/",
+            "us": "/ˌteriˈjɑːki/"
+        },
+        "nearby": [
+            {
+                "word": "tergiversation",
+                "pos": "noun"
+            },
+            {
+                "word": "Teri",
+                "pos": ""
+            },
+            {
+                "word": "teriyaki",
+                "pos": "noun"
+            },
+            {
+                "word": "'Studs' Terkel",
+                "pos": ""
+            },
+            {
+                "word": "term",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a Japanese dish consisting of meat or fish that has been left in a sweet sauce and then cooked",
+                    "vi": "một món ăn Nhật Bản bao gồm thịt hoặc cá được để trong nước sốt ngọt và sau đó nấu chín"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "95253c9a42e246e79e35b6cf83ac71cb",
+        "word": "tian",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/tjæ̃/",
+            "us": "/tjæ̃/"
+        },
+        "nearby": [
+            {
+                "word": "thyself",
+                "pos": "pronoun"
+            },
+            {
+                "word": "ti",
+                "pos": "noun"
+            },
+            {
+                "word": "tian",
+                "pos": "noun"
+            },
+            {
+                "word": "tiara",
+                "pos": "noun"
+            },
+            {
+                "word": "TiB",
+                "pos": "abbreviation"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a French dish consisting of slices of vegetables cooked in olive oil, and covered with a layer of cheese or breadcrumbs",
+                    "vi": "một món ăn Pháp bao gồm các lát rau nấu trong dầu ô liu, và phủ một lớp pho mát hoặc vụn bánh mì"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "9fb375f0838043aaacee192fb82c54c2",
+        "word": "tikka",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtiːkə/",
+            "us": "/ˈtɪkə/"
+        },
+        "nearby": [
+            {
+                "word": "tik",
+                "pos": "noun"
+            },
+            {
+                "word": "tike",
+                "pos": "noun"
+            },
+            {
+                "word": "tikka",
+                "pos": "noun"
+            },
+            {
+                "word": "til",
+                "pos": "conjunction, preposition"
+            },
+            {
+                "word": "'til",
+                "pos": "conjunction, preposition"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a spicy South Asian dish consisting of pieces of meat or vegetables that have been left in a sauce and then cooked",
+                    "vi": "một món ăn Nam Á cay bao gồm các miếng thịt hoặc rau đã được để trong nước sốt và sau đó nấu chín"
+                },
+                "examples": [
+                    {
+                        "en": "lamb tikka",
+                        "vi": "thịt cừu tikka"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5762c19a57b84304b2a50c2cfd3faa8d",
+        "word": "toad-in-the-hole",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌtəʊd ɪn ðə ˈhəʊl/",
+            "us": "/ˌtəʊd ɪn ðə ˈhəʊl/"
+        },
+        "nearby": [
+            {
+                "word": "toad",
+                "pos": "noun"
+            },
+            {
+                "word": "Toad",
+                "pos": ""
+            },
+            {
+                "word": "toad-in-the-hole",
+                "pos": "noun"
+            },
+            {
+                "word": "Toad of Toad Hall",
+                "pos": ""
+            },
+            {
+                "word": "toadstool",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a British dish of sausages cooked in batter",
+                    "vi": "một món xúc xích nấu chín trong bột của Anh"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "139681c8b205480f921195ee8fd14ca5",
+        "word": "tortellini",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌtɔːtəˈliːni/",
+            "us": "/ˌtɔːrtəˈliːni/"
+        },
+        "nearby": [
+            {
+                "word": "tort",
+                "pos": "noun"
+            },
+            {
+                "word": "torte",
+                "pos": "noun"
+            },
+            {
+                "word": "tortellini",
+                "pos": "noun"
+            },
+            {
+                "word": "tortilla",
+                "pos": "noun"
+            },
+            {
+                "word": "tortilla chip",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "small squares of pasta that are filled with meat or cheese and then rolled and formed into small rings",
+                    "vi": "những hình vuông nhỏ của mì ống có nhân thịt hoặc pho mát, sau đó cuộn lại và tạo thành những vòng nhỏ"
+                },
+                "examples": [
+                    {
+                        "en": "tortellini with a creamy mushroom sauce",
+                        "vi": "bánh tortellini với sốt kem nấm"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c99859bb34b24f49923c9d1ad1b3ca0d",
+        "word": "tortilla",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/tɔːˈtiːə/",
+            "us": "/tɔːrˈtiːə/"
+        },
+        "nearby": [
+            {
+                "word": "torte",
+                "pos": "noun"
+            },
+            {
+                "word": "tortellini",
+                "pos": "noun"
+            },
+            {
+                "word": "tortilla",
+                "pos": "noun"
+            },
+            {
+                "word": "tortilla chip",
+                "pos": "noun"
+            },
+            {
+                "word": "tortoise",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a thin Mexican pancake made with corn (maize) flour or wheat flour, usually eaten hot and filled with meat, cheese, etc.",
+                    "vi": "một loại bánh kếp mỏng của Mexico được làm bằng bột ngô (ngô) hoặc bột mỳ, thường được ăn nóng và nhân thịt, pho mát, v.v."
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a Spanish dish made with eggs and potatoes fried together",
+                    "vi": "một món ăn Tây Ban Nha làm từ trứng và khoai tây chiên cùng nhau"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "6dfb2586c137414795c54d850c4dd661",
+        "word": "vindaloo",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌvɪndəˈluː/",
+            "us": "/ˌvɪndəˈluː/"
+        },
+        "nearby": [
+            {
+                "word": "vinaigrette",
+                "pos": "noun"
+            },
+            {
+                "word": "Vincentian",
+                "pos": "noun, adjective"
+            },
+            {
+                "word": "vindaloo",
+                "pos": "noun"
+            },
+            {
+                "word": "vindicate",
+                "pos": "verb"
+            },
+            {
+                "word": "vindication",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a very spicy Indian dish, usually containing meat or fish",
+                    "vi": "một món ăn Ấn Độ rất cay, thường có thịt hoặc cá"
+                },
+                "examples": [
+                    {
+                        "en": "lamb vindaloo",
+                        "vi": "Lamb Vindaloo"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "30ae40897c5041b0ad8592d578d96c9d",
+        "word": "Welsh rarebit",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌwelʃ ˈreəbɪt/",
+            "us": "/ˌwelʃ ˈrerbɪt/"
+        },
+        "nearby": [
+            {
+                "word": "the Welsh Language Board",
+                "pos": ""
+            },
+            {
+                "word": "Welsh National Opera",
+                "pos": ""
+            },
+            {
+                "word": "Welsh rarebit",
+                "pos": "noun"
+            },
+            {
+                "word": "the Welsh valleys",
+                "pos": ""
+            },
+            {
+                "word": "welt",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a hot dish of cheese melted on toast",
+                    "vi": "một món pho mát nóng chảy trên bánh mì nướng"
+                },
+                "examples": []
+            }
+        ]
+    }
+]

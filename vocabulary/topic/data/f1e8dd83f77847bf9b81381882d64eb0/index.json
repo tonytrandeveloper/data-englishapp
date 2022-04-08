@@ -1,0 +1,4383 @@
+[
+    {
+        "id": "3964d72b01da4ab2a5881aac693b1fe0",
+        "word": "op",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ɒp/",
+            "us": "/ɑːp/"
+        },
+        "nearby": [
+            {
+                "word": "ooze",
+                "pos": "noun"
+            },
+            {
+                "word": "oozy",
+                "pos": "adjective"
+            },
+            {
+                "word": "op",
+                "pos": "noun"
+            },
+            {
+                "word": "Op.",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "opacity",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a medical operation",
+                    "vi": "một hoạt động y tế"
+                },
+                "examples": [
+                    {
+                        "en": "I'm going in for my op on Monday.",
+                        "vi": "Tôi sẽ tham gia buổi chọn của mình vào thứ Hai."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the department in a company that manages the way it produces goods or delivers services and makes sure its business practices are efficient",
+                    "vi": "bộ phận trong một công ty quản lý cách nó sản xuất hàng hóa hoặc cung cấp dịch vụ và đảm bảo rằng các phương thức kinh doanh của nó có hiệu quả"
+                },
+                "examples": [
+                    {
+                        "en": "She works in Sales OPs.",
+                        "vi": "Cô ấy làm việc trong các OP bán hàng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "military activity; military operations",
+                    "vi": "hoạt động quân sự; Hoạt động quân sự"
+                },
+                "examples": [
+                    {
+                        "en": "on ops to go out on ops",
+                        "vi": "về các hoạt động để đi ra ngoài hoạt động"
+                    },
+                    {
+                        "en": "special ops",
+                        "vi": "hoạt động đặc biệt"
+                    },
+                    {
+                        "en": "black ops (= secret military activities, especially illegal ones)",
+                        "vi": "hoạt động đen (= các hoạt động quân sự bí mật, đặc biệt là các hoạt động bất hợp pháp)"
+                    },
+                    {
+                        "en": "He was in charge of a covert ops team.",
+                        "vi": "Anh ta phụ trách một đội hoạt động bí mật."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "57a2705a2fdf4957a1b5c054755f0f30",
+        "word": "operation",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˌɒpəˈreɪʃn/",
+            "us": "/ˌɑːpəˈreɪʃn/"
+        },
+        "nearby": [
+            {
+                "word": "operating table",
+                "pos": "noun"
+            },
+            {
+                "word": "operating theatre",
+                "pos": "noun"
+            },
+            {
+                "word": "operation",
+                "pos": "noun"
+            },
+            {
+                "word": "operational",
+                "pos": "adjective"
+            },
+            {
+                "word": "operationally",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the process of cutting open a part of a person’s body in order to remove or repair a damaged part",
+                    "vi": "quá trình cắt mở một bộ phận cơ thể của một người để loại bỏ hoặc sửa chữa một bộ phận bị hư hỏng"
+                },
+                "examples": [
+                    {
+                        "en": "Will I need to have an operation?",
+                        "vi": "Tôi có cần phải phẫu thuật không?"
+                    },
+                    {
+                        "en": "He underwent a three-hour heart operation.",
+                        "vi": "Anh ấy đã trải qua một ca phẫu thuật tim kéo dài ba giờ."
+                    },
+                    {
+                        "en": "operation to do something He had an operation to remove a growth.",
+                        "vi": "phẫu thuật để làm điều gì đó Anh ta đã phẫu thuật để loại bỏ một sự phát triển."
+                    },
+                    {
+                        "en": "operation on somebody/something (to do something) an operation on her lung to remove a tumour",
+                        "vi": "phẫu thuật cho ai đó / cái gì đó (để làm điều gì đó) một cuộc phẫu thuật trên phổi của cô ấy để loại bỏ một khối u"
+                    },
+                    {
+                        "en": "operation for something Doctors performed an emergency operation for appendicitis last night.",
+                        "vi": "phẫu thuật cho cái gì đó Các bác sĩ đã thực hiện một ca mổ cấp cứu cho bệnh viêm ruột thừa vào đêm qua."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an organized activity that involves several people",
+                    "vi": "một hoạt động có tổ chức liên quan đến nhiều người"
+                },
+                "examples": [
+                    {
+                        "en": "Weather conditions were too bad to mount a rescue operation.",
+                        "vi": "Điều kiện thời tiết quá xấu để thực hiện một chiến dịch cứu hộ."
+                    },
+                    {
+                        "en": "The authorities launched a massive security operation in the city.",
+                        "vi": "Các nhà chức trách đã phát động một chiến dịch an ninh lớn trong thành phố."
+                    },
+                    {
+                        "en": "It was a covert government operation sanctioned by the President himself.",
+                        "vi": "Đó là một hoạt động bí mật của chính phủ do chính Tổng thống chế tài."
+                    },
+                    {
+                        "en": "operation against somebody/something The police have launched a major operation against drug suppliers.",
+                        "vi": "hoạt động chống lại ai đó / cái gì đó Cảnh sát đã phát động một chiến dịch lớn chống lại các nhà cung cấp ma túy."
+                    },
+                    {
+                        "en": "the UN peacekeeping operations",
+                        "vi": "các hoạt động gìn giữ hòa bình của Liên hợp quốc"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a business or company, usually one that involves many parts",
+                    "vi": "một doanh nghiệp hoặc công ty, thường là một công ty liên quan đến nhiều bộ phận"
+                },
+                "examples": [
+                    {
+                        "en": "a huge multinational operation",
+                        "vi": "một hoạt động đa quốc gia khổng lồ"
+                    },
+                    {
+                        "en": "He runs a successful dairy operation.",
+                        "vi": "Anh ấy điều hành một công ty sản xuất sữa thành công."
+                    },
+                    {
+                        "en": "The venture will be set up as a 70%–30% joint operation.",
+                        "vi": "Liên doanh sẽ được thành lập như một hoạt động chung 70% –30%."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the activity or work done in a company, or in an area of business or industry",
+                    "vi": "hoạt động hoặc công việc được thực hiện trong một công ty, hoặc trong một lĩnh vực kinh doanh hoặc ngành"
+                },
+                "examples": [
+                    {
+                        "en": "The firm is looking to expand its operations overseas.",
+                        "vi": "Công ty đang tìm cách mở rộng hoạt động ra nước ngoài."
+                    },
+                    {
+                        "en": "The company announced it would cease operations.",
+                        "vi": "Công ty thông báo sẽ ngừng hoạt động."
+                    },
+                    {
+                        "en": "The directors are not involved in day-to-day operations of the business.",
+                        "vi": "Các giám đốc không tham gia vào hoạt động hàng ngày của doanh nghiệp."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an act performed by a machine, especially a computer",
+                    "vi": "một hành động được thực hiện bởi một máy móc, đặc biệt là một máy tính"
+                },
+                "examples": [
+                    {
+                        "en": "The whole operation is performed in less than three seconds.",
+                        "vi": "Toàn bộ hoạt động được thực hiện trong vòng chưa đầy ba giây."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the way that parts of a machine or a system work; the process of making something work",
+                    "vi": "cách thức hoạt động của các bộ phận của máy móc hoặc hệ thống; quá trình làm cho một cái gì đó hoạt động"
+                },
+                "examples": [
+                    {
+                        "en": "Regular servicing guarantees the smooth operation of the engine.",
+                        "vi": "Bảo dưỡng thường xuyên đảm bảo động cơ hoạt động trơn tru."
+                    },
+                    {
+                        "en": "Operation of the device is extremely simple.",
+                        "vi": "Hoạt động của thiết bị vô cùng đơn giản."
+                    },
+                    {
+                        "en": "Competition is central to the operation of markets.",
+                        "vi": "Cạnh tranh là trung tâm của hoạt động của thị trường."
+                    },
+                    {
+                        "en": "The machine can get very hot during operation.",
+                        "vi": "Máy có thể rất nóng trong quá trình hoạt động."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the action of functioning; the fact of being used or active or having an effect",
+                    "vi": "hành động của hoạt động; thực tế của việc được sử dụng hoặc hoạt động hoặc có ảnh hưởng"
+                },
+                "examples": [
+                    {
+                        "en": "The factory will cease operation at the end of the year.",
+                        "vi": "Nhà máy sẽ ngừng hoạt động vào cuối năm."
+                    },
+                    {
+                        "en": "in operation The system has been in operation for six months.",
+                        "vi": "đang hoạt động Hệ thống đã hoạt động được sáu tháng."
+                    },
+                    {
+                        "en": "Temporary traffic controls are in operation on New Road.",
+                        "vi": "Kiểm soát giao thông tạm thời đang hoạt động trên Đường Mới."
+                    },
+                    {
+                        "en": "into operation The new rules come into operation from next week.",
+                        "vi": "đi vào hoạt động Các quy tắc mới sẽ bắt đầu hoạt động từ tuần tới."
+                    },
+                    {
+                        "en": "It's time to put our plan into operation.",
+                        "vi": "Đã đến lúc đưa kế hoạch của chúng tôi vào hoạt động."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "military activity",
+                    "vi": "hoạt động quân sự"
+                },
+                "examples": [
+                    {
+                        "en": "joint military/combat operations",
+                        "vi": "hoạt động quân sự / chiến đấu chung"
+                    },
+                    {
+                        "en": "US forces conducted ground and air operations.",
+                        "vi": "Lực lượng Hoa Kỳ đã tiến hành các hoạt động trên bộ và trên không."
+                    },
+                    {
+                        "en": "He was the officer in charge of operations.",
+                        "vi": "Ông là sĩ quan phụ trách các hoạt động."
+                    },
+                    {
+                        "en": "UN troops supervised the relief operations.",
+                        "vi": "Quân đội Liên Hợp Quốc giám sát các hoạt động cứu trợ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a process in which a number or quantity is changed by adding, multiplying, etc.",
+                    "vi": "một quá trình trong đó một số hoặc đại lượng được thay đổi bằng cách thêm, nhân, v.v."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "f4ba10e2fbbf4cc9817a4e1ae50d4913",
+        "word": "reject",
+        "pos": "verb",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/rɪˈdʒekt/",
+            "us": "/rɪˈdʒekt/"
+        },
+        "nearby": [
+            {
+                "word": "Lord Reith",
+                "pos": ""
+            },
+            {
+                "word": "the Reith lectures",
+                "pos": ""
+            },
+            {
+                "word": "reject",
+                "pos": "verb"
+            },
+            {
+                "word": "reject",
+                "pos": "noun"
+            },
+            {
+                "word": "rejection",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to refuse to accept or consider something",
+                    "vi": "từ chối chấp nhận hoặc xem xét điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "to reject an argument/a hypothesis/a notion/a plan",
+                        "vi": "bác bỏ một lập luận / một giả thuyết / một quan điểm / một kế hoạch"
+                    },
+                    {
+                        "en": "to reject a claim/an offer/a request/an application",
+                        "vi": "để từ chối một yêu cầu / một đề nghị / một yêu cầu / một ứng dụng"
+                    },
+                    {
+                        "en": "The bank has the option of accepting or rejecting this offer.",
+                        "vi": "Ngân hàng có quyền lựa chọn chấp nhận hoặc từ chối đề nghị này."
+                    },
+                    {
+                        "en": "The prime minister rejected any idea of reforming the system.",
+                        "vi": "Thủ tướng bác bỏ mọi ý tưởng cải tổ hệ thống."
+                    },
+                    {
+                        "en": "The proposal was firmly rejected.",
+                        "vi": "Đề xuất đã bị từ chối một cách kiên quyết."
+                    },
+                    {
+                        "en": "School officials flatly rejected the proposal.",
+                        "vi": "Các quan chức của trường thẳng thừng từ chối đề nghị này."
+                    },
+                    {
+                        "en": "All our suggestions were rejected out of hand.",
+                        "vi": "Tất cả các đề xuất của chúng tôi đã bị từ chối trong tầm tay."
+                    },
+                    {
+                        "en": "The Government rejected calls for an inquiry.",
+                        "vi": "Chính phủ đã từ chối các yêu cầu điều tra."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to refuse to accept somebody for a job, position, etc.",
+                    "vi": "từ chối nhận ai đó cho một công việc, vị trí, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "Please reject the following candidates…",
+                        "vi": "Vui lòng từ chối các ứng cử viên sau…"
+                    },
+                    {
+                        "en": "I've been rejected by all the universities I applied to.",
+                        "vi": "Tôi đã bị từ chối bởi tất cả các trường đại học mà tôi đăng ký."
+                    },
+                    {
+                        "en": "Some applicants were rejected outright.",
+                        "vi": "Một số ứng viên đã bị từ chối hoàn toàn."
+                    },
+                    {
+                        "en": "We considered offering him the job, but finally rejected him.",
+                        "vi": "Chúng tôi đã cân nhắc đề nghị công việc cho anh ấy, nhưng cuối cùng đã từ chối anh ấy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to decide not to use, sell, publish, etc. something because its quality is not good enough",
+                    "vi": "để quyết định không sử dụng, bán, xuất bản, v.v. thứ gì đó vì chất lượng của nó không đủ tốt"
+                },
+                "examples": [
+                    {
+                        "en": "Imperfect articles are rejected by our quality control.",
+                        "vi": "Các bài báo không hoàn hảo bị từ chối bởi kiểm soát chất lượng của chúng tôi."
+                    },
+                    {
+                        "en": "The book was at first rejected by publishers.",
+                        "vi": "Ban đầu cuốn sách bị các nhà xuất bản từ chối."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to not accept a new organ after a transplant operation, by producing substances that attack the organ",
+                    "vi": "không chấp nhận một cơ quan mới sau khi phẫu thuật cấy ghép, bằng cách tạo ra các chất tấn công cơ quan đó"
+                },
+                "examples": [
+                    {
+                        "en": "Her body has already rejected two kidneys.",
+                        "vi": "Cơ thể cô ấy đã từ chối hai quả thận."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to fail to give a person or an animal enough love or care",
+                    "vi": "không dành cho một người hoặc một con vật đủ tình yêu thương hoặc sự quan tâm"
+                },
+                "examples": [
+                    {
+                        "en": "The lioness rejected the smallest cub, which died.",
+                        "vi": "Sư tử cái từ chối đàn con nhỏ nhất đã chết."
+                    },
+                    {
+                        "en": "When her husband left home she felt rejected and useless.",
+                        "vi": "Khi chồng bỏ nhà đi, cô cảm thấy bị từ chối và vô dụng."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a58a818073ec478e92b7424c5f91557b",
+        "word": "implant",
+        "pos": "verb",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ɪmˈplɑːnt/",
+            "us": "/ɪmˈplænt/"
+        },
+        "nearby": [
+            {
+                "word": "implacable",
+                "pos": "adjective"
+            },
+            {
+                "word": "implacably",
+                "pos": "adverb"
+            },
+            {
+                "word": "implant",
+                "pos": "verb"
+            },
+            {
+                "word": "implant",
+                "pos": "noun"
+            },
+            {
+                "word": "implantation",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to fix an idea, attitude, etc. in somebody’s mind",
+                    "vi": "để sửa chữa một ý tưởng, thái độ, v.v. trong tâm trí của ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "Prejudices can easily become implanted in the mind.",
+                        "vi": "Những định kiến có thể dễ dàng trở thành cái nhìn sâu sắc hơn vào tâm trí."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to put something (usually something artificial) into a part of the body, usually in a medical operation",
+                    "vi": "để đưa một thứ gì đó (thường là thứ gì đó nhân tạo) vào một bộ phận của cơ thể, thường là trong một cuộc phẫu thuật y tế"
+                },
+                "examples": [
+                    {
+                        "en": "an electrode implanted into the brain",
+                        "vi": "một điện cực được cấy vào não"
+                    },
+                    {
+                        "en": "an operation to implant an artificial heart",
+                        "vi": "một cuộc phẫu thuật để cấy ghép một trái tim nhân tạo"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to become fixed inside the body of a person or an animal so that it can start to develop",
+                    "vi": "cố định bên trong cơ thể người hoặc động vật để nó có thể bắt đầu phát triển"
+                },
+                "examples": [
+                    {
+                        "en": "The embryo is placed into the uterus where it has a chance to implant.",
+                        "vi": "Phôi được đặt vào tử cung để nó có cơ hội làm tổ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "21776643714e4f9cb36254b66535b754",
+        "word": "implant",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈɪmplɑːnt/",
+            "us": "/ˈɪmplænt/"
+        },
+        "nearby": [
+            {
+                "word": "implacably",
+                "pos": "adverb"
+            },
+            {
+                "word": "implant",
+                "pos": "verb"
+            },
+            {
+                "word": "implant",
+                "pos": "noun"
+            },
+            {
+                "word": "implantation",
+                "pos": "noun"
+            },
+            {
+                "word": "implausibility",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "something that is put into a part of the body, usually in a medical operation",
+                    "vi": "một cái gì đó được đưa vào một bộ phận của cơ thể, thường là trong một cuộc phẫu thuật y tế"
+                },
+                "examples": [
+                    {
+                        "en": "silicone breast implants",
+                        "vi": "túi ngực silicon"
+                    },
+                    {
+                        "en": "Dental implants can replace missing teeth.",
+                        "vi": "Cấy ghép răng có thể thay thế răng bị mất."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a598aa37181947b1b4bea770e42203e5",
+        "word": "operate",
+        "pos": "verb",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈɒpəreɪt/",
+            "us": "/ˈɑːpəreɪt/"
+        },
+        "nearby": [
+            {
+                "word": "opera house",
+                "pos": "noun"
+            },
+            {
+                "word": "operand",
+                "pos": "noun"
+            },
+            {
+                "word": "operate",
+                "pos": "verb"
+            },
+            {
+                "word": "operatic",
+                "pos": "adjective"
+            },
+            {
+                "word": "operating system",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to work in a particular way",
+                    "vi": "làm việc theo một cách cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "Most domestic freezers operate at below −18°C.",
+                        "vi": "Hầu hết các tủ đông nội địa hoạt động ở nhiệt độ dưới -18 ° C."
+                    },
+                    {
+                        "en": "Solar panels can only operate in sunlight.",
+                        "vi": "Các tấm pin mặt trời chỉ có thể hoạt động dưới ánh sáng mặt trời."
+                    },
+                    {
+                        "en": "(figurative) Some people can only operate well under pressure.",
+                        "vi": "(nghĩa bóng) Một số người chỉ có thể hoạt động tốt dưới áp lực."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to use or control a machine or make it work",
+                    "vi": "để sử dụng hoặc điều khiển một chiếc máy hoặc làm cho nó hoạt động"
+                },
+                "examples": [
+                    {
+                        "en": "What skills are needed to operate this machinery?",
+                        "vi": "Những kỹ năng cần thiết để vận hành máy móc này?"
+                    },
+                    {
+                        "en": "They use a remotely operated camera.",
+                        "vi": "Họ sử dụng một máy ảnh điều khiển từ xa."
+                    },
+                    {
+                        "en": "The doors can be manually operated in the event of fire.",
+                        "vi": "Các cửa có thể được vận hành bằng tay trong trường hợp hỏa hoạn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to manage a business, organization or service",
+                    "vi": "để quản lý một doanh nghiệp, tổ chức hoặc dịch vụ"
+                },
+                "examples": [
+                    {
+                        "en": "The airline currently operates flights to 25 countries.",
+                        "vi": "Hãng hiện khai thác các chuyến bay đến 25 quốc gia."
+                    },
+                    {
+                        "en": "By last year, the chain was operating 388 stores in 47 states.",
+                        "vi": "Đến năm ngoái, chuỗi đã vận hành 388 cửa hàng tại 47 tiểu bang."
+                    },
+                    {
+                        "en": "He started and operated a successful technology business.",
+                        "vi": "Ông đã bắt đầu và điều hành một doanh nghiệp công nghệ thành công."
+                    },
+                    {
+                        "en": "The company operates public transport services across the world.",
+                        "vi": "Công ty vận hành các dịch vụ vận tải công cộng trên khắp thế giới."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to work, especially in a particular way or from a particular place",
+                    "vi": "để làm việc, đặc biệt là theo một cách cụ thể hoặc từ một địa điểm cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "A new late-night service is now operating.",
+                        "vi": "Một dịch vụ đêm khuya mới đang hoạt động."
+                    },
+                    {
+                        "en": "They plan to operate from a new office in Edinburgh.",
+                        "vi": "Họ có kế hoạch hoạt động từ một văn phòng mới ở Edinburgh."
+                    },
+                    {
+                        "en": "Retailers operate in a fast-paced environment.",
+                        "vi": "Các nhà bán lẻ hoạt động trong một môi trường có nhịp độ nhanh."
+                    },
+                    {
+                        "en": "The business operates on a cooperative basis.",
+                        "vi": "Doanh nghiệp hoạt động trên cơ sở hợp tác."
+                    },
+                    {
+                        "en": "We operate independently from our sister companies.",
+                        "vi": "Chúng tôi hoạt động độc lập với các công ty chị em của chúng tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be used or working; to use something or make it work",
+                    "vi": "được sử dụng hoặc làm việc; để sử dụng một cái gì đó hoặc làm cho nó hoạt động"
+                },
+                "examples": [
+                    {
+                        "en": "The regulation operates in favour of married couples.",
+                        "vi": "Quy định này có lợi cho các cặp vợ chồng."
+                    },
+                    {
+                        "en": "He believes that sinister forces are operating.",
+                        "vi": "Anh ta tin rằng các thế lực nham hiểm đang hoạt động."
+                    },
+                    {
+                        "en": "operate something France operates a system of subsidized loans to dairy farmers.",
+                        "vi": "vận hành một cái gì đó Pháp vận hành một hệ thống các khoản vay trợ cấp cho nông dân chăn nuôi bò sữa."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to cut open somebody’s body in order to remove a part that has a disease or to repair a part that is damaged",
+                    "vi": "mổ xẻ cơ thể của ai đó để loại bỏ bộ phận bị bệnh hoặc sửa chữa bộ phận bị hư hỏng"
+                },
+                "examples": [
+                    {
+                        "en": "Surgeons operated last night.",
+                        "vi": "Các bác sĩ phẫu thuật đêm qua."
+                    },
+                    {
+                        "en": "operate on somebody/something We will have to operate on his eyes.",
+                        "vi": "phẫu thuật cho ai đó / cái gì đó Chúng ta sẽ phải phẫu thuật đôi mắt của anh ta."
+                    },
+                    {
+                        "en": "She was operated on the next day.",
+                        "vi": "Cô ấy đã được phẫu thuật vào ngày hôm sau."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be involved in military activities in a place",
+                    "vi": "được tham gia vào các hoạt động quân sự ở một nơi"
+                },
+                "examples": [
+                    {
+                        "en": "Troops are operating from bases in the north.",
+                        "vi": "Các đội quân đang hoạt động từ các căn cứ ở phía bắc."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1c19bd746180444eacc42be96f6394c0",
+        "word": "operating table",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈɒpəreɪtɪŋ teɪbl/",
+            "us": "/ˈɑːpəreɪtɪŋ teɪbl/"
+        },
+        "nearby": [
+            {
+                "word": "operatic",
+                "pos": "adjective"
+            },
+            {
+                "word": "operating system",
+                "pos": "noun"
+            },
+            {
+                "word": "operating table",
+                "pos": "noun"
+            },
+            {
+                "word": "operating theatre",
+                "pos": "noun"
+            },
+            {
+                "word": "operation",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a special table that you lie on to have a medical operation in a hospital",
+                    "vi": "một chiếc bàn đặc biệt mà bạn nằm để tiến hành phẫu thuật y tế trong bệnh viện"
+                },
+                "examples": [
+                    {
+                        "en": "on the operating table The patient died on the operating table (= during an operation).",
+                        "vi": "trên bàn mổ Bệnh nhân chết trên bàn mổ (= trong một ca mổ)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "09fb5de737314ace992ded3ba1e07d93",
+        "word": "operating theatre",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈɒpəreɪtɪŋ θɪətə(r)/",
+            "us": "/ˈɑːpəreɪtɪŋ θiːətər/"
+        },
+        "nearby": [
+            {
+                "word": "operating system",
+                "pos": "noun"
+            },
+            {
+                "word": "operating table",
+                "pos": "noun"
+            },
+            {
+                "word": "operating theatre",
+                "pos": "noun"
+            },
+            {
+                "word": "operation",
+                "pos": "noun"
+            },
+            {
+                "word": "operational",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a room in a hospital used for medical operations",
+                    "vi": "một căn phòng trong bệnh viện được sử dụng cho các hoạt động y tế"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "f5a41b96aa9946fa8a09fed3ef19c3b0",
+        "word": "procedure",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/prəˈsiːdʒə(r)/",
+            "us": "/prəˈsiːdʒər/"
+        },
+        "nearby": [
+            {
+                "word": "procaryotic",
+                "pos": "adjective"
+            },
+            {
+                "word": "procedural",
+                "pos": "adjective"
+            },
+            {
+                "word": "procedure",
+                "pos": "noun"
+            },
+            {
+                "word": "proceed",
+                "pos": "verb"
+            },
+            {
+                "word": "proceed against",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a way of doing something, especially the usual or correct way",
+                    "vi": "một cách để làm điều gì đó, đặc biệt là cách thông thường hoặc cách đúng"
+                },
+                "examples": [
+                    {
+                        "en": "emergency/safety/disciplinary procedures",
+                        "vi": "quy trình khẩn cấp / an toàn / kỷ luật"
+                    },
+                    {
+                        "en": "Making a complaint is quite a simple procedure.",
+                        "vi": "Khiếu nại là một thủ tục khá đơn giản."
+                    },
+                    {
+                        "en": "The school in this case did not follow the correct procedure.",
+                        "vi": "Nhà trường trong trường hợp này đã không thực hiện đúng quy trình."
+                    },
+                    {
+                        "en": "to follow normal/standard/the proper procedure",
+                        "vi": "để tuân theo quy trình bình thường / tiêu chuẩn / thích hợp"
+                    },
+                    {
+                        "en": "To ensure high quality, all products go through rigorous testing procedures.",
+                        "vi": "Để đảm bảo chất lượng cao, tất cả các sản phẩm đều trải qua quy trình kiểm tra nghiêm ngặt."
+                    },
+                    {
+                        "en": "procedure for (doing) something The procedure for logging on to the network involves a password.",
+                        "vi": "thủ tục cho (làm) điều gì đó Thủ tục đăng nhập vào mạng liên quan đến mật khẩu."
+                    },
+                    {
+                        "en": "under a procedure Any complaint has to be investigated under our complaints procedure.",
+                        "vi": "theo một thủ tục Mọi khiếu nại phải được điều tra theo thủ tục khiếu nại của chúng tôi."
+                    },
+                    {
+                        "en": "according to a procedure All experiments were performed according to standard procedures.",
+                        "vi": "theo quy trình Tất cả các thí nghiệm được thực hiện theo quy trình tiêu chuẩn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the official or formal order or way of doing something, especially in business, law or politics",
+                    "vi": "trình tự chính thức hoặc chính thức hoặc cách thức làm việc gì đó, đặc biệt là trong kinh doanh, luật pháp hoặc chính trị"
+                },
+                "examples": [
+                    {
+                        "en": "court/legal/parliamentary procedure",
+                        "vi": "thủ tục tòa án / pháp lý / quốc hội"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a medical operation",
+                    "vi": "một hoạt động y tế"
+                },
+                "examples": [
+                    {
+                        "en": "a routine surgical procedure",
+                        "vi": "một thủ tục phẫu thuật thông thường"
+                    },
+                    {
+                        "en": "to perform/undergo a procedure",
+                        "vi": "để thực hiện / trải qua một thủ tục"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "93fcfe95dd0048aba09dba0d5690ab32",
+        "word": "surgery",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈsɜːdʒəri/",
+            "us": "/ˈsɜːrdʒəri/"
+        },
+        "nearby": [
+            {
+                "word": "Surgeon General",
+                "pos": "noun"
+            },
+            {
+                "word": "surge protector",
+                "pos": "noun"
+            },
+            {
+                "word": "surgery",
+                "pos": "noun"
+            },
+            {
+                "word": "surgical",
+                "pos": "adjective"
+            },
+            {
+                "word": "surgically",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "medical treatment of injuries or diseases that involves cutting open a person’s body and often removing or replacing some parts; the branch of medicine connected with this treatment",
+                    "vi": "điều trị y tế các chấn thương hoặc bệnh liên quan đến việc cắt mở cơ thể của một người và thường là loại bỏ hoặc thay thế một số bộ phận; ngành y học liên quan đến phương pháp điều trị này"
+                },
+                "examples": [
+                    {
+                        "en": "major/minor surgery",
+                        "vi": "phẫu thuật lớn / nhỏ"
+                    },
+                    {
+                        "en": "to undergo heart/knee/shoulder surgery",
+                        "vi": "để trải qua phẫu thuật tim / đầu gối / vai"
+                    },
+                    {
+                        "en": "He will require surgery on his left knee.",
+                        "vi": "Anh ấy sẽ phải phẫu thuật đầu gối trái."
+                    },
+                    {
+                        "en": "The doctor had to perform emergency surgery to the patient's head.",
+                        "vi": "Các bác sĩ đã phải tiến hành phẫu thuật khẩn cấp phần đầu của bệnh nhân."
+                    },
+                    {
+                        "en": "She's a specialist in reconstructive and cosmetic surgery.",
+                        "vi": "Cô ấy là một chuyên gia về phẫu thuật tái tạo và thẩm mỹ."
+                    },
+                    {
+                        "en": "The president is to undergo minor surgery to remove a small growth from his hand.",
+                        "vi": "Tổng thống sẽ phải trải qua một cuộc phẫu thuật nhỏ để loại bỏ một khối u nhỏ trên bàn tay của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a place where a doctor, dentist or vet sees patients",
+                    "vi": "nơi mà bác sĩ, nha sĩ hoặc bác sĩ thú y khám bệnh cho bệnh nhân"
+                },
+                "examples": [
+                    {
+                        "en": "a doctor’s/dentist’s/vet's surgery",
+                        "vi": "phẫu thuật của bác sĩ / nha sĩ / bác sĩ thú y"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the time during which a doctor, dentist or vet is available to see patients",
+                    "vi": "thời gian bác sĩ, nha sĩ hoặc bác sĩ thú y sẵn sàng thăm khám cho bệnh nhân"
+                },
+                "examples": [
+                    {
+                        "en": "morning/afternoon/evening surgery",
+                        "vi": "phẫu thuật sáng / chiều / tối"
+                    },
+                    {
+                        "en": "surgery hours",
+                        "vi": "giờ phẫu thuật"
+                    },
+                    {
+                        "en": "Is there a surgery this evening?",
+                        "vi": "Có ca phẫu thuật tối nay không?"
+                    },
+                    {
+                        "en": "He holds surgery from 10 a.m. to 1 p.m.",
+                        "vi": "Anh ấy tổ chức phẫu thuật từ 10 giờ sáng đến 1 giờ chiều"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a time when people can meet their Member of Parliament to ask questions and get help",
+                    "vi": "thời điểm mà mọi người có thể gặp Nghị viện của họ để đặt câu hỏi và nhận trợ giúp"
+                },
+                "examples": [
+                    {
+                        "en": "a constituency surgery",
+                        "vi": "một cuộc phẫu thuật bầu cử"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "02a8e497778941da8877eb294ace2af5",
+        "word": "transplant",
+        "pos": "verb",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/trænsˈplɑːnt/",
+            "us": "/trænsˈplænt/"
+        },
+        "nearby": [
+            {
+                "word": "transpiration",
+                "pos": "noun"
+            },
+            {
+                "word": "transpire",
+                "pos": "verb"
+            },
+            {
+                "word": "transplant",
+                "pos": "verb"
+            },
+            {
+                "word": "transplant",
+                "pos": "noun"
+            },
+            {
+                "word": "transplantation",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to take an organ, skin, etc. from one person, animal, part of the body, etc. and put it into or onto another",
+                    "vi": "lấy nội tạng, da, v.v. của người, động vật, bộ phận của cơ thể, v.v. và đưa vào hoặc lên người khác"
+                },
+                "examples": [
+                    {
+                        "en": "Surgeons have successfully transplanted a liver into a four-year-old boy.",
+                        "vi": "Các bác sĩ phẫu thuật đã ghép gan thành công cho một cậu bé bốn tuổi."
+                    },
+                    {
+                        "en": "Patients often reject transplanted organs.",
+                        "vi": "Bệnh nhân thường từ chối các cơ quan được cấy ghép."
+                    },
+                    {
+                        "en": "Organs are transplanted from donors into patients who need them.",
+                        "vi": "Nội tạng được cấy ghép từ những người hiến tặng cho những bệnh nhân cần chúng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to move a growing plant and plant it somewhere else",
+                    "vi": "di chuyển một cây đang phát triển và trồng nó ở một nơi khác"
+                },
+                "examples": [
+                    {
+                        "en": "The Dutch successfully transplanted trees to the East Indies.",
+                        "vi": "Người Hà Lan đã cấy ghép thành công cây sang Đông Ấn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to move somebody/something to a different place or environment",
+                    "vi": "để di chuyển ai đó / cái gì đó đến một nơi hoặc môi trường khác"
+                },
+                "examples": [
+                    {
+                        "en": "Japanese production methods have been transplanted into some British factories.",
+                        "vi": "Phương pháp sản xuất của Nhật Bản đã được cấy ghép vào một số nhà máy của Anh."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2776d1b42aa748e2926795d3b19ef957",
+        "word": "transplant",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈtrænsplɑːnt/",
+            "us": "/ˈtrænsplænt/"
+        },
+        "nearby": [
+            {
+                "word": "transpire",
+                "pos": "verb"
+            },
+            {
+                "word": "transplant",
+                "pos": "verb"
+            },
+            {
+                "word": "transplant",
+                "pos": "noun"
+            },
+            {
+                "word": "transplantation",
+                "pos": "noun"
+            },
+            {
+                "word": "transponder",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a medical operation in which a damaged organ, etc. is replaced with one from another person",
+                    "vi": "một hoạt động y tế trong đó một cơ quan bị hư hỏng, v.v. được thay thế bằng một cơ quan từ người khác"
+                },
+                "examples": [
+                    {
+                        "en": "to have a heart transplant",
+                        "vi": "cấy ghép tim"
+                    },
+                    {
+                        "en": "a transplant operation",
+                        "vi": "một hoạt động cấy ghép"
+                    },
+                    {
+                        "en": "a shortage of suitable kidneys for transplant",
+                        "vi": "thiếu thận phù hợp để cấy ghép"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an organ, etc. that is used in a transplant operation",
+                    "vi": "một cơ quan, v.v. được sử dụng trong phẫu thuật cấy ghép"
+                },
+                "examples": [
+                    {
+                        "en": "There is always a chance that the body will reject the transplant.",
+                        "vi": "Luôn có khả năng cơ thể từ chối cấy ghép."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1785b9c532d44870941dd7b2ed7c4eb0",
+        "word": "abortion",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/əˈbɔːʃn/",
+            "us": "/əˈbɔːrʃn/"
+        },
+        "nearby": [
+            {
+                "word": "aborigine",
+                "pos": "noun"
+            },
+            {
+                "word": "abort",
+                "pos": "verb"
+            },
+            {
+                "word": "abortion",
+                "pos": "noun"
+            },
+            {
+                "word": "abortionist",
+                "pos": "noun"
+            },
+            {
+                "word": "abortive",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the deliberate ending of a pregnancy at an early stage",
+                    "vi": "cố ý kết thúc thai kỳ ở giai đoạn đầu"
+                },
+                "examples": [
+                    {
+                        "en": "to support/oppose abortion",
+                        "vi": "ủng hộ / phản đối phá thai"
+                    },
+                    {
+                        "en": "a woman’s right to abortion",
+                        "vi": "quyền phá thai của phụ nữ"
+                    },
+                    {
+                        "en": "the country's strict abortion laws",
+                        "vi": "luật phá thai nghiêm ngặt của đất nước"
+                    },
+                    {
+                        "en": "I've always been anti-abortion.",
+                        "vi": "Tôi luôn chống phá thai."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a medical operation to end a pregnancy at an early stage",
+                    "vi": "phẫu thuật y tế để chấm dứt thai kỳ ở giai đoạn đầu"
+                },
+                "examples": [
+                    {
+                        "en": "She decided to have an abortion.",
+                        "vi": "Cô quyết định phá thai."
+                    },
+                    {
+                        "en": "Some medical staff wanted the right to refuse to perform abortions.",
+                        "vi": "Một số nhân viên y tế muốn có quyền từ chối thực hiện phá thai."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the process of giving birth to a baby before it is fully developed and able to survive",
+                    "vi": "quá trình sinh ra một đứa trẻ trước khi nó được phát triển đầy đủ và có thể tồn tại"
+                },
+                "examples": [
+                    {
+                        "en": "Higher amounts of caffeine may be associated with increased rates of abortion and low birthweight.",
+                        "vi": "Lượng caffeine cao hơn có thể làm tăng tỷ lệ phá thai và sinh con nhẹ cân."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c8e1ef7a88fa40219b82fd9944a338f4",
+        "word": "anaesthetic",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌænəsˈθetɪk/",
+            "us": "/ˌænəsˈθetɪk/"
+        },
+        "nearby": [
+            {
+                "word": "anaesthesia",
+                "pos": "noun"
+            },
+            {
+                "word": "anaesthesiologist",
+                "pos": "noun"
+            },
+            {
+                "word": "anaesthetic",
+                "pos": "noun"
+            },
+            {
+                "word": "anaesthetic",
+                "pos": "adjective"
+            },
+            {
+                "word": "anaesthetist",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a drug that makes a person or an animal unable to feel anything, especially pain, either in the whole body or in a part of the body",
+                    "vi": "một loại thuốc làm cho một người hoặc một con vật không thể cảm thấy bất cứ điều gì, đặc biệt là đau ở toàn bộ cơ thể hoặc một phần của cơ thể"
+                },
+                "examples": [
+                    {
+                        "en": "under anaesthetic How long will I be under anaesthetic?",
+                        "vi": "dưới thuốc mê Tôi sẽ được gây mê trong bao lâu?"
+                    },
+                    {
+                        "en": "They gave him a general anaesthetic (= one that makes you become unconscious).",
+                        "vi": "Họ đã cho anh ta một loại thuốc gây mê tổng quát (= một loại thuốc khiến bạn bất tỉnh)."
+                    },
+                    {
+                        "en": "(a) local anaesthetic (= one that affects only a part of the body)",
+                        "vi": "(a) thuốc gây tê cục bộ (= thuốc chỉ ảnh hưởng đến một phần cơ thể)"
+                    },
+                    {
+                        "en": "We forget what life must have been like without anaesthetics and painkillers.",
+                        "vi": "Chúng ta quên mất cuộc sống phải như thế nào nếu không có thuốc gây mê và thuốc giảm đau."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5cb2eca5fac94ac99ab6cf422f060965",
+        "word": "anaesthetic",
+        "pos": "adjective",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌænəsˈθetɪk/",
+            "us": "/ˌænəsˈθetɪk/"
+        },
+        "nearby": [
+            {
+                "word": "anaesthesiologist",
+                "pos": "noun"
+            },
+            {
+                "word": "anaesthetic",
+                "pos": "noun"
+            },
+            {
+                "word": "anaesthetic",
+                "pos": "adjective"
+            },
+            {
+                "word": "anaesthetist",
+                "pos": "noun"
+            },
+            {
+                "word": "anaesthetize",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "containing a substance that makes a person or an animal unable to feel pain in all or part of the body",
+                    "vi": "có chứa chất làm cho người hoặc động vật không thể cảm thấy đau ở toàn bộ hoặc một phần cơ thể"
+                },
+                "examples": [
+                    {
+                        "en": "an anaesthetic drug/spray",
+                        "vi": "thuốc mê / thuốc xịt"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "79bb32e20cc14999a01f0f864a067ba4",
+        "word": "come around",
+        "pos": "phrasal verb",
+        "level": "c1",
+        "phonetic": {
+            "uk": "",
+            "us": ""
+        },
+        "nearby": [
+            {
+                "word": "come along",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "come apart",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "come around",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "come at",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "come away",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to become conscious again",
+                    "vi": "trở nên có ý thức trở lại"
+                },
+                "examples": [
+                    {
+                        "en": "Your mother hasn't yet come around from the anaesthetic.",
+                        "vi": "Mẹ của bạn vẫn chưa đi ra khỏi thuốc mê."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to happen again",
+                    "vi": "sẽ xảy ra một lần nữa"
+                },
+                "examples": [
+                    {
+                        "en": "My birthday seems to come around more quickly every year.",
+                        "vi": "Sinh nhật của tôi dường như đến nhanh hơn mọi năm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to come to a place, especially somebody’s house, to visit for a short time",
+                    "vi": "đến một nơi, đặc biệt là nhà của ai đó, để thăm trong một thời gian ngắn"
+                },
+                "examples": [
+                    {
+                        "en": "Do come around and see us some time.",
+                        "vi": "Hãy đến xung quanh và gặp chúng tôi một lúc."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to change your mood or your opinion",
+                    "vi": "để thay đổi tâm trạng của bạn hoặc quan điểm của bạn"
+                },
+                "examples": [
+                    {
+                        "en": "He'll never come around to my way of thinking.",
+                        "vi": "Anh ấy sẽ không bao giờ làm theo cách suy nghĩ của tôi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "93a71c5778474648879160ab07891227",
+        "word": "come round",
+        "pos": "phrasal verb",
+        "level": "c1",
+        "phonetic": {
+            "uk": "",
+            "us": ""
+        },
+        "nearby": [
+            {
+                "word": "come over",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "comer",
+                "pos": "noun"
+            },
+            {
+                "word": "come round",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "comestible",
+                "pos": "adjective"
+            },
+            {
+                "word": "comestible",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to become conscious again",
+                    "vi": "trở nên có ý thức trở lại"
+                },
+                "examples": [
+                    {
+                        "en": "Your mother hasn't yet come around from the anaesthetic.",
+                        "vi": "Mẹ của bạn vẫn chưa đi ra khỏi thuốc mê."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to happen again",
+                    "vi": "sẽ xảy ra một lần nữa"
+                },
+                "examples": [
+                    {
+                        "en": "My birthday seems to come around more quickly every year.",
+                        "vi": "Sinh nhật của tôi dường như đến nhanh hơn mọi năm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to come to a place, especially somebody’s house, to visit for a short time",
+                    "vi": "đến một nơi, đặc biệt là nhà của ai đó, để thăm trong một thời gian ngắn"
+                },
+                "examples": [
+                    {
+                        "en": "Do come around and see us some time.",
+                        "vi": "Hãy đến xung quanh và gặp chúng tôi một lúc."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to change your mood or your opinion",
+                    "vi": "để thay đổi tâm trạng của bạn hoặc quan điểm của bạn"
+                },
+                "examples": [
+                    {
+                        "en": "He'll never come around to my way of thinking.",
+                        "vi": "Anh ấy sẽ không bao giờ làm theo cách suy nghĩ của tôi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "90ae8d8f57b149c287a22f3e131f0029",
+        "word": "nose job",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈnəʊz dʒɒb/",
+            "us": "/ˈnəʊz dʒɑːb/"
+        },
+        "nearby": [
+            {
+                "word": "nose flute",
+                "pos": "noun"
+            },
+            {
+                "word": "nosegay",
+                "pos": "noun"
+            },
+            {
+                "word": "nose job",
+                "pos": "noun"
+            },
+            {
+                "word": "nose out",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "nose ring",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a medical operation on the nose to improve its shape",
+                    "vi": "phẫu thuật y tế trên mũi để cải thiện hình dạng của nó"
+                },
+                "examples": [
+                    {
+                        "en": "She wasn't happy with her appearance so she had a nose job.",
+                        "vi": "Cô không hài lòng với vẻ ngoài của mình nên đã đi sửa mũi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0124396b61f242b7a7baf3ea756693e5",
+        "word": "plastic surgery",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌplæstɪk ˈsɜːdʒəri/",
+            "us": "/ˌplæstɪk ˈsɜːrdʒəri/"
+        },
+        "nearby": [
+            {
+                "word": "plasticky",
+                "pos": "adjective"
+            },
+            {
+                "word": "plastic surgeon",
+                "pos": "noun"
+            },
+            {
+                "word": "plastic surgery",
+                "pos": "noun"
+            },
+            {
+                "word": "plastic wrap",
+                "pos": "noun"
+            },
+            {
+                "word": "plate",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "medical operations to repair injury to a person’s skin, or to improve a person’s appearance",
+                    "vi": "hoạt động y tế để sửa chữa vết thương trên da của một người hoặc để cải thiện ngoại hình của một người"
+                },
+                "examples": [
+                    {
+                        "en": "She needs extensive plastic surgery to her face.",
+                        "vi": "Cô ấy cần phẫu thuật thẩm mỹ toàn diện cho khuôn mặt của mình."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "73183ca6f2954cd59f5afc8aa0b1e5f8",
+        "word": "stitch",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/stɪtʃ/",
+            "us": "/stɪtʃ/"
+        },
+        "nearby": [
+            {
+                "word": "stirrup pants",
+                "pos": "noun"
+            },
+            {
+                "word": "stir up",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "stitch",
+                "pos": "noun"
+            },
+            {
+                "word": "stitch",
+                "pos": "verb"
+            },
+            {
+                "word": "stitching",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "one of the small lines of thread that you can see on a piece of cloth after it has been sewn; the action that produces this",
+                    "vi": "một trong những đường chỉ nhỏ mà bạn có thể nhìn thấy trên mảnh vải sau khi đã được may xong; hành động tạo ra cái này"
+                },
+                "examples": [
+                    {
+                        "en": "Try to keep the stitches small and straight.",
+                        "vi": "Cố gắng giữ cho các mũi khâu nhỏ và thẳng."
+                    },
+                    {
+                        "en": "Put a stitch in the corner of the pocket to keep it in place.",
+                        "vi": "Đặt một đường khâu ở góc túi để giữ cố định."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "one of the small circles of wool that you make around the needle when you are knitting (= making clothing out of wool with two long needles)",
+                    "vi": "một trong những vòng tròn len nhỏ mà bạn tạo xung quanh kim khi đan (= tạo quần áo bằng len bằng hai kim dài)"
+                },
+                "examples": [
+                    {
+                        "en": "to drop a stitch (= to lose one that you have made)",
+                        "vi": "để rơi một mũi khâu (= để mất một mũi khâu mà bạn đã thực hiện)"
+                    },
+                    {
+                        "en": "The knitting should be 120 stitches wide.",
+                        "vi": "Đan phải rộng 120 mũi."
+                    },
+                    {
+                        "en": "to cast stitches on/off (= to add or remove them)",
+                        "vi": "để bật / tắt các đường khâu (= thêm hoặc bớt chúng)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a particular style of sewing or knitting that you use to make the pattern you want",
+                    "vi": "một kiểu may hoặc đan cụ thể mà bạn sử dụng để tạo ra mẫu bạn muốn"
+                },
+                "examples": [
+                    {
+                        "en": "chain stitch",
+                        "vi": "móc xích"
+                    },
+                    {
+                        "en": "The edge was sewn with blanket stitch.",
+                        "vi": "Các cạnh được may bằng đường khâu chăn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a short piece of thread, etc. that doctors use to sew the edges of a wound together",
+                    "vi": "một đoạn chỉ ngắn, v.v. mà bác sĩ dùng để khâu các mép vết thương lại với nhau"
+                },
+                "examples": [
+                    {
+                        "en": "The cut needed eight stitches.",
+                        "vi": "Vết cắt cần phải khâu tám mũi."
+                    },
+                    {
+                        "en": "I had six stitches in my foot after the accident.",
+                        "vi": "Tôi bị khâu sáu mũi ở chân sau vụ tai nạn."
+                    },
+                    {
+                        "en": "(especially British English) I’m having my stitches out today.",
+                        "vi": "(đặc biệt là tiếng Anh Anh) Hôm nay tôi đang khâu lại."
+                    },
+                    {
+                        "en": "(North American English) I’m getting my stitches out today.",
+                        "vi": "(Tiếng Anh Bắc Mỹ) Hôm nay tôi đang khâu lại."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a sudden pain in the side of your body, usually caused by running or laughing",
+                    "vi": "Đau đột ngột ở một bên của cơ thể, thường là do chạy hoặc cười"
+                },
+                "examples": [
+                    {
+                        "en": "Can we slow down? I've got a stitch.",
+                        "vi": "Chúng ta có thể làm chậm lại không? Tôi có một mũi khâu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "laughing a lot",
+                    "vi": "cười rất nhiều"
+                },
+                "examples": [
+                    {
+                        "en": "The play had us in stitches.",
+                        "vi": "Vở kịch đã khiến chúng tôi bị khâu lại."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be wearing no clothes",
+                    "vi": "không mặc quần áo"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "it is better to deal with something immediately because if you wait it may become worse or more difficult and cause extra work",
+                    "vi": "tốt hơn hết là bạn nên giải quyết việc gì đó ngay lập tức vì nếu bạn chờ đợi, nó có thể trở nên tồi tệ hơn hoặc khó khăn hơn và gây ra thêm công việc"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "129dfe05ce8f487db27cc57d3c7788be",
+        "word": "stitch",
+        "pos": "verb",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/stɪtʃ/",
+            "us": "/stɪtʃ/"
+        },
+        "nearby": [
+            {
+                "word": "stir up",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "stitch",
+                "pos": "noun"
+            },
+            {
+                "word": "stitch",
+                "pos": "verb"
+            },
+            {
+                "word": "stitching",
+                "pos": "noun"
+            },
+            {
+                "word": "stitch up",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to use a needle and thread to repair, join, or decorate pieces of cloth",
+                    "vi": "sử dụng kim và chỉ để sửa chữa, nối hoặc trang trí các mảnh vải"
+                },
+                "examples": [
+                    {
+                        "en": "be stitched (+ adv./prep.) Her wedding dress was stitched by hand.",
+                        "vi": "được khâu (+ adv./prep.) Chiếc váy cưới của cô ấy được khâu bằng tay."
+                    },
+                    {
+                        "en": "A pocket was stitched to the front of the jacket.",
+                        "vi": "Một chiếc túi được khâu vào mặt trước của áo khoác."
+                    },
+                    {
+                        "en": "(figurative) An agreement was hastily stitched together (= made very quickly).",
+                        "vi": "(nghĩa bóng) Một thỏa thuận đã vội vàng được nối lại với nhau (= được thực hiện rất nhanh chóng)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to sew the edges of a wound together",
+                    "vi": "khâu các mép vết thương lại với nhau"
+                },
+                "examples": [
+                    {
+                        "en": "The cut will need to be stitched.",
+                        "vi": "Vết cắt sẽ cần phải được khâu lại."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5a1e00ede9cc43a9a39c1d31f0b69e1a",
+        "word": "surgical",
+        "pos": "adjective",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈsɜːdʒɪkl/",
+            "us": "/ˈsɜːrdʒɪkl/"
+        },
+        "nearby": [
+            {
+                "word": "surge protector",
+                "pos": "noun"
+            },
+            {
+                "word": "surgery",
+                "pos": "noun"
+            },
+            {
+                "word": "surgical",
+                "pos": "adjective"
+            },
+            {
+                "word": "surgically",
+                "pos": "adverb"
+            },
+            {
+                "word": "surgical spirit",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "used in or connected with surgery",
+                    "vi": "được sử dụng trong hoặc kết nối với phẫu thuật"
+                },
+                "examples": [
+                    {
+                        "en": "surgical procedures",
+                        "vi": "quy trình phẫu thuật"
+                    },
+                    {
+                        "en": "a surgical ward (= for patients having operations)",
+                        "vi": "khu phẫu thuật (= dành cho bệnh nhân phải phẫu thuật)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9afb95ee7c314f7a96998233976d45aa",
+        "word": "under the knife",
+        "pos": "idiom",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/naɪf/",
+            "us": "/naɪf/"
+        },
+        "nearby": [
+            {
+                "word": "knickers",
+                "pos": "noun"
+            },
+            {
+                "word": "knick-knack",
+                "pos": "noun"
+            },
+            {
+                "word": "knife",
+                "pos": "noun"
+            },
+            {
+                "word": "knife",
+                "pos": "verb"
+            },
+            {
+                "word": "knife-edge",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a sharp blade (= metal edge) with a handle, used for cutting or as a weapon",
+                    "vi": "một lưỡi dao sắc bén (= cạnh kim loại) có tay cầm, dùng để cắt hoặc làm vũ khí"
+                },
+                "examples": [
+                    {
+                        "en": "knives and forks",
+                        "vi": "dao và nĩa"
+                    },
+                    {
+                        "en": "a sharp knife",
+                        "vi": "một con dao sắc bén"
+                    },
+                    {
+                        "en": "a bread knife (= one for cutting bread)",
+                        "vi": "một con dao cắt bánh mì (= một con dao để cắt bánh mì)"
+                    },
+                    {
+                        "en": "The aim is to deter young people from carrying knives.",
+                        "vi": "Mục đích là để răn đe các thanh niên mang theo dao."
+                    },
+                    {
+                        "en": "He had been stabbed repeatedly with a kitchen knife.",
+                        "vi": "Anh ta đã bị đâm liên tục bằng một con dao làm bếp."
+                    },
+                    {
+                        "en": "a plan to tackle knife crime",
+                        "vi": "một kế hoạch để giải quyết tội phạm bằng dao"
+                    },
+                    {
+                        "en": "She was murdered in a frenzied knife attack.",
+                        "vi": "Cô đã bị sát hại trong một cuộc tấn công điên cuồng bằng dao."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the situation has become so bad that people are preparing to make one person take the blame, for example by taking away their job",
+                    "vi": "tình hình đã trở nên tồi tệ đến mức mọi người đang chuẩn bị để khiến một người phải chịu trách nhiệm, chẳng hạn như bằng cách tước bỏ công việc của họ"
+                },
+                "examples": [
+                    {
+                        "en": "The knives are out for the chancellor.",
+                        "vi": "Những con dao đã được đưa ra cho Chưởng ấn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "easily; without meeting any difficulty",
+                    "vi": "một cách dễ dàng; không gặp bất kỳ khó khăn nào"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to behave towards somebody in an unfriendly way and try to harm them",
+                    "vi": "cư xử với ai đó theo cách không thân thiện và cố gắng làm hại họ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to say or do something unkind deliberately; to make somebody who is unhappy feel even more unhappy",
+                    "vi": "cố tình nói hoặc làm điều gì đó không tử tế; làm cho ai đó đang không hạnh phúc thậm chí còn cảm thấy bất hạnh hơn"
+                },
+                "examples": [
+                    {
+                        "en": "Marcia laughed as she twisted the knife still deeper.",
+                        "vi": "Marcia bật cười khi vặn con dao vẫn sâu hơn."
+                    },
+                    {
+                        "en": "Just to twist the knife, the filmmakers have provided a surprise ending.",
+                        "vi": "Chỉ cần dao kéo thôi, các nhà làm phim đã mang đến một cái kết đầy bất ngờ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "having a medical operation",
+                    "vi": "có một cuộc phẫu thuật y tế"
+                },
+                "examples": [
+                    {
+                        "en": "He is to go under the surgeon's knife again on Thursday.",
+                        "vi": "Anh ấy sẽ phải chịu sự dao kéo của bác sĩ phẫu thuật một lần nữa vào thứ Năm."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2396368f6d2841cfa2d011340825cb2a",
+        "word": "abort",
+        "pos": "verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/əˈbɔːt/",
+            "us": "/əˈbɔːrt/"
+        },
+        "nearby": [
+            {
+                "word": "aboriginal",
+                "pos": "noun"
+            },
+            {
+                "word": "aborigine",
+                "pos": "noun"
+            },
+            {
+                "word": "abort",
+                "pos": "verb"
+            },
+            {
+                "word": "abortion",
+                "pos": "noun"
+            },
+            {
+                "word": "abortionist",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to end a pregnancy early in order to prevent a baby from developing and being born alive",
+                    "vi": "kết thúc thai kỳ sớm để tránh thai nhi phát triển và sinh ra còn sống"
+                },
+                "examples": [
+                    {
+                        "en": "to abort a child/pregnancy/fetus",
+                        "vi": "phá thai / mang thai / bào thai"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to give birth to a child or young animal too early for it to survive",
+                    "vi": "sinh con hoặc động vật non quá sớm để nó có thể sống sót"
+                },
+                "examples": [
+                    {
+                        "en": "The virus can cause pregnant animals to abort.",
+                        "vi": "Vi rút có thể làm cho động vật mang thai bị sẩy thai."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to end or cause something to end before it has been completed, especially because it is likely to fail",
+                    "vi": "kết thúc hoặc khiến điều gì đó kết thúc trước khi nó được hoàn thành, đặc biệt là vì nó có khả năng thất bại"
+                },
+                "examples": [
+                    {
+                        "en": "(computing) If the wrong password is given the program aborts.",
+                        "vi": "(máy tính) Nếu mật khẩu sai được cung cấp, chương trình sẽ ngừng hoạt động."
+                    },
+                    {
+                        "en": "abort something We had no option but to abort the mission.",
+                        "vi": "hủy bỏ một cái gì đó Chúng tôi không có lựa chọn nào khác ngoài việc hủy bỏ nhiệm vụ."
+                    },
+                    {
+                        "en": "The plan was aborted at the last minute.",
+                        "vi": "Kế hoạch bị hủy bỏ vào phút cuối."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ec7dea2aac694bc9ad474c046059444f",
+        "word": "amputate",
+        "pos": "verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈæmpjuteɪt/",
+            "us": "/ˈæmpjuteɪt/"
+        },
+        "nearby": [
+            {
+                "word": "ampoule",
+                "pos": "noun"
+            },
+            {
+                "word": "amp up",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "amputate",
+                "pos": "verb"
+            },
+            {
+                "word": "amputation",
+                "pos": "noun"
+            },
+            {
+                "word": "amputee",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to cut off somebody’s arm, leg, finger or toe in a medical operation",
+                    "vi": "cắt đứt cánh tay, chân, ngón tay hoặc ngón chân của ai đó trong một cuộc phẫu thuật y tế"
+                },
+                "examples": [
+                    {
+                        "en": "He had to have both legs amputated.",
+                        "vi": "Anh ta phải cắt cụt cả hai chân."
+                    },
+                    {
+                        "en": "They may have to amputate.",
+                        "vi": "Họ có thể phải cắt cụt chi."
+                    },
+                    {
+                        "en": "Her right arm became infected and had to be amputated.",
+                        "vi": "Cánh tay phải của cô bị nhiễm trùng và phải cắt cụt."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "645c62a013074e368844e58f3ddd2e89",
+        "word": "amputation",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌæmpjuˈteɪʃn/",
+            "us": "/ˌæmpjuˈteɪʃn/"
+        },
+        "nearby": [
+            {
+                "word": "amp up",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "amputate",
+                "pos": "verb"
+            },
+            {
+                "word": "amputation",
+                "pos": "noun"
+            },
+            {
+                "word": "amputee",
+                "pos": "noun"
+            },
+            {
+                "word": "Amtrak",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the act of cutting off somebody's arm, leg, finger or toe in a medical operation",
+                    "vi": "hành động cắt bỏ cánh tay, chân, ngón tay hoặc ngón chân của ai đó trong một cuộc phẫu thuật y tế"
+                },
+                "examples": [
+                    {
+                        "en": "A boyhood accident led to the amputation of one of his legs.",
+                        "vi": "Một tai nạn thời niên thiếu khiến anh phải cắt cụt một bên chân."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "fd0d5861e6f4406680e28ac6a76327b4",
+        "word": "anaesthesia",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌænəsˈθiːziə/",
+            "us": "/ˌænəsˈθiːʒə/"
+        },
+        "nearby": [
+            {
+                "word": "anaemic",
+                "pos": "adjective"
+            },
+            {
+                "word": "anaerobic",
+                "pos": "adjective"
+            },
+            {
+                "word": "anaesthesia",
+                "pos": "noun"
+            },
+            {
+                "word": "anaesthesiologist",
+                "pos": "noun"
+            },
+            {
+                "word": "anaesthetic",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the use of anaesthetics during medical operations",
+                    "vi": "việc sử dụng thuốc gây mê trong các hoạt động y tế"
+                },
+                "examples": [
+                    {
+                        "en": "under anaesthesia surgery carried out under anaesthesia",
+                        "vi": "phẫu thuật gây mê được thực hiện dưới gây mê"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the state of being unable to feel anything, especially pain",
+                    "vi": "trạng thái không thể cảm thấy bất cứ điều gì, đặc biệt là đau"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "fb8ed13f086b4981b2fe230fa533c32c",
+        "word": "anaesthetize",
+        "pos": "verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/əˈniːsθətaɪz/",
+            "us": "/əˈnesθətaɪz/"
+        },
+        "nearby": [
+            {
+                "word": "anaesthetic",
+                "pos": "adjective"
+            },
+            {
+                "word": "anaesthetist",
+                "pos": "noun"
+            },
+            {
+                "word": "anaesthetize",
+                "pos": "verb"
+            },
+            {
+                "word": "Anaglypta",
+                "pos": "noun"
+            },
+            {
+                "word": "anagram",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to make a person or animal unable to feel pain, etc., especially by giving them an anaesthetic before a medical operation",
+                    "vi": "để làm cho người hoặc động vật không thể cảm thấy đau, v.v., đặc biệt là bằng cách cho chúng gây mê trước khi phẫu thuật y tế"
+                },
+                "examples": [
+                    {
+                        "en": "The animals were all fully anaesthetized before the tags were inserted.",
+                        "vi": "Tất cả các con vật đều đã được kích hoạt hoàn toàn trước khi các thẻ được lắp vào."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9d6656b3c6954111b957c1249cdd6bad",
+        "word": "anesthesia",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌænəsˈθiːziə/",
+            "us": "/ˌænəsˈθiːʒə/"
+        },
+        "nearby": [
+            {
+                "word": "aneroid",
+                "pos": "adjective"
+            },
+            {
+                "word": "anesthesia",
+                "pos": "noun"
+            },
+            {
+                "word": "anesthesia",
+                "pos": "noun"
+            },
+            {
+                "word": "anesthesiologist",
+                "pos": "noun"
+            },
+            {
+                "word": "anesthetic",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the use of anesthetics during medical operations",
+                    "vi": "việc sử dụng thuốc gây mê trong các hoạt động y tế"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the state of being unable to feel anything, especially pain",
+                    "vi": "trạng thái không thể cảm thấy bất cứ điều gì, đặc biệt là đau"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "a0c42dccb8674829a270ca92c2c1c247",
+        "word": "arthroscopic surgery",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌɑːθrəˌskɒpɪk ˈsɜːdʒəri/",
+            "us": "/ˌɑːrθrəˌskɑːpɪk ˈsɜːrdʒəri/"
+        },
+        "nearby": [
+            {
+                "word": "arthritis",
+                "pos": "noun"
+            },
+            {
+                "word": "arthropod",
+                "pos": "noun"
+            },
+            {
+                "word": "arthroscopic surgery",
+                "pos": "noun"
+            },
+            {
+                "word": "Arthur",
+                "pos": ""
+            },
+            {
+                "word": "King Arthur",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "medical operations that involve only a very small cut being made in the patient’s body",
+                    "vi": "các hoạt động y tế chỉ liên quan đến một vết cắt rất nhỏ trên cơ thể bệnh nhân"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "d606e7f90f754efeb49235950ba679e6",
+        "word": "bypass",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbaɪpɑːs/",
+            "us": "/ˈbaɪpæs/"
+        },
+        "nearby": [
+            {
+                "word": "BYO",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "BYOD",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "bypass",
+                "pos": "noun"
+            },
+            {
+                "word": "bypass",
+                "pos": "verb"
+            },
+            {
+                "word": "by-product",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a road that passes around a town or city rather than through the centre",
+                    "vi": "một con đường đi qua một thị trấn hoặc thành phố thay vì đi qua trung tâm"
+                },
+                "examples": [
+                    {
+                        "en": "the western bypass around the town",
+                        "vi": "đường tránh phía tây quanh thị trấn"
+                    },
+                    {
+                        "en": "the Newbury bypass",
+                        "vi": "đường tránh Newbury"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a medical operation in which blood is directed along a different route so that it does not flow through a part that is damaged or blocked, especially to improve blood flow to the heart; the new route that the blood takes",
+                    "vi": "một hoạt động y tế trong đó máu được dẫn theo một con đường khác để nó không chảy qua một bộ phận bị tổn thương hoặc tắc nghẽn, đặc biệt là để cải thiện lưu lượng máu đến tim; con đường mới mà máu đi"
+                },
+                "examples": [
+                    {
+                        "en": "heart bypass surgery",
+                        "vi": "phẫu thuật tim"
+                    },
+                    {
+                        "en": "a triple bypass operation",
+                        "vi": "một hoạt động bỏ qua ba lần"
+                    },
+                    {
+                        "en": "coronary bypass surgery",
+                        "vi": "phẫu thuật bắc cầu mạch vành"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2fce724372674d74a0f6ec835be0d249",
+        "word": "caesarean",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/sɪˈzeəriən/",
+            "us": "/sɪˈzeriən/"
+        },
+        "nearby": [
+            {
+                "word": "Caerphilly",
+                "pos": "noun"
+            },
+            {
+                "word": "Sid Caesar",
+                "pos": ""
+            },
+            {
+                "word": "caesarean",
+                "pos": "noun"
+            },
+            {
+                "word": "caesarean",
+                "pos": "adjective"
+            },
+            {
+                "word": "caesarean",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a caesarean section (= a medical operation in which an opening is cut in a woman’s body in order to take out a baby)",
+                    "vi": "một ca sinh mổ (= một cuộc phẫu thuật y tế trong đó một lỗ hổng được cắt trên cơ thể của một người phụ nữ để lấy một đứa trẻ ra)"
+                },
+                "examples": [
+                    {
+                        "en": "an emergency caesarean",
+                        "vi": "một ca mổ khẩn cấp"
+                    },
+                    {
+                        "en": "She had to have a caesarean.",
+                        "vi": "Cô phải sinh mổ."
+                    },
+                    {
+                        "en": "The baby was born by caesarean.",
+                        "vi": "Em bé được sinh ra bằng phương pháp sinh mổ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6a03a1f262984c9787298b1fbe05275b",
+        "word": "caesarean",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/sɪˈzeəriən/",
+            "us": "/sɪˈzeriən/"
+        },
+        "nearby": [
+            {
+                "word": "Sid Caesar",
+                "pos": ""
+            },
+            {
+                "word": "caesarean",
+                "pos": "noun"
+            },
+            {
+                "word": "caesarean",
+                "pos": "adjective"
+            },
+            {
+                "word": "caesarean",
+                "pos": "adjective"
+            },
+            {
+                "word": "caesarean section",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "by or connected with a caesarean section (= a medical operation in which an opening is cut in a woman’s body in order to take out a baby)",
+                    "vi": "bằng hoặc được kết nối với một ca sinh mổ (= một cuộc phẫu thuật y tế trong đó một lỗ hở được cắt trên cơ thể người phụ nữ để lấy một em bé ra)"
+                },
+                "examples": [
+                    {
+                        "en": "a caesarean birth/delivery",
+                        "vi": "sinh mổ / sinh mổ"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "551d9c7610f8422f948029415824aafc",
+        "word": "cesarean",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/sɪˈzeəriən/",
+            "us": "/sɪˈzeriən/"
+        },
+        "nearby": [
+            {
+                "word": "cervical smear",
+                "pos": "noun"
+            },
+            {
+                "word": "cervix",
+                "pos": "noun"
+            },
+            {
+                "word": "cesarean",
+                "pos": "noun"
+            },
+            {
+                "word": "cesarean",
+                "pos": "adjective"
+            },
+            {
+                "word": "cesarean section",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a cesarean section (= a medical operation in which an opening is cut in a woman’s body in order to take out a baby)",
+                    "vi": "một cuộc mổ lấy thai (= một cuộc phẫu thuật y tế trong đó một lỗ hở được cắt trên cơ thể của một người phụ nữ để lấy một đứa trẻ ra)"
+                },
+                "examples": [
+                    {
+                        "en": "She had to have an emergency cesarean.",
+                        "vi": "Cô phải mổ lấy thai khẩn cấp."
+                    },
+                    {
+                        "en": "The baby was born by cesarean.",
+                        "vi": "Em bé chào đời bằng phương pháp mổ lấy thai."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "81b62833071b4ef6aa5d2bd05f963295",
+        "word": "cesarian",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/sɪˈzeəriən/",
+            "us": "/sɪˈzeriən/"
+        },
+        "nearby": [
+            {
+                "word": "cesarean",
+                "pos": "adjective"
+            },
+            {
+                "word": "cesarean section",
+                "pos": "noun"
+            },
+            {
+                "word": "cesarian",
+                "pos": "noun"
+            },
+            {
+                "word": "cesarian",
+                "pos": "adjective"
+            },
+            {
+                "word": "cesium",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a cesarean section (= a medical operation in which an opening is cut in a woman’s body in order to take out a baby)",
+                    "vi": "một cuộc mổ lấy thai (= một cuộc phẫu thuật y tế trong đó một lỗ hở được cắt trên cơ thể của một người phụ nữ để lấy một đứa trẻ ra)"
+                },
+                "examples": [
+                    {
+                        "en": "She had to have an emergency cesarean.",
+                        "vi": "Cô phải mổ lấy thai khẩn cấp."
+                    },
+                    {
+                        "en": "The baby was born by cesarean.",
+                        "vi": "Em bé chào đời bằng phương pháp mổ lấy thai."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "bee0578054dc41fc82d7441f5b063ee8",
+        "word": "circumcise",
+        "pos": "verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈsɜːkəmsaɪz/",
+            "us": "/ˈsɜːrkəmsaɪz/"
+        },
+        "nearby": [
+            {
+                "word": "circulatory",
+                "pos": "adjective"
+            },
+            {
+                "word": "circum-",
+                "pos": "prefix"
+            },
+            {
+                "word": "circumcise",
+                "pos": "verb"
+            },
+            {
+                "word": "circumcision",
+                "pos": "noun"
+            },
+            {
+                "word": "circumference",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to remove the foreskin of a boy or man for religious or medical reasons",
+                    "vi": "để loại bỏ bao quy đầu của một cậu bé hoặc một người đàn ông vì lý do tôn giáo hoặc y tế"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to cut off part of the sex organs of a girl or woman for non-medical reasons (a traditional practice in some cultures but illegal in many countries)",
+                    "vi": "cắt bỏ một phần cơ quan sinh dục của một cô gái hoặc phụ nữ không vì lý do y tế (một tập tục truyền thống ở một số nền văn hóa nhưng bất hợp pháp ở nhiều quốc gia)"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "d875a58a8dce408e9253c94cce777a73",
+        "word": "circumcision",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌsɜːkəmˈsɪʒn/",
+            "us": "/ˌsɜːrkəmˈsɪʒn/"
+        },
+        "nearby": [
+            {
+                "word": "circum-",
+                "pos": "prefix"
+            },
+            {
+                "word": "circumcise",
+                "pos": "verb"
+            },
+            {
+                "word": "circumcision",
+                "pos": "noun"
+            },
+            {
+                "word": "circumference",
+                "pos": "noun"
+            },
+            {
+                "word": "circumflex",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the act of circumcising somebody; the religious ceremony when somebody, especially a baby, is circumcised",
+                    "vi": "hành động cắt bao quy đầu cho ai đó; nghi lễ tôn giáo khi ai đó, đặc biệt là một em bé, được cắt bao quy đầu"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "cc07d38c01f442af865fc7180325b290",
+        "word": "curettage",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/kjʊəˈretɪdʒ/",
+            "us": "/ˌkjʊrɪˈtɑːʒ/"
+        },
+        "nearby": [
+            {
+                "word": "cure",
+                "pos": "noun"
+            },
+            {
+                "word": "cure-all",
+                "pos": "noun"
+            },
+            {
+                "word": "curettage",
+                "pos": "noun"
+            },
+            {
+                "word": "curette",
+                "pos": "noun"
+            },
+            {
+                "word": "curfew",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an operation that involves removing material from the inside of the uterus or other body part using a small sharp tool",
+                    "vi": "một phẫu thuật bao gồm việc loại bỏ vật liệu từ bên trong tử cung hoặc bộ phận cơ thể khác bằng cách sử dụng một công cụ nhỏ sắc bén"
+                },
+                "examples": [
+                    {
+                        "en": "Surgical removal with curettage is the standard treatment.",
+                        "vi": "Phẫu thuật cắt bỏ bằng nạo là phương pháp điều trị tiêu chuẩn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0ee46e464ac44120b1feb5a849a1e0c4",
+        "word": "dilatation and curettage",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌdaɪləˌteɪʃn ən kjʊəˈretɪdʒ/",
+            "us": "/ˌdaɪləˌteɪʃn ən ˌkjʊrɪˈtɑːʒ/"
+        },
+        "nearby": [
+            {
+                "word": "dilapidation",
+                "pos": "noun"
+            },
+            {
+                "word": "dilatation",
+                "pos": "noun"
+            },
+            {
+                "word": "dilatation and curettage",
+                "pos": "noun"
+            },
+            {
+                "word": "dilate",
+                "pos": "verb"
+            },
+            {
+                "word": "dilated",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an operation in which material is removed from the uterus, for example after a miscarriage",
+                    "vi": "một phẫu thuật trong đó vật liệu được lấy ra khỏi tử cung, ví dụ như sau khi sẩy thai"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "79434fea606840e1a617d323f8ba03ee",
+        "word": "facelift",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈfeɪslɪft/",
+            "us": "/ˈfeɪslɪft/"
+        },
+        "nearby": [
+            {
+                "word": "face down",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "faceless",
+                "pos": "adjective"
+            },
+            {
+                "word": "facelift",
+                "pos": "noun"
+            },
+            {
+                "word": "face mask",
+                "pos": "noun"
+            },
+            {
+                "word": "face off",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a medical operation in which the skin on a person’s face is made tighter in order to make them look younger",
+                    "vi": "một phẫu thuật y tế trong đó da trên khuôn mặt của một người được làm căng hơn để làm cho họ trông trẻ hơn"
+                },
+                "examples": [
+                    {
+                        "en": "to have a facelift",
+                        "vi": "để có một sự đổi mới"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "changes made to a building or place to make it look more attractive",
+                    "vi": "những thay đổi được thực hiện đối với một tòa nhà hoặc địa điểm để làm cho nó trông hấp dẫn hơn"
+                },
+                "examples": [
+                    {
+                        "en": "The town has recently been given a facelift.",
+                        "vi": "Thị trấn gần đây đã được đổi mới."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f4eda4bc30544a1491faab6ca11c9fe0",
+        "word": "gastric bypass",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌɡæstrɪk ˈbaɪpɑːs/",
+            "us": "/ˌɡæstrɪk ˈbaɪpæs/"
+        },
+        "nearby": [
+            {
+                "word": "gastric",
+                "pos": "adjective"
+            },
+            {
+                "word": "gastric band",
+                "pos": "noun"
+            },
+            {
+                "word": "gastric bypass",
+                "pos": "noun"
+            },
+            {
+                "word": "gastric flu",
+                "pos": "noun"
+            },
+            {
+                "word": "gastritis",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "surgery that reduces the size of somebody's stomach so that they will eat less food",
+                    "vi": "phẫu thuật làm giảm kích thước dạ dày của ai đó để họ ăn ít thức ăn hơn"
+                },
+                "examples": [
+                    {
+                        "en": "gastric bypass surgery",
+                        "vi": "phẫu thuật dạ dày"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c96b55b255b1418998ac93837b4371eb",
+        "word": "graft",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ɡrɑːft/",
+            "us": "/ɡræft/"
+        },
+        "nearby": [
+            {
+                "word": "Graeco-Roman wrestling",
+                "pos": "noun"
+            },
+            {
+                "word": "graffiti",
+                "pos": "noun"
+            },
+            {
+                "word": "graft",
+                "pos": "noun"
+            },
+            {
+                "word": "graft",
+                "pos": "verb"
+            },
+            {
+                "word": "Graham",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a piece cut from a living plant and fixed in a cut made in another plant, so that it grows there; the process or result of doing this",
+                    "vi": "một mảnh cắt từ một cây sống và cố định trong một vết cắt được làm ở một cây khác, để nó phát triển ở đó; quá trình hoặc kết quả của việc này"
+                },
+                "examples": [
+                    {
+                        "en": "A healthy shoot should form a strong graft.",
+                        "vi": "Một chồi khỏe mạnh sẽ tạo thành một cành ghép khỏe."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a piece of skin, bone, etc. removed from a living body and placed in another part of the body that has been damaged; the process or result of doing this",
+                    "vi": "một mảnh da, mảnh xương, ... được lấy ra từ cơ thể sống và đặt vào một bộ phận khác của cơ thể đã bị tổn thương; quá trình hoặc kết quả của việc này"
+                },
+                "examples": [
+                    {
+                        "en": "Linda had to undergo four skin grafts.",
+                        "vi": "Linda đã phải trải qua 4 lần ghép da."
+                    },
+                    {
+                        "en": "If the skin graft takes, surgeons will do another operation a few weeks later.",
+                        "vi": "Nếu cần ghép da, các bác sĩ phẫu thuật sẽ tiến hành một cuộc phẫu thuật khác vài tuần sau đó."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "hard work",
+                    "vi": "công việc khó khăn"
+                },
+                "examples": [
+                    {
+                        "en": "Their success was the result of years of hard graft.",
+                        "vi": "Thành công của họ là kết quả của nhiều năm miệt mài ghép."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the use of illegal or unfair methods, especially bribery, to gain advantage in business, politics, etc.; money obtained in this way",
+                    "vi": "việc sử dụng các phương pháp bất hợp pháp hoặc không công bằng, đặc biệt là hối lộ, để đạt được lợi thế trong kinh doanh, chính trị, v.v.; tiền thu được theo cách này"
+                },
+                "examples": [
+                    {
+                        "en": "He promised an end to graft and corruption in public life.",
+                        "vi": "Ông hứa sẽ chấm dứt tình trạng ghép và tham nhũng trong đời sống công cộng."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "39091f4415d8474b86bdb47598fee91b",
+        "word": "graft",
+        "pos": "verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ɡrɑːft/",
+            "us": "/ɡræft/"
+        },
+        "nearby": [
+            {
+                "word": "graffiti",
+                "pos": "noun"
+            },
+            {
+                "word": "graft",
+                "pos": "noun"
+            },
+            {
+                "word": "graft",
+                "pos": "verb"
+            },
+            {
+                "word": "Graham",
+                "pos": ""
+            },
+            {
+                "word": "Billy Graham",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to take a piece of skin, bone, etc. from a living body and attach it to a damaged part",
+                    "vi": "để lấy một phần da, xương, v.v. từ cơ thể sống và gắn nó vào bộ phận bị hư hỏng"
+                },
+                "examples": [
+                    {
+                        "en": "newly grafted tissue",
+                        "vi": "mô mới ghép"
+                    },
+                    {
+                        "en": "New skin had to be grafted on from his back.",
+                        "vi": "Da mới phải được ghép từ lưng của anh ta."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to cut a piece from a living plant and attach it to another plant",
+                    "vi": "cắt một mảnh từ một cây sống và gắn nó vào một cây khác"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to make one idea, system, etc. become part of another one",
+                    "vi": "để biến một ý tưởng, hệ thống, v.v. trở thành một phần của một ý tưởng khác"
+                },
+                "examples": [
+                    {
+                        "en": "Old values are being grafted onto a new social class.",
+                        "vi": "Những giá trị cũ đang được ghép vào một giai cấp xã hội mới."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to work hard",
+                    "vi": "làm việc chăm chỉ"
+                },
+                "examples": [
+                    {
+                        "en": "She’s been grafting all day.",
+                        "vi": "Cô ấy đã ghép cả ngày."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "03921a68a46a47b09e0db619653712f4",
+        "word": "incision",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ɪnˈsɪʒn/",
+            "us": "/ɪnˈsɪʒn/"
+        },
+        "nearby": [
+            {
+                "word": "incipient",
+                "pos": "adjective"
+            },
+            {
+                "word": "incise",
+                "pos": "verb"
+            },
+            {
+                "word": "incision",
+                "pos": "noun"
+            },
+            {
+                "word": "incisive",
+                "pos": "adjective"
+            },
+            {
+                "word": "incisively",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a sharp cut made in something, particularly during a medical operation; the act of making a cut in something",
+                    "vi": "một vết cắt sắc bén được thực hiện trong một cái gì đó, đặc biệt là trong một cuộc phẫu thuật y tế; hành động cắt giảm một thứ gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "Make a small incision below the ribs.",
+                        "vi": "Rạch một đường nhỏ bên dưới xương sườn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "933837c433014c44ac81ffab7935ed93",
+        "word": "invasive",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ɪnˈveɪsɪv/",
+            "us": "/ɪnˈveɪsɪv/"
+        },
+        "nearby": [
+            {
+                "word": "invariant",
+                "pos": "adjective"
+            },
+            {
+                "word": "invasion",
+                "pos": "noun"
+            },
+            {
+                "word": "invasive",
+                "pos": "adjective"
+            },
+            {
+                "word": "invective",
+                "pos": "noun"
+            },
+            {
+                "word": "inveigh",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "spreading very quickly and difficult to stop",
+                    "vi": "lây lan rất nhanh và khó ngăn chặn"
+                },
+                "examples": [
+                    {
+                        "en": "invasive cancer",
+                        "vi": "ung thư xâm lấn"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "involving cutting into the body",
+                    "vi": "liên quan đến việc cắt vào cơ thể"
+                },
+                "examples": [
+                    {
+                        "en": "invasive surgery",
+                        "vi": "Phẫu thuật xâm lấn"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e5eb2fa96fd946c580263257326f61a1",
+        "word": "keyhole surgery",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌkiːhəʊl ˈsɜːdʒəri/",
+            "us": "/ˌkiːhəʊl ˈsɜːrdʒəri/"
+        },
+        "nearby": [
+            {
+                "word": "key grip",
+                "pos": "noun"
+            },
+            {
+                "word": "keyhole",
+                "pos": "noun"
+            },
+            {
+                "word": "keyhole surgery",
+                "pos": "noun"
+            },
+            {
+                "word": "keyless",
+                "pos": "adjective"
+            },
+            {
+                "word": "key light",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "medical operations that involve only a very small cut being made in the patient’s body",
+                    "vi": "các hoạt động y tế chỉ liên quan đến một vết cắt rất nhỏ trên cơ thể bệnh nhân"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "d0bc3fcf06d74c6595530fffc4732227",
+        "word": "lobotomy",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ləˈbɒtəmi/",
+            "us": "/ləˈbɑːtəmi/"
+        },
+        "nearby": [
+            {
+                "word": "lobola",
+                "pos": "noun"
+            },
+            {
+                "word": "lobotomize",
+                "pos": "verb"
+            },
+            {
+                "word": "lobotomy",
+                "pos": "noun"
+            },
+            {
+                "word": "lobster",
+                "pos": "noun"
+            },
+            {
+                "word": "lobster pot",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a rare medical operation that cuts into part of a person’s brain in order to treat mental illness",
+                    "vi": "một ca phẫu thuật y tế hiếm gặp cắt một phần não của một người để điều trị bệnh tâm thần"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "9c1b3dfa72cd45e685795108bff88a5d",
+        "word": "neurosurgery",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈnjʊərəʊsɜːdʒəri/",
+            "us": "/ˈnʊrəʊsɜːrdʒəri/"
+        },
+        "nearby": [
+            {
+                "word": "neurosis",
+                "pos": "noun"
+            },
+            {
+                "word": "neurosurgeon",
+                "pos": "noun"
+            },
+            {
+                "word": "neurosurgery",
+                "pos": "noun"
+            },
+            {
+                "word": "neurotic",
+                "pos": "adjective"
+            },
+            {
+                "word": "neurotic",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "medical operations performed on the nervous system, especially the brain",
+                    "vi": "các hoạt động y tế được thực hiện trên hệ thống thần kinh, đặc biệt là não"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "fcbe9ea1fe49435c92d712c6c2cd3587",
+        "word": "nip and tuck",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌnɪp ən ˈtʌk/",
+            "us": "/ˌnɪp ən ˈtʌk/"
+        },
+        "nearby": [
+            {
+                "word": "ninth",
+                "pos": "noun"
+            },
+            {
+                "word": "niobium",
+                "pos": "noun"
+            },
+            {
+                "word": "nip and tuck",
+                "pos": "noun"
+            },
+            {
+                "word": "nip",
+                "pos": "verb"
+            },
+            {
+                "word": "nip",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a medical operation in which skin is removed or made tighter to make somebody look younger or more attractive, especially a facelift",
+                    "vi": "một phẫu thuật y tế trong đó da được loại bỏ hoặc làm căng hơn để làm cho ai đó trông trẻ hơn hoặc hấp dẫn hơn, đặc biệt là làm đẹp da"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "8a0163cbd6a743b9ae0ce3449a3f4863",
+        "word": "open-heart surgery",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌəʊpən hɑːt ˈsɜːdʒəri/",
+            "us": "/ˌəʊpən hɑːrt ˈsɜːrdʒəri/"
+        },
+        "nearby": [
+            {
+                "word": "open-handed",
+                "pos": "adjective"
+            },
+            {
+                "word": "open-hearted",
+                "pos": "adjective"
+            },
+            {
+                "word": "open-heart surgery",
+                "pos": "noun"
+            },
+            {
+                "word": "open house",
+                "pos": "noun"
+            },
+            {
+                "word": "opening",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a medical operation on the heart, during which the patient’s blood is kept flowing by a machine",
+                    "vi": "một ca phẫu thuật y tế về tim, trong đó máu của bệnh nhân được tiếp tục chảy bằng máy"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "de09f556eb1f4a9ca740e09b6b0c19a5",
+        "word": "operable",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈɒpərəbl/",
+            "us": "/ˈɑːpərəbl/"
+        },
+        "nearby": [
+            {
+                "word": "open verdict",
+                "pos": "noun"
+            },
+            {
+                "word": "opera",
+                "pos": "noun"
+            },
+            {
+                "word": "operable",
+                "pos": "adjective"
+            },
+            {
+                "word": "opera glasses",
+                "pos": "noun"
+            },
+            {
+                "word": "opera house",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "that functions; that can be used",
+                    "vi": "chức năng đó; cái đó có thể được sử dụng"
+                },
+                "examples": [
+                    {
+                        "en": "Less than half the rail network was operable.",
+                        "vi": "Ít hơn một nửa mạng lưới đường sắt có thể hoạt động."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "that can be treated by an operation",
+                    "vi": "có thể được xử lý bằng một hoạt động"
+                },
+                "examples": [
+                    {
+                        "en": "This type of cancer is usually operable.",
+                        "vi": "Loại ung thư này thường có thể phẫu thuật được."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "81ae883a63484fbfaa0a8378e57c3814",
+        "word": "operative",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈɒpərətɪv/",
+            "us": "/ˈɑːpərətɪv/"
+        },
+        "nearby": [
+            {
+                "word": "operations room",
+                "pos": "noun"
+            },
+            {
+                "word": "operative",
+                "pos": "noun"
+            },
+            {
+                "word": "operative",
+                "pos": "adjective"
+            },
+            {
+                "word": "operator",
+                "pos": "noun"
+            },
+            {
+                "word": "operetta",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "ready to be used; in use",
+                    "vi": "sẵn sàng được sử dụng; đang sử dụng"
+                },
+                "examples": [
+                    {
+                        "en": "This law becomes operative immediately.",
+                        "vi": "Luật này có hiệu lực ngay lập tức."
+                    },
+                    {
+                        "en": "The station will be fully operative again in January.",
+                        "vi": "Nhà ga sẽ hoạt động trở lại vào tháng Giêng."
+                    },
+                    {
+                        "en": "an agreement/an accord/a proposal/a tax/a rule/an amendment/an act becomes operative",
+                        "vi": "một thỏa thuận / một hiệp định / một đề xuất / một khoản thuế / một quy tắc / một sửa đổi / một hành động trở nên có hiệu lực"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "connected with a medical operation",
+                    "vi": "kết nối với một hoạt động y tế"
+                },
+                "examples": [
+                    {
+                        "en": "operative treatment",
+                        "vi": "điều trị phẫu thuật"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to emphasize that a particular word or phrase is the most important one in a sentence",
+                    "vi": "được sử dụng để nhấn mạnh rằng một từ hoặc cụm từ cụ thể là từ hoặc cụm từ cụ thể là quan trọng nhất trong câu"
+                },
+                "examples": [
+                    {
+                        "en": "I was in love with her—‘was’ being the operative word.",
+                        "vi": "Tôi đã yêu cô ấy - 'đúng là' là từ hợp tác."
+                    },
+                    {
+                        "en": "He seemed nice. But ‘seemed’ was the operative word.",
+                        "vi": "Anh ấy có vẻ tốt. Nhưng 'dường như' là từ hoạt động."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "aa97664ebe874f99bb8e0cd582b00816",
+        "word": "post-operative",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌpəʊst ˈɒpərətɪv/",
+            "us": "/ˌpəʊst ˈɑːpərətɪv/"
+        },
+        "nearby": [
+            {
+                "word": "post office",
+                "pos": "noun"
+            },
+            {
+                "word": "post office box",
+                "pos": "noun"
+            },
+            {
+                "word": "post-operative",
+                "pos": "adjective"
+            },
+            {
+                "word": "post-paid",
+                "pos": "adjective"
+            },
+            {
+                "word": "post-paid",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "connected with the period after a medical operation",
+                    "vi": "kết nối với khoảng thời gian sau khi phẫu thuật y tế"
+                },
+                "examples": [
+                    {
+                        "en": "post-operative complications/pain/care",
+                        "vi": "biến chứng sau phẫu thuật / đau / chăm sóc"
+                    },
+                    {
+                        "en": "patients in the post-operative period",
+                        "vi": "bệnh nhân trong thời kỳ hậu phẫu"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "fe5242533f2746a1811b5922279f0556",
+        "word": "prep",
+        "pos": "verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/prep/",
+            "us": "/prep/"
+        },
+        "nearby": [
+            {
+                "word": "pre-owned",
+                "pos": "adjective"
+            },
+            {
+                "word": "prep",
+                "pos": "noun"
+            },
+            {
+                "word": "prep",
+                "pos": "verb"
+            },
+            {
+                "word": "pre-packed",
+                "pos": "adjective"
+            },
+            {
+                "word": "prepaid",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to prepare (something)",
+                    "vi": "để chuẩn bị (một cái gì đó)"
+                },
+                "examples": [
+                    {
+                        "en": "prep something Prep the vegetables in advance.",
+                        "vi": "chuẩn bị một cái gì đó Chuẩn bị trước các loại rau."
+                    },
+                    {
+                        "en": "prep (for something) They're prepping for college.",
+                        "vi": "chuẩn bị (cho một cái gì đó) Họ đang chuẩn bị cho đại học."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to prepare somebody for a medical operation",
+                    "vi": "để chuẩn bị cho ai đó cho một cuộc phẫu thuật y tế"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "71f5586454f14983af65b64da4cb5f00",
+        "word": "scrub",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/skrʌb/",
+            "us": "/skrʌb/"
+        },
+        "nearby": [
+            {
+                "word": "scrounger",
+                "pos": "noun"
+            },
+            {
+                "word": "scrub",
+                "pos": "verb"
+            },
+            {
+                "word": "scrub",
+                "pos": "noun"
+            },
+            {
+                "word": "scrubber",
+                "pos": "noun"
+            },
+            {
+                "word": "scrubbing brush",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an act of scrubbing something",
+                    "vi": "một hành động cọ rửa một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "I've given the floor a good scrub.",
+                        "vi": "Tôi đã chà sàn tốt."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "small bushes and trees",
+                    "vi": "bụi cây nhỏ"
+                },
+                "examples": [
+                    {
+                        "en": "The vegetation consisted of low scrub.",
+                        "vi": "Thảm thực vật bao gồm cây bụi thấp."
+                    },
+                    {
+                        "en": "The bird disappeared into the scrub.",
+                        "vi": "Con chim biến mất trong bụi cây."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an area of dry land covered with small bushes and trees",
+                    "vi": "một khu vực đất khô được bao phủ bởi những bụi cây nhỏ"
+                },
+                "examples": [
+                    {
+                        "en": "miles of desert scrub",
+                        "vi": "dặm sa mạc chà"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the special clothes worn by surgeons when they are doing medical operations",
+                    "vi": "những bộ quần áo đặc biệt của bác sĩ phẫu thuật khi họ đang thực hiện các hoạt động y tế"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "39ed6abef30643218d61909dd7170bcf",
+        "word": "scrub up",
+        "pos": "phrasal verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "",
+            "us": ""
+        },
+        "nearby": [
+            {
+                "word": "scrub room",
+                "pos": "noun"
+            },
+            {
+                "word": "the Scrubs",
+                "pos": ""
+            },
+            {
+                "word": "scrub up",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "scruff",
+                "pos": "noun"
+            },
+            {
+                "word": "scruffily",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to wash your hands and arms before performing a medical operation",
+                    "vi": "rửa tay và cánh tay của bạn trước khi thực hiện phẫu thuật y tế"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to look good when you make an effort",
+                    "vi": "trông đẹp khi bạn nỗ lực"
+                },
+                "examples": [
+                    {
+                        "en": "Barry scrubs up well on a good day, as can be seen in this pic.",
+                        "vi": "Barry tẩy tế bào chết tốt vào một ngày đẹp trời, như có thể thấy trong bức ảnh này."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "cfb86eaa7ab54af581ed14759659c53f",
+        "word": "set",
+        "pos": "verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/set/",
+            "us": "/set/"
+        },
+        "nearby": [
+            {
+                "word": "session",
+                "pos": "noun"
+            },
+            {
+                "word": "session musician",
+                "pos": "noun"
+            },
+            {
+                "word": "set",
+                "pos": "verb"
+            },
+            {
+                "word": "set",
+                "pos": "noun"
+            },
+            {
+                "word": "set",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to prepare or arrange something so that it is ready for use or in position",
+                    "vi": "chuẩn bị hoặc sắp xếp thứ gì đó để nó sẵn sàng sử dụng hoặc ở vị trí"
+                },
+                "examples": [
+                    {
+                        "en": "set something Have you set the alarm clock?",
+                        "vi": "đặt một cái gì đó Bạn đã đặt đồng hồ báo thức chưa?"
+                    },
+                    {
+                        "en": "set something + adv.prep. She set the camera on automatic.",
+                        "vi": "đặt cái gì đó + adv.prep. Cô ấy đặt máy ảnh ở chế độ tự động."
+                    },
+                    {
+                        "en": "I set my watch by (= make it show the same time as) the TV.",
+                        "vi": "Tôi đặt đồng hồ của mình bằng (= làm cho đồng hồ hiển thị cùng giờ với) TV."
+                    },
+                    {
+                        "en": "Set the alarm for 7 o'clock.",
+                        "vi": "Đặt báo thức lúc 7 giờ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to arrange knives, forks, etc. on a table for a meal",
+                    "vi": "sắp xếp dao, nĩa, v.v. trên bàn ăn"
+                },
+                "examples": [
+                    {
+                        "en": "set a/the table Can you help me set the table?",
+                        "vi": "set a / the table Bạn có thể giúp tôi đặt cái bàn được không?"
+                    },
+                    {
+                        "en": "set a/the table for somebody/something Could you set the table for dinner?",
+                        "vi": "set a / the table for somebody / something Bạn có thể dọn bàn ăn tối được không?"
+                    },
+                    {
+                        "en": "The table was set for six guests.",
+                        "vi": "Bàn được đặt cho sáu khách."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to fix something so that others copy it or try to achieve it",
+                    "vi": "sửa một cái gì đó để người khác sao chép nó hoặc cố gắng đạt được nó"
+                },
+                "examples": [
+                    {
+                        "en": "This could set a new fashion.",
+                        "vi": "Điều này có thể thiết lập một thời trang mới."
+                    },
+                    {
+                        "en": "They set high standards of customer service.",
+                        "vi": "Họ đặt ra các tiêu chuẩn cao về dịch vụ khách hàng."
+                    },
+                    {
+                        "en": "I am unwilling to set a precedent.",
+                        "vi": "Tôi không muốn thiết lập một tiền lệ."
+                    },
+                    {
+                        "en": "She set a new world record for the high jump.",
+                        "vi": "Cô đã lập kỷ lục thế giới mới cho môn nhảy cao."
+                    },
+                    {
+                        "en": "I rely on you to set a good example.",
+                        "vi": "Tôi dựa vào bạn để làm gương tốt."
+                    },
+                    {
+                        "en": "The opening scene sets the tone for the rest of the movie.",
+                        "vi": "Cảnh mở đầu tạo nên âm hưởng cho phần còn lại của bộ phim."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to give somebody a piece of work to do or a task or target to achieve",
+                    "vi": "giao cho ai đó một phần công việc phải làm hoặc một nhiệm vụ hoặc mục tiêu để đạt được"
+                },
+                "examples": [
+                    {
+                        "en": "set something Who will be setting (= writing the questions for) the French exam?",
+                        "vi": "đặt điều gì Ai sẽ sắp đặt (= viết câu hỏi cho) kỳ thi tiếng Pháp?"
+                    },
+                    {
+                        "en": "The government has set a growth target of 6%.",
+                        "vi": "Chính phủ đã đặt mục tiêu tăng trưởng là 6%."
+                    },
+                    {
+                        "en": "set something for something What books have been set (= are to be studied) for the English course?",
+                        "vi": "set something for something Sách nào đã được thiết lập (= sẽ được học) cho khóa học tiếng Anh?"
+                    },
+                    {
+                        "en": "set something for somebody/yourself She's set a difficult task for herself.",
+                        "vi": "đặt điều gì đó cho ai đó / bản thân Cô ấy đang đặt ra một nhiệm vụ khó khăn cho chính mình."
+                    },
+                    {
+                        "en": "He likes to set challenging goals for himself.",
+                        "vi": "Anh ấy thích đặt ra những mục tiêu thử thách cho bản thân."
+                    },
+                    {
+                        "en": "set somebody/yourself something She's set herself a difficult task.",
+                        "vi": "đặt cho ai đó / cho mình một việc gì đó Cô ấy tự đặt cho mình một nhiệm vụ khó khăn."
+                    },
+                    {
+                        "en": "set somebody/yourself to do something I've set myself to finish the job by the end of the month.",
+                        "vi": "yêu cầu ai đó / chính bạn làm điều gì đó mà tôi đã tự đặt mình để hoàn thành công việc vào cuối tháng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to arrange or fix something; to decide on something",
+                    "vi": "để sắp xếp hoặc sửa chữa một cái gì đó; để quyết định một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "They haven't set a date for their wedding yet.",
+                        "vi": "Họ vẫn chưa ấn định ngày tổ chức đám cưới của mình."
+                    },
+                    {
+                        "en": "The government has set strict limits on public spending this year.",
+                        "vi": "Chính phủ đã đặt ra các giới hạn nghiêm ngặt đối với chi tiêu công trong năm nay."
+                    },
+                    {
+                        "en": "We can't just let the global corporations set the agenda (= decide what is important) every time.",
+                        "vi": "Chúng ta không thể để các tập đoàn toàn cầu thiết lập chương trình nghị sự (= quyết định điều gì là quan trọng) mọi lúc."
+                    },
+                    {
+                        "en": "Set a time limit for your studying each night.",
+                        "vi": "Đặt giới hạn thời gian cho việc học của bạn mỗi đêm."
+                    },
+                    {
+                        "en": "Individual countries don't really set the price of oil.",
+                        "vi": "Các quốc gia riêng lẻ không thực sự ấn định giá dầu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to place the action of a play, novel or film in a particular place, time, etc.",
+                    "vi": "để đặt hành động của một vở kịch, tiểu thuyết hoặc phim ở một địa điểm, thời gian cụ thể, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "be set + adv./prep. The novel is set in London in the 1960s.",
+                        "vi": "được đặt + adv./prep. Cuốn tiểu thuyết lấy bối cảnh ở London vào những năm 1960."
+                    },
+                    {
+                        "en": "The movie is set in Los Angeles in the year 2019.",
+                        "vi": "Phim lấy bối cảnh ở Los Angeles vào năm 2019."
+                    },
+                    {
+                        "en": "This powerful drama is set against the backdrop of the Civil War.",
+                        "vi": "Bộ phim truyền hình mạnh mẽ này được đặt trong bối cảnh của Nội chiến."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be located in a particular place",
+                    "vi": "được đặt ở một nơi cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "be set + adv./prep. The house is set in fifty acres of parkland.",
+                        "vi": "được đặt + adv./prep. Ngôi nhà nằm trong khu đất công viên rộng 50 mẫu Anh."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to put something/somebody in a particular place or position",
+                    "vi": "để đặt một cái gì đó / ai đó ở một nơi hoặc vị trí cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "She set a tray down on the table.",
+                        "vi": "Cô đặt một cái khay xuống bàn."
+                    },
+                    {
+                        "en": "They ate everything that was set in front of them.",
+                        "vi": "Họ ăn tất cả mọi thứ được bày ra trước mặt."
+                    },
+                    {
+                        "en": "When she fell he picked her up and set her on her feet again.",
+                        "vi": "Khi cô ngã, anh ta đã bế cô lên và đặt cô đứng lên một lần nữa."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to cause somebody/something to be in a particular state; to start something happening",
+                    "vi": "khiến ai đó / cái gì đó ở trong một trạng thái cụ thể; để bắt đầu một cái gì đó đang xảy ra"
+                },
+                "examples": [
+                    {
+                        "en": "set somebody/something + adv./prep. Her manner immediately set everyone at their ease.",
+                        "vi": "đặt ai đó / cái gì đó + adv./prep. Phong thái của cô ấy ngay lập tức khiến mọi người cảm thấy thoải mái."
+                    },
+                    {
+                        "en": "He pulled the lever and set the machine in motion.",
+                        "vi": "Anh kéo cần gạt và đặt máy chuyển động."
+                    },
+                    {
+                        "en": "The new leader has set the party on the road to success.",
+                        "vi": "Người lãnh đạo mới đã đưa cả nhóm đi trên con đường thành công."
+                    },
+                    {
+                        "en": "Demonstrators set two cars on fire.",
+                        "vi": "Người biểu tình đốt cháy hai xe ô tô."
+                    },
+                    {
+                        "en": "Demonstrators set fire to two cars.",
+                        "vi": "Người biểu tình phóng hỏa hai xe ô tô."
+                    },
+                    {
+                        "en": "set somebody/something + adj. The hijackers set the hostages free.",
+                        "vi": "đặt ai đó / cái gì đó + adj. Những kẻ không tặc giải phóng con tin."
+                    },
+                    {
+                        "en": "set somebody/something doing something Her remarks set me thinking.",
+                        "vi": "thiết lập ai đó / điều gì đó làm điều gì đó Nhận xét của cô ấy khiến tôi phải suy nghĩ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to go down below the horizon",
+                    "vi": "đi xuống dưới đường chân trời"
+                },
+                "examples": [
+                    {
+                        "en": "We sat and watched the sun setting.",
+                        "vi": "Chúng tôi ngồi và nhìn mặt trời lặn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to put a precious stone into a piece of jewellery",
+                    "vi": "đặt một viên đá quý thành một món đồ trang sức"
+                },
+                "examples": [
+                    {
+                        "en": "set A in B She had the sapphire set in a gold ring.",
+                        "vi": "set A in B Cô ấy đã đặt viên sapphire trong một chiếc nhẫn vàng."
+                    },
+                    {
+                        "en": "set B with A Her bracelet was set with emeralds.",
+                        "vi": "bộ B với A Vòng tay của cô được đặt bằng ngọc lục bảo."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to become solid or hard",
+                    "vi": "trở nên rắn hay cứng"
+                },
+                "examples": [
+                    {
+                        "en": "Leave the concrete to set for a few hours.",
+                        "vi": "Để bê tông đông kết trong vài giờ."
+                    },
+                    {
+                        "en": "+ adj. The glue had set hard.",
+                        "vi": "Err:509"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to fix your face into a determined expression",
+                    "vi": "để sửa khuôn mặt của bạn thành một biểu cảm kiên quyết"
+                },
+                "examples": [
+                    {
+                        "en": "Her jaw was set in a determined manner.",
+                        "vi": "Hàm của cô ấy được thiết lập một cách kiên quyết."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to arrange somebody’s hair while it is wet so that it dries in a particular style",
+                    "vi": "sắp xếp tóc của ai đó trong khi tóc ướt để tóc khô theo một kiểu cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "She had her hair washed and set.",
+                        "vi": "Cô ấy đã gội đầu và chải đầu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to put a broken bone into a fixed position and hold it there, so that it will join together again and get better; to get better in this way",
+                    "vi": "đặt xương gãy vào một vị trí cố định và giữ ở đó, để xương liền lại với nhau và mau khỏi; để trở nên tốt hơn theo cách này"
+                },
+                "examples": [
+                    {
+                        "en": "The surgeon set her broken arm.",
+                        "vi": "Các bác sĩ phẫu thuật đặt cánh tay bị gãy của cô ấy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to use a machine or computer to arrange writing and images on pages in order to prepare a book, newspaper, etc. for printing",
+                    "vi": "sử dụng máy hoặc máy tính để sắp xếp chữ viết và hình ảnh trên các trang để chuẩn bị in sách, báo, v.v."
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to write music to go with words",
+                    "vi": "viết nhạc đi kèm với lời nói"
+                },
+                "examples": [
+                    {
+                        "en": "Schubert set many poems to music.",
+                        "vi": "Schubert đã phổ nhạc nhiều bài thơ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9c0090d663064941bf8a4255b04dd86a",
+        "word": "skin graft",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈskɪn ɡrɑːft/",
+            "us": "/ˈskɪn ɡræft/"
+        },
+        "nearby": [
+            {
+                "word": "skinflint",
+                "pos": "noun"
+            },
+            {
+                "word": "skinful",
+                "pos": "noun"
+            },
+            {
+                "word": "skin graft",
+                "pos": "noun"
+            },
+            {
+                "word": "skinhead",
+                "pos": "noun"
+            },
+            {
+                "word": "skink",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a medical operation in which healthy skin is taken from one part of somebody’s body and placed over another part to replace skin that has been burned or damaged; a piece of skin that is moved in this way",
+                    "vi": "một phẫu thuật y tế trong đó da khỏe mạnh được lấy từ một bộ phận cơ thể của ai đó và đặt lên bộ phận khác để thay thế da đã bị bỏng hoặc bị tổn thương; một miếng da được di chuyển theo cách này"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "dd9f523955274ad79126186e302c46ba",
+        "word": "termination",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌtɜːmɪˈneɪʃn/",
+            "us": "/ˌtɜːrmɪˈneɪʃn/"
+        },
+        "nearby": [
+            {
+                "word": "terminal velocity",
+                "pos": "noun"
+            },
+            {
+                "word": "terminate",
+                "pos": "verb"
+            },
+            {
+                "word": "termination",
+                "pos": "noun"
+            },
+            {
+                "word": "terminological",
+                "pos": "adjective"
+            },
+            {
+                "word": "terminology",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the act of ending something; the end of something",
+                    "vi": "hành động kết thúc một cái gì đó; kết thúc của một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "Failure to comply with these conditions will result in termination of the contract.",
+                        "vi": "Nếu không tuân thủ các điều kiện này sẽ dẫn đến việc chấm dứt hợp đồng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a medical operation to end a pregnancy at an early stage",
+                    "vi": "phẫu thuật y tế để chấm dứt thai kỳ ở giai đoạn đầu"
+                },
+                "examples": [
+                    {
+                        "en": "She chose to have an early termination.",
+                        "vi": "Cô ấy đã chọn kết thúc sớm."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "897818383fe9468da0f7296dfe53c14f",
+        "word": "tuck",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/tʌk/",
+            "us": "/tʌk/"
+        },
+        "nearby": [
+            {
+                "word": "TUC",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "tuck",
+                "pos": "verb"
+            },
+            {
+                "word": "tuck",
+                "pos": "noun"
+            },
+            {
+                "word": "tuck away",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "tucker",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a fold that is sewn into a piece of clothing or cloth, either for decoration or to change the shape of it",
+                    "vi": "một nếp gấp được may thành một mảnh quần áo hoặc vải, để trang trí hoặc để thay đổi hình dạng của nó"
+                },
+                "examples": [
+                    {
+                        "en": "We could take a tuck in the waist to give it a more fitted look.",
+                        "vi": "Chúng ta có thể thắt một bên eo để trông vừa vặn hơn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a medical operation in which skin and/or fat is removed to make somebody look younger or thinner",
+                    "vi": "một phẫu thuật y tế trong đó da và / hoặc mỡ được loại bỏ để làm cho ai đó trông trẻ hơn hoặc gầy hơn"
+                },
+                "examples": [
+                    {
+                        "en": "a tummy tuck",
+                        "vi": "hóp bụng"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "food, especially sweets, etc. eaten by children at school",
+                    "vi": "thức ăn, đặc biệt là đồ ngọt, vv được ăn bởi trẻ em ở trường"
+                },
+                "examples": [
+                    {
+                        "en": "a tuck shop",
+                        "vi": "một cửa hàng quần áo"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2303c221bdc54e1f92e188a08a2627c3",
+        "word": "vasectomy",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/vəˈsektəmi/",
+            "us": "/vəˈsektəmi/"
+        },
+        "nearby": [
+            {
+                "word": "vas deferens",
+                "pos": "noun"
+            },
+            {
+                "word": "vase",
+                "pos": "noun"
+            },
+            {
+                "word": "vasectomy",
+                "pos": "noun"
+            },
+            {
+                "word": "Vaseline",
+                "pos": "noun"
+            },
+            {
+                "word": "vasoconstriction",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a medical operation to remove part of each of the tubes in a man’s body that carry sperm, after which he is not able to make a woman pregnant",
+                    "vi": "phẫu thuật y tế để loại bỏ một phần của mỗi ống trong cơ thể người đàn ông mang tinh trùng, sau đó anh ta không thể làm cho phụ nữ mang thai"
+                },
+                "examples": [
+                    {
+                        "en": "to have a vasectomy",
+                        "vi": "thắt ống dẫn tinh"
+                    }
+                ]
+            }
+        ]
+    }
+]

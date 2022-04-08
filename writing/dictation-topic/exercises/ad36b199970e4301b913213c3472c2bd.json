@@ -1,0 +1,139 @@
+{
+    "id": "ad36b199970e4301b913213c3472c2bd",
+    "title": "Telephone call (2)",
+    "questions": [
+        {
+            "id": "14cd33ec60ae4c85a8120a4b0e178da6",
+            "text": "Hello, Jack. This is Dave.",
+            "items": [
+                "Hello,",
+                "Jack.",
+                "This",
+                "is",
+                "Dave."
+            ]
+        },
+        {
+            "id": "0b38408b0cb24dff8e70250837a2473d",
+            "text": "I want to return the book I borrowed from you last night.",
+            "items": [
+                "I",
+                "want",
+                "to",
+                "return",
+                "the",
+                "book",
+                "I",
+                "borrowed",
+                "from",
+                "you",
+                "last",
+                "night."
+            ]
+        },
+        {
+            "id": "589a2e590d24417fa44620b11d3abfc1",
+            "text": "Will you be home at about six o'clock?",
+            "items": [
+                "Will",
+                "you",
+                "be",
+                "home",
+                "at",
+                "about",
+                [
+                    "six",
+                    "6"
+                ],
+                "o'clock?"
+            ]
+        },
+        {
+            "id": "456dac256b274b9ea8e789c12f0dad07",
+            "text": "Yes, I will. I'll be cooking dinner.",
+            "items": [
+                "Yes,",
+                "I",
+                "will.",
+                [
+                    "I'll",
+                    "I will"
+                ],
+                "be",
+                "cooking",
+                "dinner."
+            ]
+        },
+        {
+            "id": "933f530bbd1f4ba39e35321fa13081fd",
+            "text": "Oh! Well. Then I won't come over at six.",
+            "items": [
+                "Oh!",
+                "Well.",
+                "Then",
+                "I",
+                "won't",
+                "come",
+                "over",
+                "at",
+                [
+                    "six.",
+                    "6"
+                ]
+            ]
+        },
+        {
+            "id": "bd7c72e77430480689d8b2691540c092",
+            "text": "Why not?",
+            "items": [
+                "Why",
+                "not?"
+            ]
+        },
+        {
+            "id": "31f2e2e0ce3549038a700266c17be5ed",
+            "text": "I don't want to disturb you.",
+            "items": [
+                "I",
+                "don't",
+                "want",
+                "to",
+                "disturb",
+                "you."
+            ]
+        },
+        {
+            "id": "c1e7b2bcdd184820a93c7c9beb56ca63",
+            "text": "Don't worry! You won't disturb me.",
+            "items": [
+                "Don't",
+                "worry!",
+                "You",
+                "won't",
+                "disturb",
+                "me."
+            ]
+        },
+        {
+            "id": "b389221498af4ae7a7604b936721da76",
+            "text": "OK. I'll see you at six.",
+            "items": [
+                [
+                    "OK.",
+                    "okay"
+                ],
+                [
+                    "I'll",
+                    "I will"
+                ],
+                "see",
+                "you",
+                "at",
+                [
+                    "six.",
+                    "6"
+                ]
+            ]
+        }
+    ]
+}

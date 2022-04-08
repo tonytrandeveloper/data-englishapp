@@ -1,0 +1,102 @@
+{
+    "id": "a84fab378fa94b9883f9b427705a4079",
+    "title": "Adding contradictory remarks",
+    "exercises": [
+        {
+            "id": "112719c366a9464f9c6fc8d61b406673",
+            "title": "Adding Contradictory Remarks",
+            "questions": [
+                {
+                    "question": "He can speak English ........................... I can’t.",
+                    "description": "",
+                    "answers": [
+                        "But",
+                        "And"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "He won the test. ................................ his brother didn’t.",
+                    "description": "",
+                    "answers": [
+                        "But",
+                        "And"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "I like reading comics. .................................. my wife doesn’t.",
+                    "description": "",
+                    "answers": [
+                        "But",
+                        "And"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "He ................................. me well but his wife doesn’t",
+                    "description": "",
+                    "answers": [
+                        "knows",
+                        "doesn't know"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "English is easy to learn but French ................................",
+                    "description": "",
+                    "answers": [
+                        "is",
+                        "isn't"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "I did the homework but others .................................",
+                    "description": "",
+                    "answers": [
+                        "did",
+                        "didn't"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "I have learned classical music but my sister ...................................",
+                    "description": "",
+                    "answers": [
+                        "has",
+                        "hasn't"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "John .............................. but Peter hasn’t.",
+                    "description": "",
+                    "answers": [
+                        "has arrived",
+                        "hasn't arrived"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "James can sing well but Alice ............................",
+                    "description": "",
+                    "answers": [
+                        "can",
+                        "can't"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "He will leave tomorrow  .................................... I won’t.",
+                    "description": "",
+                    "answers": [
+                        "and",
+                        "but"
+                    ],
+                    "correct": 1
+                }
+            ]
+        }
+    ]
+}

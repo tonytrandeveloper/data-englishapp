@@ -1,0 +1,104 @@
+[
+    {
+        "id": "32e96a66e5c44535aa77c16d11cbf132",
+        "word": "ventilate",
+        "pos": "verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈventɪleɪt/",
+            "us": "/ˈventɪleɪt/"
+        },
+        "nearby": [
+            {
+                "word": "vent",
+                "pos": "noun"
+            },
+            {
+                "word": "vent",
+                "pos": "verb"
+            },
+            {
+                "word": "ventilate",
+                "pos": "verb"
+            },
+            {
+                "word": "ventilation",
+                "pos": "noun"
+            },
+            {
+                "word": "ventilator",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to allow fresh air to enter and move around a room, building, etc.",
+                    "vi": "để cho phép không khí trong lành đi vào và di chuyển xung quanh phòng, tòa nhà, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "be ventilated (by something) The bathroom is ventilated by means of an extractor fan.",
+                        "vi": "được thông gió (bằng thứ gì đó) Phòng tắm được thông gió nhờ quạt hút."
+                    },
+                    {
+                        "en": "The building is naturally ventilated.",
+                        "vi": "Tòa nhà được thông gió tự nhiên."
+                    },
+                    {
+                        "en": "a well-ventilated room",
+                        "vi": "một căn phòng thông thoáng"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to express your feelings or opinions publicly",
+                    "vi": "bày tỏ cảm xúc hoặc ý kiến của bạn một cách công khai"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "d3089a6982dc40078e74e2c0ec69d467",
+        "word": "wrecking ball",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈrekɪŋ bɔːl/",
+            "us": "/ˈrekɪŋ bɔːl/"
+        },
+        "nearby": [
+            {
+                "word": "wrecked",
+                "pos": "adjective"
+            },
+            {
+                "word": "wrecker",
+                "pos": "noun"
+            },
+            {
+                "word": "wrecking ball",
+                "pos": "noun"
+            },
+            {
+                "word": "The Wreck of the Hesperus",
+                "pos": ""
+            },
+            {
+                "word": "wren",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a heavy metal ball that hangs from a crane and is used to hit a building to make it fall down",
+                    "vi": "một quả bóng kim loại nặng treo trên cần cẩu và được sử dụng để va vào một tòa nhà làm nó rơi xuống"
+                },
+                "examples": []
+            }
+        ]
+    }
+]

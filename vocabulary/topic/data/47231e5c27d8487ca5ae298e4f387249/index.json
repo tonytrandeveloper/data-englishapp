@@ -1,0 +1,2128 @@
+[
+    {
+        "id": "d986bbb005cd44909e9ebc20601ac959",
+        "word": "story",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˈstɔːri/",
+            "us": "/ˈstɔːri/"
+        },
+        "nearby": [
+            {
+                "word": "stormy",
+                "pos": "adjective"
+            },
+            {
+                "word": "Stornoway",
+                "pos": ""
+            },
+            {
+                "word": "story",
+                "pos": "noun"
+            },
+            {
+                "word": "storyboard",
+                "pos": "noun"
+            },
+            {
+                "word": "storyboard",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a description of events and people that the writer or speaker has invented in order to entertain people",
+                    "vi": "mô tả về các sự kiện và con người mà nhà văn hoặc diễn giả đã sáng tạo ra để giúp mọi người giải trí"
+                },
+                "examples": [
+                    {
+                        "en": "a tragic love story",
+                        "vi": "một câu chuyện tình yêu bi thảm"
+                    },
+                    {
+                        "en": "adventure/detective stories",
+                        "vi": "truyện phiêu lưu / trinh thám"
+                    },
+                    {
+                        "en": "a bedtime story",
+                        "vi": "một câu chuyện trước khi đi ngủ"
+                    },
+                    {
+                        "en": "Shall I tell you a story?",
+                        "vi": "Tôi kể bạn nghe một câu chuyện nhé?"
+                    },
+                    {
+                        "en": "He read the children a story.",
+                        "vi": "Anh ấy đã đọc cho bọn trẻ một câu chuyện."
+                    },
+                    {
+                        "en": "She writes poems and stories for children.",
+                        "vi": "Cô viết thơ và truyện cho trẻ em."
+                    },
+                    {
+                        "en": "story about somebody/something a story about time travel",
+                        "vi": "câu chuyện về ai đó / điều gì đó một câu chuyện về du hành thời gian"
+                    },
+                    {
+                        "en": "story of somebody/something The book tells the story of a man who leads a double life.",
+                        "vi": "câu chuyện của ai đó / cái gì đó Cuốn sách kể về câu chuyện của một người đàn ông sống cuộc sống hai mặt."
+                    },
+                    {
+                        "en": "in the story What are the key events in the story?",
+                        "vi": "trong truyện Các sự kiện chính trong truyện là gì?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the series of events in a book, film, play, etc.",
+                    "vi": "chuỗi sự kiện trong một cuốn sách, bộ phim, vở kịch, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "Her novels always have the same basic story.",
+                        "vi": "Tiểu thuyết của cô ấy luôn có cùng một câu chuyện cơ bản."
+                    },
+                    {
+                        "en": "The screenplay sticks to the original story.",
+                        "vi": "Kịch bản bám sát câu chuyện gốc."
+                    },
+                    {
+                        "en": "The character's central story arc involves a difficult choice between love and duty.",
+                        "vi": "Cốt truyện trung tâm của nhân vật liên quan đến sự lựa chọn khó khăn giữa tình yêu và nghĩa vụ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an account of past events or of how something has developed",
+                    "vi": "một tài khoản về các sự kiện trong quá khứ hoặc về cách một cái gì đó đã phát triển"
+                },
+                "examples": [
+                    {
+                        "en": "The film is based on a true story.",
+                        "vi": "Bộ phim dựa trên một câu chuyện có thật."
+                    },
+                    {
+                        "en": "to recount/relate a story",
+                        "vi": "kể lại / kể lại một câu chuyện"
+                    },
+                    {
+                        "en": "story of something/somebody He told us the story of his life.",
+                        "vi": "câu chuyện về cái gì đó / ai đó Anh ấy đã kể cho chúng tôi câu chuyện về cuộc đời anh ấy."
+                    },
+                    {
+                        "en": "the story of the Beatles",
+                        "vi": "câu chuyện của The Beatles"
+                    },
+                    {
+                        "en": "the story of the building of the bridge",
+                        "vi": "câu chuyện xây dựng cây cầu"
+                    },
+                    {
+                        "en": "story behind something/somebody Every piece of art has an interesting story behind it.",
+                        "vi": "câu chuyện đằng sau điều gì đó / ai đó Mỗi tác phẩm nghệ thuật đều có một câu chuyện thú vị đằng sau nó."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an account, often spoken, of what happened to somebody or of how something happened",
+                    "vi": "một tài khoản, thường được nói, về những gì đã xảy ra với ai đó hoặc về cách một điều gì đó đã xảy ra"
+                },
+                "examples": [
+                    {
+                        "en": "The police didn't believe her story.",
+                        "vi": "Cảnh sát không tin câu chuyện của cô ấy."
+                    },
+                    {
+                        "en": "I suspected he hadn't told us the whole story.",
+                        "vi": "Tôi nghi ngờ anh ấy đã không kể cho chúng tôi toàn bộ câu chuyện."
+                    },
+                    {
+                        "en": "It was many years before the full story was made public.",
+                        "vi": "Đã nhiều năm trước khi toàn bộ câu chuyện được công khai."
+                    },
+                    {
+                        "en": "The students were asked to share their stories.",
+                        "vi": "Các sinh viên được yêu cầu chia sẻ câu chuyện của họ."
+                    },
+                    {
+                        "en": "story about something/somebody We must stick to our story about the accident.",
+                        "vi": "câu chuyện về cái gì đó / ai đó Chúng ta phải bám vào câu chuyện của chúng ta về vụ tai nạn."
+                    },
+                    {
+                        "en": "We all hear stories about young people leaving the countryside.",
+                        "vi": "Tất cả chúng ta đều được nghe những câu chuyện về những người trẻ bỏ quê."
+                    },
+                    {
+                        "en": "story of something/somebody It's a story of courage.",
+                        "vi": "câu chuyện về cái gì đó / ai đó Đó là câu chuyện của lòng dũng cảm."
+                    },
+                    {
+                        "en": "I can't decide until I've heard both sides of the story.",
+                        "vi": "Tôi không thể quyết định cho đến khi tôi nghe cả hai phía của câu chuyện."
+                    },
+                    {
+                        "en": "Many years later I returned to Africa but that's another story (= I am not going to talk about it now).",
+                        "vi": "Nhiều năm sau, tôi trở lại Châu Phi nhưng đó là một câu chuyện khác (= Tôi sẽ không nói về nó bây giờ)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a report in a newspaper, magazine or news broadcast",
+                    "vi": "một báo cáo trên một tờ báo, tạp chí hoặc chương trình phát sóng tin tức"
+                },
+                "examples": [
+                    {
+                        "en": "a front-page story",
+                        "vi": "một câu chuyện trên trang nhất"
+                    },
+                    {
+                        "en": "Now for a summary of tonight's main news stories.",
+                        "vi": "Bây giờ để tóm tắt các câu chuyện tin tức chính của tối nay."
+                    },
+                    {
+                        "en": "Let's check the top stories right now.",
+                        "vi": "Hãy cùng kiểm tra những câu chuyện hàng đầu ngay bây giờ."
+                    },
+                    {
+                        "en": "the two biggest stories of the day",
+                        "vi": "hai câu chuyện lớn nhất trong ngày"
+                    },
+                    {
+                        "en": "He was covering the story for the ‘Glasgow Herald’.",
+                        "vi": "Anh ấy đang đưa tin về câu chuyện cho 'Glasgow Herald'."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "something that somebody says which is not true",
+                    "vi": "một cái gì đó mà ai đó nói mà không phải là sự thật"
+                },
+                "examples": [
+                    {
+                        "en": "She knew the child had been telling stories again.",
+                        "vi": "Cô biết đứa trẻ đã kể lại những câu chuyện."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a level of a building; a floor",
+                    "vi": "cấp của một tòa nhà; một tầng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used to show that you do not believe what somebody has said",
+                    "vi": "được sử dụng để cho thấy rằng bạn không tin những gì ai đó đã nói"
+                },
+                "examples": [
+                    {
+                        "en": "You just found it lying in the street? A likely story!",
+                        "vi": "Bạn vừa tìm thấy nó nằm trên đường phố? Một câu chuyện có thể xảy ra!"
+                    },
+                    {
+                        "en": "He said he'd met Rihanna. A likely story.",
+                        "vi": "Anh ấy nói rằng anh ấy đã gặp Rihanna. Một câu chuyện có thể xảy ra."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used when you are saying that you will get to the point of what you are saying quickly, without including all the details",
+                    "vi": "được sử dụng khi bạn đang nói rằng bạn sẽ đi đến điểm bạn đang nói một cách nhanh chóng, mà không bao gồm tất cả các chi tiết"
+                },
+                "examples": [
+                    {
+                        "en": "To cut a long story short, we didn’t get home until 3 in the morning!",
+                        "vi": "Để cắt ngắn một câu chuyện dài, chúng tôi đã không về nhà cho đến tận 3 giờ sáng!"
+                    },
+                    {
+                        "en": "Anyway, long story short: we had this argument and I haven't seen him since.",
+                        "vi": "Dù sao, câu chuyện dài ngắn: chúng tôi đã có cuộc tranh cãi này và tôi đã không gặp anh ta kể từ đó."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "what usually happens",
+                    "vi": "những gì thường xảy ra"
+                },
+                "examples": [
+                    {
+                        "en": "It's the same old story of a badly managed project with inadequate funding.",
+                        "vi": "Đó là câu chuyện cũ tương tự về một dự án được quản lý tồi với nguồn vốn không đủ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to tell somebody a story or make an excuse that is not true",
+                    "vi": "kể cho ai đó một câu chuyện hoặc viện cớ không đúng sự thật"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used to describe something that people are saying although it may not be correct",
+                    "vi": "được sử dụng để mô tả điều gì đó mà mọi người đang nói mặc dù nó có thể không chính xác"
+                },
+                "examples": [
+                    {
+                        "en": "She never saw him again—or so the story goes.",
+                        "vi": "Cô ấy không bao giờ gặp lại anh ta nữa — hoặc câu chuyện cứ thế trôi qua."
+                    },
+                    {
+                        "en": "The story goes that this castle was founded by Emperor Frederick Barbarossa.",
+                        "vi": "Chuyện kể rằng lâu đài này được thành lập bởi Hoàng đế Frederick Barbarossa."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to give some information that is different from what you expect or have been told",
+                    "vi": "để cung cấp một số thông tin khác với những gì bạn mong đợi hoặc đã được cho biết"
+                },
+                "examples": [
+                    {
+                        "en": "These drugs are widely believed to be effective medications. The data, however, tell a different story.",
+                        "vi": "Những loại thuốc này được nhiều người tin rằng là những loại thuốc chữa bệnh hiệu quả. Tuy nhiên, dữ liệu lại kể một câu chuyện khác."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to explain itself, without needing any further explanation or comment",
+                    "vi": "để tự giải thích mà không cần giải thích hoặc bình luận gì thêm"
+                },
+                "examples": [
+                    {
+                        "en": "Her face told its own story.",
+                        "vi": "Khuôn mặt của cô ấy đã kể câu chuyện của chính nó."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "when you say that’s the story of my life about a bad experience you have had, you mean you have had many similar experiences",
+                    "vi": "khi bạn nói đó là câu chuyện của cuộc đời tôi về một trải nghiệm tồi tệ mà bạn đã trải qua, bạn có nghĩa là bạn đã có nhiều trải nghiệm tương tự"
+                },
+                "examples": [
+                    {
+                        "en": "Another missed opportunity—that’s the story of my life!",
+                        "vi": "Một cơ hội bị bỏ lỡ khác — đó là câu chuyện của cuộc đời tôi!"
+                    },
+                    {
+                        "en": "Out of work with no money—that's the story of my life.",
+                        "vi": "Không có việc làm mà không có tiền - đó là câu chuyện của cuộc đời tôi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "fbff3c949f8648eeb9e0623a0e597ceb",
+        "word": "science fiction",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/ˌsaɪəns ˈfɪkʃn/",
+            "us": "/ˌsaɪəns ˈfɪkʃn/"
+        },
+        "nearby": [
+            {
+                "word": "science",
+                "pos": "noun"
+            },
+            {
+                "word": "science fair",
+                "pos": "noun"
+            },
+            {
+                "word": "science fiction",
+                "pos": "noun"
+            },
+            {
+                "word": "the Science Museum",
+                "pos": ""
+            },
+            {
+                "word": "science park",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a type of book, film, etc. that is based on imagined scientific discoveries of the future, and often deals with space travel and life on other planets",
+                    "vi": "một loại sách, phim, v.v. dựa trên những khám phá khoa học tưởng tượng về tương lai và thường đề cập đến du hành không gian và cuộc sống trên các hành tinh khác"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "7d04238658e047a5ae38bd6e3cf7cd4f",
+        "word": "fairy tale",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈfeəri teɪl/",
+            "us": "/ˈferi teɪl/"
+        },
+        "nearby": [
+            {
+                "word": "fairyland",
+                "pos": "noun"
+            },
+            {
+                "word": "fairy lights",
+                "pos": "noun"
+            },
+            {
+                "word": "fairy tale",
+                "pos": "noun"
+            },
+            {
+                "word": "fairy-tale",
+                "pos": "adjective"
+            },
+            {
+                "word": "fait accompli",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a story about magic or fairies, usually for children",
+                    "vi": "một câu chuyện về phép thuật hoặc các nàng tiên, thường dành cho trẻ em"
+                },
+                "examples": [
+                    {
+                        "en": "the prince in a fairy tale",
+                        "vi": "hoàng tử trong truyện cổ tích"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a story that somebody tells that is not true; a lie",
+                    "vi": "một câu chuyện mà ai đó kể rằng không có thật; lời nói dối"
+                },
+                "examples": [
+                    {
+                        "en": "Now tell me the truth: I don't want any more of your fairy stories.",
+                        "vi": "Bây giờ hãy nói cho tôi sự thật: Tôi không muốn có thêm bất kỳ câu chuyện cổ tích nào của bạn nữa."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "d6210ca79e97402ea55e24845c79f41a",
+        "word": "ghost story",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈɡəʊst stɔːri/",
+            "us": "/ˈɡəʊst stɔːri/"
+        },
+        "nearby": [
+            {
+                "word": "ghosting",
+                "pos": "noun"
+            },
+            {
+                "word": "ghostly",
+                "pos": "adjective"
+            },
+            {
+                "word": "ghost story",
+                "pos": "noun"
+            },
+            {
+                "word": "ghost town",
+                "pos": "noun"
+            },
+            {
+                "word": "ghost train",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a story about ghosts that is intended to frighten you",
+                    "vi": "một câu chuyện về những con ma có ý định làm bạn sợ hãi"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "999afd2f116f44ee9207c2cf8d64c998",
+        "word": "horror story",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈhɒrə stɔːri/",
+            "us": "/ˈhɔːrər stɔːri/"
+        },
+        "nearby": [
+            {
+                "word": "horrifyingly",
+                "pos": "adverb"
+            },
+            {
+                "word": "horror",
+                "pos": "noun"
+            },
+            {
+                "word": "horror story",
+                "pos": "noun"
+            },
+            {
+                "word": "horror-struck",
+                "pos": "adjective"
+            },
+            {
+                "word": "hors de combat",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a story about strange and frightening things that is designed to entertain people",
+                    "vi": "một câu chuyện về những điều kỳ lạ và đáng sợ được thiết kế để giải trí cho mọi người"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a report that describes an experience of a situation as very unpleasant",
+                    "vi": "một báo cáo mô tả một trải nghiệm về một tình huống là rất khó chịu"
+                },
+                "examples": [
+                    {
+                        "en": "horror stories about visits to the dentist",
+                        "vi": "những câu chuyện kinh dị về những lần đến gặp nha sĩ"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "963534e44676441cb96c7d490764f7c1",
+        "word": "mystery",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈmɪstri/",
+            "us": "/ˈmɪstəri/"
+        },
+        "nearby": [
+            {
+                "word": "mysteriously",
+                "pos": "adverb"
+            },
+            {
+                "word": "mysteriousness",
+                "pos": "noun"
+            },
+            {
+                "word": "mystery",
+                "pos": "noun"
+            },
+            {
+                "word": "mystery play",
+                "pos": "noun"
+            },
+            {
+                "word": "mystery shopper",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "something that is difficult to understand or to explain",
+                    "vi": "điều gì đó khó hiểu hoặc khó giải thích"
+                },
+                "examples": [
+                    {
+                        "en": "It is one of the great unsolved mysteries of this century.",
+                        "vi": "Đó là một trong những bí ẩn lớn chưa được giải đáp của thế kỷ này."
+                    },
+                    {
+                        "en": "Their motives remain a mystery.",
+                        "vi": "Động cơ của họ vẫn là một bí ẩn."
+                    },
+                    {
+                        "en": "She tried to solve the mystery of the boy's sudden death.",
+                        "vi": "Cô cố gắng giải đáp bí ẩn về cái chết đột ngột của cậu bé."
+                    },
+                    {
+                        "en": "It is a mystery to somebody why, how, etc… It's a complete mystery to me why they chose him.",
+                        "vi": "Đó là một bí ẩn đối với ai đó tại sao, bằng cách nào, v.v.… Đối với tôi đó là một bí ẩn hoàn toàn tại sao họ lại chọn anh ta."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person or thing that is strange and interesting because you do not know much about them or it",
+                    "vi": "một người hoặc vật lạ và thú vị bởi vì bạn không biết nhiều về họ hoặc điều đó"
+                },
+                "examples": [
+                    {
+                        "en": "He's a bit of a mystery.",
+                        "vi": "Anh ấy có một chút bí ẩn."
+                    },
+                    {
+                        "en": "There was a mystery guest on the programme.",
+                        "vi": "Có một khách mời bí ẩn trong chương trình."
+                    },
+                    {
+                        "en": "The mystery man's identity remains hidden.",
+                        "vi": "Danh tính của người đàn ông bí ẩn vẫn được giấu kín."
+                    },
+                    {
+                        "en": "a mystery disease/illness/virus",
+                        "vi": "một căn bệnh bí ẩn / bệnh tật / vi rút"
+                    },
+                    {
+                        "en": "(British English) a mystery tour (= when you do not know where you are going)",
+                        "vi": "(Tiếng Anh Anh) một chuyến du lịch bí ẩn (= khi bạn không biết mình sẽ đi đâu)"
+                    },
+                    {
+                        "en": "mystery to somebody My sister is a complete mystery to me.",
+                        "vi": "bí ẩn đối với ai đó Em gái tôi là một bí ẩn hoàn toàn đối với tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the quality of being difficult to understand or to explain, especially when this makes somebody/something seem interesting and exciting",
+                    "vi": "chất lượng khó hiểu hoặc khó giải thích, đặc biệt khi điều này khiến ai đó / điều gì đó có vẻ thú vị và hấp dẫn"
+                },
+                "examples": [
+                    {
+                        "en": "Mystery surrounds her disappearance.",
+                        "vi": "Bí ẩn xung quanh sự mất tích của cô."
+                    },
+                    {
+                        "en": "His past is shrouded in mystery (= not much is known about it).",
+                        "vi": "Quá khứ của anh ấy bị che đậy trong bí ẩn (= không có nhiều thông tin về nó)."
+                    },
+                    {
+                        "en": "The dark glasses give her an air of mystery.",
+                        "vi": "Cặp kính đen tạo cho cô một bầu không khí bí ẩn."
+                    },
+                    {
+                        "en": "She’s a woman of mystery.",
+                        "vi": "Cô ấy là một người phụ nữ bí ẩn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a story, a film or a play in which crimes and strange events are only explained at the end",
+                    "vi": "một câu chuyện, một bộ phim hoặc một vở kịch trong đó tội ác và các sự kiện kỳ lạ chỉ được giải thích ở phần cuối"
+                },
+                "examples": [
+                    {
+                        "en": "He is the author of several murder mysteries.",
+                        "vi": "Anh ta là tác giả của một số bí ẩn giết người."
+                    },
+                    {
+                        "en": "The film is based on Daphne DuMaurier's mystery novel, ‘Rebecca’.",
+                        "vi": "Bộ phim dựa trên cuốn tiểu thuyết bí ẩn của Daphne DuMaurier, 'Rebecca'."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "secret religious ceremonies; secret knowledge",
+                    "vi": "nghi lễ tôn giáo bí mật; kiến thức bí mật"
+                },
+                "examples": [
+                    {
+                        "en": "(figurative) the teacher who initiated me into the mysteries of mathematics",
+                        "vi": "(nghĩa bóng) người thầy đã gợi mở cho tôi những bí ẩn của toán học"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a religious belief that cannot be explained or proved in a scientific way",
+                    "vi": "một niềm tin tôn giáo không thể giải thích hoặc chứng minh một cách khoa học"
+                },
+                "examples": [
+                    {
+                        "en": "the mystery of creation",
+                        "vi": "bí ẩn của sự sáng tạo"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "91e8f9e4b38346a6a5db2f15fe831110",
+        "word": "thriller",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈθrɪlə(r)/",
+            "us": "/ˈθrɪlər/"
+        },
+        "nearby": [
+            {
+                "word": "thrill",
+                "pos": "verb"
+            },
+            {
+                "word": "thrilled",
+                "pos": "adjective"
+            },
+            {
+                "word": "thriller",
+                "pos": "noun"
+            },
+            {
+                "word": "thrilling",
+                "pos": "adjective"
+            },
+            {
+                "word": "thrillingly",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a book, play or film with an exciting story, especially one about crime or spying",
+                    "vi": "một cuốn sách, vở kịch hoặc bộ phim với một câu chuyện thú vị, đặc biệt là một câu chuyện về tội phạm hoặc gián điệp"
+                },
+                "examples": [
+                    {
+                        "en": "a spy thriller",
+                        "vi": "một bộ phim kinh dị gián điệp"
+                    },
+                    {
+                        "en": "a thriller writer",
+                        "vi": "một nhà văn kinh dị"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c73d6d2c821147bca4bb60a7e9021ff4",
+        "word": "anecdote",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈænɪkdəʊt/",
+            "us": "/ˈænɪkdəʊt/"
+        },
+        "nearby": [
+            {
+                "word": "anecdotal",
+                "pos": "adjective"
+            },
+            {
+                "word": "anecdotally",
+                "pos": "adverb"
+            },
+            {
+                "word": "anecdote",
+                "pos": "noun"
+            },
+            {
+                "word": "anemia",
+                "pos": "noun"
+            },
+            {
+                "word": "anemia",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a short, interesting or funny story about a real person or event",
+                    "vi": "một câu chuyện ngắn, thú vị hoặc hài hước về một người hoặc sự kiện có thật"
+                },
+                "examples": [
+                    {
+                        "en": "amusing anecdotes about his brief career as an actor",
+                        "vi": "những giai thoại thú vị về sự nghiệp diễn viên ngắn ngủi của anh ấy"
+                    },
+                    {
+                        "en": "The book is a rich store of anecdote.",
+                        "vi": "Cuốn sách là một kho giai thoại phong phú."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a personal account of an event",
+                    "vi": "một tài khoản cá nhân của một sự kiện"
+                },
+                "examples": [
+                    {
+                        "en": "This research is based on anecdote, not fact.",
+                        "vi": "Nghiên cứu này dựa trên giai thoại, không phải thực tế."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "71aa2367f2dd490fb7348216fe489e4b",
+        "word": "fantasy",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈfæntəsi/",
+            "us": "/ˈfæntəsi/"
+        },
+        "nearby": [
+            {
+                "word": "fantastic",
+                "pos": "adjective"
+            },
+            {
+                "word": "fantastically",
+                "pos": "adverb"
+            },
+            {
+                "word": "fantasy",
+                "pos": "noun"
+            },
+            {
+                "word": "fantasy football",
+                "pos": "noun"
+            },
+            {
+                "word": "fanzine",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a pleasant situation that you imagine but that is unlikely to happen",
+                    "vi": "một tình huống dễ chịu mà bạn tưởng tượng nhưng điều đó khó có thể xảy ra"
+                },
+                "examples": [
+                    {
+                        "en": "He spoke of his childhood fantasies about becoming a famous football player.",
+                        "vi": "Anh ấy nói về những tưởng tượng thời thơ ấu của mình về việc trở thành một cầu thủ bóng đá nổi tiếng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a product of your imagination",
+                    "vi": "một sản phẩm của trí tưởng tượng của bạn"
+                },
+                "examples": [
+                    {
+                        "en": "Her books are usually escapist fantasies.",
+                        "vi": "Sách của cô ấy thường là những cuốn sách tưởng tượng thoát tục."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the act of imagining things; a person’s imagination",
+                    "vi": "hành động tưởng tượng sự vật; trí tưởng tượng của một người"
+                },
+                "examples": [
+                    {
+                        "en": "This is a work of fantasy.",
+                        "vi": "Đây là một tác phẩm tưởng tượng."
+                    },
+                    {
+                        "en": "Stop living in a fantasy world.",
+                        "vi": "Ngừng sống trong một thế giới tưởng tượng."
+                    },
+                    {
+                        "en": "I live in the real world, not fantasy land.",
+                        "vi": "Tôi sống trong thế giới thực, không phải vùng đất tưởng tượng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a type of story that is set in a world, or a version of our world, that does not really exist and involves magic, monsters, etc.",
+                    "vi": "một loại câu chuyện được đặt trong một thế giới, hoặc một phiên bản của thế giới của chúng ta, không thực sự tồn tại và liên quan đến phép thuật, quái vật, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "She wrote a series of fantasy novels filled with wizards, witches and dragons.",
+                        "vi": "Cô đã viết một loạt tiểu thuyết giả tưởng với đầy rẫy những pháp sư, phù thủy và rồng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a competition in which you choose players to make your own imaginary team, and score points according to the performance of the real players",
+                    "vi": "một cuộc thi trong đó bạn chọn người chơi để tạo thành đội tưởng tượng của riêng bạn và ghi điểm theo hiệu suất của những người chơi thực"
+                },
+                "examples": [
+                    {
+                        "en": "In his personal time, Stephen blogs for several fantasy hockey leagues.",
+                        "vi": "Trong thời gian cá nhân của mình, Stephen viết blog cho một số giải đấu khúc côn cầu giả tưởng."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ea7b28116337467f806178e57c801188",
+        "word": "legend",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈledʒənd/",
+            "us": "/ˈledʒənd/"
+        },
+        "nearby": [
+            {
+                "word": "legato",
+                "pos": "adjective"
+            },
+            {
+                "word": "leg bye",
+                "pos": "noun"
+            },
+            {
+                "word": "legend",
+                "pos": "noun"
+            },
+            {
+                "word": "legendary",
+                "pos": "adjective"
+            },
+            {
+                "word": "legerdemain",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a story from ancient times about people and events, that may or may not be true; this type of story",
+                    "vi": "một câu chuyện từ xa xưa về những con người và sự kiện, có thể có hoặc có thể không; loại câu chuyện này"
+                },
+                "examples": [
+                    {
+                        "en": "The film is based on the legend of Robin Hood.",
+                        "vi": "Bộ phim dựa trên truyền thuyết về Robin Hood."
+                    },
+                    {
+                        "en": "the heroes of Greek legend",
+                        "vi": "những anh hùng trong truyền thuyết Hy Lạp"
+                    },
+                    {
+                        "en": "Legend has it that the lake was formed by the tears of a god.",
+                        "vi": "Tương truyền, hồ được hình thành bởi nước mắt của một vị thần."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a very famous person, especially in a particular field, who is admired by other people",
+                    "vi": "một người rất nổi tiếng, đặc biệt là trong một lĩnh vực cụ thể, người được người khác ngưỡng mộ"
+                },
+                "examples": [
+                    {
+                        "en": "a jazz/screen/sporting legend",
+                        "vi": "một huyền thoại nhạc jazz / màn hình / thể thao"
+                    },
+                    {
+                        "en": "She was a legend in her own lifetime.",
+                        "vi": "Cô ấy là một huyền thoại trong cuộc đời của chính mình."
+                    },
+                    {
+                        "en": "Many of golf's living legends were playing.",
+                        "vi": "Nhiều huyền thoại sống của golf đã chơi."
+                    },
+                    {
+                        "en": "a legend in the world of music",
+                        "vi": "một huyền thoại trong thế giới âm nhạc"
+                    },
+                    {
+                        "en": "movie stars who become living legends",
+                        "vi": "những ngôi sao điện ảnh trở thành huyền thoại sống"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the explanation of a map or a diagram in a book",
+                    "vi": "lời giải thích của một bản đồ hoặc một sơ đồ trong một cuốn sách"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a piece of writing on a sign, a label, a coin, etc.",
+                    "vi": "một đoạn viết trên bảng hiệu, nhãn mác, đồng xu, v.v."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "9a91e8d2a0684606bf4e10e04c8b4c24",
+        "word": "myth",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/mɪθ/",
+            "us": "/mɪθ/"
+        },
+        "nearby": [
+            {
+                "word": "mystifying",
+                "pos": "adjective"
+            },
+            {
+                "word": "mystique",
+                "pos": "noun"
+            },
+            {
+                "word": "myth",
+                "pos": "noun"
+            },
+            {
+                "word": "mythic",
+                "pos": "adjective"
+            },
+            {
+                "word": "mythical",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a story from ancient times, especially one that was told to explain natural events or to describe the early history of a people; this type of story",
+                    "vi": "một câu chuyện từ thời cổ đại, đặc biệt là một câu chuyện được kể để giải thích các sự kiện tự nhiên hoặc mô tả lịch sử ban đầu của một dân tộc; loại câu chuyện này"
+                },
+                "examples": [
+                    {
+                        "en": "ancient Greek myths",
+                        "vi": "thần thoại cổ đại Hy Lạp"
+                    },
+                    {
+                        "en": "a creation myth (= that explains how the world began)",
+                        "vi": "một huyền thoại sáng tạo (= điều đó giải thích cách thế giới bắt đầu)"
+                    },
+                    {
+                        "en": "the heroes of myth and legend",
+                        "vi": "những anh hùng của thần thoại và huyền thoại"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "something that many people believe but that does not exist or is false",
+                    "vi": "điều mà nhiều người tin nhưng điều đó không tồn tại hoặc là sai"
+                },
+                "examples": [
+                    {
+                        "en": "It is time to dispel the myth of a classless society (= to show that it does not exist).",
+                        "vi": "Đã đến lúc phải xóa tan huyền thoại về một xã hội không giai cấp (= chứng tỏ rằng nó không tồn tại)."
+                    },
+                    {
+                        "en": "Contrary to popular myth, women are not worse drivers than men.",
+                        "vi": "Trái ngược với lầm tưởng phổ biến, phụ nữ không lái xe kém hơn nam giới."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e33c970bad304eb3854b0e30baa5c1d6",
+        "word": "sci-fi",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈsaɪ faɪ/",
+            "us": "/ˈsaɪ faɪ/"
+        },
+        "nearby": [
+            {
+                "word": "scientologist",
+                "pos": "noun"
+            },
+            {
+                "word": "Scientology",
+                "pos": "noun"
+            },
+            {
+                "word": "sci-fi",
+                "pos": "noun"
+            },
+            {
+                "word": "the Scilly Isles",
+                "pos": ""
+            },
+            {
+                "word": "scimitar",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "science fiction (= a type of book, film, etc. that is based on imagined scientific discoveries of the future, and often deals with space travel and life on other planets)",
+                    "vi": "khoa học viễn tưởng (= một loại sách, phim, v.v. dựa trên những khám phá khoa học tưởng tượng về tương lai và thường đề cập đến du hành không gian và cuộc sống trên các hành tinh khác)"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "71068a066b00414790446379e473b7c5",
+        "word": "tale",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/teɪl/",
+            "us": "/teɪl/"
+        },
+        "nearby": [
+            {
+                "word": "tala",
+                "pos": "noun"
+            },
+            {
+                "word": "talcum powder",
+                "pos": "noun"
+            },
+            {
+                "word": "tale",
+                "pos": "noun"
+            },
+            {
+                "word": "talent",
+                "pos": "noun"
+            },
+            {
+                "word": "talented",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a story created using the imagination, especially one that is full of action and adventure",
+                    "vi": "một câu chuyện được tạo ra bằng trí tưởng tượng, đặc biệt là câu chuyện đầy hành động và phiêu lưu"
+                },
+                "examples": [
+                    {
+                        "en": "a coming-of-age/morality tale",
+                        "vi": "một câu chuyện về tuổi mới lớn / đạo đức"
+                    },
+                    {
+                        "en": "tale of something The story is a classic tale of love and betrayal.",
+                        "vi": "câu chuyện về điều gì đó Câu chuyện là một câu chuyện cổ điển về tình yêu và sự phản bội."
+                    },
+                    {
+                        "en": "Dickens’ ‘A Tale of Two Cities’",
+                        "vi": "Dickens '' Câu chuyện về hai thành phố '"
+                    },
+                    {
+                        "en": "His latest book is a delightful children’s tale about talking animals.",
+                        "vi": "Cuốn sách mới nhất của anh ấy là một câu chuyện thú vị dành cho trẻ em về những con vật biết nói."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an exciting spoken description of an event, which may not be completely true",
+                    "vi": "một mô tả thú vị bằng giọng nói về một sự kiện, có thể không hoàn toàn đúng"
+                },
+                "examples": [
+                    {
+                        "en": "I love listening to his tales of life at sea.",
+                        "vi": "Tôi thích nghe những câu chuyện về cuộc sống trên biển của anh ấy."
+                    },
+                    {
+                        "en": "I've heard tales of people seeing ghosts in that house.",
+                        "vi": "Tôi đã nghe những câu chuyện về những người nhìn thấy ma trong ngôi nhà đó."
+                    },
+                    {
+                        "en": "She regaled us with tales of her wild youth.",
+                        "vi": "Cô ấy đã làm cho chúng ta vương giả với những câu chuyện về tuổi trẻ hoang dã của cô ấy."
+                    },
+                    {
+                        "en": "The team's tale of woe continued on Saturday (= they lost another match).",
+                        "vi": "Câu chuyện tồi tệ của đội tiếp tục vào thứ Bảy (= họ đã thua một trận đấu khác)."
+                    },
+                    {
+                        "en": "Her experiences provide a cautionary tale (= a warning) for us all.",
+                        "vi": "Kinh nghiệm của cô ấy cung cấp một câu chuyện cảnh giác (= một lời cảnh báo) cho tất cả chúng ta."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to survive a difficult or dangerous experience so that you can tell others what really happened",
+                    "vi": "để sống sót qua một trải nghiệm khó khăn hoặc nguy hiểm để bạn có thể nói cho người khác biết điều gì đã thực sự xảy ra"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "an old idea or belief that people now know is not correct",
+                    "vi": "một ý tưởng cũ hoặc niềm tin mà bây giờ mọi người biết là không đúng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to give some information that is different from what you expect or have been told",
+                    "vi": "để cung cấp một số thông tin khác với những gì bạn mong đợi hoặc đã được cho biết"
+                },
+                "examples": [
+                    {
+                        "en": "These drugs are widely believed to be effective medications. The data, however, tell a different story.",
+                        "vi": "Những loại thuốc này được nhiều người tin rằng là những loại thuốc chữa bệnh hiệu quả. Tuy nhiên, dữ liệu lại kể một câu chuyện khác."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to explain itself, without needing any further explanation or comment",
+                    "vi": "để tự giải thích mà không cần giải thích hoặc bình luận gì thêm"
+                },
+                "examples": [
+                    {
+                        "en": "Her face told its own story.",
+                        "vi": "Khuôn mặt của cô ấy đã kể câu chuyện của chính nó."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to tell somebody about something that another person has done wrong",
+                    "vi": "để nói với ai đó về điều gì đó mà người khác đã làm sai"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "9d849904f01e40189a67e1316d4cba10",
+        "word": "tragedy",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈtrædʒədi/",
+            "us": "/ˈtrædʒədi/"
+        },
+        "nearby": [
+            {
+                "word": "tragedian",
+                "pos": "noun"
+            },
+            {
+                "word": "tragedienne",
+                "pos": "noun"
+            },
+            {
+                "word": "tragedy",
+                "pos": "noun"
+            },
+            {
+                "word": "tragic",
+                "pos": "adjective"
+            },
+            {
+                "word": "tragically",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a very sad event or situation, especially one that involves death",
+                    "vi": "một sự kiện hoặc tình huống rất buồn, đặc biệt là một sự kiện hoặc một tình huống liên quan đến cái chết"
+                },
+                "examples": [
+                    {
+                        "en": "It's a tragedy that she died so young.",
+                        "vi": "Đó là một bi kịch khi cô ấy chết quá trẻ."
+                    },
+                    {
+                        "en": "Tragedy struck the family when their son was hit by a car and killed.",
+                        "vi": "Bi kịch ập đến với gia đình khi con trai họ bị ô tô tông và tử vong."
+                    },
+                    {
+                        "en": "The whole affair ended in tragedy.",
+                        "vi": "Cả cuộc tình đều kết thúc trong bi kịch."
+                    },
+                    {
+                        "en": "Investigators are searching the wreckage of the plane to try to find the cause of the tragedy.",
+                        "vi": "Các nhà điều tra đang tìm kiếm đống đổ nát của chiếc máy bay để cố gắng tìm ra nguyên nhân của thảm kịch."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a serious play with a sad ending, especially one in which the main character dies; plays of this type",
+                    "vi": "một vở kịch nghiêm túc với một kết thúc buồn, đặc biệt là một trong đó nhân vật chính chết; vở kịch kiểu này"
+                },
+                "examples": [
+                    {
+                        "en": "Shakespeare’s tragedies",
+                        "vi": "Những bi kịch của Shakespeare"
+                    },
+                    {
+                        "en": "Greek tragedy",
+                        "vi": "Bi kịch Hy Lạp"
+                    },
+                    {
+                        "en": "Revenge tragedies were very popular in Elizabethan England.",
+                        "vi": "Những bi kịch báo thù rất phổ biến ở Anh thời Elizabeth."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "104d8de7388549b8869d3a3719088785",
+        "word": "fable",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈfeɪbl/",
+            "us": "/ˈfeɪbl/"
+        },
+        "nearby": [
+            {
+                "word": "fab",
+                "pos": "adjective"
+            },
+            {
+                "word": "the Fabian Society",
+                "pos": ""
+            },
+            {
+                "word": "fable",
+                "pos": "noun"
+            },
+            {
+                "word": "fabled",
+                "pos": "adjective"
+            },
+            {
+                "word": "fabric",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a traditional short story that teaches a moral lesson, especially one with animals as characters; these stories considered as a group",
+                    "vi": "một truyện ngắn truyền thống dạy bài học đạo đức, đặc biệt là truyện có nhân vật là động vật; những câu chuyện này được coi là một nhóm"
+                },
+                "examples": [
+                    {
+                        "en": "Aesop’s Fables",
+                        "vi": "Ngụ ngôn Aesop"
+                    },
+                    {
+                        "en": "a land rich in fable",
+                        "vi": "một vùng đất giàu truyền thuyết"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a statement, or an account of something, that is not true",
+                    "vi": "một tuyên bố hoặc một tài khoản về điều gì đó, điều đó không đúng sự thật"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "6201159766ed479d8bacae3ad7520d4a",
+        "word": "folk tale",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈfəʊk teɪl/",
+            "us": "/ˈfəʊk teɪl/"
+        },
+        "nearby": [
+            {
+                "word": "folk song",
+                "pos": "noun"
+            },
+            {
+                "word": "folksy",
+                "pos": "adjective"
+            },
+            {
+                "word": "folk tale",
+                "pos": "noun"
+            },
+            {
+                "word": "folkways",
+                "pos": "noun"
+            },
+            {
+                "word": "folky",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a very old traditional story from a particular place that was originally passed on to people in a spoken form",
+                    "vi": "một câu chuyện truyền thống rất lâu đời từ một địa điểm cụ thể ban đầu được truyền lại cho mọi người dưới dạng nói"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "7fcdd1b4d7084d28ade7e5dcd76b74af",
+        "word": "romance",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/rəʊˈmæns/",
+            "us": "/ˈrəʊmæns/"
+        },
+        "nearby": [
+            {
+                "word": "Roman Catholic",
+                "pos": "noun"
+            },
+            {
+                "word": "Roman Catholicism",
+                "pos": "noun"
+            },
+            {
+                "word": "romance",
+                "pos": "noun"
+            },
+            {
+                "word": "romance",
+                "pos": "verb"
+            },
+            {
+                "word": "Romance",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an exciting, usually short, relationship between two people who are in love with each other",
+                    "vi": "một mối quan hệ thú vị, thường là ngắn, giữa hai người đang yêu nhau"
+                },
+                "examples": [
+                    {
+                        "en": "a holiday romance",
+                        "vi": "một kỳ nghỉ lãng mạn"
+                    },
+                    {
+                        "en": "They had a whirlwind romance.",
+                        "vi": "Họ đã có một cuộc tình lãng mạn quay cuồng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "love or the feeling of being in love",
+                    "vi": "tình yêu hay cảm giác được yêu"
+                },
+                "examples": [
+                    {
+                        "en": "Spring is here and romance is in the air.",
+                        "vi": "Mùa xuân đã đến và sự lãng mạn đang tràn ngập trong không khí."
+                    },
+                    {
+                        "en": "How can you put the romance back into your marriage?",
+                        "vi": "Làm thế nào bạn có thể đặt sự lãng mạn trở lại cuộc hôn nhân của bạn?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a story about a love affair",
+                    "vi": "một câu chuyện về một mối tình"
+                },
+                "examples": [
+                    {
+                        "en": "She's a compulsive reader of romances.",
+                        "vi": "Cô ấy là một người mê đọc truyện lãng mạn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a feeling of excitement and adventure, especially connected to a particular place or activity",
+                    "vi": "một cảm giác thích thú và phiêu lưu, đặc biệt được kết nối với một địa điểm hoặc hoạt động cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "the romance of travel",
+                        "vi": "sự lãng mạn của du lịch"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a story of excitement and adventure, often set in the past",
+                    "vi": "một câu chuyện thú vị và phiêu lưu, thường lấy bối cảnh trong quá khứ"
+                },
+                "examples": [
+                    {
+                        "en": "medieval romances",
+                        "vi": "tình cảm thời trung cổ"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f1b30807c39f478b8f6aababc383145d",
+        "word": "sequel",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈsiːkwəl/",
+            "us": "/ˈsiːkwəl/"
+        },
+        "nearby": [
+            {
+                "word": "sepulchral",
+                "pos": "adjective"
+            },
+            {
+                "word": "sepulchre",
+                "pos": "noun"
+            },
+            {
+                "word": "sequel",
+                "pos": "noun"
+            },
+            {
+                "word": "sequence",
+                "pos": "noun"
+            },
+            {
+                "word": "sequence",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a book, film, play, etc. that continues the story of an earlier one",
+                    "vi": "một cuốn sách, bộ phim, vở kịch, v.v. tiếp tục câu chuyện của một cuốn trước đó"
+                },
+                "examples": [
+                    {
+                        "en": "a sequel to the hit movie ‘Madagascar’",
+                        "vi": "phần tiếp theo của bộ phim ăn khách 'Madagascar'"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "something that happens after an earlier event or as a result of an earlier event",
+                    "vi": "điều gì đó xảy ra sau một sự kiện trước đó hoặc là kết quả của một sự kiện trước đó"
+                },
+                "examples": [
+                    {
+                        "en": "There was an interesting sequel to these events later in the year.",
+                        "vi": "Có một phần tiếp theo thú vị cho những sự kiện này vào cuối năm."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "81e45e39a88b4d979a4f2588971725ac",
+        "word": "true crime",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌtruː ˈkraɪm/",
+            "us": "/ˌtruː ˈkraɪm/"
+        },
+        "nearby": [
+            {
+                "word": "true-blue",
+                "pos": "adjective"
+            },
+            {
+                "word": "True Confessions",
+                "pos": ""
+            },
+            {
+                "word": "true crime",
+                "pos": "noun"
+            },
+            {
+                "word": "true-life",
+                "pos": "adjective"
+            },
+            {
+                "word": "Fred Trueman",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a genre of book, film, etc. that examines or tells the story of a real crime",
+                    "vi": "một thể loại sách, phim, v.v. kiểm tra hoặc kể câu chuyện về tội phạm có thật"
+                },
+                "examples": [
+                    {
+                        "en": "It's a true crime story in which truth is stranger than fiction.",
+                        "vi": "Đó là một câu chuyện tội phạm có thật, trong đó sự thật còn xa lạ hơn là hư cấu."
+                    },
+                    {
+                        "en": "He presented a series of true crime documentaries highlighting unique or elaborate crimes.",
+                        "vi": "Ông đã trình bày một loạt các bộ phim tài liệu tội phạm có thật nêu bật những tội ác độc đáo hoặc phức tạp."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "32c317d250164e94ad1b78c9e488c4e6",
+        "word": "allegory",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈæləɡəri/",
+            "us": "/ˈæləɡɔːri/"
+        },
+        "nearby": [
+            {
+                "word": "allegorical",
+                "pos": "adjective"
+            },
+            {
+                "word": "allegorically",
+                "pos": "adverb"
+            },
+            {
+                "word": "allegory",
+                "pos": "noun"
+            },
+            {
+                "word": "allegro",
+                "pos": "adverb"
+            },
+            {
+                "word": "allegro",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a story, play, picture, etc. in which each character or event is a symbol representing an idea or a quality, such as truth, evil, death, etc.; the use of such symbols",
+                    "vi": "một câu chuyện, vở kịch, bức tranh, v.v. trong đó mỗi nhân vật hoặc sự kiện là một biểu tượng đại diện cho một ý tưởng hoặc một phẩm chất, chẳng hạn như sự thật, cái ác, cái chết, v.v.; việc sử dụng các ký hiệu như vậy"
+                },
+                "examples": [
+                    {
+                        "en": "a political allegory",
+                        "vi": "một câu chuyện ngụ ngôn chính trị"
+                    },
+                    {
+                        "en": "the poet’s use of allegory",
+                        "vi": "việc sử dụng truyện ngụ ngôn của nhà thơ"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "16452b1190d24995942efb0af2ce95c0",
+        "word": "chick lit",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtʃɪk lɪt/",
+            "us": "/ˈtʃɪk lɪt/"
+        },
+        "nearby": [
+            {
+                "word": "Chick-fil-A",
+                "pos": ""
+            },
+            {
+                "word": "chick flick",
+                "pos": "noun"
+            },
+            {
+                "word": "chick lit",
+                "pos": "noun"
+            },
+            {
+                "word": "chickpea",
+                "pos": "noun"
+            },
+            {
+                "word": "chickpea flour",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "novels that are intended mostly for women, often with a young, single woman as the main character",
+                    "vi": "tiểu thuyết chủ yếu dành cho phụ nữ, thường có một phụ nữ trẻ, độc thân là nhân vật chính"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "0120d779c5d74370b13cba22f02838f4",
+        "word": "cyberpunk",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈsaɪbəpʌŋk/",
+            "us": "/ˈsaɪbərpʌŋk/"
+        },
+        "nearby": [
+            {
+                "word": "cybernetic",
+                "pos": "adjective"
+            },
+            {
+                "word": "cybernetics",
+                "pos": "noun"
+            },
+            {
+                "word": "cyberpunk",
+                "pos": "noun"
+            },
+            {
+                "word": "cybersex",
+                "pos": "noun"
+            },
+            {
+                "word": "cyberspace",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "stories set in an unpleasant imaginary future world controlled by technology and computers",
+                    "vi": "câu chuyện lấy bối cảnh một thế giới tương lai tưởng tượng khó chịu được điều khiển bởi công nghệ và máy tính"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "9b54498071ef4fcdab014f6cbbdcaa0d",
+        "word": "melodrama",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈmelədrɑːmə/",
+            "us": "/ˈmelədrɑːmə/"
+        },
+        "nearby": [
+            {
+                "word": "melodiously",
+                "pos": "adverb"
+            },
+            {
+                "word": "melodist",
+                "pos": "noun"
+            },
+            {
+                "word": "melodrama",
+                "pos": "noun"
+            },
+            {
+                "word": "melodramatic",
+                "pos": "adjective"
+            },
+            {
+                "word": "melodramatically",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a story, play or novel that is full of exciting events and in which the characters and emotions seem too exaggerated to be real",
+                    "vi": "một câu chuyện, vở kịch hoặc cuốn tiểu thuyết chứa đầy các sự kiện thú vị và trong đó các nhân vật và cảm xúc dường như quá cường điệu để có thể có thật"
+                },
+                "examples": [
+                    {
+                        "en": "a gripping Victorian melodrama",
+                        "vi": "một bộ phim melodrama hấp dẫn thời Victoria"
+                    },
+                    {
+                        "en": "Instead of tragedy, we got melodrama.",
+                        "vi": "Thay vì bi kịch, chúng ta có phim kinh dị."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "events, behaviour, etc. that are exaggerated or extreme",
+                    "vi": "sự kiện, hành vi, v.v. cường điệu hoặc cực đoan"
+                },
+                "examples": [
+                    {
+                        "en": "Her love of melodrama meant that any small problem became a crisis.",
+                        "vi": "Cô yêu thích thể loại phim kinh dị có nghĩa là bất kỳ vấn đề nhỏ nào cũng trở thành một cuộc khủng hoảng."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "94b1b0fa727347e086f6ae53c1d601c0",
+        "word": "page-turner",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpeɪdʒ tɜːnə(r)/",
+            "us": "/ˈpeɪdʒ tɜːrnər/"
+        },
+        "nearby": [
+            {
+                "word": "page-three girl",
+                "pos": "noun"
+            },
+            {
+                "word": "page through",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "page-turner",
+                "pos": "noun"
+            },
+            {
+                "word": "page view",
+                "pos": "noun"
+            },
+            {
+                "word": "paginate",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a book that is very exciting",
+                    "vi": "một cuốn sách rất thú vị"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "6422cb8deafd4191823c8a4cae6d09c7",
+        "word": "parable",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpærəbl/",
+            "us": "/ˈpærəbl/"
+        },
+        "nearby": [
+            {
+                "word": "para",
+                "pos": "noun"
+            },
+            {
+                "word": "para-",
+                "pos": "prefix"
+            },
+            {
+                "word": "parable",
+                "pos": "noun"
+            },
+            {
+                "word": "parabola",
+                "pos": "noun"
+            },
+            {
+                "word": "parabolic",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a short story that teaches a moral or spiritual lesson, especially one of those told by Jesus as recorded in the Bible",
+                    "vi": "một câu chuyện ngắn dạy về bài học đạo đức hoặc tâm linh, đặc biệt là một trong những câu chuyện được Chúa Giê-su kể lại như được ghi lại trong Kinh thánh"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "6c1134fec5204c948e9d254d476ce6b3",
+        "word": "saga",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈsɑːɡə/",
+            "us": "/ˈsɑːɡə/"
+        },
+        "nearby": [
+            {
+                "word": "sag1",
+                "pos": "verb"
+            },
+            {
+                "word": "sag2",
+                "pos": "noun"
+            },
+            {
+                "word": "saga",
+                "pos": "noun"
+            },
+            {
+                "word": "Saga",
+                "pos": ""
+            },
+            {
+                "word": "sagacious",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a long traditional story about adventures and brave acts, especially one from Norway or Iceland",
+                    "vi": "một câu chuyện truyền thống dài về những cuộc phiêu lưu và những hành động dũng cảm, đặc biệt là một câu chuyện đến từ Na Uy hoặc Iceland"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a long story about events over a period of many years",
+                    "vi": "một câu chuyện dài về các sự kiện trong khoảng thời gian nhiều năm"
+                },
+                "examples": [
+                    {
+                        "en": "a family saga",
+                        "vi": "một câu chuyện gia đình"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a long series of events or adventures and/or a report about them",
+                    "vi": "một chuỗi dài các sự kiện hoặc cuộc phiêu lưu và / hoặc một báo cáo về chúng"
+                },
+                "examples": [
+                    {
+                        "en": "The front page is devoted to the continuing saga of the hijack.",
+                        "vi": "Trang nhất được dành cho câu chuyện tiếp tục của vụ không tặc."
+                    },
+                    {
+                        "en": "(humorous) the saga of how I missed the plane",
+                        "vi": "(hài hước) câu chuyện về việc tôi bị trượt máy bay như thế nào"
+                    },
+                    {
+                        "en": "This whole saga has been a pretty significant victory for truth.",
+                        "vi": "Toàn bộ câu chuyện này đã là một chiến thắng khá quan trọng cho sự thật."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e600522fe59b44aabe9bef16cb7c48d4",
+        "word": "satire",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈsætaɪə(r)/",
+            "us": "/ˈsætaɪər/"
+        },
+        "nearby": [
+            {
+                "word": "satin",
+                "pos": "adjective"
+            },
+            {
+                "word": "satiny",
+                "pos": "adjective"
+            },
+            {
+                "word": "satire",
+                "pos": "noun"
+            },
+            {
+                "word": "satirical",
+                "pos": "adjective"
+            },
+            {
+                "word": "satirically",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a way of criticizing a person, an idea or an institution in which you use humour to show their faults or weaknesses; a piece of writing that uses this type of criticism",
+                    "vi": "cách chỉ trích một người, một ý tưởng hoặc một thể chế mà bạn sử dụng sự hài hước để chỉ ra lỗi hoặc điểm yếu của họ; một bài viết sử dụng kiểu phê bình này"
+                },
+                "examples": [
+                    {
+                        "en": "political/social satire",
+                        "vi": "châm biếm chính trị / xã hội"
+                    },
+                    {
+                        "en": "a work full of savage/biting satire",
+                        "vi": "một tác phẩm đầy châm biếm dã man / cắn rứt"
+                    },
+                    {
+                        "en": "The novel is a stinging satire on American politics.",
+                        "vi": "Cuốn tiểu thuyết là một tác phẩm châm biếm nhức nhối về chính trị Mỹ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5524631ad08949f6986db5563754da98",
+        "word": "whodunnit",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌhuːˈdʌnɪt/",
+            "us": "/ˌhuːˈdʌnɪt/"
+        },
+        "nearby": [
+            {
+                "word": "whoa",
+                "pos": "exclamation"
+            },
+            {
+                "word": "who'd",
+                "pos": "short form"
+            },
+            {
+                "word": "whodunnit",
+                "pos": "noun"
+            },
+            {
+                "word": "whoever",
+                "pos": "pronoun"
+            },
+            {
+                "word": "Who Killed Cock Robin?",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a story, play, etc. about a murder in which you do not know who did the murder until the end",
+                    "vi": "một câu chuyện, vở kịch, v.v. về một vụ giết người mà bạn không biết ai đã giết người cho đến cuối cùng"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "5cb7551386f448c38c37850cf9f37652",
+        "word": "yarn",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/jɑːn/",
+            "us": "/jɑːrn/"
+        },
+        "nearby": [
+            {
+                "word": "yardwork",
+                "pos": "noun"
+            },
+            {
+                "word": "yarmulke",
+                "pos": "noun"
+            },
+            {
+                "word": "yarn",
+                "pos": "noun"
+            },
+            {
+                "word": "yarn bomb",
+                "pos": "verb"
+            },
+            {
+                "word": "yarn bomber",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "thread that has been spun, used for knitting, making cloth, etc.",
+                    "vi": "chỉ đã được kéo thành sợi, dùng để đan, làm vải, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "The sweaters are hand-knitted in cotton, linen or wool yarns.",
+                        "vi": "Những chiếc áo len được dệt thủ công bằng sợi bông, vải lanh hoặc len."
+                    },
+                    {
+                        "en": "There's a knot in the yarn.",
+                        "vi": "Có một nút trong sợi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a long story, especially one that is exaggerated or invented",
+                    "vi": "một câu chuyện dài, đặc biệt là một câu chuyện được phóng đại hoặc bịa ra"
+                },
+                "examples": [
+                    {
+                        "en": "He used to spin yarns (= tell stories) about his time in the army.",
+                        "vi": "Anh đã từng quay sợi (= kể chuyện) về thời gian trong quân đội."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to tell somebody a story or make an excuse that is not true",
+                    "vi": "kể cho ai đó một câu chuyện hoặc viện cớ không đúng sự thật"
+                },
+                "examples": []
+            }
+        ]
+    }
+]

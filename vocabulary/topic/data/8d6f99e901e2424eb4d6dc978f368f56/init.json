@@ -1,0 +1,687 @@
+[
+    {
+        "id": "e7ac86c3a96a456aa2fbd5f13ccd1bce",
+        "word": "Africa",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˈæfrɪkə/",
+            "us": "/ˈæfrɪkə/"
+        },
+        "nearby": [
+            {
+                "word": "A-frame tent",
+                "pos": "noun"
+            },
+            {
+                "word": "afresh",
+                "pos": "adverb"
+            },
+            {
+                "word": "Africa",
+                "pos": "noun"
+            },
+            {
+                "word": "African",
+                "pos": "adjective"
+            },
+            {
+                "word": "African",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the second largest continent",
+                    "vi": "lục địa lớn thứ hai"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "ec32c94f800d47c29f5f23a29e1d7ce1",
+        "word": "Asia",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˈeɪʒə/",
+            "us": "/ˈeɪʒə/"
+        },
+        "nearby": [
+            {
+                "word": "ashtray",
+                "pos": "noun"
+            },
+            {
+                "word": "Ash Wednesday",
+                "pos": "noun"
+            },
+            {
+                "word": "Asia",
+                "pos": "noun"
+            },
+            {
+                "word": "Asia Minor",
+                "pos": "noun"
+            },
+            {
+                "word": "Asian",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the largest continent",
+                    "vi": "lục địa lớn nhất"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "5df465f55595453ca32e29c1d1d6a112",
+        "word": "country",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˈkʌntri/",
+            "us": "/ˈkʌntri/"
+        },
+        "nearby": [
+            {
+                "word": "count out",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "countrified",
+                "pos": "adjective"
+            },
+            {
+                "word": "country",
+                "pos": "noun"
+            },
+            {
+                "word": "country and western",
+                "pos": "noun"
+            },
+            {
+                "word": "country bumpkin",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an area of land that has or used to have its own government and laws",
+                    "vi": "một khu vực đất đã hoặc đã từng có chính phủ và luật pháp riêng"
+                },
+                "examples": [
+                    {
+                        "en": "European countries",
+                        "vi": "các nước châu Âu"
+                    },
+                    {
+                        "en": "developing countries",
+                        "vi": "các quốc gia phát triển"
+                    },
+                    {
+                        "en": "It's good to meet people from different parts of the country.",
+                        "vi": "Thật tốt khi gặp gỡ những người từ các vùng khác nhau của đất nước."
+                    },
+                    {
+                        "en": "in a country She didn't know what life in a foreign country would be like.",
+                        "vi": "ở một đất nước Cô không biết cuộc sống ở nước ngoài sẽ như thế nào."
+                    },
+                    {
+                        "en": "It's the most popular music festival in the country.",
+                        "vi": "Đây là lễ hội âm nhạc nổi tiếng nhất trong cả nước."
+                    },
+                    {
+                        "en": "across the country House prices are rising across the whole country.",
+                        "vi": "trên toàn quốc Giá nhà đang tăng trên cả nước."
+                    },
+                    {
+                        "en": "around the country Demonstrations were held in cities around the country.",
+                        "vi": "khắp đất nước Các cuộc biểu tình đã được tổ chức tại các thành phố trên khắp đất nước."
+                    },
+                    {
+                        "en": "from a country people from other countries",
+                        "vi": "từ một quốc gia những người từ các quốc gia khác"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "any area outside towns and cities, with fields, woods, farms, etc.",
+                    "vi": "bất kỳ khu vực nào bên ngoài thị trấn và thành phố, với cánh đồng, rừng cây, trang trại, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "in the country I live in the country.",
+                        "vi": "ở đất nước tôi sống trong nước."
+                    },
+                    {
+                        "en": "We spent a pleasant day in the country.",
+                        "vi": "Chúng tôi đã trải qua một ngày vui vẻ ở đất nước."
+                    },
+                    {
+                        "en": "The house is at the end of a narrow country lane.",
+                        "vi": "Ngôi nhà cuối ngõ quê chật hẹp."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an area of land, especially with particular physical features, suitable for a particular purpose or connected with a particular person or people",
+                    "vi": "một diện tích đất, đặc biệt là với các đặc điểm vật lý cụ thể, phù hợp với một mục đích cụ thể hoặc được kết nối với một người hoặc nhiều người cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "The town is surrounded by miles and miles of open country.",
+                        "vi": "Thị trấn được bao quanh bởi hàng dặm và hàng dặm của đất nước rộng mở."
+                    },
+                    {
+                        "en": "This part of Africa is rich farming country.",
+                        "vi": "Phần này của Châu Phi là một quốc gia giàu có về nông nghiệp."
+                    },
+                    {
+                        "en": "superb walking country",
+                        "vi": "đất nước đi bộ tuyệt vời"
+                    },
+                    {
+                        "en": "Explore Thomas Hardy country.",
+                        "vi": "Khám phá đất nước Thomas Hardy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the people of a country; the nation as a whole",
+                    "vi": "người dân của một đất nước; quốc gia nói chung"
+                },
+                "examples": [
+                    {
+                        "en": "They have the support of most of the country.",
+                        "vi": "Họ được sự ủng hộ của hầu hết đất nước."
+                    },
+                    {
+                        "en": "The rich benefited from the reforms, not the country as a whole.",
+                        "vi": "Người giàu được hưởng lợi từ các cuộc cải cách, chứ không phải toàn bộ đất nước."
+                    },
+                    {
+                        "en": "The whole country is depending on you.",
+                        "vi": "Cả nước là tùy thuộc vào bạn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a type of popular music in the style of the traditional music of the southern US, with singing and dance tunes played on violin, guitar and banjo",
+                    "vi": "một loại hình âm nhạc phổ biến theo phong cách âm nhạc truyền thống của miền Nam Hoa Kỳ, với các giai điệu hát và nhảy được chơi trên violin, guitar và banjo"
+                },
+                "examples": [
+                    {
+                        "en": "pop, folk and country",
+                        "vi": "nhạc pop, dân gian và đồng quê"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "directly across fields, etc.; not by a main road",
+                    "vi": "trực tiếp trên các lĩnh vực, v.v.; không phải bằng một con đường chính"
+                },
+                "examples": [
+                    {
+                        "en": "riding across country",
+                        "vi": "cưỡi ngựa xuyên quốc gia"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to hold an election to choose a new parliament",
+                    "vi": "tổ chức một cuộc bầu cử để chọn một quốc hội mới"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used as a reply when somebody suggests that you should not do something, or when somebody has asked permission or said they are going to do something",
+                    "vi": "được sử dụng như một câu trả lời khi ai đó gợi ý rằng bạn không nên làm điều gì đó, hoặc khi ai đó đã xin phép hoặc nói rằng họ sẽ làm điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "It's a free country; I'll say what I like!",
+                        "vi": "Đó là một đất nước tự do; Tôi sẽ nói những gì tôi thích!"
+                    },
+                    {
+                        "en": "Wear what you like. It's a free country.",
+                        "vi": "Mặc những gì bạn thích. Đó là một đất nước tự do."
+                    },
+                    {
+                        "en": "‘It's a free country!’ he shouted. ‘I can do what I like!’",
+                        "vi": "Đó là một đất nước tự do!' anh ta đã hét lên. 'Tôi có thể làm những gì tôi thích!'"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0a51d9d338fd43cca06afc4fa594c12e",
+        "word": "Europe",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˈjʊərəp/",
+            "us": "/ˈjʊrəp/"
+        },
+        "nearby": [
+            {
+                "word": "euroland",
+                "pos": "noun"
+            },
+            {
+                "word": "Euro-MP",
+                "pos": "noun"
+            },
+            {
+                "word": "Europe",
+                "pos": "noun"
+            },
+            {
+                "word": "European",
+                "pos": "adjective"
+            },
+            {
+                "word": "European",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the continent next to Asia in the east, the Atlantic Ocean in the west, and the Mediterranean Sea in the south",
+                    "vi": "lục địa bên cạnh châu Á ở phía đông, Đại Tây Dương ở phía tây và biển Địa Trung Hải ở phía nam"
+                },
+                "examples": [
+                    {
+                        "en": "western/eastern/central Europe",
+                        "vi": "tây / đông / trung Âu"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the European Union",
+                    "vi": "Liên minh châu âu"
+                },
+                "examples": [
+                    {
+                        "en": "countries wanting to join Europe",
+                        "vi": "các quốc gia muốn gia nhập Châu Âu"
+                    },
+                    {
+                        "en": "He's very pro-Europe.",
+                        "vi": "Anh ấy rất ủng hộ châu Âu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "all of Europe except for the UK",
+                    "vi": "tất cả Châu Âu ngoại trừ Vương quốc Anh"
+                },
+                "examples": [
+                    {
+                        "en": "British holidaymakers in Europe",
+                        "vi": "Những người du lịch Anh ở Châu Âu"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e2c3add4a002436dbc3628344ded0626",
+        "word": "geography",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/dʒiˈɒɡrəfi/",
+            "us": "/dʒiˈɑːɡrəfi/"
+        },
+        "nearby": [
+            {
+                "word": "geographical",
+                "pos": "adjective"
+            },
+            {
+                "word": "geographically",
+                "pos": "adverb"
+            },
+            {
+                "word": "geography",
+                "pos": "noun"
+            },
+            {
+                "word": "geolocation",
+                "pos": "noun"
+            },
+            {
+                "word": "geological",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the scientific study of the earth’s surface, physical features, divisions, products, population, etc.",
+                    "vi": "nghiên cứu khoa học về bề mặt trái đất, các đặc điểm vật lý, sự phân chia, sản phẩm, dân số, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "recent work in economic geography",
+                        "vi": "công việc gần đây trong địa lý kinh tế"
+                    },
+                    {
+                        "en": "cultural/historical/political geography",
+                        "vi": "địa lý văn hóa / lịch sử / chính trị"
+                    },
+                    {
+                        "en": "a geography lesson/class/teacher",
+                        "vi": "một bài học địa lý / lớp học / giáo viên"
+                    },
+                    {
+                        "en": "a degree in geography",
+                        "vi": "bằng địa lý"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the way in which the physical features of a place are arranged",
+                    "vi": "cách mà các đặc điểm vật lý của một địa điểm được sắp xếp"
+                },
+                "examples": [
+                    {
+                        "en": "These streets had a very particular geography.",
+                        "vi": "Những con phố này có một vị trí địa lý rất đặc biệt."
+                    },
+                    {
+                        "en": "the geography of New York City",
+                        "vi": "địa lý của thành phố New York"
+                    },
+                    {
+                        "en": "Kim knew the geography of the building and strode along the corridor.",
+                        "vi": "Kim biết vị trí địa lý của tòa nhà và sải bước dọc theo hành lang."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the way in which a particular aspect of life or society is influenced by geography or varies according to geography",
+                    "vi": "cách thức mà một khía cạnh cụ thể của cuộc sống hoặc xã hội bị ảnh hưởng bởi địa lý hoặc thay đổi theo địa lý"
+                },
+                "examples": [
+                    {
+                        "en": "The geography of poverty and the geography of voting are connected.",
+                        "vi": "Địa lý nghèo đói và địa lý bỏ phiếu có mối liên hệ với nhau."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a country, area or region",
+                    "vi": "một quốc gia, khu vực hoặc khu vực"
+                },
+                "examples": [
+                    {
+                        "en": "We are now operational across multiple geographies.",
+                        "vi": "Chúng tôi hiện đang hoạt động trên nhiều vùng địa lý."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "08a60d52e24a41d794a3580041376bd4",
+        "word": "North America",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˌnɔːθ əˈmerɪkə/",
+            "us": "/ˌnɔːrθ əˈmerɪkə/"
+        },
+        "nearby": [
+            {
+                "word": "north",
+                "pos": "adjective"
+            },
+            {
+                "word": "north",
+                "pos": "adverb"
+            },
+            {
+                "word": "North America",
+                "pos": "noun"
+            },
+            {
+                "word": "the North American Aerospace Defense Command",
+                "pos": ""
+            },
+            {
+                "word": "the North American Free Trade Agreement",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the continent consisting of Canada, the United States, Mexico, the countries of Central America and Greenland",
+                    "vi": "lục địa bao gồm Canada, Hoa Kỳ, Mexico, các quốc gia Trung Mỹ và Greenland"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "3410bc7d7eb542a9ad8637f957960210",
+        "word": "South America",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˌsaʊθ əˈmerɪkə/",
+            "us": "/ˌsaʊθ əˈmerɪkə/"
+        },
+        "nearby": [
+            {
+                "word": "South Africa",
+                "pos": ""
+            },
+            {
+                "word": "South African",
+                "pos": "noun, adjective"
+            },
+            {
+                "word": "South America",
+                "pos": "noun"
+            },
+            {
+                "word": "Southampton",
+                "pos": ""
+            },
+            {
+                "word": "South Australia",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the continent which is to the south of Central America and North America",
+                    "vi": "lục địa nằm ở phía nam của Trung Mỹ và Bắc Mỹ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "d8f6018be16f42f78bc51833ac68e402",
+        "word": "continent",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/ˈkɒntɪnənt/",
+            "us": "/ˈkɑːntɪnənt/"
+        },
+        "nearby": [
+            {
+                "word": "continence",
+                "pos": "noun"
+            },
+            {
+                "word": "continent",
+                "pos": "adjective"
+            },
+            {
+                "word": "continent",
+                "pos": "noun"
+            },
+            {
+                "word": "continental",
+                "pos": "adjective"
+            },
+            {
+                "word": "continental",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "one of the large land masses of the earth such as Europe, Asia or Africa",
+                    "vi": "một trong những vùng đất rộng lớn trên trái đất như Châu Âu, Châu Á hoặc Châu Phi"
+                },
+                "examples": [
+                    {
+                        "en": "the continent of Africa",
+                        "vi": "lục địa châu phi"
+                    },
+                    {
+                        "en": "the African continent",
+                        "vi": "lục địa châu phi"
+                    },
+                    {
+                        "en": "The police investigation spanned three continents.",
+                        "vi": "Cuộc điều tra của cảnh sát kéo dài ba lục địa."
+                    },
+                    {
+                        "en": "across a continent They trekked 1  500 miles across the Australian continent in 1931.",
+                        "vi": "xuyên lục địa Họ đã đi bộ 500 dặm xuyên lục địa Úc vào năm 1931."
+                    },
+                    {
+                        "en": "on a continent the strongest earthquake ever recorded on the North American continent",
+                        "vi": "trên lục địa, trận động đất mạnh nhất từng được ghi nhận trên lục địa Bắc Mỹ"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the main part of the continent of Europe, not including Britain or Ireland",
+                    "vi": "phần chính của lục địa Châu Âu, không bao gồm Anh hoặc Ireland"
+                },
+                "examples": [
+                    {
+                        "en": "on the Continent They planned to spend the summer on the Continent.",
+                        "vi": "trên lục địa Họ dự định nghỉ hè trên lục địa."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0bd5a44696c3462089fc9caae60e7b0b",
+        "word": "Antarctica",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ænˈtɑːktɪkə/",
+            "us": "/ænˈtɑːrktɪkə/"
+        },
+        "nearby": [
+            {
+                "word": "Antarctic",
+                "pos": "adjective"
+            },
+            {
+                "word": "the Antarctic",
+                "pos": "noun"
+            },
+            {
+                "word": "Antarctica",
+                "pos": "noun"
+            },
+            {
+                "word": "the Antarctic Circle",
+                "pos": "noun"
+            },
+            {
+                "word": "ante",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the continent around the South Pole",
+                    "vi": "lục địa quanh Nam Cực"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "3152baa7582543b7b42e053dba29ea7f",
+        "word": "Australasia",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌɒstrəˈleɪʒə/",
+            "us": "/ˌɔːstrəˈleɪʒə/"
+        },
+        "nearby": [
+            {
+                "word": "Austin",
+                "pos": "noun"
+            },
+            {
+                "word": "austral",
+                "pos": "adjective"
+            },
+            {
+                "word": "Australasia",
+                "pos": "noun"
+            },
+            {
+                "word": "Australasian",
+                "pos": "noun"
+            },
+            {
+                "word": "Australasian",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the region including Australia, New Zealand and the islands of the south-west Pacific",
+                    "vi": "khu vực bao gồm Úc, New Zealand và các đảo ở tây nam Thái Bình Dương"
+                },
+                "examples": []
+            }
+        ]
+    }
+]

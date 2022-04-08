@@ -1,0 +1,1377 @@
+{
+    "id": "74d78a68b53c4c649ab0b8e477e7f52a",
+    "title": "Booking a hotel",
+    "questions": [
+        {
+            "id": "b41bfc7638d24c43993658cba6646981",
+            "text": "Good morning. I've been looking at your holidays to Australia in your brochure.",
+            "items": [
+                "Good",
+                "morning.",
+                "I've",
+                "been",
+                "looking",
+                "at",
+                "your",
+                "holidays",
+                "to",
+                "Australia",
+                "in",
+                "your",
+                "brochure."
+            ]
+        },
+        {
+            "id": "a74771d002614f0da919b521275b0b09",
+            "text": "I'm thinking of going during the second half of next month.",
+            "items": [
+                "I'm",
+                "thinking",
+                "of",
+                "going",
+                "during",
+                "the",
+                "second",
+                "half",
+                "of",
+                "next",
+                "month."
+            ]
+        },
+        {
+            "id": "fbb3be91a4b34637b389a570df78d442",
+            "text": "Good morning. As you can see from our brochure,",
+            "items": [
+                "Good",
+                "morning.",
+                "As",
+                "you",
+                "can",
+                "see",
+                "from",
+                "our",
+                "brochure,"
+            ]
+        },
+        {
+            "id": "c0e93b1e8922446a8d1de7e6c0940145",
+            "text": "we offer a wide variety of packages to various destinations in Australia.",
+            "items": [
+                "we",
+                "offer",
+                "a",
+                "wide",
+                "variety",
+                "of",
+                "packages",
+                "to",
+                "various",
+                "destinations",
+                "in",
+                "Australia."
+            ]
+        },
+        {
+            "id": "09d060961e1845bbb3b178867fed4a80",
+            "text": "Is there anything in particular that interests you?",
+            "items": [
+                "Is",
+                "there",
+                "anything",
+                "in",
+                "particular",
+                "that",
+                "interests",
+                "you?"
+            ]
+        },
+        {
+            "id": "d6674b80b91d4808b2034b10fcff7513",
+            "text": "Yes, my husband and I are very interested in the holidays in the Outback.",
+            "items": [
+                "Yes,",
+                "my",
+                "husband",
+                "and",
+                "I",
+                "are",
+                "very",
+                "interested",
+                "in",
+                "the",
+                "holidays",
+                "in",
+                "the",
+                "Outback."
+            ]
+        },
+        {
+            "id": "b99fdf81aad848088db09bd33451b4fd",
+            "text": "These holidays are becoming increasingly popular.",
+            "items": [
+                "These",
+                "holidays",
+                "are",
+                "becoming",
+                "increasingly",
+                "popular."
+            ]
+        },
+        {
+            "id": "326c3f11dd1549abb0f18384f90e2174",
+            "text": "Would you like to arrange flights and accommodation with us, or just accommodation?",
+            "items": [
+                "Would",
+                "you",
+                "like",
+                "to",
+                "arrange",
+                "flights",
+                "and",
+                "accommodation",
+                "with",
+                "us,",
+                "or",
+                "just",
+                "accommodation?"
+            ]
+        },
+        {
+            "id": "b4b58d6cf78549b9a71b1c18c644bac3",
+            "text": "Can you arrange flights from Sydney?",
+            "items": [
+                "Can",
+                "you",
+                "arrange",
+                "flights",
+                "from",
+                "Sydney?"
+            ]
+        },
+        {
+            "id": "36a286eb62a441a891f4251aa202bc48",
+            "text": "Certainly.",
+            "items": [
+                "Certainly."
+            ]
+        },
+        {
+            "id": "d6addf7700ba473482af5e0c4934cc93",
+            "text": "OK, flights and accommodation then.",
+            "items": [
+                "OK,",
+                "flights",
+                "and",
+                "accommodation",
+                "then."
+            ]
+        },
+        {
+            "id": "b28a3d0120a948f18e44c19fbb40b03d",
+            "text": "Right. You said that you wanted to travel next month.",
+            "items": [
+                "Right.",
+                "You",
+                "said",
+                "that",
+                "you",
+                "wanted",
+                "to",
+                "travel",
+                "next",
+                "month."
+            ]
+        },
+        {
+            "id": "a9cc2018ad50469cbd696b67d56f595f",
+            "text": "Which date would you prefer?",
+            "items": [
+                "Which",
+                "date",
+                "would",
+                "you",
+                "prefer?"
+            ]
+        },
+        {
+            "id": "740eb33ec62c4ff3bbb26967f386861f",
+            "text": "I should point out that there are no daily flights available,",
+            "items": [
+                "I",
+                "should",
+                "point",
+                "out",
+                "that",
+                "there",
+                "are",
+                "no",
+                "daily",
+                "flights",
+                "available,"
+            ]
+        },
+        {
+            "id": "9ebdf3b614c64359bee96a94a5c65afb",
+            "text": "so if you have a flexible itinerary, that's better.",
+            "items": [
+                "so",
+                "if",
+                "you",
+                "have",
+                "a",
+                "flexible",
+                "itinerary,",
+                "that's",
+                "better."
+            ]
+        },
+        {
+            "id": "e62bb518df3f435981e62e0dd6957954",
+            "text": "Well, we arrive in Sydney on the 15th of April",
+            "items": [
+                "Well,",
+                "we",
+                "arrive",
+                "in",
+                "Sydney",
+                "on",
+                "the",
+                "15th",
+                "of",
+                "April"
+            ]
+        },
+        {
+            "id": "c47a686b15784e76992652bc0ae82a79",
+            "text": "and we were thinking of travelling to the Outback on the 18th of August, er... I mean April.",
+            "items": [
+                "and",
+                "we",
+                "were",
+                "thinking",
+                "of",
+                [
+                    "travelling",
+                    "traveling"
+                ],
+                "to",
+                "the",
+                "Outback",
+                "on",
+                "the",
+                [
+                    "18th",
+                    "eighteenth"
+                ],
+                "of",
+                "August,",
+                [
+                    "er... I",
+                    "I"
+                ],
+                "mean",
+                "April."
+            ]
+        },
+        {
+            "id": "848f86795a0849c8aec108bedd8761e6",
+            "text": "OK. There's only one flight from Sydney to Alice Springs on the 18th, so I'll book you on that.",
+            "items": [
+                "OK.",
+                "There's",
+                "only",
+                [
+                    "one",
+                    "1"
+                ],
+                "flight",
+                "from",
+                "Sydney",
+                "to",
+                "Alice",
+                "Springs",
+                "on",
+                "the",
+                "18th,",
+                "so",
+                "I'll",
+                "book",
+                "you",
+                "on",
+                "that."
+            ]
+        },
+        {
+            "id": "944588fb6d824c76ab1f6c8ea6b67f37",
+            "text": "It leaves at 10 in the morning, which is quite convenient.",
+            "items": [
+                "It",
+                "leaves",
+                "at",
+                "10",
+                "in",
+                "the",
+                "morning,",
+                "which",
+                "is",
+                "quite",
+                "convenient."
+            ]
+        },
+        {
+            "id": "9bb7a3c417024a4f9335e2d490f3fb7c",
+            "text": "Shall I book two seats for you?",
+            "items": [
+                "Shall",
+                "I",
+                "book",
+                [
+                    "two",
+                    "2"
+                ],
+                "seats",
+                "for",
+                "you?"
+            ]
+        },
+        {
+            "id": "3502493a0c5245c7bd174956f851f150",
+            "text": "Yes, please.",
+            "items": [
+                "Yes,",
+                "please."
+            ]
+        },
+        {
+            "id": "ea83a69d62e94fd9896f04b11dbe5517",
+            "text": "As for your stay in the Outback,",
+            "items": [
+                "As",
+                "for",
+                "your",
+                "stay",
+                "in",
+                "the",
+                "Outback,"
+            ]
+        },
+        {
+            "id": "ad553498706d4d1f9780dd37348eb01e",
+            "text": "you can see from the brochure that we offer three packages:",
+            "items": [
+                "you",
+                "can",
+                "see",
+                "from",
+                "the",
+                "brochure",
+                "that",
+                "we",
+                "offer",
+                [
+                    "three",
+                    "3"
+                ],
+                "packages:"
+            ]
+        },
+        {
+            "id": "0b764bb1e1134770941030ba08cf7584",
+            "text": "budget, standard, and luxury.",
+            "items": [
+                "budget,",
+                "standard,",
+                "and",
+                "luxury."
+            ]
+        },
+        {
+            "id": "1cdb144c1b864d929a451513cc563364",
+            "text": "The budget package is about 500 Australian dollars.",
+            "items": [
+                "The",
+                "budget",
+                "package",
+                "is",
+                "about",
+                [
+                    "500",
+                    "five hundred",
+                    "5 hundred"
+                ],
+                "Australian",
+                "dollars."
+            ]
+        },
+        {
+            "id": "0d014b9048cd40e89fb7f4f49d18b6f1",
+            "text": "The standard package is about 700 and the luxury one is approximately 1,000,",
+            "items": [
+                "The",
+                "standard",
+                "package",
+                "is",
+                "about",
+                [
+                    "700",
+                    "seven hundred",
+                    "7 hundred"
+                ],
+                "and",
+                "the",
+                "luxury",
+                "one",
+                "is",
+                "approximately",
+                [
+                    "1,000,",
+                    "one thousand",
+                    "1 thousand"
+                ]
+            ]
+        },
+        {
+            "id": "f8c1209eb8c44616a849b80abe6895e2",
+            "text": "though it does depend on exactly what you would like regarding extras.",
+            "items": [
+                "though",
+                "it",
+                "does",
+                "depend",
+                "on",
+                "exactly",
+                "what",
+                "you",
+                "would",
+                "like",
+                "regarding",
+                "extras."
+            ]
+        },
+        {
+            "id": "833ebad9cc2546d1ae3bc9bf1c61b72e",
+            "text": "Which one would you prefer?",
+            "items": [
+                "Which",
+                [
+                    "one",
+                    "1"
+                ],
+                "would",
+                "you",
+                "prefer?"
+            ]
+        },
+        {
+            "id": "a9ea98778e8247eeb35dd01e8d7791b4",
+            "text": "Well, we can't decide between the budget and standard options.",
+            "items": [
+                "Well,",
+                "we",
+                "can't",
+                "decide",
+                "between",
+                "the",
+                "budget",
+                "and",
+                "standard",
+                "options."
+            ]
+        },
+        {
+            "id": "31c284db43ce4256bb26202c1acd4585",
+            "text": "Ah, well, actually, just looking at my computer here,",
+            "items": [
+                "Ah,",
+                "well,",
+                "actually,",
+                "just",
+                "looking",
+                "at",
+                "my",
+                "computer",
+                "here,"
+            ]
+        },
+        {
+            "id": "df4e5ac943464fbb88fb23996af405c7",
+            "text": "on the date that you want to fly into Alice Springs,",
+            "items": [
+                "on",
+                "the",
+                "date",
+                "that",
+                "you",
+                "want",
+                "to",
+                "fly",
+                "into",
+                "Alice",
+                "Springs,"
+            ]
+        },
+        {
+            "id": "99259e0e9db4499499c27dc6e476d516",
+            "text": "there is no standard accommodation available. It's fully booked, I'm afraid.",
+            "items": [
+                "there",
+                "is",
+                "no",
+                "standard",
+                "accommodation",
+                "available.",
+                "It's",
+                "fully",
+                "booked,",
+                "I'm",
+                "afraid."
+            ]
+        },
+        {
+            "id": "6da89db0a2544f928d8ae1948d1c6fb4",
+            "text": "That's OK.",
+            "items": [
+                "That's",
+                "OK."
+            ]
+        },
+        {
+            "id": "49e52a060dc5492ca0ac258d604fa6bc",
+            "text": "We think that the cheapest one should be fine for us.",
+            "items": [
+                "We",
+                "think",
+                "that",
+                "the",
+                "cheapest",
+                "one",
+                "should",
+                "be",
+                "fine",
+                "for",
+                "us."
+            ]
+        },
+        {
+            "id": "81b2a3b480644c7c89eec3c0a6d1d933",
+            "text": "We don't mind roughing it for a few days and we don't expect to be spending much time at our accommodations.",
+            "items": [
+                "We",
+                "don't",
+                "mind",
+                "roughing",
+                "it",
+                "for",
+                "a",
+                "few",
+                "days",
+                "and",
+                "we",
+                "don't",
+                "expect",
+                "to",
+                "be",
+                "spending",
+                "much",
+                "time",
+                "at",
+                "our",
+                "accommodations."
+            ]
+        },
+        {
+            "id": "6602ffb5504742acad91f6d8a1d49f8e",
+            "text": "We prefer the outdoors.",
+            "items": [
+                "We",
+                "prefer",
+                "the",
+                "outdoors."
+            ]
+        },
+        {
+            "id": "02322b70dec94363aebb21136adb3e56",
+            "text": "Right. Let's look at the room options.",
+            "items": [
+                "Right.",
+                "Let's",
+                "look",
+                "at",
+                "the",
+                "room",
+                "options."
+            ]
+        },
+        {
+            "id": "8e5df83836b4448b808f9a4d54c89dd1",
+            "text": "First of all, would you prefer a non-smoking room?",
+            "items": [
+                "First",
+                "of",
+                "all,",
+                "would",
+                "you",
+                "prefer",
+                "a",
+                [
+                    "non-smoking",
+                    "non smoking"
+                ],
+                "room?"
+            ]
+        },
+        {
+            "id": "21b8e7d371d3401a97273419220bd1b8",
+            "text": "Yes. Neither of us smokes.",
+            "items": [
+                "Yes.",
+                "Neither",
+                "of",
+                "us",
+                "smokes."
+            ]
+        },
+        {
+            "id": "0234cf478215419b9f7cff7c90f02420",
+            "text": "OK.",
+            "items": [
+                "OK."
+            ]
+        },
+        {
+            "id": "82bc1a16344048199c877cb27417e348",
+            "text": "Oh, before I forget,",
+            "items": [
+                "Oh,",
+                "before",
+                "I",
+                "forget,"
+            ]
+        },
+        {
+            "id": "d7ce921c68ad4083a7c0a795e93c4cb5",
+            "text": "could you book everything in my husband's name, please?",
+            "items": [
+                "could",
+                "you",
+                "book",
+                "everything",
+                "in",
+                "my",
+                "husband's",
+                "name,",
+                "please?"
+            ]
+        },
+        {
+            "id": "78e05d54fbb146038f9e12ec7e8433f3",
+            "text": "Yes, of course. Are you paying by credit card?",
+            "items": [
+                "Yes,",
+                "of",
+                "course.",
+                "Are",
+                "you",
+                "paying",
+                "by",
+                "credit",
+                "card?"
+            ]
+        },
+        {
+            "id": "96769c57f69c400bbfc8efeca500d3f0",
+            "text": "Yes.",
+            "items": [
+                "Yes."
+            ]
+        },
+        {
+            "id": "b2cb7ca60a7645d58ad1692182df92f3",
+            "text": "In that case, I'll need your husband's name exactly as it appears on the card.",
+            "items": [
+                "In",
+                "that",
+                "case,",
+                "I'll",
+                "need",
+                "your",
+                "husband's",
+                "name",
+                "exactly",
+                "as",
+                "it",
+                "appears",
+                "on",
+                "the",
+                "card."
+            ]
+        },
+        {
+            "id": "077d1f96f2d648a29e2b2dd47f2b3613",
+            "text": "Of course. It's John A. Smyth.",
+            "items": [
+                "Of",
+                "course.",
+                "It's",
+                "John",
+                "A.",
+                "Smyth."
+            ]
+        },
+        {
+            "id": "f9c33af8cc9d450eb40550ac12877801",
+            "text": "That's Smyth with a \"Y\".",
+            "items": [
+                "That's",
+                "Smyth",
+                "with",
+                "a",
+                "\"Y\"."
+            ]
+        },
+        {
+            "id": "e7abae9dd80740eb8b31b271d29b33e8",
+            "text": "John... middle initial \"A\"...",
+            "items": [
+                "John...",
+                "middle",
+                "initial",
+                "\"A\"..."
+            ]
+        },
+        {
+            "id": "cbce4c6e60554d949d95c1c436adf6ab",
+            "text": "surname Smyth, S-M-Y-T-H.",
+            "items": [
+                "surname",
+                "Smyth,",
+                [
+                    "S-M-Y-T-H.",
+                    "S M Y T H."
+                ]
+            ]
+        },
+        {
+            "id": "c509fcf308b843008eec89c9595c410c",
+            "text": "Is that correct?",
+            "items": [
+                "Is",
+                "that",
+                "correct?"
+            ]
+        },
+        {
+            "id": "7b19ada73a574a6c8894b8ddb91e250c",
+            "text": "Correct.",
+            "items": [
+                "Correct."
+            ]
+        },
+        {
+            "id": "9ea84368ab8e4ad6ab38841a38cf6e0a",
+            "text": "Thank you. I'll just check the price.",
+            "items": [
+                "Thank",
+                "you.",
+                "I'll",
+                "just",
+                "check",
+                "the",
+                "price."
+            ]
+        },
+        {
+            "id": "647258fe7bc4434492a5972a3cb732ef",
+            "text": "The room will cost $100 a night plus $10 tax,",
+            "items": [
+                "The",
+                "room",
+                "will",
+                "cost",
+                [
+                    "$100",
+                    "100 dollars",
+                    "a hundred dollars"
+                ],
+                "a",
+                "night",
+                "plus",
+                [
+                    "$10",
+                    "10 dollars",
+                    "ten dollars"
+                ],
+                "tax,"
+            ]
+        },
+        {
+            "id": "268c72b276344c88b96b3c8b09c1a571",
+            "text": "so $110 per night in total.",
+            "items": [
+                "so",
+                [
+                    "$110",
+                    "110 dollars"
+                ],
+                "per",
+                "night",
+                "in",
+                "total."
+            ]
+        },
+        {
+            "id": "f9e2f896dac54446baeff61cc85e960f",
+            "text": "Is that OK?",
+            "items": [
+                "Is",
+                "that",
+                "OK?"
+            ]
+        },
+        {
+            "id": "d9bde0e8d638420c8eea21938c1bf9f6",
+            "text": "Yes, that's fine. Book us for three nights, please.",
+            "items": [
+                "Yes,",
+                "that's",
+                "fine.",
+                "Book",
+                "us",
+                "for",
+                [
+                    "three",
+                    "3"
+                ],
+                "nights,",
+                "please."
+            ]
+        },
+        {
+            "id": "a8be075adf4f484c9047dd6cbd5ace21",
+            "text": "Most of the guests like to participate in some special activities and trips while they're staying in the Outback.",
+            "items": [
+                "Most",
+                "of",
+                "the",
+                "guests",
+                "like",
+                "to",
+                "participate",
+                "in",
+                "some",
+                "special",
+                "activities",
+                "and",
+                "trips",
+                "while",
+                [
+                    "they're",
+                    "they are"
+                ],
+                "staying",
+                "in",
+                "the",
+                "Outback."
+            ]
+        },
+        {
+            "id": "f9bda716baf249d0af659b58f6793c7e",
+            "text": "Is there anything that interests you and your husband?",
+            "items": [
+                "Is",
+                "there",
+                "anything",
+                "that",
+                "interests",
+                "you",
+                "and",
+                "your",
+                "husband?"
+            ]
+        },
+        {
+            "id": "b73235d022fb4045a67dc8d0c8045f89",
+            "text": "Yes, there are several things we'd like to see and do.",
+            "items": [
+                "Yes,",
+                "there",
+                "are",
+                "several",
+                "things",
+                "we'd",
+                "like",
+                "to",
+                "see",
+                "and",
+                "do."
+            ]
+        },
+        {
+            "id": "4d42acd97e184b08b1432c14b66afc25",
+            "text": "We'd definitely like to visit the Cultural Centre.",
+            "items": [
+                "We'd",
+                "definitely",
+                "like",
+                "to",
+                "visit",
+                "the",
+                "Cultural",
+                [
+                    "Centre.",
+                    "Center"
+                ]
+            ]
+        },
+        {
+            "id": "d24fcb9597b44e7d9a72f240e4b2816d",
+            "text": "Yes, that's very popular.",
+            "items": [
+                "Yes,",
+                "that's",
+                "very",
+                "popular."
+            ]
+        },
+        {
+            "id": "bfec0c6eed8549958a2201e3f4cf46ea",
+            "text": "It's within walking distance of the accommodation and it's free.",
+            "items": [
+                "It's",
+                "within",
+                "walking",
+                "distance",
+                "of",
+                "the",
+                "accommodation",
+                "and",
+                "it's",
+                "free."
+            ]
+        },
+        {
+            "id": "a8dc6ce495cb4969a21729840966d581",
+            "text": "It's also a great place to pick up souvenirs of your trip.",
+            "items": [
+                "It's",
+                "also",
+                "a",
+                "great",
+                "place",
+                "to",
+                "pick",
+                "up",
+                "souvenirs",
+                "of",
+                "your",
+                "trip."
+            ]
+        },
+        {
+            "id": "6f450cd6b7c743b1a8466726e105ac5d",
+            "text": "We were thinking about visiting one of the nearby farms.",
+            "items": [
+                "We",
+                "were",
+                "thinking",
+                "about",
+                "visiting",
+                [
+                    "one",
+                    "1"
+                ],
+                "of",
+                "the",
+                "nearby",
+                "farms."
+            ]
+        },
+        {
+            "id": "47fe60429a8b4e0fa0eb8b1d33ef2041",
+            "text": "There are two farms nearby - a sheep farm and a kangaroo farm.",
+            "items": [
+                "There",
+                "are",
+                [
+                    "two",
+                    "2"
+                ],
+                "farms",
+                "nearby",
+                "-",
+                "a",
+                "sheep",
+                "farm",
+                "and",
+                "a",
+                "kangaroo",
+                "farm."
+            ]
+        },
+        {
+            "id": "20f1d67ed1704a19a33c9a43c5cb85af",
+            "text": "There is also an opportunity to ride camels in the desert.",
+            "items": [
+                "There",
+                "is",
+                "also",
+                "an",
+                "opportunity",
+                "to",
+                "ride",
+                "camels",
+                "in",
+                "the",
+                "desert."
+            ]
+        },
+        {
+            "id": "b1ac8ca554ae44d98d3ef606d5ed4c39",
+            "text": "Have you ridden a camel before?",
+            "items": [
+                "Have",
+                "you",
+                "ridden",
+                "a",
+                "camel",
+                "before?"
+            ]
+        },
+        {
+            "id": "1e9432c69a9f4eadbc36234b7ed426c6",
+            "text": "No, but it sounds like fun.",
+            "items": [
+                "No,",
+                "but",
+                "it",
+                "sounds",
+                "like",
+                "fun."
+            ]
+        },
+        {
+            "id": "2bb1211863784691a510a36f6371922a",
+            "text": "Could you give me some more details about the kangaroo farm and the camel ride?",
+            "items": [
+                "Could",
+                "you",
+                "give",
+                "me",
+                "some",
+                "more",
+                "details",
+                "about",
+                "the",
+                "kangaroo",
+                "farm",
+                "and",
+                "the",
+                "camel",
+                "ride?"
+            ]
+        },
+        {
+            "id": "39059f751a3d4dcb82da2464c31d4c0f",
+            "text": "Certainly.",
+            "items": [
+                "Certainly."
+            ]
+        },
+        {
+            "id": "e4911bb6e2f147728ab5390eb26627f1",
+            "text": "The kangaroo farm includes information on how the animals are raised",
+            "items": [
+                "The",
+                "kangaroo",
+                "farm",
+                "includes",
+                "information",
+                "on",
+                "how",
+                "the",
+                "animals",
+                "are",
+                "raised"
+            ]
+        },
+        {
+            "id": "487b2542a6f545a1bd4a3b44dc986fe5",
+            "text": "whilst the camel ride provides information on desert flora and fauna.",
+            "items": [
+                "whilst",
+                "the",
+                "camel",
+                "ride",
+                "provides",
+                "information",
+                "on",
+                "desert",
+                "flora",
+                "and",
+                "fauna."
+            ]
+        },
+        {
+            "id": "5746f9668fba4d9294e40adf6fa46f0f",
+            "text": "Which would you prefer?",
+            "items": [
+                "Which",
+                "would",
+                "you",
+                "prefer?"
+            ]
+        },
+        {
+            "id": "1acc571239404053a19f15b0fef255b9",
+            "text": "You can arrange to see the kangaroos in the wild if you like, rather than on a farm.",
+            "items": [
+                "You",
+                "can",
+                "arrange",
+                "to",
+                "see",
+                "the",
+                "kangaroos",
+                "in",
+                "the",
+                "wild",
+                "if",
+                [
+                    "you",
+                    "you'd"
+                ],
+                "like,",
+                "rather",
+                "than",
+                "on",
+                "a",
+                "farm."
+            ]
+        },
+        {
+            "id": "94e426c049ab4a6882ca8e1d350fd7b6",
+            "text": "That sounds perfect.",
+            "items": [
+                "That",
+                "sounds",
+                "perfect."
+            ]
+        },
+        {
+            "id": "d8819fe7cee44ea48c121fd3bdbe63e9",
+            "text": "OK, we'll go on the camel ride and see the kangaroos in their natural habitat.",
+            "items": [
+                "OK,",
+                "we'll",
+                "go",
+                "on",
+                "the",
+                "camel",
+                "ride",
+                "and",
+                "see",
+                "the",
+                "kangaroos",
+                "in",
+                "their",
+                "natural",
+                "habitat."
+            ]
+        },
+        {
+            "id": "082ff81fa52143fda6945b42de1318ef",
+            "text": "OK. I'll arrange that for you.",
+            "items": [
+                "OK.",
+                "I'll",
+                "arrange",
+                "that",
+                "for",
+                "you."
+            ]
+        },
+        {
+            "id": "c9fc2f65f4604cd895bc0c217ec80cbe",
+            "text": "I forgot to mention that the journey also includes a stop at a place of aboriginal artwork.",
+            "items": [
+                "I",
+                "forgot",
+                "to",
+                "mention",
+                "that",
+                "the",
+                "journey",
+                "also",
+                "includes",
+                "a",
+                "stop",
+                "at",
+                "a",
+                "place",
+                "of",
+                "aboriginal",
+                "artwork."
+            ]
+        },
+        {
+            "id": "794144b291ef4c3290cbee783f04c411",
+            "text": "It's a place well-known for its stone carvings of animals and mythical creatures.",
+            "items": [
+                "It's",
+                "a",
+                "place",
+                [
+                    "well-known",
+                    "well known"
+                ],
+                "for",
+                "its",
+                "stone",
+                "carvings",
+                "of",
+                "animals",
+                "and",
+                "mythical",
+                "creatures."
+            ]
+        },
+        {
+            "id": "255c6264b02040fb85b4cf2d9bbd0749",
+            "text": "That sounds great!",
+            "items": [
+                "That",
+                "sounds",
+                "great!"
+            ]
+        },
+        {
+            "id": "8d2458858fbf4e4e92a5deb6226282a3",
+            "text": "Are the carvings in the desert?",
+            "items": [
+                "Are",
+                "the",
+                "carvings",
+                "in",
+                "the",
+                "desert?"
+            ]
+        },
+        {
+            "id": "df65044a4e7f488a93d967aa8919386d",
+            "text": "Yes.",
+            "items": [
+                "Yes."
+            ]
+        },
+        {
+            "id": "4f3ad6d56a6b420aacc1638ac4ed1c8d",
+            "text": "Wonderful!",
+            "items": [
+                "Wonderful!"
+            ]
+        },
+        {
+            "id": "820f6ced6c6a4e60b255a2ed99e5f8aa",
+            "text": "Well, that's perfect then. I'm sure you'll have a lovely trip,",
+            "items": [
+                "Well,",
+                "that's",
+                "perfect",
+                "then.",
+                "I'm",
+                "sure",
+                "you'll",
+                "have",
+                "a",
+                "lovely",
+                "trip,"
+            ]
+        },
+        {
+            "id": "a845c1c68d034a80b79d44181ece1a10",
+            "text": "but remember that you need to take care in the sun.",
+            "items": [
+                "but",
+                "remember",
+                "that",
+                "you",
+                "need",
+                "to",
+                "take",
+                "care",
+                "in",
+                "the",
+                "sun."
+            ]
+        },
+        {
+            "id": "6c72ed5150e8456b972fe8ce7b9ce7a6",
+            "text": "Yes. We're really looking forward to our trip.",
+            "items": [
+                "Yes.",
+                "We're",
+                "really",
+                "looking",
+                "forward",
+                "to",
+                "our",
+                "trip."
+            ]
+        },
+        {
+            "id": "4b622926ce29463a8f5b41048639033d",
+            "text": "We really want to try to experience the Dreamtime under the stars.",
+            "items": [
+                "We",
+                "really",
+                "want",
+                "to",
+                "try",
+                "to",
+                "experience",
+                "the",
+                "Dreamtime",
+                "under",
+                "the",
+                "stars."
+            ]
+        },
+        {
+            "id": "a913bf0ef78344a79c12496b5d5c6fcd",
+            "text": "Of course. That's what a trip to the Outback is really all about.",
+            "items": [
+                "Of",
+                "course.",
+                "That's",
+                "what",
+                "a",
+                "trip",
+                "to",
+                "the",
+                "Outback",
+                "is",
+                "really",
+                "all",
+                "about."
+            ]
+        },
+        {
+            "id": "259b0d421f2d41a7b7ddbe1fd81b97e4",
+            "text": "Yes.",
+            "items": [
+                "Yes."
+            ]
+        },
+        {
+            "id": "c921dffc10a5466d87031d219c47addc",
+            "text": "Now, how about the cost...",
+            "items": [
+                "Now,",
+                "how",
+                "about",
+                "the",
+                "cost..."
+            ]
+        }
+    ]
+}

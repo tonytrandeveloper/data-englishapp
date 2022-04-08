@@ -1,0 +1,128 @@
+{
+    "id": "61f0d5757bcf482181413e0d32e99732",
+    "title": "A New Dress",
+    "questions": [
+        {
+            "id": "ccedf06e13894103b40928f24376d7b0",
+            "text": "Who is it?",
+            "items": [
+                "Who",
+                "is",
+                "it?"
+            ]
+        },
+        {
+            "id": "879277c5db65464ab77313303b16f012",
+            "text": "It's me, dear.",
+            "items": [
+                "It's",
+                "me,",
+                "dear."
+            ]
+        },
+        {
+            "id": "f223e0feda0445bf917b1270a60c272a",
+            "text": "Don't you have your key?",
+            "items": [
+                "Don't",
+                "you",
+                "have",
+                "your",
+                "key?"
+            ]
+        },
+        {
+            "id": "205395ab6a0e44deb8d9ff44671b3fd8",
+            "text": "No, let me in!",
+            "items": [
+                "No,",
+                "let",
+                "me",
+                "in!"
+            ]
+        },
+        {
+            "id": "9d5407a7c41d40fbb6a2c639bfff6de0",
+            "text": "What's in that box? What did you get?",
+            "items": [
+                "What's",
+                "in",
+                "that",
+                "box?",
+                "What",
+                "did",
+                "you",
+                "get?"
+            ]
+        },
+        {
+            "id": "3a775d7c0c5b44d59a9e7f8503709bf5",
+            "text": "A new dress, honey.",
+            "items": [
+                "A",
+                "new",
+                "dress,",
+                "honey."
+            ]
+        },
+        {
+            "id": "fb37566b9cd241849f4a7ff2e3428720",
+            "text": "But you have a closet full of dresses.",
+            "items": [
+                "But",
+                "you",
+                "have",
+                "a",
+                "closet",
+                "full",
+                "of",
+                "dresses."
+            ]
+        },
+        {
+            "id": "6886be582d794cfa8d03e2ebba10d6cd",
+            "text": "I know, but I need a new one.",
+            "items": [
+                "I",
+                "know,",
+                "but",
+                "I",
+                "need",
+                "a",
+                "new",
+                [
+                    "one.",
+                    "i,",
+                    "1"
+                ]
+            ]
+        },
+        {
+            "id": "1400e499af6f430c8278a0b956c77380",
+            "text": "What's wrong with all the other dresses?",
+            "items": [
+                "What's",
+                "wrong",
+                "with",
+                "all",
+                "the",
+                "other",
+                "dresses?"
+            ]
+        },
+        {
+            "id": "78db0f8820e140c8b43cfd0d85dec9fb",
+            "text": "They're not this one!",
+            "items": [
+                "They're",
+                "not",
+                "this",
+                [
+                    "one!",
+                    "i,",
+                    "1"
+                ]
+            ]
+        }
+    ]
+}

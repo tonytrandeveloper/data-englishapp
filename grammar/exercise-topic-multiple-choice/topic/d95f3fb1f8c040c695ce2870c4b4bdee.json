@@ -1,0 +1,761 @@
+{
+    "id": "d95f3fb1f8c040c695ce2870c4b4bdee",
+    "title": "Sentence correction exercise",
+    "exercises": [
+        {
+            "id": "a829ab6ac2dd4826a69096f3d8ebf66b",
+            "title": "Sentence Correction Exercise",
+            "questions": [
+                {
+                    "question": "Despite of having a headache, I enjoyed the movie.",
+                    "description": "Write despite or in spite of.",
+                    "answers": [
+                        "of",
+                        "having",
+                        "a"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "If you will happen to see Jane, ask her to phone me.",
+                    "description": "The correct sentence is: If you happen to see Jane, ask her to phone me.",
+                    "answers": [
+                        "will",
+                        "happen",
+                        "to"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Broadly to speaking, teachers are overworked and underpaid.",
+                    "description": "The correct expression is broadly speaking.",
+                    "answers": [
+                        "broadly",
+                        "to"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Sometimes people often behave strangely when they are abroad.",
+                    "description": "Often and sometimes are both adverbs of frequency. Use only one of them in a clause.",
+                    "answers": [
+                        "sometimes",
+                        "often",
+                        "when",
+                        "Either sometimes or often"
+                    ],
+                    "correct": 3
+                },
+                {
+                    "question": "Although I admit that junk food is bad for health, but I don’t think that it should be banned.",
+                    "description": "The conjunctions although and but mean the same. Use only one of them in a clause.",
+                    "answers": [
+                        "although",
+                        "that",
+                        "but",
+                        "Either although or but"
+                    ],
+                    "correct": 3
+                },
+                {
+                    "question": "Since the day was very hot therefore I didn’t go out.",
+                    "description": "The word since is used to give the reason and therefore is used to show the effect/result. Use only one of them in a sentence.",
+                    "answers": [
+                        "since",
+                        "very",
+                        "therefore"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "Because she wanted to win the first prize so she worked hard.",
+                    "description": "We need only one conjunction to connect two clauses. ",
+                    "answers": [
+                        "because",
+                        "so",
+                        "Either because or so"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "He is a man who dare to say what he thinks.",
+                    "description": "When dare is used as a modal auxiliary it is followed by an infinitive without to.",
+                    "answers": [
+                        "who",
+                        "dare",
+                        "to"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "She is richer than compared to ninety percent of her neighbors.",
+                    "description": "Richer than is enough to express this idea.",
+                    "answers": [
+                        "than",
+                        "compared to",
+                        "of"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "You need not to pay for that call.",
+                    "description": "When need is used as a modal auxiliary, it is followed by an infinitive without to.",
+                    "answers": [
+                        "not",
+                        "to",
+                        "for"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "I can’t make the dish washer to work.",
+                    "description": "Make + object is followed by an infinitive without to.",
+                    "answers": [
+                        "make",
+                        "the",
+                        "to"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "Most things seem to be made of from plastic these days.",
+                    "description": "We use made of when we identify the material used to make something.",
+                    "answers": [
+                        "most",
+                        "of",
+                        "from"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "id": "7e8980b2b3d94e22aba486bdeb92bf39",
+            "title": "Sentence Correction Exercise",
+            "questions": [
+                {
+                    "question": "He went to work despite of his illness.",
+                    "description": "Despite is the preposition. It does not take of after it. ",
+                    "answers": [
+                        "to",
+                        "despite",
+                        "of"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "Raju, who he is my best friend, is a writer.",
+                    "description": "The relative pronoun acts as the subject or object of the relative clause. It replaces words like he, him, they, them etc. It is, therefore, wrong to repeat the pronoun in the relative clause. ",
+                    "answers": [
+                        "who",
+                        "best",
+                        "he"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "No matter what that I do, I can't make her happy.",
+                    "description": "",
+                    "answers": [
+                        "what",
+                        "that",
+                        "make"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "She is busy at the work and won't be home before",
+                    "description": "The correct expression is 'at work'.",
+                    "answers": [
+                        "at",
+                        "the",
+                        "be"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "I have decided to quit my job a week ago.",
+                    "description": "We do not use the present perfect tense with past time expressions like ago. ",
+                    "answers": [
+                        "have",
+                        "to",
+                        "a"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "You should complain of if you are not happy with the service you receive.",
+                    "description": "The preposition of is not required here. ",
+                    "answers": [
+                        "of",
+                        "if",
+                        "with"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "You had better not to wake him up when get home.",
+                    "description": "Had better is followed by an infinitive without to. ",
+                    "answers": [
+                        "had",
+                        "not",
+                        "to"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "You should tell to me exactly what happened there.",
+                    "description": "There is no preposition between tell and its object. ",
+                    "answers": [
+                        "should",
+                        "to",
+                        "what"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "He is clever but he lacks of experience.",
+                    "description": "The verb lack is followed by direct objects without prepositions. ",
+                    "answers": [
+                        "but",
+                        "of",
+                        "is"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "She does not resemble to either of her parents.",
+                    "description": "Resemble is followed by direct objects without prepositions. ",
+                    "answers": [
+                        "does",
+                        "to",
+                        "of"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "I have written to every my friend I have.",
+                    "description": "Every cannot be used with possessive adjectives. ",
+                    "answers": [
+                        "to",
+                        "every",
+                        "my"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "I don't speak of either French or German.",
+                    "description": "",
+                    "answers": [
+                        "speak",
+                        "of",
+                        "either"
+                    ],
+                    "correct": 1
+                }
+            ]
+        },
+        {
+            "id": "dc94577865db45f98877ea3b2ebdf972",
+            "title": "Sentence Correction Exercise",
+            "questions": [
+                {
+                    "question": "The old woman grew stronger ....................... began to move about.",
+                    "description": "",
+                    "answers": [
+                        "and",
+                        "but",
+                        "or"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "He had been walking for ..................... three miles.",
+                    "description": "",
+                    "answers": [
+                        "near",
+                        "nearly"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Do ....................... to our house.",
+                    "description": "",
+                    "answers": [
+                        "come",
+                        "came"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "He returned last year and we .................. quite happy to see him again.",
+                    "description": "",
+                    "answers": [
+                        "are",
+                        "were"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Here is a ..................... of wisdom.",
+                    "description": "",
+                    "answers": [
+                        "peace",
+                        "piece"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "I have ...................... a beautiful dress for you.",
+                    "description": "",
+                    "answers": [
+                        "choosen",
+                        "chose",
+                        "chosen"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "They ..................... an area where the harvest had failed.",
+                    "description": "",
+                    "answers": [
+                        "reached to",
+                        "reached",
+                        "reached at"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "...................... a beautiful picture it is!",
+                    "description": "",
+                    "answers": [
+                        "What",
+                        "How"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "The man ....................... his wife to look after their children.",
+                    "description": "",
+                    "answers": [
+                        "told",
+                        "told to"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "I have so ...................... to do.",
+                    "description": "",
+                    "answers": [
+                        "many work",
+                        "many works",
+                        "much work"
+                    ],
+                    "correct": 2
+                }
+            ]
+        },
+        {
+            "id": "f3799fbc1e624a6697ba57b38d8f3ac5",
+            "title": "Sentence Completion Exercise",
+            "questions": [
+                {
+                    "question": "The doctor suggested ........................................ take a vacation.",
+                    "description": "",
+                    "answers": [
+                        "the patient to",
+                        "that the patient should",
+                        "that the patient to"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Learning ........................................... isn’t easy.",
+                    "description": "",
+                    "answers": [
+                        "French",
+                        "the French"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "I need .............................................. sleep.",
+                    "description": "",
+                    "answers": [
+                        "good",
+                        "a good"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "We had ............................................. time on the top of the mountain.",
+                    "description": "",
+                    "answers": [
+                        "great",
+                        "a great"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "I am going to the hospital to see a friend who has undergone .......................................... operation.",
+                    "description": "",
+                    "answers": [
+                        "the",
+                        "an",
+                        "Either could be used here"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "The more you read the ........................................... you understand.",
+                    "description": "",
+                    "answers": [
+                        "less",
+                        "lesser"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "On the way home, I saw an old beggar accompanied ............................................ a child.",
+                    "description": "",
+                    "answers": [
+                        "by",
+                        "with"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Will you please .................................................. me a copy of ‘The Old Man and the Sea’?",
+                    "description": "",
+                    "answers": [
+                        "lend",
+                        "borrow"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "The man who knocked ............................................. the door was a stranger.",
+                    "description": "",
+                    "answers": [
+                        "on",
+                        "at"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "What is the difference .............................................. these cars?",
+                    "description": "",
+                    "answers": [
+                        "between",
+                        "among"
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "id": "f10baa6901424d6587c36446a650ed51",
+            "title": "Sentence Completion Exercise",
+            "questions": [
+                {
+                    "question": "To hit a person when he is down is a contemptuous thing to ................................",
+                    "description": "",
+                    "answers": [
+                        "do",
+                        "be done",
+                        "done"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "In 1665, a great epidemic ............................................. the death of 63,000 people in London.",
+                    "description": "",
+                    "answers": [
+                        "caused",
+                        "has caused",
+                        "had caused"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "..................................... his lack of interest in the affairs of the society, the members decided to depose him.",
+                    "description": "",
+                    "answers": [
+                        "Because",
+                        "Because of",
+                        "Despite"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "The boy ...................................... thousands of foreign stamps since",
+                    "description": "",
+                    "answers": [
+                        "has collected",
+                        "is collecting",
+                        "collected"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "We watched the airplane until it disappeared ....................................... the clouds.",
+                    "description": "",
+                    "answers": [
+                        "in",
+                        "by",
+                        "on"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "According to activists, action ......................................... long ago to preserve forests.",
+                    "description": "",
+                    "answers": [
+                        "must take",
+                        "must be taken",
+                        "must have been taken"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "When Sophia said that she was coming to see me I wondered what .......................................",
+                    "description": "",
+                    "answers": [
+                        "the problem was",
+                        "was the problem"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "The doctor suggested that I .......................................... walk on and try to get help while he stayed with the injured person.",
+                    "description": "",
+                    "answers": [
+                        "would",
+                        "should"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Jack told his sister that he .......................................... her help in solving the problem.",
+                    "description": "",
+                    "answers": [
+                        "wants",
+                        "wanted"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "The judge paid no attention ......................................... the boy was unhappy at home.",
+                    "description": "",
+                    "answers": [
+                        "that",
+                        "to the fact that"
+                    ],
+                    "correct": 1
+                }
+            ]
+        },
+        {
+            "id": "525f232594e24d7f8a7f569bd6504485",
+            "title": "Sentence Completion Exercise",
+            "questions": [
+                {
+                    "question": "I think ................................... time to call it quits.",
+                    "description": "",
+                    "answers": [
+                        "it's",
+                        "its"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "How ............................... do you speak English?",
+                    "description": "",
+                    "answers": [
+                        "good",
+                        "well"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "I like that teacher. She is ................................",
+                    "description": "",
+                    "answers": [
+                        "good",
+                        "well"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "She speaks ..................................... French.",
+                    "description": "",
+                    "answers": [
+                        "good",
+                        "well"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "She has got longer hair ................................ I have.",
+                    "description": "",
+                    "answers": [
+                        "than",
+                        "then"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "He attributed the failure of the project to .................................... lack of appeal to the masses.",
+                    "description": "",
+                    "answers": [
+                        "it's",
+                        "its"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "................................. is a bridge across the river.",
+                    "description": "",
+                    "answers": [
+                        "Their",
+                        "There"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "They sent more food .................................. I had ordered.",
+                    "description": "",
+                    "answers": [
+                        "than",
+                        "then"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Do you know anybody ................................... going to London in the next few weeks?",
+                    "description": "",
+                    "answers": [
+                        "whose",
+                        "who's"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "................................... coat is this?",
+                    "description": "",
+                    "answers": [
+                        "Whose",
+                        "Who's"
+                    ],
+                    "correct": 0
+                }
+            ]
+        },
+        {
+            "id": "2520617f677a4fb3af8546cf618b6971",
+            "title": "Gap Fills Exercise",
+            "questions": [
+                {
+                    "question": "I ............................... to Africa recently.",
+                    "description": "",
+                    "answers": [
+                        "went",
+                        "have been",
+                        "had been"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "I .................................. a letter to him last week.",
+                    "description": "",
+                    "answers": [
+                        "wrote",
+                        "have written",
+                        "write"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "I ............................... him last week.",
+                    "description": "",
+                    "answers": [
+                        "saw",
+                        "have seen",
+                        "has seen"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "I will call you when I .................................. the work.",
+                    "description": "",
+                    "answers": [
+                        "finish",
+                        "will finish",
+                        "would finish"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Before he ....................................... to the US, he had finished his studies.",
+                    "description": "",
+                    "answers": [
+                        "went",
+                        "has gone",
+                        "had gone"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "He said that he .................................... since morning.",
+                    "description": "",
+                    "answers": [
+                        "has been gardening",
+                        "was gardening",
+                        "had been gardening"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "The man complained that his mobile phone .....................................",
+                    "description": "",
+                    "answers": [
+                        "had stolen",
+                        "has stolen",
+                        "had been stolen"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "The doctor concluded that the patient ............................... twelve hours of ago.",
+                    "description": "",
+                    "answers": [
+                        "has been killed",
+                        "had been killed",
+                        "was killed"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "By this time next year, he ............................... the construction of his house.",
+                    "description": "",
+                    "answers": [
+                        "will complete",
+                        "will have completed",
+                        "would complete"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "That child ................................... suffering from fever since last week.",
+                    "description": "",
+                    "answers": [
+                        "is",
+                        "has been",
+                        "was"
+                    ],
+                    "correct": 1
+                }
+            ]
+        }
+    ]
+}

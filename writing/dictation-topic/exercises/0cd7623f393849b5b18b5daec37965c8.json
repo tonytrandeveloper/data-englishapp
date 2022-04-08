@@ -1,0 +1,302 @@
+{
+    "id": "0cd7623f393849b5b18b5daec37965c8",
+    "title": "Which direction?",
+    "questions": [
+        {
+            "id": "88c2a868439449bd831d880213a0dcd2",
+            "text": "Which direction should I go in?",
+            "items": [
+                "Which",
+                "direction",
+                "should",
+                "I",
+                "go",
+                "in?"
+            ]
+        },
+        {
+            "id": "9dce32a573344fe19d9465e4a407195d",
+            "text": "Should I go up?",
+            "items": [
+                "Should",
+                "I",
+                "go",
+                "up?"
+            ]
+        },
+        {
+            "id": "2109808a1461485f8cb2315a859e36ec",
+            "text": "If I go up, I will head toward the sky.",
+            "items": [
+                "If",
+                "I",
+                "go",
+                "up,",
+                "I",
+                "will",
+                "head",
+                "toward",
+                "the",
+                "sky."
+            ]
+        },
+        {
+            "id": "8af97d0b6a8a4081acf95c6629a9b109",
+            "text": "I can go up the stairs.",
+            "items": [
+                "I",
+                "can",
+                "go",
+                "up",
+                "the",
+                "stairs."
+            ]
+        },
+        {
+            "id": "721d5c165ad64079bbbaa6ac8ab78b05",
+            "text": "Should I go down?",
+            "items": [
+                "Should",
+                "I",
+                "go",
+                "down?"
+            ]
+        },
+        {
+            "id": "ad637398be3b4d1d8b74bfd970038965",
+            "text": "I can go down the stairs to the basement.",
+            "items": [
+                "I",
+                "can",
+                "go",
+                "down",
+                "the",
+                "stairs",
+                "to",
+                "the",
+                "basement."
+            ]
+        },
+        {
+            "id": "142d5156bbec4bc0b2689497222d565b",
+            "text": "I can climb down into a hole.",
+            "items": [
+                "I",
+                "can",
+                "climb",
+                "down",
+                "into",
+                "a",
+                "hole."
+            ]
+        },
+        {
+            "id": "817e0bd21e4648dea7184fd220b9efed",
+            "text": "Should I go left or right?",
+            "items": [
+                "Should",
+                "I",
+                "go",
+                "left",
+                "or",
+                "right?"
+            ]
+        },
+        {
+            "id": "f8b9a23b405642a9b087d21c4d0ee613",
+            "text": "I am right-handed, so I know which way right is.",
+            "items": [
+                "I",
+                "am",
+                [
+                    "right-handed,",
+                    "right handed,"
+                ],
+                "so",
+                "I",
+                "know",
+                "which",
+                "way",
+                "right",
+                "is."
+            ]
+        },
+        {
+            "id": "d3b5241c9d854d968eac044b76fedba9",
+            "text": "Should I go backwards?",
+            "items": [
+                "Should",
+                "I",
+                "go",
+                "backwards?"
+            ]
+        },
+        {
+            "id": "1bf0c9080dc84bfe853804519a3af970",
+            "text": "I would be going away from the things that I am facing now if I went backwards.",
+            "items": [
+                "I",
+                "would",
+                "be",
+                "going",
+                "away",
+                "from",
+                "the",
+                "things",
+                "that",
+                "I",
+                "am",
+                "facing",
+                "now",
+                "if",
+                "I",
+                "went",
+                "backwards."
+            ]
+        },
+        {
+            "id": "2b0b7c08da1e4e7781b0ea77644e7988",
+            "text": "If I went backwards from the thing that I am facing,",
+            "items": [
+                "If",
+                "I",
+                "went",
+                "backwards",
+                "from",
+                "the",
+                "thing",
+                "that",
+                "I",
+                "am",
+                "facing,"
+            ]
+        },
+        {
+            "id": "ccbfc9180ef041a09a1a0579bb072f94",
+            "text": "I would go away from it.",
+            "items": [
+                "I",
+                "would",
+                "go",
+                "away",
+                "from",
+                "it."
+            ]
+        },
+        {
+            "id": "8fa93f2107684c37855fc9447d16a9bc",
+            "text": "Should I go forward?",
+            "items": [
+                "Should",
+                "I",
+                "go",
+                "forward?"
+            ]
+        },
+        {
+            "id": "ff373e0374874114a963bcf854521909",
+            "text": "I will just go straight ahead if I go forward.",
+            "items": [
+                "I",
+                "will",
+                "just",
+                "go",
+                "straight",
+                "ahead",
+                "if",
+                "I",
+                "go",
+                "forward."
+            ]
+        },
+        {
+            "id": "4c62da08f52b4d1e88a7753b3afb85c0",
+            "text": "If I am facing something and I go forward,",
+            "items": [
+                "If",
+                "I",
+                "am",
+                "facing",
+                "something",
+                "and",
+                "I",
+                "go",
+                "forward,"
+            ]
+        },
+        {
+            "id": "e5bfb22105fe4209915b30cd05db7103",
+            "text": "then I will go toward the thing that I am facing.",
+            "items": [
+                "then",
+                "I",
+                "will",
+                "go",
+                "toward",
+                "the",
+                "thing",
+                "that",
+                "I",
+                "am",
+                "facing."
+            ]
+        },
+        {
+            "id": "eeb7bf2da9bf406dbe8e2911a44219d6",
+            "text": "Maybe I should go sideways,",
+            "items": [
+                "Maybe",
+                "I",
+                "should",
+                "go",
+                "sideways,"
+            ]
+        },
+        {
+            "id": "2c10f2e6c6c04a5f8fa99c19bf21e2bb",
+            "text": "but which side, left or right?",
+            "items": [
+                "but",
+                "which",
+                "side,",
+                "left",
+                "or",
+                "right?"
+            ]
+        },
+        {
+            "id": "8e6255fd661e46f7a89ab2ae23d2bd1c",
+            "text": "It sounds very complicated, but it is not.",
+            "items": [
+                "It",
+                "sounds",
+                "very",
+                "complicated,",
+                "but",
+                "it",
+                "is",
+                "not."
+            ]
+        },
+        {
+            "id": "d096d20b59fe4903a86c124655f0c596",
+            "text": "Directions are very easy to follow if you just stop and think about them.",
+            "items": [
+                "Directions",
+                "are",
+                "very",
+                "easy",
+                "to",
+                "follow",
+                "if",
+                "you",
+                "just",
+                "stop",
+                "and",
+                "think",
+                "about",
+                "them."
+            ]
+        }
+    ]
+}

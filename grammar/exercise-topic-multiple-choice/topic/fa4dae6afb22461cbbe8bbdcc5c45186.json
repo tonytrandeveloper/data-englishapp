@@ -1,0 +1,107 @@
+{
+    "id": "fa4dae6afb22461cbbe8bbdcc5c45186",
+    "title": "Proper nouns and common nouns",
+    "exercises": [
+        {
+            "id": "5f070cff14734b7093d594f598dc9b16",
+            "title": "Proper Nouns And Common Nouns",
+            "questions": [
+                {
+                    "question": "The boys were flying kites on the beach.",
+                    "description": "",
+                    "answers": [
+                        "Kites is a proper noun",
+                        "Kites is a common noun"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "There was an earthquake in Italy on Monday.",
+                    "description": "",
+                    "answers": [
+                        "Monday is a proper noun",
+                        "Monday is a common noun"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Radha bought a bicycle for her brother.",
+                    "description": "",
+                    "answers": [
+                        "Radha is a proper noun and bicycle is a common noun",
+                        "Radha is a common noun and bicycle is a proper noun",
+                        "Radha and bicycle are proper nouns"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "India is the seventh largest country in the world.",
+                    "description": "",
+                    "answers": [
+                        "India is a proper noun and world is a common noun",
+                        "India and world are common nouns",
+                        "India and country are proper nouns"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Jane, my sister, wants to be an air hostess.",
+                    "description": "",
+                    "answers": [
+                        "Jane is a proper noun and air hostess is a common noun",
+                        "Jane is a common noun and air hostess is a proper noun"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "I forgot my umbrella at home.",
+                    "description": "",
+                    "answers": [
+                        "Umbrella and home are proper nouns",
+                        "Umbrella and home are common nouns"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "America is one of the most developed countries in the world.",
+                    "description": "",
+                    "answers": [
+                        "America is a proper noun and countries is a common noun",
+                        "America and countries are common nouns",
+                        "America and countries are proper nouns"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Agra is on the banks of river Yamuna.",
+                    "description": "",
+                    "answers": [
+                        "Agra and Yamuna are proper nouns",
+                        "Agra and Yamuna are common nouns",
+                        "River is a proper noun and Agra is a common noun"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "The coach was angry when the boys lost the championship.",
+                    "description": "",
+                    "answers": [
+                        "Coach and boys are proper nouns",
+                        "Coach and boys are common nouns",
+                        "Coach is a proper noun and championship is a common noun"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Titanic is the name of the ship that sank on its maiden journey.",
+                    "description": "",
+                    "answers": [
+                        "Titanic is a proper noun and ship is a common noun",
+                        "Titanic is a common noun and ship is a proper noun"
+                    ],
+                    "correct": 0
+                }
+            ]
+        }
+    ]
+}

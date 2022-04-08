@@ -1,0 +1,1884 @@
+[
+    {
+        "id": "e9c7f95435b1420383ac67feed78eef1",
+        "word": "pray",
+        "pos": "verb",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/preɪ/",
+            "us": "/preɪ/"
+        },
+        "nearby": [
+            {
+                "word": "prawn cracker",
+                "pos": "noun"
+            },
+            {
+                "word": "praxis",
+                "pos": "noun"
+            },
+            {
+                "word": "pray",
+                "pos": "verb"
+            },
+            {
+                "word": "pray",
+                "pos": "adverb"
+            },
+            {
+                "word": "prayer",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to speak to God, especially to give thanks or ask for help",
+                    "vi": "để nói chuyện với Chúa, đặc biệt là để cảm tạ hoặc yêu cầu sự giúp đỡ"
+                },
+                "examples": [
+                    {
+                        "en": "They knelt down and prayed.",
+                        "vi": "Họ quỳ xuống và cầu nguyện."
+                    },
+                    {
+                        "en": "pray for somebody/something I'll pray for you.",
+                        "vi": "cầu nguyện cho ai đó / điều gì đó tôi sẽ cầu nguyện cho bạn."
+                    },
+                    {
+                        "en": "to pray for peace",
+                        "vi": "cầu nguyện cho hòa bình"
+                    },
+                    {
+                        "en": "pray to somebody for somebody/something She prayed to God for an end to her sufferings.",
+                        "vi": "cầu nguyện với ai đó cho ai đó / điều gì đó Cô ấy đã cầu nguyện với Chúa để chấm dứt những đau khổ của cô ấy."
+                    },
+                    {
+                        "en": "pray to somebody I prayed to the Lord and hoped for the best.",
+                        "vi": "cầu nguyện với ai đó Tôi đã cầu nguyện với Chúa và hy vọng những điều tốt đẹp nhất."
+                    },
+                    {
+                        "en": "pray (that)… We prayed (that) she would recover from her illness.",
+                        "vi": "cầu nguyện (điều đó)… Chúng tôi đã cầu nguyện (điều đó) cô ấy sẽ khỏi bệnh."
+                    },
+                    {
+                        "en": "pray to do something He prayed to be forgiven.",
+                        "vi": "cầu nguyện làm điều gì đó Ngài đã cầu nguyện để được tha thứ."
+                    },
+                    {
+                        "en": "+ speech ‘Please God don't let it happen,’ she prayed.",
+                        "vi": "Err:509"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to hope very much that something will happen",
+                    "vi": "hy vọng rất nhiều rằng điều gì đó sẽ xảy ra"
+                },
+                "examples": [
+                    {
+                        "en": "pray for something We're praying for good weather on Saturday.",
+                        "vi": "cầu nguyện cho điều gì đó Chúng tôi đang cầu nguyện cho thời tiết tốt vào thứ Bảy."
+                    },
+                    {
+                        "en": "pray (that)… I prayed that nobody would notice my mistake.",
+                        "vi": "cầu nguyện (điều đó)… Tôi đã cầu nguyện rằng không ai nhận ra sai lầm của tôi."
+                    },
+                    {
+                        "en": "She hoped and prayed that Jessie would be back the next day.",
+                        "vi": "Cô hy vọng và cầu nguyện rằng Jessie sẽ trở lại vào ngày hôm sau."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "d56492a80e304cb89915a1c5d7b08ff8",
+        "word": "prayer",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/preə(r)/",
+            "us": "/prer/"
+        },
+        "nearby": [
+            {
+                "word": "pray",
+                "pos": "verb"
+            },
+            {
+                "word": "pray",
+                "pos": "adverb"
+            },
+            {
+                "word": "prayer",
+                "pos": "noun"
+            },
+            {
+                "word": "prayer book",
+                "pos": "noun"
+            },
+            {
+                "word": "prayerful",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "words that you say to God giving thanks or asking for help",
+                    "vi": "những lời bạn nói với Chúa để tạ ơn hoặc cầu xin sự giúp đỡ"
+                },
+                "examples": [
+                    {
+                        "en": "to say your prayers",
+                        "vi": "nói lời cầu nguyện của bạn"
+                    },
+                    {
+                        "en": "prayer for somebody/something prayers for the sick",
+                        "vi": "lời cầu nguyện cho ai đó / lời cầu nguyện cho người bệnh"
+                    },
+                    {
+                        "en": "We offer our prayers for all those who have died in war.",
+                        "vi": "Chúng tôi cầu nguyện cho tất cả những người đã chết trong chiến tranh."
+                    },
+                    {
+                        "en": "He arrived at that very moment, as if in answer to her prayer.",
+                        "vi": "Anh đến đúng lúc đó, như thể đáp lại lời cầu nguyện của cô."
+                    },
+                    {
+                        "en": "Their prayers were answered and the child was found safe and well.",
+                        "vi": "Những lời cầu nguyện của họ đã được đáp lại và đứa trẻ đã được tìm thấy an toàn và khỏe mạnh."
+                    },
+                    {
+                        "en": "prayer to somebody/something She stopped saying nightly prayers to God.",
+                        "vi": "cầu nguyện với ai đó / điều gì đó Cô ấy đã ngừng nói những lời cầu nguyện hàng đêm với Chúa."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a fixed form of words that you can say when you speak to God",
+                    "vi": "một dạng từ cố định mà bạn có thể nói khi nói với Chúa"
+                },
+                "examples": [
+                    {
+                        "en": "It was a prayer she had learnt as a child.",
+                        "vi": "Đó là một lời cầu nguyện mà cô đã học khi còn nhỏ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the act or habit of praying",
+                    "vi": "hành động hoặc thói quen cầu nguyện"
+                },
+                "examples": [
+                    {
+                        "en": "in prayer They knelt in prayer.",
+                        "vi": "trong lời cầu nguyện Họ quỳ gối cầu nguyện."
+                    },
+                    {
+                        "en": "We believe in the power of prayer.",
+                        "vi": "Chúng tôi tin vào sức mạnh của lời cầu nguyện."
+                    },
+                    {
+                        "en": "They held a prayer vigil throughout the night.",
+                        "vi": "Họ đã tổ chức một buổi cầu nguyện suốt đêm."
+                    },
+                    {
+                        "en": "spiritual healing through prayer",
+                        "vi": "chữa lành tâm linh thông qua cầu nguyện"
+                    },
+                    {
+                        "en": "a national day of prayer",
+                        "vi": "một ngày cầu nguyện quốc gia"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a religious meeting that takes place regularly in which people say prayers",
+                    "vi": "một cuộc họp tôn giáo diễn ra thường xuyên trong đó mọi người cầu nguyện"
+                },
+                "examples": [
+                    {
+                        "en": "Muslims attend Friday prayers at the mosque.",
+                        "vi": "Người Hồi giáo tham gia các buổi cầu nguyện vào thứ Sáu tại nhà thờ Hồi giáo."
+                    },
+                    {
+                        "en": "Students are required to attend prayers twice a week.",
+                        "vi": "Học sinh được yêu cầu tham dự các buổi cầu nguyện hai lần một tuần."
+                    },
+                    {
+                        "en": "We had family prayers before breakfast.",
+                        "vi": "Chúng tôi đã cầu nguyện cho gia đình trước khi ăn sáng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a thing that you hope for very much",
+                    "vi": "một điều mà bạn rất hy vọng"
+                },
+                "examples": [
+                    {
+                        "en": "My prayer is that one day he will walk again.",
+                        "vi": "Lời cầu nguyện của tôi là một ngày nào đó anh ấy sẽ bước đi trở lại."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "with only a very slight chance of success",
+                    "vi": "chỉ với một cơ hội thành công rất nhỏ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "a9b2f79980094ace9aab52c1eaac764d",
+        "word": "bless",
+        "pos": "verb",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/bles/",
+            "us": "/bles/"
+        },
+        "nearby": [
+            {
+                "word": "blend into",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "Blenheim",
+                "pos": ""
+            },
+            {
+                "word": "bless",
+                "pos": "verb"
+            },
+            {
+                "word": "bless",
+                "pos": "exclamation"
+            },
+            {
+                "word": "blessed",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to ask God to protect somebody/something",
+                    "vi": "để cầu xin Chúa bảo vệ ai đó / điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "They brought the children to Jesus and he blessed them.",
+                        "vi": "Họ đưa những đứa trẻ đến với Chúa Giê-xu và Ngài đã ban phước cho họ."
+                    },
+                    {
+                        "en": "God bless you!",
+                        "vi": "Chúa phù hộ bạn!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make something holy by saying a prayer over it",
+                    "vi": "để biến một điều gì đó trở nên thánh thiện bằng cách nói một lời cầu nguyện về nó"
+                },
+                "examples": [
+                    {
+                        "en": "The priest blessed the bread and wine.",
+                        "vi": "Linh mục làm phép bánh và rượu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to call God holy; to praise God",
+                    "vi": "để gọi Đức Chúa Trời là thánh; ca ngợi Chúa"
+                },
+                "examples": [
+                    {
+                        "en": "We bless your holy name, O Lord.",
+                        "vi": "Lạy Chúa, chúng con chúc tụng thánh danh Chúa."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to express surprise",
+                    "vi": "được sử dụng để bày tỏ sự ngạc nhiên"
+                },
+                "examples": [
+                    {
+                        "en": "Bless my soul! Here comes Bill!",
+                        "vi": "Hãy ban phước cho linh hồn tôi! Bill đây!"
+                    },
+                    {
+                        "en": "‘Where's Joe?’ ‘I'm blessed if I know!’ (= I don't know)",
+                        "vi": "Joe đâu?' 'Tôi thật may mắn nếu tôi biết!' (= Tôi không biết)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to have something good such as ability, great happiness, etc.",
+                    "vi": "để có một cái gì đó tốt như khả năng, hạnh phúc lớn, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "She's blessed with excellent health.",
+                        "vi": "Cô ấy được may mắn với sức khỏe tuyệt vời."
+                    },
+                    {
+                        "en": "We're blessed with five lovely grandchildren.",
+                        "vi": "Chúng tôi may mắn có năm đứa cháu đáng yêu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "said to somebody after they have sneezed",
+                    "vi": "nói với ai đó sau khi họ hắt hơi"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used to show that you are pleased with somebody, especially because of something they have done",
+                    "vi": "được sử dụng để thể hiện rằng bạn hài lòng với ai đó, đặc biệt là vì điều gì đó họ đã làm"
+                },
+                "examples": [
+                    {
+                        "en": "Sarah, bless her, had made a cup of tea.",
+                        "vi": "Sarah, chúc phúc cho cô ấy, đã pha một tách trà."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used when you are leaving somebody, to say that you hope they will be safe, etc.",
+                    "vi": "được sử dụng khi bạn rời khỏi ai đó, để nói rằng bạn hy vọng họ sẽ an toàn, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "Goodnight, God bless.",
+                        "vi": "Chúc ngủ ngon, Chúa phù hộ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "04d76ceab82742cc94bb3c770a65fc73",
+        "word": "meditate",
+        "pos": "verb",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈmedɪteɪt/",
+            "us": "/ˈmedɪteɪt/"
+        },
+        "nearby": [
+            {
+                "word": "mediocre",
+                "pos": "adjective"
+            },
+            {
+                "word": "mediocrity",
+                "pos": "noun"
+            },
+            {
+                "word": "meditate",
+                "pos": "verb"
+            },
+            {
+                "word": "meditation",
+                "pos": "noun"
+            },
+            {
+                "word": "meditative",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to focus your mind, usually in silence, especially for religious reasons or in order to make your mind calm",
+                    "vi": "để tập trung tâm trí của bạn, thường là trong im lặng, đặc biệt là vì lý do tôn giáo hoặc để làm cho tâm trí của bạn bình tĩnh"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to think deeply about something",
+                    "vi": "suy nghĩ sâu sắc về điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "He went off to meditate on the new idea.",
+                        "vi": "Anh ấy bắt đầu suy ngẫm về ý tưởng mới."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to plan something in your mind; to consider doing something",
+                    "vi": "lập kế hoạch cho một cái gì đó trong tâm trí của bạn; cân nhắc làm điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "They were meditating revenge.",
+                        "vi": "Họ đang thiền để trả thù."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c2edfe1b9eb1476d8c083bad66f9f898",
+        "word": "meditation",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌmedɪˈteɪʃn/",
+            "us": "/ˌmedɪˈteɪʃn/"
+        },
+        "nearby": [
+            {
+                "word": "mediocrity",
+                "pos": "noun"
+            },
+            {
+                "word": "meditate",
+                "pos": "verb"
+            },
+            {
+                "word": "meditation",
+                "pos": "noun"
+            },
+            {
+                "word": "meditative",
+                "pos": "adjective"
+            },
+            {
+                "word": "Mediterranean",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the practice of focusing your mind in silence, especially for religious reasons or in order to make your mind calm",
+                    "vi": "thực hành tập trung tâm trí của bạn trong im lặng, đặc biệt là vì lý do tôn giáo hoặc để làm cho tâm trí của bạn bình tĩnh"
+                },
+                "examples": [
+                    {
+                        "en": "She found peace through yoga and meditation.",
+                        "vi": "Cô tìm thấy sự bình yên nhờ yoga và thiền."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the activity of thinking deeply about something, especially so that you do not notice the people or things around you",
+                    "vi": "hoạt động suy nghĩ sâu sắc về điều gì đó, đặc biệt là để bạn không nhận thấy những người hoặc sự vật xung quanh mình"
+                },
+                "examples": [
+                    {
+                        "en": "in meditation He was deep in meditation and didn't see me come in.",
+                        "vi": "trong thiền định Anh ấy đang chìm sâu trong thiền định và không thấy tôi bước vào."
+                    },
+                    {
+                        "en": "She stared out of the window in silent meditation.",
+                        "vi": "Cô ấy nhìn chằm chằm ra ngoài cửa sổ trong im lặng thiền định."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "serious thoughts on a particular subject that somebody writes down or speaks",
+                    "vi": "những suy nghĩ nghiêm túc về một chủ đề cụ thể mà ai đó viết ra hoặc nói"
+                },
+                "examples": [
+                    {
+                        "en": "his meditations on life and art",
+                        "vi": "những suy ngẫm của anh ấy về cuộc sống và nghệ thuật"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e2e4b8cd538b4ac4bf337821ec18c2c5",
+        "word": "pilgrimage",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈpɪlɡrɪmɪdʒ/",
+            "us": "/ˈpɪlɡrɪmɪdʒ/"
+        },
+        "nearby": [
+            {
+                "word": "pilfering",
+                "pos": "noun"
+            },
+            {
+                "word": "pilgrim",
+                "pos": "noun"
+            },
+            {
+                "word": "pilgrimage",
+                "pos": "noun"
+            },
+            {
+                "word": "the Pilgrim Fathers",
+                "pos": ""
+            },
+            {
+                "word": "The Pilgrim's Progress",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a journey to a holy place for religious reasons",
+                    "vi": "một cuộc hành trình đến một thánh địa vì lý do tôn giáo"
+                },
+                "examples": [
+                    {
+                        "en": "to go on/make a pilgrimage",
+                        "vi": "tiếp tục / thực hiện một cuộc hành hương"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a journey to a place that is connected with somebody/something that you admire or respect",
+                    "vi": "một cuộc hành trình đến một nơi được kết nối với ai đó / điều gì đó mà bạn ngưỡng mộ hoặc tôn trọng"
+                },
+                "examples": [
+                    {
+                        "en": "His grave has become a place of pilgrimage.",
+                        "vi": "Phần mộ của ông đã trở thành một nơi hành hương."
+                    },
+                    {
+                        "en": "She made a pilgrimage to visit the place where her hero was born.",
+                        "vi": "Cô đã hành hương đến thăm nơi sinh ra anh hùng của mình."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8c5cf528ac0d4541958b4a9ebc6f556c",
+        "word": "preach",
+        "pos": "verb",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/priːtʃ/",
+            "us": "/priːtʃ/"
+        },
+        "nearby": [
+            {
+                "word": "pre-wash",
+                "pos": "noun"
+            },
+            {
+                "word": "pre-",
+                "pos": "prefix"
+            },
+            {
+                "word": "preach",
+                "pos": "verb"
+            },
+            {
+                "word": "preacher",
+                "pos": "noun"
+            },
+            {
+                "word": "preachy",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to give a religious talk in a public place, especially in a church during a service",
+                    "vi": "để thuyết trình về tôn giáo ở nơi công cộng, đặc biệt là trong nhà thờ trong một buổi lễ"
+                },
+                "examples": [
+                    {
+                        "en": "She preached to the congregation about forgiveness.",
+                        "vi": "Cô đã thuyết giảng cho hội thánh về sự tha thứ."
+                    },
+                    {
+                        "en": "preach something The minister preached a sermon on the parable of the lost sheep.",
+                        "vi": "giảng một cái gì đó Mục sư giảng một bài giảng về dụ ngôn con chiên bị mất."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to tell people about a particular religion, way of life, system, etc. in order to persuade them to accept it",
+                    "vi": "nói với mọi người về một tôn giáo, cách sống, hệ thống cụ thể, v.v. để thuyết phục họ chấp nhận"
+                },
+                "examples": [
+                    {
+                        "en": "preach something to preach the word of God",
+                        "vi": "giảng điều gì đó để giảng lời Chúa"
+                    },
+                    {
+                        "en": "He preached the virtues of capitalism to us.",
+                        "vi": "Ông ấy đã rao giảng những đức tính của chủ nghĩa tư bản cho chúng tôi."
+                    },
+                    {
+                        "en": "preach (about something) She preached about the benefits of a healthy lifestyle.",
+                        "vi": "giảng (về điều gì đó) Cô ấy giảng về lợi ích của lối sống lành mạnh."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to give somebody advice on moral standards, behaviour, etc., especially in a way that they find annoying or boring",
+                    "vi": "để đưa ra lời khuyên cho ai đó về các tiêu chuẩn đạo đức, hành vi, v.v., đặc biệt là theo cách mà họ cảm thấy phiền phức hoặc nhàm chán"
+                },
+                "examples": [
+                    {
+                        "en": "I'm sorry, I didn't mean to preach.",
+                        "vi": "Tôi xin lỗi, tôi không cố ý giảng."
+                    },
+                    {
+                        "en": "preach at somebody You're preaching at me again!",
+                        "vi": "giảng cho ai đó Bạn đang giảng lại cho tôi!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to do the things yourself that you tell other people to do",
+                    "vi": "tự mình làm những việc mà bạn bảo người khác làm"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to speak to people in support of views that they already hold",
+                    "vi": "nói chuyện với những người ủng hộ các quan điểm mà họ đã có"
+                },
+                "examples": [
+                    {
+                        "en": "I realize I may be preaching to the choir, but I think he's gorgeous.",
+                        "vi": "Tôi nhận ra rằng tôi có thể đang giảng cho dàn hợp xướng, nhưng tôi nghĩ anh ấy thật tuyệt."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f09d70dd79cc4dfc9eb575a5ab7c915a",
+        "word": "sacrifice",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈsækrɪfaɪs/",
+            "us": "/ˈsækrɪfaɪs/"
+        },
+        "nearby": [
+            {
+                "word": "sacred cow",
+                "pos": "noun"
+            },
+            {
+                "word": "sacredness",
+                "pos": "noun"
+            },
+            {
+                "word": "sacrifice",
+                "pos": "noun"
+            },
+            {
+                "word": "sacrifice",
+                "pos": "verb"
+            },
+            {
+                "word": "sacrificial",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the fact of giving up something important or valuable to you in order to get or do something that seems more important; something that you give up in this way",
+                    "vi": "thực tế là từ bỏ một cái gì đó quan trọng hoặc có giá trị đối với bạn để có được hoặc làm một cái gì đó có vẻ quan trọng hơn; một cái gì đó mà bạn từ bỏ theo cách này"
+                },
+                "examples": [
+                    {
+                        "en": "The makers of the product assured us that there had been no sacrifice of quality.",
+                        "vi": "Các nhà sản xuất sản phẩm đảm bảo với chúng tôi rằng không có sự hy sinh về chất lượng."
+                    },
+                    {
+                        "en": "Her parents made sacrifices so that she could have a good education.",
+                        "vi": "Cha mẹ cô đã hy sinh để cô được học hành đến nơi đến chốn."
+                    },
+                    {
+                        "en": "to make the ultimate/supreme sacrifice (= to die for your country, to save a friend, etc.)",
+                        "vi": "để thực hiện sự hy sinh cuối cùng / tối cao (= chết cho đất nước của bạn, để cứu một người bạn, v.v.)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the act of offering something to a god, especially an animal that has been killed in a special way; an animal, etc. that is offered in this way",
+                    "vi": "hành động dâng một thứ gì đó cho thần linh, đặc biệt là một con vật đã bị giết một cách đặc biệt; một con vật, v.v. được cung cấp theo cách này"
+                },
+                "examples": [
+                    {
+                        "en": "They offered sacrifices to the gods.",
+                        "vi": "Họ đã cúng tế cho các vị thần."
+                    },
+                    {
+                        "en": "a human sacrifice (= a person killed as a sacrifice)",
+                        "vi": "một sự hy sinh của con người (= một người bị giết như một vật hiến tế)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "096c8b753e314192adeccfd90ea989b3",
+        "word": "sacrifice",
+        "pos": "verb",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈsækrɪfaɪs/",
+            "us": "/ˈsækrɪfaɪs/"
+        },
+        "nearby": [
+            {
+                "word": "sacredness",
+                "pos": "noun"
+            },
+            {
+                "word": "sacrifice",
+                "pos": "noun"
+            },
+            {
+                "word": "sacrifice",
+                "pos": "verb"
+            },
+            {
+                "word": "sacrificial",
+                "pos": "adjective"
+            },
+            {
+                "word": "sacrilege",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to give up something that is important or valuable to you in order to get or do something that seems more important for yourself or for another person",
+                    "vi": "từ bỏ thứ gì đó quan trọng hoặc có giá trị đối với bạn để có được hoặc làm điều gì đó có vẻ quan trọng hơn cho bản thân hoặc cho người khác"
+                },
+                "examples": [
+                    {
+                        "en": "sacrifice something for somebody/something She sacrificed everything for her children.",
+                        "vi": "hy sinh một cái gì đó cho ai đó / cái gì đó Cô ấy đã hy sinh tất cả cho con cái của mình."
+                    },
+                    {
+                        "en": "The designers have sacrificed speed for fuel economy.",
+                        "vi": "Các nhà thiết kế đã hy sinh tốc độ để tiết kiệm nhiên liệu."
+                    },
+                    {
+                        "en": "sacrifice something Would you sacrifice a football game to go out with a girl?",
+                        "vi": "hy sinh một cái gì đó Bạn sẽ hy sinh một trận bóng đá để đi hẹn hò với một cô gái?"
+                    },
+                    {
+                        "en": "sacrifice something to something In her writing, clarity is sometimes sacrificed to brevity.",
+                        "vi": "hy sinh một cái gì đó cho một cái gì đó Trong bài viết của cô, sự rõ ràng đôi khi được hy sinh cho sự ngắn gọn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to kill an animal or a person and offer it or them to a god, in order to please the god",
+                    "vi": "giết một con vật hoặc một con người và dâng nó hoặc chúng cho một vị thần, để làm hài lòng vị thần"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "d283fa5a682e457aa1d911530f33047b",
+        "word": "ecclesiastical",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ɪˌkliːziˈæstɪkl/",
+            "us": "/ɪˌkliːziˈæstɪkl/"
+        },
+        "nearby": [
+            {
+                "word": "Eccles cake",
+                "pos": "noun"
+            },
+            {
+                "word": "ecclesiastic",
+                "pos": "noun"
+            },
+            {
+                "word": "ecclesiastical",
+                "pos": "adjective"
+            },
+            {
+                "word": "ECG",
+                "pos": "noun"
+            },
+            {
+                "word": "ECGD",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "connected with the Christian Church",
+                    "vi": "kết nối với Nhà thờ Thiên chúa giáo"
+                },
+                "examples": [
+                    {
+                        "en": "ecclesiastical history",
+                        "vi": "lịch sử giáo hội"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e512caa7969549c79856833381162c5d",
+        "word": "episcopacy",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ɪˈpɪskəpəsi/",
+            "us": "/ɪˈpɪskəpəsi/"
+        },
+        "nearby": [
+            {
+                "word": "EpiPen",
+                "pos": "noun"
+            },
+            {
+                "word": "epiphany",
+                "pos": "noun"
+            },
+            {
+                "word": "episcopacy",
+                "pos": "noun"
+            },
+            {
+                "word": "episcopal",
+                "pos": "adjective"
+            },
+            {
+                "word": "the Episcopal Church",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "government of a church by bishops",
+                    "vi": "chính phủ của một nhà thờ bởi các giám mục"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "d30bbc4232df4db3b5c174f5e45482c7",
+        "word": "fast",
+        "pos": "verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/fɑːst/",
+            "us": "/fæst/"
+        },
+        "nearby": [
+            {
+                "word": "fast",
+                "pos": "adjective"
+            },
+            {
+                "word": "fast",
+                "pos": "adverb"
+            },
+            {
+                "word": "fast",
+                "pos": "verb"
+            },
+            {
+                "word": "fast",
+                "pos": "noun"
+            },
+            {
+                "word": "fastball",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to eat little or no food for a period of time, especially for religious or medical reasons",
+                    "vi": "ăn ít hoặc không ăn trong một khoảng thời gian, đặc biệt là vì lý do tôn giáo hoặc y tế"
+                },
+                "examples": [
+                    {
+                        "en": "Muslims fast during Ramadan.",
+                        "vi": "Người Hồi giáo nhịn ăn trong tháng Ramadan."
+                    },
+                    {
+                        "en": "During Ramadan they fast from dawn to sunset.",
+                        "vi": "Trong tháng Ramadan, họ nhịn ăn từ bình minh đến hoàng hôn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7dc051ed6e704352b091ac01ae205732",
+        "word": "fast",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/fɑːst/",
+            "us": "/fæst/"
+        },
+        "nearby": [
+            {
+                "word": "fast",
+                "pos": "adverb"
+            },
+            {
+                "word": "fast",
+                "pos": "verb"
+            },
+            {
+                "word": "fast",
+                "pos": "noun"
+            },
+            {
+                "word": "fastball",
+                "pos": "noun"
+            },
+            {
+                "word": "fast bowler",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a period during which you do not eat food, especially for religious or health reasons",
+                    "vi": "một khoảng thời gian mà bạn không ăn thức ăn, đặc biệt là vì lý do tôn giáo hoặc sức khỏe"
+                },
+                "examples": [
+                    {
+                        "en": "to go on a fast",
+                        "vi": "đi nhanh"
+                    },
+                    {
+                        "en": "to break (= end) your fast",
+                        "vi": "để phá vỡ (= kết thúc) nhanh chóng của bạn"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7ffce30fe519428090e6913fdb842bf3",
+        "word": "Five Pillars of Islam",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌfaɪv ˌpɪləz əv ˈɪzlɑːm/",
+            "us": "/ˌfaɪv ˌpɪlərz əv ˈɪzlɑːm/"
+        },
+        "nearby": [
+            {
+                "word": "five o'clock shadow",
+                "pos": "noun"
+            },
+            {
+                "word": "five pence",
+                "pos": "noun"
+            },
+            {
+                "word": "Five Pillars of Islam",
+                "pos": "noun"
+            },
+            {
+                "word": "fiver",
+                "pos": "noun"
+            },
+            {
+                "word": "fives",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the five duties that every Muslim is expected to do",
+                    "vi": "năm nhiệm vụ mà mọi người Hồi giáo phải làm"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "374911db4bbc483b8684030447048c6c",
+        "word": "halal",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/həˈlæl/",
+            "us": "/həˈlæl/"
+        },
+        "nearby": [
+            {
+                "word": "Hakka",
+                "pos": "noun"
+            },
+            {
+                "word": "Hal",
+                "pos": ""
+            },
+            {
+                "word": "halal",
+                "pos": "adjective"
+            },
+            {
+                "word": "halberd",
+                "pos": "noun"
+            },
+            {
+                "word": "halcyon",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "from an animal that has been killed according to Muslim law",
+                    "vi": "từ một con vật đã bị giết theo luật Hồi giáo"
+                },
+                "examples": [
+                    {
+                        "en": "halal meat",
+                        "vi": "thịt halal"
+                    },
+                    {
+                        "en": "a halal butcher (= one who sells halal meat)",
+                        "vi": "một người bán thịt halal (= một người bán thịt halal)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "acceptable according to Muslim religious law",
+                    "vi": "được chấp nhận theo luật tôn giáo Hồi giáo"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "b4a731da0560412da6510177430ee3e2",
+        "word": "iftar",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈɪftɑː(r)/",
+            "us": "/ˈɪftɑːr/"
+        },
+        "nearby": [
+            {
+                "word": "iff",
+                "pos": "conjunction"
+            },
+            {
+                "word": "iffy",
+                "pos": "adjective"
+            },
+            {
+                "word": "iftar",
+                "pos": "noun"
+            },
+            {
+                "word": "-ify",
+                "pos": "suffix"
+            },
+            {
+                "word": "Igbo",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the meal eaten by Muslims after the sun has set during Ramadan",
+                    "vi": "bữa ăn của người Hồi giáo sau khi mặt trời lặn trong tháng Ramadan"
+                },
+                "examples": [
+                    {
+                        "en": "After a long day, they break their fast with a meal known as iftar.",
+                        "vi": "Sau một ngày dài, họ nhịn ăn bằng một bữa ăn được gọi là iftar."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "d6efee29f5024defad131825c96e77d6",
+        "word": "jehad",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/dʒɪˈhɑːd/",
+            "us": "/dʒɪˈhɑːd/"
+        },
+        "nearby": [
+            {
+                "word": "Judge Jeffreys",
+                "pos": ""
+            },
+            {
+                "word": "jeggings",
+                "pos": "noun"
+            },
+            {
+                "word": "jehad",
+                "pos": "noun"
+            },
+            {
+                "word": "Jehovah",
+                "pos": "noun"
+            },
+            {
+                "word": "Jehovah's Witness",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a spiritual struggle within yourself to stop yourself breaking religious or moral laws",
+                    "vi": "một cuộc đấu tranh tinh thần trong chính bạn để ngăn bản thân bạn vi phạm luật tôn giáo hoặc đạo đức"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a holy war fought by Muslims to defend Islam",
+                    "vi": "một cuộc thánh chiến do người Hồi giáo chiến đấu để bảo vệ Hồi giáo"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "765351cda54e4901aa633be0ce6c2d41",
+        "word": "jihad",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/dʒɪˈhɑːd/",
+            "us": "/dʒɪˈhɑːd/"
+        },
+        "nearby": [
+            {
+                "word": "jiggle",
+                "pos": "verb"
+            },
+            {
+                "word": "jigsaw",
+                "pos": "noun"
+            },
+            {
+                "word": "jihad",
+                "pos": "noun"
+            },
+            {
+                "word": "jiko",
+                "pos": "noun"
+            },
+            {
+                "word": "jilbab",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a spiritual struggle within yourself to stop yourself breaking religious or moral laws",
+                    "vi": "một cuộc đấu tranh tinh thần trong chính bạn để ngăn bản thân bạn vi phạm luật tôn giáo hoặc đạo đức"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a holy war fought by Muslims to defend Islam",
+                    "vi": "một cuộc thánh chiến do người Hồi giáo chiến đấu để bảo vệ Hồi giáo"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "0f419ce2795c4663a7f3357fce95013b",
+        "word": "kosher",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkəʊʃə(r)/",
+            "us": "/ˈkəʊʃər/"
+        },
+        "nearby": [
+            {
+                "word": "korma",
+                "pos": "noun"
+            },
+            {
+                "word": "korowai",
+                "pos": "noun"
+            },
+            {
+                "word": "kosher",
+                "pos": "adjective"
+            },
+            {
+                "word": "kotwal",
+                "pos": "noun"
+            },
+            {
+                "word": "kotwali",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "prepared according to the rules of Jewish law",
+                    "vi": "được chuẩn bị theo các quy tắc của luật Do Thái"
+                },
+                "examples": [
+                    {
+                        "en": "a kosher meal",
+                        "vi": "một bữa ăn kiêng"
+                    },
+                    {
+                        "en": "a kosher butcher/restaurant (= one that prepares or serves this food).",
+                        "vi": "một cửa hàng thịt / nhà hàng kosher (= một nhà hàng chuẩn bị hoặc phục vụ món ăn này)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "honest or legal",
+                    "vi": "trung thực hoặc hợp pháp"
+                },
+                "examples": [
+                    {
+                        "en": "Their business deals are not always completely kosher.",
+                        "vi": "Các giao dịch kinh doanh của họ không phải lúc nào cũng hoàn toàn kosher."
+                    },
+                    {
+                        "en": "It all seems kosher enough.",
+                        "vi": "Tất cả có vẻ như đủ kosher."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3463de3def2245e3b9ed1e30660eaeb9",
+        "word": "mission",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈmɪʃn/",
+            "us": "/ˈmɪʃn/"
+        },
+        "nearby": [
+            {
+                "word": "missing link",
+                "pos": "noun"
+            },
+            {
+                "word": "missing person",
+                "pos": "noun"
+            },
+            {
+                "word": "mission",
+                "pos": "noun"
+            },
+            {
+                "word": "missionary",
+                "pos": "noun"
+            },
+            {
+                "word": "the missionary position",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an important official job that a person or group of people is given to do, especially when they are sent to another country",
+                    "vi": "một công việc chính thức quan trọng mà một người hoặc một nhóm người được giao làm, đặc biệt là khi họ được cử đến một quốc gia khác"
+                },
+                "examples": [
+                    {
+                        "en": "She led a recent trade mission to China.",
+                        "vi": "Cô ấy đã dẫn đầu một phái đoàn thương mại gần đây đến Trung Quốc."
+                    },
+                    {
+                        "en": "Thomas More toured Antwerp on a diplomatic mission for the king.",
+                        "vi": "Thomas More đã đi thăm Antwerp trong một sứ mệnh ngoại giao cho nhà vua."
+                    },
+                    {
+                        "en": "It was too late to launch a rescue mission.",
+                        "vi": "Đã quá muộn để thực hiện một nhiệm vụ giải cứu."
+                    },
+                    {
+                        "en": "They undertook a fact-finding mission in the region.",
+                        "vi": "Họ đã thực hiện một nhiệm vụ tìm hiểu thực tế trong khu vực."
+                    },
+                    {
+                        "en": "a mercy mission to aid homeless refugees",
+                        "vi": "một sứ mệnh nhân từ để hỗ trợ những người tị nạn vô gia cư"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a group of people doing such a job; the place where they work",
+                    "vi": "một nhóm người đang làm một công việc như vậy; nơi họ làm việc"
+                },
+                "examples": [
+                    {
+                        "en": "He is the head of the British mission in Berlin.",
+                        "vi": "Ông là người đứng đầu phái bộ của Anh tại Berlin."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the work of teaching people about Christianity, especially in a foreign country; a group of people doing such work",
+                    "vi": "công việc giảng dạy cho mọi người về Cơ đốc giáo, đặc biệt là ở nước ngoài; một nhóm người làm công việc như vậy"
+                },
+                "examples": [
+                    {
+                        "en": "Gandhi’s attitude to mission and conversion",
+                        "vi": "Thái độ của Gandhi đối với sứ mệnh và sự cải đạo"
+                    },
+                    {
+                        "en": "a Catholic mission in Africa",
+                        "vi": "một sứ mệnh Công giáo ở Châu Phi"
+                    },
+                    {
+                        "en": "She took up a position as a school teacher at St Peter's mission in Montana.",
+                        "vi": "Cô đã nhận một vị trí như một giáo viên trường học tại giáo khu St Peter ở Montana."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a building or group of buildings used by a Christian mission",
+                    "vi": "một tòa nhà hoặc một nhóm tòa nhà được sử dụng bởi một cơ quan truyền giáo Cơ đốc"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "particular work that you feel it is your duty to do",
+                    "vi": "công việc cụ thể mà bạn cảm thấy đó là nhiệm vụ của bạn"
+                },
+                "examples": [
+                    {
+                        "en": "Her mission in life was to work with the homeless.",
+                        "vi": "Nhiệm vụ của cô trong cuộc đời là làm việc với những người vô gia cư."
+                    },
+                    {
+                        "en": "We are committed to the mission of helping students realize their full potential.",
+                        "vi": "Chúng tôi cam kết thực hiện sứ mệnh giúp sinh viên phát huy hết tiềm năng của mình."
+                    },
+                    {
+                        "en": "You can tell by the determined way he talks that he is a man with a mission.",
+                        "vi": "Bạn có thể biết qua cách nói chuyện kiên quyết của anh ấy rằng anh ấy là một người đàn ông có sứ mệnh."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an important job that is done by a soldier, group of soldiers, etc.",
+                    "vi": "một công việc quan trọng được thực hiện bởi một người lính, một nhóm binh lính, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "The squadron flew on a reconnaissance mission.",
+                        "vi": "Phi đội bay làm nhiệm vụ trinh sát."
+                    },
+                    {
+                        "en": "The military are fulfilling an important peacekeeping mission.",
+                        "vi": "Quân đội đang hoàn thành sứ mệnh gìn giữ hòa bình quan trọng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a flight into space",
+                    "vi": "một chuyến bay vào vũ trụ"
+                },
+                "examples": [
+                    {
+                        "en": "a US space mission",
+                        "vi": "một sứ mệnh không gian của Hoa Kỳ"
+                    },
+                    {
+                        "en": "He's been on several shuttle missions over the last decade.",
+                        "vi": "Anh ấy đã thực hiện một số nhiệm vụ tàu con thoi trong thập kỷ qua."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a task or journey that is very difficult and takes a long time to complete",
+                    "vi": "một nhiệm vụ hoặc hành trình rất khó khăn và mất nhiều thời gian để hoàn thành"
+                },
+                "examples": [
+                    {
+                        "en": "It's a mission to get there.",
+                        "vi": "Đó là một nhiệm vụ để đến đó."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used when you have successfully completed what you have had to do",
+                    "vi": "được sử dụng khi bạn đã hoàn thành thành công những gì bạn phải làm"
+                },
+                "examples": [
+                    {
+                        "en": "Mission accomplished, we headed for home.",
+                        "vi": "Nhiệm vụ hoàn thành, chúng tôi về nhà."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a difficult or impossible task",
+                    "vi": "một nhiệm vụ khó khăn hoặc bất khả thi"
+                },
+                "examples": [
+                    {
+                        "en": "Many regard this task as mission impossible.",
+                        "vi": "Nhiều người coi nhiệm vụ này là nhiệm vụ bất khả thi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3e6ec211f3e540f39eeef2272ce56e93",
+        "word": "monasticism",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/məˈnæstɪsɪzəm/",
+            "us": "/məˈnæstɪsɪzəm/"
+        },
+        "nearby": [
+            {
+                "word": "monastery",
+                "pos": "noun"
+            },
+            {
+                "word": "monastic",
+                "pos": "adjective"
+            },
+            {
+                "word": "monasticism",
+                "pos": "noun"
+            },
+            {
+                "word": "Moncton",
+                "pos": ""
+            },
+            {
+                "word": "Monday",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the way of life of monks in monasteries",
+                    "vi": "cách sống của các nhà sư trong tu viện"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "7d9ba5d9f064431480ea7587091947c0",
+        "word": "piety",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpaɪəti/",
+            "us": "/ˈpaɪəti/"
+        },
+        "nearby": [
+            {
+                "word": "Piers Plowman",
+                "pos": ""
+            },
+            {
+                "word": "pietà",
+                "pos": "noun"
+            },
+            {
+                "word": "piety",
+                "pos": "noun"
+            },
+            {
+                "word": "piffle",
+                "pos": "noun"
+            },
+            {
+                "word": "piffling",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the state of having or showing a deep respect for somebody/something, especially for God and religion; the state of being pious",
+                    "vi": "trạng thái có hoặc thể hiện sự tôn trọng sâu sắc đối với ai đó / điều gì đó, đặc biệt là đối với Chúa và tôn giáo; trạng thái ngoan đạo"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "0143c5abbe364a5e9569bf5382253321",
+        "word": "prayerful",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpreəfl/",
+            "us": "/ˈprerfl/"
+        },
+        "nearby": [
+            {
+                "word": "prayer",
+                "pos": "noun"
+            },
+            {
+                "word": "prayer book",
+                "pos": "noun"
+            },
+            {
+                "word": "prayerful",
+                "pos": "adjective"
+            },
+            {
+                "word": "prayer meeting",
+                "pos": "noun"
+            },
+            {
+                "word": "prayer rug",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "involving the act of praying",
+                    "vi": "liên quan đến hành động cầu nguyện"
+                },
+                "examples": [
+                    {
+                        "en": "The group stands silently prayerful for a moment as the candle is lit.",
+                        "vi": "Cả nhóm đứng lặng lẽ cầu nguyện trong giây lát khi ngọn nến được thắp sáng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "tending to pray a lot; believing very strongly in a religion",
+                    "vi": "có xu hướng cầu nguyện nhiều; tin tưởng rất mạnh mẽ vào một tôn giáo"
+                },
+                "examples": [
+                    {
+                        "en": "He was a very humble and prayerful person.",
+                        "vi": "Ông là một người rất khiêm tốn và cầu nguyện."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "69a6ca8362e94bb085782844262ea01f",
+        "word": "prophecy",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈprɒfəsi/",
+            "us": "/ˈprɑːfəsi/"
+        },
+        "nearby": [
+            {
+                "word": "property",
+                "pos": "noun"
+            },
+            {
+                "word": "property guardian",
+                "pos": "noun"
+            },
+            {
+                "word": "prophecy",
+                "pos": "noun"
+            },
+            {
+                "word": "prophesy",
+                "pos": "verb"
+            },
+            {
+                "word": "prophet",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a statement that something will happen in the future, especially one made by somebody with religious or magic powers",
+                    "vi": "một tuyên bố rằng một cái gì đó sẽ xảy ra trong tương lai, đặc biệt là một cái gì đó được thực hiện bởi một người nào đó có sức mạnh tôn giáo hoặc ma thuật"
+                },
+                "examples": [
+                    {
+                        "en": "to fulfil a prophecy (= make it come true)",
+                        "vi": "để ứng nghiệm một lời tiên tri (= biến nó thành sự thật)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the power of being able to say what will happen in the future",
+                    "vi": "sức mạnh của việc có thể nói điều gì sẽ xảy ra trong tương lai"
+                },
+                "examples": [
+                    {
+                        "en": "She was believed to have the gift of prophecy.",
+                        "vi": "Người ta tin rằng cô có năng khiếu tiên tri."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8e50557a4b0a4a3f96ad0826fffd2f98",
+        "word": "prophesy",
+        "pos": "verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈprɒfəsaɪ/",
+            "us": "/ˈprɑːfəsaɪ/"
+        },
+        "nearby": [
+            {
+                "word": "property guardian",
+                "pos": "noun"
+            },
+            {
+                "word": "prophecy",
+                "pos": "noun"
+            },
+            {
+                "word": "prophesy",
+                "pos": "verb"
+            },
+            {
+                "word": "prophet",
+                "pos": "noun"
+            },
+            {
+                "word": "prophetess",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to say what will happen in the future (done in the past using religious or magic powers)",
+                    "vi": "để nói điều gì sẽ xảy ra trong tương lai (được thực hiện trong quá khứ bằng cách sử dụng sức mạnh tôn giáo hoặc ma thuật)"
+                },
+                "examples": [
+                    {
+                        "en": "prophesy something to prophesy war",
+                        "vi": "tiên tri điều gì đó để tiên tri chiến tranh"
+                    },
+                    {
+                        "en": "The event was prophesied in the Old Testament.",
+                        "vi": "Sự kiện này đã được tiên tri trong Cựu ước."
+                    },
+                    {
+                        "en": "prophesy that… She prophesied that she would win a gold medal.",
+                        "vi": "tiên tri rằng… Cô ấy đã tiên tri rằng cô ấy sẽ giành được huy chương vàng."
+                    },
+                    {
+                        "en": "He prophesied that a flood would cover the Earth’s surface.",
+                        "vi": "Ông đã tiên tri rằng một trận lụt sẽ bao phủ bề mặt Trái đất."
+                    },
+                    {
+                        "en": "+ speech ‘It will end in disaster,’ he prophesied.",
+                        "vi": "Err:509"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3e7427b1ba5f48e792ff097f10747e44",
+        "word": "salat",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/səˈlɑːt/",
+            "us": "/səˈlɑːt/"
+        },
+        "nearby": [
+            {
+                "word": "salary",
+                "pos": "noun"
+            },
+            {
+                "word": "salaryman",
+                "pos": "noun"
+            },
+            {
+                "word": "salat",
+                "pos": "noun"
+            },
+            {
+                "word": "salbutamol",
+                "pos": "noun"
+            },
+            {
+                "word": "sale",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the Muslim act of praying five times a day, one of the Five Pillars of Islam",
+                    "vi": "Hành động cầu nguyện năm lần một ngày của người Hồi giáo, một trong Năm trụ cột của Hồi giáo"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "f138b3930ff74af3bc0b3ab86d665831",
+        "word": "shahada",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ʃəˈhɑːdə/",
+            "us": "/ʃəˈhɑːdə/"
+        },
+        "nearby": [
+            {
+                "word": "shaggy-dog story",
+                "pos": "noun"
+            },
+            {
+                "word": "shah",
+                "pos": "noun"
+            },
+            {
+                "word": "shahada",
+                "pos": "noun"
+            },
+            {
+                "word": "shaikh",
+                "pos": "noun"
+            },
+            {
+                "word": "shake",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the Muslim statement of faith, one of the Five Pillars of Islam",
+                    "vi": "tuyên bố của người Hồi giáo về đức tin, một trong Năm trụ cột của Hồi giáo"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "28f00bdd5c944aec8067ab363abb3909",
+        "word": "zakat",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/zəˈkɑːt/",
+            "us": "/zəˈkɑːt/"
+        },
+        "nearby": [
+            {
+                "word": "Zagat Survey",
+                "pos": ""
+            },
+            {
+                "word": "‘Babe' Didrikson Zaharias",
+                "pos": ""
+            },
+            {
+                "word": "zakat",
+                "pos": "noun"
+            },
+            {
+                "word": "Zambia",
+                "pos": ""
+            },
+            {
+                "word": "Zambian",
+                "pos": "noun, adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the act of giving money to the poor that Muslims are required to do each year as part of their faith, one of the Five Pillars of Islam",
+                    "vi": "Hành động tặng tiền cho người nghèo mà người Hồi giáo bắt buộc phải làm hàng năm như một phần đức tin của họ, một trong Năm Trụ cột của Hồi giáo"
+                },
+                "examples": []
+            }
+        ]
+    }
+]

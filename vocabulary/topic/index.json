@@ -1,0 +1,4238 @@
+[
+    {
+        "id": "c99d3187a7fc46e2b925b03af5bb069c",
+        "name": {
+            "en": "Animals",
+            "vi": "Loài vật"
+        },
+        "topics": [
+            {
+                "id": "dc637d097ebf4aac8321c7eb48d9ec76",
+                "name": {
+                    "en": "Animals",
+                    "vi": "Loài vật"
+                },
+                "subTopics": [
+                    {
+                        "id": "e8191f8dc2314eec9514312d05b3d443",
+                        "name": {
+                            "en": "Animal behaviour",
+                            "vi": "Hành vi của động vật"
+                        }
+                    },
+                    {
+                        "id": "269335ad026d4f859fa2714a805dc26e",
+                        "name": {
+                            "en": "Animal homes",
+                            "vi": "Nhà động vật"
+                        }
+                    },
+                    {
+                        "id": "c749d77f7d8746b4af1306f5ad3768cf",
+                        "name": {
+                            "en": "Animals in general",
+                            "vi": "Động vật nói chung"
+                        }
+                    },
+                    {
+                        "id": "93d7aa1897a549858da191c40a472f75",
+                        "name": {
+                            "en": "Dogs",
+                            "vi": "Chó"
+                        }
+                    },
+                    {
+                        "id": "8cb8301add8241bc9eeb43de7496b9be",
+                        "name": {
+                            "en": "Farm animals",
+                            "vi": "Động vật trong nông trại"
+                        }
+                    },
+                    {
+                        "id": "eb4f2a650c3f441398d8b075526faf80",
+                        "name": {
+                            "en": "Groups of animals",
+                            "vi": "Nhóm động vật"
+                        }
+                    },
+                    {
+                        "id": "e37e0a50e5b94f8eaf2821232fb7b2d9",
+                        "name": {
+                            "en": "Parts of animals",
+                            "vi": "Các bộ phận của động vật"
+                        }
+                    },
+                    {
+                        "id": "f88af38273594c45acafca947718fc49",
+                        "name": {
+                            "en": "Pets",
+                            "vi": "Vật nuôi"
+                        }
+                    },
+                    {
+                        "id": "512af6dc798947f3aef7fc104fca4158",
+                        "name": {
+                            "en": "Reptiles and amphibians",
+                            "vi": "Bò sát và lưỡng cư"
+                        }
+                    },
+                    {
+                        "id": "9054a4e1fd604f23a64ddb0977879788",
+                        "name": {
+                            "en": "Wild mammals",
+                            "vi": "Động vật có vú hoang dã"
+                        }
+                    },
+                    {
+                        "id": "094788b617e6404b9b8494fa984aa23d",
+                        "name": {
+                            "en": "Working animals",
+                            "vi": "Động vật làm việc"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "fee2325feef74e1891767dc56f5442b4",
+                "name": {
+                    "en": "Birds",
+                    "vi": "Chim"
+                },
+                "subTopics": [
+                    {
+                        "id": "1e0875ef8d8f40a5baf2e72383130d7f",
+                        "name": {
+                            "en": "Bird behaviour",
+                            "vi": "Hành vi của chim"
+                        }
+                    },
+                    {
+                        "id": "4b2bd0da09f04cbf8c19652f7ad31e02",
+                        "name": {
+                            "en": "Bird homes",
+                            "vi": "Nhà chim"
+                        }
+                    },
+                    {
+                        "id": "bdb5152cb0c9492f8796201dd187b3b0",
+                        "name": {
+                            "en": "Birds",
+                            "vi": "Chim"
+                        }
+                    },
+                    {
+                        "id": "19d6f9ef92f74fb2820244545d0ad307",
+                        "name": {
+                            "en": "Parts of birds",
+                            "vi": "Các bộ phận của chim"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "27a765a552cf434996215e32696d9cb9",
+                "name": {
+                    "en": "Fish and shellfish",
+                    "vi": "Cá và động vật có vỏ"
+                },
+                "subTopics": [
+                    {
+                        "id": "9621aa60514f42bca3b062a801152651",
+                        "name": {
+                            "en": "Fish",
+                            "vi": "Cá"
+                        }
+                    },
+                    {
+                        "id": "83721f41063d4699912b0da0a5fce1dd",
+                        "name": {
+                            "en": "Other sea creatures",
+                            "vi": "Sinh vật biển khác"
+                        }
+                    },
+                    {
+                        "id": "3d737785678f4726a80eba0dc43f67f7",
+                        "name": {
+                            "en": "Parts of fish",
+                            "vi": "Các bộ phận của cá"
+                        }
+                    },
+                    {
+                        "id": "03a0b47a976149ffbc34d48d7a909609",
+                        "name": {
+                            "en": "Shellfish",
+                            "vi": "Động vật có vỏ"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "539f825a57034c1db94d87c5c551a519",
+                "name": {
+                    "en": "Insects, worms, etc.",
+                    "vi": "Côn trùng, sâu, v.v."
+                },
+                "subTopics": [
+                    {
+                        "id": "74afa687d2864de79618322987c6d21f",
+                        "name": {
+                            "en": "Insect behaviour",
+                            "vi": "Hành vi của côn trùng"
+                        }
+                    },
+                    {
+                        "id": "479029a758cc4e4ea5ba9e4e918cb3fe",
+                        "name": {
+                            "en": "Insect forms",
+                            "vi": "Các dạng côn trùng"
+                        }
+                    },
+                    {
+                        "id": "098c9fd753f54a82a2713aef34697dd1",
+                        "name": {
+                            "en": "Insect homes",
+                            "vi": "Nhà côn trùng"
+                        }
+                    },
+                    {
+                        "id": "ced5d83ff7d2489aa49966428af64b55",
+                        "name": {
+                            "en": "Insects",
+                            "vi": "Côn trùng"
+                        }
+                    },
+                    {
+                        "id": "d4ae3e40dda9410ab4df231d27a5b079",
+                        "name": {
+                            "en": "Other invertebrates",
+                            "vi": "Động vật không xương sống khác"
+                        }
+                    },
+                    {
+                        "id": "d5b2afa142b646c4ac6029278b12f6fa",
+                        "name": {
+                            "en": "Parts of insects",
+                            "vi": "Các bộ phận của côn trùng"
+                        }
+                    },
+                    {
+                        "id": "d695f53b4b384bb6ae4ee882dbe52752",
+                        "name": {
+                            "en": "Spiders, etc.",
+                            "vi": "Nhện, v.v."
+                        }
+                    },
+                    {
+                        "id": "1c3131bf5fc94f319fbfd4ac5ab36408",
+                        "name": {
+                            "en": "Worms",
+                            "vi": "Giun"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "297a7b34b7a0456f880d28f4329e8cf8",
+        "name": {
+            "en": "Appearance",
+            "vi": "Vẻ bề ngoài"
+        },
+        "topics": [
+            {
+                "id": "3b54072e144e49c3a700516c86f80988",
+                "name": {
+                    "en": "Appearance",
+                    "vi": "Vẻ bề ngoài"
+                },
+                "subTopics": [
+                    {
+                        "id": "734bbf047e684c2f96079409b3af9703",
+                        "name": {
+                            "en": "Attractiveness",
+                            "vi": "Tính hấp dẫn"
+                        }
+                    },
+                    {
+                        "id": "9919160a9b8b45de9e94d8449a9db724",
+                        "name": {
+                            "en": "Beauty products",
+                            "vi": "Mỹ phẩm"
+                        }
+                    },
+                    {
+                        "id": "b360d000c12542c9a0a61978a003f897",
+                        "name": {
+                            "en": "Body shape",
+                            "vi": "Thân hình"
+                        }
+                    },
+                    {
+                        "id": "5f3b5553f5b3409489e2a3c341db8729",
+                        "name": {
+                            "en": "Describing hair",
+                            "vi": "Mô tả tóc"
+                        }
+                    },
+                    {
+                        "id": "10f2a439cee0440dadfbb7e27dee69a0",
+                        "name": {
+                            "en": "Facial expressions",
+                            "vi": "Nét mặt"
+                        }
+                    },
+                    {
+                        "id": "8f3ba57b84db4b33819c22fb26a9b486",
+                        "name": {
+                            "en": "Facial hair",
+                            "vi": "Lông mặt"
+                        }
+                    },
+                    {
+                        "id": "a9c48b1aac094f529e043a847d4103ab",
+                        "name": {
+                            "en": "Posture and movement",
+                            "vi": "Tư thế và chuyển động"
+                        }
+                    },
+                    {
+                        "id": "c7afd68bc6684cc685a05e95eb2838e3",
+                        "name": {
+                            "en": "Skin",
+                            "vi": "Da"
+                        }
+                    },
+                    {
+                        "id": "287bc370e9bf4bfe91a01cadcfc58b72",
+                        "name": {
+                            "en": "Styling hair",
+                            "vi": "Tạo kiểu tóc"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "3c0913d7aa9d4ed5b6c66419937f4d19",
+                "name": {
+                    "en": "Body",
+                    "vi": "Cơ thể người"
+                },
+                "subTopics": [
+                    {
+                        "id": "50491865bba749a88830739f75cac5b0",
+                        "name": {
+                            "en": "Face",
+                            "vi": "Mặt"
+                        }
+                    },
+                    {
+                        "id": "b405d5c7275a4ad98754b972886ea1c6",
+                        "name": {
+                            "en": "Hands and feet",
+                            "vi": "Tay và chân"
+                        }
+                    },
+                    {
+                        "id": "5c1207b420a6403c9580dce86b1f1904",
+                        "name": {
+                            "en": "Inside the body",
+                            "vi": "Bên trong cơ thể"
+                        }
+                    },
+                    {
+                        "id": "6e6167aabfbe46bcaff6c3b185b2e1d5",
+                        "name": {
+                            "en": "Mouth and teeth",
+                            "vi": "Miệng và răng"
+                        }
+                    },
+                    {
+                        "id": "54578ea13a064924be7e9a96a34f1fae",
+                        "name": {
+                            "en": "Parts of the body",
+                            "vi": "Các bộ phận của cơ thể"
+                        }
+                    },
+                    {
+                        "id": "6c83fd83de394dbe8e7d5c379b6c154f",
+                        "name": {
+                            "en": "Skeleton and muscles",
+                            "vi": "Bộ xương và cơ bắp"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "13d288c0094741d6862280368bfb99f7",
+                "name": {
+                    "en": "Clothes and Fashion",
+                    "vi": "Quần áo và thời trang"
+                },
+                "subTopics": [
+                    {
+                        "id": "f7a04b578e864889baf4565398061872",
+                        "name": {
+                            "en": "Accessories",
+                            "vi": "Phụ kiện"
+                        }
+                    },
+                    {
+                        "id": "141d26aeee6b45cb99e57ca4e7d7686d",
+                        "name": {
+                            "en": "Describing clothes",
+                            "vi": "Mô tả quần áo"
+                        }
+                    },
+                    {
+                        "id": "e06a0b12dfaa4bf5a46d87a0f4aee5e4",
+                        "name": {
+                            "en": "Footwear",
+                            "vi": "giày dép"
+                        }
+                    },
+                    {
+                        "id": "1da037923ada4812a2ac70e785756641",
+                        "name": {
+                            "en": "Hats",
+                            "vi": "Nón kết"
+                        }
+                    },
+                    {
+                        "id": "68c9e01f0a174fc185ad5648f6ee3986",
+                        "name": {
+                            "en": "Items of clothing",
+                            "vi": "Các mặt hàng quần áo"
+                        }
+                    },
+                    {
+                        "id": "8d816036c6ee473983d3597ae0b24850",
+                        "name": {
+                            "en": "Jewellery",
+                            "vi": "Đồ kim hoàn"
+                        }
+                    },
+                    {
+                        "id": "6620b9abd7cc49ffa36b9dcf8f5ce784",
+                        "name": {
+                            "en": "Parts of clothing",
+                            "vi": "Các bộ phận của quần áo"
+                        }
+                    },
+                    {
+                        "id": "2686087c7d2041ef93704417d564124d",
+                        "name": {
+                            "en": "The fashion world",
+                            "vi": "Thế giới thời trang"
+                        }
+                    },
+                    {
+                        "id": "d7a3eeece97143b29d33d01a4592f5e7",
+                        "name": {
+                            "en": "Wearing clothes",
+                            "vi": "Mặc quần áo"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "88ea54a2e6524dfb848f58f9023b840b",
+                "name": {
+                    "en": "Colours and Shapes",
+                    "vi": "Màu sắc và hình dạng"
+                },
+                "subTopics": [
+                    {
+                        "id": "f1e16084719d4993a7bb588b5b0a4d2f",
+                        "name": {
+                            "en": "Colours",
+                            "vi": "Màu sắc"
+                        }
+                    },
+                    {
+                        "id": "9d6bdfd5bf0a4d31a706c1529eb406c1",
+                        "name": {
+                            "en": "Shapes",
+                            "vi": "Hình dạng"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "410f95c879e14ffba71fb91d22893344",
+        "name": {
+            "en": "Communication",
+            "vi": "Liên lạc"
+        },
+        "topics": [
+            {
+                "id": "d719f810081f409ab2d8cac0dbd7d664",
+                "name": {
+                    "en": "Language",
+                    "vi": "Ngôn ngữ"
+                },
+                "subTopics": [
+                    {
+                        "id": "a8e385a27a1e4d628e695179c5d5941b",
+                        "name": {
+                            "en": "Features of language",
+                            "vi": "Đặc điểm của ngôn ngữ"
+                        }
+                    },
+                    {
+                        "id": "d2a6e548c13a4d6a89aa0630dc3bce4a",
+                        "name": {
+                            "en": "Grammar",
+                            "vi": "Văn phạm"
+                        }
+                    },
+                    {
+                        "id": "851a74551f8c4312bd580ccef40f3d60",
+                        "name": {
+                            "en": "Language skills",
+                            "vi": "Kỹ năng ngôn ngữ"
+                        }
+                    },
+                    {
+                        "id": "c8fffb5791ee435a9ebfaca04a139697",
+                        "name": {
+                            "en": "Languages",
+                            "vi": "Ngôn ngữ"
+                        }
+                    },
+                    {
+                        "id": "24154ed2d5bd4a74a284ae5bcf7aa7f2",
+                        "name": {
+                            "en": "Phonetics",
+                            "vi": "Ngữ âm"
+                        }
+                    },
+                    {
+                        "id": "694a87634eb34143b3fcc81536284390",
+                        "name": {
+                            "en": "Punctuation",
+                            "vi": "Chấm câu"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "84f4171d9a3b4553aa114b9ff69573d6",
+                "name": {
+                    "en": "Phones, email and the internet",
+                    "vi": "Điện thoại, email và internet"
+                },
+                "subTopics": [
+                    {
+                        "id": "61428f55d0e94c0f8fb6b03cd3aa513c",
+                        "name": {
+                            "en": "Communication devices",
+                            "vi": "Thiết bị liên lạc"
+                        }
+                    },
+                    {
+                        "id": "c4bfbf1ac4d743e4a1da4257799dd605",
+                        "name": {
+                            "en": "Email",
+                            "vi": "E-mail"
+                        }
+                    },
+                    {
+                        "id": "384c567419f54ef4b8901b8909256f54",
+                        "name": {
+                            "en": "Making calls",
+                            "vi": "Gọi điện"
+                        }
+                    },
+                    {
+                        "id": "03e2f87592954ac6b0db1594f51a3b7e",
+                        "name": {
+                            "en": "Phone services",
+                            "vi": "Dịch vụ điện thoại"
+                        }
+                    },
+                    {
+                        "id": "331dd9ccb7634a8287e3d517615429d8",
+                        "name": {
+                            "en": "Social media",
+                            "vi": "Truyền thông xã hội"
+                        }
+                    },
+                    {
+                        "id": "f6ddd0526a254c9b9fca8f2dc8091299",
+                        "name": {
+                            "en": "Text messages",
+                            "vi": "Tin nhắn"
+                        }
+                    },
+                    {
+                        "id": "7de54a543e464482996f792b8b95c5b4",
+                        "name": {
+                            "en": "Using the internet",
+                            "vi": "Sử dụng mạng Internet"
+                        }
+                    },
+                    {
+                        "id": "1d1610609ba44b6099d3378814714927",
+                        "name": {
+                            "en": "Websites",
+                            "vi": "Trang web"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "fb03c61c735343489eba04c02143a910",
+        "name": {
+            "en": "Culture",
+            "vi": "Văn hoá"
+        },
+        "topics": [
+            {
+                "id": "a5d203e124b54794b6011ade16b73917",
+                "name": {
+                    "en": "Art",
+                    "vi": "Nghệ thuật"
+                },
+                "subTopics": [
+                    {
+                        "id": "79805b63d5cd4a69a9e48801d5b2658b",
+                        "name": {
+                            "en": "Art equipment",
+                            "vi": "Thiết bị nghệ thuật"
+                        }
+                    },
+                    {
+                        "id": "61075d2358e04c13b0c6da9279df9c69",
+                        "name": {
+                            "en": "Artwork and techniques",
+                            "vi": "Tác phẩm nghệ thuật và kỹ thuật"
+                        }
+                    },
+                    {
+                        "id": "9d220755ee044628848d8bf24bedcb23",
+                        "name": {
+                            "en": "Describing art",
+                            "vi": "Nghệ thuật miêu tả"
+                        }
+                    },
+                    {
+                        "id": "bb7888bb4cc0471db2fc04bd6324b503",
+                        "name": {
+                            "en": "Styles of art",
+                            "vi": "Phong cách nghệ thuật"
+                        }
+                    },
+                    {
+                        "id": "18d0d804310b4832b09952f72994ecd4",
+                        "name": {
+                            "en": "The art world",
+                            "vi": "Thế giới nghệ thuật"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "03fa9f4ddf7340239e2aa0642816e72c",
+                "name": {
+                    "en": "Film and theatre",
+                    "vi": "Phim và rạp hát"
+                },
+                "subTopics": [
+                    {
+                        "id": "e73cd7161fae403c90bd50a8cd7d23c6",
+                        "name": {
+                            "en": "Elements of a play or film",
+                            "vi": "Các yếu tố của một vở kịch hoặc bộ phim"
+                        }
+                    },
+                    {
+                        "id": "09b8849b26f94d5b897347b4d27dacb9",
+                        "name": {
+                            "en": "Film reviews and promotion",
+                            "vi": "Đánh giá và quảng cáo phim"
+                        }
+                    },
+                    {
+                        "id": "eda309113921433194a688bfadebbdf2",
+                        "name": {
+                            "en": "Film-making equipment",
+                            "vi": "Thiết bị làm phim"
+                        }
+                    },
+                    {
+                        "id": "880609aaf3624907a511317a8a339584",
+                        "name": {
+                            "en": "In the theatre",
+                            "vi": "Trong nhà hát"
+                        }
+                    },
+                    {
+                        "id": "c0d53cce7d7740b1b43a95dca7b9cb38",
+                        "name": {
+                            "en": "Making films",
+                            "vi": "Làm phim"
+                        }
+                    },
+                    {
+                        "id": "cf40fd6664ce4f78b4058a0bf04958fd",
+                        "name": {
+                            "en": "People in film and theatre",
+                            "vi": "Những người trong phim và rạp hát"
+                        }
+                    },
+                    {
+                        "id": "24eb5cf48f154d618520dffaf3d52b9d",
+                        "name": {
+                            "en": "Producing a play",
+                            "vi": "Sản xuất một vở kịch"
+                        }
+                    },
+                    {
+                        "id": "e1d4d5e9080f4ea5bd097fbc07df8b79",
+                        "name": {
+                            "en": "Showing films",
+                            "vi": "Đang chiếu phim"
+                        }
+                    },
+                    {
+                        "id": "e42db4c20d434815b7fd4e65b22d0a94",
+                        "name": {
+                            "en": "Types of film",
+                            "vi": "Các loại phim"
+                        }
+                    },
+                    {
+                        "id": "85be66a79e3040a5a37e0bb31a80cad0",
+                        "name": {
+                            "en": "Types of play",
+                            "vi": "Các kiểu chơi"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "cd8bb5623b4d42eb8880168ad87dede7",
+                "name": {
+                    "en": "Literature and writing",
+                    "vi": "Văn học và viết lách"
+                },
+                "subTopics": [
+                    {
+                        "id": "42a632b8b77644bb96c868c77c4dd3a1",
+                        "name": {
+                            "en": "Characters in a story",
+                            "vi": "Các nhân vật trong một câu chuyện"
+                        }
+                    },
+                    {
+                        "id": "03cc4c3971ba4c1babd0c263ea70575b",
+                        "name": {
+                            "en": "Describing a story",
+                            "vi": "Mô tả một câu chuyện"
+                        }
+                    },
+                    {
+                        "id": "9d8a40bf732e411d8b6754a472459546",
+                        "name": {
+                            "en": "Elements of a story",
+                            "vi": "Các yếu tố của một câu chuyện"
+                        }
+                    },
+                    {
+                        "id": "3ba9d899bb604e4f80f9747b4d4a54a9",
+                        "name": {
+                            "en": "Parts of a book",
+                            "vi": "Các phần của một cuốn sách"
+                        }
+                    },
+                    {
+                        "id": "9b916c04c6884ba3aeb607a8410f32b6",
+                        "name": {
+                            "en": "People in publishing",
+                            "vi": "Những người xuất bản"
+                        }
+                    },
+                    {
+                        "id": "c633c78b01744a0eb7b0345e51455361",
+                        "name": {
+                            "en": "Poetry",
+                            "vi": "Thơ"
+                        }
+                    },
+                    {
+                        "id": "47231e5c27d8487ca5ae298e4f387249",
+                        "name": {
+                            "en": "Types of story",
+                            "vi": "Các loại câu chuyện"
+                        }
+                    },
+                    {
+                        "id": "e0924cf7c77c48ad89c56dfd24d0151f",
+                        "name": {
+                            "en": "Types of text",
+                            "vi": "Các loại văn bản"
+                        }
+                    },
+                    {
+                        "id": "5e381e7d365a4c9096814021b2eb386e",
+                        "name": {
+                            "en": "Writing and publishing",
+                            "vi": "Viết và xuất bản"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "5e1eecc0aeb846f9b193a02395efc524",
+                "name": {
+                    "en": "Music",
+                    "vi": "Âm nhạc"
+                },
+                "subTopics": [
+                    {
+                        "id": "bb85e528949f46a1a4dba238bbcc45dd",
+                        "name": {
+                            "en": "Describing music",
+                            "vi": "Mô tả âm nhạc"
+                        }
+                    },
+                    {
+                        "id": "ab88ffc1822b408b9051557d1f411869",
+                        "name": {
+                            "en": "Listening to music",
+                            "vi": "Nghe nhạc"
+                        }
+                    },
+                    {
+                        "id": "55b492d77c66499e87d8afb7c7951974",
+                        "name": {
+                            "en": "Live music",
+                            "vi": "Nhạc sống"
+                        }
+                    },
+                    {
+                        "id": "bf3b7245f173439c9df70e865bdb09b4",
+                        "name": {
+                            "en": "Musical instruments",
+                            "vi": "Nhạc cụ"
+                        }
+                    },
+                    {
+                        "id": "5c2b2bb6a3e54c91a5621d47a073ae75",
+                        "name": {
+                            "en": "People in the music world",
+                            "vi": "Những người trong thế giới âm nhạc"
+                        }
+                    },
+                    {
+                        "id": "0e18bb0891b5491c868199079aac85bf",
+                        "name": {
+                            "en": "Pieces of music",
+                            "vi": "Tác phẩm âm nhạc"
+                        }
+                    },
+                    {
+                        "id": "707724655a59489597630a812bcac887",
+                        "name": {
+                            "en": "Producing music",
+                            "vi": "Sản xuất âm nhạc"
+                        }
+                    },
+                    {
+                        "id": "325a39f3796c473c9c36746ac20fa5b8",
+                        "name": {
+                            "en": "Reading music",
+                            "vi": "Đọc nhạc"
+                        }
+                    },
+                    {
+                        "id": "f07115ae96364f81aa1d44285c9042bf",
+                        "name": {
+                            "en": "Styles of music",
+                            "vi": "Phong cách âm nhạc"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "ca6bdecab31f42d2bae6fe865738c09e",
+                "name": {
+                    "en": "TV, radio and news",
+                    "vi": "TV, đài phát thanh và tin tức"
+                },
+                "subTopics": [
+                    {
+                        "id": "d671120208ab468c94afe98e8d47cfb1",
+                        "name": {
+                            "en": "Broadcasting",
+                            "vi": "Phát thanh truyền hình"
+                        }
+                    },
+                    {
+                        "id": "456d6c0ffe1e460fb63b8079077c8a89",
+                        "name": {
+                            "en": "Celebrity news",
+                            "vi": "Tin tức người nổi tiếng"
+                        }
+                    },
+                    {
+                        "id": "31ac28ae6b3f4122bec36208fc9b4c39",
+                        "name": {
+                            "en": "Journalism",
+                            "vi": "Báo chí"
+                        }
+                    },
+                    {
+                        "id": "fce5fe3aff5c4583a3a88eff2cc0c67b",
+                        "name": {
+                            "en": "Media people",
+                            "vi": "Những người truyền thông"
+                        }
+                    },
+                    {
+                        "id": "6a6d49189fd043c892da4b4675d63106",
+                        "name": {
+                            "en": "TV and radio shows",
+                            "vi": "Chương trình truyền hình và đài phát thanh"
+                        }
+                    },
+                    {
+                        "id": "9e1eb7b8e63c440f916a579cb463ef63",
+                        "name": {
+                            "en": "The press",
+                            "vi": "Báo chí"
+                        }
+                    },
+                    {
+                        "id": "a0febf4983ca4ec7a92c34dadeafcd63",
+                        "name": {
+                            "en": "Watching TV/Listening to the radio",
+                            "vi": "Xem TV / Nghe đài"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2d6e14783c70404a897201efc38ccaee",
+        "name": {
+            "en": "Food and drink",
+            "vi": "Đồ ăn thức uống"
+        },
+        "topics": [
+            {
+                "id": "1c81eb0932394657beee866f56f69bd8",
+                "name": {
+                    "en": "Cooking and eating",
+                    "vi": "Nấu ăn và ăn uống"
+                },
+                "subTopics": [
+                    {
+                        "id": "f2b7284dbaf74a85bb715c160cd1282e",
+                        "name": {
+                            "en": "At the dining table",
+                            "vi": "Tại bàn ăn"
+                        }
+                    },
+                    {
+                        "id": "1b6f64acf73e4ebf8a744f07eb0c4e3e",
+                        "name": {
+                            "en": "Diet",
+                            "vi": "Chế độ ăn"
+                        }
+                    },
+                    {
+                        "id": "6b67e2e4f438471cb2ef9db4fafc3a07",
+                        "name": {
+                            "en": "Eating out",
+                            "vi": "Ăn ở ngoài"
+                        }
+                    },
+                    {
+                        "id": "b9aad90b2c6f4e889d3b29269b93d329",
+                        "name": {
+                            "en": "Kitchen equipment",
+                            "vi": "Thiết bị nhà bếp"
+                        }
+                    },
+                    {
+                        "id": "f6a25f3cc60743dd8150977909ed9dcc",
+                        "name": {
+                            "en": "Meals",
+                            "vi": "Bữa ăn"
+                        }
+                    },
+                    {
+                        "id": "432b04022cbf4243a3c1249c821adce7",
+                        "name": {
+                            "en": "Preparing food",
+                            "vi": "Chuẩn bị thức ăn"
+                        }
+                    },
+                    {
+                        "id": "f42209655a1b4987afe6961e5fb2c176",
+                        "name": {
+                            "en": "Restaurant people",
+                            "vi": "Người nhà hàng"
+                        }
+                    },
+                    {
+                        "id": "2e9efad2279a4b57900d904d04954313",
+                        "name": {
+                            "en": "Taste and texture of food",
+                            "vi": "Hương vị và kết cấu của thực phẩm"
+                        }
+                    },
+                    {
+                        "id": "f5f9e45e8dce4269acd9b5d16a7a60cc",
+                        "name": {
+                            "en": "Types of restaurant",
+                            "vi": "Các loại nhà hàng"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "949a8ca25cf84086aaf293355dfab1dc",
+                "name": {
+                    "en": "Drinks",
+                    "vi": "Đồ uống"
+                },
+                "subTopics": [
+                    {
+                        "id": "0313fbef863e4f5d87d38c59e9382f7e",
+                        "name": {
+                            "en": "Alcoholic drinks",
+                            "vi": "Đồ uống có cồn"
+                        }
+                    },
+                    {
+                        "id": "df7f295b892f44189b544b3ef98fc212",
+                        "name": {
+                            "en": "Drinking",
+                            "vi": "Uống rượu"
+                        }
+                    },
+                    {
+                        "id": "0f964381bc9d499cb8be295c2de15595",
+                        "name": {
+                            "en": "Non-alcoholic drinks",
+                            "vi": "Đồ uống không cồn"
+                        }
+                    },
+                    {
+                        "id": "5ba2459aaea44cbba3fcc29ab3418d5b",
+                        "name": {
+                            "en": "Preparing drinks",
+                            "vi": "Chuẩn bị đồ uống"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "60fd3dfd51204ff38f8b0aa9ae2b79d2",
+                "name": {
+                    "en": "Food",
+                    "vi": "Đồ ăn"
+                },
+                "subTopics": [
+                    {
+                        "id": "16d7e111f5c54018bda75fca7fef389a",
+                        "name": {
+                            "en": "Carbohydrates",
+                            "vi": "Carbohydrate"
+                        }
+                    },
+                    {
+                        "id": "33a5b9695cb1427e946ae7d45d3387c2",
+                        "name": {
+                            "en": "Dairy and fats",
+                            "vi": "Sữa và chất béo"
+                        }
+                    },
+                    {
+                        "id": "f182e7884c5d4fbc90998d694033b26c",
+                        "name": {
+                            "en": "Fruit and nuts",
+                            "vi": "Trái cây và các loại hạt"
+                        }
+                    },
+                    {
+                        "id": "7ac6a61d77344a7cb3dca4b10eebf33e",
+                        "name": {
+                            "en": "Herbs and spices",
+                            "vi": "Các loại thảo mộc và gia vị"
+                        }
+                    },
+                    {
+                        "id": "1b6d2ebe7e15463896a632bf99caa42a",
+                        "name": {
+                            "en": "Meat, fish and seafood",
+                            "vi": "Thịt, cá và hải sản"
+                        }
+                    },
+                    {
+                        "id": "47040ad4d8d94ff2a5a4a69447dcbba2",
+                        "name": {
+                            "en": "Sauces",
+                            "vi": "Nước sốt"
+                        }
+                    },
+                    {
+                        "id": "a298992fd4cd452dbaf48b1048e3b6ed",
+                        "name": {
+                            "en": "Savoury dishes",
+                            "vi": "Những món ăn thơm ngon"
+                        }
+                    },
+                    {
+                        "id": "383960d5f3434c32a5254e355650ffdf",
+                        "name": {
+                            "en": "Sweets and desserts",
+                            "vi": "Đồ ngọt và món tráng miệng"
+                        }
+                    },
+                    {
+                        "id": "0f64c86182e1421fa2ad4e6117b1e8ad",
+                        "name": {
+                            "en": "Vegetables",
+                            "vi": "Rau"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ed0f525ed1e74ac6b9b57f911280634a",
+        "name": {
+            "en": "Functions",
+            "vi": "Chức năng"
+        },
+        "topics": [
+            {
+                "id": "21e7e53ef63e4cd59a62aa69796f76fe",
+                "name": {
+                    "en": "Discussion and agreement",
+                    "vi": "Thảo luận và thống nhất"
+                },
+                "subTopics": [
+                    {
+                        "id": "c3017416a3424db09f085c82144cb937",
+                        "name": {
+                            "en": "Agreement",
+                            "vi": "Hiệp định"
+                        }
+                    },
+                    {
+                        "id": "4aa84a85e6c44e5bacc0381beee83f90",
+                        "name": {
+                            "en": "Discussion",
+                            "vi": "Thảo luận"
+                        }
+                    },
+                    {
+                        "id": "2c7fd01656df411198db6d6e1e067444",
+                        "name": {
+                            "en": "Ending an agreement",
+                            "vi": "Kết thúc một thỏa thuận"
+                        }
+                    },
+                    {
+                        "id": "07c295b7af9e4db69207a209ad5644f2",
+                        "name": {
+                            "en": "Mediation",
+                            "vi": "Hòa giải"
+                        }
+                    },
+                    {
+                        "id": "88456dff7abf4270a847b96085330856",
+                        "name": {
+                            "en": "Persuasion",
+                            "vi": "Thuyết phục"
+                        }
+                    },
+                    {
+                        "id": "0f69b01af6944ac99ae301abaf6aaae9",
+                        "name": {
+                            "en": "Working together",
+                            "vi": "Làm việc cùng nhau"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "c8277084e22a4251af6d20058731ff20",
+                "name": {
+                    "en": "Doubt, guessing and certainty",
+                    "vi": "Nghi ngờ, phỏng đoán và chắc chắn"
+                },
+                "subTopics": [
+                    {
+                        "id": "5f8e713d275f40d1ba332f43e17031e0",
+                        "name": {
+                            "en": "Certainty",
+                            "vi": "Chắc chắn"
+                        }
+                    },
+                    {
+                        "id": "3434ee4d395f4658ab7442b8613b443a",
+                        "name": {
+                            "en": "Doubt",
+                            "vi": "Nghi ngờ"
+                        }
+                    },
+                    {
+                        "id": "1f2d983bcb94483eb7eb3b9e4ac5ba24",
+                        "name": {
+                            "en": "Guessing",
+                            "vi": "Đoán"
+                        }
+                    },
+                    {
+                        "id": "7d7d1b71484942f790d479ee5d5c792d",
+                        "name": {
+                            "en": "Possibility",
+                            "vi": "Khả năng"
+                        }
+                    },
+                    {
+                        "id": "56581c89806044da89d7738f9a3532a8",
+                        "name": {
+                            "en": "Probability",
+                            "vi": "Xác suất"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "f80414682a9544108cbfd7ccbf432a88",
+                "name": {
+                    "en": "Opinion and argument",
+                    "vi": "Ý kiến và lập luận"
+                },
+                "subTopics": [
+                    {
+                        "id": "dc2c0cf89a0443c6a561331e8b89ffa9",
+                        "name": {
+                            "en": "Expressing agreement",
+                            "vi": "Sự đồng ý ấn tượng"
+                        }
+                    },
+                    {
+                        "id": "06194a475f0c479a9c985c1390be39a9",
+                        "name": {
+                            "en": "Expressing an opinion",
+                            "vi": "Đưa ra ý kiến"
+                        }
+                    },
+                    {
+                        "id": "3378c81603c74ef2b87e2b4154d00575",
+                        "name": {
+                            "en": "Expressing disagreement",
+                            "vi": "Bày tỏ sự không đồng tình"
+                        }
+                    },
+                    {
+                        "id": "a58bfd1f68364c879f5a56ee5d4653ff",
+                        "name": {
+                            "en": "Forming an opinion",
+                            "vi": "Hình thành ý kiến"
+                        }
+                    },
+                    {
+                        "id": "03236018124949ee9db9e4d60d9b5ba6",
+                        "name": {
+                            "en": "Having a disagreement",
+                            "vi": "Có bất đồng"
+                        }
+                    },
+                    {
+                        "id": "21d3015dceb545e8bed49a7c39a9856e",
+                        "name": {
+                            "en": "Making an argument",
+                            "vi": "Lập luận"
+                        }
+                    },
+                    {
+                        "id": "c977339bd2374a8681e56c28b5b412f6",
+                        "name": {
+                            "en": "Matching",
+                            "vi": "Phù hợp"
+                        }
+                    },
+                    {
+                        "id": "4a27aada81e14dd9a2af5c1d626e6907",
+                        "name": {
+                            "en": "Not matching",
+                            "vi": "Không khớp"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "53825ac8d0a04e4b8f533899bda01a4a",
+                "name": {
+                    "en": "Permission and obligation",
+                    "vi": "Quyền và nghĩa vụ"
+                },
+                "subTopics": [
+                    {
+                        "id": "7b5c22c48f3246ad81a15dd55f496907",
+                        "name": {
+                            "en": "Allowed",
+                            "vi": "Cho phép"
+                        }
+                    },
+                    {
+                        "id": "9314dd4efbb9441aa434cfef102d920b",
+                        "name": {
+                            "en": "Must",
+                            "vi": "Cần phải"
+                        }
+                    },
+                    {
+                        "id": "473d4948e45a44a3994ea3ee8f7585d4",
+                        "name": {
+                            "en": "Not allowed",
+                            "vi": "Không cho phép"
+                        }
+                    },
+                    {
+                        "id": "52a1c73d1ee44bb692c7b3f3dcf781c1",
+                        "name": {
+                            "en": "Rules",
+                            "vi": "Quy tắc"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "0dd37df3b9c741409914afcf9e7c4d06",
+                "name": {
+                    "en": "Preferences and decisions",
+                    "vi": "Các ưu tiên và quyết định"
+                },
+                "subTopics": [
+                    {
+                        "id": "dfa228926dde4d3280dc625eaa8d07ee",
+                        "name": {
+                            "en": "Decide",
+                            "vi": "Quyết định"
+                        }
+                    },
+                    {
+                        "id": "1705e251bdcd422189ab34036743919a",
+                        "name": {
+                            "en": "Dislike",
+                            "vi": "Không thích"
+                        }
+                    },
+                    {
+                        "id": "a0a42c633e7944f89117d5f864b2b559",
+                        "name": {
+                            "en": "Like",
+                            "vi": "Như"
+                        }
+                    },
+                    {
+                        "id": "5218d35db25e4cd3bb21d3242656febc",
+                        "name": {
+                            "en": "Prefer",
+                            "vi": "Thích hơn"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "77d7c3c8577c400eb5f6d543878f89ab",
+                "name": {
+                    "en": "Suggestions and advice",
+                    "vi": "Gợi ý và lời khuyên"
+                },
+                "subTopics": [
+                    {
+                        "id": "1752e0f27d7341e0b83626a0066e731a",
+                        "name": {
+                            "en": "Advice",
+                            "vi": "Lời khuyên"
+                        }
+                    },
+                    {
+                        "id": "8b3eb07dc2a840e6b29b7c3d89381f4a",
+                        "name": {
+                            "en": "Suggestion",
+                            "vi": "Gợi ý"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c7db815f24094b348f68c75029f039de",
+        "name": {
+            "en": "Health",
+            "vi": "Sức khỏe"
+        },
+        "topics": [
+            {
+                "id": "8b9ff6f4c2c8442aaed55f8f63c8a665",
+                "name": {
+                    "en": "Disability",
+                    "vi": "Khuyết tật"
+                },
+                "subTopics": [
+                    {
+                        "id": "977ac39696fd4e65a5ca1bd34484b8ad",
+                        "name": {
+                            "en": "Living with disability",
+                            "vi": "Sống chung với khuyết tật"
+                        }
+                    },
+                    {
+                        "id": "5b761c6e993447bd85bfd69b0a7557c3",
+                        "name": {
+                            "en": "Types of disability",
+                            "vi": "Các dạng khuyết tật"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "e2fa660380b74da5a6f003f9e6bcdd64",
+                "name": {
+                    "en": "Health and Fitness",
+                    "vi": "Sức khỏe và Thể hình"
+                },
+                "subTopics": [
+                    {
+                        "id": "9e81b4e94dda4aa581363e51abebd7db",
+                        "name": {
+                            "en": "Exercise",
+                            "vi": "Thể dục"
+                        }
+                    },
+                    {
+                        "id": "f050fd3be1364b7792efa877c66a615d",
+                        "name": {
+                            "en": "Good health",
+                            "vi": "Sức khỏe tốt"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "a7a69c061b3c41dd9a6eb2c4fd611ffc",
+                "name": {
+                    "en": "Health problems",
+                    "vi": "Các vấn đề sức khoẻ"
+                },
+                "subTopics": [
+                    {
+                        "id": "d7a925afde3442afb5dd94ee278c4155",
+                        "name": {
+                            "en": "Addiction",
+                            "vi": "Nghiện"
+                        }
+                    },
+                    {
+                        "id": "d95aee0874b84b12bc5f98a9202d6f72",
+                        "name": {
+                            "en": "Being ill",
+                            "vi": "Bị ốm"
+                        }
+                    },
+                    {
+                        "id": "53ffa53696ed4780984bc7cb804d79c2",
+                        "name": {
+                            "en": "Injuries",
+                            "vi": "Thương tích"
+                        }
+                    },
+                    {
+                        "id": "c945a72a5a8143c2a54f720d8d50db52",
+                        "name": {
+                            "en": "Poor health",
+                            "vi": "Sức khỏe kém"
+                        }
+                    },
+                    {
+                        "id": "2561e596c6b24d22a90897c27eb71358",
+                        "name": {
+                            "en": "Recovering from illness",
+                            "vi": "Phục hồi sau bệnh tật"
+                        }
+                    },
+                    {
+                        "id": "14b3edb1eccd4ca8b34800a9268f2675",
+                        "name": {
+                            "en": "Types of illness",
+                            "vi": "Các loại bệnh tật"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "34def0ddd1754a1e92e4eac5cd272422",
+                "name": {
+                    "en": "Healthcare",
+                    "vi": "Chăm sóc sức khỏe"
+                },
+                "subTopics": [
+                    {
+                        "id": "c8cfd18c984941cfac1f1e1b794936e2",
+                        "name": {
+                            "en": "Complementary medicine",
+                            "vi": "Y học bổ túc"
+                        }
+                    },
+                    {
+                        "id": "47f03490f0f9440eb9a73cc63e9f9a81",
+                        "name": {
+                            "en": "Healthcare",
+                            "vi": "Chăm sóc sức khỏe"
+                        }
+                    },
+                    {
+                        "id": "0132b4388a5a406b85c88fd57e604fc8",
+                        "name": {
+                            "en": "Hospitals",
+                            "vi": "Bệnh viện"
+                        }
+                    },
+                    {
+                        "id": "1b95d45295e346a8879616b8cdcaa0fc",
+                        "name": {
+                            "en": "Medical equipment",
+                            "vi": "Trang thiết bị y tế"
+                        }
+                    },
+                    {
+                        "id": "d701762b3a41490696b06af061e8bbb5",
+                        "name": {
+                            "en": "Medical examinations",
+                            "vi": "Khám bệnh"
+                        }
+                    },
+                    {
+                        "id": "b944e6c881ad47e3819fde6817fbf7c9",
+                        "name": {
+                            "en": "Medical staff",
+                            "vi": "Nhân viên y tế"
+                        }
+                    },
+                    {
+                        "id": "f1e8dd83f77847bf9b81381882d64eb0",
+                        "name": {
+                            "en": "Operations",
+                            "vi": "Hoạt động"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "ed0f978bc91f44bbaf13f801d14e80a0",
+                "name": {
+                    "en": "Mental health",
+                    "vi": "Sức khỏe tinh thần"
+                },
+                "subTopics": [
+                    {
+                        "id": "77737437a1244ff996c8ac2f802a2f03",
+                        "name": {
+                            "en": "Mental health care",
+                            "vi": "Chăm soc sưc khỏe tâm thân"
+                        }
+                    },
+                    {
+                        "id": "8e36dcff5a37499496c8fe27e4b4ef51",
+                        "name": {
+                            "en": "Mental health problems",
+                            "vi": "Vấn đề sức khỏe tâm thần"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c3c1acf637384d9cb7896f826a546b5a",
+        "name": {
+            "en": "Homes and buildings",
+            "vi": "Những ngôi nhà và tòa nhà"
+        },
+        "topics": [
+            {
+                "id": "569a2c53bfcc4521be6cb1acb28f96c5",
+                "name": {
+                    "en": "Buildings",
+                    "vi": "Các tòa nhà"
+                },
+                "subTopics": [
+                    {
+                        "id": "29c3c64ff6f64e7986d1f052c512f158",
+                        "name": {
+                            "en": "Architectural features",
+                            "vi": "Đặc điểm kiến trúc"
+                        }
+                    },
+                    {
+                        "id": "74866899ce5d48839a909f4ec41f58da",
+                        "name": {
+                            "en": "Architectural styles",
+                            "vi": "Phong cách kiến trúc"
+                        }
+                    },
+                    {
+                        "id": "a4fb8786b96b4dd0bb4026a63e794638",
+                        "name": {
+                            "en": "Building location",
+                            "vi": "Vị trí tòa nhà"
+                        }
+                    },
+                    {
+                        "id": "22e5592e707f404ab758066f7d516610",
+                        "name": {
+                            "en": "Construction",
+                            "vi": "Xây dựng"
+                        }
+                    },
+                    {
+                        "id": "003dc17e14864aa1a5aca343629be6e3",
+                        "name": {
+                            "en": "Describing buildings",
+                            "vi": "Mô tả các tòa nhà"
+                        }
+                    },
+                    {
+                        "id": "3ab9f860a35945a795b116f5c9da07d1",
+                        "name": {
+                            "en": "Historic buildings",
+                            "vi": "Tòa nhà lịch sử"
+                        }
+                    },
+                    {
+                        "id": "9bbf4ace081541de8d5aa619ce215277",
+                        "name": {
+                            "en": "Parts of a building",
+                            "vi": "Các bộ phận của tòa nhà"
+                        }
+                    },
+                    {
+                        "id": "acfa5d8715d049c9940777b684af93dc",
+                        "name": {
+                            "en": "Public buildings",
+                            "vi": "Công trình công cộng"
+                        }
+                    },
+                    {
+                        "id": "0ebb80514c584456b2fa627a9b36510e",
+                        "name": {
+                            "en": "Religious buildings",
+                            "vi": "Tòa nhà tôn giáo"
+                        }
+                    },
+                    {
+                        "id": "b56e923339714f16acd6712cb2601cc2",
+                        "name": {
+                            "en": "Types of building",
+                            "vi": "Các loại tòa nhà"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "b804831f2726425487cbf02bb62fb1e2",
+                "name": {
+                    "en": "Gardens",
+                    "vi": "Vườn"
+                },
+                "subTopics": [
+                    {
+                        "id": "1c62b7a0653c43c4b24deacf9f2ba2b3",
+                        "name": {
+                            "en": "Gardening",
+                            "vi": "Làm vườn"
+                        }
+                    },
+                    {
+                        "id": "64f455b0ea8348bc9ba85c1e3b995884",
+                        "name": {
+                            "en": "In the garden",
+                            "vi": "Trong vườn"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "bcf388244f484bed85ed6c627636aa99",
+                "name": {
+                    "en": "Houses and homes",
+                    "vi": "Nhà và nhà"
+                },
+                "subTopics": [
+                    {
+                        "id": "ef528181de6040c2b98da56298ec3215",
+                        "name": {
+                            "en": "Buying a home",
+                            "vi": "Mua nhà"
+                        }
+                    },
+                    {
+                        "id": "4561c6bd2d744e10a2b257c655f6971f",
+                        "name": {
+                            "en": "Furniture",
+                            "vi": "Nội thất"
+                        }
+                    },
+                    {
+                        "id": "e39b10de2ade4311a0b8e68511e3bb5b",
+                        "name": {
+                            "en": "House equipment",
+                            "vi": "Thiết bị nhà"
+                        }
+                    },
+                    {
+                        "id": "45e403ffd3964298857a2d26ec8f4fdf",
+                        "name": {
+                            "en": "Housework",
+                            "vi": "Công việc nhà"
+                        }
+                    },
+                    {
+                        "id": "ca9805aec0634b429da2e9a094d531fc",
+                        "name": {
+                            "en": "Interior décor",
+                            "vi": "Trang trí nội thất"
+                        }
+                    },
+                    {
+                        "id": "f34a0b4df57d44609cd25c31f62dec4a",
+                        "name": {
+                            "en": "Parts of a house",
+                            "vi": "Các bộ phận của ngôi nhà"
+                        }
+                    },
+                    {
+                        "id": "e3800d8423fe4de5833b88667c30fcf3",
+                        "name": {
+                            "en": "Renting a home",
+                            "vi": "Thuê nhà"
+                        }
+                    },
+                    {
+                        "id": "39e8444b44ca4c24b946a2fefc3d7031",
+                        "name": {
+                            "en": "Rooms in a house",
+                            "vi": "Các phòng trong một ngôi nhà"
+                        }
+                    },
+                    {
+                        "id": "5044058494c24647841e43971b48c8fd",
+                        "name": {
+                            "en": "Types of house",
+                            "vi": "Các loại nhà"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "34384bad76dd49d79a05899a78447fae",
+        "name": {
+            "en": "Leisure",
+            "vi": "Thời gian rảnh rỗi"
+        },
+        "topics": [
+            {
+                "id": "c7f39cb63c2242e2848980bae85ac6a2",
+                "name": {
+                    "en": "Games and toys",
+                    "vi": "Trò chơi và đồ chơi"
+                },
+                "subTopics": [
+                    {
+                        "id": "bcb76dbc4a744e70a8a879a8b325ddca",
+                        "name": {
+                            "en": "Ball games",
+                            "vi": "Trò chơi bóng"
+                        }
+                    },
+                    {
+                        "id": "25899fb189494215b4b776b3a8649d9a",
+                        "name": {
+                            "en": "Board games",
+                            "vi": "Trò chơi board"
+                        }
+                    },
+                    {
+                        "id": "10cef187a98347768aab270b51b45d0e",
+                        "name": {
+                            "en": "Card games",
+                            "vi": "Trò chơi bài"
+                        }
+                    },
+                    {
+                        "id": "3327574cd7e54db49280426764218ca0",
+                        "name": {
+                            "en": "Children's games",
+                            "vi": "Trò chơi trẻ em"
+                        }
+                    },
+                    {
+                        "id": "a2800c0b630d46a18515f79d219c787e",
+                        "name": {
+                            "en": "Computer games",
+                            "vi": "Trò chơi máy tính"
+                        }
+                    },
+                    {
+                        "id": "2d55337ffb6b433681c519e20c7ddc72",
+                        "name": {
+                            "en": "Games in general",
+                            "vi": "Trò chơi nói chung"
+                        }
+                    },
+                    {
+                        "id": "baa6724a49e84aecabb93cd0d28106cb",
+                        "name": {
+                            "en": "Indoor games",
+                            "vi": "Trò chơi trong nhà"
+                        }
+                    },
+                    {
+                        "id": "46c07c56a0a94132af0a5877c9e02a79",
+                        "name": {
+                            "en": "Toys",
+                            "vi": "Đồ chơi"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "ae77742ba75646c1aac4660177afe567",
+                "name": {
+                    "en": "Hobbies",
+                    "vi": "Sở thích"
+                },
+                "subTopics": [
+                    {
+                        "id": "22c6cf75ff9e4d858aa9ce3322d50ee9",
+                        "name": {
+                            "en": "Activities and interests",
+                            "vi": "Hoạt động và sở thích"
+                        }
+                    },
+                    {
+                        "id": "a9f475e45b154fecb14f2fbfe5e49509",
+                        "name": {
+                            "en": "Crafts and skills",
+                            "vi": "Thủ công và kỹ năng"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "6bb790d0fd58491789b86a44908e681d",
+                "name": {
+                    "en": "Shopping",
+                    "vi": "Mua sắm"
+                },
+                "subTopics": [
+                    {
+                        "id": "0a9c9743945d48d6811dc544877f04b2",
+                        "name": {
+                            "en": "Departments in stores",
+                            "vi": "Các bộ phận trong cửa hàng"
+                        }
+                    },
+                    {
+                        "id": "05b746f86d184c818e1660edf8b0a396",
+                        "name": {
+                            "en": "Online shopping",
+                            "vi": "Mua sắm trực tuyến"
+                        }
+                    },
+                    {
+                        "id": "91939f1dd5044e47851bd8e4f951a677",
+                        "name": {
+                            "en": "Paying for shopping",
+                            "vi": "Thanh toán khi mua sắm"
+                        }
+                    },
+                    {
+                        "id": "e2b61402761e4d7cb0d7f8827e0b1d1c",
+                        "name": {
+                            "en": "Shopping in stores",
+                            "vi": "Mua sắm tại các cửa hàng"
+                        }
+                    },
+                    {
+                        "id": "12c4b1c1555d4096b0c373e05e55f9a7",
+                        "name": {
+                            "en": "Types of store",
+                            "vi": "Các loại cửa hàng"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2c7e0e2d0ffe47468e88cb251e313fe6",
+        "name": {
+            "en": "Notions",
+            "vi": "Quan niệm"
+        },
+        "topics": [
+            {
+                "id": "9aa5e25039cc412ab5700236233b7a3a",
+                "name": {
+                    "en": "Change, cause and effect",
+                    "vi": "Thay đổi, nhân quả"
+                },
+                "subTopics": [
+                    {
+                        "id": "aeee7ba7295e4236b99734c458f6a9e8",
+                        "name": {
+                            "en": "Cause and effect",
+                            "vi": "Nhân quả"
+                        }
+                    },
+                    {
+                        "id": "ac6b70b564ab491c864f389a8057aac2",
+                        "name": {
+                            "en": "Change",
+                            "vi": "Thay đổi"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "006a0445928f4b96bafa5e92f946028d",
+                "name": {
+                    "en": "Danger",
+                    "vi": "Sự nguy hiểm"
+                },
+                "subTopics": [
+                    {
+                        "id": "c7f696d8c5bd4fcb98e517355f8cf512",
+                        "name": {
+                            "en": "Dangerous people/things",
+                            "vi": "Những người / vật nguy hiểm"
+                        }
+                    },
+                    {
+                        "id": "24a62ba2c14f4affb2fb284bcd8ee590",
+                        "name": {
+                            "en": "Involving danger",
+                            "vi": "Liên quan đến nguy hiểm"
+                        }
+                    },
+                    {
+                        "id": "d143b953488d401cbda2f185ead8ae6e",
+                        "name": {
+                            "en": "Preventing danger",
+                            "vi": "Đề phòng nguy hiểm"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "db28bf2f2044420485ad5507f27dd9bb",
+                "name": {
+                    "en": "Difficulty and failure",
+                    "vi": "Khó khăn và thất bại"
+                },
+                "subTopics": [
+                    {
+                        "id": "0069ad8150c04991a5bd4d1918e99878",
+                        "name": {
+                            "en": "Accepting failure",
+                            "vi": "Chấp nhận thất bại"
+                        }
+                    },
+                    {
+                        "id": "2fdb1175cafe4128b74ef1526ef640a3",
+                        "name": {
+                            "en": "Causing difficulty",
+                            "vi": "Gây khó khăn"
+                        }
+                    },
+                    {
+                        "id": "8e7c997e5470494d8e83dfba2b2914a8",
+                        "name": {
+                            "en": "Causing failure",
+                            "vi": "Gây ra thất bại"
+                        }
+                    },
+                    {
+                        "id": "83db0dd796cc401f99cde88e2aace833",
+                        "name": {
+                            "en": "Involving difficulty",
+                            "vi": "Liên quan đến khó khăn"
+                        }
+                    },
+                    {
+                        "id": "39ed5ce7ccaf444b8ccf1ecf345f0996",
+                        "name": {
+                            "en": "Likely to fail",
+                            "vi": "Có khả năng thất bại"
+                        }
+                    },
+                    {
+                        "id": "527f381c8c2843f7953e82035dde159d",
+                        "name": {
+                            "en": "Resulting in failure",
+                            "vi": "Dẫn đến thất bại"
+                        }
+                    },
+                    {
+                        "id": "4b94fb8b4a6f478caec987f81cb3e9cd",
+                        "name": {
+                            "en": "Unsuccessful people/things",
+                            "vi": "Những người / điều không thành công"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "e9f1f73b08674d0fbd903d2e05e806fb",
+                "name": {
+                    "en": "Success",
+                    "vi": "Thành công"
+                },
+                "subTopics": [
+                    {
+                        "id": "98ba6fde45f2454389ad3779b08e4950",
+                        "name": {
+                            "en": "Achieving success",
+                            "vi": "Đạt được thành công"
+                        }
+                    },
+                    {
+                        "id": "f1131f014e274397800bf65884eb35cf",
+                        "name": {
+                            "en": "Acknowledging success",
+                            "vi": "Công nhận thành công"
+                        }
+                    },
+                    {
+                        "id": "2d981cb8d14c4057ab31dba59abb2f33",
+                        "name": {
+                            "en": "Ambition",
+                            "vi": "Tham vọng"
+                        }
+                    },
+                    {
+                        "id": "dd9f003a8ed74a52905789f5c7feef80",
+                        "name": {
+                            "en": "Predicting success",
+                            "vi": "Dự đoán thành công"
+                        }
+                    },
+                    {
+                        "id": "4907c76e59c7456282370c54489b93e1",
+                        "name": {
+                            "en": "Successful people",
+                            "vi": "Những người thành công"
+                        }
+                    },
+                    {
+                        "id": "1e42b579c9d24761812a5e8bb8ca0d73",
+                        "name": {
+                            "en": "Successful things",
+                            "vi": "Những điều thành công"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7e9f7f35635b4adfb6c13ac3c8ab9beb",
+        "name": {
+            "en": "People",
+            "vi": "Mọi người"
+        },
+        "topics": [
+            {
+                "id": "27c0c2c72a4a4258aa772440f9078664",
+                "name": {
+                    "en": "Education",
+                    "vi": "Giáo dục"
+                },
+                "subTopics": [
+                    {
+                        "id": "222fbb124cba4dcfb7594debfca97648",
+                        "name": {
+                            "en": "Access to education",
+                            "vi": "Đăng kí học"
+                        }
+                    },
+                    {
+                        "id": "f3240e42daff4f0bb6c814e28aedf521",
+                        "name": {
+                            "en": "Degrees",
+                            "vi": "Bằng cấp"
+                        }
+                    },
+                    {
+                        "id": "10ece7eb9c434bd497c69203b85d111f",
+                        "name": {
+                            "en": "Exams and assessment",
+                            "vi": "Kiểm tra và đánh giá"
+                        }
+                    },
+                    {
+                        "id": "098b8e0e5bc3441593ccf76e4c48c27a",
+                        "name": {
+                            "en": "In school",
+                            "vi": "Ở trường"
+                        }
+                    },
+                    {
+                        "id": "5bd868637d1f4cfcb1bbaa8b8ad1c1df",
+                        "name": {
+                            "en": "People in schools",
+                            "vi": "Những người trong trường học"
+                        }
+                    },
+                    {
+                        "id": "932725a3eba04313b207635a45c5d06a",
+                        "name": {
+                            "en": "School life",
+                            "vi": "Đời sống học đường"
+                        }
+                    },
+                    {
+                        "id": "5f101b119dd640429ef711acade94b1f",
+                        "name": {
+                            "en": "Subjects and courses",
+                            "vi": "Các môn học và khóa học"
+                        }
+                    },
+                    {
+                        "id": "9a44346d766940d0b163133dd4120676",
+                        "name": {
+                            "en": "Teaching and learning",
+                            "vi": "Dạy và học"
+                        }
+                    },
+                    {
+                        "id": "1d8b7eba6bec42b08701603cf1639f54",
+                        "name": {
+                            "en": "Types of school",
+                            "vi": "Các loại trường học"
+                        }
+                    },
+                    {
+                        "id": "28864dfe781844fa9855b6864b6b8eea",
+                        "name": {
+                            "en": "Universities and colleges",
+                            "vi": "Các trường đại học và cao đẳng"
+                        }
+                    },
+                    {
+                        "id": "e2e7640631ac414f84fce6a59b0b98f8",
+                        "name": {
+                            "en": "University people",
+                            "vi": "Người đại học"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "8cd06ca3fca2450682dca08b3c0ca871",
+                "name": {
+                    "en": "Family and relationships",
+                    "vi": "Gia đình và các mối quan hệ"
+                },
+                "subTopics": [
+                    {
+                        "id": "4f0146d76b8f4f03bba592f8cbc69c6a",
+                        "name": {
+                            "en": "Family background",
+                            "vi": "Hoàn cảnh gia đình"
+                        }
+                    },
+                    {
+                        "id": "58c59589f1234389a2350e3214f233a9",
+                        "name": {
+                            "en": "Friends",
+                            "vi": "Bạn bè"
+                        }
+                    },
+                    {
+                        "id": "f68448b57b6e4eba8a8f0bbf5b81b18b",
+                        "name": {
+                            "en": "Names",
+                            "vi": "Tên"
+                        }
+                    },
+                    {
+                        "id": "8b32ba0f964f43a5af8503db17e886e7",
+                        "name": {
+                            "en": "Relationships ending",
+                            "vi": "Kết thúc mối quan hệ"
+                        }
+                    },
+                    {
+                        "id": "756894899dd0435cbdd82c87b0d18562",
+                        "name": {
+                            "en": "Relatives",
+                            "vi": "Họ hàng"
+                        }
+                    },
+                    {
+                        "id": "11f6e38dc8bd49518cd49a03389a2d57",
+                        "name": {
+                            "en": "Romance",
+                            "vi": "Lãng mạn"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "e1b8334babbb42ad8a9c411247dd79c8",
+                "name": {
+                    "en": "Feelings",
+                    "vi": "Cảm xúc"
+                },
+                "subTopics": [
+                    {
+                        "id": "b19288d372b94ee69628ce223a4c8948",
+                        "name": {
+                            "en": "Anger",
+                            "vi": "Sự tức giận"
+                        }
+                    },
+                    {
+                        "id": "22d8e57d5c0f414cafe47120856f3788",
+                        "name": {
+                            "en": "Boredom",
+                            "vi": "Chán"
+                        }
+                    },
+                    {
+                        "id": "8d6458b261be48c995d378fd0890df63",
+                        "name": {
+                            "en": "Disappointment",
+                            "vi": "Thất vọng"
+                        }
+                    },
+                    {
+                        "id": "99aa1e3417a643cf956b08af3c93043e",
+                        "name": {
+                            "en": "Disgust",
+                            "vi": "Ghê tởm"
+                        }
+                    },
+                    {
+                        "id": "ef9014a040f4469186390036daff38dc",
+                        "name": {
+                            "en": "Embarrassment",
+                            "vi": "Sự lúng túng"
+                        }
+                    },
+                    {
+                        "id": "ded39563ecce4631a4d8a4c162abfeab",
+                        "name": {
+                            "en": "Excitement",
+                            "vi": "Sự phấn khích"
+                        }
+                    },
+                    {
+                        "id": "c87cb6cff7e24f6ba10e5f74b0adf4fa",
+                        "name": {
+                            "en": "Fear",
+                            "vi": "Nỗi sợ"
+                        }
+                    },
+                    {
+                        "id": "78597f715ef34ea18377cb931d9846a6",
+                        "name": {
+                            "en": "Feelings in general",
+                            "vi": "Cảm xúc nói chung"
+                        }
+                    },
+                    {
+                        "id": "697c9f32c2e84d30a5fb36a393d61e92",
+                        "name": {
+                            "en": "Happiness",
+                            "vi": "Niềm hạnh phúc"
+                        }
+                    },
+                    {
+                        "id": "e75cc85a38c64fb187788dac706b6d79",
+                        "name": {
+                            "en": "Hate",
+                            "vi": "Ghét"
+                        }
+                    },
+                    {
+                        "id": "2d80dd1e978048cc8a6e08d7bf85121d",
+                        "name": {
+                            "en": "Hunger",
+                            "vi": "Nạn đói"
+                        }
+                    },
+                    {
+                        "id": "eb0637c3cf074d4eb96f1267a53c975a",
+                        "name": {
+                            "en": "Loneliness",
+                            "vi": "Sự cô đơn"
+                        }
+                    },
+                    {
+                        "id": "f8a1688d2e21426b84419cab76cab884",
+                        "name": {
+                            "en": "Love",
+                            "vi": "Yêu và quý"
+                        }
+                    },
+                    {
+                        "id": "087712ed057a460983fe70ffd13adc21",
+                        "name": {
+                            "en": "Nervous",
+                            "vi": "Thần kinh"
+                        }
+                    },
+                    {
+                        "id": "8aa533b77a904811b74c620e3c426d56",
+                        "name": {
+                            "en": "Showing interest",
+                            "vi": "Thể hiện sự quan tâm"
+                        }
+                    },
+                    {
+                        "id": "7e1379e44b3b414da5e28dcc8985d7b1",
+                        "name": {
+                            "en": "Surprise",
+                            "vi": "Sự ngạc nhiên"
+                        }
+                    },
+                    {
+                        "id": "75f8a3f73b3f42b79ce84bfe0b883c44",
+                        "name": {
+                            "en": "Thirst",
+                            "vi": "Khát nước"
+                        }
+                    },
+                    {
+                        "id": "d19bbf339d764ceda5bdde06828e6f38",
+                        "name": {
+                            "en": "Tiredness",
+                            "vi": "Mệt mỏi"
+                        }
+                    },
+                    {
+                        "id": "77babfe7dd5d4f83a3de3ae9d959d302",
+                        "name": {
+                            "en": "Unhappiness",
+                            "vi": "Bất hạnh"
+                        }
+                    },
+                    {
+                        "id": "e99bc4f69580424dbb54001733dbabdc",
+                        "name": {
+                            "en": "Worry",
+                            "vi": "Lo"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "6f2af6b5a6fd45ef97bbe33f4e437827",
+                "name": {
+                    "en": "Life stages",
+                    "vi": "Các giai đoạn cuộc sống"
+                },
+                "subTopics": [
+                    {
+                        "id": "eeefe79c7eea4e83bffb968ddd0b27ba",
+                        "name": {
+                            "en": "Adults",
+                            "vi": "Người lớn"
+                        }
+                    },
+                    {
+                        "id": "2179247ffb58405b812dc95aa3c6d7ee",
+                        "name": {
+                            "en": "Babies",
+                            "vi": "Đứa trẻ"
+                        }
+                    },
+                    {
+                        "id": "ce6f156f516045789921fd1c78a4da71",
+                        "name": {
+                            "en": "Birth",
+                            "vi": "Sinh"
+                        }
+                    },
+                    {
+                        "id": "e7e55d310b7044acbb6166cb76a8ddaf",
+                        "name": {
+                            "en": "Death",
+                            "vi": "Tử vong"
+                        }
+                    },
+                    {
+                        "id": "021d3e3822e747ad93849c5acbf2a2ab",
+                        "name": {
+                            "en": "Marriage",
+                            "vi": "Hôn nhân"
+                        }
+                    },
+                    {
+                        "id": "2ae7b898ad9f40d69d9e0e0e5abe04d6",
+                        "name": {
+                            "en": "Old age",
+                            "vi": "Tuổi già"
+                        }
+                    },
+                    {
+                        "id": "9b12f4b1da9a47709929756c717bc478",
+                        "name": {
+                            "en": "Pregnancy",
+                            "vi": "Thai kỳ"
+                        }
+                    },
+                    {
+                        "id": "2c043c2856fc424c958dc8f15f8adb42",
+                        "name": {
+                            "en": "Raising children",
+                            "vi": "Nuôi dạy con cái"
+                        }
+                    },
+                    {
+                        "id": "beae7108697c4cf99938a9c8ff6f558a",
+                        "name": {
+                            "en": "Youth",
+                            "vi": "Thiếu niên"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "258ee68caaa4492d8c14c8a69e023bd7",
+                "name": {
+                    "en": "Personal qualities",
+                    "vi": "Bản tính"
+                },
+                "subTopics": [
+                    {
+                        "id": "56a7d44752d948e79087355585a8e7da",
+                        "name": {
+                            "en": "Annoying",
+                            "vi": "Khó chịu"
+                        }
+                    },
+                    {
+                        "id": "dc8061f26e13423ca2cbd4db69e2a59c",
+                        "name": {
+                            "en": "Brave",
+                            "vi": "Can đảm"
+                        }
+                    },
+                    {
+                        "id": "e045916089cc434582a40ae44f93d7d4",
+                        "name": {
+                            "en": "Clever",
+                            "vi": "Tài giỏi"
+                        }
+                    },
+                    {
+                        "id": "061e823290ce4b9eb81603d96e1908b9",
+                        "name": {
+                            "en": "Confident",
+                            "vi": "Tin chắc"
+                        }
+                    },
+                    {
+                        "id": "49ab6c1b6a6f4db9a08b457328945720",
+                        "name": {
+                            "en": "Cowardly",
+                            "vi": "Hèn nhát"
+                        }
+                    },
+                    {
+                        "id": "92c81eda01b144e89677fcac1df3bce1",
+                        "name": {
+                            "en": "Dishonest",
+                            "vi": "Không trung thực"
+                        }
+                    },
+                    {
+                        "id": "871bba4a58e3412db7f0def9e9e1ca6c",
+                        "name": {
+                            "en": "Energetic",
+                            "vi": "Năng lượng"
+                        }
+                    },
+                    {
+                        "id": "1d7e972b8a2040a3aed06c34c8c1d88e",
+                        "name": {
+                            "en": "Friendly",
+                            "vi": "Thân thiện"
+                        }
+                    },
+                    {
+                        "id": "b9e6064f0e704685bc664a5e1a180875",
+                        "name": {
+                            "en": "Honest",
+                            "vi": "Trung thực"
+                        }
+                    },
+                    {
+                        "id": "478298cee15944c9ac0c4b9f0e9ee7ec",
+                        "name": {
+                            "en": "Immoral",
+                            "vi": "Trái đạo đức"
+                        }
+                    },
+                    {
+                        "id": "df5d4a7bd14b4dd695b3643dcfb24820",
+                        "name": {
+                            "en": "Kind",
+                            "vi": "Tốt bụng"
+                        }
+                    },
+                    {
+                        "id": "328f6061d4e94591bdb15996b437342d",
+                        "name": {
+                            "en": "Lazy",
+                            "vi": "Lười biếng"
+                        }
+                    },
+                    {
+                        "id": "d7af1ca013af42b38a30c98ed73efb75",
+                        "name": {
+                            "en": "Moral",
+                            "vi": "Có đạo đức"
+                        }
+                    },
+                    {
+                        "id": "4f3b56bccb1f43e8a3bca7ace26e8465",
+                        "name": {
+                            "en": "Proud",
+                            "vi": "Hãnh diện"
+                        }
+                    },
+                    {
+                        "id": "825f766ea14e4b148aa94bcce459b288",
+                        "name": {
+                            "en": "Selfish",
+                            "vi": "Ích kỷ"
+                        }
+                    },
+                    {
+                        "id": "ef27acb1d3d14d79830b36aaa0264d55",
+                        "name": {
+                            "en": "Shy",
+                            "vi": "Nhát"
+                        }
+                    },
+                    {
+                        "id": "9e4594dc1caa400bb0b7d110ff4c844e",
+                        "name": {
+                            "en": "Skills and qualities",
+                            "vi": "Kỹ năng và phẩm chất"
+                        }
+                    },
+                    {
+                        "id": "f37cd9ca06784bbf9092d347251db9de",
+                        "name": {
+                            "en": "Strange",
+                            "vi": "Lạ lùng"
+                        }
+                    },
+                    {
+                        "id": "34590d68e84f43038488103bb30ebe1a",
+                        "name": {
+                            "en": "Stupid",
+                            "vi": "Ngốc nghếch"
+                        }
+                    },
+                    {
+                        "id": "1b5b8b415f74422cbe58475943273246",
+                        "name": {
+                            "en": "Unpleasant",
+                            "vi": "Khó chịu"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "799ced670fd844b89aa3cf457ef89ebf",
+        "name": {
+            "en": "Politics and society",
+            "vi": "Chính trị và xã hội"
+        },
+        "topics": [
+            {
+                "id": "7e823019ed414ab397ee088c69c5bca5",
+                "name": {
+                    "en": "Crime and punishment",
+                    "vi": "Tội ác va hình phạt"
+                },
+                "subTopics": [
+                    {
+                        "id": "04432b2f34834d1281459b9f3819dab9",
+                        "name": {
+                            "en": "Committing crime",
+                            "vi": "Phạm tội"
+                        }
+                    },
+                    {
+                        "id": "e340a2deb57047528d2bc9043735e9f8",
+                        "name": {
+                            "en": "Criminals",
+                            "vi": "Tội phạm"
+                        }
+                    },
+                    {
+                        "id": "bfcffc6935fe4dbc8b8454d208d54533",
+                        "name": {
+                            "en": "Prison",
+                            "vi": "Tù giam"
+                        }
+                    },
+                    {
+                        "id": "5c21c50726f041eeb94c3e30beb2a157",
+                        "name": {
+                            "en": "Punishment",
+                            "vi": "Sự trừng phạt"
+                        }
+                    },
+                    {
+                        "id": "6c9052e18cfc4846a3644e5b47b7fd91",
+                        "name": {
+                            "en": "Solving crime",
+                            "vi": "Giải quyết tội phạm"
+                        }
+                    },
+                    {
+                        "id": "9cafaeb1ed8f40a5b917f53e4de71c30",
+                        "name": {
+                            "en": "Types of crime",
+                            "vi": "Các loại tội phạm"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "bc27fc52f8a84d57aab9eecf51354468",
+                "name": {
+                    "en": "Law and justice",
+                    "vi": "Luật pháp và công lý"
+                },
+                "subTopics": [
+                    {
+                        "id": "2e54fb02b4e04746bdd700191cf13df5",
+                        "name": {
+                            "en": "Justice",
+                            "vi": "Sự công bằng"
+                        }
+                    },
+                    {
+                        "id": "0f663db625e94ee4bd4f5c1b0f2ca93d",
+                        "name": {
+                            "en": "Legal documents",
+                            "vi": "Tài liệu hợp pháp"
+                        }
+                    },
+                    {
+                        "id": "ed8f13fc85e040d89bab55de81e928a7",
+                        "name": {
+                            "en": "Legal processes",
+                            "vi": "Quy trình pháp lý"
+                        }
+                    },
+                    {
+                        "id": "ee39bcc6668141ee888c6baafbce0b12",
+                        "name": {
+                            "en": "People in law",
+                            "vi": "Người ở rể"
+                        }
+                    },
+                    {
+                        "id": "65736184e1e3406483c60d0d02d74aea",
+                        "name": {
+                            "en": "The law",
+                            "vi": "Luật"
+                        }
+                    },
+                    {
+                        "id": "a1a58a5f0efc4c84a74e923f3f95b0ac",
+                        "name": {
+                            "en": "The police",
+                            "vi": "Cảnh sát"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "b53f989a671d4cbf805866e605b880e1",
+                "name": {
+                    "en": "People in society",
+                    "vi": "Những người trong xã hội"
+                },
+                "subTopics": [
+                    {
+                        "id": "5e67cf4a9dc045edb26e5faeb29af072",
+                        "name": {
+                            "en": "Belonging to society",
+                            "vi": "Thuộc về xã hội"
+                        }
+                    },
+                    {
+                        "id": "52953bb2401842019c93e867633c992f",
+                        "name": {
+                            "en": "Gender and sexuality",
+                            "vi": "Giới tính và tình dục"
+                        }
+                    },
+                    {
+                        "id": "a6611a6c11b944da970ac21df9fb42e2",
+                        "name": {
+                            "en": "Race",
+                            "vi": "Cuộc đua"
+                        }
+                    },
+                    {
+                        "id": "72a418e7c0ec4d04b249696c9aa1e35e",
+                        "name": {
+                            "en": "Rank and status",
+                            "vi": "Xếp hạng và trạng thái"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "e14e154a7d1e42899fcef96783852991",
+                "name": {
+                    "en": "Politics",
+                    "vi": "Chính trị"
+                },
+                "subTopics": [
+                    {
+                        "id": "220289f7665e4a9b8615515bfd79869d",
+                        "name": {
+                            "en": "Elections",
+                            "vi": "Bầu cử"
+                        }
+                    },
+                    {
+                        "id": "6ccf48435ad44feb9466140d60c16ce1",
+                        "name": {
+                            "en": "Government",
+                            "vi": "Chính quyền"
+                        }
+                    },
+                    {
+                        "id": "1974e4e8402247b8944ef4b182fac875",
+                        "name": {
+                            "en": "International relations",
+                            "vi": "Quan hệ quốc tế"
+                        }
+                    },
+                    {
+                        "id": "ab759754086043ada03b531f381ce897",
+                        "name": {
+                            "en": "Parliament",
+                            "vi": "Nghị viện"
+                        }
+                    },
+                    {
+                        "id": "e07ca7396c5b458dad0013c51678668c",
+                        "name": {
+                            "en": "Political views and systems",
+                            "vi": "Các quan điểm và hệ thống chính trị"
+                        }
+                    },
+                    {
+                        "id": "052afa7711f04daabb6cab2d56ac0cce",
+                        "name": {
+                            "en": "Politicians",
+                            "vi": "Chính trị gia"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "0674501a90e84374adf7bff944fd4303",
+                "name": {
+                    "en": "Religion and festivals",
+                    "vi": "Tôn giáo và lễ hội"
+                },
+                "subTopics": [
+                    {
+                        "id": "42ef6769d47c4c0a8b013f1e037151ec",
+                        "name": {
+                            "en": "Beliefs",
+                            "vi": "Niềm tin"
+                        }
+                    },
+                    {
+                        "id": "b796d504928b430da5390c56b498b304",
+                        "name": {
+                            "en": "God, angels, etc.",
+                            "vi": "Chúa, các thiên thần, v.v."
+                        }
+                    },
+                    {
+                        "id": "8478da2969444f058ed4ded484db9d86",
+                        "name": {
+                            "en": "Holidays and celebrations",
+                            "vi": "Ngày lễ và lễ kỷ niệm"
+                        }
+                    },
+                    {
+                        "id": "a83c21eb4e394c5b8aebf733cead3c9b",
+                        "name": {
+                            "en": "Not holy or religious",
+                            "vi": "Không phải thánh hay tôn giáo"
+                        }
+                    },
+                    {
+                        "id": "5292a840e6ee48a3813b46d4dc835bbd",
+                        "name": {
+                            "en": "Religious ceremonies",
+                            "vi": "Nghi lễ tôn giáo"
+                        }
+                    },
+                    {
+                        "id": "7b0aa86101ca464a88be5659b3b3e17b",
+                        "name": {
+                            "en": "Religious holidays and festivals",
+                            "vi": "Các ngày lễ và lễ hội tôn giáo"
+                        }
+                    },
+                    {
+                        "id": "244b582f84374f8dab0ef3d46ca21adf",
+                        "name": {
+                            "en": "Religious items",
+                            "vi": "Vật phẩm tôn giáo"
+                        }
+                    },
+                    {
+                        "id": "9e46f080ff834e88ac32499f03636ef0",
+                        "name": {
+                            "en": "Religious people",
+                            "vi": "Người tôn giáo"
+                        }
+                    },
+                    {
+                        "id": "3ce17da14e614453ae4e9b1115c71784",
+                        "name": {
+                            "en": "Religious places",
+                            "vi": "Địa điểm tôn giáo"
+                        }
+                    },
+                    {
+                        "id": "8ed1e75917d340ae8edd0f5875c8f092",
+                        "name": {
+                            "en": "Religious practices",
+                            "vi": "Thực hành tín ngưỡng"
+                        }
+                    },
+                    {
+                        "id": "5bea7cdb5e7d41b28308f195ec72fc08",
+                        "name": {
+                            "en": "Religious texts",
+                            "vi": "Văn bản tôn giáo"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "0a85aad4d8a147a7ba3722a6bcd51fe9",
+                "name": {
+                    "en": "Social issues",
+                    "vi": "Các vấn đề xã hội"
+                },
+                "subTopics": [
+                    {
+                        "id": "dad3340fa25641b3a01b3d7af73883e9",
+                        "name": {
+                            "en": "Drugs",
+                            "vi": "Ma túy"
+                        }
+                    },
+                    {
+                        "id": "f361021f876145de91f2e9793325fb33",
+                        "name": {
+                            "en": "Helping others",
+                            "vi": "Giúp đỡ người khác"
+                        }
+                    },
+                    {
+                        "id": "bbd074cfeddc40148b808e496b533e27",
+                        "name": {
+                            "en": "Migration",
+                            "vi": "Di cư"
+                        }
+                    },
+                    {
+                        "id": "e95b9a6da2324d168faf28f39f8fbd50",
+                        "name": {
+                            "en": "Poverty and famine",
+                            "vi": "Nghèo đói và đói kém"
+                        }
+                    },
+                    {
+                        "id": "e7f49e951983440bbd5b740fc78b4056",
+                        "name": {
+                            "en": "Protest",
+                            "vi": "Quả quyết"
+                        }
+                    },
+                    {
+                        "id": "f535820ac44445b29700f8b19c06bf6a",
+                        "name": {
+                            "en": "Social justice",
+                            "vi": "Công bằng xã hội"
+                        }
+                    },
+                    {
+                        "id": "594d1b57dd454f17818aa9ed58cd86c4",
+                        "name": {
+                            "en": "Unemployment",
+                            "vi": "Nạn thất nghiệp"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "f9ffb778ca1b4bc59c78da6bdf2b0b0d",
+                "name": {
+                    "en": "War and conflict",
+                    "vi": "Chiến tranh và xung đột"
+                },
+                "subTopics": [
+                    {
+                        "id": "c500853d9df34a909da37ef7f5037bbb",
+                        "name": {
+                            "en": "Peacekeeping",
+                            "vi": "Gìn giữ hòa bình"
+                        }
+                    },
+                    {
+                        "id": "2778d13bcb674580a3e7644a85711df8",
+                        "name": {
+                            "en": "Terrorism",
+                            "vi": "Khủng bố"
+                        }
+                    },
+                    {
+                        "id": "89f11e7729234483937befd4d7eec82d",
+                        "name": {
+                            "en": "The air force",
+                            "vi": "Lực lượng không quân"
+                        }
+                    },
+                    {
+                        "id": "15701685f62649e284f25dfe4f2e2e8b",
+                        "name": {
+                            "en": "The armed forces",
+                            "vi": "Các lực lượng vũ trang"
+                        }
+                    },
+                    {
+                        "id": "f47d2667fdb94583a9b510c8fa3e1554",
+                        "name": {
+                            "en": "The army",
+                            "vi": "Quân đội"
+                        }
+                    },
+                    {
+                        "id": "4871fd812d244838aa911016d852a427",
+                        "name": {
+                            "en": "The navy",
+                            "vi": "Hải quân"
+                        }
+                    },
+                    {
+                        "id": "fc51f317301f46beb8352cc98e5c7856",
+                        "name": {
+                            "en": "War",
+                            "vi": "Chiến tranh"
+                        }
+                    },
+                    {
+                        "id": "58762391663d4499a8235df8ea92b0c5",
+                        "name": {
+                            "en": "Weapons",
+                            "vi": "Vũ khí"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "451e152a2e1547ec8860a3b0da3d3840",
+        "name": {
+            "en": "Science and technology",
+            "vi": "Khoa học và Công nghệ"
+        },
+        "topics": [
+            {
+                "id": "31d9e77aeeb24a5ba775cce391298546",
+                "name": {
+                    "en": "Biology",
+                    "vi": "Sinh vật học"
+                },
+                "subTopics": [
+                    {
+                        "id": "2567c1303efb4443a9ecf9826038dd51",
+                        "name": {
+                            "en": "Biology",
+                            "vi": "Sinh vật học"
+                        }
+                    },
+                    {
+                        "id": "abf9be0b930d4cae8fd46351a977026c",
+                        "name": {
+                            "en": "Genetics",
+                            "vi": "Di truyền học"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "944291f8da834dc0bf5d6c6e4988a42a",
+                "name": {
+                    "en": "Computers",
+                    "vi": "Máy vi tính"
+                },
+                "subTopics": [
+                    {
+                        "id": "8f27c80273c94116a97af469c0f196d4",
+                        "name": {
+                            "en": "Computer hardware",
+                            "vi": "Phần cứng máy tính"
+                        }
+                    },
+                    {
+                        "id": "2dab2bb540104e58965bbb8ea0906474",
+                        "name": {
+                            "en": "Computer problems",
+                            "vi": "Các vấn đề máy tính"
+                        }
+                    },
+                    {
+                        "id": "a029a436b6a64775aa10b56c4370da17",
+                        "name": {
+                            "en": "Computer programming",
+                            "vi": "Lập trình máy tính"
+                        }
+                    },
+                    {
+                        "id": "11178730065c434d884df4996d023b0f",
+                        "name": {
+                            "en": "Computer software",
+                            "vi": "Phần mềm máy tính"
+                        }
+                    },
+                    {
+                        "id": "3ac64df4b6604475a5280562cb3e74ea",
+                        "name": {
+                            "en": "Using a computer",
+                            "vi": "Sử dụng máy tính"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "573b5bc83334468b8c642e61c0952265",
+                "name": {
+                    "en": "Engineering",
+                    "vi": "Kỹ thuật"
+                },
+                "subTopics": [
+                    {
+                        "id": "ff4c4f6ff00348ffb5693a6120ed3151",
+                        "name": {
+                            "en": "Branches of engineering",
+                            "vi": "Các ngành kỹ thuật"
+                        }
+                    },
+                    {
+                        "id": "4125c3298e394c5fbfd2b9ae52b6e855",
+                        "name": {
+                            "en": "Electronics",
+                            "vi": "Thiết bị điện tử"
+                        }
+                    },
+                    {
+                        "id": "5d644830f3d44c3295ee095322c7fa3e",
+                        "name": {
+                            "en": "How machines work",
+                            "vi": "Cách máy móc hoạt động"
+                        }
+                    },
+                    {
+                        "id": "fad982a16f884753839e1245f668cf10",
+                        "name": {
+                            "en": "Machines and devices",
+                            "vi": "Máy móc và thiết bị"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "1c5bb05ee61844feb0462288e42c2c0d",
+                "name": {
+                    "en": "Maths and measurement",
+                    "vi": "Toán học và đo lường"
+                },
+                "subTopics": [
+                    {
+                        "id": "11ccf7fa2cfc4b538e0629fd44036b8c",
+                        "name": {
+                            "en": "Mathematical terminology",
+                            "vi": "Thuật ngữ toán học"
+                        }
+                    },
+                    {
+                        "id": "5539fddf0fc34593add02973419402bd",
+                        "name": {
+                            "en": "Measurements",
+                            "vi": "Đo"
+                        }
+                    },
+                    {
+                        "id": "b024ff5879034bbaaf76cf82914efce7",
+                        "name": {
+                            "en": "Numbers",
+                            "vi": "Con số"
+                        }
+                    },
+                    {
+                        "id": "4a73201878774a8281a2898b12fd1d8b",
+                        "name": {
+                            "en": "Types of mathematics",
+                            "vi": "Các loại toán học"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "7c5723c7229f46619998a45c81bb5f1c",
+                "name": {
+                    "en": "Physics and chemistry",
+                    "vi": "Vật lý và hóa học"
+                },
+                "subTopics": [
+                    {
+                        "id": "9e0b6e7c568a49a09211b0399b016a48",
+                        "name": {
+                            "en": "Chemistry and chemicals",
+                            "vi": "Hóa chất và hóa chất"
+                        }
+                    },
+                    {
+                        "id": "74c192098efb45aa86b32aa41a053e54",
+                        "name": {
+                            "en": "Energy and physical forces",
+                            "vi": "Năng lượng và lực lượng vật chất"
+                        }
+                    },
+                    {
+                        "id": "c14fac9f44ea41b3b72c14fad1346108",
+                        "name": {
+                            "en": "Materials and properties",
+                            "vi": "Vật liệu và đặc tính"
+                        }
+                    },
+                    {
+                        "id": "58e6a4624b1c4e3c9e5d8c2bee48790f",
+                        "name": {
+                            "en": "Molecules and matter",
+                            "vi": "Phân tử và vật chất"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "74f0e03655524a7d80fb979b8aff247b",
+                "name": {
+                    "en": "Scientific research",
+                    "vi": "Nghiên cứu khoa học"
+                },
+                "subTopics": [
+                    {
+                        "id": "64d12b187cb1457b95d4d6a1fc71ff0e",
+                        "name": {
+                            "en": "Branches of science",
+                            "vi": "Các ngành khoa học"
+                        }
+                    },
+                    {
+                        "id": "c11b1195f59a46dab51cd0d4cab86b90",
+                        "name": {
+                            "en": "Data",
+                            "vi": "Dữ liệu"
+                        }
+                    },
+                    {
+                        "id": "a97e4e144bb4427f9a493d028b575e93",
+                        "name": {
+                            "en": "Experiments",
+                            "vi": "Thí nghiệm"
+                        }
+                    },
+                    {
+                        "id": "ba536238259e4ceabde5580580e5eeb6",
+                        "name": {
+                            "en": "Results",
+                            "vi": "Các kết quả"
+                        }
+                    },
+                    {
+                        "id": "0e0787aebaba410da1de3c3d30f04724",
+                        "name": {
+                            "en": "Scientific equipment",
+                            "vi": "Thiết bị thuộc về khoa học"
+                        }
+                    },
+                    {
+                        "id": "f46d3b2349a047c2a6dc3dceff30add7",
+                        "name": {
+                            "en": "Study",
+                            "vi": "Nghiên cứu"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "bfb44aa8f92b4c34adea670291362885",
+        "name": {
+            "en": "Sport",
+            "vi": "Thể thao"
+        },
+        "topics": [
+            {
+                "id": "f80a6269f17c4798a40fd0d95ea1eddd",
+                "name": {
+                    "en": "Sports: ball and racket sports",
+                    "vi": "Thể thao: thể thao bóng và vợt"
+                },
+                "subTopics": [
+                    {
+                        "id": "9b7c8b62bf8b42848c407c09b59a13f1",
+                        "name": {
+                            "en": "American football",
+                            "vi": "Bóng đá mỹ"
+                        }
+                    },
+                    {
+                        "id": "6042dfebc49f46ffbf213193c42c4935",
+                        "name": {
+                            "en": "Ball sports in general",
+                            "vi": "Môn thể thao bóng nói chung"
+                        }
+                    },
+                    {
+                        "id": "83ccfb186d294355990c6b68ff4673b6",
+                        "name": {
+                            "en": "Baseball",
+                            "vi": "Bóng chày"
+                        }
+                    },
+                    {
+                        "id": "8eff93d602124579b6046f253721d851",
+                        "name": {
+                            "en": "Basketball",
+                            "vi": "Bóng rổ"
+                        }
+                    },
+                    {
+                        "id": "1e47396dbdec4e57ab540cc860844e6f",
+                        "name": {
+                            "en": "Cricket",
+                            "vi": "Bóng chày"
+                        }
+                    },
+                    {
+                        "id": "6cdf7557e0cb484f93284bc6c04ca755",
+                        "name": {
+                            "en": "Football",
+                            "vi": "Bóng đá"
+                        }
+                    },
+                    {
+                        "id": "f2b62644cf5b4a639fa9c758b499b491",
+                        "name": {
+                            "en": "Golf",
+                            "vi": "Golf"
+                        }
+                    },
+                    {
+                        "id": "89ed71571719404b9297a7250bdf7ef0",
+                        "name": {
+                            "en": "Other ball sports",
+                            "vi": "Các môn thể thao bóng khác"
+                        }
+                    },
+                    {
+                        "id": "13e8cc94f9564e859ca64323e0187587",
+                        "name": {
+                            "en": "Rugby",
+                            "vi": "bóng bầu dục"
+                        }
+                    },
+                    {
+                        "id": "02f9943f66e84b5798c0eed1cb2810e5",
+                        "name": {
+                            "en": "Tennis",
+                            "vi": "Quần vợt"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "c1adb9e440f746cb896cc4db9af19375",
+                "name": {
+                    "en": "Sports: other sports",
+                    "vi": "Thể thao: các môn thể thao khác"
+                },
+                "subTopics": [
+                    {
+                        "id": "3d99059283b54f0da4100c65249f3948",
+                        "name": {
+                            "en": "Athletics",
+                            "vi": "Thế vận hội"
+                        }
+                    },
+                    {
+                        "id": "b1fde353a0ce4c45b17a7e2d68bd6fca",
+                        "name": {
+                            "en": "Combat sports",
+                            "vi": "Thể thao đối kháng"
+                        }
+                    },
+                    {
+                        "id": "0788b98047774660b476b1ec51ea381b",
+                        "name": {
+                            "en": "Cycling",
+                            "vi": "Đạp xe"
+                        }
+                    },
+                    {
+                        "id": "2399bfac95c8405f83ecfed0cadc78ef",
+                        "name": {
+                            "en": "Equine sports",
+                            "vi": "Thể thao cưỡi ngựa"
+                        }
+                    },
+                    {
+                        "id": "bb59bce86849420cbdd9e62b7c6fa4f9",
+                        "name": {
+                            "en": "Extreme sports",
+                            "vi": "Thể thao mạo hiểm"
+                        }
+                    },
+                    {
+                        "id": "a58d9bff85ce44ad9609ff321fd09d9c",
+                        "name": {
+                            "en": "Other sports",
+                            "vi": "Những môn thể thao khác"
+                        }
+                    },
+                    {
+                        "id": "4241df38057e4d49ab5359ce5e5a0275",
+                        "name": {
+                            "en": "Pool and snooker",
+                            "vi": "Hồ bơi và bi da"
+                        }
+                    },
+                    {
+                        "id": "8b43bbfaa77a44bb81b1afaeeb6139af",
+                        "name": {
+                            "en": "Sports in general",
+                            "vi": "Thể thao nói chung"
+                        }
+                    },
+                    {
+                        "id": "6dc077a01170447f9d215963e8cc8c95",
+                        "name": {
+                            "en": "Winter sports",
+                            "vi": "Thể thao mùa đông"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "c90b837d6284418e940c679e83769fd6",
+                "name": {
+                    "en": "Sports: water sports",
+                    "vi": "Thể thao: thể thao dưới nước"
+                },
+                "subTopics": [
+                    {
+                        "id": "f6a67bbd6b6649ba87600e697345ddcc",
+                        "name": {
+                            "en": "Boating",
+                            "vi": "Chèo thuyền"
+                        }
+                    },
+                    {
+                        "id": "1ca55adfd165428b8f5a3327f9a6281e",
+                        "name": {
+                            "en": "Diving",
+                            "vi": "Lặn"
+                        }
+                    },
+                    {
+                        "id": "4dfea6e463f14bfe8828d51002c87292",
+                        "name": {
+                            "en": "Swimming",
+                            "vi": "Bơi lội"
+                        }
+                    },
+                    {
+                        "id": "5b0895c61d704b30a321d6ec476efc98",
+                        "name": {
+                            "en": "Water sports",
+                            "vi": "Thể thao dưới nước"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "336e3c7ee3fb4e3e8619b5db870e7fef",
+        "name": {
+            "en": "The natural world",
+            "vi": "Thế giới tự nhiên"
+        },
+        "topics": [
+            {
+                "id": "cadb4d56040a4650b7d9e9def01d76fb",
+                "name": {
+                    "en": "Farming",
+                    "vi": "Nông nghiệp"
+                },
+                "subTopics": [
+                    {
+                        "id": "1b41d5695a91416abe6fc88d75ff7447",
+                        "name": {
+                            "en": "Animal farming",
+                            "vi": "Chăn nuôi"
+                        }
+                    },
+                    {
+                        "id": "9d13ac2eec1a436ebb3c6b48c2e14ab8",
+                        "name": {
+                            "en": "Farm people",
+                            "vi": "Nông dân"
+                        }
+                    },
+                    {
+                        "id": "8cf7bf6884854412b5a18284c7ff0b53",
+                        "name": {
+                            "en": "Growing crops",
+                            "vi": "Trồng trọt"
+                        }
+                    },
+                    {
+                        "id": "0d340b3124f44d36884a567a54e9c3d1",
+                        "name": {
+                            "en": "On the farm",
+                            "vi": "Ở nông trại"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "ef0c75560aee4f7ca572d5013f08decc",
+                "name": {
+                    "en": "Geography",
+                    "vi": "Địa lý"
+                },
+                "subTopics": [
+                    {
+                        "id": "1b8a881f62454d9c952e1090d6fe816b",
+                        "name": {
+                            "en": "Coastlines and the sea",
+                            "vi": "Đường bờ biển và biển"
+                        }
+                    },
+                    {
+                        "id": "8d6f99e901e2424eb4d6dc978f368f56",
+                        "name": {
+                            "en": "Countries and continents",
+                            "vi": "Quốc gia và lục địa"
+                        }
+                    },
+                    {
+                        "id": "a44716f482924fcfb63ce24ef7aabb8c",
+                        "name": {
+                            "en": "Describing geographic regions",
+                            "vi": "Mô tả các vùng địa lý"
+                        }
+                    },
+                    {
+                        "id": "8ce2dc057b5e4439b5182100b42f36ca",
+                        "name": {
+                            "en": "Mountains and valleys",
+                            "vi": "Núi và thung lũng"
+                        }
+                    },
+                    {
+                        "id": "b2a28ae49d0944cba25e61b72162a8ff",
+                        "name": {
+                            "en": "Other geographic features",
+                            "vi": "Các đối tượng địa lý khác"
+                        }
+                    },
+                    {
+                        "id": "b68b5d0000df475c91ded7512df21b64",
+                        "name": {
+                            "en": "Rivers and lakes",
+                            "vi": "Sông hồ"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "d202d8c1d908494fb622c51e734d6d10",
+                "name": {
+                    "en": "Plants and trees",
+                    "vi": "Thực vật và cây cối"
+                },
+                "subTopics": [
+                    {
+                        "id": "59cfc31a1e394d1b819db5ce924c43c6",
+                        "name": {
+                            "en": "Plants",
+                            "vi": "Thực vật"
+                        }
+                    },
+                    {
+                        "id": "5b9d20432b624c179af90996805be068",
+                        "name": {
+                            "en": "Trees",
+                            "vi": "Cây"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "5f7b408f043241318ff3ee072089e6b4",
+                "name": {
+                    "en": "The environment",
+                    "vi": "Môi trường"
+                },
+                "subTopics": [
+                    {
+                        "id": "fcf628e2a99044a39f9572d4e796548d",
+                        "name": {
+                            "en": "Climate change",
+                            "vi": "Khí hậu thay đổi"
+                        }
+                    },
+                    {
+                        "id": "cb144e9302e14d25af3e660e8c4274af",
+                        "name": {
+                            "en": "Conservation",
+                            "vi": "Sự bảo tồn"
+                        }
+                    },
+                    {
+                        "id": "b4f2c1b802bd4f96a91df21b707d4510",
+                        "name": {
+                            "en": "Natural disasters",
+                            "vi": "Thảm họa thiên nhiên"
+                        }
+                    },
+                    {
+                        "id": "174549e9515e47c494b1f83445415984",
+                        "name": {
+                            "en": "The power industry",
+                            "vi": "Ngành điện"
+                        }
+                    },
+                    {
+                        "id": "5221b2aebd0347d7b31e7d29684e5fc1",
+                        "name": {
+                            "en": "Waste and pollution",
+                            "vi": "Chất thải và ô nhiễm"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "ef2496b337e94fcf957963dd097d8bc2",
+                "name": {
+                    "en": "Weather",
+                    "vi": "Thời tiết"
+                },
+                "subTopics": [
+                    {
+                        "id": "860404c5521c4f78945a984ea780cb93",
+                        "name": {
+                            "en": "Describing weather",
+                            "vi": "Mô tả thời tiết"
+                        }
+                    },
+                    {
+                        "id": "947d6aa3d76b413abaea571a3d5854ec",
+                        "name": {
+                            "en": "Rain",
+                            "vi": "Cơn mưa"
+                        }
+                    },
+                    {
+                        "id": "b8cdb81fcbea471d9549ab988aa6131d",
+                        "name": {
+                            "en": "Sky",
+                            "vi": "Bầu trời"
+                        }
+                    },
+                    {
+                        "id": "b263fd1c5db24c5997132f2caaa43d71",
+                        "name": {
+                            "en": "Snow and ice",
+                            "vi": "Băng tuyết"
+                        }
+                    },
+                    {
+                        "id": "bc4730b234c44356a516d728b12350a8",
+                        "name": {
+                            "en": "Temperature",
+                            "vi": "Nhiệt độ"
+                        }
+                    },
+                    {
+                        "id": "0be2633d8d99462385017f452d897b28",
+                        "name": {
+                            "en": "The atmosphere",
+                            "vi": "Khí quyển"
+                        }
+                    },
+                    {
+                        "id": "078f0a0cffa3466080e5a964f4f91fb6",
+                        "name": {
+                            "en": "Wind",
+                            "vi": "Gió"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "16e4b0e1affe4eb8a4d5b3010b447ec3",
+        "name": {
+            "en": "Time and space",
+            "vi": "Thời gian và không gian"
+        },
+        "topics": [
+            {
+                "id": "b910a1f916c44919bf126809e7450d13",
+                "name": {
+                    "en": "History",
+                    "vi": "Lịch sử"
+                },
+                "subTopics": [
+                    {
+                        "id": "9002e2f6ee254d64a987473dc8c5ff9d",
+                        "name": {
+                            "en": "Events in history",
+                            "vi": "Sự kiện trong lịch sử"
+                        }
+                    },
+                    {
+                        "id": "309221ebce784c0c9e132ca048294e79",
+                        "name": {
+                            "en": "Historical records",
+                            "vi": "Ghi chép lịch sử"
+                        }
+                    },
+                    {
+                        "id": "8fd01879817f4d32a14499ee20cd88a8",
+                        "name": {
+                            "en": "Objects in history",
+                            "vi": "Đối tượng trong lịch sử"
+                        }
+                    },
+                    {
+                        "id": "81daf77f584f45ee8533957f7d9b6621",
+                        "name": {
+                            "en": "People in history",
+                            "vi": "Những người trong lịch sử"
+                        }
+                    },
+                    {
+                        "id": "cbc13b32c3614d4589db7f199ba356c2",
+                        "name": {
+                            "en": "Periods in history",
+                            "vi": "Các thời kỳ trong lịch sử"
+                        }
+                    },
+                    {
+                        "id": "f80efb323a824e0499e8fc8432176d6f",
+                        "name": {
+                            "en": "Studying history",
+                            "vi": "Nghiên cứu lịch sử"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "79be9e2acf0b4a218a7779231d2267fd",
+                "name": {
+                    "en": "Space",
+                    "vi": "Khoảng trống"
+                },
+                "subTopics": [
+                    {
+                        "id": "9d3bcc5ef1334030a719c36ae77aa9ed",
+                        "name": {
+                            "en": "Space travel",
+                            "vi": "Du hành vũ trụ"
+                        }
+                    },
+                    {
+                        "id": "7b638ed1d3434dfca00771f0449c166b",
+                        "name": {
+                            "en": "The Earth and the atmosphere",
+                            "vi": "Trái đất và bầu khí quyển"
+                        }
+                    },
+                    {
+                        "id": "b9c9bb26228848fa9ed30d63d0b109a8",
+                        "name": {
+                            "en": "The sun and the moon",
+                            "vi": "Mặt trời và mặt trăng"
+                        }
+                    },
+                    {
+                        "id": "9a71f6dbc2f44b6ca766cdcb95995191",
+                        "name": {
+                            "en": "The universe",
+                            "vi": "Vũ trụ"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "d266b25ca8704c45946f1d61108f44b7",
+                "name": {
+                    "en": "Time",
+                    "vi": "Thời gian"
+                },
+                "subTopics": [
+                    {
+                        "id": "69ce138b7ae44f968b9f5a8c8d25c6db",
+                        "name": {
+                            "en": "Dates",
+                            "vi": "ngày"
+                        }
+                    },
+                    {
+                        "id": "f0823f389fc041afa3bf829ada442532",
+                        "name": {
+                            "en": "Days",
+                            "vi": "Ngày"
+                        }
+                    },
+                    {
+                        "id": "dca0f89f8af64b51b2b77bbc7f1f7005",
+                        "name": {
+                            "en": "Months",
+                            "vi": "Tháng"
+                        }
+                    },
+                    {
+                        "id": "64658c1391b242f984c2a53ec5bff97a",
+                        "name": {
+                            "en": "Time expressions",
+                            "vi": "Biểu thức thời gian"
+                        }
+                    },
+                    {
+                        "id": "c913727702fd4d7b801c5ed3c834763a",
+                        "name": {
+                            "en": "Time periods",
+                            "vi": "Khoảng thời gian"
+                        }
+                    },
+                    {
+                        "id": "19f0784bc8cc409da702d5725a8e5dc0",
+                        "name": {
+                            "en": "Time zones",
+                            "vi": "Múi giờ"
+                        }
+                    },
+                    {
+                        "id": "b6aba581cd104f8e8098f72f9dbdc665",
+                        "name": {
+                            "en": "Times of day",
+                            "vi": "Lần trong ngày"
+                        }
+                    },
+                    {
+                        "id": "5310320d008a43e697dc6f292f77eb32",
+                        "name": {
+                            "en": "Times of year",
+                            "vi": "Thời gian trong năm"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f5f0320d03404b6a9ff088198c60ab74",
+        "name": {
+            "en": "Travel",
+            "vi": "Đi du lịch"
+        },
+        "topics": [
+            {
+                "id": "713dbde3709940fe9761cff833cf57ea",
+                "name": {
+                    "en": "Holidays",
+                    "vi": "Ngày lễ"
+                },
+                "subTopics": [
+                    {
+                        "id": "2a1b7d2c6d3748209136f20fdb5a4776",
+                        "name": {
+                            "en": "Camping",
+                            "vi": "Cắm trại"
+                        }
+                    },
+                    {
+                        "id": "28d7e253861642be902262da72ae3606",
+                        "name": {
+                            "en": "Holiday accommodation",
+                            "vi": "Chỗ ở kỳ nghỉ"
+                        }
+                    },
+                    {
+                        "id": "f78f7119930e40049151540ff12705eb",
+                        "name": {
+                            "en": "Holidays in general",
+                            "vi": "Ngày lễ nói chung"
+                        }
+                    },
+                    {
+                        "id": "5ac2883470514528a3d0e4e919bb47d6",
+                        "name": {
+                            "en": "Staying in a hotel",
+                            "vi": "Ở trong khách sạn"
+                        }
+                    },
+                    {
+                        "id": "cdc5fda40ccb4b50ba1b0da12cdc8c9e",
+                        "name": {
+                            "en": "The tourist industry",
+                            "vi": "Ngành du lịch"
+                        }
+                    },
+                    {
+                        "id": "59271b5b70524164ab465a1e42ababa3",
+                        "name": {
+                            "en": "Types of holiday/vacation",
+                            "vi": "Các loại kỳ nghỉ / kỳ nghỉ"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "a3853fc43bb94be7a5b73848c7a0a05b",
+                "name": {
+                    "en": "Transport by air",
+                    "vi": "Vận chuyển bằng đường hàng không"
+                },
+                "subTopics": [
+                    {
+                        "id": "b1dc4c4638e64115b1060a219a5b8e2d",
+                        "name": {
+                            "en": "Aircraft",
+                            "vi": "Phi cơ"
+                        }
+                    },
+                    {
+                        "id": "a71fd8ebd71b4d12971047b4de54e1eb",
+                        "name": {
+                            "en": "Airports",
+                            "vi": "Sân bay"
+                        }
+                    },
+                    {
+                        "id": "e831fcf00a0a4e46a9be6802b12110db",
+                        "name": {
+                            "en": "Parts of a plane",
+                            "vi": "Các bộ phận của máy bay"
+                        }
+                    },
+                    {
+                        "id": "fbefc7fdb86648e6bd7a16adcd2d7b0f",
+                        "name": {
+                            "en": "People in air travel",
+                            "vi": "Những người đi máy bay"
+                        }
+                    },
+                    {
+                        "id": "1d62c36f54054bbda19635264e523217",
+                        "name": {
+                            "en": "Plane travel",
+                            "vi": "Du lịch máy bay"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "675ab19c23224b4aa6f57e824a43b712",
+                "name": {
+                    "en": "Transport by bus and train",
+                    "vi": "Vận chuyển bằng xe buýt và xe lửa"
+                },
+                "subTopics": [
+                    {
+                        "id": "752249abb7b74bc5bfcbfb6abfefba14",
+                        "name": {
+                            "en": "Railway tracks and stations",
+                            "vi": "Đường ray và nhà ga"
+                        }
+                    },
+                    {
+                        "id": "8885df84bce04a65b024c75d1d754a4c",
+                        "name": {
+                            "en": "Train and bus travel",
+                            "vi": "Đi tàu và xe buýt"
+                        }
+                    },
+                    {
+                        "id": "e57d1b3ae24741dd89ed42980c78f34d",
+                        "name": {
+                            "en": "Trains",
+                            "vi": "Xe lửa"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "5477ce594ea242cb8d82adf61891fe2e",
+                "name": {
+                    "en": "Transport by car or lorry",
+                    "vi": "Vận chuyển bằng ô tô hoặc xe tải"
+                },
+                "subTopics": [
+                    {
+                        "id": "fc2471d946844ca3bfd7d8f8c985c10d",
+                        "name": {
+                            "en": "Controlling traffic",
+                            "vi": "Kiểm soát giao thông"
+                        }
+                    },
+                    {
+                        "id": "92933eff5873425caa562f7566937665",
+                        "name": {
+                            "en": "Driving",
+                            "vi": "Điều khiển"
+                        }
+                    },
+                    {
+                        "id": "99eed6a11cf74229b1e2a81038c5d984",
+                        "name": {
+                            "en": "Motoring problems and accidents",
+                            "vi": "Các vấn đề về động cơ và tai nạn"
+                        }
+                    },
+                    {
+                        "id": "a74eefd68160403b9e80dcf414958535",
+                        "name": {
+                            "en": "On the road",
+                            "vi": "Trên đường"
+                        }
+                    },
+                    {
+                        "id": "18616562fb55478d8f45c08c176b50df",
+                        "name": {
+                            "en": "Parts of a car",
+                            "vi": "Các bộ phận của ô tô"
+                        }
+                    },
+                    {
+                        "id": "5434f84a088c41a49bfa03ed99ca1957",
+                        "name": {
+                            "en": "People in motoring",
+                            "vi": "Những người lái xe"
+                        }
+                    },
+                    {
+                        "id": "1768ead8d37d4f728586353d3fa5e4f1",
+                        "name": {
+                            "en": "The car industry",
+                            "vi": "Ngành công nghiệp xe hơi"
+                        }
+                    },
+                    {
+                        "id": "1865f4f91da04fe8ab25d41d1db8ab58",
+                        "name": {
+                            "en": "Types of road",
+                            "vi": "Các loại đường"
+                        }
+                    },
+                    {
+                        "id": "f264c32f36314cdf97a929146dcb08b1",
+                        "name": {
+                            "en": "Types of vehicle",
+                            "vi": "Các loại phương tiện"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "12c057f63b434e6b8410288fa6f15150",
+                "name": {
+                    "en": "Transport by water",
+                    "vi": "Vận chuyển bằng đường thủy"
+                },
+                "subTopics": [
+                    {
+                        "id": "4c6d96d2c3044ec0906481a11609a218",
+                        "name": {
+                            "en": "Parts of boats",
+                            "vi": "Các bộ phận của thuyền"
+                        }
+                    },
+                    {
+                        "id": "e1a2d72fd144418a9f6c40aafbfa9d5f",
+                        "name": {
+                            "en": "People in sea travel",
+                            "vi": "Người đi du lịch biển"
+                        }
+                    },
+                    {
+                        "id": "6de561e9bbaf4770a39e1577eecf9ef9",
+                        "name": {
+                            "en": "Travelling by boat",
+                            "vi": "Đi du lịch bằng thuyền"
+                        }
+                    },
+                    {
+                        "id": "d5021322cdfa4e90b9f9be47f9c5c553",
+                        "name": {
+                            "en": "Types of boat",
+                            "vi": "Các loại thuyền"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "05e359c542754b1d8527c526ade0f688",
+        "name": {
+            "en": "Work and business",
+            "vi": "Công việc và kinh doanh"
+        },
+        "topics": [
+            {
+                "id": "857ddfee8afe4de0a5b673faa0600a20",
+                "name": {
+                    "en": "Business",
+                    "vi": "Việc kinh doanh"
+                },
+                "subTopics": [
+                    {
+                        "id": "3123e3a65a474d449d4b2c6255c5be17",
+                        "name": {
+                            "en": "Business deals",
+                            "vi": "Giao dịch kinh doanh"
+                        }
+                    },
+                    {
+                        "id": "d4d9dbca3c824e90855edec842db7373",
+                        "name": {
+                            "en": "Business people",
+                            "vi": "Doanh nhân"
+                        }
+                    },
+                    {
+                        "id": "0ecb4c2b927246d797d438cff64cb1b6",
+                        "name": {
+                            "en": "Manufacturing",
+                            "vi": "Chế tạo"
+                        }
+                    },
+                    {
+                        "id": "4b3c4009615f49388faa4913c4dab9b7",
+                        "name": {
+                            "en": "Marketing",
+                            "vi": "Tiếp thị"
+                        }
+                    },
+                    {
+                        "id": "e199a3036ff74b578ef7f8415258d3b9",
+                        "name": {
+                            "en": "Running a business",
+                            "vi": "Điều hành một doanh nghiệp"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "60efc55847a3488a9b5e8ff77e192ee8",
+                "name": {
+                    "en": "Jobs",
+                    "vi": "Việc làm"
+                },
+                "subTopics": [
+                    {
+                        "id": "bc26316e992548e3a7e728e3971196b3",
+                        "name": {
+                            "en": "Describing jobs",
+                            "vi": "Mô tả công việc"
+                        }
+                    },
+                    {
+                        "id": "28e33078f27f4a5f89c95e61b7336293",
+                        "name": {
+                            "en": "Job titles",
+                            "vi": "Chức danh công việc"
+                        }
+                    },
+                    {
+                        "id": "b6ac44502f554661a7ce2934256ff82a",
+                        "name": {
+                            "en": "Jobs and professions",
+                            "vi": "Công việc và nghề nghiệp"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "4cb904a8b6174cfeabce034915b4d7e3",
+                "name": {
+                    "en": "Money",
+                    "vi": "Tiền bạc"
+                },
+                "subTopics": [
+                    {
+                        "id": "8d80d8477d1a4ce7b2052c94c9b8a5df",
+                        "name": {
+                            "en": "Banking",
+                            "vi": "Ngân hàng"
+                        }
+                    },
+                    {
+                        "id": "43424ae65d64435ca69612b2fdf2fccc",
+                        "name": {
+                            "en": "Buying and selling",
+                            "vi": "Mua và bán"
+                        }
+                    },
+                    {
+                        "id": "9e49e28c34b24bf2a6d03246547389ca",
+                        "name": {
+                            "en": "Economic trends",
+                            "vi": "Xu hướng kinh tế"
+                        }
+                    },
+                    {
+                        "id": "933354abb7ec4edd890baf96212966e6",
+                        "name": {
+                            "en": "Finance",
+                            "vi": "Tài chính"
+                        }
+                    },
+                    {
+                        "id": "9bff941782de43d1aff9e0143422db58",
+                        "name": {
+                            "en": "Gambling",
+                            "vi": "Bài bạc"
+                        }
+                    },
+                    {
+                        "id": "f31b5ea4e34e4551ab91009fdc23d216",
+                        "name": {
+                            "en": "Payments",
+                            "vi": "Thanh toán"
+                        }
+                    },
+                    {
+                        "id": "14f7de0129f849f2a9c273c0845bc885",
+                        "name": {
+                            "en": "The economy",
+                            "vi": "Nền kinh tế"
+                        }
+                    },
+                    {
+                        "id": "2bb561de8b7d49b3a6b8e80e911c6590",
+                        "name": {
+                            "en": "Value",
+                            "vi": "Giá trị"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "9670f79d090b4e4f9537db45c15b712c",
+                "name": {
+                    "en": "Working life",
+                    "vi": "Cuộc sống làm việc"
+                },
+                "subTopics": [
+                    {
+                        "id": "e08ca486f0214134b29c0ef961cfbdfe",
+                        "name": {
+                            "en": "Business meetings",
+                            "vi": "Họp mặt làm ăn"
+                        }
+                    },
+                    {
+                        "id": "965072fca80e4e2baeb4e89bfc39011b",
+                        "name": {
+                            "en": "Describing work",
+                            "vi": "Mô tả công việc"
+                        }
+                    },
+                    {
+                        "id": "af780566d0b846cba7c78ff546839e62",
+                        "name": {
+                            "en": "Job interviews",
+                            "vi": "Phỏng vấn xin việc"
+                        }
+                    },
+                    {
+                        "id": "59d1fc59ef71416cab7b3c4a5612eba0",
+                        "name": {
+                            "en": "Office life",
+                            "vi": "Cuộc sống văn phòng"
+                        }
+                    },
+                    {
+                        "id": "65dfafa8ac9a40aa93f07580a756edf8",
+                        "name": {
+                            "en": "Pay and conditions at work",
+                            "vi": "Trả lương và các điều kiện tại nơi làm việc"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

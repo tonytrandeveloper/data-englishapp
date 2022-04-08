@@ -1,0 +1,163 @@
+{
+    "id": "474f991248b7463e9f1f98b4938ca59e",
+    "title": "Doctor's Appointment",
+    "questions": [
+        {
+            "id": "820c4d2af00249e1a768d379bcf052f8",
+            "text": "When can I see Dr. Know?",
+            "items": [
+                "When",
+                "can",
+                "I",
+                "see",
+                "Dr.",
+                "Know?"
+            ]
+        },
+        {
+            "id": "6e59d818be3543bfb71367b0471dc1f9",
+            "text": "He won't be free until tomorrow.",
+            "items": [
+                "He",
+                "won't",
+                "be",
+                "free",
+                "until",
+                "tomorrow."
+            ]
+        },
+        {
+            "id": "d0686bea79954e54abc733c76a942596",
+            "text": "Can I make an appointment?",
+            "items": [
+                "Can",
+                "I",
+                "make",
+                "an",
+                "appointment?"
+            ]
+        },
+        {
+            "id": "dcfe352e40994365b7534922fade5c02",
+            "text": "Sure. How about tomorrow at ten o'clock?",
+            "items": [
+                "Sure.",
+                "How",
+                "about",
+                "tomorrow",
+                "at",
+                [
+                    "ten",
+                    "10"
+                ],
+                "o'clock?"
+            ]
+        },
+        {
+            "id": "4af409313b564867acf46e4ad1394e52",
+            "text": "Can you make it at nine?",
+            "items": [
+                "Can",
+                "you",
+                "make",
+                "it",
+                "at",
+                [
+                    "nine?",
+                    "9"
+                ]
+            ]
+        },
+        {
+            "id": "a1a739e68fd94805a4d849d191f8830d",
+            "text": "I'll check to see if he's available.",
+            "items": [
+                "I'll",
+                "check",
+                "to",
+                "see",
+                "if",
+                "he's",
+                "available."
+            ]
+        },
+        {
+            "id": "3e5fa591287b4b93bc74eeab09b07ac3",
+            "text": "I'm sorry but he's tied up until ten o'clock.",
+            "items": [
+                "I'm",
+                "sorry",
+                "but",
+                "he's",
+                "tied",
+                "up",
+                "until",
+                [
+                    "ten",
+                    "10"
+                ],
+                "o'clock."
+            ]
+        },
+        {
+            "id": "8795f46b67694ed8a20e9eca59ca45cf",
+            "text": "Well, can't you squeeze me in, somehow?",
+            "items": [
+                "Well,",
+                "can't",
+                "you",
+                "squeeze",
+                "me",
+                "in,",
+                "somehow?"
+            ]
+        },
+        {
+            "id": "e8e75adb1b79454897a4020a877773d9",
+            "text": "I'm afraid not.",
+            "items": [
+                "I'm",
+                "afraid",
+                "not."
+            ]
+        },
+        {
+            "id": "0bc7da7dcff54574bc951ab202125552",
+            "text": "How about after lunch?",
+            "items": [
+                "How",
+                "about",
+                "after",
+                "lunch?"
+            ]
+        },
+        {
+            "id": "be43a121726a4187843b6ac574f45ab6",
+            "text": "Will one o'clock be all right?",
+            "items": [
+                "Will",
+                [
+                    "one",
+                    "i,",
+                    "1"
+                ],
+                "o'clock",
+                "be",
+                [
+                    "all right?",
+                    "alright"
+                ]
+            ]
+        },
+        {
+            "id": "e977dae85cf142c38c9fdb030417ecac",
+            "text": "That's perfect. Thank you.",
+            "items": [
+                "That's",
+                "perfect.",
+                "Thank",
+                "you."
+            ]
+        }
+    ]
+}

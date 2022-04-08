@@ -1,0 +1,125 @@
+{
+    "id": "1207f16d45374430a921e796ad5e9ef8",
+    "title": "Article Or No Article",
+    "exercises": [
+        {
+            "id": "fbec2fbd2fb14a409aae4844a79cee82",
+            "title": "Article Or No Article",
+            "questions": [
+                {
+                    "question": "I like to listen to old songs on .................................",
+                    "description": "",
+                    "answers": [
+                        "radio",
+                        "the radio",
+                        "Either could be used here"
+                    ],
+                    "correct": 2
+                },
+                {
+                    "question": "She is studying law at .....................................",
+                    "description": "Articles are not used with nouns referring to institutions when we are talking about the activity going on there. ",
+                    "answers": [
+                        "university",
+                        "the university",
+                        "Either could be used here"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Who is playing .....................................?",
+                    "description": "Articles are always used with the names of musical instruments. ",
+                    "answers": [
+                        "violin",
+                        "the violin"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "I met him at .......................................",
+                    "description": "Here the library is a meeting place. It is used with the article the.",
+                    "answers": [
+                        "library",
+                        "the library"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "I went to ....................................... to see them off.",
+                    "description": "",
+                    "answers": [
+                        "airport",
+                        "the airport"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "I met .......................................... yesterday.",
+                    "description": "Minister is a singular countable noun we need an article with it. Here the definite article the is used to give the impression that the listener knows which minister the speaker is talking about. ",
+                    "answers": [
+                        "minister",
+                        "the minister"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "She lives in ........................................",
+                    "description": "Articles are not used before place names. ",
+                    "answers": [
+                        "America",
+                        "the America"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Some of my friends have moved to .................................",
+                    "description": "Articles are used with place names if they include the words United or Republic. ",
+                    "answers": [
+                        "USA",
+                        "the USA"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "We cannot survive without ........................................",
+                    "description": "Water is an uncountable noun. No article is used with it. ",
+                    "answers": [
+                        "water",
+                        "the water",
+                        "a water"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Do you like .........................................?",
+                    "description": "Cheese is uncountable also we are not talking about any particular cheese here so no article is used. ",
+                    "answers": [
+                        "cheese",
+                        "a cheese",
+                        "the cheese"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "The children are playing in .......................................",
+                    "description": "We are talking about a particular park here so we use the.",
+                    "answers": [
+                        "park",
+                        "the park"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "She was born in ......................................",
+                    "description": "",
+                    "answers": [
+                        "Mexico",
+                        "the Mexico",
+                        "a Mexico"
+                    ],
+                    "correct": 0
+                }
+            ]
+        }
+    ]
+}

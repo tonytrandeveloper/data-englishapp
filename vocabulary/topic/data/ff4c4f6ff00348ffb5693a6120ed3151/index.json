@@ -1,0 +1,207 @@
+[
+    {
+        "id": "9e504b2f96d74ee5a172a030510537fd",
+        "word": "chemical engineering",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˌkemɪkl endʒɪˈnɪərɪŋ/",
+            "us": "/ˌkemɪkl endʒɪˈnɪrɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "chemical element",
+                "pos": "noun"
+            },
+            {
+                "word": "chemical engineer",
+                "pos": "noun"
+            },
+            {
+                "word": "chemical engineering",
+                "pos": "noun"
+            },
+            {
+                "word": "chemically",
+                "pos": "adverb"
+            },
+            {
+                "word": "chemical warfare",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the study of the design and use of machines in industrial chemical processes",
+                    "vi": "nghiên cứu thiết kế và sử dụng máy móc trong các quá trình hóa chất công nghiệp"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "b66bc74a419a464eba32b78b2adab6b0",
+        "word": "electrical engineering",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ɪˌlektrɪkl endʒɪˈnɪərɪŋ/",
+            "us": "/ɪˌlektrɪkl endʒɪˈnɪrɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "electrical",
+                "pos": "adjective"
+            },
+            {
+                "word": "electrical engineer",
+                "pos": "noun"
+            },
+            {
+                "word": "electrical engineering",
+                "pos": "noun"
+            },
+            {
+                "word": "electrically",
+                "pos": "adverb"
+            },
+            {
+                "word": "electrical storm",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the design and building of machines and systems that use or produce electricity; the study of this subject",
+                    "vi": "thiết kế và xây dựng các máy móc và hệ thống sử dụng hoặc sản xuất điện; nghiên cứu của chủ đề này"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "ab655e439c8c4a22a39eae5ee6300163",
+        "word": "mechanical engineering",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/məˌkænɪkl endʒɪˈnɪərɪŋ/",
+            "us": "/məˌkænɪkl endʒɪˈnɪrɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "mechanical",
+                "pos": "adjective"
+            },
+            {
+                "word": "mechanical engineer",
+                "pos": "noun"
+            },
+            {
+                "word": "mechanical engineering",
+                "pos": "noun"
+            },
+            {
+                "word": "mechanically",
+                "pos": "adverb"
+            },
+            {
+                "word": "mechanical pencil",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the study of how machines are designed, built and repaired",
+                    "vi": "nghiên cứu về cách máy móc được thiết kế, chế tạo và sửa chữa"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "1edbd1106a9148428fb68e2b182aff46",
+        "word": "civil engineering",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌsɪvl endʒɪˈnɪərɪŋ/",
+            "us": "/ˌsɪvl endʒɪˈnɪrɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "civil disobedience",
+                "pos": "noun"
+            },
+            {
+                "word": "civil engineer",
+                "pos": "noun"
+            },
+            {
+                "word": "civil engineering",
+                "pos": "noun"
+            },
+            {
+                "word": "civilian",
+                "pos": "noun"
+            },
+            {
+                "word": "civilian",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the design, building and repair of roads, bridges, canals, etc.; the study of this as a subject",
+                    "vi": "thiết kế, xây dựng và sửa chữa đường, cầu, kênh, rạch, v.v ...; nghiên cứu về điều này như một chủ đề"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "834a8f40c4634d948e78ca655e42e30b",
+        "word": "robotics",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/rəʊˈbɒtɪks/",
+            "us": "/rəʊˈbɑːtɪks/"
+        },
+        "nearby": [
+            {
+                "word": "robot",
+                "pos": "noun"
+            },
+            {
+                "word": "robotic",
+                "pos": "adjective"
+            },
+            {
+                "word": "robotics",
+                "pos": "noun"
+            },
+            {
+                "word": "Rob Roy",
+                "pos": ""
+            },
+            {
+                "word": "Bobby Robson",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the science of designing and operating robots",
+                    "vi": "khoa học thiết kế và vận hành robot"
+                },
+                "examples": []
+            }
+        ]
+    }
+]

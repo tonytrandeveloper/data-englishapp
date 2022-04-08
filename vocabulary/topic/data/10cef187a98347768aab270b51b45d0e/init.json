@@ -1,0 +1,4738 @@
+[
+    {
+        "id": "a2ca6cb444c8433080e86526bd6b2e34",
+        "word": "card",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/kɑːd/",
+            "us": "/kɑːrd/"
+        },
+        "nearby": [
+            {
+                "word": "car coat",
+                "pos": "noun"
+            },
+            {
+                "word": "car crash",
+                "pos": "noun"
+            },
+            {
+                "word": "card",
+                "pos": "noun"
+            },
+            {
+                "word": "card",
+                "pos": "verb"
+            },
+            {
+                "word": "cardamom",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "thick, stiff paper; a piece of this for writing on",
+                    "vi": "giấy dày, cứng; một phần của điều này để viết về"
+                },
+                "examples": [
+                    {
+                        "en": "a piece of card",
+                        "vi": "một mảnh thẻ"
+                    },
+                    {
+                        "en": "The model of the building was made of card.",
+                        "vi": "Mô hình của tòa nhà được làm bằng thẻ."
+                    },
+                    {
+                        "en": "Each person wrote their question on a card.",
+                        "vi": "Mỗi người viết câu hỏi của họ trên một tấm thẻ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a piece of stiff paper that is folded in the middle and has a picture on the front of it, used for sending somebody a message with your good wishes, an invitation, etc.",
+                    "vi": "một mảnh giấy cứng được gấp ở giữa và có hình ở mặt trước, được sử dụng để gửi cho ai đó một tin nhắn với những lời chúc tốt đẹp của bạn, một lời mời, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "a birthday/get-well/good luck card",
+                        "vi": "một tấm thiệp sinh nhật / an khang / chúc may mắn"
+                    },
+                    {
+                        "en": "Everyone at work signed a card for her.",
+                        "vi": "Mọi người tại nơi làm việc đã ký thẻ cho cô ấy."
+                    },
+                    {
+                        "en": "When they got engaged I sent them a card.",
+                        "vi": "Khi họ đính hôn, tôi đã gửi cho họ một tấm thiệp."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a postcard (= a card used for sending messages by post without an envelope, especially one that has a picture on one side)",
+                    "vi": "một tấm bưu thiếp (= một tấm thẻ dùng để gửi tin nhắn qua đường bưu điện mà không có phong bì, đặc biệt là một tấm có hình ở một mặt)"
+                },
+                "examples": [
+                    {
+                        "en": "Did you get my card from Italy?",
+                        "vi": "Bạn đã nhận được thẻ của tôi từ Ý?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a small piece of stiff paper or plastic with information on it, especially information about somebody’s identity",
+                    "vi": "một mảnh giấy cứng hoặc nhựa nhỏ với thông tin trên đó, đặc biệt là thông tin về danh tính của ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "a membership card",
+                        "vi": "thẻ thành viên"
+                    },
+                    {
+                        "en": "an appointment card",
+                        "vi": "một phiếu hẹn"
+                    },
+                    {
+                        "en": "She got her first library card at the age of seven.",
+                        "vi": "Cô có thẻ thư viện đầu tiên của mình vào năm bảy tuổi."
+                    },
+                    {
+                        "en": "a set of free recipe cards",
+                        "vi": "một bộ thẻ công thức miễn phí"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a business card (= a small card printed with somebody's name and details of their job and company)",
+                    "vi": "danh thiếp (= một tấm danh thiếp nhỏ có in tên của ai đó và thông tin chi tiết về công việc và công ty của họ)"
+                },
+                "examples": [
+                    {
+                        "en": "Here's my card if you need to contact me again.",
+                        "vi": "Đây là thẻ của tôi nếu bạn cần liên hệ lại với tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a small card with your name on it that you leave with somebody after, or instead of, a formal visit",
+                    "vi": "một tấm thiệp nhỏ có tên bạn trên đó để bạn rời đi với ai đó sau đó, hoặc thay vì một chuyến thăm chính thức"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a small piece of plastic, especially one given by a bank or shop, used for buying things or obtaining money",
+                    "vi": "một miếng nhựa nhỏ, đặc biệt là miếng nhựa do ngân hàng hoặc cửa hàng tặng, dùng để mua đồ hoặc lấy tiền"
+                },
+                "examples": [
+                    {
+                        "en": "I put the meal on (= paid for it using) my card.",
+                        "vi": "Tôi đã đặt bữa ăn trên (= đã thanh toán bằng) thẻ của mình."
+                    },
+                    {
+                        "en": "Can I pay with a card?",
+                        "vi": "Tôi có thể thanh toán bằng thẻ không?"
+                    },
+                    {
+                        "en": "Thieves used her cards to go on a spending spree.",
+                        "vi": "Những tên trộm đã sử dụng thẻ của cô để tiêu xài hoang phí."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "any one of a set of 52 cards with numbers and pictures printed on one side, which are used to play various card game",
+                    "vi": "bất kỳ một trong bộ 52 lá bài có in số và hình ảnh trên một mặt, được sử dụng để chơi các trò chơi bài khác nhau"
+                },
+                "examples": [
+                    {
+                        "en": "(British English) a pack of cards",
+                        "vi": "(Tiếng Anh Anh) một gói thẻ"
+                    },
+                    {
+                        "en": "(especially North American English) a deck of cards",
+                        "vi": "(đặc biệt là tiếng Anh Bắc Mỹ) một bộ bài"
+                    },
+                    {
+                        "en": "Each player in turn must play a card.",
+                        "vi": "Mỗi người chơi đến lượt phải chơi một lá bài."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a game or games in which playing cards are used",
+                    "vi": "một trò chơi hoặc các trò chơi trong đó chơi bài được sử dụng"
+                },
+                "examples": [
+                    {
+                        "en": "Who wants to play cards?",
+                        "vi": "Ai muốn chơi bài?"
+                    },
+                    {
+                        "en": "I've never been very good at cards.",
+                        "vi": "Tôi chưa bao giờ giỏi đánh bài."
+                    },
+                    {
+                        "en": "Let's have a game of cards.",
+                        "vi": "Hãy có một trò chơi của thẻ."
+                    },
+                    {
+                        "en": "She won £20 at cards.",
+                        "vi": "Cô ấy đã giành được £ 20 khi chơi bài."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a small device containing an electronic circuit that is part of a computer or added to it, enabling it to perform particular functions",
+                    "vi": "một thiết bị nhỏ có chứa một mạch điện tử là một phần của máy tính hoặc được thêm vào nó, cho phép nó thực hiện các chức năng cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "a printed circuit card",
+                        "vi": "một thẻ mạch in"
+                    },
+                    {
+                        "en": "a memory card",
+                        "vi": "thẻ nhớ"
+                    },
+                    {
+                        "en": "a graphics/sound/video card",
+                        "vi": "card đồ họa / âm thanh / video"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an unusual or funny person",
+                    "vi": "một người bất thường hoặc vui tính"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a list of all the races at a particular race meeting (= a series of horse races)",
+                    "vi": "danh sách tất cả các cuộc đua tại một cuộc họp cuộc đua cụ thể (= một loạt các cuộc đua ngựa)"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a machine or tool used for cleaning and combing wool or cotton before it is spun",
+                    "vi": "một máy hoặc dụng cụ được sử dụng để làm sạch và chải len hoặc bông trước khi nó được kéo thành sợi"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "something that gives somebody an advantage over other people in a particular situation",
+                    "vi": "thứ gì đó mang lại cho ai đó lợi thế hơn những người khác trong một tình huống cụ thể"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "you are unlikely to succeed because the conditions are not good for you",
+                    "vi": "bạn không có khả năng thành công bởi vì các điều kiện không tốt cho bạn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "you are likely to succeed because the conditions are good and you have an advantage",
+                    "vi": "bạn có khả năng thành công vì điều kiện tốt và bạn có lợi thế"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be told to leave a job",
+                    "vi": "được yêu cầu để lại một công việc"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to make somebody leave their job",
+                    "vi": "để khiến ai đó rời bỏ công việc của họ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to have an idea, a plan, etc. that will give you an advantage in a particular situation and that you keep secret until it is needed",
+                    "vi": "để có một ý tưởng, một kế hoạch, v.v. sẽ mang lại lợi thế cho bạn trong một tình huống cụ thể và bạn giữ bí mật cho đến khi cần"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be able to control a particular situation because you have an advantage over other people",
+                    "vi": "để có thể kiểm soát một tình huống cụ thể bởi vì bạn có lợi thế hơn những người khác"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to keep your ideas, plans, etc. secret",
+                    "vi": "để giữ bí mật về ý tưởng, kế hoạch, v.v. của bạn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to tell somebody honestly what your plans, ideas, etc. are",
+                    "vi": "để nói với ai đó một cách trung thực kế hoạch, ý tưởng, v.v. của bạn là gì"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "likely to happen",
+                    "vi": "sắp xảy ra"
+                },
+                "examples": [
+                    {
+                        "en": "The merger has been on the cards for some time now.",
+                        "vi": "Việc hợp nhất đã nằm trong danh sách một thời gian."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to mention a particular subject, idea or quality in order to gain an advantage",
+                    "vi": "đề cập đến một chủ đề, ý tưởng hoặc phẩm chất cụ thể để đạt được lợi thế"
+                },
+                "examples": [
+                    {
+                        "en": "He accused his opponent of playing the immigration card during the campaign.",
+                        "vi": "Ông cáo buộc đối thủ của mình đã chơi bài nhập cư trong chiến dịch tranh cử."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to deal successfully with a particular situation so that you achieve some advantage or something that you want",
+                    "vi": "đối phó thành công với một tình huống cụ thể để bạn đạt được một số lợi thế hoặc điều gì đó mà bạn muốn"
+                },
+                "examples": [
+                    {
+                        "en": "If you play your cards right, the job could be yours when she leaves.",
+                        "vi": "Nếu bạn chơi đúng bài của mình, công việc có thể là của bạn khi cô ấy rời đi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make your plans or intentions known",
+                    "vi": "để làm cho kế hoạch hoặc ý định của bạn được biết đến"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "2fadd1d3ba84431fb62d0cb51047da79",
+        "word": "card game",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/ˈkɑːd ɡeɪm/",
+            "us": "/ˈkɑːrd ɡeɪm/"
+        },
+        "nearby": [
+            {
+                "word": "card-carrying",
+                "pos": "adjective"
+            },
+            {
+                "word": "card catalog",
+                "pos": "noun"
+            },
+            {
+                "word": "card game",
+                "pos": "noun"
+            },
+            {
+                "word": "cardholder",
+                "pos": "noun"
+            },
+            {
+                "word": "cardiac",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a game in which playing cards are used",
+                    "vi": "một trò chơi trong đó chơi bài được sử dụng"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "90996886e50740cca333d34e1d5cc0c1",
+        "word": "deal",
+        "pos": "verb",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/diːl/",
+            "us": "/diːl/"
+        },
+        "nearby": [
+            {
+                "word": "deaf mute",
+                "pos": "noun"
+            },
+            {
+                "word": "deafness",
+                "pos": "noun"
+            },
+            {
+                "word": "deal",
+                "pos": "verb"
+            },
+            {
+                "word": "deal",
+                "pos": "noun"
+            },
+            {
+                "word": "deal-breaker",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to give cards to each player in a game of cards",
+                    "vi": "trao thẻ cho mỗi người chơi trong trò chơi bài"
+                },
+                "examples": [
+                    {
+                        "en": "Whose turn is it to deal?",
+                        "vi": "Đến lượt ai để giải quyết?"
+                    },
+                    {
+                        "en": "deal (something) (out) (to somebody) Start by dealing out ten cards to each player.",
+                        "vi": "deal (cái gì đó) (out) (cho ai đó) Bắt đầu bằng cách chia mười lá bài cho mỗi người chơi."
+                    },
+                    {
+                        "en": "deal somebody something He dealt me two aces.",
+                        "vi": "đối phó với ai đó một cái gì đó. Anh ta đã xử lý cho tôi hai con át chủ bài."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to buy and sell illegal drugs",
+                    "vi": "mua bán trái phép chất ma túy"
+                },
+                "examples": [
+                    {
+                        "en": "You can often see people dealing openly on the streets.",
+                        "vi": "Bạn thường có thể thấy mọi người giao dịch công khai trên đường phố."
+                    },
+                    {
+                        "en": "He was sent to jail for dealing drugs to his friends.",
+                        "vi": "Anh ta đã bị vào tù vì buôn bán ma túy cho bạn bè của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to shock somebody/something very much; to be very harmful to somebody/something",
+                    "vi": "gây sốc cho ai đó / một cái gì đó rất nhiều; rất có hại cho ai đó / cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "Her sudden death dealt a blow to the whole country.",
+                        "vi": "Cái chết đột ngột của cô đã giáng một đòn mạnh vào cả đất nước."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to hit somebody/something",
+                    "vi": "đánh ai đó / cái gì đó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used to tell somebody that they cannot change a situation so they must accept it",
+                    "vi": "được sử dụng để nói với ai đó rằng họ không thể thay đổi một tình huống, vì vậy họ phải chấp nhận nó"
+                },
+                "examples": [
+                    {
+                        "en": "That's the way it is, so deal with it!",
+                        "vi": "Chuyện là như vậy, nên đối phó với nó!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to do a lot of complicated deals in business or politics, often in a dishonest way",
+                    "vi": "thực hiện nhiều giao dịch phức tạp trong kinh doanh hoặc chính trị, thường theo cách không trung thực"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "cced4a1df4b94f8c86fe8d0a1eb3b5c0",
+        "word": "playing card",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈpleɪɪŋ kɑːd/",
+            "us": "/ˈpleɪɪŋ kɑːrd/"
+        },
+        "nearby": [
+            {
+                "word": "playhouse",
+                "pos": "noun"
+            },
+            {
+                "word": "playing",
+                "pos": "noun"
+            },
+            {
+                "word": "playing card",
+                "pos": "noun"
+            },
+            {
+                "word": "playing field",
+                "pos": "noun"
+            },
+            {
+                "word": "play itself out",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "any one of a set of 52 cards with numbers and pictures printed on one side, which are used to play various card games",
+                    "vi": "bất kỳ một trong bộ 52 lá bài có in số và hình ảnh trên một mặt, được sử dụng để chơi các trò chơi bài khác nhau"
+                },
+                "examples": [
+                    {
+                        "en": "(British English) a pack of (playing) cards",
+                        "vi": "(Tiếng Anh Anh) một gói (chơi) thẻ"
+                    },
+                    {
+                        "en": "(North American English) a deck of (playing) cards",
+                        "vi": "(Tiếng Anh Bắc Mỹ) một bộ bài (chơi)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "84585cb4986c4ae395d17f56c3c55671",
+        "word": "casino",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/kəˈsiːnəʊ/",
+            "us": "/kəˈsiːnəʊ/"
+        },
+        "nearby": [
+            {
+                "word": "cash up",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "casing",
+                "pos": "noun"
+            },
+            {
+                "word": "casino",
+                "pos": "noun"
+            },
+            {
+                "word": "casino capitalism",
+                "pos": "noun"
+            },
+            {
+                "word": "cask",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a public building or room where people play gambling games for money",
+                    "vi": "một tòa nhà công cộng hoặc căn phòng nơi mọi người chơi trò chơi đánh bạc kiếm tiền"
+                },
+                "examples": [
+                    {
+                        "en": "a new hotel and casino in Las Vegas",
+                        "vi": "một khách sạn và sòng bạc mới ở Las Vegas"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "45d69234b6af498aa005a38731f9a29b",
+        "word": "dealer",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈdiːlə(r)/",
+            "us": "/ˈdiːlər/"
+        },
+        "nearby": [
+            {
+                "word": "deal",
+                "pos": "noun"
+            },
+            {
+                "word": "deal-breaker",
+                "pos": "noun"
+            },
+            {
+                "word": "dealer",
+                "pos": "noun"
+            },
+            {
+                "word": "dealership",
+                "pos": "noun"
+            },
+            {
+                "word": "deal in",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person whose business is buying and selling a particular product",
+                    "vi": "một người có doanh nghiệp đang mua và bán một sản phẩm cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "an art/antique dealer",
+                        "vi": "một nhà buôn đồ cổ / nghệ thuật"
+                    },
+                    {
+                        "en": "dealer in something He's a dealer in second-hand cars.",
+                        "vi": "đại lý một cái gì đó Anh ấy là một đại lý ô tô đã qua sử dụng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who sells illegal drugs",
+                    "vi": "một người bán ma túy bất hợp pháp"
+                },
+                "examples": [
+                    {
+                        "en": "a crack dealer",
+                        "vi": "một đại lý crack"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the person who gives out the cards in a card game",
+                    "vi": "người đưa ra các thẻ trong một trò chơi bài"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "73b6d44b5ad541a58499851cc9fb1dc6",
+        "word": "ace",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/eɪs/",
+            "us": "/eɪs/"
+        },
+        "nearby": [
+            {
+                "word": "accustomed",
+                "pos": "adjective"
+            },
+            {
+                "word": "accustom to",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "ace",
+                "pos": "noun"
+            },
+            {
+                "word": "ace",
+                "pos": "adjective"
+            },
+            {
+                "word": "ace",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a playing card with a large single symbol on it, which has either the highest or the lowest value in a particular card game",
+                    "vi": "một thẻ chơi có một biểu tượng lớn trên đó, có giá trị cao nhất hoặc thấp nhất trong một trò chơi bài cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "the ace of spades/hearts/diamonds/clubs",
+                        "vi": "át chủ bài / trái tim / kim cương / câu lạc bộ"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who is very good at doing something",
+                    "vi": "một người rất giỏi làm điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "a soccer/flying ace",
+                        "vi": "một ace bóng đá / bay"
+                    },
+                    {
+                        "en": "an ace marksman",
+                        "vi": "một tay thiện xạ ace"
+                    },
+                    {
+                        "en": "French ace Mbappé scored a late penalty.",
+                        "vi": "Cầu thủ người Pháp, Mbappe đã ghi bàn sau một quả phạt đền muộn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a serve (= the first hit) that is so good that your opponent cannot reach the ball",
+                    "vi": "một cú giao bóng (= cú đánh đầu tiên) tốt đến mức đối thủ của bạn không thể tiếp cận bóng"
+                },
+                "examples": [
+                    {
+                        "en": "He served 20 aces in the match.",
+                        "vi": "Anh ta phục vụ 20 quân át chủ bài trong trận đấu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an occasion when a player hits the ball from the tee into the hole using only one shot",
+                    "vi": "một trường hợp khi một người chơi đánh bóng từ điểm phát bóng vào lỗ chỉ bằng một cú đánh"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a secret advantage, for example a piece of information or a skill, that you are ready to use if you need to",
+                    "vi": "một lợi thế bí mật, ví dụ như một phần thông tin hoặc một kỹ năng, mà bạn sẵn sàng sử dụng nếu bạn cần"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to have all the advantages in a situation",
+                    "vi": "để có tất cả các lợi thế trong một tình huống"
+                },
+                "examples": [
+                    {
+                        "en": "The union soon realized that the management held all the aces.",
+                        "vi": "Công đoàn sớm nhận ra rằng ban quản lý nắm giữ tất cả các quân át chủ bài."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to use your best argument, etc. in order to get an advantage in a situation",
+                    "vi": "sử dụng lý lẽ tốt nhất của bạn, v.v. để đạt được lợi thế trong một tình huống"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "very close to something",
+                    "vi": "rất gần với một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "We came within an ace of victory.",
+                        "vi": "Chúng tôi đã đến trong một chiến thắng át chủ bài."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f17054e9906c471db9c435cfc53f3d3f",
+        "word": "baccarat",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbækərɑː/",
+            "us": "/ˌbækəˈrɑː/"
+        },
+        "nearby": [
+            {
+                "word": "Lauren Bacall",
+                "pos": ""
+            },
+            {
+                "word": "baccalaureate",
+                "pos": "noun"
+            },
+            {
+                "word": "baccarat",
+                "pos": "noun"
+            },
+            {
+                "word": "bacchanalian",
+                "pos": "adjective"
+            },
+            {
+                "word": "baccy",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a card game in which players hold two or three cards each and bet on whose cards will have the highest number left over when their value is divided by ten",
+                    "vi": "một trò chơi bài trong đó người chơi giữ mỗi người hai hoặc ba thẻ và đặt cược vào thẻ của ai sẽ còn lại số cao nhất khi giá trị của chúng chia cho mười"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "c33eb5d184394cb397d997235f0061c0",
+        "word": "blackjack",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈblækdʒæk/",
+            "us": "/ˈblækdʒæk/"
+        },
+        "nearby": [
+            {
+                "word": "black ice",
+                "pos": "noun"
+            },
+            {
+                "word": "black information",
+                "pos": "noun"
+            },
+            {
+                "word": "blackjack",
+                "pos": "noun"
+            },
+            {
+                "word": "black knight",
+                "pos": "noun"
+            },
+            {
+                "word": "blackleg",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a card game in which players try to collect cards with a total value of 21 and no more",
+                    "vi": "một trò chơi bài trong đó người chơi cố gắng thu thập các thẻ có tổng giá trị là 21 và không hơn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a type of club used as a weapon, especially a metal pipe covered with leather",
+                    "vi": "một loại gậy dùng làm vũ khí, đặc biệt là một ống kim loại bọc da"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "13a328e43a84473e92dd2143b71304a6",
+        "word": "bridge",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/brɪdʒ/",
+            "us": "/brɪdʒ/"
+        },
+        "nearby": [
+            {
+                "word": "bridesmaid",
+                "pos": "noun"
+            },
+            {
+                "word": "bridezilla",
+                "pos": "noun"
+            },
+            {
+                "word": "bridge",
+                "pos": "noun"
+            },
+            {
+                "word": "bridge",
+                "pos": "verb"
+            },
+            {
+                "word": "bridge-building",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a structure that is built over a road, railway, river, etc. so that people, vehicles, etc. can cross from one side to the other",
+                    "vi": "một công trình được xây dựng trên đường bộ, đường sắt, sông, v.v. để người, phương tiện, v.v. có thể băng qua bên này sang bên kia"
+                },
+                "examples": [
+                    {
+                        "en": "We crossed the bridge over the River Windrush.",
+                        "vi": "Chúng tôi băng qua cây cầu bắc qua sông Windrush."
+                    },
+                    {
+                        "en": "The river was spanned by a railway bridge.",
+                        "vi": "Con sông được bắc qua một cây cầu đường sắt."
+                    },
+                    {
+                        "en": "The plan incudes a pedestrian bridge connecting the arena with the convention centre.",
+                        "vi": "Kế hoạch bao gồm một cây cầu đi bộ nối đấu trường với trung tâm hội nghị."
+                    },
+                    {
+                        "en": "I don't have time to walk across the bridge.",
+                        "vi": "Tôi không có thời gian để đi bộ qua cầu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a thing that provides a connection or contact between two different things",
+                    "vi": "một thứ cung cấp kết nối hoặc liên hệ giữa hai thứ khác nhau"
+                },
+                "examples": [
+                    {
+                        "en": "The book serves as a bridge between ancient wisdom and modern science.",
+                        "vi": "Cuốn sách như một cầu nối giữa trí tuệ cổ đại và khoa học hiện đại."
+                    },
+                    {
+                        "en": "Cultural exchanges are a way of building bridges between countries.",
+                        "vi": "Giao lưu văn hóa là một cách xây dựng cầu nối giữa các quốc gia."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the part of a ship where the captain and other officers stand when they are controlling the ship",
+                    "vi": "phần tàu nơi thuyền trưởng và các sĩ quan khác đứng khi họ điều khiển tàu"
+                },
+                "examples": [
+                    {
+                        "en": "Who was on the bridge when the collision took place?",
+                        "vi": "Ai đã ở trên cầu khi vụ va chạm xảy ra?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a card game for two pairs of players who have to predict how many cards they will win. They score points if they succeed in winning that number of cards and lose points if they fail.",
+                    "vi": "một trò chơi bài dành cho hai cặp người chơi phải dự đoán xem họ sẽ thắng bao nhiêu quân bài. Họ ghi điểm nếu thắng thành công số thẻ đó và mất điểm nếu thất bại."
+                },
+                "examples": [
+                    {
+                        "en": "I enjoy a game of bridge occasionally.",
+                        "vi": "Tôi thỉnh thoảng thích chơi cầu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the hard part at the top of the nose, between the eyes",
+                    "vi": "phần cứng ở đầu mũi, giữa hai mắt"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the part of a pair of glasses that rests on your nose",
+                    "vi": "phần của một cặp kính nằm trên mũi của bạn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a small piece of wood on a guitar, violin, etc. over which the strings are stretched",
+                    "vi": "một miếng gỗ nhỏ trên cây đàn ghita, đàn vi-ô-lông, v.v. trên đó các dây đàn được kéo căng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a false tooth or false teeth, held permanently in place by being fastened to natural teeth on either side",
+                    "vi": "một chiếc răng giả hoặc răng giả, được giữ cố định tại chỗ bằng cách được gắn chặt vào răng tự nhiên ở cả hai bên"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to encourage good relationships between two groups, countries, etc.",
+                    "vi": "khuyến khích mối quan hệ tốt đẹp giữa hai nhóm, quốc gia, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "The aim of the project was to build bridges between communities through joint events.",
+                        "vi": "Mục đích của dự án là xây dựng cầu nối giữa các cộng đồng thông qua các sự kiện chung."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to do something that makes it impossible to return to the previous situation later",
+                    "vi": "để làm điều gì đó khiến bạn không thể quay lại tình trạng trước đó sau này"
+                },
+                "examples": [
+                    {
+                        "en": "Think carefully before you resign—you don't want to burn your bridges.",
+                        "vi": "Hãy suy nghĩ kỹ trước khi từ chức — bạn không muốn đốt cháy những cây cầu của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to worry about a problem when it actually happens and not before",
+                    "vi": "lo lắng về một vấn đề khi nó thực sự xảy ra chứ không phải trước đó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used to say that something happened in the past and is now forgotten or no longer important",
+                    "vi": "được sử dụng để nói rằng một cái gì đó đã xảy ra trong quá khứ và bây giờ đã bị lãng quên hoặc không còn quan trọng"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "5a360e1616224c89be40adf6f12d98d9",
+        "word": "canasta",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/kəˈnæstə/",
+            "us": "/kəˈnæstə/"
+        },
+        "nearby": [
+            {
+                "word": "canary",
+                "pos": "noun"
+            },
+            {
+                "word": "Canary Wharf",
+                "pos": ""
+            },
+            {
+                "word": "canasta",
+                "pos": "noun"
+            },
+            {
+                "word": "Canberra",
+                "pos": ""
+            },
+            {
+                "word": "cancan",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a card game played with two packs of cards, in which players try to collect sets of cards",
+                    "vi": "một trò chơi bài được chơi với hai gói thẻ, trong đó người chơi cố gắng thu thập các bộ thẻ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "aa4f8415e1fa462ca97cba7b76b51b0e",
+        "word": "club",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/klʌb/",
+            "us": "/klʌb/"
+        },
+        "nearby": [
+            {
+                "word": "cloyingly",
+                "pos": "adverb"
+            },
+            {
+                "word": "cloze test",
+                "pos": "noun"
+            },
+            {
+                "word": "club",
+                "pos": "noun"
+            },
+            {
+                "word": "club",
+                "pos": "verb"
+            },
+            {
+                "word": "clubber",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an organization for people who share an interest or do a sport or activity together",
+                    "vi": "một tổ chức dành cho những người có chung sở thích hoặc cùng tham gia một môn thể thao hoặc hoạt động"
+                },
+                "examples": [
+                    {
+                        "en": "a golf/tennis/chess/film club",
+                        "vi": "câu lạc bộ chơi gôn / tennis / cờ vua / điện ảnh"
+                    },
+                    {
+                        "en": "I joined a local canoeing club.",
+                        "vi": "Tôi tham gia một câu lạc bộ bơi xuồng ở địa phương."
+                    },
+                    {
+                        "en": "They belong to the same golf club.",
+                        "vi": "Họ thuộc cùng một câu lạc bộ golf."
+                    },
+                    {
+                        "en": "Grandad is a member of the bowling club.",
+                        "vi": "Ông ngoại là thành viên của câu lạc bộ bowling."
+                    },
+                    {
+                        "en": "For details on club membership email the address below.",
+                        "vi": "Để biết thông tin chi tiết về thành viên câu lạc bộ, hãy gửi email đến địa chỉ bên dưới."
+                    },
+                    {
+                        "en": "The club hopes to raise at least $10 000 for six local charities.",
+                        "vi": "Câu lạc bộ hy vọng sẽ quyên góp được ít nhất $ 10 000 cho sáu tổ chức từ thiện địa phương."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the building or rooms that a particular club uses",
+                    "vi": "tòa nhà hoặc các phòng mà một câu lạc bộ cụ thể sử dụng"
+                },
+                "examples": [
+                    {
+                        "en": "We had lunch at the golf club.",
+                        "vi": "Chúng tôi ăn trưa tại câu lạc bộ golf."
+                    },
+                    {
+                        "en": "the club bar",
+                        "vi": "quán bar câu lạc bộ"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a professional sports organization that includes the players, managers, owners and members",
+                    "vi": "một tổ chức thể thao chuyên nghiệp bao gồm người chơi, người quản lý, chủ sở hữu và các thành viên"
+                },
+                "examples": [
+                    {
+                        "en": "Manchester United Football Club",
+                        "vi": "Câu lạc bộ bóng đá Manchester United"
+                    },
+                    {
+                        "en": "a football/rugby/soccer club",
+                        "vi": "một câu lạc bộ bóng đá / bóng bầu dục / bóng đá"
+                    },
+                    {
+                        "en": "The club have signed a new coach for next season.",
+                        "vi": "Câu lạc bộ đã ký hợp đồng với một huấn luyện viên mới cho mùa giải tới."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a place where people, especially young people, go and listen to music, dance, watch comedy, etc.",
+                    "vi": "nơi mà mọi người, đặc biệt là giới trẻ, đến nghe nhạc, khiêu vũ, xem hài kịch, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "a jazz club",
+                        "vi": "một câu lạc bộ nhạc jazz"
+                    },
+                    {
+                        "en": "the club scene in Newcastle",
+                        "vi": "bối cảnh câu lạc bộ ở Newcastle"
+                    },
+                    {
+                        "en": "a night out at a comedy club",
+                        "vi": "một đêm đi chơi ở câu lạc bộ hài kịch"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "(especially in the UK) an organization and a place where people can meet together socially or stay",
+                    "vi": "(đặc biệt là ở Vương quốc Anh) một tổ chức và một nơi mà mọi người có thể gặp nhau xã giao hoặc ở lại"
+                },
+                "examples": [
+                    {
+                        "en": "He's a member of several London clubs.",
+                        "vi": "Anh ấy là thành viên của một số câu lạc bộ ở London."
+                    },
+                    {
+                        "en": "members of an exclusive club",
+                        "vi": "thành viên của một câu lạc bộ độc quyền"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a business that offers items or services cheaply to its members",
+                    "vi": "một doanh nghiệp cung cấp các mặt hàng hoặc dịch vụ với giá rẻ cho các thành viên của mình"
+                },
+                "examples": [
+                    {
+                        "en": "Car club members can hire cars at special discount rates.",
+                        "vi": "Các thành viên câu lạc bộ ô tô có thể thuê ô tô với mức chiết khấu đặc biệt."
+                    },
+                    {
+                        "en": "The book club requires members to buy at least six books in the first year.",
+                        "vi": "Câu lạc bộ sách yêu cầu các thành viên mua ít nhất sáu cuốn sách trong năm đầu tiên."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a heavy stick with one end thicker than the other, that is used as a weapon",
+                    "vi": "một cây gậy nặng với một đầu dày hơn đầu kia, được sử dụng làm vũ khí"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a long metal stick with a piece of metal or wood at one end, used for hitting the ball in golf",
+                    "vi": "một cây gậy kim loại dài với một mảnh kim loại hoặc gỗ ở một đầu, được sử dụng để đánh bóng trong gôn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "one of the four suits (= sets) in a pack of cards. The clubs have a black design with shapes like three black leaves on a short stem.",
+                    "vi": "một trong bốn bộ (= bộ) trong một gói thẻ. Các câu lạc bộ có thiết kế màu đen với hình dạng giống như ba chiếc lá đen trên một thân ngắn."
+                },
+                "examples": [
+                    {
+                        "en": "the five/queen/ace of clubs",
+                        "vi": "năm / nữ hoàng / át chủ bài của câu lạc bộ"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "one card from the suit called clubs",
+                    "vi": "một thẻ từ bộ đồ được gọi là câu lạc bộ"
+                },
+                "examples": [
+                    {
+                        "en": "I played a club.",
+                        "vi": "Tôi đã chơi một câu lạc bộ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be pregnant",
+                    "vi": "có thai"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used when something bad that has happened to somebody else has also happened to you",
+                    "vi": "được sử dụng khi điều gì đó tồi tệ đã xảy ra với người khác cũng đã xảy ra với bạn"
+                },
+                "examples": [
+                    {
+                        "en": "So you didn't get a job either? Join the club!",
+                        "vi": "Vậy là bạn cũng không kiếm được việc làm? Tham gia câu lạc bộ!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "333d4d88381c4914a4b37f43c284ef35",
+        "word": "cribbage",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkrɪbɪdʒ/",
+            "us": "/ˈkrɪbɪdʒ/"
+        },
+        "nearby": [
+            {
+                "word": "crib",
+                "pos": "noun"
+            },
+            {
+                "word": "crib",
+                "pos": "verb"
+            },
+            {
+                "word": "cribbage",
+                "pos": "noun"
+            },
+            {
+                "word": "crib death",
+                "pos": "noun"
+            },
+            {
+                "word": "crib sheet",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a card game in which players score points by collecting different combinations of cards. The score is kept by putting small pegs in holes in a board.",
+                    "vi": "một trò chơi bài trong đó người chơi ghi điểm bằng cách thu thập các kết hợp thẻ khác nhau. Điểm số được giữ bằng cách đặt các chốt nhỏ vào các lỗ trên bảng."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "1992909bf43a4bc480e28a2d8cbbba97",
+        "word": "diamond",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈdaɪmənd/",
+            "us": "/ˈdaɪmənd/"
+        },
+        "nearby": [
+            {
+                "word": "diametrical",
+                "pos": "adjective"
+            },
+            {
+                "word": "diametrically",
+                "pos": "adverb"
+            },
+            {
+                "word": "diamond",
+                "pos": "noun"
+            },
+            {
+                "word": "Jack 'Legs' Diamond",
+                "pos": ""
+            },
+            {
+                "word": "the Diamond Challenge Sculls",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a clear precious stone of pure carbon, the hardest substance known. Diamonds are used in jewellery and also in industry, especially for cutting glass.",
+                    "vi": "một loại đá quý trong suốt của cacbon tinh khiết, chất cứng nhất được biết đến. Kim cương được sử dụng trong đồ trang sức và cả trong công nghiệp, đặc biệt là để cắt thủy tinh."
+                },
+                "examples": [
+                    {
+                        "en": "a diamond ring/necklace",
+                        "vi": "một chiếc nhẫn / vòng cổ kim cương"
+                    },
+                    {
+                        "en": "She was wearing her diamonds (= jewellery with diamonds in it).",
+                        "vi": "Cô ấy đang đeo những viên kim cương của mình (= đồ trang sức có đính kim cương)."
+                    },
+                    {
+                        "en": "a six carat diamond",
+                        "vi": "một viên kim cương sáu carat"
+                    },
+                    {
+                        "en": "a diamond mine",
+                        "vi": "mỏ kim cương"
+                    },
+                    {
+                        "en": "The lights shone like diamonds.",
+                        "vi": "Những ánh sáng lấp lánh như những viên kim cương."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a shape with four straight sides of equal length and with angles that are not right angles",
+                    "vi": "một hình có bốn cạnh thẳng có độ dài bằng nhau và các góc không phải là góc vuông"
+                },
+                "examples": [
+                    {
+                        "en": "a sweater with a diamond pattern",
+                        "vi": "áo len có họa tiết kim cương"
+                    },
+                    {
+                        "en": "The eight vehicles assumed a diamond formation.",
+                        "vi": "Tám chiếc xe giả định một hình kim cương."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "one of the four suits (= sets) in a pack of cards. The cards are marked with red diamond shapes.",
+                    "vi": "một trong bốn bộ (= bộ) trong một gói thẻ. Các thẻ được đánh dấu bằng hình kim cương màu đỏ."
+                },
+                "examples": [
+                    {
+                        "en": "the ten of diamonds",
+                        "vi": "mười viên kim cương"
+                    },
+                    {
+                        "en": "Diamonds are/is trumps.",
+                        "vi": "Kim cương là / là át chủ bài."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "one card from the suit called diamonds",
+                    "vi": "một thẻ từ bộ đồ được gọi là kim cương"
+                },
+                "examples": [
+                    {
+                        "en": "You must play a diamond if you have one.",
+                        "vi": "Bạn phải chơi một viên kim cương nếu bạn có một viên."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the space inside the lines that connect the four bases; also used to mean the whole baseball field",
+                    "vi": "không gian bên trong các đường kết nối bốn cơ sở; cũng được sử dụng để có nghĩa là toàn bộ sân bóng chày"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "de7f909d1337461b8dcb445d52ddc4a7",
+        "word": "gin rummy",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌdʒɪn ˈrʌmi/",
+            "us": "/ˌdʒɪn ˈrʌmi/"
+        },
+        "nearby": [
+            {
+                "word": "Ginny",
+                "pos": ""
+            },
+            {
+                "word": "ginormous",
+                "pos": "adjective"
+            },
+            {
+                "word": "gin rummy",
+                "pos": "noun"
+            },
+            {
+                "word": "Allen Ginsberg",
+                "pos": ""
+            },
+            {
+                "word": "ginseng",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a card game in which players try to get hands (= sets of cards) that add up to ten",
+                    "vi": "một trò chơi bài trong đó người chơi cố gắng có được các ván bài (= bộ bài) cộng tới mười"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "925897bd3e36446e9f8882fed611cbdd",
+        "word": "grand slam",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌɡrænd ˈslæm/",
+            "us": "/ˌɡrænd ˈslæm/"
+        },
+        "nearby": [
+            {
+                "word": "Grand Prix",
+                "pos": "noun"
+            },
+            {
+                "word": "Grand Rapids",
+                "pos": ""
+            },
+            {
+                "word": "grand slam",
+                "pos": "noun"
+            },
+            {
+                "word": "grandson",
+                "pos": "noun"
+            },
+            {
+                "word": "grandstand",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a set of very important competitions in a particular sport in the same year in tennis, golf or rugby; one of the individual competitions that make up a Grand Slam",
+                    "vi": "một tập hợp các cuộc thi rất quan trọng trong một môn thể thao cụ thể trong cùng một năm như quần vợt, gôn hoặc bóng bầu dục; một trong những cuộc thi cá nhân tạo nên một Grand Slam"
+                },
+                "examples": [
+                    {
+                        "en": "The tennis Grand Slam consists of the four most important tournaments on the international circuit.",
+                        "vi": "Grand Slam quần vợt bao gồm bốn giải đấu quan trọng nhất trên đường đua quốc tế."
+                    },
+                    {
+                        "en": "a Grand Slam tournament/cup/title",
+                        "vi": "một giải đấu / cúp / danh hiệu Grand Slam"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the winning of every part of a sports contest or all the main contests in a year for a particular sport",
+                    "vi": "chiến thắng của tất cả các phần của một cuộc thi thể thao hoặc tất cả các cuộc thi chính trong một năm cho một môn thể thao cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "Will France win the grand slam this year (= in rugby)?",
+                        "vi": "Liệu Pháp có giành được Grand Slam năm nay (= trong bóng bầu dục)?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a home run that is worth four points",
+                    "vi": "một trận chạy trên sân nhà đáng giá bốn điểm"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the winning of all the tricks in a single game",
+                    "vi": "chiến thắng của tất cả các thủ thuật trong một trò chơi"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "cead737d4b3e4a83bf0c511561c251ec",
+        "word": "hand",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/hænd/",
+            "us": "/hænd/"
+        },
+        "nearby": [
+            {
+                "word": "hamstring",
+                "pos": "verb"
+            },
+            {
+                "word": "Tony Hancock",
+                "pos": ""
+            },
+            {
+                "word": "hand",
+                "pos": "noun"
+            },
+            {
+                "word": "hand",
+                "pos": "verb"
+            },
+            {
+                "word": "hand around",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the part of the body at the end of the arm, including the fingers and thumb",
+                    "vi": "phần cơ thể ở cuối cánh tay, bao gồm các ngón tay và ngón cái"
+                },
+                "examples": [
+                    {
+                        "en": "Ian placed a hand on her shoulder.",
+                        "vi": "Ian đặt một tay lên vai cô."
+                    },
+                    {
+                        "en": "Keep both hands on the steering wheel at all times.",
+                        "vi": "Luôn giữ cả hai tay trên vô lăng."
+                    },
+                    {
+                        "en": "She had a large diamond on the ring finger of her left hand.",
+                        "vi": "Cô có một viên kim cương lớn trên ngón áp út của bàn tay trái."
+                    },
+                    {
+                        "en": "in your hand He was holding a large mug of coffee in his right hand.",
+                        "vi": "trong tay bạn Anh ấy đang cầm một cốc cà phê lớn trên tay phải."
+                    },
+                    {
+                        "en": "Put your hand up if you know the answer.",
+                        "vi": "Đưa tay lên nếu bạn biết câu trả lời."
+                    },
+                    {
+                        "en": "She was on (her) hands and knees (= crawling on the floor) looking for an earring.",
+                        "vi": "Cô ấy chống tay và đầu gối (= bò trên sàn) tìm bông tai."
+                    },
+                    {
+                        "en": "Couples strolled past holding hands.",
+                        "vi": "Cặp đôi nắm tay nhau đi dạo qua."
+                    },
+                    {
+                        "en": "She introduced us and we shook hands.",
+                        "vi": "Cô ấy giới thiệu chúng tôi và chúng tôi bắt tay nhau."
+                    },
+                    {
+                        "en": "Give me your hand (= hold my hand) while we cross the road.",
+                        "vi": "Đưa tay cho tôi (= nắm tay tôi) khi chúng ta băng qua đường."
+                    },
+                    {
+                        "en": "The crowd threw up their hands (= lifted them into the air) in dismay.",
+                        "vi": "Đám đông giơ tay (= nhấc lên không trung) trong sự thất kinh."
+                    },
+                    {
+                        "en": "He killed the snake with his bare hands (= using only his hands).",
+                        "vi": "Anh ta giết con rắn bằng tay không (= chỉ dùng tay)."
+                    },
+                    {
+                        "en": "a hand gesture/signal",
+                        "vi": "một cử chỉ / tín hiệu tay"
+                    },
+                    {
+                        "en": "a hand towel (= a small towel for drying your hands on)",
+                        "vi": "một chiếc khăn lau tay (= một chiếc khăn nhỏ để lau khô tay của bạn)"
+                    },
+                    {
+                        "en": "a hand drill (= one that is used by turning a handle rather than powered by electricity)",
+                        "vi": "máy khoan cầm tay (= máy được sử dụng bằng cách xoay tay cầm thay vì chạy bằng điện)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "using the hand or number of hands mentioned",
+                    "vi": "sử dụng bàn tay hoặc số lượng bàn tay được đề cập"
+                },
+                "examples": [
+                    {
+                        "en": "a one-handed catch",
+                        "vi": "bắt bằng một tay"
+                    },
+                    {
+                        "en": "left-handed scissors (= intended to be held in your left hand)",
+                        "vi": "kéo tay trái (= dự định cầm bằng tay trái của bạn)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "help in doing something",
+                    "vi": "giúp đỡ trong việc làm một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "The neighbours are always willing to lend a hand.",
+                        "vi": "Những người hàng xóm luôn sẵn lòng giúp một tay."
+                    },
+                    {
+                        "en": "hand with something Let me give you a hand with those bags (= help you to carry them).",
+                        "vi": "hand with something Hãy để tôi giúp bạn một tay với những chiếc túi đó (= giúp bạn xách chúng)."
+                    },
+                    {
+                        "en": "Do you need a hand with those invoices?",
+                        "vi": "Bạn có cần một tay với những hóa đơn?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the part or role that somebody/something plays in a particular situation; somebody’s influence in a situation",
+                    "vi": "một phần hoặc vai trò mà ai đó / điều gì đó đóng trong một tình huống cụ thể; ảnh hưởng của ai đó trong một tình huống"
+                },
+                "examples": [
+                    {
+                        "en": "Early reports suggest the hand of rebel forces in the bombings.",
+                        "vi": "Các báo cáo ban đầu cho thấy có bàn tay của lực lượng nổi dậy trong các vụ đánh bom."
+                    },
+                    {
+                        "en": "Several of his colleagues had a hand in his downfall.",
+                        "vi": "Một số đồng nghiệp của ông đã nhúng tay vào sự sụp đổ của ông."
+                    },
+                    {
+                        "en": "This appointment was an attempt to strengthen her hand in policy discussions.",
+                        "vi": "Việc bổ nhiệm này là một nỗ lực để củng cố sự tham gia của bà trong các cuộc thảo luận chính sách."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a part of a clock or watch that points to the numbers",
+                    "vi": "một bộ phận của đồng hồ hoặc đồng hồ chỉ vào các số"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person who does physical work on a farm or in a factory",
+                    "vi": "một người làm công việc thể chất ở nông trại hoặc trong nhà máy"
+                },
+                "examples": [
+                    {
+                        "en": "The farmer would bring in hired hands to help him harvest the crop.",
+                        "vi": "Người nông dân sẽ làm thuê để giúp anh ta thu hoạch vụ mùa."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a sailor on a ship",
+                    "vi": "một thủy thủ trên một con tàu"
+                },
+                "examples": [
+                    {
+                        "en": "All hands on deck!",
+                        "vi": "Tất cả các tay trên boong!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "by a person rather than a machine",
+                    "vi": "bởi một người chứ không phải một cỗ máy"
+                },
+                "examples": [
+                    {
+                        "en": "hand-painted pottery",
+                        "vi": "đồ gốm bằng tay"
+                    },
+                    {
+                        "en": "hand-knitted",
+                        "vi": "đan tay"
+                    },
+                    {
+                        "en": "This item should be hand-washed.",
+                        "vi": "Mặt hàng này nên được giặt tay."
+                    },
+                    {
+                        "en": "Mail for hand delivery is put in a separate tray.",
+                        "vi": "Thư gửi tận tay được để trong khay riêng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a set of playing cards given to one player in a game",
+                    "vi": "một bộ thẻ chơi được trao cho một người chơi trong trò chơi"
+                },
+                "examples": [
+                    {
+                        "en": "to be dealt a good/bad hand",
+                        "vi": "được xử lý một bàn tay tốt / xấu"
+                    },
+                    {
+                        "en": "(figurative) She felt that life had dealt her a bad hand.",
+                        "vi": "(nghĩa bóng) Cô ấy cảm thấy rằng cuộc đời đã giáng cho cô ấy một bàn tay tồi tệ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "one stage of a game of cards",
+                    "vi": "một giai đoạn của trò chơi bài"
+                },
+                "examples": [
+                    {
+                        "en": "I'll have to leave after this hand.",
+                        "vi": "Tôi sẽ phải rời đi sau bàn tay này."
+                    },
+                    {
+                        "en": "Who dealt the last hand?",
+                        "vi": "Ai đã xử lý bàn tay cuối cùng?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a particular style of writing",
+                    "vi": "một phong cách viết cụ thể"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a unit for measuring the height of a horse, equal to 4 inches or 10.16 centimetres",
+                    "vi": "đơn vị đo chiều cao của ngựa, bằng 4 inch hoặc 10,16 cm"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "everyone helps or must help, especially in a difficult situation",
+                    "vi": "mọi người giúp đỡ hoặc phải giúp đỡ, đặc biệt là trong một hoàn cảnh khó khăn"
+                },
+                "examples": [
+                    {
+                        "en": "There are 30 people coming to dinner tonight, so it's all hands on deck.",
+                        "vi": "Có 30 người đến ăn tối tối nay, vì vậy tất cả đều sẵn sàng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "close to you in time or distance",
+                    "vi": "gần với bạn trong thời gian hoặc khoảng cách"
+                },
+                "examples": [
+                    {
+                        "en": "Help was at hand.",
+                        "vi": "Giúp đỡ đã ở trong tầm tay."
+                    },
+                    {
+                        "en": "The property is ideally located with all local amenities close at hand.",
+                        "vi": "Nơi nghỉ này tọa lạc tại một vị trí lý tưởng với tất cả các tiện nghi địa phương nằm trong tầm tay."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if you experience something at the hands of somebody, they are the cause of it",
+                    "vi": "nếu bạn trải nghiệm điều gì đó dưới bàn tay của ai đó, họ là nguyên nhân của nó"
+                },
+                "examples": [
+                    {
+                        "en": "They suffered years of repression at the hands of the old regime.",
+                        "vi": "Họ phải chịu nhiều năm đàn áp dưới bàn tay của chế độ cũ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to show skill at making or doing things with your hands",
+                    "vi": "thể hiện kỹ năng làm hoặc làm mọi thứ bằng tay của bạn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to tie somebody’s hands and feet together so that they cannot move or escape",
+                    "vi": "trói tay và chân của ai đó lại với nhau để họ không thể di chuyển hoặc trốn thoát"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to prevent somebody from doing what they want by creating rules, limits, etc.",
+                    "vi": "để ngăn ai đó làm những gì họ muốn bằng cách tạo ra các quy tắc, giới hạn, v.v."
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "it is better to keep something that you already have than to risk losing it by trying to get much more",
+                    "vi": "tốt hơn là bạn nên giữ một thứ mà bạn đã có hơn là mạo hiểm đánh mất nó bằng cách cố gắng kiếm được nhiều hơn nữa"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to harm somebody who has helped you or supported you",
+                    "vi": "làm hại ai đó đã giúp đỡ bạn hoặc hỗ trợ bạn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "by a person rather than a machine",
+                    "vi": "bởi một người chứ không phải một cỗ máy"
+                },
+                "examples": [
+                    {
+                        "en": "The fabric was painted by hand.",
+                        "vi": "Vải được vẽ bằng tay."
+                    },
+                    {
+                        "en": "Delicate clothes should be washed by hand.",
+                        "vi": "Quần áo mỏng nên được giặt bằng tay."
+                    },
+                    {
+                        "en": "We can apply the power of computational tools in solving mathematical problems that cannot be solved by hand.",
+                        "vi": "Chúng ta có thể áp dụng sức mạnh của các công cụ tính toán trong việc giải quyết các vấn đề toán học mà không thể giải quyết bằng tay."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if a letter is delivered by hand, it is delivered by the person who wrote it, or somebody who is sent by them, rather than by post",
+                    "vi": "nếu một bức thư được gửi bằng tay, thì nó sẽ được gửi bởi người viết nó, hoặc ai đó được họ gửi, chứ không phải qua đường bưu điện"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "if you pay for goods and services cash in hand, you pay in cash, especially so that the person being paid can avoid paying tax on the amount",
+                    "vi": "nếu bạn thanh toán cho hàng hoá và dịch vụ bằng tiền mặt, bạn phải trả bằng tiền mặt, đặc biệt để người được thanh toán có thể tránh phải trả thuế cho số tiền"
+                },
+                "examples": [
+                    {
+                        "en": "a cash-in-hand payment of £20",
+                        "vi": "một khoản thanh toán bằng tiền mặt trị giá £ 20"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to pass to a different owner",
+                    "vi": "để chuyển cho một chủ sở hữu khác"
+                },
+                "examples": [
+                    {
+                        "en": "The house has changed hands several times.",
+                        "vi": "Ngôi nhà đã nhiều lần đổi chủ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "near; in a place where somebody/something can be reached easily",
+                    "vi": "gần; ở một nơi mà ai đó / thứ gì đó có thể tiếp cận dễ dàng"
+                },
+                "examples": [
+                    {
+                        "en": "There are good cafes and a restaurant close at hand.",
+                        "vi": "Có những quán cà phê tốt và một nhà hàng gần ngay tầm tay."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an influence that controls or limits something",
+                    "vi": "một ảnh hưởng kiểm soát hoặc hạn chế một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "We need to free business from the dead hand of bureaucracy.",
+                        "vi": "Chúng ta cần giải phóng doanh nghiệp khỏi bàn tay chết chóc của bộ máy quan liêu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "people who do not have enough to do often start to do wrong",
+                    "vi": "những người không có đủ năng lực để làm thường bắt đầu làm sai"
+                },
+                "examples": [
+                    {
+                        "en": "She blamed the crimes on the local jobless teenagers. ‘The devil makes work for idle hands,’ she would say.",
+                        "vi": "Cô đổ lỗi cho những thanh thiếu niên thất nghiệp tại địa phương. Cô ấy sẽ nói: 'Ma quỷ kiếm việc làm cho những đôi tay nhàn rỗi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to trust somebody and be willing to do what they say",
+                    "vi": "tin tưởng ai đó và sẵn sàng làm những gì họ nói"
+                },
+                "examples": [
+                    {
+                        "en": "She'll have them eating out of her hand in no time.",
+                        "vi": "Cô ấy sẽ nhanh chóng để chúng ăn sạch."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to become controlled by somebody",
+                    "vi": "bị ai đó kiểm soát"
+                },
+                "examples": [
+                    {
+                        "en": "The town fell into enemy hands.",
+                        "vi": "Thị trấn rơi vào tay kẻ thù."
+                    },
+                    {
+                        "en": "We don't want this document falling into the wrong hands.",
+                        "vi": "Chúng tôi không muốn tài liệu này rơi vào tay kẻ xấu."
+                    },
+                    {
+                        "en": "After the war, the hotel fell into the hands of an American consortium.",
+                        "vi": "Sau chiến tranh, khách sạn rơi vào tay một tập đoàn của Mỹ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "strong control or discipline",
+                    "vi": "kiểm soát hoặc kỷ luật mạnh mẽ"
+                },
+                "examples": [
+                    {
+                        "en": "Those children need a firm hand to make them behave.",
+                        "vi": "Những đứa trẻ đó cần một bàn tay cứng rắn để bắt chúng cư xử."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "by experiencing, seeing, etc. something yourself rather than being told about it by somebody else",
+                    "vi": "bằng cách tự mình trải nghiệm, nhìn thấy, v.v. điều gì đó thay vì được người khác kể về nó"
+                },
+                "examples": [
+                    {
+                        "en": "The President visited the area to see the devastation at first hand.",
+                        "vi": "Tổng thống đã đến thăm khu vực này để tận mắt chứng kiến sự tàn phá."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to bring or hold your hands together",
+                    "vi": "mang hoặc nắm tay của bạn lại với nhau"
+                },
+                "examples": [
+                    {
+                        "en": "She kept her hands folded in her lap.",
+                        "vi": "Cô ấy vẫn để tay trong lòng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make somebody do something that they do not want to do or make them do it sooner than they had intended",
+                    "vi": "để khiến ai đó làm điều gì đó mà họ không muốn làm hoặc khiến họ làm điều đó sớm hơn họ đã dự định"
+                },
+                "examples": [
+                    {
+                        "en": "They decided to strike to force the management’s hand.",
+                        "vi": "Họ quyết định đình công để buộc sự ra tay của ban quản lý."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to get an advantage over somebody so that you are in control of a particular situation",
+                    "vi": "để có được lợi thế hơn ai đó để bạn có thể kiểm soát một tình huống cụ thể"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to do physical work",
+                    "vi": "làm công việc thể chất"
+                },
+                "examples": [
+                    {
+                        "en": "He's not frightened of getting his hands dirty.",
+                        "vi": "Anh ấy không sợ bị bẩn tay."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to get, have, etc. the opportunity to do what you want to do and to make your own decisions",
+                    "vi": "để có, có, v.v. cơ hội để làm những gì bạn muốn làm và đưa ra quyết định của riêng bạn"
+                },
+                "examples": [
+                    {
+                        "en": "I was given a free hand in designing the syllabus.",
+                        "vi": "Tôi đã được giao một tay miễn phí trong việc thiết kế giáo trình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to show your approval of somebody by clapping your hands; to be applauded in this way",
+                    "vi": "để thể hiện sự tán thành của bạn đối với ai đó bằng cách vỗ tay của bạn; được tán thưởng theo cách này"
+                },
+                "examples": [
+                    {
+                        "en": "Ladies and gentlemen, let’s give a big hand to our special guests tonight.",
+                        "vi": "Thưa quý vị và các bạn, hãy chung tay thật lớn cho những vị khách đặc biệt của chúng ta vào tối nay."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to help somebody",
+                    "vi": "để giúp ai đó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to ask somebody for something, especially money, in a very polite way that makes you seem less important",
+                    "vi": "yêu cầu ai đó cho một cái gì đó, đặc biệt là tiền, theo một cách rất lịch sự khiến bạn có vẻ ít quan trọng hơn"
+                },
+                "examples": [
+                    {
+                        "en": "There’s no way he’ll go cap in hand to his brother.",
+                        "vi": "Không đời nào anh ta lại tiếp tay với anh trai mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "permission to marry somebody, especially a woman",
+                    "vi": "cho phép kết hôn với ai đó, đặc biệt là một người phụ nữ"
+                },
+                "examples": [
+                    {
+                        "en": "He asked the general for his daughter's hand in marriage.",
+                        "vi": "Ông xin tướng quân cho con gái ông kết hôn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "working closely with somebody, especially in a secret and/or illegal way",
+                    "vi": "hợp tác chặt chẽ với ai đó, đặc biệt là theo cách bí mật và / hoặc bất hợp pháp"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "if two people are hand in hand, they are holding each other’s hand",
+                    "vi": "nếu hai người tay trong tay, họ đang nắm tay nhau"
+                },
+                "examples": [
+                    {
+                        "en": "They walked through the park hand in hand.",
+                        "vi": "Họ tay trong tay đi dạo qua công viên."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if two things go hand in hand, they are closely connected and one thing causes the other",
+                    "vi": "nếu hai thứ đi đôi với nhau, chúng có mối liên hệ chặt chẽ với nhau và một thứ gây ra"
+                },
+                "examples": [
+                    {
+                        "en": "Poverty and poor health often go hand in hand.",
+                        "vi": "Nghèo đói và sức khỏe kém thường đi đôi với nhau."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "easily and without any doubt",
+                    "vi": "dễ dàng và không nghi ngờ gì"
+                },
+                "examples": [
+                    {
+                        "en": "They won hands down.",
+                        "vi": "Họ đã thắng trong tay."
+                    },
+                    {
+                        "en": "It is hands down the best movie this year.",
+                        "vi": "Đây là bộ phim hay nhất năm nay."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to tell somebody not to touch something/somebody",
+                    "vi": "được sử dụng để nói với ai đó đừng chạm vào thứ gì đó / ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "Get your hands off my wife!",
+                        "vi": "Bỏ tay ra khỏi vợ tôi!"
+                    },
+                    {
+                        "en": "Hey, hands off! That's my drink!",
+                        "vi": "Này, bỏ tay ra! Đó là đồ uống của tôi!"
+                    },
+                    {
+                        "en": "She warned her brother to keep his hands off her bag.",
+                        "vi": "Cô cảnh báo anh trai mình đừng bỏ tay ra khỏi túi xách của cô."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to tell a group of people to raise one hand in the air if they know the answer to a question, etc.",
+                    "vi": "được sử dụng để yêu cầu một nhóm người giơ một tay lên trời nếu họ biết câu trả lời cho một câu hỏi, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "Hands up all those who want to go swimming.",
+                        "vi": "Giơ tay lên tất cả những ai muốn đi bơi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used by somebody who is threatening people with a gun to tell them to raise both hands in the air",
+                    "vi": "bị ai đó dùng súng đe dọa mọi người để bảo họ giơ cả hai tay lên trời"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be responsible for somebody’s death",
+                    "vi": "chịu trách nhiệm về cái chết của ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "a dictator with the blood of thousands on his hands",
+                        "vi": "một kẻ độc tài với hàng ngàn máu trên tay của mình"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be very busy or too busy to do something else",
+                    "vi": "rất bận hoặc quá bận để làm việc khác"
+                },
+                "examples": [
+                    {
+                        "en": "She certainly has her hands full with four kids in the house.",
+                        "vi": "Cô ấy chắc chắn có đầy đủ bốn đứa trẻ trong nhà."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be unable to do what you want to do because of rules, promises, etc.",
+                    "vi": "không thể làm những gì bạn muốn làm vì các quy tắc, lời hứa, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "I really wish I could help but my hands are tied.",
+                        "vi": "Tôi thực sự ước tôi có thể giúp đỡ nhưng tay tôi bị trói."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to have complete control or influence over somebody",
+                    "vi": "có toàn quyền kiểm soát hoặc ảnh hưởng đến ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "Even before he plays a note, he has the audience in the palm of his hand.",
+                        "vi": "Ngay cả trước khi anh ấy chơi một nốt nhạc, anh ấy đã có khán giả trong lòng bàn tay của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to have nothing to do or not be busy",
+                    "vi": "không có gì để làm hoặc không bận"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be in a position where you have power or control over somebody/something",
+                    "vi": "ở vị trí mà bạn có quyền lực hoặc quyền kiểm soát ai đó / điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "She had the whip hand and it was useless to resist.",
+                        "vi": "Cô đã nắm trong tay chiếc roi và có chống cự cũng vô ích."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a way of doing something or of treating people that is much stronger and less sensitive than it needs to be",
+                    "vi": "một cách làm điều gì đó hoặc đối xử với những người mạnh mẽ hơn và ít nhạy cảm hơn mức cần thiết"
+                },
+                "examples": [
+                    {
+                        "en": "the heavy hand of management",
+                        "vi": "bàn tay nặng nề của quản lý"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to give somebody support in a difficult situation",
+                    "vi": "để hỗ trợ ai đó trong một hoàn cảnh khó khăn"
+                },
+                "examples": [
+                    {
+                        "en": "Do you want me to come along and hold your hand?",
+                        "vi": "Bạn có muốn tôi đi cùng và nắm tay bạn không?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to admit that you have made a mistake or are responsible for something bad",
+                    "vi": "thừa nhận rằng bạn đã mắc sai lầm hoặc chịu trách nhiệm cho một điều gì đó tồi tệ"
+                },
+                "examples": [
+                    {
+                        "en": "I have to hold my hands up and admit that some of the problems have been all my own fault.",
+                        "vi": "Tôi phải cố chấp và thừa nhận rằng một số vấn đề là do lỗi của tôi."
+                    },
+                    {
+                        "en": "The solicitor confirmed that his clients were holding their hands up to the offences.",
+                        "vi": "Luật sư xác nhận rằng khách hàng của mình đã tiếp tay cho hành vi phạm tội."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "being taken care of or dealt with by somebody that you think you can rely on",
+                    "vi": "được chăm sóc hoặc giải quyết bởi một người nào đó mà bạn nghĩ rằng bạn có thể dựa vào"
+                },
+                "examples": [
+                    {
+                        "en": "Can I leave these queries in your capable hands?",
+                        "vi": "Tôi có thể để những truy vấn này trong tay bạn có năng lực không?"
+                    },
+                    {
+                        "en": "He retired feeling confident that his company was in safe hands.",
+                        "vi": "Ông đã nghỉ hưu và cảm thấy tự tin rằng công ty của mình đã nằm trong tay an toàn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if you have time or money in hand, it is left and available to be used",
+                    "vi": "nếu bạn có thời gian hoặc tiền bạc trong tay, nó sẽ còn lại và có sẵn để sử dụng"
+                },
+                "examples": [
+                    {
+                        "en": "We managed to redecorate the house and still have some savings in hand.",
+                        "vi": "Chúng tôi đã xoay sở để trang trí lại ngôi nhà và vẫn còn một số tiền tiết kiệm trong tay."
+                    },
+                    {
+                        "en": "She completed the first part of the exam with over an hour in hand.",
+                        "vi": "Cô đã hoàn thành phần thi đầu tiên với hơn một giờ trong tay."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if you have a particular situation in hand, you are in control of it",
+                    "vi": "nếu bạn có một tình huống cụ thể trong tay, bạn có quyền kiểm soát nó"
+                },
+                "examples": [
+                    {
+                        "en": "Don’t worry about the travel arrangements—everything is in hand.",
+                        "vi": "Đừng lo lắng về việc sắp xếp việc đi lại — mọi thứ đã có trong tay."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the job, question, etc. in hand is the one that you are dealing with",
+                    "vi": "công việc, câu hỏi, v.v. trong tay là công việc mà bạn đang giải quyết"
+                },
+                "examples": [
+                    {
+                        "en": "Please confine your comments to the topic in hand.",
+                        "vi": "Vui lòng giới hạn ý kiến của bạn vào chủ đề trong tay."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if somebody works a week, month, etc. in hand, they are paid for the work a week, etc. after they have completed it",
+                    "vi": "nếu ai đó làm việc trong tay một tuần, một tháng, v.v., họ được trả công cho công việc đó một tuần, v.v. sau khi họ hoàn thành nó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "being taken care of or controlled by somebody",
+                    "vi": "được chăm sóc hoặc kiểm soát bởi ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "The matter is now in the hands of my lawyer.",
+                        "vi": "Vấn đề bây giờ nằm trong tay luật sư của tôi."
+                    },
+                    {
+                        "en": "At that time, the castle was in enemy hands.",
+                        "vi": "Khi đó, lâu đài đã nằm trong tay kẻ thù."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "being taken care of well by somebody",
+                    "vi": "được ai đó chăm sóc tốt"
+                },
+                "examples": [
+                    {
+                        "en": "I've left the kids in safe hands—with my parents.",
+                        "vi": "Tôi đã để bọn trẻ trong tay an toàn — với cha mẹ tôi."
+                    },
+                    {
+                        "en": "Their problem was in the safe hands of the experts.",
+                        "vi": "Vấn đề của họ đã nằm trong tay các chuyên gia an toàn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if you use the words an iron fist/hand when describing the way that somebody behaves, you mean that they treat people severely. This treatment may be hidden behind a kind appearance (the velvet glove).",
+                    "vi": "nếu bạn sử dụng các từ như một nắm đấm / bàn tay sắt khi mô tả cách một người nào đó cư xử, bạn có nghĩa là họ đối xử nghiêm khắc với mọi người. Phương pháp điều trị này có thể ẩn sau vẻ ngoài tử tế (chiếc găng tay nhung)."
+                },
+                "examples": [
+                    {
+                        "en": "They promised that the army would strike with an iron fist at any resistance.",
+                        "vi": "Họ hứa rằng quân đội sẽ tấn công bằng nắm đấm sắt vào bất kỳ sự kháng cự nào."
+                    },
+                    {
+                        "en": "The iron hand in the velvet glove approach seems to work best with this age group.",
+                        "vi": "Phương pháp tiếp cận bàn tay sắt trong cách tiếp cận găng tay nhung dường như hiệu quả nhất với nhóm tuổi này."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to say that you are too busy to do anything else",
+                    "vi": "từng nói rằng bạn quá bận để làm bất cứ điều gì khác"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "if two people join hands, they hold each other’s hands",
+                    "vi": "nếu hai người nắm tay nhau, họ nắm tay nhau"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to work together in doing something",
+                    "vi": "làm việc cùng nhau để làm một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "Education has been reluctant to join hands with business.",
+                        "vi": "Giáo dục đã miễn cưỡng bắt tay với kinh doanh."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to occasionally do something that you used to do a lot so that you do not lose your skill at it",
+                    "vi": "thỉnh thoảng làm điều gì đó mà bạn đã từng làm rất nhiều để bạn không mất kỹ năng làm việc đó"
+                },
+                "examples": [
+                    {
+                        "en": "She retired last year but still teaches the odd class to keep her hand in.",
+                        "vi": "Cô đã nghỉ hưu năm ngoái nhưng vẫn dạy lớp lẻ để bám trụ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be very familiar with somebody/something",
+                    "vi": "trở nên rất quen thuộc với ai đó / cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "This is where I grew up. I know this area like the back of my hand.",
+                        "vi": "Đây là nơi tôi lớn lên. Tôi biết khu vực này như mu bàn tay của tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to catch somebody that you are annoyed with",
+                    "vi": "để bắt ai đó mà bạn khó chịu"
+                },
+                "examples": [
+                    {
+                        "en": "Wait till I get my hands on him!",
+                        "vi": "Chờ cho đến khi tôi chạm tay vào anh ấy!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to find or get something",
+                    "vi": "để tìm hoặc lấy một thứ gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "I know their address is here somewhere, but I can't lay my hands on it right now.",
+                        "vi": "Tôi biết địa chỉ của họ ở đâu đó, nhưng tôi không thể đặt tay vào nó ngay bây giờ."
+                    },
+                    {
+                        "en": "I desperately need to get my hands on some money by Monday.",
+                        "vi": "Tôi rất cần kiếm một số tiền trước thứ Hai."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to spend all the money you earn on basic needs such as food without being able to save any money",
+                    "vi": "chi tiêu tất cả số tiền bạn kiếm được cho các nhu cầu cơ bản như thực phẩm mà không thể tiết kiệm được tiền"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to make/lose money very fast and in large quantities",
+                    "vi": "kiếm / mất tiền rất nhanh và với số lượng lớn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used to say that a job is made easier if a lot of people help",
+                    "vi": "thường nói rằng một công việc sẽ dễ dàng hơn nếu có nhiều người giúp đỡ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to do no work",
+                    "vi": "không làm việc gì"
+                },
+                "examples": [
+                    {
+                        "en": "She hasn't done a hand's turn all week.",
+                        "vi": "Cô ấy đã không làm một tay cả tuần."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to do nothing to help somebody",
+                    "vi": "không làm gì để giúp ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "The children never lift a finger to help around the house.",
+                        "vi": "Những đứa trẻ không bao giờ nhấc một ngón tay để giúp đỡ xung quanh nhà."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to hold out your hand for somebody to shake",
+                    "vi": "đưa tay ra cho ai đó bắt"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "no longer your responsibility",
+                    "vi": "không còn là trách nhiệm của bạn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "on both/all sides; in both/all directions",
+                    "vi": "trên cả hai / tất cả các bên; ở cả hai / tất cả các hướng"
+                },
+                "examples": [
+                    {
+                        "en": "Mist curled from the water on either hand.",
+                        "vi": "Sương mù cuộn tròn trên mặt nước trên hai bàn tay."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "available, especially to help",
+                    "vi": "có sẵn, đặc biệt là để giúp đỡ"
+                },
+                "examples": [
+                    {
+                        "en": "The emergency services were on hand with medical advice.",
+                        "vi": "Các dịch vụ khẩn cấp đã có mặt với lời khuyên y tế."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if you have somebody/something on your hands, you are responsible for or have to deal with them/it",
+                    "vi": "nếu bạn có ai đó / thứ gì đó trong tay, bạn phải chịu trách nhiệm hoặc phải giải quyết với họ / điều đó"
+                },
+                "examples": [
+                    {
+                        "en": "Let me take care of the invitations—you've enough on your hands with the caterers.",
+                        "vi": "Hãy để tôi lo việc mời — bạn có đủ trong tay với những người phục vụ ăn uống."
+                    },
+                    {
+                        "en": "They’ll have a fight on their hands if they want to close down the school.",
+                        "vi": "Họ sẽ có một cuộc chiến tay đôi nếu họ muốn đóng cửa trường học."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to introduce different points of view, ideas, etc., especially when they are opposites",
+                    "vi": "được sử dụng để giới thiệu các quan điểm, ý tưởng, v.v. khác nhau, đặc biệt khi chúng đối lập nhau"
+                },
+                "examples": [
+                    {
+                        "en": "On the one hand they'd love to have kids, but on the other, they don't want to give up their freedom.",
+                        "vi": "Một mặt họ muốn có con, nhưng mặt khác, họ không muốn từ bỏ sự tự do của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "difficult or impossible to control",
+                    "vi": "khó hoặc không thể kiểm soát"
+                },
+                "examples": [
+                    {
+                        "en": "Unemployment is getting out of hand.",
+                        "vi": "Thất nghiệp đang vượt quá tầm tay."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if you reject, etc. something out of hand, you do so immediately without thinking about it fully or listening to other people’s arguments",
+                    "vi": "nếu bạn từ chối điều gì đó, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "All our suggestions were dismissed out of hand.",
+                        "vi": "Tất cả các đề xuất của chúng tôi đã bị gạt ra khỏi tầm tay."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "no longer your responsibility",
+                    "vi": "không còn là trách nhiệm của bạn"
+                },
+                "examples": [
+                    {
+                        "en": "I'm afraid the matter is now out of my hands.",
+                        "vi": "Tôi e rằng vấn đề bây giờ nằm ngoài tầm tay của tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to fail to achieve success by judging your position to be stronger than it really is",
+                    "vi": "không đạt được thành công bằng cách đánh giá vị trí của bạn mạnh hơn thực tế"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person who can do, or is doing, a job",
+                    "vi": "một người có thể làm hoặc đang làm một công việc"
+                },
+                "examples": [
+                    {
+                        "en": "We need an extra pair of hands if we're going to finish on time.",
+                        "vi": "Chúng tôi cần thêm một đôi tay nếu chúng tôi sẽ hoàn thành đúng thời gian."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to do exactly what an enemy, opponent, etc. wants so that they gain the advantage in a particular situation",
+                    "vi": "làm chính xác những gì kẻ thù, đối thủ, v.v. muốn để họ giành được lợi thế trong một tình huống cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "If we get the police involved, we'll be playing right into the protesters' hands.",
+                        "vi": "Nếu chúng tôi để cảnh sát vào cuộc, chúng tôi sẽ chơi ngay vào tay những người biểu tình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to spend money or give it to somebody",
+                    "vi": "tiêu tiền hoặc đưa nó cho ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "I've heard he doesn't like putting his hand in his pocket.",
+                        "vi": "Tôi nghe nói anh ấy không thích đút tay vào túi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "easily controlled or influenced by another person",
+                    "vi": "dễ dàng bị kiểm soát hoặc bị ảnh hưởng bởi một người khác"
+                },
+                "examples": [
+                    {
+                        "en": "She'll persuade him. He's like putty in her hands.",
+                        "vi": "Cô ấy sẽ thuyết phục anh ta. Anh ấy giống như cục bột trong tay cô ấy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to hit or threaten to hit somebody",
+                    "vi": "đánh hoặc đe dọa đánh ai đó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person that you can trust to do a job well",
+                    "vi": "một người mà bạn có thể tin tưởng để hoàn thành tốt công việc"
+                },
+                "examples": [
+                    {
+                        "en": "Colleagues regard him as a safe pair of hands.",
+                        "vi": "Đồng nghiệp coi anh như một đôi tay an toàn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "by being told about something by somebody else who has seen it or heard about it, not by experiencing, seeing, etc. it yourself",
+                    "vi": "bằng cách được kể về điều gì đó bởi một người nào đó đã nhìn thấy hoặc nghe nói về điều đó, chứ không phải bằng cách tự mình trải nghiệm, nhìn thấy, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "I'm fed up of hearing about these decisions third hand!",
+                        "vi": "Tôi chán ngấy khi nghe về những quyết định thứ ba này!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make your plans or intentions known",
+                    "vi": "để làm cho kế hoạch hoặc ý định của bạn được biết đến"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a way of voting for or against something in which people raise their hands to vote",
+                    "vi": "một cách biểu quyết cho hoặc chống lại điều gì đó trong đó mọi người giơ tay biểu quyết"
+                },
+                "examples": [
+                    {
+                        "en": "The vote was passed by a show of hands.",
+                        "vi": "Cuộc biểu quyết đã được thông qua bằng một cái giơ tay."
+                    },
+                    {
+                        "en": "Let’s have a show of hands. Who’s in favour of the proposal?",
+                        "vi": "Hãy giơ tay. Ai ủng hộ đề xuất?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to stop yourself from doing something; to prevent you from doing something",
+                    "vi": "ngăn bản thân làm điều gì đó; để ngăn bạn làm điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "It was prudence, not logic, that stayed his hand.",
+                        "vi": "Đó là sự thận trọng, không phải logic, nằm trong tay anh ta."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make yourself do something that you are afraid of",
+                    "vi": "để khiến bản thân làm điều gì đó mà bạn sợ hãi"
+                },
+                "examples": [
+                    {
+                        "en": "Taking her courage in both hands, she opened the door and walked in.",
+                        "vi": "Lấy hết can đảm trên cả hai tay, cô mở cửa bước vào."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to deal with somebody in a strict way in order to improve their behaviour",
+                    "vi": "đối phó với ai đó một cách nghiêm ngặt để cải thiện hành vi của họ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to deal with a particular situation yourself because you are not happy with the way that others are dealing with it",
+                    "vi": "để tự mình đối phó với một tình huống cụ thể bởi vì bạn không hài lòng với cách mà những người khác đang đối phó với nó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to do something illegal in order to punish somebody for doing something wrong, instead of letting the police deal with them",
+                    "vi": "làm điều gì đó bất hợp pháp để trừng phạt ai đó đã làm điều gì đó sai trái, thay vì để cảnh sát xử lý họ"
+                },
+                "examples": [
+                    {
+                        "en": "After a series of burglaries in the area, the police are worried that residents might take the law into their own hands.",
+                        "vi": "Sau hàng loạt vụ trộm trên địa bàn, cảnh sát lo ngại cư dân có thể sa lưới pháp luật."
+                    },
+                    {
+                        "en": "When police failed to arrest the suspect, local people took the law into their own hands and beat him up.",
+                        "vi": "Khi cảnh sát không bắt được nghi phạm, người dân địa phương đã lao vào luật pháp và đánh anh ta tới tấp."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to risk being killed",
+                    "vi": "có nguy cơ bị giết"
+                },
+                "examples": [
+                    {
+                        "en": "You take your life in your hands just crossing the road here.",
+                        "vi": "Bạn nắm lấy mạng sống của mình trong tay khi băng qua đường ở đây."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to stop doing something or taking part in something, especially because you are not successful",
+                    "vi": "ngừng làm điều gì đó hoặc tham gia vào điều gì đó, đặc biệt là vì bạn không thành công"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to raise both hands in the air to show that you are feeling annoyed or upset about something",
+                    "vi": "giơ cả hai tay lên trời để thể hiện rằng bạn đang cảm thấy bực mình hoặc khó chịu về điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "We threw up our hands in despair at the scale of the problem.",
+                        "vi": "Chúng tôi đã vung tay lên trong tuyệt vọng trước quy mô của vấn đề."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "that you can reach or get easily",
+                    "vi": "mà bạn có thể tiếp cận hoặc lấy dễ dàng"
+                },
+                "examples": [
+                    {
+                        "en": "I'm afraid I don't have the latest figures to hand.",
+                        "vi": "Tôi e rằng tôi không có số liệu mới nhất trong tay."
+                    },
+                    {
+                        "en": "Keep a pen and paper to hand for details of this week’s competition.",
+                        "vi": "Hãy cầm bút và giấy để biết chi tiết về cuộc thi tuần này."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to do something such as an activity or a sport for the first time",
+                    "vi": "để làm một cái gì đó chẳng hạn như một hoạt động hoặc một môn thể thao lần đầu tiên"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to start doing something or be able to do something, especially when you do it well",
+                    "vi": "để bắt đầu làm điều gì đó hoặc có thể làm điều gì đó, đặc biệt là khi bạn làm tốt điều đó"
+                },
+                "examples": [
+                    {
+                        "en": "Jim can turn his hand to most jobs around the house.",
+                        "vi": "Jim có thể trở tay với hầu hết các công việc xung quanh nhà."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to take care of somebody’s needs so well that they do not have to do anything for themselves",
+                    "vi": "chăm sóc nhu cầu của ai đó thật tốt để họ không phải làm bất cứ điều gì cho bản thân"
+                },
+                "examples": [
+                    {
+                        "en": "He seems to expect me to wait on him hand and foot.",
+                        "vi": "Anh ta dường như mong đợi tôi chờ đợi anh ta bằng tay và chân."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to refuse to be responsible for or involved with somebody/something",
+                    "vi": "từ chối chịu trách nhiệm hoặc liên quan đến ai đó / điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "When her son was arrested again she washed her hands of him.",
+                        "vi": "Khi con trai bà bị bắt một lần nữa, bà đã rửa tay cho nó."
+                    },
+                    {
+                        "en": "I’ve washed my hands of the whole sordid business.",
+                        "vi": "Tôi đã rửa sạch bàn tay của mình cho toàn bộ công việc bẩn thỉu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to win something very easily",
+                    "vi": "để giành được một cái gì đó rất dễ dàng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to press somebody’s hand very hard when you shake hands",
+                    "vi": "ấn mạnh tay ai đó khi bạn bắt tay"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to hold your hands together, and twist and press them together in a way that shows you are anxious or upset, especially when you cannot change the situation",
+                    "vi": "nắm hai tay lại với nhau, xoắn và ép chúng vào nhau theo cách thể hiện bạn đang lo lắng hoặc buồn bã, đặc biệt là khi bạn không thể thay đổi tình hình"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "16342e7d8758418babf90837bf1a2785",
+        "word": "heart",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/hɑːt/",
+            "us": "/hɑːrt/"
+        },
+        "nearby": [
+            {
+                "word": "hearse",
+                "pos": "noun"
+            },
+            {
+                "word": "William Randolph Hearst",
+                "pos": ""
+            },
+            {
+                "word": "heart",
+                "pos": "noun"
+            },
+            {
+                "word": "heart",
+                "pos": "verb"
+            },
+            {
+                "word": "heartache",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the organ in the chest that sends blood around the body, usually on the left in humans",
+                    "vi": "cơ quan trong lồng ngực đưa máu đi khắp cơ thể, thường ở bên trái ở người"
+                },
+                "examples": [
+                    {
+                        "en": "The patient's heart stopped beating for a few seconds.",
+                        "vi": "Tim bệnh nhân ngừng đập trong vài giây."
+                    },
+                    {
+                        "en": "I could feel my heart pounding in my chest (= because of excitement, etc.).",
+                        "vi": "Tôi có thể cảm thấy tim mình đập thình thịch trong lồng ngực (= vì phấn khích, v.v.)."
+                    },
+                    {
+                        "en": "to have a weak heart",
+                        "vi": "có một trái tim yếu ớt"
+                    },
+                    {
+                        "en": "heart disease/problems",
+                        "vi": "bệnh tim / vấn đề"
+                    },
+                    {
+                        "en": "to have a heart condition",
+                        "vi": "để có một tình trạng tim"
+                    },
+                    {
+                        "en": "heart patients/surgery",
+                        "vi": "bệnh nhân tim / phẫu thuật"
+                    },
+                    {
+                        "en": "a heart transplant",
+                        "vi": "cấy ghép tim"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the outside part of the chest where the heart is",
+                    "vi": "phần bên ngoài của lồng ngực nơi có trái tim"
+                },
+                "examples": [
+                    {
+                        "en": "She clasped the photo to her heart.",
+                        "vi": "Cô ôm chặt bức ảnh vào lòng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a thing that is like a heart in shape, often red and used as a symbol of love; a symbol like a heart used to mean the verb ‘love’",
+                    "vi": "một thứ giống như hình trái tim, thường có màu đỏ và được dùng làm biểu tượng của tình yêu; một biểu tượng như trái tim được sử dụng để có nghĩa là động từ 'tình yêu'"
+                },
+                "examples": [
+                    {
+                        "en": "The words ‘I love you’ were written inside a big red heart.",
+                        "vi": "Dòng chữ 'I love you' được viết bên trong một trái tim lớn màu đỏ."
+                    },
+                    {
+                        "en": "She was drawing hearts on the cover of a loose-leaf binder.",
+                        "vi": "Cô ấy đang vẽ những trái tim trên bìa một tờ bìa rời."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the place in a person where the feelings and emotions are thought to be, especially those connected with love",
+                    "vi": "nơi con người được cho là cảm xúc và tình cảm, đặc biệt là những cảm xúc được kết nối với tình yêu"
+                },
+                "examples": [
+                    {
+                        "en": "She has a kind heart.",
+                        "vi": "Cô ấy có một trái tim nhân hậu."
+                    },
+                    {
+                        "en": "Have you no heart?",
+                        "vi": "Bạn không có trái tim?"
+                    },
+                    {
+                        "en": "He returned with a heavy heart (= sad).",
+                        "vi": "Anh trở về với lòng nặng trĩu (= buồn)."
+                    },
+                    {
+                        "en": "Her novels tend to deal with affairs of the heart.",
+                        "vi": "Tiểu thuyết của cô có xu hướng giải quyết các vấn đề của trái tim."
+                    },
+                    {
+                        "en": "The story captured the hearts and minds of a generation.",
+                        "vi": "Câu chuyện đã chiếm được trái tim và tâm trí của cả một thế hệ."
+                    },
+                    {
+                        "en": "His sad story touched her heart.",
+                        "vi": "Câu chuyện buồn của anh khiến trái tim cô cảm động."
+                    },
+                    {
+                        "en": "the mysteries of the human heart",
+                        "vi": "những bí ẩn của trái tim con người"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "having the type of character or personality mentioned",
+                    "vi": "có loại nhân vật hoặc tính cách được đề cập"
+                },
+                "examples": [
+                    {
+                        "en": "simple-hearted",
+                        "vi": "giản dị"
+                    },
+                    {
+                        "en": "pure-hearted",
+                        "vi": "trong sáng"
+                    },
+                    {
+                        "en": "black-hearted",
+                        "vi": "trái tim đen"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the most important part of something",
+                    "vi": "phần quan trọng nhất của một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "heart of something the heart of the matter/problem",
+                        "vi": "trung tâm của một cái gì đó trung tâm của vấn đề / vấn đề"
+                    },
+                    {
+                        "en": "The committee's report went to the heart of the government's dilemma.",
+                        "vi": "Báo cáo của ủy ban đã đi vào trọng tâm của tình thế khó xử của chính phủ."
+                    },
+                    {
+                        "en": "at the heart of something The distinction between right and wrong lies at the heart of all questions of morality.",
+                        "vi": "ở trung tâm của điều gì đó Sự phân biệt giữa đúng và sai nằm ở trung tâm của tất cả các câu hỏi về đạo đức."
+                    },
+                    {
+                        "en": "the issue at the heart of modern government",
+                        "vi": "vấn đề trọng tâm của chính phủ hiện đại"
+                    },
+                    {
+                        "en": "at the/its heart The story, at its heart, is a simple tale of loss and rediscovery.",
+                        "vi": "tại / trái tim của nó Câu chuyện, ở trung tâm của nó, là một câu chuyện đơn giản về mất mát và khám phá lại."
+                    },
+                    {
+                        "en": "Buddhism, at the heart, is about harmony.",
+                        "vi": "Đạo Phật, ở trung tâm, là về sự hài hòa."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the part that is in the centre of something",
+                    "vi": "phần nằm ở trung tâm của một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "heart of something a quiet hotel in the very heart of the city",
+                        "vi": "trung tâm của một cái gì đó một khách sạn yên tĩnh ở trung tâm của thành phố"
+                    },
+                    {
+                        "en": "at the/its heart an open space with a small arena at the heart",
+                        "vi": "tại / trái tim của nó một không gian rộng mở với một đấu trường nhỏ ở trung tâm"
+                    },
+                    {
+                        "en": "Manchester contains at its heart a rather extended commercial district.",
+                        "vi": "Manchester có trung tâm là một khu thương mại khá mở rộng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the smaller leaves in the middle of a cabbage, lettuce, etc.",
+                    "vi": "những chiếc lá nhỏ hơn ở giữa bắp cải, rau diếp, v.v."
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "one of the four suits (= sets) in a pack of cards, with red heart symbols on them",
+                    "vi": "một trong bốn bộ quần áo (= bộ) trong một gói thẻ, với biểu tượng trái tim màu đỏ trên chúng"
+                },
+                "examples": [
+                    {
+                        "en": "the queen of hearts",
+                        "vi": "nữ hoàng của trái tim"
+                    },
+                    {
+                        "en": "Hearts is/are trumps.",
+                        "vi": "Hearts là / là át chủ bài."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "one card from the suit called hearts",
+                    "vi": "một thẻ từ bộ đồ được gọi là trái tim"
+                },
+                "examples": [
+                    {
+                        "en": "Who played that heart?",
+                        "vi": "Ai đã chơi trái tim đó?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to say that when you are away from somebody that you love, you love them even more",
+                    "vi": "từng nói rằng khi bạn xa người mà bạn yêu thương, bạn thậm chí còn yêu họ nhiều hơn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used to say what somebody is really like even though they may seem to be something different",
+                    "vi": "được sử dụng để nói ai đó thực sự như thế nào mặc dù họ có vẻ là một cái gì đó khác nhau"
+                },
+                "examples": [
+                    {
+                        "en": "He's still a socialist at heart.",
+                        "vi": "Anh ấy vẫn là một nhà xã hội chủ nghĩa trong trái tim."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if something is etched on your heart, memory, etc. you remember it because it has made a strong impression on you",
+                    "vi": "nếu điều gì đó đã khắc sâu vào trái tim, ký ức của bạn, v.v., bạn sẽ nhớ nó vì nó đã gây ấn tượng mạnh mẽ đối với bạn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to make somebody feel very unhappy",
+                    "vi": "làm cho ai đó cảm thấy rất không vui"
+                },
+                "examples": [
+                    {
+                        "en": "She broke his heart when she called off the engagement.",
+                        "vi": "Cô đã làm tan nát trái tim anh khi cô hủy bỏ lời đính hôn."
+                    },
+                    {
+                        "en": "It breaks my heart to see you like this.",
+                        "vi": "Tôi tan nát trái tim khi nhìn thấy bạn như thế này."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "using only your memory",
+                    "vi": "chỉ sử dụng trí nhớ của bạn"
+                },
+                "examples": [
+                    {
+                        "en": "I've seen the show so often I know all the songs by heart.",
+                        "vi": "Tôi đã xem chương trình thường xuyên nên tôi biết thuộc lòng tất cả các bài hát."
+                    },
+                    {
+                        "en": "She's learnt the whole speech off by heart.",
+                        "vi": "Cô ấy đã học thuộc lòng toàn bộ bài phát biểu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if you have a change of heart, your attitude towards something changes, usually making you feel more friendly, helpful, etc.",
+                    "vi": "nếu bạn thay đổi trái tim, thái độ của bạn đối với điều gì đó thay đổi, thường khiến bạn cảm thấy thân thiện, hữu ích hơn, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "Dan did not want to get married but recently he’s had a change of heart.",
+                        "vi": "Dan không muốn kết hôn nhưng gần đây anh ấy đã thay đổi tình cảm."
+                    },
+                    {
+                        "en": "He said he's not coming, but he might have a change of heart.",
+                        "vi": "Anh ấy nói rằng anh ấy sẽ không đến, nhưng anh ấy có thể đã thay đổi trái tim."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "having a lot of importance and interest for somebody",
+                    "vi": "có rất nhiều tầm quan trọng và sự quan tâm đối với ai đó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used to emphasize that you are telling the truth or will do what you promise",
+                    "vi": "được sử dụng để nhấn mạnh rằng bạn đang nói sự thật hoặc sẽ làm những gì bạn hứa"
+                },
+                "examples": [
+                    {
+                        "en": "I saw him do it—cross my heart.",
+                        "vi": "Tôi đã thấy anh ấy làm điều đó - trái tim tôi rất vui."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to compare two things and say that one of them is better",
+                    "vi": "được sử dụng để so sánh hai thứ và nói rằng một trong số chúng tốt hơn"
+                },
+                "examples": [
+                    {
+                        "en": "Look at him dance! Eat your heart out, Fred Astaire (= he dances even better than Fred Astaire).",
+                        "vi": "Nhìn anh ấy nhảy! Hãy tận hưởng trái tim của bạn, Fred Astaire (= anh ấy còn nhảy giỏi hơn Fred Astaire)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be able or willing to do something",
+                    "vi": "để có thể hoặc sẵn sàng làm điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "Can you find it in your heart to forgive her?",
+                        "vi": "Bạn có thể tìm thấy nó trong trái tim của bạn để tha thứ cho cô ấy?"
+                    },
+                    {
+                        "en": "He couldn't find it in himself to trust anyone again.",
+                        "vi": "Anh không thể tin tưởng bất cứ ai một lần nữa."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "in a way that is sincere",
+                    "vi": "theo một cách chân thành"
+                },
+                "examples": [
+                    {
+                        "en": "I beg you, from the bottom of my heart, to spare his life.",
+                        "vi": "Tôi cầu xin bạn, từ tận đáy lòng, hãy tha mạng cho anh ấy."
+                    },
+                    {
+                        "en": "It was clearly an offer that came from the heart.",
+                        "vi": "Đó rõ ràng là một lời đề nghị xuất phát từ trái tim."
+                    },
+                    {
+                        "en": "I could tell he spoke from the heart.",
+                        "vi": "Tôi có thể nói rằng anh ấy đã nói từ trái tim."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make somebody feel positive, especially when they thought that they had no chance of achieving something",
+                    "vi": "để làm cho ai đó cảm thấy tích cực, đặc biệt là khi họ nghĩ rằng họ không có cơ hội đạt được điều gì đó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to give your love to one person",
+                    "vi": "trao tình yêu của bạn cho một người"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used to ask somebody to be kind and/or reasonable",
+                    "vi": "được sử dụng để yêu cầu ai đó tử tế và / hoặc hợp lý"
+                },
+                "examples": [
+                    {
+                        "en": "Have a heart! I’ve nowhere else to stay!",
+                        "vi": "Có một trái tim! Tôi không còn nơi nào khác để ở!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be a very kind person",
+                    "vi": "trở thành một người rất tốt bụng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be a person who does not show other people sympathy",
+                    "vi": "trở thành một người không thể hiện sự đồng cảm của người khác"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to want somebody to be happy and successful even though your actions may not show this",
+                    "vi": "muốn ai đó hạnh phúc và thành công mặc dù hành động của bạn có thể không cho thấy điều này"
+                },
+                "examples": [
+                    {
+                        "en": "Although he was sometimes too strict with his children, he had their best interests at heart.",
+                        "vi": "Mặc dù đôi khi ông quá nghiêm khắc với con cái, nhưng ông luôn hướng tới lợi ích tốt nhất của chúng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be very dear to somebody",
+                    "vi": "rất thân thiết với ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "He'll always have a place in my heart.",
+                        "vi": "Anh ấy sẽ luôn có một vị trí trong trái tim tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "with a lot of energy and enthusiasm",
+                    "vi": "với rất nhiều năng lượng và nhiệt huyết"
+                },
+                "examples": [
+                    {
+                        "en": "They threw themselves heart and soul into the project.",
+                        "vi": "Họ đã ném hết trái tim và tâm hồn vào dự án."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to say that you do not feel sympathy for somebody",
+                    "vi": "từng nói rằng bạn không có thiện cảm với ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "‘I have to go to Brazil on business.’ ‘My heart bleeds for you!’",
+                        "vi": "Tôi phải đi công tác ở Brazil.' 'Trái tim tôi rỉ máu vì bạn!'"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to say that you feel a lot of sympathy for somebody",
+                    "vi": "từng nói rằng bạn cảm thấy có nhiều thiện cảm với ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "Our hearts go out to the families of the victims.",
+                        "vi": "Trái tim của chúng tôi hướng về gia đình của các nạn nhân."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "somebody feels nervous or frightened about something",
+                    "vi": "ai đó cảm thấy lo lắng hoặc sợ hãi về điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "My heart was in my mouth as I opened the envelope.",
+                        "vi": "Trái tim tôi đang ở trong miệng khi tôi mở phong bì."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to say that somebody’s intentions are kind and sincere even though they sometimes do the wrong thing",
+                    "vi": "được sử dụng để nói rằng ý định của ai đó là tử tế và chân thành mặc dù đôi khi họ làm điều sai trái"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used to say that you are not very interested in or enthusiastic about something",
+                    "vi": "đã từng nói rằng bạn không hứng thú hoặc không nhiệt tình với điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "Her heart isn't in her job.",
+                        "vi": "Trái tim của cô ấy không ở trong công việc của cô ấy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to say that somebody has a sudden feeling of happiness or excitement",
+                    "vi": "thường nói rằng ai đó có cảm giác hạnh phúc hoặc phấn khích đột ngột"
+                },
+                "examples": [
+                    {
+                        "en": "My heart leapt at the news.",
+                        "vi": "Trái tim tôi nhảy lên khi nghe tin này."
+                    },
+                    {
+                        "en": "Her heart leaped with joy.",
+                        "vi": "Trái tim cô nhảy lên vì sung sướng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to say that somebody has a sudden feeling of fear, excitement, etc.",
+                    "vi": "được sử dụng để nói rằng ai đó đột nhiên có cảm giác sợ hãi, phấn khích, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "My heart missed a beat when I saw who it was.",
+                        "vi": "Trái tim tôi lỡ một nhịp khi tôi nhìn thấy đó là ai."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to say that somebody suddenly feels sad or depressed about something",
+                    "vi": "được sử dụng để nói rằng ai đó đột nhiên cảm thấy buồn hoặc chán nản về điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "My heart sank when I saw how much work there was left.",
+                        "vi": "Trái tim tôi chùng xuống khi tôi thấy bao nhiêu công việc còn lại."
+                    },
+                    {
+                        "en": "She watched him go with a sinking heart.",
+                        "vi": "Cô nhìn anh ra đi với trái tim chìm đắm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a home is where the people you love are",
+                    "vi": "nhà là nơi có những người bạn yêu thương"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "happy and cheerful",
+                    "vi": "vui vẻ và vui vẻ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "if you know something in your heart, you have a strong feeling that it is true",
+                    "vi": "nếu bạn biết điều gì đó trong trái tim mình, bạn có cảm giác mạnh mẽ rằng đó là sự thật"
+                },
+                "examples": [
+                    {
+                        "en": "She knew in her heart of hearts that she was making the wrong decision.",
+                        "vi": "Trong thâm tâm cô biết rằng mình đã quyết định sai lầm."
+                    },
+                    {
+                        "en": "In my heart, I knew it wasn't true.",
+                        "vi": "Trong thâm tâm, tôi biết đó không phải là sự thật."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "it makes somebody feel happy when they see or hear something",
+                    "vi": "nó làm cho ai đó cảm thấy hạnh phúc khi họ nhìn thấy hoặc nghe thấy điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "It does my heart good to see the old place being taken care of so well.",
+                        "vi": "Thật là chạnh lòng khi thấy nơi ở cũ được chăm sóc chu đáo như vậy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to act according to what you feel rather than to what you think is sensible",
+                    "vi": "hành động theo những gì bạn cảm thấy hơn là theo những gì bạn nghĩ là hợp lý"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to stop hoping for something or trying to do something because you no longer feel confident",
+                    "vi": "ngừng hy vọng về điều gì đó hoặc cố gắng làm điều gì đó bởi vì bạn không còn cảm thấy tự tin"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to fall in love with somebody/something",
+                    "vi": "phải lòng ai đó / cái gì đó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a man/woman who likes the same things or has the same opinions as you",
+                    "vi": "một người đàn ông / phụ nữ thích những thứ giống nhau hoặc có cùng quan điểm với bạn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be unable to do something because you know that it will make somebody sad or upset",
+                    "vi": "không thể làm điều gì đó bởi vì bạn biết rằng điều đó sẽ khiến ai đó buồn hoặc khó chịu"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "using only your memory",
+                    "vi": "chỉ sử dụng trí nhớ của bạn"
+                },
+                "examples": [
+                    {
+                        "en": "She's learnt the whole speech off by heart.",
+                        "vi": "Cô ấy đã học thuộc lòng toàn bộ bài phát biểu."
+                    },
+                    {
+                        "en": "I've seen the show so often I know all the songs by heart.",
+                        "vi": "Tôi đã xem chương trình thường xuyên nên tôi biết thuộc lòng tất cả các bài hát."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "because of kind feelings, without thinking about what advantage there will be for you",
+                    "vi": "vì tình cảm tốt bụng mà không nghĩ đến việc bạn sẽ có lợi gì"
+                },
+                "examples": [
+                    {
+                        "en": "You're not telling me he offered to lend you the money out of the goodness of his heart?",
+                        "vi": "Bạn không nói với tôi rằng anh ta đề nghị cho bạn vay tiền vì lòng tốt của anh ta?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to tell somebody all your problems, feelings, etc.",
+                    "vi": "để nói với ai đó tất cả các vấn đề, cảm xúc của bạn, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "Finally, he broke down in tears and poured out his heart to her.",
+                        "vi": "Cuối cùng, anh đã gục ngã trong nước mắt và dốc hết trái tim mình cho cô."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to want something very much",
+                    "vi": "muốn một cái gì đó rất nhiều"
+                },
+                "examples": [
+                    {
+                        "en": "They’ve set their heart on a house in the country.",
+                        "vi": "Họ đã đặt trái tim của họ vào một ngôi nhà trong nước."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "very unhappy or disappointed",
+                    "vi": "rất không vui hoặc thất vọng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to cry noisily for a long time because you are very sad",
+                    "vi": "khóc thật lâu vì bạn rất buồn"
+                },
+                "examples": [
+                    {
+                        "en": "She flung herself at his chest and sobbed her heart out.",
+                        "vi": "Cô ném mình vào ngực anh và thổn thức trái tim mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make somebody fall in love with you",
+                    "vi": "để làm cho ai đó yêu bạn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to make somebody be afraid, etc.",
+                    "vi": "để làm cho ai đó sợ hãi, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "The sound of gunfire struck fear into the hearts of the villagers.",
+                        "vi": "Tiếng súng đánh vào lòng dân làng nỗi sợ hãi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to feel more positive about something, especially when you thought that you had no chance of achieving something",
+                    "vi": "để cảm thấy tích cực hơn về điều gì đó, đặc biệt là khi bạn nghĩ rằng bạn không có cơ hội đạt được điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "The government can take heart from the latest opinion polls.",
+                        "vi": "Chính phủ có thể lấy lòng từ các cuộc thăm dò dư luận mới nhất."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be very upset by something that somebody says or does",
+                    "vi": "rất khó chịu bởi điều gì đó mà ai đó nói hoặc làm"
+                },
+                "examples": [
+                    {
+                        "en": "You shouldn’t take everything he says to heart.",
+                        "vi": "Bạn không nên ghi tất cả những gì anh ấy nói vào lòng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to strongly affect you in an emotional way",
+                    "vi": "ảnh hưởng mạnh mẽ đến bạn theo cách cảm xúc"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to destroy the most important part or aspect of something",
+                    "vi": "để phá hủy phần hoặc khía cạnh quan trọng nhất của một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "Closing the factory tore the heart out of the community.",
+                        "vi": "Đóng cửa nhà máy xé nát trái tim của cộng đồng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "as much as you want",
+                    "vi": "Nhiều như bạn muốn"
+                },
+                "examples": [
+                    {
+                        "en": "a supervised play area where children can run around to their heart’s content",
+                        "vi": "một khu vực vui chơi có giám sát, nơi trẻ em có thể chạy xung quanh để theo dõi nội dung của trái tim mình"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make somebody feel happy or sympathetic",
+                    "vi": "để làm cho ai đó cảm thấy hạnh phúc hoặc cảm thông"
+                },
+                "examples": [
+                    {
+                        "en": "Doesn’t that story just warm the cockles of your heart?",
+                        "vi": "Câu chuyện đó chẳng phải chỉ làm ấm lòng bạn sao?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the way to make somebody like or love you",
+                    "vi": "cách để làm cho ai đó thích hoặc yêu bạn"
+                },
+                "examples": [
+                    {
+                        "en": "The way to a man's heart is through his stomach (= by giving him good food).",
+                        "vi": "Đường đến trái tim của một người đàn ông là thông qua dạ dày của anh ta (= cho anh ta thức ăn ngon)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to allow your feelings to be seen by other people",
+                    "vi": "để cho phép người khác nhìn thấy cảm xúc của bạn"
+                },
+                "examples": [
+                    {
+                        "en": "He’s not one to wear his heart on his sleeve.",
+                        "vi": "Anh ấy không phải là người để mặc trái tim của mình trên tay áo của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if a person does not know about something that they would normally think was bad, then it cannot hurt them",
+                    "vi": "nếu một người không biết về điều gì đó mà họ thường nghĩ là tồi tệ, thì điều đó không thể làm tổn thương họ"
+                },
+                "examples": [
+                    {
+                        "en": "What does it matter if I use his flat while he’s away? What the eye doesn’t see…!",
+                        "vi": "Có vấn đề gì nếu tôi sử dụng căn hộ của anh ấy khi anh ấy đi vắng? Những gì mắt không thấy…!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make somebody love you",
+                    "vi": "để làm cho ai đó yêu bạn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "completely",
+                    "vi": "hoàn toàn"
+                },
+                "examples": [
+                    {
+                        "en": "I hope with all my heart that things work out for you.",
+                        "vi": "Tôi hy vọng với tất cả trái tim của tôi rằng mọi thứ sẽ thuận lợi cho bạn."
+                    },
+                    {
+                        "en": "I wish you well with all my heart.",
+                        "vi": "Tôi cầu chúc bạn khỏe mạnh với tất cả trái tim của tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "thinking and behaving like a young person even when you are old",
+                    "vi": "suy nghĩ và hành xử như một người trẻ ngay cả khi bạn đã già"
+                },
+                "examples": [
+                    {
+                        "en": "My father is 76 but he’s still young at heart.",
+                        "vi": "Cha tôi đã 76 nhưng trái tim ông vẫn còn trẻ."
+                    },
+                    {
+                        "en": "He's over 70, but he's young at heart.",
+                        "vi": "Ông ấy đã ngoài 70, nhưng tâm hồn còn trẻ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1ea197b23ec648b7a1577c24919047e6",
+        "word": "joker",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈdʒəʊkə(r)/",
+            "us": "/ˈdʒəʊkər/"
+        },
+        "nearby": [
+            {
+                "word": "joke",
+                "pos": "noun"
+            },
+            {
+                "word": "joke",
+                "pos": "verb"
+            },
+            {
+                "word": "joker",
+                "pos": "noun"
+            },
+            {
+                "word": "jokey",
+                "pos": "adjective"
+            },
+            {
+                "word": "jokingly",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who likes making jokes or doing silly things to make people laugh",
+                    "vi": "một người thích pha trò hoặc làm những điều ngớ ngẩn để chọc cười mọi người"
+                },
+                "examples": [
+                    {
+                        "en": "He’s always been a bit of a joker.",
+                        "vi": "Anh ấy luôn là một người hay pha trò."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person that you think is stupid because they annoy you",
+                    "vi": "một người mà bạn nghĩ là ngu ngốc vì họ làm phiền bạn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "an extra playing card that is used in some card games, usually as a wild card",
+                    "vi": "một thẻ chơi bổ sung được sử dụng trong một số trò chơi bài, thường là thẻ hoang dã"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person or thing that could change the way that things will happen in a way that cannot be predicted",
+                    "vi": "một người hoặc vật có thể thay đổi cách mà mọi thứ sẽ xảy ra theo cách không thể đoán trước được"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "4e7dd40ee5a04a84a3b2ceb09750cda2",
+        "word": "pack",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/pæk/",
+            "us": "/pæk/"
+        },
+        "nearby": [
+            {
+                "word": "pacify",
+                "pos": "verb"
+            },
+            {
+                "word": "pack",
+                "pos": "verb"
+            },
+            {
+                "word": "pack",
+                "pos": "noun"
+            },
+            {
+                "word": "package",
+                "pos": "noun"
+            },
+            {
+                "word": "package",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a container, usually made of paper, that holds a number of the same thing or an amount of something, ready to be sold",
+                    "vi": "một hộp đựng, thường làm bằng giấy, chứa một số thứ giống nhau hoặc một lượng thứ gì đó, sẵn sàng để bán"
+                },
+                "examples": [
+                    {
+                        "en": "pack of something a pack of cigarettes/gum",
+                        "vi": "gói một cái gì đó một gói thuốc lá / kẹo cao su"
+                    },
+                    {
+                        "en": "You can buy the envelopes in packs of ten.",
+                        "vi": "Bạn có thể mua phong bì theo gói 10 cái."
+                    },
+                    {
+                        "en": "a family pack (= one big enough for a family) of crisps",
+                        "vi": "một gói gia đình (= một gói đủ lớn cho một gia đình) khoai tây chiên giòn"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a set of different things that are supplied together for a particular purpose",
+                    "vi": "một tập hợp những thứ khác nhau được cung cấp cùng nhau cho một mục đích cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "Send for your free information pack today.",
+                        "vi": "Gửi gói thông tin miễn phí của bạn ngay hôm nay."
+                    },
+                    {
+                        "en": "a starter/welcome/gift pack",
+                        "vi": "một gói khởi đầu / chào mừng / quà tặng"
+                    },
+                    {
+                        "en": "Each child was given a party pack filled with goodies.",
+                        "vi": "Mỗi đứa trẻ được phát một gói tiệc chứa đầy quà tặng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a number of things that are wrapped or tied together, especially for carrying",
+                    "vi": "một số thứ được quấn hoặc buộc lại với nhau, đặc biệt là để mang theo"
+                },
+                "examples": [
+                    {
+                        "en": "donkeys carrying packs of wool",
+                        "vi": "những con lừa mang theo những gói len"
+                    },
+                    {
+                        "en": "(figurative) Everything she told us is a pack of lies (= a story that is completely false).",
+                        "vi": "(nghĩa bóng) Tất cả những gì cô ấy nói với chúng tôi là một mớ dối trá (= một câu chuyện hoàn toàn sai sự thật)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a large bag that you carry on your back",
+                    "vi": "một chiếc túi lớn mà bạn mang trên lưng"
+                },
+                "examples": [
+                    {
+                        "en": "We passed a group of walkers, carrying huge packs.",
+                        "vi": "Chúng tôi đi ngang qua một nhóm người đi bộ, mang theo những gói đồ rất lớn."
+                    },
+                    {
+                        "en": "The water in his pack made it very heavy.",
+                        "vi": "Nước trong gói của anh ấy khiến nó rất nặng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a group of animals that hunt together or are kept for hunting",
+                    "vi": "một nhóm động vật săn cùng nhau hoặc được giữ lại để săn bắn"
+                },
+                "examples": [
+                    {
+                        "en": "packs of savage dogs",
+                        "vi": "bầy chó dã man"
+                    },
+                    {
+                        "en": "wolves hunting in packs",
+                        "vi": "sói săn trong gói"
+                    },
+                    {
+                        "en": "a pack of hounds",
+                        "vi": "một bầy chó săn"
+                    },
+                    {
+                        "en": "the dominant animal in the pack",
+                        "vi": "con vật thống trị trong đàn"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a group of similar people or things, especially one that you do not like or approve of",
+                    "vi": "một nhóm những người hoặc những thứ tương tự, đặc biệt là một nhóm mà bạn không thích hoặc không tán thành"
+                },
+                "examples": [
+                    {
+                        "en": "We avoided a pack of journalists waiting outside.",
+                        "vi": "Chúng tôi tránh một nhóm các nhà báo đang đợi bên ngoài."
+                    },
+                    {
+                        "en": "He's the leader of the pack.",
+                        "vi": "Anh ấy là thủ lĩnh của nhóm."
+                    },
+                    {
+                        "en": "Of all the newspapers, this one is the worst of the pack.",
+                        "vi": "Trong tất cả các tờ báo, tờ báo này là tờ báo tồi tệ nhất."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "all the people who are behind the leaders in a race, competition, etc.",
+                    "vi": "tất cả những người đứng sau các nhà lãnh đạo trong một cuộc chạy đua, cạnh tranh, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "measures aimed at keeping the company ahead of the pack",
+                        "vi": "các biện pháp nhằm giữ cho công ty luôn dẫn đầu"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a complete set of 52 playing cards",
+                    "vi": "một bộ hoàn chỉnh gồm 52 thẻ chơi"
+                },
+                "examples": [
+                    {
+                        "en": "a pack of cards",
+                        "vi": "một gói thẻ"
+                    },
+                    {
+                        "en": "During the earthquake, buildings collapsed like a pack of cards.",
+                        "vi": "Trong trận động đất, các tòa nhà sụp đổ như một quân bài."
+                    },
+                    {
+                        "en": "Take a card from the top of the pack.",
+                        "vi": "Lấy một thẻ từ trên cùng của gói."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an organized group of cubs / Cub Scouts or brownies",
+                    "vi": "một nhóm có tổ chức gồm đàn con / Hướng đạo sinh khối hoặc bánh hạnh nhân"
+                },
+                "examples": [
+                    {
+                        "en": "to join a Brownie pack",
+                        "vi": "tham gia gói bánh Brownie"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a hot or cold piece of soft material that holds liquid, used for treating a wound",
+                    "vi": "một miếng vật liệu mềm nóng hoặc lạnh giữ chất lỏng, được sử dụng để điều trị vết thương"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person or thing that could change the way that things will happen in a way that cannot be predicted",
+                    "vi": "một người hoặc vật có thể thay đổi cách mà mọi thứ sẽ xảy ra theo cách không thể đoán trước được"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "6c43a3fb7dab432c86da1cdade2f975d",
+        "word": "poker",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpəʊkə(r)/",
+            "us": "/ˈpəʊkər/"
+        },
+        "nearby": [
+            {
+                "word": "poke around",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "poke at",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "poker",
+                "pos": "noun"
+            },
+            {
+                "word": "poker face",
+                "pos": "noun"
+            },
+            {
+                "word": "poker-faced",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a card game for two or more people, in which the players bet on the values of the cards they hold",
+                    "vi": "một trò chơi bài cho hai người trở lên, trong đó người chơi đặt cược vào giá trị của quân bài mà họ nắm giữ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a metal stick for moving or breaking up coal in a fire",
+                    "vi": "một thanh kim loại để di chuyển hoặc làm vỡ than trong lửa"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "1d501ac36b91437ebf08cf59782d21f9",
+        "word": "rummy",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈrʌmi/",
+            "us": "/ˈrʌmi/"
+        },
+        "nearby": [
+            {
+                "word": "rummage",
+                "pos": "noun"
+            },
+            {
+                "word": "rummage sale",
+                "pos": "noun"
+            },
+            {
+                "word": "rummy",
+                "pos": "noun"
+            },
+            {
+                "word": "rumour",
+                "pos": "noun"
+            },
+            {
+                "word": "rumour",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a simple card game in which players try to collect particular combinations of cards",
+                    "vi": "một trò chơi bài đơn giản trong đó người chơi cố gắng thu thập các tổ hợp thẻ cụ thể"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "ebf0b35dfee1444fb61bfb7a23c540d1",
+        "word": "shuffle",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈʃʌfl/",
+            "us": "/ˈʃʌfl/"
+        },
+        "nearby": [
+            {
+                "word": "shudder",
+                "pos": "noun"
+            },
+            {
+                "word": "shuffle",
+                "pos": "verb"
+            },
+            {
+                "word": "shuffle",
+                "pos": "noun"
+            },
+            {
+                "word": "shuffleboard",
+                "pos": "noun"
+            },
+            {
+                "word": "shufti",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a slow walk in which you take small steps and do not lift your feet completely off the ground",
+                    "vi": "đi bộ chậm trong đó bạn bước những bước nhỏ và không nhấc chân hoàn toàn khỏi mặt đất"
+                },
+                "examples": [
+                    {
+                        "en": "The old man walked with a shuffle.",
+                        "vi": "Ông già bước đi với một sự tráo trở."
+                    },
+                    {
+                        "en": "There was a shuffle of feet as the room emptied.",
+                        "vi": "Có tiếng bàn chân xáo trộn khi căn phòng trống rỗng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the act of mixing cards before a card game",
+                    "vi": "hành động trộn bài trước khi chơi bài"
+                },
+                "examples": [
+                    {
+                        "en": "Give the cards a good shuffle.",
+                        "vi": "Cung cấp cho các thẻ một xáo trộn tốt."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a type of dancing in which you take small steps and do not lift your feet completely off the ground",
+                    "vi": "một kiểu khiêu vũ trong đó bạn bước những bước nhỏ và không nhấc chân hoàn toàn khỏi mặt đất"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a change in the jobs that a group of people do, for example in a government",
+                    "vi": "sự thay đổi trong công việc mà một nhóm người làm, ví dụ như trong chính phủ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to not notice somebody/something or pay attention to somebody/something because of a confusing situation",
+                    "vi": "không chú ý đến ai đó / cái gì đó hoặc chú ý đến ai đó / cái gì đó vì một tình huống khó hiểu"
+                },
+                "examples": [
+                    {
+                        "en": "Middle children tend to get lost in the shuffle.",
+                        "vi": "Trẻ trung có xu hướng bị lạc trong trò chơi trộn bài."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "not in any special order",
+                    "vi": "không theo thứ tự đặc biệt nào"
+                },
+                "examples": [
+                    {
+                        "en": "I use my phone's music app on shuffle.",
+                        "vi": "Tôi sử dụng ứng dụng âm nhạc trên điện thoại của mình khi phát ngẫu nhiên."
+                    },
+                    {
+                        "en": "The song came up on shuffle.",
+                        "vi": "Bài hát được phát ngẫu nhiên."
+                    },
+                    {
+                        "en": "You can put your whole music collection on shuffle.",
+                        "vi": "Bạn có thể đặt toàn bộ bộ sưu tập nhạc của mình trên chế độ trộn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0eb895c12d5e417eaa640a85f57546ec",
+        "word": "snap",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/snæp/",
+            "us": "/snæp/"
+        },
+        "nearby": [
+            {
+                "word": "snaky",
+                "pos": "adjective"
+            },
+            {
+                "word": "snap",
+                "pos": "verb"
+            },
+            {
+                "word": "snap",
+                "pos": "noun"
+            },
+            {
+                "word": "snap",
+                "pos": "adjective"
+            },
+            {
+                "word": "snap",
+                "pos": "exclamation"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a sudden sharp noise, especially one made by something closing or breaking",
+                    "vi": "một tiếng ồn đột ngột sắc nét, đặc biệt là một tiếng động do thứ gì đó đóng hoặc vỡ"
+                },
+                "examples": [
+                    {
+                        "en": "She closed her purse with a snap.",
+                        "vi": "Cô đóng ví chỉ trong tích tắc."
+                    },
+                    {
+                        "en": "the snap of a twig",
+                        "vi": "cái búng của một cành cây"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a photograph, especially one taken quickly",
+                    "vi": "một bức ảnh, đặc biệt là một bức được chụp nhanh"
+                },
+                "examples": [
+                    {
+                        "en": "holiday snaps",
+                        "vi": "chụp kỳ nghỉ"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a card game in which players take turns to put cards down and try to be the first to call out ‘snap’ when two similar cards are put down together",
+                    "vi": "một trò chơi bài trong đó người chơi lần lượt đặt các quân bài xuống và cố gắng trở thành người đầu tiên gọi 'búng' khi hai quân bài giống nhau được đặt xuống cùng nhau"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a type of button used for fastening clothes, consisting of two metal or plastic sections that can be pressed together",
+                    "vi": "một loại nút dùng để buộc quần áo, gồm hai phần kim loại hoặc nhựa có thể ép vào nhau."
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be very easy to do",
+                    "vi": "rất dễ làm"
+                },
+                "examples": [
+                    {
+                        "en": "This job's a snap.",
+                        "vi": "Công việc này chỉ trong tích tắc."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e44edad7488741b6b3e2adb27f5bd68d",
+        "word": "solitaire",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌsɒləˈteə(r)/",
+            "us": "/ˈsɑːləter/"
+        },
+        "nearby": [
+            {
+                "word": "solipsism",
+                "pos": "noun"
+            },
+            {
+                "word": "solipsistic",
+                "pos": "adjective"
+            },
+            {
+                "word": "solitaire",
+                "pos": "noun"
+            },
+            {
+                "word": "solitariness",
+                "pos": "noun"
+            },
+            {
+                "word": "solitary",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a game for one person in which you remove pieces from their places on a special board after moving other pieces over them. The aim is to finish with only one piece left on the board.",
+                    "vi": "trò chơi dành cho một người trong đó bạn xóa các quân cờ khỏi vị trí của họ trên một bảng đặc biệt sau khi di chuyển các quân cờ khác lên trên chúng. Mục đích là để kết thúc chỉ còn một mảnh trên bàn cờ."
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a card game for only one player",
+                    "vi": "một trò chơi bài chỉ dành cho một người chơi"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a single precious stone; a piece of jewellery with a single precious stone in it",
+                    "vi": "một viên đá quý duy nhất; một món đồ trang sức với một viên đá quý trong đó"
+                },
+                "examples": [
+                    {
+                        "en": "a solitaire ring",
+                        "vi": "một chiếc nhẫn solitaire"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9ae93bf39976420f86405fc35c453f50",
+        "word": "suit",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/suːt/",
+            "us": "/suːt/"
+        },
+        "nearby": [
+            {
+                "word": "suicide squeeze",
+                "pos": "noun"
+            },
+            {
+                "word": "sui generis",
+                "pos": "adjective"
+            },
+            {
+                "word": "suit",
+                "pos": "noun"
+            },
+            {
+                "word": "suit",
+                "pos": "verb"
+            },
+            {
+                "word": "suitability",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a set of clothes made of the same cloth, including a jacket and trousers or a skirt",
+                    "vi": "một bộ quần áo làm từ cùng một loại vải, bao gồm áo khoác và quần tây hoặc váy"
+                },
+                "examples": [
+                    {
+                        "en": "She was wearing a grey business suit.",
+                        "vi": "Cô ấy đang mặc một bộ đồ công sở màu xám."
+                    },
+                    {
+                        "en": "He is dressed in a formal black suit.",
+                        "vi": "Anh ấy mặc một bộ vest đen trang trọng."
+                    },
+                    {
+                        "en": "They won't let men into the restaurant without a suit and tie.",
+                        "vi": "Họ sẽ không để đàn ông vào nhà hàng mà không có com-lê và cà vạt."
+                    },
+                    {
+                        "en": "a two-/three-piece suit (= of two/three pieces of clothing)",
+                        "vi": "một bộ đồ hai / ba mảnh (= hai / ba bộ quần áo)"
+                    },
+                    {
+                        "en": "a pinstripe suit",
+                        "vi": "một bộ đồ sọc"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a set of clothing worn for a particular activity",
+                    "vi": "một bộ quần áo mặc cho một hoạt động cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "a diving suit",
+                        "vi": "một bộ đồ lặn"
+                    },
+                    {
+                        "en": "a suit of armour",
+                        "vi": "một bộ áo giáp"
+                    },
+                    {
+                        "en": "His parents had bought him a new suit of clothes for the occasion.",
+                        "vi": "Cha mẹ anh đã mua cho anh một bộ quần áo mới cho dịp này."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "any of the four sets that form a pack of cards",
+                    "vi": "bất kỳ bộ nào trong số bốn bộ tạo thành một gói thẻ"
+                },
+                "examples": [
+                    {
+                        "en": "The suits are called hearts, clubs, diamonds and spades.",
+                        "vi": "Các bộ quần áo được gọi là trái tim, câu lạc bộ, kim cương và bích."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a claim or complaint against somebody that a person or an organization can make in court",
+                    "vi": "yêu cầu hoặc khiếu nại chống lại ai đó mà một người hoặc một tổ chức có thể đưa ra trước tòa"
+                },
+                "examples": [
+                    {
+                        "en": "to file/bring a suit against somebody",
+                        "vi": "nộp đơn / mang kiện chống lại ai đó"
+                    },
+                    {
+                        "en": "a divorce suit",
+                        "vi": "đơn kiện ly hôn"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person with an important job as a manager in a company or organization, especially one who is thought to work mainly with financial matters or to have a lot of influence",
+                    "vi": "một người có công việc quan trọng là quản lý trong một công ty hoặc tổ chức, đặc biệt là một người được cho là chủ yếu làm việc với các vấn đề tài chính hoặc có nhiều ảnh hưởng"
+                },
+                "examples": [
+                    {
+                        "en": "We can leave the detailed negotiations to the suits.",
+                        "vi": "Chúng ta có thể để lại các cuộc đàm phán chi tiết cho các bộ quần áo."
+                    },
+                    {
+                        "en": "He’s a ‘suit’, not a ‘creative’.",
+                        "vi": "Anh ấy là một \"bộ đồ\", không phải là một \"sáng tạo\"."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be a subject that somebody knows a lot about",
+                    "vi": "trở thành một chủ đề mà ai đó biết rất nhiều về"
+                },
+                "examples": [
+                    {
+                        "en": "I'm afraid geography is not my strong suit.",
+                        "vi": "Tôi e rằng địa lý không phải là điểm mạnh của tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to play a card of the same suit that has just been played",
+                    "vi": "để chơi một thẻ của cùng một bộ đồ vừa được chơi"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to act or behave in the way that somebody else has just done",
+                    "vi": "hành động hoặc cư xử theo cách mà người khác đã làm"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "not wearing any clothes",
+                    "vi": "không mặc quần áo"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "f4dbd4dd8269489194555f004db1b7f4",
+        "word": "three-card trick",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌθriː kɑːd ˈtrɪk/",
+            "us": "/ˌθriː kɑːrd ˈtrɪk/"
+        },
+        "nearby": [
+            {
+                "word": "the Three As",
+                "pos": ""
+            },
+            {
+                "word": "Three Blind Mice",
+                "pos": ""
+            },
+            {
+                "word": "three-card trick",
+                "pos": "noun"
+            },
+            {
+                "word": "the Three Choirs Festival",
+                "pos": ""
+            },
+            {
+                "word": "three-cornered",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a game in which players bet money on which is the queen out of three cards lying face down",
+                    "vi": "một trò chơi trong đó người chơi đặt cược tiền vào đó là quân hậu trong số ba quân bài nằm úp xuống"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "e057155e64db42e797d3fba1efe176c4",
+        "word": "trump",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/trʌmp/",
+            "us": "/trʌmp/"
+        },
+        "nearby": [
+            {
+                "word": "Harry S Truman",
+                "pos": ""
+            },
+            {
+                "word": "the Truman Doctrine",
+                "pos": ""
+            },
+            {
+                "word": "trump",
+                "pos": "noun"
+            },
+            {
+                "word": "trump",
+                "pos": "verb"
+            },
+            {
+                "word": "trump card",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "(in some card games) a card that belongs to the suit (= one of the four sets in a pack of cards) that has been chosen for a particular game to have a higher value than the other three suits",
+                    "vi": "(trong một số trò chơi bài) một thẻ thuộc bộ bài (= một trong bốn bộ trong một gói bài) đã được chọn cho một trò chơi cụ thể để có giá trị cao hơn ba bộ còn lại"
+                },
+                "examples": [
+                    {
+                        "en": "I played a trump and won the trick.",
+                        "vi": "Tôi đã chơi một con át chủ bài và đã thắng được mánh khóe."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "(in some card games) the suit that has been chosen for a particular game to have a higher value than the other three suits",
+                    "vi": "(trong một số trò chơi bài) bộ đồ đã được chọn cho một trò chơi cụ thể có giá trị cao hơn ba bộ đồ còn lại"
+                },
+                "examples": [
+                    {
+                        "en": "What's trumps?",
+                        "vi": "Át chủ bài là gì?"
+                    },
+                    {
+                        "en": "Clubs are trumps.",
+                        "vi": "Câu lạc bộ là át chủ bài."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to do what is necessary to make a particular situation successful, especially when this is sudden or unexpected",
+                    "vi": "làm những gì cần thiết để làm cho một tình huống cụ thể thành công, đặc biệt là khi điều này xảy ra đột ngột hoặc bất ngờ"
+                },
+                "examples": [
+                    {
+                        "en": "I didn't honestly think he'd pass the exam but he came up trumps on the day.",
+                        "vi": "Tôi không thực sự nghĩ rằng anh ấy sẽ vượt qua kỳ thi nhưng anh ấy đã trở thành con át chủ bài vào ngày đó."
+                    },
+                    {
+                        "en": "Just when we thought there was no hope, my parents turned up trumps with a large loan.",
+                        "vi": "Ngay khi chúng tôi nghĩ rằng không còn hy vọng, cha mẹ tôi đã trở thành con át chủ bài với một khoản vay lớn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "176d59302649450894f831f3e5aa6eb8",
+        "word": "whist",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/wɪst/",
+            "us": "/wɪst/"
+        },
+        "nearby": [
+            {
+                "word": "whispering campaign",
+                "pos": "noun"
+            },
+            {
+                "word": "the Whispering Gallery",
+                "pos": ""
+            },
+            {
+                "word": "whist",
+                "pos": "noun"
+            },
+            {
+                "word": "whistle",
+                "pos": "noun"
+            },
+            {
+                "word": "whistle",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a card game for two pairs of players in which each pair tries to win the most cards",
+                    "vi": "một trò chơi bài dành cho hai cặp người chơi, trong đó mỗi cặp cố gắng giành được nhiều thẻ nhất"
+                },
+                "examples": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,102 @@
+{
+    "id": "359a989c42c548bc885da5816f38e013",
+    "title": "Sentence conversion exercise",
+    "exercises": [
+        {
+            "id": "6205e9eed1f54aeb9009ae59c3da13ec",
+            "title": "Simple Or Complex",
+            "questions": [
+                {
+                    "question": "He sold the house that belonged to his father.",
+                    "description": "",
+                    "answers": [
+                        "Simple",
+                        "Complex"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "I have no money that I can lend you.",
+                    "description": "",
+                    "answers": [
+                        "Simple",
+                        "Complex"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "The marks that were left by the whip are still visible.",
+                    "description": "",
+                    "answers": [
+                        "Simple",
+                        "Complex"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "He prospered by the money he inherited from his father.",
+                    "description": "",
+                    "answers": [
+                        "Simple",
+                        "Complex"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "A man who is dead has no worries.",
+                    "description": "",
+                    "answers": [
+                        "Simple",
+                        "Complex"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "He sold his father’s house.",
+                    "description": "",
+                    "answers": [
+                        "Simple",
+                        "Complex"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "I have no money to lend you.",
+                    "description": "",
+                    "answers": [
+                        "Simple",
+                        "Complex"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "The marks left by the whip are still visible.",
+                    "description": "",
+                    "answers": [
+                        "Simple",
+                        "Complex"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "He prospered by his father’s money.",
+                    "description": "",
+                    "answers": [
+                        "Simple",
+                        "Complex"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "A dead man has no worries.",
+                    "description": "",
+                    "answers": [
+                        "Simple",
+                        "Complex"
+                    ],
+                    "correct": 0
+                }
+            ]
+        }
+    ]
+}

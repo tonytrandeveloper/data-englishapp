@@ -1,0 +1,158 @@
+{
+    "id": "cf51ce1389e4451fb8051fb6dac0d261",
+    "title": "Traffic Rules (2)",
+    "questions": [
+        {
+            "id": "f314479635634e84924a1ea1df55c453",
+            "text": "Excuse me. May I see your licence?",
+            "items": [
+                "Excuse",
+                "me.",
+                "May",
+                "I",
+                "see",
+                "your",
+                "licence?"
+            ]
+        },
+        {
+            "id": "38e55a145dfb4243a66baa087f192da8",
+            "text": "I'm afraid I've left it at home.",
+            "items": [
+                "I'm",
+                "afraid",
+                "I've",
+                "left",
+                "it",
+                "at",
+                "home."
+            ]
+        },
+        {
+            "id": "acb70733d0454f41a7906350ca9ce987",
+            "text": "In that case, you'll have to take it to the police station within five days.",
+            "items": [
+                "In",
+                "that",
+                "case,",
+                "you'll",
+                "have",
+                "to",
+                "take",
+                "it",
+                "to",
+                "the",
+                "police",
+                "station",
+                "within",
+                [
+                    "five",
+                    "5"
+                ],
+                "days."
+            ]
+        },
+        {
+            "id": "212ffec9c4b643d191470143ce68afbd",
+            "text": "But why?",
+            "items": [
+                "But",
+                "why?"
+            ]
+        },
+        {
+            "id": "e5e558f7a61a4db8b952f7846c32eeee",
+            "text": "You were speeding, ma'am.",
+            "items": [
+                "You",
+                "were",
+                "speeding,",
+                "ma'am."
+            ]
+        },
+        {
+            "id": "c8e6c12810d04f04bd32fe9658c2b056",
+            "text": "But I was only doing 75!",
+            "items": [
+                "But",
+                "I",
+                "was",
+                "only",
+                "doing",
+                "75!"
+            ]
+        },
+        {
+            "id": "75c4d8a0bba740ccbffec6d423c36317",
+            "text": "There's a 70km/h speed limit on this road, ma'am.",
+            "items": [
+                "There's",
+                "a",
+                "70km/h",
+                "speed",
+                "limit",
+                "on",
+                "this",
+                "road,",
+                "ma'am."
+            ]
+        },
+        {
+            "id": "53f91a87615f4458ab1a5353027c1498",
+            "text": "Is there? I didn't see a sign...",
+            "items": [
+                "Is",
+                "there?",
+                "I",
+                "didn't",
+                "see",
+                "a",
+                "sign..."
+            ]
+        },
+        {
+            "id": "0d733519fd0b48d1a03b46243f6f7e2c",
+            "text": "Well, ma'am. We've been following you.",
+            "items": [
+                "Well,",
+                "ma'am.",
+                "We've",
+                "been",
+                "following",
+                "you."
+            ]
+        },
+        {
+            "id": "6d33569bcc2f4bf2a303eb7a26edda37",
+            "text": "So you were doing 75, too.",
+            "items": [
+                "So",
+                "you",
+                "were",
+                "doing",
+                "75,",
+                "too."
+            ]
+        },
+        {
+            "id": "1486a25f051a4e0e8319d5fc6185a8b0",
+            "text": "No, ma'am. We were doing 90k/h... and we couldn't catch you!",
+            "items": [
+                "No,",
+                "ma'am.",
+                "We",
+                "were",
+                "doing",
+                [
+                    "90k/h...",
+                    "90 kilometers an hour"
+                ],
+                "and",
+                "we",
+                "couldn't",
+                "catch",
+                "you!"
+            ]
+        }
+    ]
+}

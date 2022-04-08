@@ -1,0 +1,4489 @@
+[
+    {
+        "id": "34ed9d4ced2b41088bce4542d67ab6cf",
+        "word": "baseball",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/ˈbeɪsbɔːl/",
+            "us": "/ˈbeɪsbɔːl/"
+        },
+        "nearby": [
+            {
+                "word": "base",
+                "pos": "verb"
+            },
+            {
+                "word": "base",
+                "pos": "adjective"
+            },
+            {
+                "word": "baseball",
+                "pos": "noun"
+            },
+            {
+                "word": "baseball cap",
+                "pos": "noun"
+            },
+            {
+                "word": "baseboard",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a game played especially in the US by two teams of nine players, using a bat and ball. Each player tries to hit the ball and then run around four bases before the other team can return the ball.",
+                    "vi": "một trò chơi được chơi đặc biệt ở Mỹ bởi hai đội gồm chín người chơi, sử dụng gậy và bóng. Mỗi người chơi cố gắng đánh bóng và sau đó chạy xung quanh bốn cơ sở trước khi đội kia có thể trả lại bóng."
+                },
+                "examples": [
+                    {
+                        "en": "a baseball bat/team/cap/fan/player/game",
+                        "vi": "gậy bóng chày / đội / mũ / người hâm mộ / người chơi / trò chơi"
+                    },
+                    {
+                        "en": "to play major league baseball",
+                        "vi": "chơi bóng chày giải đấu lớn"
+                    },
+                    {
+                        "en": "a pair of baseball boots",
+                        "vi": "một đôi giày bóng chày"
+                    },
+                    {
+                        "en": "a baseball stadium",
+                        "vi": "một sân vận động bóng chày"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the ball used in this game",
+                    "vi": "bóng được sử dụng trong trò chơi này"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "expert knowledge about baseball",
+                    "vi": "kiến thức chuyên môn về bóng chày"
+                },
+                "examples": [
+                    {
+                        "en": "He taught New York baseball fans a good deal of inside baseball.",
+                        "vi": "Anh ấy đã dạy cho những người hâm mộ bóng chày ở New York rất nhiều điều về bóng chày bên trong."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "technical information about any subject",
+                    "vi": "thông tin kỹ thuật về bất kỳ chủ đề nào"
+                },
+                "examples": [
+                    {
+                        "en": "Readers weren't very interested in the inside baseball of the news business.",
+                        "vi": "Độc giả không mấy quan tâm đến bóng chày nội bộ của ngành kinh doanh tin tức."
+                    },
+                    {
+                        "en": "This is inside baseball stuff.",
+                        "vi": "Đây là bên trong đồ bóng chày."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f3f5bda2140241a1a4f658d3c05ad73c",
+        "word": "park",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/pɑːk/",
+            "us": "/pɑːrk/"
+        },
+        "nearby": [
+            {
+                "word": "parish register",
+                "pos": "noun"
+            },
+            {
+                "word": "parity",
+                "pos": "noun"
+            },
+            {
+                "word": "park",
+                "pos": "noun"
+            },
+            {
+                "word": "park",
+                "pos": "verb"
+            },
+            {
+                "word": "parka",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an area of public land in a town or a city where people go to walk, play and relax",
+                    "vi": "một khu vực đất công cộng trong thị trấn, thành phố, nơi mọi người đi dạo, vui chơi và thư giãn"
+                },
+                "examples": [
+                    {
+                        "en": "Hyde Park",
+                        "vi": "công viên Hyde"
+                    },
+                    {
+                        "en": "in the park We went for a walk in the park.",
+                        "vi": "trong công viên Chúng tôi đã đi dạo trong công viên."
+                    },
+                    {
+                        "en": "A public park will be built around the complex.",
+                        "vi": "Một công viên công cộng sẽ được xây dựng xung quanh khu phức hợp."
+                    },
+                    {
+                        "en": "a park bench",
+                        "vi": "một băng ghế công viên"
+                    },
+                    {
+                        "en": "the park entrance/gates",
+                        "vi": "lối vào / cổng công viên"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an area of land used for a particular purpose",
+                    "vi": "diện tích đất được sử dụng cho một mục đích cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "a business/science park",
+                        "vi": "một công viên kinh doanh / khoa học"
+                    },
+                    {
+                        "en": "a wildlife park",
+                        "vi": "một công viên động vật hoang dã"
+                    },
+                    {
+                        "en": "a park ranger",
+                        "vi": "một công viên kiểm lâm"
+                    },
+                    {
+                        "en": "She lives in a trailer park in Tucson, Arizona.",
+                        "vi": "Cô ấy sống trong một công viên xe kéo ở Tucson, Arizona."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "(in the UK) an area of land, usually with fields and trees, attached to a large country house",
+                    "vi": "(ở Anh) một khu đất, thường có cánh đồng và cây cối, gắn liền với một ngôi nhà nông thôn lớn"
+                },
+                "examples": [
+                    {
+                        "en": "The cottage is set within the park of a country house.",
+                        "vi": "Ngôi nhà nhỏ nằm trong công viên của một ngôi nhà nông thôn."
+                    },
+                    {
+                        "en": "The houses and parks in Georgian Sussex represented leisured society at its peak.",
+                        "vi": "Những ngôi nhà và công viên ở Georgia Sussex đại diện cho xã hội an nhàn ở thời kỳ đỉnh cao."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a piece of land for playing sports, especially baseball",
+                    "vi": "một mảnh đất để chơi thể thao, đặc biệt là bóng chày"
+                },
+                "examples": [
+                    {
+                        "en": "With a mighty swing he hit the ball right out of the park.",
+                        "vi": "Với một cú xoay người dũng mãnh, anh ấy đã đánh bóng ngay ra khỏi công viên."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a football (soccer) or rugby field",
+                    "vi": "một sân bóng đá (bóng đá) hoặc bóng bầu dục"
+                },
+                "examples": [
+                    {
+                        "en": "the fastest man on the park",
+                        "vi": "người đàn ông nhanh nhất trong công viên"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a thing that is very easy to do or deal with",
+                    "vi": "một việc rất dễ thực hiện hoặc giải quyết"
+                },
+                "examples": [
+                    {
+                        "en": "The role isn't exactly a walk in the park.",
+                        "vi": "Vai trò chính xác không phải là một cuộc đi dạo trong công viên."
+                    },
+                    {
+                        "en": "The next game will be a walk in the park.",
+                        "vi": "Trò chơi tiếp theo sẽ là đi dạo trong công viên."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "44ac1dcd39a3481da4257482215f7724",
+        "word": "ball game",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈbɔːl ɡeɪm/",
+            "us": "/ˈbɔːl ɡeɪm/"
+        },
+        "nearby": [
+            {
+                "word": "balletic",
+                "pos": "adjective"
+            },
+            {
+                "word": "balletomane",
+                "pos": "noun"
+            },
+            {
+                "word": "ball game",
+                "pos": "noun"
+            },
+            {
+                "word": "ballgirl",
+                "pos": "noun"
+            },
+            {
+                "word": "ballhawk",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "any game played with a ball",
+                    "vi": "bất kỳ trò chơi nào chơi với một quả bóng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a game of baseball",
+                    "vi": "một trò chơi bóng chày"
+                },
+                "examples": [
+                    {
+                        "en": "Are you going to the ball game?",
+                        "vi": "Bạn có đi chơi bóng không?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a completely different kind of situation",
+                    "vi": "một loại tình huống hoàn toàn khác"
+                },
+                "examples": [
+                    {
+                        "en": "Camping in summer is fun, but in winter it’s a whole different ball game.",
+                        "vi": "Cắm trại vào mùa hè rất vui, nhưng vào mùa đông, đó là một trò chơi bóng hoàn toàn khác."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "43a5569e69514c48a978bce0606c34c5",
+        "word": "ballpark",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈbɔːlpɑːk/",
+            "us": "/ˈbɔːlpɑːrk/"
+        },
+        "nearby": [
+            {
+                "word": "ballot box",
+                "pos": "noun"
+            },
+            {
+                "word": "ballot paper",
+                "pos": "noun"
+            },
+            {
+                "word": "ballpark",
+                "pos": "noun"
+            },
+            {
+                "word": "ballplayer",
+                "pos": "noun"
+            },
+            {
+                "word": "ballpoint",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a place where baseball is played",
+                    "vi": "nơi chơi bóng chày"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "an area or a range within which an amount is likely to be correct or within which something can be measured",
+                    "vi": "một khu vực hoặc một phạm vi trong đó một số lượng có thể là chính xác hoặc một cái gì đó có thể được đo lường trong đó"
+                },
+                "examples": [
+                    {
+                        "en": "The offers for the contract were all in the same ballpark.",
+                        "vi": "Các đề nghị cho hợp đồng đều ở cùng một sân bóng."
+                    },
+                    {
+                        "en": "If you said five million you'd be in the ballpark.",
+                        "vi": "Nếu bạn nói năm triệu bạn sẽ ở trong sân bóng."
+                    },
+                    {
+                        "en": "Give me a ballpark figure (= a number that is approximately right).",
+                        "vi": "Cho tôi một con số về quả bóng (= một số gần đúng)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0ea766ab82aa4c00b09a6d0ebfc3009c",
+        "word": "catcher",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈkætʃə(r)/",
+            "us": "/ˈkætʃər/"
+        },
+        "nearby": [
+            {
+                "word": "catch at",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "catch crop",
+                "pos": "noun"
+            },
+            {
+                "word": "catcher",
+                "pos": "noun"
+            },
+            {
+                "word": "Catcher in the Rye",
+                "pos": ""
+            },
+            {
+                "word": "catching",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the player who stands behind the batter and catches the ball if they do not hit it",
+                    "vi": "người chơi đứng sau người đánh bóng và bắt bóng nếu họ không đánh nó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person or thing that catches something",
+                    "vi": "một người hoặc một vật bắt được thứ gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "a rat catcher",
+                        "vi": "một người bắt chuột"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "24ec5dcf97d64749b1cb347aee8ad437",
+        "word": "fastball",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈfɑːstbɔːl/",
+            "us": "/ˈfæstbɔːl/"
+        },
+        "nearby": [
+            {
+                "word": "fast",
+                "pos": "verb"
+            },
+            {
+                "word": "fast",
+                "pos": "noun"
+            },
+            {
+                "word": "fastball",
+                "pos": "noun"
+            },
+            {
+                "word": "fast bowler",
+                "pos": "noun"
+            },
+            {
+                "word": "fast break",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a ball that is thrown at the pitcher's fastest speed",
+                    "vi": "một quả bóng được ném với tốc độ nhanh nhất của người ném bóng"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "215bf809966d458db9d5d4c2d8fe4c3a",
+        "word": "spring training",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˌsprɪŋ ˈtreɪnɪŋ/",
+            "us": "/ˌsprɪŋ ˈtreɪnɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "spring tide",
+                "pos": "noun"
+            },
+            {
+                "word": "springtime",
+                "pos": "noun"
+            },
+            {
+                "word": "spring training",
+                "pos": "noun"
+            },
+            {
+                "word": "spring up",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "springy",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the period in the spring when baseball players practise to prepare for their regular games",
+                    "vi": "khoảng thời gian vào mùa xuân khi các cầu thủ bóng chày luyện tập để chuẩn bị cho các trận đấu thường xuyên của họ"
+                },
+                "examples": [
+                    {
+                        "en": "Spring training starts February 18 this year.",
+                        "vi": "Đào tạo mùa xuân bắt đầu từ ngày 18 tháng 2 năm nay."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4ae94ab6a0fe4156bc914727d58ad898",
+        "word": "base",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/beɪs/",
+            "us": "/beɪs/"
+        },
+        "nearby": [
+            {
+                "word": "basal",
+                "pos": "adjective"
+            },
+            {
+                "word": "basalt",
+                "pos": "noun"
+            },
+            {
+                "word": "base",
+                "pos": "noun"
+            },
+            {
+                "word": "base",
+                "pos": "verb"
+            },
+            {
+                "word": "base",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the lowest part of something, especially the part or surface on which it rests or stands",
+                    "vi": "phần thấp nhất của thứ gì đó, đặc biệt là phần hoặc bề mặt mà nó nằm hoặc đứng trên đó"
+                },
+                "examples": [
+                    {
+                        "en": "The lamp has a heavy base.",
+                        "vi": "Đèn có đế nặng."
+                    },
+                    {
+                        "en": "the base of a column/glass",
+                        "vi": "đế của một cột / kính"
+                    },
+                    {
+                        "en": "at the base of something He felt a sharp pain at the base of his spine.",
+                        "vi": "ở gốc thứ gì đó Anh cảm thấy đau nhói ở gốc xương sống."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the main place where you live or stay or where a business operates from",
+                    "vi": "nơi chính nơi bạn sống hoặc ở hoặc nơi hoạt động của một doanh nghiệp"
+                },
+                "examples": [
+                    {
+                        "en": "I spend a lot of time in Britain but Paris is still my base.",
+                        "vi": "Tôi dành nhiều thời gian ở Anh nhưng Paris vẫn là căn cứ của tôi."
+                    },
+                    {
+                        "en": "base for doing something The town is an ideal base for touring the area.",
+                        "vi": "cơ sở để làm điều gì đó Thị trấn là một cơ sở lý tưởng để tham quan khu vực."
+                    },
+                    {
+                        "en": "base for something The organization is looking for a permanent base for its operations.",
+                        "vi": "cơ sở cho một cái gì đó Tổ chức đang tìm kiếm một cơ sở lâu dài cho các hoạt động của mình."
+                    },
+                    {
+                        "en": "as a base You can use our apartment as a base in New York.",
+                        "vi": "làm căn cứ Bạn có thể sử dụng căn hộ của chúng tôi làm căn cứ ở New York."
+                    },
+                    {
+                        "en": "The company has its base in New York, and branch offices all over the world.",
+                        "vi": "Công ty có trụ sở tại New York và các văn phòng chi nhánh trên toàn thế giới."
+                    },
+                    {
+                        "en": "The company has set up its new base in the north.",
+                        "vi": "Công ty đã thành lập cơ sở mới của mình ở phía bắc."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a place where an army, a navy, etc. operates from",
+                    "vi": "nơi hoạt động của quân đội, hải quân, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "a military/naval base",
+                        "vi": "một căn cứ quân sự / hải quân"
+                    },
+                    {
+                        "en": "an air base",
+                        "vi": "một căn cứ không quân"
+                    },
+                    {
+                        "en": "After the attack, they returned to base.",
+                        "vi": "Sau cuộc tấn công, họ trở về căn cứ."
+                    },
+                    {
+                        "en": "The UN forces headed back to base.",
+                        "vi": "Các lực lượng LHQ đã quay trở lại căn cứ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the people, activity, etc. from which somebody/something gets most of their support, income, power, etc.",
+                    "vi": "con người, hoạt động, v.v. mà từ đó ai đó / điều gì đó nhận được hầu hết sự hỗ trợ, thu nhập, quyền lực, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "These policies have a broad base of support.",
+                        "vi": "Các chính sách này có cơ sở hỗ trợ rộng rãi."
+                    },
+                    {
+                        "en": "We once had an economy with a solid manufacturing base.",
+                        "vi": "Chúng ta đã từng có một nền kinh tế với nền tảng sản xuất vững chắc."
+                    },
+                    {
+                        "en": "By broadening the tax base (= increasing the number of people who pay taxes) he could raise more revenue.",
+                        "vi": "Bằng cách mở rộng cơ sở thuế (= tăng số người nộp thuế), anh ta có thể tăng thêm doanh thu."
+                    },
+                    {
+                        "en": "We have developed a strong client base.",
+                        "vi": "Chúng tôi đã phát triển một cơ sở khách hàng mạnh mẽ."
+                    },
+                    {
+                        "en": "This course is an opportunity to expand my knowledge base",
+                        "vi": "Khóa học này là một cơ hội để mở rộng nền tảng kiến thức của tôi"
+                    },
+                    {
+                        "en": "The country has a sound commercial base.",
+                        "vi": "Đất nước này có một cơ sở thương mại vững chắc."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the pay that you get before anything extra is added",
+                    "vi": "khoản tiền mà bạn nhận được trước khi thêm bất cứ thứ gì bổ sung"
+                },
+                "examples": [
+                    {
+                        "en": "All we got was base pay—we didn't reach profitability levels to award a bonus.",
+                        "vi": "Tất cả những gì chúng tôi nhận được là lương cơ bản — chúng tôi không đạt đến mức lợi nhuận để trao thưởng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an idea, a fact, a situation, etc. from which something is developed",
+                    "vi": "một ý tưởng, một thực tế, một tình huống, v.v. mà từ đó một cái gì đó được phát triển"
+                },
+                "examples": [
+                    {
+                        "en": "She used her family's history as a base for her novel.",
+                        "vi": "Cô đã sử dụng lịch sử của gia đình mình làm cơ sở cho cuốn tiểu thuyết của mình."
+                    },
+                    {
+                        "en": "His arguments have a sound economic base.",
+                        "vi": "Lập luận của ông có cơ sở kinh tế đúng đắn."
+                    },
+                    {
+                        "en": "These policies give us a solid base for winning the next election.",
+                        "vi": "Những chính sách này mang lại cho chúng tôi cơ sở vững chắc để giành chiến thắng trong cuộc bầu cử tiếp theo."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the first or main part of a substance to which other things are added",
+                    "vi": "phần đầu tiên hoặc phần chính của một chất mà những thứ khác được thêm vào"
+                },
+                "examples": [
+                    {
+                        "en": "a drink with a rum base",
+                        "vi": "đồ uống với rượu rum"
+                    },
+                    {
+                        "en": "Put some moisturizer on as a base before applying your make-up.",
+                        "vi": "Thoa một ít kem dưỡng ẩm làm lớp nền trước khi trang điểm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a chemical substance, for example an alkali, that can combine with an acid to form a salt",
+                    "vi": "một chất hóa học, ví dụ một chất kiềm, có thể kết hợp với một axit để tạo thành muối"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a number on which a system of counting and expressing numbers is built up, for example 10 in the decimal system and 2 in the binary system",
+                    "vi": "một số mà trên đó hệ thống đếm và biểu thị số được xây dựng, ví dụ: 10 trong hệ thập phân và 2 trong hệ nhị phân"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "one of the four positions that a player must reach in order to score points",
+                    "vi": "một trong bốn vị trí mà người chơi phải đạt được để ghi điểm"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to consider and deal with all the things that could happen or could be needed when you are arranging something",
+                    "vi": "để xem xét và đối phó với tất cả những điều có thể xảy ra hoặc có thể cần thiết khi bạn đang sắp xếp một việc gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "I am confident this contract covers all the bases.",
+                        "vi": "Tôi tự tin rằng hợp đồng này bao gồm tất cả các cơ sở."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to fail to make a successful start in a project, relationship, etc.; to fail to get through the first stage",
+                    "vi": "thất bại trong việc khởi đầu thành công trong một dự án, mối quan hệ, v.v.; không vượt qua được giai đoạn đầu tiên"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "completely wrong about something",
+                    "vi": "hoàn toàn sai về điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "If that's what you think, you're way off base.",
+                        "vi": "Nếu đó là những gì bạn nghĩ, bạn đang lạc lối."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make contact with somebody again",
+                    "vi": "để liên lạc lại với ai đó"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "54eb9c1e27ed42f89fad51ed2148dc1b",
+        "word": "batter",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈbætə(r)/",
+            "us": "/ˈbætər/"
+        },
+        "nearby": [
+            {
+                "word": "batten on",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "batter",
+                "pos": "verb"
+            },
+            {
+                "word": "batter",
+                "pos": "noun"
+            },
+            {
+                "word": "batter down",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "battered",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a mixture of eggs, milk and flour used in cooking to cover food such as fish or chicken before you fry it, or to make pancakes",
+                    "vi": "hỗn hợp trứng, sữa và bột mì dùng trong nấu ăn để phủ lên thực phẩm như cá hoặc gà trước khi bạn chiên hoặc để làm bánh kếp"
+                },
+                "examples": [
+                    {
+                        "en": "fish in batter",
+                        "vi": "cá trong bột"
+                    },
+                    {
+                        "en": "scallops fried in batter",
+                        "vi": "sò điệp chiên bột"
+                    },
+                    {
+                        "en": "I started mixing the batter for the pancakes.",
+                        "vi": "Tôi bắt đầu trộn bột cho bánh kếp."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a mixture of eggs, milk, flour, etc. used for making cakes",
+                    "vi": "hỗn hợp trứng, sữa, bột mì, ... dùng để làm bánh"
+                },
+                "examples": [
+                    {
+                        "en": "Pour the batter into a prepared pan.",
+                        "vi": "Đổ bột vào chảo đã chuẩn bị."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the player who is hitting the ball",
+                    "vi": "cầu thủ đang đánh bóng"
+                },
+                "examples": [
+                    {
+                        "en": "Rivera faced seven batters and retired six.",
+                        "vi": "Rivera phải đối mặt với bảy người đánh bại và rút lui sáu."
+                    },
+                    {
+                        "en": "I heard the fans groan as the batter hit a grand slam.",
+                        "vi": "Tôi nghe thấy những người hâm mộ rên rỉ khi người đánh bóng trúng một cú đánh lớn."
+                    },
+                    {
+                        "en": "The first batter struck out.",
+                        "vi": "Người đánh đầu tiên đánh ra."
+                    },
+                    {
+                        "en": "Jimmy struck out the first batter with ease.",
+                        "vi": "Jimmy đánh bại người đánh đầu tiên một cách dễ dàng."
+                    },
+                    {
+                        "en": "He has walked just eight batters all year.",
+                        "vi": "Anh ấy đã đi bộ tám gậy cả năm."
+                    },
+                    {
+                        "en": "Opposing batters are fooled by Madsen's delivery.",
+                        "vi": "Những người đánh đối thủ bị đánh lừa bởi sự giao hàng của Madsen."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "d0556fe9b60f4bf6ab3d22e1647cedb2",
+        "word": "first base",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌfɜːst ˈbeɪs/",
+            "us": "/ˌfɜːrst ˈbeɪs/"
+        },
+        "nearby": [
+            {
+                "word": "the First Amendment",
+                "pos": "noun"
+            },
+            {
+                "word": "first balcony",
+                "pos": "noun"
+            },
+            {
+                "word": "first base",
+                "pos": "noun"
+            },
+            {
+                "word": "first blood",
+                "pos": "noun"
+            },
+            {
+                "word": "firstborn",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the first of the four positions that players must reach in order to score points; the position of the player on the defending team near first base",
+                    "vi": "vị trí đầu tiên trong bốn vị trí mà người chơi phải đạt được để ghi điểm; vị trí của người chơi trong đội phòng thủ gần căn cứ đầu tiên"
+                },
+                "examples": [
+                    {
+                        "en": "He didn't make it past first base.",
+                        "vi": "Anh ấy đã không vượt qua căn cứ đầu tiên."
+                    },
+                    {
+                        "en": "He hasn't played first base yet this season.",
+                        "vi": "Anh ấy chưa chơi trận đầu tiên trong mùa giải này."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the first stage of sexual contact, usually referring to kissing",
+                    "vi": "giai đoạn đầu tiên của quan hệ tình dục, thường đề cập đến nụ hôn"
+                },
+                "examples": [
+                    {
+                        "en": "He had never even got to first base with a girl.",
+                        "vi": "Anh ấy thậm chí chưa bao giờ có cơ sở đầu tiên với một cô gái."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to fail to make a successful start in a project, relationship, etc.; to fail to get through the first stage",
+                    "vi": "thất bại trong việc khởi đầu thành công trong một dự án, mối quan hệ, v.v.; không vượt qua được giai đoạn đầu tiên"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "3bcdfc5e5b374428a155e746fc25ac9a",
+        "word": "second base",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌsekənd ˈbeɪs/",
+            "us": "/ˌsekənd ˈbeɪs/"
+        },
+        "nearby": [
+            {
+                "word": "secondary stress",
+                "pos": "noun"
+            },
+            {
+                "word": "second banana",
+                "pos": "noun"
+            },
+            {
+                "word": "second base",
+                "pos": "noun"
+            },
+            {
+                "word": "second best",
+                "pos": "adjective"
+            },
+            {
+                "word": "second best",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the second of the four positions that players must reach in order to score points; the position of the player on the defending team near second base",
+                    "vi": "vị trí thứ hai trong số bốn vị trí mà người chơi phải đạt được để ghi điểm; vị trí của người chơi trong đội phòng thủ gần căn cứ thứ hai"
+                },
+                "examples": [
+                    {
+                        "en": "He ran around second base.",
+                        "vi": "Anh ta chạy xung quanh căn cứ thứ hai."
+                    },
+                    {
+                        "en": "Johnson has primarily played second base over the course of his career.",
+                        "vi": "Johnson chủ yếu chơi cơ bản thứ hai trong suốt sự nghiệp của mình."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "82fa20cd12ee4e228de2410383de77d3",
+        "word": "strike",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/straɪk/",
+            "us": "/straɪk/"
+        },
+        "nearby": [
+            {
+                "word": "strife",
+                "pos": "noun"
+            },
+            {
+                "word": "strike",
+                "pos": "verb"
+            },
+            {
+                "word": "strike",
+                "pos": "noun"
+            },
+            {
+                "word": "strike at",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "strike back",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a period of time when an organized group of employees of a company stops working because of an argument over pay or conditions",
+                    "vi": "khoảng thời gian khi một nhóm nhân viên có tổ chức của một công ty ngừng hoạt động vì tranh cãi về tiền lương hoặc các điều kiện"
+                },
+                "examples": [
+                    {
+                        "en": "the miners'/firefighters'/teachers' strike",
+                        "vi": "cuộc đình công của thợ mỏ '/ lính cứu hỏa' / giáo viên"
+                    },
+                    {
+                        "en": "a strike by teachers",
+                        "vi": "một cuộc đình công của giáo viên"
+                    },
+                    {
+                        "en": "a one-day strike",
+                        "vi": "một cuộc đình công một ngày"
+                    },
+                    {
+                        "en": "an unofficial strike",
+                        "vi": "một cuộc đình công không chính thức"
+                    },
+                    {
+                        "en": "Union leaders called a strike.",
+                        "vi": "Các nhà lãnh đạo công đoàn đã kêu gọi một cuộc đình công."
+                    },
+                    {
+                        "en": "Air traffic controllers are threatening to go on strike.",
+                        "vi": "Kiểm soát viên không lưu đe dọa đình công."
+                    },
+                    {
+                        "en": "Half the workforce are now (out) on strike.",
+                        "vi": "Một nửa lực lượng lao động hiện đang đình công."
+                    },
+                    {
+                        "en": "to come out on strike",
+                        "vi": "đi ra đình công"
+                    },
+                    {
+                        "en": "The train drivers have voted to take strike action.",
+                        "vi": "Các lái tàu đã bỏ phiếu để thực hiện hành động đình công."
+                    },
+                    {
+                        "en": "The student union has called for a rent strike (= a refusal to pay rent as a protest).",
+                        "vi": "Hội sinh viên đã kêu gọi đình công thuê nhà (= phản đối việc từ chối trả tiền thuê nhà)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a military attack, especially by aircraft dropping bombs",
+                    "vi": "một cuộc tấn công quân sự, đặc biệt là bằng cách máy bay thả bom"
+                },
+                "examples": [
+                    {
+                        "en": "They decided to launch a pre-emptive strike.",
+                        "vi": "Họ quyết định tung đòn phủ đầu."
+                    },
+                    {
+                        "en": "strike against somebody/something Diplomatic efforts have averted a military strike against the country.",
+                        "vi": "đình công chống lại ai đó / cái gì đó Các nỗ lực ngoại giao đã ngăn chặn một cuộc tấn công quân sự chống lại đất nước."
+                    },
+                    {
+                        "en": "The President ordered missile strikes against them in retaliation for the earlier bombing.",
+                        "vi": "Tổng thống đã ra lệnh tấn công tên lửa nhằm vào họ để trả đũa vụ đánh bom trước đó."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an act of hitting or kicking something/somebody",
+                    "vi": "một hành động đánh hoặc đá một cái gì đó / ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "His spectacular strike in the second half made the score 2–0.",
+                        "vi": "Pha lập công đẹp mắt của anh ấy trong hiệp hai đã nâng tỷ số lên 2–0."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an unsuccessful attempt to hit the ball",
+                    "vi": "một nỗ lực không thành công để đánh bóng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a situation in tenpin bowling when a player knocks down all the pins with the first ball",
+                    "vi": "một tình huống trong trò chơi bowling tenpin khi một người chơi đánh sập tất cả các chốt bằng quả bóng đầu tiên"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a sudden discovery of something valuable, especially oil",
+                    "vi": "một khám phá bất ngờ về thứ gì đó có giá trị, đặc biệt là dầu"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a bad thing or action that damages somebody/something’s reputation",
+                    "vi": "một điều tồi tệ hoặc hành động làm tổn hại đến danh tiếng của ai đó / điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "The amount of fuel that this car uses is a big strike against it.",
+                        "vi": "Số lượng nhiên liệu mà chiếc xe này sử dụng là một cuộc tấn công lớn chống lại nó."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to describe a law that says that people who commit three crimes will go straight to prison",
+                    "vi": "được sử dụng để mô tả một điều luật nói rằng những người phạm ba tội sẽ đi thẳng vào nhà tù"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "8ddd466564f841d3bb87d4d119ff44ef",
+        "word": "third base",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌθɜːd ˈbeɪs/",
+            "us": "/ˌθɜːrd ˈbeɪs/"
+        },
+        "nearby": [
+            {
+                "word": "third",
+                "pos": "noun"
+            },
+            {
+                "word": "the third age",
+                "pos": "noun"
+            },
+            {
+                "word": "third base",
+                "pos": "noun"
+            },
+            {
+                "word": "third class",
+                "pos": "noun"
+            },
+            {
+                "word": "third class",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the third of the four positions that players must reach in order to score points; the position of the player on the defending team near third base",
+                    "vi": "vị trí thứ ba trong số bốn vị trí mà người chơi phải đạt được để ghi điểm; vị trí của người chơi trong đội phòng thủ gần căn cứ thứ ba"
+                },
+                "examples": [
+                    {
+                        "en": "The runner was called out when he took his foot off third base.",
+                        "vi": "Người chạy được xướng tên khi anh ta rời chân khỏi đế thứ ba."
+                    },
+                    {
+                        "en": "The team isn't certain what it will do about third base.",
+                        "vi": "Nhóm nghiên cứu không chắc chắn họ sẽ làm gì ở căn cứ thứ ba."
+                    },
+                    {
+                        "en": "As a kid, I couldn't wait to grow up and play third base for the Brooklyn Dodgers.",
+                        "vi": "Khi còn là một đứa trẻ, tôi nóng lòng muốn lớn lên và chơi ở cơ sở thứ ba cho đội Brooklyn Dodgers."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "dbcffd2cd1c24ee19f313514722374d6",
+        "word": "at-bat",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ət ˈbæt/",
+            "us": "/ət ˈbæt/"
+        },
+        "nearby": [
+            {
+                "word": "ataxia",
+                "pos": "noun"
+            },
+            {
+                "word": "ataxic",
+                "pos": "adjective"
+            },
+            {
+                "word": "at-bat",
+                "pos": "noun"
+            },
+            {
+                "word": "ate",
+                "pos": "verb"
+            },
+            {
+                "word": "-ate",
+                "pos": "suffix"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an occasion when a player is trying to hit the ball with a bat",
+                    "vi": "một dịp khi một cầu thủ đang cố gắng đánh bóng bằng gậy"
+                },
+                "examples": [
+                    {
+                        "en": "Who had the most at-bats last season?",
+                        "vi": "Ai là người có nhiều dơi nhất trong mùa giải trước?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3e924eb5313543329187b059c384d501",
+        "word": "at bat",
+        "pos": "idiom",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/bæt/",
+            "us": "/bæt/"
+        },
+        "nearby": [
+            {
+                "word": "basting brush",
+                "pos": "noun"
+            },
+            {
+                "word": "bastion",
+                "pos": "noun"
+            },
+            {
+                "word": "bat",
+                "pos": "noun"
+            },
+            {
+                "word": "bat",
+                "pos": "verb"
+            },
+            {
+                "word": "BAT",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a piece of wood with a handle, made in various shapes and sizes, and used for hitting the ball in games such as baseball, cricket and table tennis",
+                    "vi": "một miếng gỗ có tay cầm, được làm với nhiều hình dạng và kích thước khác nhau và được sử dụng để đánh bóng trong các trò chơi như bóng chày, cricket và bóng bàn"
+                },
+                "examples": [
+                    {
+                        "en": "a baseball/cricket bat",
+                        "vi": "một cây gậy bóng chày / cricket"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an animal like a mouse with wings that flies and feeds at night (= it is nocturnal). There are many types of bat.",
+                    "vi": "một con vật như chuột có cánh bay kiếm ăn vào ban đêm (= nó sống về đêm). Có nhiều loại dơi."
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "trying to hit the ball with a bat",
+                    "vi": "cố gắng đánh bóng bằng gậy"
+                },
+                "examples": [
+                    {
+                        "en": "It's his first time at bat in the major leagues.",
+                        "vi": "Đây là lần đầu tiên anh ấy khoác áo các giải đấu lớn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "not able to see well",
+                    "vi": "không thể nhìn rõ"
+                },
+                "examples": [
+                    {
+                        "en": "She’s as blind as a bat without her glasses.",
+                        "vi": "Cô ấy mù như một con dơi mà không có kính."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "very fast",
+                    "vi": "rất nhanh"
+                },
+                "examples": [
+                    {
+                        "en": "She was driving like a bat out of hell.",
+                        "vi": "Cô ấy đang lái xe như một con dơi ra khỏi địa ngục."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if you do something off your own bat, it is your own idea and you do it without help or support from anyone else",
+                    "vi": "nếu bạn làm điều gì đó ngoài ý muốn của riêng bạn, đó là ý tưởng của riêng bạn và bạn làm điều đó mà không cần sự giúp đỡ hoặc hỗ trợ từ bất kỳ ai khác"
+                },
+                "examples": [
+                    {
+                        "en": "She made the suggestions entirely off her own bat.",
+                        "vi": "Cô ấy đã đưa ra những đề xuất hoàn toàn từ con dơi của chính mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "immediately; without delay",
+                    "vi": "ngay lập tức; không chậm trễ"
+                },
+                "examples": [
+                    {
+                        "en": "We both liked each other right off the bat.",
+                        "vi": "Cả hai chúng tôi đều thích nhau ngay từ đầu."
+                    },
+                    {
+                        "en": "Foreign aid is one of the issues we have to deal with right off the bat.",
+                        "vi": "Viện trợ nước ngoài là một trong những vấn đề chúng ta phải giải quyết ngay từ đầu."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "762179eddbb24d57a5f57a66c0282d70",
+        "word": "backstop",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbækstɒp/",
+            "us": "/ˈbækstɑːp/"
+        },
+        "nearby": [
+            {
+                "word": "backstairs",
+                "pos": "adjective"
+            },
+            {
+                "word": "backstitch",
+                "pos": "noun"
+            },
+            {
+                "word": "backstop",
+                "pos": "noun"
+            },
+            {
+                "word": "backstory",
+                "pos": "noun"
+            },
+            {
+                "word": "backstreet",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a fence or screen used to stop balls from going outside the playing area",
+                    "vi": "hàng rào hoặc màn chắn được sử dụng để ngăn các quả bóng đi ra ngoài khu vực chơi"
+                },
+                "examples": [
+                    {
+                        "en": "Some of his pitches hit the backstop.",
+                        "vi": "Một số cú ném của anh ấy đã đi vào khung thành."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the player who stands behind the person who is batting and catches the ball if that person does not hit it",
+                    "vi": "đấu thủ đứng sau người đang đánh bóng và bắt bóng nếu người đó không đánh bóng."
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "something that is done or prepared in advance in order to prevent worse problems if something goes wrong",
+                    "vi": "một cái gì đó đã được thực hiện hoặc chuẩn bị trước để ngăn chặn các vấn đề tồi tệ hơn nếu có sự cố"
+                },
+                "examples": [
+                    {
+                        "en": "The country needs a financial backstop to deal with bank failures.",
+                        "vi": "Đất nước cần một hậu thuẫn tài chính để đối phó với những thất bại của ngân hàng."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "431cf5ce131843a68102ffd244f600b2",
+        "word": "ballplayer",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbɔːlpleɪə(r)/",
+            "us": "/ˈbɔːlpleɪər/"
+        },
+        "nearby": [
+            {
+                "word": "ballot paper",
+                "pos": "noun"
+            },
+            {
+                "word": "ballpark",
+                "pos": "noun"
+            },
+            {
+                "word": "ballplayer",
+                "pos": "noun"
+            },
+            {
+                "word": "ballpoint",
+                "pos": "noun"
+            },
+            {
+                "word": "ballroom",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who plays baseball, especially a professional",
+                    "vi": "một người chơi bóng chày, đặc biệt là một người chuyên nghiệp"
+                },
+                "examples": [
+                    {
+                        "en": "major-league ballplayers",
+                        "vi": "vận động viên chơi bóng của giải đấu lớn"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "44838041343b4cfe86b71dd01ecbf6fa",
+        "word": "baseman",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbeɪsmən/",
+            "us": "/ˈbeɪsmən/"
+        },
+        "nearby": [
+            {
+                "word": "baseline",
+                "pos": "noun"
+            },
+            {
+                "word": "basely",
+                "pos": "adverb"
+            },
+            {
+                "word": "baseman",
+                "pos": "noun"
+            },
+            {
+                "word": "basement",
+                "pos": "noun"
+            },
+            {
+                "word": "base metal",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a player who defends first, second or third base",
+                    "vi": "một người chơi bảo vệ căn cứ thứ nhất, thứ hai hoặc thứ ba"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "3f110e82df144a57a71f7ce76c86f197",
+        "word": "batboy",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbætbɔɪ/",
+            "us": "/ˈbætbɔɪ/"
+        },
+        "nearby": [
+            {
+                "word": "BAT",
+                "pos": ""
+            },
+            {
+                "word": "bat around",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "batboy",
+                "pos": "noun"
+            },
+            {
+                "word": "batch",
+                "pos": "noun"
+            },
+            {
+                "word": "batch",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a boy who is employed by a baseball team to take care of their bats and other equipment",
+                    "vi": "một cậu bé được đội bóng chày thuê để chăm sóc những cây vợt của họ và các thiết bị khác"
+                },
+                "examples": [
+                    {
+                        "en": "McGough's story about his first day as a Yankee batboy is timeless.",
+                        "vi": "Câu chuyện của McGough về ngày đầu tiên của anh ấy là một người dơi Yankee là vượt thời gian."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7682afc447394f98be3e7510c4e2b90a",
+        "word": "batgirl",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbætɡɜːl/",
+            "us": "/ˈbætɡɜːrl/"
+        },
+        "nearby": [
+            {
+                "word": "H E Bates",
+                "pos": ""
+            },
+            {
+                "word": "Norman Bates",
+                "pos": ""
+            },
+            {
+                "word": "batgirl",
+                "pos": "noun"
+            },
+            {
+                "word": "bath",
+                "pos": "noun"
+            },
+            {
+                "word": "bath",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a girl who is employed by a baseball team to take care of their bats and other equipment",
+                    "vi": "một cô gái được đội bóng chày thuê để chăm sóc những cây vợt của họ và các thiết bị khác"
+                },
+                "examples": [
+                    {
+                        "en": "His team always invites a local child to serve as batboy or batgirl.",
+                        "vi": "Đội của anh ấy luôn mời một đứa trẻ địa phương làm batboy hoặc batgirl."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c2eb13e3b4b84e7e89dfd7573bc84a54",
+        "word": "big league",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbɪɡ liːɡ/",
+            "us": "/ˈbɪɡ liːɡ/"
+        },
+        "nearby": [
+            {
+                "word": "bight",
+                "pos": "noun"
+            },
+            {
+                "word": "The Big Issue",
+                "pos": ""
+            },
+            {
+                "word": "big league",
+                "pos": "noun"
+            },
+            {
+                "word": "big-league",
+                "pos": "adjective"
+            },
+            {
+                "word": "Big Mac",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a group of teams in a professional sport, especially baseball, that play at the highest level",
+                    "vi": "một nhóm các đội trong một môn thể thao chuyên nghiệp, đặc biệt là bóng chày, chơi ở cấp độ cao nhất"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a very successful and important group",
+                    "vi": "một nhóm rất thành công và quan trọng"
+                },
+                "examples": [
+                    {
+                        "en": "Over the past year, the company has joined the big league.",
+                        "vi": "Trong năm qua, công ty đã tham gia giải đấu lớn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "440c076174ef4dd0a4a81089722dd681",
+        "word": "box score",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbɒks skɔː(r)/",
+            "us": "/ˈbɑːks skɔːr/"
+        },
+        "nearby": [
+            {
+                "word": "box office",
+                "pos": "noun"
+            },
+            {
+                "word": "box room",
+                "pos": "noun"
+            },
+            {
+                "word": "box score",
+                "pos": "noun"
+            },
+            {
+                "word": "box seat",
+                "pos": "noun"
+            },
+            {
+                "word": "box set",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the results of a baseball game or other sporting event shown in the form of rows and columns which include details of each player’s performance",
+                    "vi": "kết quả của một trận đấu bóng chày hoặc sự kiện thể thao khác được hiển thị dưới dạng hàng và cột bao gồm chi tiết về màn trình diễn của mỗi người chơi"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "56f2d14efb5c479eabc5ab1bc7214a43",
+        "word": "brushback",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbrʌʃbæk/",
+            "us": "/ˈbrʌʃbæk/"
+        },
+        "nearby": [
+            {
+                "word": "brush",
+                "pos": "noun"
+            },
+            {
+                "word": "brush aside",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "brushback",
+                "pos": "noun"
+            },
+            {
+                "word": "brush down",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "brush off",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a fast pitch (= throw) that is aimed close to the batter's body so they have to step back to avoid it",
+                    "vi": "cú ném nhanh (= ném) nhắm gần cơ thể của người đánh bóng để họ phải lùi lại để tránh"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "e0d1b0026a3949269cd46df3c6f8cef5",
+        "word": "bullpen",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbʊlpen/",
+            "us": "/ˈbʊlpen/"
+        },
+        "nearby": [
+            {
+                "word": "bull mastiff",
+                "pos": "noun"
+            },
+            {
+                "word": "bullock",
+                "pos": "noun"
+            },
+            {
+                "word": "bullpen",
+                "pos": "noun"
+            },
+            {
+                "word": "bullring",
+                "pos": "noun"
+            },
+            {
+                "word": "the Bull Ring",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the part of a baseball field where players practise pitching (= throwing) before the game",
+                    "vi": "phần sân bóng chày nơi các cầu thủ thực hành ném bóng (= ném) trước trận đấu"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "extra pitchers (= players who throw the ball) in a baseball team who are used, if necessary, to replace the usual pitchers",
+                    "vi": "những người ném bóng phụ (= những người chơi ném bóng) trong một đội bóng chày được sử dụng, nếu cần, để thay thế những người ném bóng thông thường"
+                },
+                "examples": [
+                    {
+                        "en": "The team's bullpen is solid this year.",
+                        "vi": "Năm nay, thành tích tăng trưởng của đội rất vững chắc."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a type of large office which is open-plan (= it does not have walls dividing the office area)",
+                    "vi": "một loại văn phòng lớn được thiết kế mở (= không có tường ngăn khu vực văn phòng)"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a room where prisoners wait before they go into the court for their trial",
+                    "vi": "một căn phòng nơi các tù nhân chờ đợi trước khi họ vào tòa án để xét xử"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "c8c79443a02c4d0584d1c4865d35e64f",
+        "word": "bunt",
+        "pos": "verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/bʌnt/",
+            "us": "/bʌnt/"
+        },
+        "nearby": [
+            {
+                "word": "bunny slope",
+                "pos": "noun"
+            },
+            {
+                "word": "Bunsen burner",
+                "pos": "noun"
+            },
+            {
+                "word": "bunt",
+                "pos": "verb"
+            },
+            {
+                "word": "bunt",
+                "pos": "noun"
+            },
+            {
+                "word": "Billy Bunter",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to deliberately hit the ball only a short distance",
+                    "vi": "cố tình đánh bóng chỉ một khoảng cách ngắn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "39412cae665b436fb9fe896ba020dda1",
+        "word": "centre field",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌsentə ˈfiːld/",
+            "us": "/ˌsentər ˈfiːld/"
+        },
+        "nearby": [
+            {
+                "word": "centreboard",
+                "pos": "noun"
+            },
+            {
+                "word": "centred",
+                "pos": "adjective"
+            },
+            {
+                "word": "centre field",
+                "pos": "noun"
+            },
+            {
+                "word": "centrefold",
+                "pos": "noun"
+            },
+            {
+                "word": "centre forward",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the central part of the outer area of a baseball field, where one player (called the centre fielder) stands to catch balls that are hit in that area; the position of this player",
+                    "vi": "phần trung tâm của khu vực bên ngoài của một sân bóng chày, nơi một cầu thủ (được gọi là người đánh bóng ở giữa) đứng để đón những quả bóng được đánh vào khu vực đó; vị trí của người chơi này"
+                },
+                "examples": [
+                    {
+                        "en": "Davis will play center field and bat ninth.",
+                        "vi": "Davis sẽ chơi sân trung tâm và dơi thứ chín."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9ade3e11533641c9ab99292864c70cb8",
+        "word": "curve",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/kɜːv/",
+            "us": "/kɜːrv/"
+        },
+        "nearby": [
+            {
+                "word": "curvaceous",
+                "pos": "adjective"
+            },
+            {
+                "word": "curvature",
+                "pos": "noun"
+            },
+            {
+                "word": "curve",
+                "pos": "noun"
+            },
+            {
+                "word": "curve",
+                "pos": "verb"
+            },
+            {
+                "word": "curveball",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a line or surface that bends gradually; a smooth bend",
+                    "vi": "một đường hoặc bề mặt uốn cong dần dần; một khúc quanh mềm mại"
+                },
+                "examples": [
+                    {
+                        "en": "curve of something He admired the delicate curve of her ear.",
+                        "vi": "đường cong của một cái gì đó Anh chiêm ngưỡng đường cong thanh tú của tai cô."
+                    },
+                    {
+                        "en": "The pattern was made up of straight lines and curves.",
+                        "vi": "Mô hình được tạo thành từ các đường thẳng và đường cong."
+                    },
+                    {
+                        "en": "curve in something (especially North American English) a curve in the road",
+                        "vi": "đường cong ở một thứ gì đó (đặc biệt là tiếng Anh ở Bắc Mỹ) một đường cong trên đường"
+                    },
+                    {
+                        "en": "on a curve (especially North American English) The driver lost control on a curve and the vehicle hit a tree.",
+                        "vi": "trên một khúc cua (đặc biệt là tiếng Anh Bắc Mỹ) Người lái xe bị mất lái trên khúc cua và chiếc xe đâm vào một cái cây."
+                    },
+                    {
+                        "en": "The program automatically plots the curve on a graph.",
+                        "vi": "Chương trình tự động vẽ đường cong trên đồ thị."
+                    },
+                    {
+                        "en": "This figure shows the population curve for the last hundred years.",
+                        "vi": "Hình này cho thấy đường cong dân số trong một trăm năm qua."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a ball that moves in a curve when it is thrown to the batter",
+                    "vi": "một quả bóng chuyển động theo đường cong khi nó được ném cho người đánh bóng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "something that is unexpected and difficult to deal with",
+                    "vi": "một cái gì đó bất ngờ và khó giải quyết"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "curving shapes that form part of a woman's body",
+                    "vi": "hình dạng uốn lượn tạo thành một phần cơ thể của phụ nữ"
+                },
+                "examples": [
+                    {
+                        "en": "The supermodel showed off her famous curves in a figure-hugging red dress.",
+                        "vi": "Siêu mẫu khoe đường cong trứ danh trong bộ đầm đỏ ôm sát tôn dáng."
+                    },
+                    {
+                        "en": "The evening dress hugged her curves beautifully.",
+                        "vi": "Chiếc váy dạ hội ôm sát tôn đường cong của cô."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "in advance of or behind a particular trend",
+                    "vi": "trước hoặc sau một xu hướng cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "Our expert advice will help you stay ahead of the curve.",
+                        "vi": "Lời khuyên từ chuyên gia của chúng tôi sẽ giúp bạn đi trước đường cong."
+                    },
+                    {
+                        "en": "We've fallen behind the curve when it comes to developing new digital products.",
+                        "vi": "Chúng tôi đã tụt lại phía sau khi phát triển các sản phẩm kỹ thuật số mới."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to manage the rate or quantity of something so that it does not increase too much within a short period of time",
+                    "vi": "để quản lý tỷ lệ hoặc số lượng của một thứ gì đó để nó không tăng quá nhiều trong một khoảng thời gian ngắn"
+                },
+                "examples": [
+                    {
+                        "en": "These measures are intended to flatten the curve of new infections in order to reduce the load on hospitals.",
+                        "vi": "Các biện pháp này nhằm làm phẳng đường cong của các ca nhiễm mới nhằm giảm tải cho các bệnh viện."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a66e99a7832a4da8af2d28e334ce59a5",
+        "word": "daisy-cutter",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈdeɪzi kʌtə(r)/",
+            "us": "/ˈdeɪzi kʌtər/"
+        },
+        "nearby": [
+            {
+                "word": "Daisy",
+                "pos": ""
+            },
+            {
+                "word": "daisy chain",
+                "pos": "noun"
+            },
+            {
+                "word": "daisy-cutter",
+                "pos": "noun"
+            },
+            {
+                "word": "daisy wheel",
+                "pos": "noun"
+            },
+            {
+                "word": "Dakota",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a very powerful bomb dropped from an aircraft that explodes close to the ground and destroys buildings and structures over a large area",
+                    "vi": "một quả bom rất mạnh được thả từ một chiếc máy bay phát nổ gần mặt đất và phá hủy các tòa nhà và công trình trên một khu vực rộng lớn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a ball hit or thrown to roll or bounce low along the ground",
+                    "vi": "một quả bóng được đánh hoặc ném để lăn hoặc nảy xuống thấp dọc theo mặt đất"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "b27837fca3ee4f77acc5dcd86882db67",
+        "word": "diamond",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈdaɪmənd/",
+            "us": "/ˈdaɪmənd/"
+        },
+        "nearby": [
+            {
+                "word": "diametrical",
+                "pos": "adjective"
+            },
+            {
+                "word": "diametrically",
+                "pos": "adverb"
+            },
+            {
+                "word": "diamond",
+                "pos": "noun"
+            },
+            {
+                "word": "Jack 'Legs' Diamond",
+                "pos": ""
+            },
+            {
+                "word": "the Diamond Challenge Sculls",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a clear precious stone of pure carbon, the hardest substance known. Diamonds are used in jewellery and also in industry, especially for cutting glass.",
+                    "vi": "một loại đá quý trong suốt của cacbon tinh khiết, chất cứng nhất được biết đến. Kim cương được sử dụng trong đồ trang sức và cả trong công nghiệp, đặc biệt là để cắt thủy tinh."
+                },
+                "examples": [
+                    {
+                        "en": "a diamond ring/necklace",
+                        "vi": "một chiếc nhẫn / vòng cổ kim cương"
+                    },
+                    {
+                        "en": "She was wearing her diamonds (= jewellery with diamonds in it).",
+                        "vi": "Cô ấy đang đeo những viên kim cương của mình (= đồ trang sức có đính kim cương)."
+                    },
+                    {
+                        "en": "a six carat diamond",
+                        "vi": "một viên kim cương sáu carat"
+                    },
+                    {
+                        "en": "a diamond mine",
+                        "vi": "mỏ kim cương"
+                    },
+                    {
+                        "en": "The lights shone like diamonds.",
+                        "vi": "Những ánh sáng lấp lánh như những viên kim cương."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a shape with four straight sides of equal length and with angles that are not right angles",
+                    "vi": "một hình có bốn cạnh thẳng có độ dài bằng nhau và các góc không phải là góc vuông"
+                },
+                "examples": [
+                    {
+                        "en": "a sweater with a diamond pattern",
+                        "vi": "áo len có họa tiết kim cương"
+                    },
+                    {
+                        "en": "The eight vehicles assumed a diamond formation.",
+                        "vi": "Tám chiếc xe giả định một hình kim cương."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "one of the four suits (= sets) in a pack of cards. The cards are marked with red diamond shapes.",
+                    "vi": "một trong bốn bộ (= bộ) trong một gói thẻ. Các thẻ được đánh dấu bằng hình kim cương màu đỏ."
+                },
+                "examples": [
+                    {
+                        "en": "the ten of diamonds",
+                        "vi": "mười viên kim cương"
+                    },
+                    {
+                        "en": "Diamonds are/is trumps.",
+                        "vi": "Kim cương là / là át chủ bài."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "one card from the suit called diamonds",
+                    "vi": "một thẻ từ bộ đồ được gọi là kim cương"
+                },
+                "examples": [
+                    {
+                        "en": "You must play a diamond if you have one.",
+                        "vi": "Bạn phải chơi một viên kim cương nếu bạn có một viên."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the space inside the lines that connect the four bases; also used to mean the whole baseball field",
+                    "vi": "không gian bên trong các đường kết nối bốn cơ sở; cũng được sử dụng để có nghĩa là toàn bộ sân bóng chày"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "1cf60ce28e3a4cdaaa9d8c8982d1d5f8",
+        "word": "double play",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌdʌbl ˈpleɪ/",
+            "us": "/ˌdʌbl ˈpleɪ/"
+        },
+        "nearby": [
+            {
+                "word": "double over",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "double-park",
+                "pos": "verb"
+            },
+            {
+                "word": "double play",
+                "pos": "noun"
+            },
+            {
+                "word": "double precision",
+                "pos": "noun"
+            },
+            {
+                "word": "double quick",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a situation in which two players are put out (= made to finish their attempt at scoring a run)",
+                    "vi": "một tình huống trong đó hai người chơi bị loại (= được thực hiện để kết thúc nỗ lực ghi bàn của họ)"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "780874e69cd242ba9bd5d8d10025a4b7",
+        "word": "farm team",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈfɑːm tiːm/",
+            "us": "/ˈfɑːrm tiːm/"
+        },
+        "nearby": [
+            {
+                "word": "farm shop",
+                "pos": "noun"
+            },
+            {
+                "word": "farmstead",
+                "pos": "noun"
+            },
+            {
+                "word": "farm team",
+                "pos": "noun"
+            },
+            {
+                "word": "farmyard",
+                "pos": "noun"
+            },
+            {
+                "word": "the Farnborough Air Show",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a minor-league team, especially in baseball, that provides players to a particular major-league team",
+                    "vi": "một đội bóng hạng nhỏ, đặc biệt là trong bóng chày, cung cấp người chơi cho một đội bóng hạng lớn cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "We watched a minor league game between farm teams for the Cardinals and Blue Jays.",
+                        "vi": "Chúng tôi đã xem một trận đấu nhỏ giữa các đội nông trại cho Cardinals và Blue Jays."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "547c0fcbf18c4df2b5d1a168157ea64d",
+        "word": "fireballer",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈfaɪəbɔːlə(r)/",
+            "us": "/ˈfaɪərbɔːlər/"
+        },
+        "nearby": [
+            {
+                "word": "fire away",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "fireball",
+                "pos": "noun"
+            },
+            {
+                "word": "fireballer",
+                "pos": "noun"
+            },
+            {
+                "word": "firebomb",
+                "pos": "noun"
+            },
+            {
+                "word": "firebomb",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a pitcher who throws the ball very fast",
+                    "vi": "một người ném bóng ném rất nhanh"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "03e23698110148119b9a8d23a42da56d",
+        "word": "fly ball",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈflaɪ bɔːl/",
+            "us": "/ˈflaɪ bɔːl/"
+        },
+        "nearby": [
+            {
+                "word": "fly at",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "flyaway",
+                "pos": "adjective"
+            },
+            {
+                "word": "fly ball",
+                "pos": "noun"
+            },
+            {
+                "word": "flyblown",
+                "pos": "adjective"
+            },
+            {
+                "word": "fly boy",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a ball that is hit high into the air",
+                    "vi": "một quả bóng được đánh lên cao vào không trung"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "f2e4b6256750470cbc44fddb5e2b1e89",
+        "word": "force-out",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈfɔːs aʊt/",
+            "us": "/ˈfɔːrs aʊt/"
+        },
+        "nearby": [
+            {
+                "word": "forcemeat",
+                "pos": "noun"
+            },
+            {
+                "word": "force on",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "force-out",
+                "pos": "noun"
+            },
+            {
+                "word": "force out of",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "force play",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a situation in which a player running to a base is out (= their turn at bat is over) because a fielder is holding the ball at the base",
+                    "vi": "tình huống trong đó một cầu thủ chạy đến căn cứ bị hết (= hết lượt đánh gậy của họ) vì một tay đấm đang giữ bóng ở căn cứ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "48d4ed4b32cf43b68f5c45091535d588",
+        "word": "force play",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈfɔːs pleɪ/",
+            "us": "/ˈfɔːrs pleɪ/"
+        },
+        "nearby": [
+            {
+                "word": "force-out",
+                "pos": "noun"
+            },
+            {
+                "word": "force out of",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "force play",
+                "pos": "noun"
+            },
+            {
+                "word": "forceps",
+                "pos": "noun"
+            },
+            {
+                "word": "force upon",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a situation in which a player is forced to run to the next base and is out because the batter is running towards the previous base. This situation can lead to a force-out.",
+                    "vi": "một tình huống trong đó một người chơi buộc phải chạy đến căn cứ tiếp theo và bị ra ngoài vì người đánh đang chạy về căn cứ trước đó. Tình huống này có thể dẫn đến tình trạng ngừng hoạt động."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "f84c9ee4058b4e068392a0c80594a056",
+        "word": "forkball",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈfɔːkbɔːl/",
+            "us": "/ˈfɔːrkbɔːl/"
+        },
+        "nearby": [
+            {
+                "word": "fork",
+                "pos": "noun"
+            },
+            {
+                "word": "fork",
+                "pos": "verb"
+            },
+            {
+                "word": "forkball",
+                "pos": "noun"
+            },
+            {
+                "word": "forked",
+                "pos": "adjective"
+            },
+            {
+                "word": "forked lightning",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a fast pitch thrown from between the middle finger and the index finger",
+                    "vi": "ném nhanh từ giữa ngón giữa và ngón trỏ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "302715c6116349b495cbb4132ef1692d",
+        "word": "foul ball",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈfaʊl bɔːl/",
+            "us": "/ˈfaʊl bɔːl/"
+        },
+        "nearby": [
+            {
+                "word": "foul",
+                "pos": "verb"
+            },
+            {
+                "word": "foul",
+                "pos": "noun"
+            },
+            {
+                "word": "foul ball",
+                "pos": "noun"
+            },
+            {
+                "word": "foul line",
+                "pos": "noun"
+            },
+            {
+                "word": "foully",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a hit that goes outside the allowed area",
+                    "vi": "một cú đánh ra ngoài khu vực cho phép"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "f5edefcbaf584836a1632f499cafa03a",
+        "word": "foul line",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈfaʊl laɪn/",
+            "us": "/ˈfaʊl laɪn/"
+        },
+        "nearby": [
+            {
+                "word": "foul",
+                "pos": "noun"
+            },
+            {
+                "word": "foul ball",
+                "pos": "noun"
+            },
+            {
+                "word": "foul line",
+                "pos": "noun"
+            },
+            {
+                "word": "foully",
+                "pos": "adverb"
+            },
+            {
+                "word": "foul-mouthed",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "either of two lines that show the area inside which the ball must be hit",
+                    "vi": "một trong hai dòng hiển thị khu vực bên trong bóng phải được đánh"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a line from which a player is allowed to try to throw the ball into the basket after a foul",
+                    "vi": "một đường mà từ đó một cầu thủ được phép ném bóng vào rổ sau khi phạm lỗi"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "65b69dc6883645e5a64ac296a5d8c82c",
+        "word": "ground ball",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈɡraʊnd bɔːl/",
+            "us": "/ˈɡraʊnd bɔːl/"
+        },
+        "nearby": [
+            {
+                "word": "ground",
+                "pos": "verb"
+            },
+            {
+                "word": "ground",
+                "pos": "adjective"
+            },
+            {
+                "word": "ground ball",
+                "pos": "noun"
+            },
+            {
+                "word": "ground beef",
+                "pos": "noun"
+            },
+            {
+                "word": "groundbreaking",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a ball that runs along the ground after it has been hit",
+                    "vi": "một quả bóng chạy dọc theo mặt đất sau khi nó được đánh"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "d8c47a44cf8a40e1ab652dfcb530a9de",
+        "word": "grounder",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈɡraʊndə(r)/",
+            "us": "/ˈɡraʊndər/"
+        },
+        "nearby": [
+            {
+                "word": "ground crew",
+                "pos": "noun"
+            },
+            {
+                "word": "grounded",
+                "pos": "adjective"
+            },
+            {
+                "word": "grounder",
+                "pos": "noun"
+            },
+            {
+                "word": "ground floor",
+                "pos": "noun"
+            },
+            {
+                "word": "groundhog",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a ball that runs along the ground after it has been hit",
+                    "vi": "một quả bóng chạy dọc theo mặt đất sau khi nó được đánh"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "6bdb8c30d16c44f98f05c26aab4e7d7c",
+        "word": "groundout",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈɡraʊndaʊt/",
+            "us": "/ˈɡraʊndaʊt/"
+        },
+        "nearby": [
+            {
+                "word": "groundlessly",
+                "pos": "adverb"
+            },
+            {
+                "word": "groundnut",
+                "pos": "noun"
+            },
+            {
+                "word": "groundout",
+                "pos": "noun"
+            },
+            {
+                "word": "ground plan",
+                "pos": "noun"
+            },
+            {
+                "word": "ground rent",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a situation in which a player hits the ball along the ground but a fielder touches first base with it before the player reaches the base",
+                    "vi": "tình huống trong đó một đấu thủ đánh bóng dọc theo mặt đất nhưng một người đánh bóng chạm vào chân trụ đầu tiên với nó trước khi người chơi đến chân"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "2404f81dca994fcabc154e2ef597756b",
+        "word": "hardball",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈhɑːdbɔːl/",
+            "us": "/ˈhɑːrdbɔːl/"
+        },
+        "nearby": [
+            {
+                "word": "hard-ass",
+                "pos": "adjective"
+            },
+            {
+                "word": "hardback",
+                "pos": "noun"
+            },
+            {
+                "word": "hardball",
+                "pos": "noun"
+            },
+            {
+                "word": "hard-bitten",
+                "pos": "adjective"
+            },
+            {
+                "word": "hardboard",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the game of baseball (when contrasted with softball)",
+                    "vi": "trò chơi bóng chày (khi đối chiếu với bóng mềm)"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used to refer to a way of behaving, especially in politics, that shows that a person is determined to get what they want",
+                    "vi": "được sử dụng để chỉ một cách hành xử, đặc biệt là trong chính trị, cho thấy rằng một người quyết tâm đạt được những gì họ muốn"
+                },
+                "examples": [
+                    {
+                        "en": "I want us to play hardball on this issue.",
+                        "vi": "Tôi muốn chúng ta chơi khó về vấn đề này."
+                    },
+                    {
+                        "en": "hardball politics",
+                        "vi": "chính trị cứng rắn"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e79949f05d2241bd98f5e5ae4d927a80",
+        "word": "home plate",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈhəʊm pleɪt/",
+            "us": "/ˈhəʊm pleɪt/"
+        },
+        "nearby": [
+            {
+                "word": "homeowner",
+                "pos": "noun"
+            },
+            {
+                "word": "home page",
+                "pos": "noun"
+            },
+            {
+                "word": "home plate",
+                "pos": "noun"
+            },
+            {
+                "word": "homer",
+                "pos": "noun"
+            },
+            {
+                "word": "Winslow Homer",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the place where the person hitting the ball stands and where they must return to after running around all the bases",
+                    "vi": "nơi mà người đánh bóng đứng và nơi họ phải quay trở lại sau khi chạy xung quanh tất cả các trụ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "4f9522dafe9e441b93b1186fb276aac9",
+        "word": "homer",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈhəʊmə(r)/",
+            "us": "/ˈhəʊmər/"
+        },
+        "nearby": [
+            {
+                "word": "home page",
+                "pos": "noun"
+            },
+            {
+                "word": "home plate",
+                "pos": "noun"
+            },
+            {
+                "word": "homer",
+                "pos": "noun"
+            },
+            {
+                "word": "Winslow Homer",
+                "pos": ""
+            },
+            {
+                "word": "homeroom",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a home run (= a hit that allows the person hitting the ball to run around all the bases without stopping)",
+                    "vi": "một cú đánh về nhà (= một cú đánh cho phép người đánh bóng chạy xung quanh tất cả các trụ mà không dừng lại)"
+                },
+                "examples": [
+                    {
+                        "en": "He hit a homer.",
+                        "vi": "Anh ta đã đánh một cú homer."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "82aafca8336143968196a2b07c47473f",
+        "word": "home run",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌhəʊm ˈrʌn/",
+            "us": "/ˌhəʊm ˈrʌn/"
+        },
+        "nearby": [
+            {
+                "word": "homeroom",
+                "pos": "noun"
+            },
+            {
+                "word": "home rule",
+                "pos": "noun"
+            },
+            {
+                "word": "home run",
+                "pos": "noun"
+            },
+            {
+                "word": "Homes and Gardens",
+                "pos": ""
+            },
+            {
+                "word": "homeschool",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a hit that allows the person hitting the ball to run around all the bases without stopping",
+                    "vi": "một cú đánh cho phép người đánh bóng chạy xung quanh tất cả các cơ sở mà không dừng lại"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "1bb432f3e72f414090c6a61b9493f2ed",
+        "word": "inning",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈɪnɪŋ/",
+            "us": "/ˈɪnɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "innermost",
+                "pos": "adjective"
+            },
+            {
+                "word": "inner tube",
+                "pos": "noun"
+            },
+            {
+                "word": "inning",
+                "pos": "noun"
+            },
+            {
+                "word": "innings",
+                "pos": "noun"
+            },
+            {
+                "word": "innit",
+                "pos": "exclamation"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "one of the nine periods of a game in which each team has a turn at batting",
+                    "vi": "một trong chín giai đoạn của trò chơi trong đó mỗi đội có một lượt đánh bóng"
+                },
+                "examples": [
+                    {
+                        "en": "The Chicago Cubs scored two runs in the first inning.",
+                        "vi": "Chicago Cubs đã ghi được hai lần chạy trong hiệp đầu tiên."
+                    },
+                    {
+                        "en": "The Chicago pitcher, Alvarez, gave up six runs in three innings.",
+                        "vi": "Tay ném bóng ở Chicago, Alvarez, đã bỏ sáu lần chạy trong ba hiệp đấu."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "29b6eb2dae134a99a3036343c7d18020",
+        "word": "kickball",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkɪkbɔːl/",
+            "us": "/ˈkɪkbɔːl/"
+        },
+        "nearby": [
+            {
+                "word": "kick back",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "kickback",
+                "pos": "noun"
+            },
+            {
+                "word": "kickball",
+                "pos": "noun"
+            },
+            {
+                "word": "kick-boxing",
+                "pos": "noun"
+            },
+            {
+                "word": "kick drum",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a game that is based on baseball in which players kick the ball instead of hitting it with a bat",
+                    "vi": "một trò chơi dựa trên bóng chày, trong đó người chơi đá bóng thay vì đánh nó bằng gậy"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "2557f8d6a6a84fb19b2b032abb83b565",
+        "word": "left field",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌleft ˈfiːld/",
+            "us": "/ˌleft ˈfiːld/"
+        },
+        "nearby": [
+            {
+                "word": "the Left Book Club",
+                "pos": ""
+            },
+            {
+                "word": "left brain",
+                "pos": "noun"
+            },
+            {
+                "word": "left field",
+                "pos": "noun"
+            },
+            {
+                "word": "left-field",
+                "pos": "adjective"
+            },
+            {
+                "word": "left-hand",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the left part of the field, or the position played by the person who is there",
+                    "vi": "phần bên trái của sân hoặc vị trí do người ở đó chơi"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "an opinion or a position that is strange or unusual and a long way from the normal position",
+                    "vi": "một ý kiến hoặc một vị trí kỳ lạ hoặc bất thường và một khoảng cách xa so với vị trí bình thường"
+                },
+                "examples": [
+                    {
+                        "en": "The governor is way out/over in left field.",
+                        "vi": "Thống đốc là một lối ra / qua trong lĩnh vực bên trái."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "dac43a08c65d46f28a1200d276a37b5f",
+        "word": "line drive",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈlaɪn draɪv/",
+            "us": "/ˈlaɪn draɪv/"
+        },
+        "nearby": [
+            {
+                "word": "line dancing",
+                "pos": "noun"
+            },
+            {
+                "word": "line drawing",
+                "pos": "noun"
+            },
+            {
+                "word": "line drive",
+                "pos": "noun"
+            },
+            {
+                "word": "line graph",
+                "pos": "noun"
+            },
+            {
+                "word": "line item",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a powerful hit in a straight line near to the ground",
+                    "vi": "một cú đánh mạnh mẽ trên một đường thẳng gần mặt đất"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "f016bf49eb5f4b419ce7f3ad050e1604",
+        "word": "Little League",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈlɪtl liːɡ/",
+            "us": "/ˈlɪtl liːɡ/"
+        },
+        "nearby": [
+            {
+                "word": "Little Jack Horner",
+                "pos": ""
+            },
+            {
+                "word": "Little John",
+                "pos": ""
+            },
+            {
+                "word": "Little League",
+                "pos": "noun"
+            },
+            {
+                "word": "Little Lord Fauntleroy",
+                "pos": ""
+            },
+            {
+                "word": "Little Miss Muffet",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a baseball league for children",
+                    "vi": "một giải đấu bóng chày cho trẻ em"
+                },
+                "examples": [
+                    {
+                        "en": "a baseball field with a Little League game going on",
+                        "vi": "một sân bóng chày với một trò chơi Little League đang diễn ra"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "198c00210b3b43a3b997b761569ee318",
+        "word": "long ball",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈlɒŋ bɔːl/",
+            "us": "/ˈlɔːŋ bɔːl/"
+        },
+        "nearby": [
+            {
+                "word": "long.",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "long-awaited",
+                "pos": "adjective"
+            },
+            {
+                "word": "long ball",
+                "pos": "noun"
+            },
+            {
+                "word": "Long Beach",
+                "pos": ""
+            },
+            {
+                "word": "longboard",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a home run (= a hit that allows the person hitting the ball to run around all the bases without stopping)",
+                    "vi": "một cú đánh về nhà (= một cú đánh cho phép người đánh bóng chạy xung quanh tất cả các trụ mà không dừng lại)"
+                },
+                "examples": [
+                    {
+                        "en": "Adrian Gonzalez smacked his 15th long ball of the season.",
+                        "vi": "Adrian Gonzalez sút xa thứ 15 trong mùa giải."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f1bf01c106d247a6a87ca5b445834a69",
+        "word": "magic number",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌmædʒɪk ˈnʌmbə(r)/",
+            "us": "/ˌmædʒɪk ˈnʌmbər/"
+        },
+        "nearby": [
+            {
+                "word": "Magic Marker",
+                "pos": "noun"
+            },
+            {
+                "word": "magic mushroom",
+                "pos": "noun"
+            },
+            {
+                "word": "magic number",
+                "pos": "noun"
+            },
+            {
+                "word": "magic realism",
+                "pos": "noun"
+            },
+            {
+                "word": "The Magic Roundabout",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a figure that has a special meaning",
+                    "vi": "một con số có một ý nghĩa đặc biệt"
+                },
+                "examples": [
+                    {
+                        "en": "She needs to reach the magic number of 270 votes to win the White House.",
+                        "vi": "Cô ấy cần phải đạt được con số kỳ diệu là 270 phiếu để giành được Nhà Trắng."
+                    },
+                    {
+                        "en": "Eighteen holes isn't a magic number for the average golfer.",
+                        "vi": "Mười tám lỗ không phải là một con số kỳ diệu đối với những người chơi gôn bình thường."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the combined number of wins by the team currently in first place in the league and losses by the team in second place that must be reached for the team in first place to win the title",
+                    "vi": "tổng số trận thắng của đội đang ở vị trí đầu tiên trong giải đấu và số trận thua của đội ở vị trí thứ hai mà đội ở vị trí đầu tiên phải đạt được để giành được danh hiệu"
+                },
+                "examples": [
+                    {
+                        "en": "The Cardinals have won only three of eight, but reduced their magic number for clinching the division to four.",
+                        "vi": "Các Cardinals chỉ thắng được ba trong số tám, nhưng đã giảm số ma thuật của họ khi hạ được sư đoàn xuống còn bốn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "d85fcef2177244c3bcf17f1879dd2f79",
+        "word": "major league",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈmeɪdʒə liːɡ/",
+            "us": "/ˈmeɪdʒər liːɡ/"
+        },
+        "nearby": [
+            {
+                "word": "majority verdict",
+                "pos": "noun"
+            },
+            {
+                "word": "majority whip",
+                "pos": "noun"
+            },
+            {
+                "word": "major league",
+                "pos": "noun"
+            },
+            {
+                "word": "major-league",
+                "pos": "adjective"
+            },
+            {
+                "word": "Major League Baseball",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a league of professional sports teams, especially in baseball, that play at the highest level",
+                    "vi": "liên minh các đội thể thao chuyên nghiệp, đặc biệt là trong môn bóng chày, chơi ở cấp độ cao nhất"
+                },
+                "examples": [
+                    {
+                        "en": "By the time his dream of playing in the Major Leagues came true, he was over 40.",
+                        "vi": "Vào thời điểm ước mơ được chơi ở các giải Major trở thành hiện thực, anh ấy đã hơn 40 tuổi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "66318b03f1c74f1380a3b0a93cd6d16e",
+        "word": "minor league",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈmaɪnə liːɡ/",
+            "us": "/ˈmaɪnər liːɡ/"
+        },
+        "nearby": [
+            {
+                "word": "minority leader",
+                "pos": "noun"
+            },
+            {
+                "word": "minority report",
+                "pos": "noun"
+            },
+            {
+                "word": "minor league",
+                "pos": "noun"
+            },
+            {
+                "word": "minor-league",
+                "pos": "adjective"
+            },
+            {
+                "word": "Minotaur",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a league of professional sports teams, especially in baseball, that play at a lower level than the major leagues",
+                    "vi": "một giải đấu của các đội thể thao chuyên nghiệp, đặc biệt là trong bóng chày, chơi ở cấp độ thấp hơn so với các giải đấu lớn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "890b16a14d784a3ead8fbde5e9592f52",
+        "word": "no-hitter",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌnəʊ ˈhɪtə(r)/",
+            "us": "/ˌnəʊ ˈhɪtər/"
+        },
+        "nearby": [
+            {
+                "word": "no-good",
+                "pos": "adjective"
+            },
+            {
+                "word": "Noh",
+                "pos": "noun"
+            },
+            {
+                "word": "no-hitter",
+                "pos": "noun"
+            },
+            {
+                "word": "no-hoper",
+                "pos": "noun"
+            },
+            {
+                "word": "noir",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a baseball game in which the pitcher (= the player who throws the ball) does not allow the players on the opposing team to get any hits",
+                    "vi": "một trận đấu bóng chày trong đó người ném bóng (= người chơi ném bóng) không cho phép các cầu thủ của đội đối phương nhận được bất kỳ cú đánh nào"
+                },
+                "examples": [
+                    {
+                        "en": "Friday night he pitched a no-hitter.",
+                        "vi": "Tối thứ Sáu, anh ấy đã ném một người không trúng đích."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "718b19a8ff43464db1925fe5ec5a23d0",
+        "word": "pennant",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpenənt/",
+            "us": "/ˈpenənt/"
+        },
+        "nearby": [
+            {
+                "word": "William Penn",
+                "pos": ""
+            },
+            {
+                "word": "pen name",
+                "pos": "noun"
+            },
+            {
+                "word": "pennant",
+                "pos": "noun"
+            },
+            {
+                "word": "penne",
+                "pos": "noun"
+            },
+            {
+                "word": "penniless",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a long narrow pointed flag, for example one used on a ship to give signals",
+                    "vi": "một lá cờ dài hẹp nhọn, ví dụ một lá cờ được sử dụng trên tàu để phát tín hiệu"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a flag given to the team that wins in a sports league, especially in baseball",
+                    "vi": "một lá cờ được trao cho đội chiến thắng trong một giải đấu thể thao, đặc biệt là trong môn bóng chày"
+                },
+                "examples": [
+                    {
+                        "en": "The Dodgers defeated the Mets 6–0 to win the pennant.",
+                        "vi": "Dodgers đã đánh bại Mets với tỷ số 6–0 để giành được cờ hiệu."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a6f823c9852f496786fd8a39a451bf5f",
+        "word": "pinch-hit",
+        "pos": "verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpɪntʃ hɪt/",
+            "us": "/ˈpɪntʃ hɪt/"
+        },
+        "nearby": [
+            {
+                "word": "pinch",
+                "pos": "noun"
+            },
+            {
+                "word": "pinched",
+                "pos": "adjective"
+            },
+            {
+                "word": "pinch-hit",
+                "pos": "verb"
+            },
+            {
+                "word": "pinch in",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "pinch off",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to hit the ball for another player",
+                    "vi": "đánh bóng cho một cầu thủ khác"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to do something for somebody else who is suddenly unable to do it",
+                    "vi": "để làm điều gì đó cho người khác đột nhiên không thể làm được"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "4d65e548d9884fff8021e1a0c9f981f6",
+        "word": "pitch",
+        "pos": "verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/pɪtʃ/",
+            "us": "/pɪtʃ/"
+        },
+        "nearby": [
+            {
+                "word": "the Pitcairn Islands",
+                "pos": ""
+            },
+            {
+                "word": "pitch",
+                "pos": "noun"
+            },
+            {
+                "word": "pitch",
+                "pos": "verb"
+            },
+            {
+                "word": "pitch and putt",
+                "pos": "noun"
+            },
+            {
+                "word": "pitch-and-toss",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to throw somebody/something with force",
+                    "vi": "ném ai đó / cái gì đó bằng vũ lực"
+                },
+                "examples": [
+                    {
+                        "en": "The explosion pitched her violently into the air.",
+                        "vi": "Vụ nổ dồn cô lên không trung dữ dội."
+                    },
+                    {
+                        "en": "(figurative) The new government has already been pitched into a crisis.",
+                        "vi": "(nghĩa bóng) Chính phủ mới đã bị đưa vào một cuộc khủng hoảng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to throw the ball to the person who is batting",
+                    "vi": "ném bóng cho người đang đánh bóng"
+                },
+                "examples": [
+                    {
+                        "en": "He pitched against UCLA last week.",
+                        "vi": "Anh ấy đã ném bóng trước UCLA vào tuần trước."
+                    },
+                    {
+                        "en": "My dream was to pitch for the Yankees.",
+                        "vi": "Ước mơ của tôi là được ra sân cho Yankees."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to hit the ground; to make the ball hit the ground",
+                    "vi": "chạm đất; làm cho quả bóng rơi xuống đất"
+                },
+                "examples": [
+                    {
+                        "en": "The ball pitched a yard short of the hole.",
+                        "vi": "Quả bóng bay cách lỗ một yard."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to hit the ball in a high curve",
+                    "vi": "đánh bóng ở một đường cong cao"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to fall heavily in a particular direction",
+                    "vi": "rơi nhiều theo một hướng cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "With a cry she pitched forward.",
+                        "vi": "Với một tiếng kêu, cô ấy lao về phía trước."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to move up and down on the water or in the air",
+                    "vi": "di chuyển lên xuống trên mặt nước hoặc trên không"
+                },
+                "examples": [
+                    {
+                        "en": "The sea was rough and the ship pitched and rolled all night.",
+                        "vi": "Biển động, con tàu lăn bánh suốt đêm."
+                    },
+                    {
+                        "en": "The boat pitched violently in a heavy swell.",
+                        "vi": "Con thuyền lao lên dữ dội trong một cơn gió lớn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to set something at a particular level",
+                    "vi": "để thiết lập một cái gì đó ở một cấp độ cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "pitch something (+ adv./prep./adj.) They have pitched their prices too high.",
+                        "vi": "quảng cáo chiêu hàng gì đó (+ adv./prep./adj.) Họ đã rao giá quá cao."
+                    },
+                    {
+                        "en": "pitch something (at something) The test was pitched at too low a level for the students.",
+                        "vi": "cao độ một cái gì đó (ở một cái gì đó) Bài kiểm tra được phát ra ở mức độ quá thấp đối với học sinh."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to aim or direct a product or service at a particular group of people",
+                    "vi": "để nhắm mục tiêu hoặc hướng một sản phẩm hoặc dịch vụ vào một nhóm người cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "pitch something (at somebody) The new software is being pitched at banks.",
+                        "vi": "quảng cáo chiêu hàng (với ai đó) Phần mềm mới đang được quảng cáo tại các ngân hàng."
+                    },
+                    {
+                        "en": "The product is pitched primarily at telecommunications companies.",
+                        "vi": "Sản phẩm được chào bán chủ yếu tại các công ty viễn thông."
+                    },
+                    {
+                        "en": "pitch something (as something) Orange juice is to be pitched as an athlete's drink.",
+                        "vi": "ném cái gì đó (như một cái gì đó) Nước cam được dùng làm đồ uống của vận động viên."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to try to persuade somebody to buy something, to give you something or to make a business deal with you",
+                    "vi": "cố gắng thuyết phục ai đó mua một thứ gì đó, đưa cho bạn thứ gì đó hoặc để thực hiện một thỏa thuận kinh doanh với bạn"
+                },
+                "examples": [
+                    {
+                        "en": "pitch something Representatives went to Japan to pitch the company's newest products.",
+                        "vi": "quảng cáo một cái gì đó Các đại diện đã đến Nhật Bản để giới thiệu các sản phẩm mới nhất của công ty."
+                    },
+                    {
+                        "en": "pitch (for something) We were pitching against a much larger company for the contract.",
+                        "vi": "quảng cáo chiêu hàng (vì một điều gì đó) Chúng tôi đã đấu giá với một công ty lớn hơn nhiều cho hợp đồng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to produce a sound or piece of music at a particular level",
+                    "vi": "để tạo ra âm thanh hoặc đoạn nhạc ở một cấp độ cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "You pitched that note a little flat.",
+                        "vi": "Bạn đặt nốt nhạc đó bằng phẳng một chút."
+                    },
+                    {
+                        "en": "The song was pitched too low for my voice.",
+                        "vi": "Bài hát có âm vực quá thấp so với giọng của tôi."
+                    },
+                    {
+                        "en": "Her voice was pitched low.",
+                        "vi": "Giọng cô ấy trầm hẳn đi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to set up a tent or a camp for a short time",
+                    "vi": "dựng lều hoặc cắm trại trong thời gian ngắn"
+                },
+                "examples": [
+                    {
+                        "en": "We could pitch our tent in that field.",
+                        "vi": "Chúng tôi có thể dựng lều của mình trên cánh đồng đó."
+                    },
+                    {
+                        "en": "They pitched camp for the night near the river.",
+                        "vi": "Họ dựng trại qua đêm gần sông."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to tell somebody a story or make an excuse that is not true",
+                    "vi": "kể cho ai đó một câu chuyện hoặc viện cớ không đúng sự thật"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "ecb68faa6f1043dc9e021d5a3e0c941d",
+        "word": "pitcher",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpɪtʃə(r)/",
+            "us": "/ˈpɪtʃər/"
+        },
+        "nearby": [
+            {
+                "word": "pitched",
+                "pos": "adjective"
+            },
+            {
+                "word": "pitched battle",
+                "pos": "noun"
+            },
+            {
+                "word": "pitcher",
+                "pos": "noun"
+            },
+            {
+                "word": "pitchfork",
+                "pos": "noun"
+            },
+            {
+                "word": "pitch in",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a container with a handle and a lip, for holding and pouring liquids",
+                    "vi": "một thùng chứa có tay cầm và môi, để giữ và đổ chất lỏng"
+                },
+                "examples": [
+                    {
+                        "en": "a pitcher of water",
+                        "vi": "một bình nước"
+                    },
+                    {
+                        "en": "Pour the ingredients into a pitcher, add ice and stir.",
+                        "vi": "Đổ nguyên liệu vào bình đựng, thêm đá và khuấy đều."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a large clay container with a small opening and one or two handles, used, especially in the past, for holding liquids",
+                    "vi": "một vật chứa lớn bằng đất sét với một lỗ nhỏ và một hoặc hai tay cầm, được sử dụng, đặc biệt là trong quá khứ, để đựng chất lỏng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the player who throws the ball to the batter",
+                    "vi": "cầu thủ ném bóng cho người đánh bóng"
+                },
+                "examples": [
+                    {
+                        "en": "Left-handed hitters usually prefer facing right-handed pitchers.",
+                        "vi": "Những người thuận tay trái thường thích đối mặt với những người ném bóng thuận tay phải."
+                    },
+                    {
+                        "en": "The pitcher threw a hard fastball.",
+                        "vi": "Người ném bóng ném một quả bóng nhanh cứng."
+                    },
+                    {
+                        "en": "the Houston Astros' star pitcher",
+                        "vi": "cầu thủ ném bóng ngôi sao của Houston Astros"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "db0dbb4edeeb49be92b02b4477fd93e6",
+        "word": "pitchout",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpɪtʃaʊt/",
+            "us": "/ˈpɪtʃaʊt/"
+        },
+        "nearby": [
+            {
+                "word": "pitch into",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "pitch invasion",
+                "pos": "noun"
+            },
+            {
+                "word": "pitchout",
+                "pos": "noun"
+            },
+            {
+                "word": "pitch pipe",
+                "pos": "noun"
+            },
+            {
+                "word": "pitch up",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a ball deliberately thrown so that it is too far away to hit so that the catcher can throw it to get a player out who is running between bases",
+                    "vi": "một quả bóng được cố tình ném sao cho quá xa để đánh để người bắt bóng có thể ném nó để đưa một cầu thủ đang chạy giữa các căn cứ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a ball thrown to the side",
+                    "vi": "một quả bóng ném sang một bên"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "a03bfbd81c314e4f81f5191971b0f851",
+        "word": "pop fly",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌpɒp ˈflaɪ/",
+            "us": "/ˌpɑːp ˈflaɪ/"
+        },
+        "nearby": [
+            {
+                "word": "Popeye",
+                "pos": ""
+            },
+            {
+                "word": "pop-eyed",
+                "pos": "adjective"
+            },
+            {
+                "word": "pop fly",
+                "pos": "noun"
+            },
+            {
+                "word": "Pop Goes the Weasel",
+                "pos": ""
+            },
+            {
+                "word": "popgun",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a ball that is hit high into the air but does not go far, making it easy to catch",
+                    "vi": "một quả bóng được đánh lên cao nhưng không đi xa, khiến bạn dễ dàng bắt được"
+                },
+                "examples": [
+                    {
+                        "en": "He dropped an easily catchable pop fly.",
+                        "vi": "Anh ấy đã thả một con ruồi pop dễ dàng bắt được."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a92dc8a5e55944419a9a1902890399d9",
+        "word": "RBI",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌɑː biː ˈaɪ/",
+            "us": "/ˌɑːr biː ˈaɪ/"
+        },
+        "nearby": [
+            {
+                "word": "razzle",
+                "pos": "noun"
+            },
+            {
+                "word": "razzmatazz",
+                "pos": "noun"
+            },
+            {
+                "word": "RBI",
+                "pos": "noun"
+            },
+            {
+                "word": "RC",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "RCA",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a run scored by a player in the field as a result of another player who has hit the ball and who gets credit for the run (the abbreviation for ‘run batted in’)",
+                    "vi": "một lần chạy được ghi bởi một cầu thủ trong sân do một cầu thủ khác đã đánh bóng và người được ghi công cho lần chạy (viết tắt của 'run batted in')"
+                },
+                "examples": [
+                    {
+                        "en": "He finished the season with five RBIs.",
+                        "vi": "Anh ấy đã kết thúc mùa giải với năm RBI."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a477d52288ca4952b7bd81e0b68dc3ab",
+        "word": "reliever",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/rɪˈliːvə(r)/",
+            "us": "/rɪˈliːvər/"
+        },
+        "nearby": [
+            {
+                "word": "relieved",
+                "pos": "adjective"
+            },
+            {
+                "word": "relieve of",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "reliever",
+                "pos": "noun"
+            },
+            {
+                "word": "religion",
+                "pos": "noun"
+            },
+            {
+                "word": "religiosity",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a thing or person that removes or reduces pain, feelings of worry or unhappiness, or a problem",
+                    "vi": "một vật hoặc một người có thể loại bỏ hoặc giảm bớt nỗi đau, cảm giác lo lắng hoặc bất hạnh hoặc một vấn đề"
+                },
+                "examples": [
+                    {
+                        "en": "a pain reliever (= a drug used to reduce or remove pain)",
+                        "vi": "thuốc giảm đau (= một loại thuốc được sử dụng để giảm hoặc loại bỏ cơn đau)"
+                    },
+                    {
+                        "en": "Exercise can be a great stress reliever.",
+                        "vi": "Tập thể dục có thể là một liều thuốc giảm căng thẳng tuyệt vời."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a pitcher (= the player who throws the ball) who enters the game in place of the previous pitcher",
+                    "vi": "một người ném bóng (= người chơi ném bóng) vào trận đấu thay cho người ném bóng trước"
+                },
+                "examples": [
+                    {
+                        "en": "Wilson began his major-league career as a reliever.",
+                        "vi": "Wilson bắt đầu sự nghiệp giải đấu lớn của mình như một liều thuốc giảm đau."
+                    },
+                    {
+                        "en": "The manager often has relievers warming up when the game starts.",
+                        "vi": "Người quản lý thường có thuốc giảm nhiệt khi trận đấu bắt đầu."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "99fcff1362104e4da80209becbc6c302",
+        "word": "right field",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌraɪt ˈfiːld/",
+            "us": "/ˌraɪt ˈfiːld/"
+        },
+        "nearby": [
+            {
+                "word": "righteously",
+                "pos": "adverb"
+            },
+            {
+                "word": "righteousness",
+                "pos": "noun"
+            },
+            {
+                "word": "right field",
+                "pos": "noun"
+            },
+            {
+                "word": "right fielder",
+                "pos": "noun"
+            },
+            {
+                "word": "rightful",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the part of the field to the right of the batter",
+                    "vi": "phần sân bên phải của người đánh bóng"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "3955a7a3a51d4b35959fb1beb1c9202d",
+        "word": "right fielder",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌraɪt ˈfiːldə(r)/",
+            "us": "/ˌraɪt ˈfiːldər/"
+        },
+        "nearby": [
+            {
+                "word": "righteousness",
+                "pos": "noun"
+            },
+            {
+                "word": "right field",
+                "pos": "noun"
+            },
+            {
+                "word": "right fielder",
+                "pos": "noun"
+            },
+            {
+                "word": "rightful",
+                "pos": "adjective"
+            },
+            {
+                "word": "rightfully",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the player who defends right field",
+                    "vi": "cầu thủ bảo vệ đúng sân"
+                },
+                "examples": [
+                    {
+                        "en": "He has proven himself to be a capable right fielder.",
+                        "vi": "Anh ấy đã chứng tỏ mình là một tay phải có năng lực."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4043f06e1bde4666a155a35405ba58da",
+        "word": "shortstop",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈʃɔːtstɒp/",
+            "us": "/ˈʃɔːrtstɑːp/"
+        },
+        "nearby": [
+            {
+                "word": "short-staffed",
+                "pos": "adjective"
+            },
+            {
+                "word": "short-stay",
+                "pos": "adjective"
+            },
+            {
+                "word": "shortstop",
+                "pos": "noun"
+            },
+            {
+                "word": "short story",
+                "pos": "noun"
+            },
+            {
+                "word": "short-tempered",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a player who tries to stop balls that are hit between second and third base; the position of this player",
+                    "vi": "một người chơi cố gắng ngăn chặn các quả bóng được đánh giữa đế thứ hai và thứ ba; vị trí của người chơi này"
+                },
+                "examples": [
+                    {
+                        "en": "He was accepted into the Red Sox as a shortstop.",
+                        "vi": "Anh ta được nhận vào Red Sox với tư cách là một người đi tắt đón đầu."
+                    },
+                    {
+                        "en": "I played shortstop and second base.",
+                        "vi": "Tôi đã chơi shortstop và base thứ hai."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "af41527bac5c4751b7fe0331a27ec264",
+        "word": "steal",
+        "pos": "verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/stiːl/",
+            "us": "/stiːl/"
+        },
+        "nearby": [
+            {
+                "word": "steakhouse",
+                "pos": "noun"
+            },
+            {
+                "word": "steak tartare",
+                "pos": "noun"
+            },
+            {
+                "word": "steal",
+                "pos": "verb"
+            },
+            {
+                "word": "steal",
+                "pos": "noun"
+            },
+            {
+                "word": "stealth",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to take something from a person, shop, etc. without permission and without intending to return it or pay for it",
+                    "vi": "lấy một thứ gì đó từ một người, cửa hàng, v.v. mà không được phép và không có ý định trả lại hoặc trả tiền cho nó"
+                },
+                "examples": [
+                    {
+                        "en": "I'll report you to the police if I catch you stealing again.",
+                        "vi": "Tôi sẽ báo cảnh sát cho anh nếu tôi bắt được anh ăn trộm một lần nữa."
+                    },
+                    {
+                        "en": "steal from somebody/something We found out he'd been stealing from us for years.",
+                        "vi": "ăn cắp của ai đó / cái gì đó Chúng tôi phát hiện ra rằng anh ta đã ăn cắp của chúng tôi trong nhiều năm."
+                    },
+                    {
+                        "en": "steal something My wallet was stolen.",
+                        "vi": "ăn cắp một cái gì đó Ví của tôi đã bị đánh cắp."
+                    },
+                    {
+                        "en": "I had my wallet stolen.",
+                        "vi": "Tôi đã bị đánh cắp ví của mình."
+                    },
+                    {
+                        "en": "Thieves stole jewellery worth over £10 000.",
+                        "vi": "Kẻ trộm đã đánh cắp đồ trang sức trị giá hơn 10 000 bảng Anh."
+                    },
+                    {
+                        "en": "steal something from somebody/something He stole a car from the parking lot of a mall.",
+                        "vi": "trộm một cái gì đó từ ai đó / cái gì đó Anh ta đã lấy trộm một chiếc xe hơi từ bãi đậu xe của một trung tâm mua sắm."
+                    },
+                    {
+                        "en": "It's a crime to handle stolen goods.",
+                        "vi": "Đó là một tội phạm để xử lý hàng hóa ăn cắp."
+                    },
+                    {
+                        "en": "He was charged with possession of stolen property.",
+                        "vi": "Anh ta bị buộc tội tàng trữ tài sản trộm cắp."
+                    },
+                    {
+                        "en": "(figurative) to steal somebody’s ideas",
+                        "vi": "(nghĩa bóng) để ăn cắp ý tưởng của ai đó"
+                    },
+                    {
+                        "en": "(figurative) They accused the president of stealing the election (= winning it by cheating).",
+                        "vi": "(nghĩa bóng) Họ buộc tội tổng thống ăn cắp cuộc bầu cử (= thắng cử bằng cách gian lận)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to move secretly and quietly so that other people do not notice you",
+                    "vi": "di chuyển bí mật và lặng lẽ để người khác không nhận thấy bạn"
+                },
+                "examples": [
+                    {
+                        "en": "She stole out of the room so as not to wake the baby.",
+                        "vi": "Cô trộm ra khỏi phòng để không đánh thức đứa bé."
+                    },
+                    {
+                        "en": "(figurative) A chill stole over her body.",
+                        "vi": "(nghĩa bóng) Một cơn ớn lạnh bao trùm khắp cơ thể cô."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to run to the next base before another player from your team hits the ball, so that you are closer to scoring",
+                    "vi": "chạy đến căn cứ tiếp theo trước khi một cầu thủ khác trong đội của bạn chạm bóng, để bạn tiến gần hơn đến việc ghi bàn"
+                },
+                "examples": [
+                    {
+                        "en": "He tried to steal second base but was out.",
+                        "vi": "Anh ta cố gắng đánh cắp cơ sở thứ hai nhưng đã bị loại."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to look at somebody/something quickly so that nobody sees you doing it",
+                    "vi": "nhìn ai đó / cái gì đó một cách nhanh chóng để không ai thấy bạn đang làm việc đó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to make somebody fall in love with you",
+                    "vi": "để làm cho ai đó yêu bạn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to kiss somebody suddenly or secretly",
+                    "vi": "hôn ai đó bất ngờ hoặc bí mật"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to gain an advantage over somebody by doing something before them",
+                    "vi": "để đạt được lợi thế hơn ai đó bằng cách làm điều gì đó trước họ"
+                },
+                "examples": [
+                    {
+                        "en": "The company is looking at ways to steal a march on its European competitors.",
+                        "vi": "Công ty đang tìm cách để đánh bại các đối thủ cạnh tranh châu Âu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to attract more attention and praise than other people in a particular situation",
+                    "vi": "để thu hút nhiều sự chú ý và khen ngợi hơn những người khác trong một tình huống cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "As always, the children stole the show.",
+                        "vi": "Như mọi khi, bọn trẻ ăn cắp buổi biểu diễn."
+                    },
+                    {
+                        "en": "British bands stole the show at this year’s awards.",
+                        "vi": "Các ban nhạc Anh đã đánh cắp chương trình tại lễ trao giải năm nay."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to get the attention, success, etc. that somebody else was expecting, usually by saying or doing what they had intended to say or do",
+                    "vi": "để thu hút sự chú ý, thành công, v.v. mà người khác đang mong đợi, thường bằng cách nói hoặc làm những gì họ đã định nói hoặc làm"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "bb0350f481644721b36591f7a4d4b4f8",
+        "word": "strike out",
+        "pos": "phrasal verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "",
+            "us": ""
+        },
+        "nearby": [
+            {
+                "word": "strike force",
+                "pos": "noun"
+            },
+            {
+                "word": "strike off",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "strike out",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "strikeout",
+                "pos": "noun"
+            },
+            {
+                "word": "striker",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to start being independent",
+                    "vi": "để bắt đầu độc lập"
+                },
+                "examples": [
+                    {
+                        "en": "I knew it was time I struck out on my own.",
+                        "vi": "Tôi biết đã đến lúc tôi tự mình ra tay."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to fail or be unsuccessful",
+                    "vi": "thất bại hoặc không thành công"
+                },
+                "examples": [
+                    {
+                        "en": "The movie struck out and didn't win a single Oscar.",
+                        "vi": "Bộ phim thành công vang dội và không giành được một giải Oscar nào."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to aim a sudden violent hit at somebody/something",
+                    "vi": "nhắm một đòn bạo lực bất ngờ vào ai đó / cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "He lost his temper and struck out wildly.",
+                        "vi": "Anh ta mất bình tĩnh và lao ra một cách điên cuồng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to criticize somebody/something, especially in a public speech or in a book or newspaper",
+                    "vi": "để chỉ trích ai đó / điều gì đó, đặc biệt là trong một bài phát biểu trước công chúng hoặc trong một cuốn sách hoặc tờ báo"
+                },
+                "examples": [
+                    {
+                        "en": "In a recent article she strikes out at her critics.",
+                        "vi": "Trong một bài báo gần đây, cô ấy đã chỉ trích những người chỉ trích mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to fail to hit the ball three times and therefore not be allowed to continue hitting; to make somebody do this",
+                    "vi": "không đánh bóng ba lần và do đó không được phép đánh tiếp; để khiến ai đó làm điều này"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to remove something by drawing a line through it",
+                    "vi": "để loại bỏ một cái gì đó bằng cách vẽ một đường thẳng qua nó"
+                },
+                "examples": [
+                    {
+                        "en": "The editor struck out the whole paragraph.",
+                        "vi": "Người biên tập gạch bỏ toàn bộ đoạn văn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "139347fd4a854ac3bdf152c85bd1df58",
+        "word": "strikeout",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈstraɪkaʊt/",
+            "us": "/ˈstraɪkaʊt/"
+        },
+        "nearby": [
+            {
+                "word": "strike off",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "strike out",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "strikeout",
+                "pos": "noun"
+            },
+            {
+                "word": "striker",
+                "pos": "noun"
+            },
+            {
+                "word": "strike rate",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a situation in which the player who is supposed to be hitting the ball has to stop because they have tried to hit the ball three times and failed",
+                    "vi": "tình huống trong đó cầu thủ được cho là đánh bóng phải dừng lại vì họ đã cố gắng đánh bóng ba lần và không thành công"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "1787a988d3af4503b2f9e8aa03a232dd",
+        "word": "switch-hitter",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈswɪtʃ hɪtə(r)/",
+            "us": "/ˈswɪtʃ hɪtər/"
+        },
+        "nearby": [
+            {
+                "word": "switched on",
+                "pos": "adjective"
+            },
+            {
+                "word": "switcheroo",
+                "pos": "noun"
+            },
+            {
+                "word": "switch-hitter",
+                "pos": "noun"
+            },
+            {
+                "word": "switch off",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "switch on",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a player who can hit with the bat on either side of their body",
+                    "vi": "một người chơi có thể đánh bằng gậy vào hai bên cơ thể của họ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "2234acaffbd144f08adc88c8eaad3ede",
+        "word": "T-ball",
+        "pos": "",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtiː bɔːl/",
+            "us": "/ˈtiː bɔːl/"
+        },
+        "nearby": [
+            {
+                "word": "TB",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "TBA",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "T-ball",
+                "pos": ""
+            },
+            {
+                "word": "T-bar",
+                "pos": "noun"
+            },
+            {
+                "word": "TBC",
+                "pos": "abbreviation"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a form of baseball for young children in which the ball is hit off a stand",
+                    "vi": "một hình thức bóng chày dành cho trẻ nhỏ trong đó bóng được đánh khỏi giá đỡ"
+                },
+                "examples": [
+                    {
+                        "en": "a T-ball game",
+                        "vi": "một trò chơi bóng chữ T"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "d42d8652cff241ba95c68f332ba879e7",
+        "word": "Tee Ball™",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtiː bɔːl/",
+            "us": "/ˈtiː bɔːl/"
+        },
+        "nearby": [
+            {
+                "word": "tee",
+                "pos": "noun"
+            },
+            {
+                "word": "tee",
+                "pos": "verb"
+            },
+            {
+                "word": "Tee Ball",
+                "pos": "noun"
+            },
+            {
+                "word": "teed off",
+                "pos": "adjective"
+            },
+            {
+                "word": "tee-hee",
+                "pos": "exclamation"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a form of baseball for young children in which the ball is hit off a stand",
+                    "vi": "một hình thức bóng chày dành cho trẻ nhỏ trong đó bóng được đánh khỏi giá đỡ"
+                },
+                "examples": [
+                    {
+                        "en": "a Tee-ball game",
+                        "vi": "một trò chơi bóng thiếu niên"
+                    }
+                ]
+            }
+        ]
+    }
+]

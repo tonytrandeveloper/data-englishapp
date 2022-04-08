@@ -1,0 +1,1418 @@
+[
+    {
+        "id": "c3354bc549054bf9a5740b5ba9a50b62",
+        "word": "review",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/rɪˈvjuː/",
+            "us": "/rɪˈvjuː/"
+        },
+        "nearby": [
+            {
+                "word": "revert to",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "revetment",
+                "pos": "noun"
+            },
+            {
+                "word": "review",
+                "pos": "noun"
+            },
+            {
+                "word": "review",
+                "pos": "verb"
+            },
+            {
+                "word": "reviewer",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a report in a newspaper or magazine, or on the internet, television or radio, in which somebody gives their opinion of a book, play, film, product, etc.; the act of writing this kind of report",
+                    "vi": "một báo cáo trên một tờ báo hoặc tạp chí, hoặc trên internet, truyền hình hoặc đài phát thanh, trong đó ai đó đưa ra ý kiến của họ về một cuốn sách, vở kịch, bộ phim, sản phẩm, v.v.; hành động viết báo cáo kiểu này"
+                },
+                "examples": [
+                    {
+                        "en": "a book review",
+                        "vi": "bình luận về một cuốn sách"
+                    },
+                    {
+                        "en": "She gave the film a glowing review.",
+                        "vi": "Cô ấy đã cho bộ phim một bài đánh giá sáng chói."
+                    },
+                    {
+                        "en": "mixed/negative/bad reviews",
+                        "vi": "đánh giá hỗn hợp / tiêu cực / xấu"
+                    },
+                    {
+                        "en": "a positive/favourable review",
+                        "vi": "một đánh giá tích cực / thuận lợi"
+                    },
+                    {
+                        "en": "an online review of the restaurant",
+                        "vi": "đánh giá trực tuyến về nhà hàng"
+                    },
+                    {
+                        "en": "He submitted his latest novel for review.",
+                        "vi": "Anh ấy đã gửi cuốn tiểu thuyết mới nhất của mình để được xem xét."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an act of looking again at something you have studied or written, especially in order to prepare for an exam",
+                    "vi": "hành động nhìn lại nội dung bạn đã học hoặc viết, đặc biệt là để chuẩn bị cho kỳ thi"
+                },
+                "examples": [
+                    {
+                        "en": "We need to do the review for the test tomorrow.",
+                        "vi": "Chúng ta cần làm bài kiểm tra cho bài kiểm tra ngày mai."
+                    },
+                    {
+                        "en": "I should have time for a quick review of my notes before the test.",
+                        "vi": "Tôi nên có thời gian để xem lại nhanh các ghi chú của mình trước khi kiểm tra."
+                    },
+                    {
+                        "en": "We'll have time at the end of class for review.",
+                        "vi": "Chúng ta sẽ có thời gian vào cuối lớp để xem xét."
+                    },
+                    {
+                        "en": "There is a grammar review section at the end of each unit.",
+                        "vi": "Có phần ôn tập ngữ pháp ở cuối mỗi bài."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an examination of something, with the intention of changing it if necessary",
+                    "vi": "kiểm tra một cái gì đó, với ý định thay đổi nó nếu cần thiết"
+                },
+                "examples": [
+                    {
+                        "en": "The government has embarked on a systematic review of transport policy.",
+                        "vi": "Chính phủ đã bắt tay vào việc xem xét lại chính sách giao thông một cách có hệ thống."
+                    },
+                    {
+                        "en": "MPS have called for an independent review.",
+                        "vi": "MPS đã kêu gọi một cuộc đánh giá độc lập."
+                    },
+                    {
+                        "en": "The proposals are available for review online.",
+                        "vi": "Các đề xuất có sẵn để xem xét trực tuyến."
+                    },
+                    {
+                        "en": "under review The terms of the contract are under review.",
+                        "vi": "đang xem xét Các điều khoản của hợp đồng đang được xem xét."
+                    },
+                    {
+                        "en": "up for review His parole application is up for review next week.",
+                        "vi": "lên để xem xét Đơn xin ân xá của anh ấy sẽ được xem xét vào tuần tới."
+                    },
+                    {
+                        "en": "a review board/panel",
+                        "vi": "một hội đồng / hội đồng xét duyệt"
+                    },
+                    {
+                        "en": "a pay/salary review",
+                        "vi": "đánh giá lương / lương"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an examination of all the relevant information on a subject or on a series of events",
+                    "vi": "kiểm tra tất cả các thông tin liên quan về một chủ đề hoặc về một loạt các sự kiện"
+                },
+                "examples": [
+                    {
+                        "en": "to conduct/undertake a review of customer complaints",
+                        "vi": "tiến hành / thực hiện việc xem xét các khiếu nại của khách hàng"
+                    },
+                    {
+                        "en": "to publish a review of recent cancer research",
+                        "vi": "để xuất bản một đánh giá về nghiên cứu ung thư gần đây"
+                    },
+                    {
+                        "en": "a comprehensive review of current scientific knowledge on the subject",
+                        "vi": "đánh giá toàn diện kiến thức khoa học hiện tại về chủ đề này"
+                    },
+                    {
+                        "en": "a thorough review of relevant materials",
+                        "vi": "xem xét kỹ lưỡng các tài liệu liên quan"
+                    },
+                    {
+                        "en": "The literature review suggests a number of areas for further study.",
+                        "vi": "Tổng quan tài liệu gợi ý một số lĩnh vực để nghiên cứu thêm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a ceremony that involves an official inspection of soldiers, etc. by an important visitor",
+                    "vi": "một buổi lễ liên quan đến việc kiểm tra chính thức binh lính, v.v. bởi một vị khách quan trọng"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "3566725edfc04c98833e37342ab8db80",
+        "word": "review",
+        "pos": "verb",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/rɪˈvjuː/",
+            "us": "/rɪˈvjuː/"
+        },
+        "nearby": [
+            {
+                "word": "revetment",
+                "pos": "noun"
+            },
+            {
+                "word": "review",
+                "pos": "noun"
+            },
+            {
+                "word": "review",
+                "pos": "verb"
+            },
+            {
+                "word": "reviewer",
+                "pos": "noun"
+            },
+            {
+                "word": "revile",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to write a report of a book, play, film, product, etc. in which you give your opinion of it",
+                    "vi": "để viết báo cáo về một cuốn sách, vở kịch, bộ phim, sản phẩm, v.v. trong đó bạn đưa ra ý kiến của mình về nó"
+                },
+                "examples": [
+                    {
+                        "en": "Please rate and review your purchase on our website.",
+                        "vi": "Vui lòng đánh giá và đánh giá mua hàng của bạn trên trang web của chúng tôi."
+                    },
+                    {
+                        "en": "The play was reviewed in the national newspapers.",
+                        "vi": "Vở kịch đã được bình luận trên các tờ báo quốc gia."
+                    },
+                    {
+                        "en": "The book was favourably reviewed by most critics.",
+                        "vi": "Cuốn sách được hầu hết các nhà phê bình đánh giá một cách ưu ái."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to look again at something you have studied, especially in order to prepare for an exam",
+                    "vi": "để xem lại nội dung bạn đã học, đặc biệt là để chuẩn bị cho kỳ thi"
+                },
+                "examples": [
+                    {
+                        "en": "review something We will be reviewing all the topics covered this semester.",
+                        "vi": "xem xét một cái gì đó Chúng tôi sẽ xem xét tất cả các chủ đề được đề cập trong học kỳ này."
+                    },
+                    {
+                        "en": "review for something Jonas helped me review for the test.",
+                        "vi": "xem lại điều gì đó Jonas đã giúp tôi ôn tập cho bài kiểm tra."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to check a piece of work to see if there are any mistakes",
+                    "vi": "để kiểm tra một phần công việc xem có bất kỳ sai sót nào không"
+                },
+                "examples": [
+                    {
+                        "en": "Review your work before you turn it in.",
+                        "vi": "Xem lại công việc của bạn trước khi bạn nộp nó."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to carefully examine or consider something again, especially so that you can decide if it is necessary to make changes",
+                    "vi": "để kiểm tra cẩn thận hoặc xem xét lại điều gì đó, đặc biệt là để bạn có thể quyết định xem có cần thiết phải thực hiện các thay đổi hay không"
+                },
+                "examples": [
+                    {
+                        "en": "The government will review the situation later in the year.",
+                        "vi": "Chính phủ sẽ xem xét tình hình vào cuối năm."
+                    },
+                    {
+                        "en": "The company is reviewing its business travel policy.",
+                        "vi": "Công ty đang xem xét lại chính sách đi công tác của mình."
+                    },
+                    {
+                        "en": "After reviewing the evidence, the judge dismissed the case.",
+                        "vi": "Sau khi xem xét các bằng chứng, thẩm phán đã bác bỏ vụ án."
+                    },
+                    {
+                        "en": "This case should be reviewed in the light of new evidence.",
+                        "vi": "Trường hợp này cần được xem xét lại dưới ánh sáng của bằng chứng mới."
+                    },
+                    {
+                        "en": "to review a decision/proposal",
+                        "vi": "để xem xét một quyết định / đề xuất"
+                    },
+                    {
+                        "en": "Staff performance is reviewed annually.",
+                        "vi": "Hiệu suất của nhân viên được đánh giá hàng năm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to read or study information about something, especially in order to reach an opinion about it",
+                    "vi": "để đọc hoặc nghiên cứu thông tin về điều gì đó, đặc biệt là để đưa ra ý kiến về điều đó"
+                },
+                "examples": [
+                    {
+                        "en": "to review records/documents/data",
+                        "vi": "để xem xét hồ sơ / tài liệu / dữ liệu"
+                    },
+                    {
+                        "en": "Let's start by reviewing the evidence.",
+                        "vi": "Hãy bắt đầu bằng cách xem xét các bằng chứng."
+                    },
+                    {
+                        "en": "This paper reviews the literature on the subject.",
+                        "vi": "Bài báo này đánh giá các tài liệu về chủ đề này."
+                    },
+                    {
+                        "en": "The next section briefly reviews previous studies.",
+                        "vi": "Phần tiếp theo đánh giá ngắn gọn các nghiên cứu trước đây."
+                    },
+                    {
+                        "en": "Students can review the material at their own pace.",
+                        "vi": "Học sinh có thể xem lại tài liệu theo tốc độ của riêng mình."
+                    },
+                    {
+                        "en": "You should review the document carefully before signing.",
+                        "vi": "Bạn nên xem kỹ tài liệu trước khi ký."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to think about past events, for example to try to understand why they happened",
+                    "vi": "để nghĩ về các sự kiện trong quá khứ, chẳng hạn như để cố gắng hiểu tại sao chúng lại xảy ra"
+                },
+                "examples": [
+                    {
+                        "en": "to review your failures and triumphs",
+                        "vi": "để xem lại những thất bại và chiến thắng của bạn"
+                    },
+                    {
+                        "en": "She had been reviewing the previous week on her way home.",
+                        "vi": "Cô ấy đã ôn tập tuần trước trên đường về nhà."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make an official inspection of a group of soldiers, etc. in a military ceremony",
+                    "vi": "để kiểm tra chính thức một nhóm binh lính, v.v. trong một buổi lễ xuất quân"
+                },
+                "examples": [
+                    {
+                        "en": "The Commander-in-Chief reviewed the troops.",
+                        "vi": "Tổng Tư lệnh duyệt binh."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c9f5b6bea1b140bd8101ca030251c112",
+        "word": "preview",
+        "pos": "verb",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈpriːvjuː/",
+            "us": "/ˈpriːvjuː/"
+        },
+        "nearby": [
+            {
+                "word": "preverbal",
+                "pos": "adjective"
+            },
+            {
+                "word": "preview",
+                "pos": "noun"
+            },
+            {
+                "word": "preview",
+                "pos": "verb"
+            },
+            {
+                "word": "previous",
+                "pos": "adjective"
+            },
+            {
+                "word": "previously",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to see a film, a television programme, etc. before it is shown to the general public and write an account of it for a newspaper or magazine",
+                    "vi": "để xem một bộ phim, một chương trình truyền hình, v.v. trước khi nó được chiếu cho công chúng và viết một bài tường thuật về nó cho một tờ báo hoặc tạp chí"
+                },
+                "examples": [
+                    {
+                        "en": "The exhibition was previewed in last week's issue.",
+                        "vi": "Triển lãm đã được xem trước trong số ra tuần trước."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to give somebody a short account of something that is going to happen, be studied, etc.",
+                    "vi": "để cung cấp cho ai đó một tài khoản ngắn gọn về điều gì đó sẽ xảy ra, được nghiên cứu, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "The professor previewed the course for us.",
+                        "vi": "Giáo sư đã xem trước khóa học cho chúng tôi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "03b22c3d758c43f79ccc3f31b1aa62e1",
+        "word": "critic",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈkrɪtɪk/",
+            "us": "/ˈkrɪtɪk/"
+        },
+        "nearby": [
+            {
+                "word": "criterion",
+                "pos": "noun"
+            },
+            {
+                "word": "criterium",
+                "pos": "noun"
+            },
+            {
+                "word": "critic",
+                "pos": "noun"
+            },
+            {
+                "word": "critical",
+                "pos": "adjective"
+            },
+            {
+                "word": "critical care",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who expresses opinions about the good and bad qualities of books, music, etc.",
+                    "vi": "một người bày tỏ ý kiến về những phẩm chất tốt và xấu của sách, âm nhạc, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "a film/an art/a music critic",
+                        "vi": "một bộ phim / một nghệ thuật / một nhà phê bình âm nhạc"
+                    },
+                    {
+                        "en": "Bradley Cooper's gripping performance has been praised by critics.",
+                        "vi": "Diễn xuất hấp dẫn của Bradley Cooper đã được các nhà phê bình khen ngợi."
+                    },
+                    {
+                        "en": "The critics loved the movie.",
+                        "vi": "Các nhà phê bình yêu thích bộ phim."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who expresses dislike of somebody/something and talks about their bad qualities, especially publicly",
+                    "vi": "một người thể hiện sự không thích ai đó / điều gì đó và nói về những phẩm chất xấu của họ, đặc biệt là công khai"
+                },
+                "examples": [
+                    {
+                        "en": "She has become one of the ruling party's most outspoken critics.",
+                        "vi": "Bà đã trở thành một trong những nhà phê bình thẳng thắn nhất của đảng cầm quyền."
+                    },
+                    {
+                        "en": "a harsh/fierce/vocal critic",
+                        "vi": "một nhà phê bình gay gắt / gay gắt / nghiêm khắc"
+                    },
+                    {
+                        "en": "critic of something/somebody a critic of private healthcare",
+                        "vi": "phê bình điều gì đó / ai đó chỉ trích về chăm sóc sức khỏe tư nhân"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "eda5b3fbc6bd49679c2b22d8e31ab94e",
+        "word": "masterpiece",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈmɑːstəpiːs/",
+            "us": "/ˈmæstərpiːs/"
+        },
+        "nearby": [
+            {
+                "word": "Master of the Queen's Music",
+                "pos": ""
+            },
+            {
+                "word": "Master of the Rolls",
+                "pos": ""
+            },
+            {
+                "word": "masterpiece",
+                "pos": "noun"
+            },
+            {
+                "word": "Masterpiece",
+                "pos": ""
+            },
+            {
+                "word": "master plan",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a work of art such as a painting, film, book, etc. that is an excellent, or the best, example of the artist’s work",
+                    "vi": "một tác phẩm nghệ thuật như tranh vẽ, phim, sách, v.v. là một ví dụ xuất sắc hoặc hay nhất về tác phẩm của nghệ sĩ"
+                },
+                "examples": [
+                    {
+                        "en": "The museum houses several of his Cubist masterpieces.",
+                        "vi": "Bảo tàng lưu giữ một số kiệt tác Lập thể của ông."
+                    },
+                    {
+                        "en": "Her work is a masterpiece of (= an excellent example of) simplicity.",
+                        "vi": "Công việc của cô ấy là một kiệt tác về (= một ví dụ xuất sắc về) sự đơn giản."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "69f762786d7e4285a5171c61170eb623",
+        "word": "trailer",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈtreɪlə(r)/",
+            "us": "/ˈtreɪlər/"
+        },
+        "nearby": [
+            {
+                "word": "trailblazer",
+                "pos": "noun"
+            },
+            {
+                "word": "trailblazing",
+                "pos": "adjective"
+            },
+            {
+                "word": "trailer",
+                "pos": "noun"
+            },
+            {
+                "word": "trailer trash",
+                "pos": "noun"
+            },
+            {
+                "word": "trailer truck",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a truck, or a container with wheels, that is pulled by another vehicle",
+                    "vi": "xe tải hoặc thùng chứa có bánh xe được kéo bởi một phương tiện khác"
+                },
+                "examples": [
+                    {
+                        "en": "a car towing a trailer with a boat on it",
+                        "vi": "một chiếc ô tô kéo một rơ moóc với một chiếc thuyền trên đó"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a vehicle without an engine, that can be pulled by a car or truck or used as a home or an office when it is parked",
+                    "vi": "phương tiện không có động cơ, có thể được kéo bởi ô tô hoặc xe tải hoặc được sử dụng làm nhà hoặc văn phòng khi nó đang đậu"
+                },
+                "examples": [
+                    {
+                        "en": "a trailer park (= an area where trailers are parked and used as homes)",
+                        "vi": "bãi đậu xe moóc (= khu vực nơi xe moóc đậu và được sử dụng làm nhà)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a small building for people to live in that is made in a factory and moved to a permanent place",
+                    "vi": "một tòa nhà nhỏ cho mọi người sống trong đó được làm trong một nhà máy và chuyển đến một nơi lâu dài"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a series of short scenes from a film or television programme, shown in advance to advertise it",
+                    "vi": "một loạt các cảnh ngắn từ một bộ phim hoặc chương trình truyền hình, được chiếu trước để quảng cáo"
+                },
+                "examples": [
+                    {
+                        "en": "He featured in the trailer for the movie.",
+                        "vi": "Anh ấy đã xuất hiện trong trailer của bộ phim."
+                    },
+                    {
+                        "en": "The review said that if you've seen the trailer, you needn't bother watching this film.",
+                        "vi": "Bài đánh giá nói rằng nếu bạn đã xem trailer, bạn không cần phải xem bộ phim này."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a9baf4fa0874486ba94abbb7b390a195",
+        "word": "18",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌeɪˈtiːn/",
+            "us": "/ˌeɪˈtiːn/"
+        },
+        "nearby": [
+            {
+                "word": "eight",
+                "pos": ""
+            },
+            {
+                "word": "eighteen",
+                "pos": "number"
+            },
+            {
+                "word": "18",
+                "pos": "noun"
+            },
+            {
+                "word": "eighteenth",
+                "pos": "ordinal number"
+            },
+            {
+                "word": "eighteenth",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a label that is given to a film to show that it can be watched legally in a cinema only by people who are at least 18 years old; a film that has this label",
+                    "vi": "nhãn được cấp cho một bộ phim để cho thấy rằng bộ phim chỉ có thể xem hợp pháp trong rạp chiếu phim bởi những người từ 18 tuổi trở lên; một bộ phim có nhãn này"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "cae6ff4c9ae44b9d8dad53726602c58f",
+        "word": "flop",
+        "pos": "verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/flɒp/",
+            "us": "/flɑːp/"
+        },
+        "nearby": [
+            {
+                "word": "floor show",
+                "pos": "noun"
+            },
+            {
+                "word": "floozy",
+                "pos": "noun"
+            },
+            {
+                "word": "flop",
+                "pos": "verb"
+            },
+            {
+                "word": "flop",
+                "pos": "noun"
+            },
+            {
+                "word": "flophouse",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to sit or lie down in a heavy and sudden way because you are very tired",
+                    "vi": "ngồi hoặc nằm xuống một cách nặng nhọc và đột ngột vì bạn rất mệt"
+                },
+                "examples": [
+                    {
+                        "en": "flop (down/back) into/on something Exhausted, he flopped down into a chair.",
+                        "vi": "flop (down / back) into / on something Kiệt sức, anh ấy ngồi phịch xuống ghế."
+                    },
+                    {
+                        "en": "flop down/back The young man flopped back, unconscious.",
+                        "vi": "flop down / back Người thanh niên nằm ngửa, bất tỉnh."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to fall, move or hang in a heavy way, without control",
+                    "vi": "rơi, di chuyển hoặc treo một cách nặng nề mà không có sự kiểm soát"
+                },
+                "examples": [
+                    {
+                        "en": "Her hair flopped over her eyes.",
+                        "vi": "Tóc cô ấy rũ xuống mắt."
+                    },
+                    {
+                        "en": "The fish were flopping around in the bottom of the boat.",
+                        "vi": "Những con cá loanh quanh dưới đáy thuyền."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be a complete failure",
+                    "vi": "trở thành một thất bại hoàn toàn"
+                },
+                "examples": [
+                    {
+                        "en": "The play flopped on Broadway.",
+                        "vi": "Vở kịch thất bại trên sân khấu Broadway."
+                    },
+                    {
+                        "en": "England flopped in the European Championship.",
+                        "vi": "Anh thất bại ở giải vô địch châu Âu."
+                    },
+                    {
+                        "en": "Many of his ambitious schemes have flopped in the past.",
+                        "vi": "Nhiều kế hoạch đầy tham vọng của ông đã thất bại trong quá khứ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1111ab22acd84f32999b04fa72c0f8bb",
+        "word": "flop",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/flɒp/",
+            "us": "/flɑːp/"
+        },
+        "nearby": [
+            {
+                "word": "floozy",
+                "pos": "noun"
+            },
+            {
+                "word": "flop",
+                "pos": "verb"
+            },
+            {
+                "word": "flop",
+                "pos": "noun"
+            },
+            {
+                "word": "flophouse",
+                "pos": "noun"
+            },
+            {
+                "word": "floppy",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a thing or person that is not successful, especially a film, show or party",
+                    "vi": "một điều hoặc một người không thành công, đặc biệt là một bộ phim, chương trình hoặc bữa tiệc"
+                },
+                "examples": [
+                    {
+                        "en": "a box-office flop",
+                        "vi": "phòng vé thất bại"
+                    },
+                    {
+                        "en": "The share sale has been a flop with investors.",
+                        "vi": "Việc bán cổ phần đã thất bại với các nhà đầu tư."
+                    },
+                    {
+                        "en": "The show was the biggest flop in TV history.",
+                        "vi": "Chương trình là thất bại lớn nhất trong lịch sử truyền hình."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "b2b2670af49e40e6b2d5c85f11d8df2e",
+        "word": "masterwork",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈmɑːstəwɜːk/",
+            "us": "/ˈmæstərwɜːrk/"
+        },
+        "nearby": [
+            {
+                "word": "masterstroke",
+                "pos": "noun"
+            },
+            {
+                "word": "master warrant officer",
+                "pos": "noun"
+            },
+            {
+                "word": "masterwork",
+                "pos": "noun"
+            },
+            {
+                "word": "mastery",
+                "pos": "noun"
+            },
+            {
+                "word": "masthead",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a work of art such as a painting, film, book, etc. that is an excellent, or the best, example of the artist’s work",
+                    "vi": "một tác phẩm nghệ thuật như tranh vẽ, phim, sách, v.v. là một ví dụ xuất sắc hoặc hay nhất về tác phẩm của nghệ sĩ"
+                },
+                "examples": [
+                    {
+                        "en": "a literary/musical/cinematic masterwork",
+                        "vi": "một tác phẩm văn học / âm nhạc / điện ảnh"
+                    },
+                    {
+                        "en": "The group will perform three of the composer's late masterworks.",
+                        "vi": "Nhóm sẽ biểu diễn ba trong số những tác phẩm cuối cùng của nhà soạn nhạc."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "066691c9eac642709c60e18339424f19",
+        "word": "merchandising",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈmɜːtʃəndaɪzɪŋ/",
+            "us": "/ˈmɜːrtʃəndaɪzɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "merchandise",
+                "pos": "noun"
+            },
+            {
+                "word": "merchandise",
+                "pos": "verb"
+            },
+            {
+                "word": "merchandising",
+                "pos": "noun"
+            },
+            {
+                "word": "merchant",
+                "pos": "noun"
+            },
+            {
+                "word": "Ismail Merchant",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the activity of selling goods, or of trying to sell them, by advertising or displaying them",
+                    "vi": "hoạt động bán hàng hóa hoặc cố gắng bán chúng bằng cách quảng cáo hoặc trưng bày chúng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "products connected with a popular film, person or event; the process of selling these goods",
+                    "vi": "sản phẩm được kết nối với một bộ phim, người hoặc sự kiện nổi tiếng; quá trình bán những hàng hóa này"
+                },
+                "examples": [
+                    {
+                        "en": "millions of pounds’ worth of Batman merchandising",
+                        "vi": "hàng triệu bảng Anh trị giá hàng hóa của Người dơi"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "53699425e4494e528da59e3f294ef6b1",
+        "word": "PG",
+        "pos": "abbreviation",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌpiː ˈdʒiː/",
+            "us": "/ˌpiː ˈdʒiː/"
+        },
+        "nearby": [
+            {
+                "word": "PFD",
+                "pos": "noun"
+            },
+            {
+                "word": "PG-13",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "PG",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "the PGA",
+                "pos": ""
+            },
+            {
+                "word": "PGCE",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "parental guidance (used to show that some scenes in a film may not be suitable for young children)",
+                    "vi": "hướng dẫn của cha mẹ (được sử dụng để chỉ ra rằng một số cảnh trong phim có thể không phù hợp với trẻ nhỏ)"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "8a93a4e86f954400aadc5d9c09149809",
+        "word": "plug",
+        "pos": "verb",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/plʌɡ/",
+            "us": "/plʌɡ/"
+        },
+        "nearby": [
+            {
+                "word": "plucky",
+                "pos": "adjective"
+            },
+            {
+                "word": "plug-in",
+                "pos": "noun"
+            },
+            {
+                "word": "plug",
+                "pos": "verb"
+            },
+            {
+                "word": "plug",
+                "pos": "noun"
+            },
+            {
+                "word": "Plug and Play",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to fill a hole with a substance or piece of material that fits tightly into it",
+                    "vi": "để lấp đầy một lỗ bằng một chất hoặc mảnh vật liệu vừa khít với nó"
+                },
+                "examples": [
+                    {
+                        "en": "He plugged the hole in the pipe with an old rag.",
+                        "vi": "Anh ta dùng một chiếc giẻ cũ cắm vào lỗ trên đường ống."
+                    },
+                    {
+                        "en": "Divers succeeded in plugging the leaks from the tanker.",
+                        "vi": "Các thợ lặn đã thành công trong việc bịt các lỗ rò rỉ từ tàu chở dầu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to provide something that has been missing from a particular situation and is needed in order to improve it",
+                    "vi": "để cung cấp một cái gì đó còn thiếu trong một tình huống cụ thể và cần thiết để cải thiện nó"
+                },
+                "examples": [
+                    {
+                        "en": "A cheaper range of products was introduced to plug the gap at the lower end of the market.",
+                        "vi": "Một loạt sản phẩm rẻ hơn đã được giới thiệu để thu hẹp khoảng cách ở thị trường thấp hơn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to give praise or attention to a new book, film, etc. in order to encourage people to buy it or see it",
+                    "vi": "khen ngợi hoặc chú ý đến một cuốn sách, bộ phim mới, v.v. để khuyến khích mọi người mua hoặc xem nó"
+                },
+                "examples": [
+                    {
+                        "en": "She came on the show to plug her latest album.",
+                        "vi": "Cô ấy đã đến chương trình để cắm album mới nhất của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to shoot somebody",
+                    "vi": "bắn ai đó"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "cff7080ce81d4709aaddab58efafd70d",
+        "word": "R",
+        "pos": "abbreviation",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ɑː(r)/",
+            "us": "/ɑːr/"
+        },
+        "nearby": [
+            {
+                "word": "r",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "R",
+                "pos": "noun"
+            },
+            {
+                "word": "R",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "rabbi",
+                "pos": "noun"
+            },
+            {
+                "word": "rabbinical",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "Queen; King (from Latin ‘Regina’; ‘Rex’)",
+                    "vi": "Nữ hoàng; King (từ tiếng Latinh 'Regina'; 'Rex')"
+                },
+                "examples": [
+                    {
+                        "en": "Elizabeth R.",
+                        "vi": "Elizabeth R."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "(especially on maps) River",
+                    "vi": "(đặc biệt là trên bản đồ)"
+                },
+                "examples": [
+                    {
+                        "en": "R. Trent",
+                        "vi": "R. Trent"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "Republican",
+                    "vi": "Đảng cộng hòa"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "Royal",
+                    "vi": "Hoàng gia"
+                },
+                "examples": [
+                    {
+                        "en": "the RAC (= Royal Automobile Club)",
+                        "vi": "RAC (= Royal Automobile Club)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "restricted (= a label for a movie that is not suitable for people under the age of 17 to see without an adult present)",
+                    "vi": "bị hạn chế (= nhãn cho phim không phù hợp cho những người dưới 17 tuổi xem mà không có người lớn đi cùng)"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "roentgen",
+                    "vi": "roentgen"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "21c2569fc6e44ac59a4b19b95f928614",
+        "word": "rating",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈreɪtɪŋ/",
+            "us": "/ˈreɪtɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "ratification",
+                "pos": "noun"
+            },
+            {
+                "word": "ratify",
+                "pos": "verb"
+            },
+            {
+                "word": "rating",
+                "pos": "noun"
+            },
+            {
+                "word": "ratio",
+                "pos": "noun"
+            },
+            {
+                "word": "ratiocination",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a measurement of how good, popular, important, etc. somebody/something is, especially in relation to other people or things",
+                    "vi": "đo lường mức độ tốt, phổ biến, quan trọng, v.v. của ai đó / điều gì đó, đặc biệt là trong mối quan hệ với những người hoặc sự vật khác"
+                },
+                "examples": [
+                    {
+                        "en": "The poll gave an approval rating of 39 per cent for the president.",
+                        "vi": "Cuộc thăm dò đã đưa ra tỷ lệ chấp thuận cho tổng thống là 39%."
+                    },
+                    {
+                        "en": "Education has been given a high-priority rating by the new administration.",
+                        "vi": "Giáo dục đã được đánh giá ưu tiên cao bởi chính quyền mới."
+                    },
+                    {
+                        "en": "‘The Big Bang Theory’ was the network show with the highest rating.",
+                        "vi": "The Big Bang Theory' là chương trình mạng có xếp hạng cao nhất."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a set of figures that show how many people watch or listen to a particular television or radio programme, used to show how popular a programme is",
+                    "vi": "một tập hợp các số liệu cho biết số người xem hoặc nghe một chương trình truyền hình hoặc đài phát thanh cụ thể, được sử dụng để cho biết mức độ phổ biến của một chương trình"
+                },
+                "examples": [
+                    {
+                        "en": "The show has gone up in the ratings.",
+                        "vi": "Chương trình đã tăng về xếp hạng."
+                    },
+                    {
+                        "en": "The BBC is currently ahead in the ratings war.",
+                        "vi": "BBC hiện đang dẫn đầu trong cuộc chiến xếp hạng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a number or letter that shows which groups of people a particular film is suitable for",
+                    "vi": "một số hoặc chữ cái cho biết một bộ phim cụ thể phù hợp với những nhóm người nào"
+                },
+                "examples": [
+                    {
+                        "en": "The film was given a 15 rating by British censors.",
+                        "vi": "Bộ phim được các nhà kiểm duyệt của Anh cho điểm 15."
+                    },
+                    {
+                        "en": "The movie carries an R rating.",
+                        "vi": "Phim có xếp hạng R."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a sailor in the navy who is not an officer",
+                    "vi": "một thủy thủ trong hải quân không phải là sĩ quan"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "b9540a60aae844649a5f801a7483c84a",
+        "word": "rave review",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌreɪv rɪˈvjuː/",
+            "us": "/ˌreɪv rɪˈvjuː/"
+        },
+        "nearby": [
+            {
+                "word": "ravenously",
+                "pos": "adverb"
+            },
+            {
+                "word": "raver",
+                "pos": "noun"
+            },
+            {
+                "word": "rave review",
+                "pos": "noun"
+            },
+            {
+                "word": "rave-up",
+                "pos": "noun"
+            },
+            {
+                "word": "ravine",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an article in a newspaper or magazine that is very enthusiastic about a particular film, book, etc.",
+                    "vi": "một bài báo trên một tờ báo hoặc tạp chí rất nhiệt tình về một bộ phim, cuốn sách cụ thể, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "Her performance won rave reviews from the critics.",
+                        "vi": "Màn trình diễn của cô đã giành được nhiều lời khen ngợi từ các nhà phê bình."
+                    },
+                    {
+                        "en": "The play opened to rave reviews.",
+                        "vi": "Vở kịch đã mở ra để nhận được nhiều lời khen ngợi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9e189299d63f4a30abc1fa91b875c778",
+        "word": "spoiler",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈspɔɪlə(r)/",
+            "us": "/ˈspɔɪlər/"
+        },
+        "nearby": [
+            {
+                "word": "spoil",
+                "pos": "noun"
+            },
+            {
+                "word": "spoilage",
+                "pos": "noun"
+            },
+            {
+                "word": "spoiler",
+                "pos": "noun"
+            },
+            {
+                "word": "spoiler alert",
+                "pos": "noun"
+            },
+            {
+                "word": "spoiling tactics",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a part of an aircraft’s wing that can be raised in order to interrupt the flow of air over it and so slow the aircraft’s speed",
+                    "vi": "một phần của cánh máy bay có thể nâng lên để làm gián đoạn luồng không khí qua nó và do đó làm chậm tốc độ của máy bay"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a raised part on a fast car that prevents it from being lifted off the road when travelling very fast",
+                    "vi": "một bộ phận được nâng lên trên ô tô đang chạy nhanh giúp nó không bị nâng lên khỏi mặt đường khi đi rất nhanh"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a candidate for a political office who is unlikely to win but who may get enough votes to prevent one of the main candidates from winning",
+                    "vi": "một ứng cử viên cho một văn phòng chính trị không có khả năng giành chiến thắng nhưng người có thể nhận đủ số phiếu để ngăn một trong những ứng cử viên chính giành chiến thắng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person or thing that intends or is intended to stop somebody/something being successful",
+                    "vi": "một người hoặc vật có ý định hoặc dự định ngăn cản ai đó / điều gì đó thành công"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "information that you are given about what is going to happen in a film, television series, etc. before it is shown to the public",
+                    "vi": "thông tin mà bạn được cung cấp về những gì sẽ xảy ra trong một bộ phim, một loạt phim truyền hình, v.v. trước khi nó được trình chiếu cho công chúng"
+                },
+                "examples": [
+                    {
+                        "en": "Warning: this review contains spoilers.",
+                        "vi": "Cảnh báo: đánh giá này có chứa những kẻ phá hoại."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a news story, book, etc. that is produced very quickly in order to take attention away from one produced by a competitor that appears at the same time",
+                    "vi": "một câu chuyện tin tức, cuốn sách, v.v. được sản xuất rất nhanh để thu hút sự chú ý từ một câu chuyện do đối thủ cạnh tranh sản xuất xuất hiện cùng lúc"
+                },
+                "examples": [
+                    {
+                        "en": "The paper ran a spoiler.",
+                        "vi": "Tờ giấy chạy một đoạn lướt gió."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "34b2c2498a7648728146484ead7fd9c8",
+        "word": "spoiler alert",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈspɔɪlər əlɜːt/",
+            "us": "/ˈspɔɪlər əlɜːrt/"
+        },
+        "nearby": [
+            {
+                "word": "spoilage",
+                "pos": "noun"
+            },
+            {
+                "word": "spoiler",
+                "pos": "noun"
+            },
+            {
+                "word": "spoiler alert",
+                "pos": "noun"
+            },
+            {
+                "word": "spoiling tactics",
+                "pos": "noun"
+            },
+            {
+                "word": "spoilsport",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a warning that information about what is going to happen in a film, television series, etc. is about to be revealed",
+                    "vi": "cảnh báo rằng thông tin về những gì sẽ xảy ra trong một bộ phim, một loạt phim truyền hình, v.v. sắp được tiết lộ"
+                },
+                "examples": [
+                    {
+                        "en": "In the final episode (spoiler alert) he gets shot.",
+                        "vi": "Trong tập cuối cùng (cảnh báo spoiler) anh ta bị bắn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "03e0c5d4197d4024962adf60833d9dd6",
+        "word": "U",
+        "pos": "abbreviation",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/juː/",
+            "us": "/juː/"
+        },
+        "nearby": [
+            {
+                "word": "U3A",
+                "pos": ""
+            },
+            {
+                "word": "U",
+                "pos": "noun"
+            },
+            {
+                "word": "U",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "U",
+                "pos": "symbol"
+            },
+            {
+                "word": "UA",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "universal (the label of a film that is suitable for anyone including children)",
+                    "vi": "phổ quát (nhãn của một bộ phim phù hợp với mọi người kể cả trẻ em)"
+                },
+                "examples": [
+                    {
+                        "en": "Aladdin, certificate U",
+                        "vi": "Aladdin, chứng chỉ U"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,3151 @@
+[
+    {
+        "id": "6c5f46d2ffb944cab00e5461d1588ea2",
+        "word": "hat",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/hæt/",
+            "us": "/hæt/"
+        },
+        "nearby": [
+            {
+                "word": "Warren Hastings",
+                "pos": ""
+            },
+            {
+                "word": "hasty",
+                "pos": "adjective"
+            },
+            {
+                "word": "hat",
+                "pos": "noun"
+            },
+            {
+                "word": "hatband",
+                "pos": "noun"
+            },
+            {
+                "word": "hatbox",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a piece of clothing made to fit the head, often with a brim (= a flat edge that sticks out), usually worn out of doors",
+                    "vi": "một bộ quần áo may vừa vặn với đầu, thường có vành (= một cạnh phẳng nhô ra), thường mặc khi ra ngoài"
+                },
+                "examples": [
+                    {
+                        "en": "a straw/woolly hat",
+                        "vi": "một chiếc mũ len / rơm"
+                    },
+                    {
+                        "en": "to wear a hat",
+                        "vi": "đội mũ"
+                    },
+                    {
+                        "en": "to put on/take off a hat",
+                        "vi": "đội / cởi mũ"
+                    },
+                    {
+                        "en": "to have a hat on",
+                        "vi": "đội một chiếc mũ"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a position or role, especially an official or professional role, when you have more than one such role",
+                    "vi": "một vị trí hoặc vai trò, đặc biệt là vai trò chính thức hoặc vai trò chuyên nghiệp, khi bạn có nhiều hơn một vai trò như vậy"
+                },
+                "examples": [
+                    {
+                        "en": "I'm wearing two hats tonight—parent and teacher.",
+                        "vi": "Tôi đội hai chiếc mũ tối nay — phụ huynh và giáo viên."
+                    },
+                    {
+                        "en": "I'm telling you this with my lawyer's hat on, you understand.",
+                        "vi": "Tôi đang nói với bạn điều này với chiếc mũ luật sư của tôi, bạn hiểu chứ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "immediately; without hesitating",
+                    "vi": "ngay lập tức; không do dự"
+                },
+                "examples": [
+                    {
+                        "en": "The company can't expect me to move my home and family at the drop of a hat.",
+                        "vi": "Công ty không thể mong đợi tôi chuyển nhà và gia đình của mình ngay lập tức."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to ask somebody for something, especially money, in a very polite way that makes you seem less important",
+                    "vi": "yêu cầu ai đó cho một cái gì đó, đặc biệt là tiền, theo một cách rất lịch sự khiến bạn có vẻ ít quan trọng hơn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to live in a particular place",
+                    "vi": "sống ở một nơi cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "These multimillion-dollar homes are more than just a place to hang your hat.",
+                        "vi": "Những ngôi nhà trị giá hàng triệu đô la này không chỉ là một nơi để treo mũ của bạn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to depend or rely on something",
+                    "vi": "phụ thuộc hoặc dựa vào một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "The research is interesting, but you cannot hang your hat on it.",
+                        "vi": "Nghiên cứu này rất thú vị, nhưng bạn không thể coi thường nó."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to express surprise",
+                    "vi": "được sử dụng để bày tỏ sự ngạc nhiên"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used to say that you think something is very unlikely to happen",
+                    "vi": "từng nói rằng bạn nghĩ rằng điều gì đó rất khó xảy ra"
+                },
+                "examples": [
+                    {
+                        "en": "If she's here on time, I'll eat my hat!",
+                        "vi": "Nếu cô ấy ở đây đúng giờ, tôi sẽ đội nón ra đi!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to say that you admire somebody very much for something they have done",
+                    "vi": "từng nói rằng bạn rất ngưỡng mộ ai đó vì những gì họ đã làm"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to keep something secret and not tell anyone else",
+                    "vi": "giữ bí mật điều gì đó và không nói với bất kỳ ai khác"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be very much better than somebody/something",
+                    "vi": "trở nên tốt hơn rất nhiều so với ai đó / cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "She knocks the rest of the cast into a cocked hat.",
+                        "vi": "Cô ấy đánh phần còn lại của dàn diễn viên vào một chiếc mũ có nón."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if something such as a name is picked out of a/the hat, it is picked at random from a container into which all the names are put, so that each name has an equal chance of being picked, in a competition, etc.",
+                    "vi": "Nếu một cái gì đó chẳng hạn như một cái tên được chọn ra khỏi a / chiếc mũ, nó sẽ được chọn ngẫu nhiên từ một hộp chứa tất cả các tên được đặt vào đó, để mỗi tên đều có cơ hội được chọn như nhau, trong một cuộc thi, v.v."
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to collect money from a number of people, for example to buy a present for somebody",
+                    "vi": "để thu tiền từ một số người, chẳng hạn như để mua một món quà cho ai đó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to suddenly produce something as a solution to a problem",
+                    "vi": "đột nhiên tạo ra một cái gì đó như một giải pháp cho một vấn đề"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to say silly things while you are talking about a subject you do not understand",
+                    "vi": "nói những điều ngớ ngẩn trong khi bạn đang nói về một chủ đề bạn không hiểu"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to announce officially that you are going to compete in an election, a competition, etc.",
+                    "vi": "để thông báo chính thức rằng bạn sẽ cạnh tranh trong một cuộc bầu cử, một cuộc thi, v.v."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "1edb45ec952945d5aa3f131d7d95940f",
+        "word": "cap",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/kæp/",
+            "us": "/kæp/"
+        },
+        "nearby": [
+            {
+                "word": "canyon",
+                "pos": "noun"
+            },
+            {
+                "word": "canyoning",
+                "pos": "noun"
+            },
+            {
+                "word": "cap",
+                "pos": "noun"
+            },
+            {
+                "word": "cap",
+                "pos": "verb"
+            },
+            {
+                "word": "CAP",
+                "pos": "abbreviation"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a type of soft flat hat with a peak (= a hard curved part sticking out in front). Caps are worn especially by men and boys, often as part of a uniform",
+                    "vi": "một loại mũ phẳng mềm có đỉnh (= một phần cong cứng nhô ra phía trước). Mũ lưỡi trai được nam giới và nam sinh đặc biệt đeo, thường là một phần của đồng phục"
+                },
+                "examples": [
+                    {
+                        "en": "to wear a cap.",
+                        "vi": "đội mũ lưỡi trai."
+                    },
+                    {
+                        "en": "to put on/take off a cap",
+                        "vi": "đội / cởi mũ lưỡi trai"
+                    },
+                    {
+                        "en": "to have a cap on",
+                        "vi": "để có một giới hạn trên"
+                    },
+                    {
+                        "en": "a school cap",
+                        "vi": "một chiếc mũ đi học"
+                    },
+                    {
+                        "en": "a peaked cap",
+                        "vi": "một giới hạn cao nhất"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a soft hat that fits closely and is worn for a particular purpose",
+                    "vi": "một chiếc mũ mềm vừa khít và được đội cho một mục đích cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "a shower cap",
+                        "vi": "mũ tắm"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a soft hat with a square flat top worn by some university teachers and students at special ceremonies",
+                    "vi": "một số giáo viên và sinh viên trường đại học đội một chiếc mũ mềm có mũ vuông ở các buổi lễ đặc biệt"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a cap given to somebody who is chosen to play for a school, country, etc.; a player chosen to play for their country, etc.",
+                    "vi": "một chiếc mũ được trao cho ai đó được chọn để chơi cho một trường học, quốc gia, v.v.; một người chơi được chọn để chơi cho quốc gia của họ, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "He won his first cap (= was first chosen to play) for England against France.",
+                        "vi": "Anh ấy đã giành được chiếc mũ đầu tiên của mình (= lần đầu tiên được chọn thi đấu) cho đội tuyển Anh trong trận đấu với Pháp."
+                    },
+                    {
+                        "en": "There are three new caps in the side.",
+                        "vi": "Có ba nắp mới ở bên cạnh."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a cover or top for a pen, bottle, etc.",
+                    "vi": "nắp hoặc nắp cho bút, chai, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "a lens cap",
+                        "vi": "một nắp ống kính"
+                    },
+                    {
+                        "en": "The bottle has a screw cap.",
+                        "vi": "Chai có nắp vặn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an artificial cover for a damaged tooth",
+                    "vi": "một vỏ bọc nhân tạo cho một chiếc răng bị hư hỏng"
+                },
+                "examples": [
+                    {
+                        "en": "He needed four caps for his teeth after the accident.",
+                        "vi": "Anh ta cần bốn chiếc mũ cho hàm răng của mình sau vụ tai nạn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the top of a mountain or a wave",
+                    "vi": "đỉnh núi hoặc sóng"
+                },
+                "examples": [
+                    {
+                        "en": "Purple mist sat below the snowy mountain caps.",
+                        "vi": "Sương tím đọng bên dưới những đỉnh núi đầy tuyết."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an upper limit on an amount of money that can be spent or borrowed by a particular institution or in a particular situation",
+                    "vi": "giới hạn trên đối với số tiền có thể được chi tiêu hoặc vay bởi một tổ chức cụ thể hoặc trong một tình huống cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "The government has placed a cap on local council spending.",
+                        "vi": "Chính phủ đã đặt giới hạn chi tiêu của hội đồng địa phương."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a small paper container with explosive powder inside it, used especially in toy guns",
+                    "vi": "một hộp giấy nhỏ với bột nổ bên trong, đặc biệt được sử dụng trong súng đồ chơi"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a rubber or plastic device that a woman places inside her vagina before having sex to prevent sperm from entering the womb and making her pregnant",
+                    "vi": "một dụng cụ bằng cao su hoặc nhựa mà người phụ nữ đặt vào bên trong âm đạo của mình trước khi quan hệ tình dục để ngăn tinh trùng xâm nhập vào tử cung và làm cho cô ấy có thai"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "an action that you can be proud of",
+                    "vi": "một hành động mà bạn có thể tự hào"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to ask somebody for something, especially money, in a very polite way that makes you seem less important",
+                    "vi": "yêu cầu ai đó cho một cái gì đó, đặc biệt là tiền, theo một cách rất lịch sự khiến bạn có vẻ ít quan trọng hơn"
+                },
+                "examples": [
+                    {
+                        "en": "There’s no way he’ll go cap in hand to his brother.",
+                        "vi": "Không đời nào anh ta lại tiếp tay với anh trai mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if you feel that a remark applies to you, you should accept it and take it as a warning or criticism",
+                    "vi": "nếu bạn cảm thấy rằng một nhận xét áp dụng cho bạn, bạn nên chấp nhận nó và coi nó như một lời cảnh báo hoặc chỉ trích"
+                },
+                "examples": [
+                    {
+                        "en": "I didn’t actually say that you were lazy, but if the cap fits…",
+                        "vi": "Tôi không thực sự nói rằng bạn lười biếng, nhưng nếu chiếc mũ vừa vặn…"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "518d5cce00a44dcdba9a8d963aef4d23",
+        "word": "sun hat",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈsʌn hæt/",
+            "us": "/ˈsʌn hæt/"
+        },
+        "nearby": [
+            {
+                "word": "sung",
+                "pos": "verb"
+            },
+            {
+                "word": "sunglasses",
+                "pos": "noun"
+            },
+            {
+                "word": "sun hat",
+                "pos": "noun"
+            },
+            {
+                "word": "sunk",
+                "pos": "verb"
+            },
+            {
+                "word": "sunken",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a hat worn to protect the head and neck from the sun",
+                    "vi": "đội mũ để bảo vệ đầu và cổ khỏi ánh nắng mặt trời"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "998a0eed47814e6e88ea10733af118d8",
+        "word": "helmet",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈhelmɪt/",
+            "us": "/ˈhelmɪt/"
+        },
+        "nearby": [
+            {
+                "word": "helm",
+                "pos": "noun"
+            },
+            {
+                "word": "helm",
+                "pos": "verb"
+            },
+            {
+                "word": "helmet",
+                "pos": "noun"
+            },
+            {
+                "word": "helmeted",
+                "pos": "adjective"
+            },
+            {
+                "word": "helmsman",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a type of hard hat that protects the head, worn, for example, by a police officer, a soldier or a person riding a bike or motorbike or playing some sports",
+                    "vi": "một loại mũ cứng bảo vệ đầu, ví dụ như công an, bộ đội hoặc người đi xe đạp, xe máy hoặc chơi môn thể thao nào đó đội"
+                },
+                "examples": [
+                    {
+                        "en": "Police in riot helmets lined the streets.",
+                        "vi": "Cảnh sát đội mũ bảo hiểm chống bạo động xếp hàng dài trên đường phố."
+                    },
+                    {
+                        "en": "A protective helmet should be worn at all times.",
+                        "vi": "Nên đội mũ bảo hộ lao động mọi lúc."
+                    },
+                    {
+                        "en": "Cycle helmets dramatically reduce the risk and severity of head injuries.",
+                        "vi": "Mũ bảo hiểm đi xe đạp làm giảm đáng kể nguy cơ và mức độ nghiêm trọng của chấn thương đầu."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5500438236eb46eca0ea3e40d20762eb",
+        "word": "cowboy hat",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈkaʊbɔɪ hæt/",
+            "us": "/ˈkaʊbɔɪ hæt/"
+        },
+        "nearby": [
+            {
+                "word": "cowboy",
+                "pos": "noun"
+            },
+            {
+                "word": "cowboy boot",
+                "pos": "noun"
+            },
+            {
+                "word": "cowboy hat",
+                "pos": "noun"
+            },
+            {
+                "word": "cowboys and Indians",
+                "pos": "noun"
+            },
+            {
+                "word": "cowcatcher",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a hat with a wide brim, worn by American cowboys",
+                    "vi": "đội mũ rộng vành của cao bồi Mỹ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "fead5544e3354191b122203919be07ec",
+        "word": "crash helmet",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈkræʃ helmɪt/",
+            "us": "/ˈkræʃ helmɪt/"
+        },
+        "nearby": [
+            {
+                "word": "crash-dive",
+                "pos": "verb"
+            },
+            {
+                "word": "crasher",
+                "pos": "noun"
+            },
+            {
+                "word": "crash helmet",
+                "pos": "noun"
+            },
+            {
+                "word": "crash-land",
+                "pos": "verb"
+            },
+            {
+                "word": "crash landing",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a hat made of very strong material and worn to protect the head when riding a motorcycle or driving a racing car",
+                    "vi": "một chiếc mũ làm bằng chất liệu rất chắc chắn và đội để bảo vệ đầu khi đi xe mô tô, lái xe đua"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "d3c834645ae54a408c334bf06d95c2b1",
+        "word": "crown",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/kraʊn/",
+            "us": "/kraʊn/"
+        },
+        "nearby": [
+            {
+                "word": "crowdsource",
+                "pos": "verb"
+            },
+            {
+                "word": "crowdsourcing",
+                "pos": "noun"
+            },
+            {
+                "word": "crown",
+                "pos": "noun"
+            },
+            {
+                "word": "crown",
+                "pos": "verb"
+            },
+            {
+                "word": "Crown Agent",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an object in the shape of a circle, usually made of gold and precious stones, that a king or queen wears on his or her head on official occasions",
+                    "vi": "một vật có dạng hình tròn, thường được làm bằng vàng và đá quý, mà vua hoặc hoàng hậu đội trên đầu trong những dịp chính thức"
+                },
+                "examples": [
+                    {
+                        "en": "The crown was placed upon the new monarch's head.",
+                        "vi": "Vương miện được đặt trên đầu của quốc vương mới."
+                    },
+                    {
+                        "en": "the emperor's jewel-encrusted crown",
+                        "vi": "vương miện nạm ngọc của hoàng đế"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the government of a country, thought of as being represented by a king or queen",
+                    "vi": "chính phủ của một quốc gia, được coi là được đại diện bởi vua hoặc nữ hoàng"
+                },
+                "examples": [
+                    {
+                        "en": "land owned by the Crown",
+                        "vi": "đất thuộc sở hữu của Crown"
+                    },
+                    {
+                        "en": "a Minister of the Crown",
+                        "vi": "một Bộ trưởng của Vương miện"
+                    },
+                    {
+                        "en": "Who's appearing for the Crown (= bringing a criminal charge against somebody on behalf of the state) in this case?",
+                        "vi": "Ai sẽ xuất hiện vì Crown (= thay mặt tiểu bang đưa ra cáo buộc hình sự đối với ai đó) trong trường hợp này?"
+                    },
+                    {
+                        "en": "a piece of Crown land",
+                        "vi": "một mảnh đất Crown"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the position or power of a king or queen",
+                    "vi": "vị trí hoặc quyền lực của một vị vua hoặc nữ hoàng"
+                },
+                "examples": [
+                    {
+                        "en": "She refused the crown (= refused to become queen).",
+                        "vi": "Cô ấy từ chối vương miện (= từ chối trở thành nữ hoàng)."
+                    },
+                    {
+                        "en": "his claim to the French crown",
+                        "vi": "tuyên bố của anh ấy đối với vương miện Pháp"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a circle of flowers, leaves, etc. that is worn on somebody’s head, sometimes as a sign of victory",
+                    "vi": "một vòng hoa, lá, v.v. được đội trên đầu ai đó, đôi khi là dấu hiệu của chiến thắng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the position of winning a sports competition",
+                    "vi": "vị trí chiến thắng trong một cuộc thi thể thao"
+                },
+                "examples": [
+                    {
+                        "en": "She is determined to retain her Wimbledon crown.",
+                        "vi": "Cô quyết tâm giữ lại vương miện Wimbledon của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the top part of the head or a hat",
+                    "vi": "phần trên của đầu hoặc một chiếc mũ"
+                },
+                "examples": [
+                    {
+                        "en": "There were raindrops on his bald crown.",
+                        "vi": "Có những hạt mưa trên vương miện hói của anh ta."
+                    },
+                    {
+                        "en": "She swept her hair into a bun at the crown of her head.",
+                        "vi": "Cô búi tóc thành búi cao trên đỉnh đầu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the highest part of something",
+                    "vi": "phần cao nhất của một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "the crown of a hill",
+                        "vi": "vương miện của một ngọn đồi"
+                    },
+                    {
+                        "en": "from the crown of the final bend",
+                        "vi": "từ đỉnh của khúc cua cuối cùng"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the part of a plant just above and below the ground",
+                    "vi": "phần của cây ngay trên và dưới mặt đất"
+                },
+                "examples": [
+                    {
+                        "en": "Roses bloom on shoots that sprout from the crown of the mother plant.",
+                        "vi": "Hoa hồng nở trên các chồi mọc ra từ ngọn của cây mẹ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the top of a tree or other plant",
+                    "vi": "ngọn cây hoặc cây khác"
+                },
+                "examples": [
+                    {
+                        "en": "Nests were built high in the crowns of trees.",
+                        "vi": "Tổ được xây cao trên những tán cây."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an artificial cover for a damaged tooth",
+                    "vi": "một vỏ bọc nhân tạo cho một chiếc răng bị hư hỏng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the part of the tooth that is above the gum",
+                    "vi": "phần răng ở trên nướu"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "anything in the shape of a crown, especially as a decoration or a badge",
+                    "vi": "bất cứ thứ gì có hình vương miện, đặc biệt là đồ trang trí hoặc huy hiệu"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a unit of money in several European countries",
+                    "vi": "một đơn vị tiền ở một số nước Châu Âu"
+                },
+                "examples": [
+                    {
+                        "en": "Czech crowns",
+                        "vi": "Mão Czech"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an old British coin worth five shillings (= now 25p)",
+                    "vi": "một đồng xu cũ của Anh trị giá năm shilling (= bây giờ là 25p)"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the most attractive or valuable part of something",
+                    "vi": "phần hấp dẫn hoặc giá trị nhất của một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "The Knightsbridge branch is the jewel in the crown of a 500-strong chain of stores.",
+                        "vi": "Chi nhánh Knightsbridge là viên ngọc quý trên vương miện của chuỗi 500 cửa hàng lớn mạnh."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "163613c2ffe949d9a71c9a92abd4d45c",
+        "word": "top hat",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌtɒp ˈhæt/",
+            "us": "/ˈtɑːp hæt/"
+        },
+        "nearby": [
+            {
+                "word": "top-grossing",
+                "pos": "adjective"
+            },
+            {
+                "word": "Top Gun",
+                "pos": ""
+            },
+            {
+                "word": "top hat",
+                "pos": "noun"
+            },
+            {
+                "word": "top-heavy",
+                "pos": "adjective"
+            },
+            {
+                "word": "top-hole",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a man’s tall black or grey hat, worn with formal clothes on very formal occasions",
+                    "vi": "một người đàn ông đội mũ cao màu đen hoặc xám, mặc với quần áo trang trọng trong những dịp rất trang trọng"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "0d12844e5a1e4dafbe9aae6c5522e722",
+        "word": "veil",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/veɪl/",
+            "us": "/veɪl/"
+        },
+        "nearby": [
+            {
+                "word": "vehicle",
+                "pos": "noun"
+            },
+            {
+                "word": "vehicular",
+                "pos": "adjective"
+            },
+            {
+                "word": "veil",
+                "pos": "noun"
+            },
+            {
+                "word": "veil",
+                "pos": "verb"
+            },
+            {
+                "word": "veiled",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a piece of very thin material, worn especially by women to protect or hide the face, or as part of a hat, etc.",
+                    "vi": "một mảnh chất liệu rất mỏng, được phụ nữ đặc biệt mặc để bảo vệ hoặc che mặt, hoặc như một phần của mũ, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "The bridal veil was fringed with lace.",
+                        "vi": "Mạng che mặt cô dâu được làm tua rua bằng ren."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a piece of cloth worn over the head and shoulders by nuns or Muslim women",
+                    "vi": "một mảnh vải choàng qua đầu và vai của các nữ tu sĩ hoặc phụ nữ Hồi giáo"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "something that stops you from learning the truth about a situation",
+                    "vi": "điều gì đó ngăn bạn học sự thật về một tình huống"
+                },
+                "examples": [
+                    {
+                        "en": "Their work is carried out behind a veil of secrecy.",
+                        "vi": "Công việc của họ được thực hiện đằng sau một bức màn bí mật."
+                    },
+                    {
+                        "en": "It would be better to draw a veil over what happened next (= not talk about it).",
+                        "vi": "Tốt hơn hết là bạn nên vẽ một bức màn che về những gì xảy ra tiếp theo (= không nói về nó)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a thin layer that stops you from seeing something",
+                    "vi": "một lớp mỏng ngăn bạn nhìn thấy thứ gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "The mountain tops were hidden beneath a veil of mist.",
+                        "vi": "Các đỉnh núi ẩn hiện bên dưới một bức màn sương mù."
+                    },
+                    {
+                        "en": "He couldn't see anything through the veil of cloud.",
+                        "vi": "Anh không thể nhìn thấy gì qua bức màn mây."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to become a nun",
+                    "vi": "trở thành một nữ tu sĩ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "f7e04937bf3d4c298f7ad3ca1c3c5c19",
+        "word": "balaclava",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌbæləˈklɑːvə/",
+            "us": "/ˌbæləˈklɑːvə/"
+        },
+        "nearby": [
+            {
+                "word": "baklava",
+                "pos": "noun"
+            },
+            {
+                "word": "baksheesh",
+                "pos": "noun"
+            },
+            {
+                "word": "balaclava",
+                "pos": "noun"
+            },
+            {
+                "word": "balafon",
+                "pos": "noun"
+            },
+            {
+                "word": "balalaika",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a type of hat made of wool that covers most of the head, neck and face",
+                    "vi": "một loại mũ làm bằng len che gần hết đầu, cổ và mặt."
+                },
+                "examples": [
+                    {
+                        "en": "The two attackers were wearing balaclavas.",
+                        "vi": "Hai kẻ tấn công đều mặc áo ba lỗ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7dcf72b2d3f24a4eae74c2b0e52864b3",
+        "word": "balmoral",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/bælˈmɒrəl/",
+            "us": "/bælˈmɔːrəl/"
+        },
+        "nearby": [
+            {
+                "word": "ballyhoo",
+                "pos": "noun"
+            },
+            {
+                "word": "balm",
+                "pos": "noun"
+            },
+            {
+                "word": "balmoral",
+                "pos": "noun"
+            },
+            {
+                "word": "Balmoral",
+                "pos": ""
+            },
+            {
+                "word": "balmy",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a type of round hat without a brim, often with ribbons attached, worn by some Scottish soldiers as part of their uniform",
+                    "vi": "một loại mũ tròn không có vành, thường có gắn các dải ruy băng, được một số binh sĩ Scotland đội như một phần của quân phục của họ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a strong heavy walking boot",
+                    "vi": "một đôi giày đi bộ nặng nề mạnh mẽ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "99fcf2b7dd6e43edb1cd67ac4d1717d6",
+        "word": "bandana",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/bænˈdænə/",
+            "us": "/bænˈdænə/"
+        },
+        "nearby": [
+            {
+                "word": "bandage",
+                "pos": "verb"
+            },
+            {
+                "word": "Band-Aid",
+                "pos": "noun"
+            },
+            {
+                "word": "bandana",
+                "pos": "noun"
+            },
+            {
+                "word": "B and B",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "band council",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a piece of brightly coloured cloth worn around the neck or head",
+                    "vi": "một mảnh vải sáng màu đeo quanh cổ hoặc đầu"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "464fa3a083ac4addabde9c0b5576bcba",
+        "word": "beanie",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbiːni/",
+            "us": "/ˈbiːni/"
+        },
+        "nearby": [
+            {
+                "word": "bean curd",
+                "pos": "noun"
+            },
+            {
+                "word": "beanfeast",
+                "pos": "noun"
+            },
+            {
+                "word": "beanie",
+                "pos": "noun"
+            },
+            {
+                "word": "beano",
+                "pos": "noun"
+            },
+            {
+                "word": "the Beano",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small, round close-fitting hat",
+                    "vi": "một chiếc mũ kín tròn nhỏ"
+                },
+                "examples": [
+                    {
+                        "en": "If you’re after a simple, stylish beanie to keep you warm this winter, then this is the one for you.",
+                        "vi": "Nếu bạn đang theo đuổi một chiếc mũ len đơn giản, phong cách để giữ ấm cho bạn trong mùa đông này, thì đây là chiếc dành cho bạn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5cf7eb88157245db8e5b7ef2e68d2625",
+        "word": "bearskin",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbeəskɪn/",
+            "us": "/ˈberskɪn/"
+        },
+        "nearby": [
+            {
+                "word": "bear on",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "bear out",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "bearskin",
+                "pos": "noun"
+            },
+            {
+                "word": "bear up",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "bear with",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the skin and fur of a bear",
+                    "vi": "da và lông của gấu"
+                },
+                "examples": [
+                    {
+                        "en": "a bearskin rug",
+                        "vi": "một tấm thảm da gấu"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a tall hat of black fur worn for special ceremonies by some British soldiers",
+                    "vi": "một số binh sĩ Anh đội một chiếc mũ cao bằng lông đen cho các nghi lễ đặc biệt"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "dc4ec2c92b314c009b8fb451ce677e93",
+        "word": "beret",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbereɪ/",
+            "us": "/bəˈreɪ/"
+        },
+        "nearby": [
+            {
+                "word": "bereavement",
+                "pos": "noun"
+            },
+            {
+                "word": "bereft",
+                "pos": "adjective"
+            },
+            {
+                "word": "beret",
+                "pos": "noun"
+            },
+            {
+                "word": "Beretta",
+                "pos": ""
+            },
+            {
+                "word": "be revenged on",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a round flat cap made out of soft cloth",
+                    "vi": "một cái mũ phẳng tròn làm bằng vải mềm"
+                },
+                "examples": [
+                    {
+                        "en": "a soldier wearing the light blue beret of the United Nations",
+                        "vi": "một người lính đội mũ nồi xanh nhạt của Liên hợp quốc"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5df48c4c458d4f6c8ce224ec05cfcbd1",
+        "word": "boater",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbəʊtə(r)/",
+            "us": "/ˈbəʊtər/"
+        },
+        "nearby": [
+            {
+                "word": "boastful",
+                "pos": "adjective"
+            },
+            {
+                "word": "boat",
+                "pos": "noun"
+            },
+            {
+                "word": "boater",
+                "pos": "noun"
+            },
+            {
+                "word": "boathook",
+                "pos": "noun"
+            },
+            {
+                "word": "boathouse",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a hard straw hat with a flat top",
+                    "vi": "một chiếc mũ rơm cứng với phần trên bằng phẳng"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "0b7e6d8b05d14cd9845789fc3dcad0a9",
+        "word": "bobble hat",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbɒbl hæt/",
+            "us": "/ˈbɑːbl hæt/"
+        },
+        "nearby": [
+            {
+                "word": "bobble",
+                "pos": "noun"
+            },
+            {
+                "word": "bobble",
+                "pos": "verb"
+            },
+            {
+                "word": "bobble hat",
+                "pos": "noun"
+            },
+            {
+                "word": "bobby",
+                "pos": "noun"
+            },
+            {
+                "word": "Bobby",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a close-fitting hat made of wool with a ball of wool on the top",
+                    "vi": "một chiếc mũ len sát nách với một quả bóng len trên đầu."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "324461f2cdb04727b4f9deecc76be561",
+        "word": "bonnet",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbɒnɪt/",
+            "us": "/ˈbɑːnɪt/"
+        },
+        "nearby": [
+            {
+                "word": "bon mot",
+                "pos": "noun"
+            },
+            {
+                "word": "bonne femme",
+                "pos": "adjective"
+            },
+            {
+                "word": "bonnet",
+                "pos": "noun"
+            },
+            {
+                "word": "Bonnie and Clyde",
+                "pos": ""
+            },
+            {
+                "word": "bonny",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a hat tied with strings under the chin, worn by babies and, especially in the past, by women",
+                    "vi": "một chiếc mũ buộc dây dưới cằm, được đội bởi trẻ sơ sinh và, đặc biệt là phụ nữ trong quá khứ"
+                },
+                "examples": [
+                    {
+                        "en": "a baby's bonnet",
+                        "vi": "nắp ca-pô của em bé"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the metal part over the front of a vehicle, usually covering the engine",
+                    "vi": "phần kim loại phía trước xe, thường bao phủ động cơ"
+                },
+                "examples": [
+                    {
+                        "en": "The child hit the bonnet and was flung through the air.",
+                        "vi": "Đứa trẻ va vào nắp ca-pô và văng qua không trung."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to think or talk about something all the time and to think that it is very important",
+                    "vi": "nghĩ hoặc nói về điều gì đó mọi lúc và nghĩ rằng điều đó rất quan trọng"
+                },
+                "examples": [
+                    {
+                        "en": "Our teacher has a bee in his bonnet about punctuation.",
+                        "vi": "Giáo viên của chúng tôi có một con ong trong nắp ca-pô của mình về dấu câu."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "29c75866e96a4c258c54a2cdb60112e6",
+        "word": "bowler",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbəʊlə(r)/",
+            "us": "/ˈbəʊlər/"
+        },
+        "nearby": [
+            {
+                "word": "bow-legged",
+                "pos": "adjective"
+            },
+            {
+                "word": "bow legs",
+                "pos": "noun"
+            },
+            {
+                "word": "bowler",
+                "pos": "noun"
+            },
+            {
+                "word": "bowl game",
+                "pos": "noun"
+            },
+            {
+                "word": "bowline1",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a player who throws the ball towards the batsman",
+                    "vi": "một cầu thủ ném bóng về phía người đánh bóng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a hard black hat with a curved brim and round top, worn, for example, in the past by men in business in Britain",
+                    "vi": "Ví dụ, trong quá khứ, một chiếc mũ đen cứng có vành cong và chóp tròn, được đội bởi những người đàn ông kinh doanh ở Anh."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "bc6b118ed80d481f913ef79c2b9a2016",
+        "word": "brim",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/brɪm/",
+            "us": "/brɪm/"
+        },
+        "nearby": [
+            {
+                "word": "brilliantly",
+                "pos": "adverb"
+            },
+            {
+                "word": "Brillo pad",
+                "pos": "noun"
+            },
+            {
+                "word": "brim",
+                "pos": "noun"
+            },
+            {
+                "word": "brim",
+                "pos": "verb"
+            },
+            {
+                "word": "brimful",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the top edge of a cup, bowl, glass, etc.",
+                    "vi": "mép trên của cốc, bát, ly, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "two wine glasses, filled to the brim",
+                        "vi": "hai ly rượu, đầy đến miệng"
+                    },
+                    {
+                        "en": "(figurative) She felt suddenly alive and full to the brim with enthusiasm.",
+                        "vi": "(nghĩa bóng) Cô ấy đột nhiên cảm thấy sống động và tràn đầy nhiệt huyết."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the flat edge around the bottom of a hat that sticks out",
+                    "vi": "mép phẳng xung quanh đáy mũ nhô ra"
+                },
+                "examples": [
+                    {
+                        "en": "She watched the crowd from beneath the brim of her hat.",
+                        "vi": "Cô ấy quan sát đám đông từ bên dưới vành mũ của mình."
+                    },
+                    {
+                        "en": "a straw hat with a wide brim",
+                        "vi": "một chiếc mũ rơm rộng vành"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "having the type of brim mentioned",
+                    "vi": "có loại vành được đề cập"
+                },
+                "examples": [
+                    {
+                        "en": "a wide-brimmed hat",
+                        "vi": "một chiếc mũ rộng vành"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "fb6a037432334a048d8c665ec203b20b",
+        "word": "busby",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbʌzbi/",
+            "us": "/ˈbʌzbi/"
+        },
+        "nearby": [
+            {
+                "word": "bus",
+                "pos": "verb"
+            },
+            {
+                "word": "busboy",
+                "pos": "noun"
+            },
+            {
+                "word": "busby",
+                "pos": "noun"
+            },
+            {
+                "word": "Matt Busby",
+                "pos": ""
+            },
+            {
+                "word": "bush",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a tall fur hat worn by some British soldiers for special ceremonies",
+                    "vi": "một số lính Anh đội mũ lông cao cho các nghi lễ đặc biệt"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "6aff80c964c34ccd937467ac660815f9",
+        "word": "cloche",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/klɒʃ/",
+            "us": "/kləʊʃ/"
+        },
+        "nearby": [
+            {
+                "word": "clobber",
+                "pos": "verb"
+            },
+            {
+                "word": "clobber",
+                "pos": "noun"
+            },
+            {
+                "word": "cloche",
+                "pos": "noun"
+            },
+            {
+                "word": "clock",
+                "pos": "noun"
+            },
+            {
+                "word": "clock",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a glass or plastic cover placed over young plants to protect them from cold weather",
+                    "vi": "một tấm thủy tinh hoặc nhựa che phủ trên cây non để bảo vệ chúng khỏi thời tiết lạnh"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a hat that is like a bell in shape and fits close to the head, worn especially in the 1920s",
+                    "vi": "một chiếc mũ có hình dáng giống như một chiếc chuông và ôm sát vào đầu, đặc biệt được đội vào những năm 1920"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "9b34a95b0547433b8b57cf0ef605b229",
+        "word": "derby",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈdɑːbi/",
+            "us": "/ˈdɜːrbi/"
+        },
+        "nearby": [
+            {
+                "word": "deranged",
+                "pos": "adjective"
+            },
+            {
+                "word": "derangement",
+                "pos": "noun"
+            },
+            {
+                "word": "derby",
+                "pos": "noun"
+            },
+            {
+                "word": "Derby",
+                "pos": ""
+            },
+            {
+                "word": "Derbyshire",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a hard black hat with a curved brim and round top, worn, for example, in the past by men in business in England",
+                    "vi": "Ví dụ, một chiếc mũ đen cứng có vành cong và đỉnh tròn, được những người đàn ông kinh doanh ở Anh đội trước đây"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a sports competition between teams from the same area or town",
+                    "vi": "một cuộc thi thể thao giữa các đội từ cùng một khu vực hoặc thị trấn"
+                },
+                "examples": [
+                    {
+                        "en": "a local derby between the two North London sides",
+                        "vi": "một trận derby địa phương giữa hai bên Bắc Luân Đôn"
+                    },
+                    {
+                        "en": "a derby match",
+                        "vi": "một trận derby"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a race or sports competition",
+                    "vi": "một cuộc đua hoặc cuộc thi thể thao"
+                },
+                "examples": [
+                    {
+                        "en": "a motorcycle derby",
+                        "vi": "một trận derby xe máy"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used in the name of several horse races that happen every year",
+                    "vi": "được sử dụng dưới tên một số cuộc đua ngựa diễn ra hàng năm"
+                },
+                "examples": [
+                    {
+                        "en": "the Epsom Derby",
+                        "vi": "trận Derby Epsom"
+                    },
+                    {
+                        "en": "the Kentucky Derby",
+                        "vi": "trận Derby Kentucky"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7e66c0eef0214efcb894290d94c546bd",
+        "word": "dunce’s cap",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈdʌnsɪz kæp/",
+            "us": "/ˈdʌnsɪz kæp/"
+        },
+        "nearby": [
+            {
+                "word": "Duncan Hines",
+                "pos": ""
+            },
+            {
+                "word": "dunce",
+                "pos": "noun"
+            },
+            {
+                "word": "dunce's cap",
+                "pos": "noun"
+            },
+            {
+                "word": "Dundee",
+                "pos": ""
+            },
+            {
+                "word": "Dundee cake",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a pointed hat that was sometimes given in the past to a child in a class at school who was slow to learn",
+                    "vi": "trong quá khứ đôi khi được tặng một chiếc mũ nhọn cho một đứa trẻ trong lớp học chậm học"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "771b21f08b98486e86b719edc5ac9f9b",
+        "word": "fedora",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/fɪˈdɔːrə/",
+            "us": "/fɪˈdɔːrə/"
+        },
+        "nearby": [
+            {
+                "word": "federation",
+                "pos": "noun"
+            },
+            {
+                "word": "FedEx",
+                "pos": ""
+            },
+            {
+                "word": "fedora",
+                "pos": "noun"
+            },
+            {
+                "word": "fed up",
+                "pos": "adjective"
+            },
+            {
+                "word": "fee",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a low soft hat with a wide brim",
+                    "vi": "một chiếc mũ mềm thấp với vành rộng"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "43bd03596c5b40f189919b167bcde02e",
+        "word": "fez",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/fez/",
+            "us": "/fez/"
+        },
+        "nearby": [
+            {
+                "word": "fey",
+                "pos": "adjective"
+            },
+            {
+                "word": "Richard Feynman",
+                "pos": ""
+            },
+            {
+                "word": "fez",
+                "pos": "noun"
+            },
+            {
+                "word": "ff",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "ff.",
+                "pos": "abbreviation"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a round red hat with a flat top and a tassel but no brim, worn by men in some Muslim countries",
+                    "vi": "Một chiếc mũ tròn màu đỏ có phần trên bằng phẳng và có tua nhưng không có vành, được nam giới ở một số quốc gia Hồi giáo đội"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "46ed94e898384104ad077e1095d026d5",
+        "word": "glengarry",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ɡlenˈɡæri/",
+            "us": "/ɡlenˈɡæri/"
+        },
+        "nearby": [
+            {
+                "word": "Gleneagles",
+                "pos": ""
+            },
+            {
+                "word": "Glenfiddich",
+                "pos": "noun"
+            },
+            {
+                "word": "glengarry",
+                "pos": "noun"
+            },
+            {
+                "word": "John Glenn",
+                "pos": ""
+            },
+            {
+                "word": "glib",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a hat that is like a boat in shape, has no brim and has two ribbons hanging at the back, worn as part of traditional Scottish Highland dress",
+                    "vi": "một chiếc mũ giống hình chiếc thuyền, không có vành và có hai dải ruy băng treo ở phía sau, được mặc như một phần của trang phục truyền thống của Cao nguyên Scotland"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "190a24877ca8407a885333f010a14bdb",
+        "word": "hard hat",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈhɑːd hæt/",
+            "us": "/ˈhɑːrd hæt/"
+        },
+        "nearby": [
+            {
+                "word": "hard-faced",
+                "pos": "adjective"
+            },
+            {
+                "word": "hard-fought",
+                "pos": "adjective"
+            },
+            {
+                "word": "hard hat",
+                "pos": "noun"
+            },
+            {
+                "word": "hard-headed",
+                "pos": "adjective"
+            },
+            {
+                "word": "hard-hearted",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a hat worn by building workers, etc. to protect their heads",
+                    "vi": "đội mũ của công nhân xây dựng, v.v. để bảo vệ đầu của họ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "8a67f094f09047999f8282a52776cd5c",
+        "word": "hatband",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈhætbænd/",
+            "us": "/ˈhætbænd/"
+        },
+        "nearby": [
+            {
+                "word": "hasty",
+                "pos": "adjective"
+            },
+            {
+                "word": "hat",
+                "pos": "noun"
+            },
+            {
+                "word": "hatband",
+                "pos": "noun"
+            },
+            {
+                "word": "hatbox",
+                "pos": "noun"
+            },
+            {
+                "word": "hatch",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a band of cloth placed around a hat as decoration",
+                    "vi": "một dải vải xung quanh mũ như một vật trang trí"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "1156e351018e4991a5630fd2da505acc",
+        "word": "hatpin",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈhætpɪn/",
+            "us": "/ˈhætpɪn/"
+        },
+        "nearby": [
+            {
+                "word": "hath",
+                "pos": "verb"
+            },
+            {
+                "word": "Anne Hathaway",
+                "pos": ""
+            },
+            {
+                "word": "hatpin",
+                "pos": "noun"
+            },
+            {
+                "word": "hatred",
+                "pos": "noun"
+            },
+            {
+                "word": "hatstand",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a long pin used for fastening a hat to your hair, especially in the past",
+                    "vi": "một chiếc ghim dài được sử dụng để buộc mũ vào tóc của bạn, đặc biệt là trong quá khứ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "6693f467f31c45ca89af3475d5e5f39b",
+        "word": "headgear",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈhedɡɪə(r)/",
+            "us": "/ˈhedɡɪr/"
+        },
+        "nearby": [
+            {
+                "word": "headed",
+                "pos": "adjective"
+            },
+            {
+                "word": "header",
+                "pos": "noun"
+            },
+            {
+                "word": "headgear",
+                "pos": "noun"
+            },
+            {
+                "word": "head girl",
+                "pos": "noun"
+            },
+            {
+                "word": "headhunt",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "anything worn on the head, for example a hat",
+                    "vi": "bất cứ thứ gì đội trên đầu, ví dụ như một chiếc mũ"
+                },
+                "examples": [
+                    {
+                        "en": "protective headgear",
+                        "vi": "mũ bảo hộ"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "11efa1eed52a4a79bf65a5dcc05ae3ab",
+        "word": "headscarf",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈhedskɑːf/",
+            "us": "/ˈhedskɑːrf/"
+        },
+        "nearby": [
+            {
+                "word": "headroom",
+                "pos": "noun"
+            },
+            {
+                "word": "head rush",
+                "pos": "noun"
+            },
+            {
+                "word": "headscarf",
+                "pos": "noun"
+            },
+            {
+                "word": "headset",
+                "pos": "noun"
+            },
+            {
+                "word": "headship",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a square piece of cloth that covers the head, worn by women or girls",
+                    "vi": "một mảnh vải vuông che đầu, phụ nữ hoặc trẻ em gái mặc"
+                },
+                "examples": [
+                    {
+                        "en": "Muslim women wearing headscarves, known in Arabic as hijabs",
+                        "vi": "Phụ nữ Hồi giáo đội khăn trùm đầu, được gọi bằng tiếng Ả Rập là hijabs"
+                    },
+                    {
+                        "en": "The number of women choosing to wear the Islamic headscarf is on the rise in this country.",
+                        "vi": "Số lượng phụ nữ chọn đội khăn trùm đầu Hồi giáo đang gia tăng ở quốc gia này."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "cd31bb505c564dd1ac70f675c98cdd0f",
+        "word": "homburg",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈhɒmbɜːɡ/",
+            "us": "/ˈhɑːmbɜːrɡ/"
+        },
+        "nearby": [
+            {
+                "word": "homage",
+                "pos": "noun"
+            },
+            {
+                "word": "hombre",
+                "pos": "noun"
+            },
+            {
+                "word": "homburg",
+                "pos": "noun"
+            },
+            {
+                "word": "Home, Sweet Home",
+                "pos": ""
+            },
+            {
+                "word": "home",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a man’s soft hat with a narrow, curled brim",
+                    "vi": "một chiếc mũ mềm của một người đàn ông có vành hẹp và cuộn tròn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "efcc86445c744c4c837eccfcea887e8f",
+        "word": "miter",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈmaɪtə(r)/",
+            "us": "/ˈmaɪtər/"
+        },
+        "nearby": [
+            {
+                "word": "Robert Mitchum",
+                "pos": ""
+            },
+            {
+                "word": "mite",
+                "pos": "noun"
+            },
+            {
+                "word": "miter",
+                "pos": "noun"
+            },
+            {
+                "word": "miter",
+                "pos": "verb"
+            },
+            {
+                "word": "Mitford",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a tall pointed hat worn by bishops at special ceremonies as a symbol of their position and authority",
+                    "vi": "một chiếc mũ cao nhọn được các giám mục đội trong các buổi lễ đặc biệt như một biểu tượng của chức vụ và quyền hạn của họ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a corner joint, formed by two pieces of wood each cut at an angle, as in a picture frame",
+                    "vi": "một khớp góc, được tạo thành bởi hai miếng gỗ, mỗi miếng được cắt theo một góc, như trong khung ảnh"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "5a119632680d4f10984148824d9b8985",
+        "word": "mitre",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈmaɪtə(r)/",
+            "us": "/ˈmaɪtər/"
+        },
+        "nearby": [
+            {
+                "word": "mitochondrion",
+                "pos": "noun"
+            },
+            {
+                "word": "mitosis",
+                "pos": "noun"
+            },
+            {
+                "word": "mitre",
+                "pos": "noun"
+            },
+            {
+                "word": "mitre",
+                "pos": "verb"
+            },
+            {
+                "word": "mitt",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a tall pointed hat worn by bishops at special ceremonies as a symbol of their position and authority",
+                    "vi": "một chiếc mũ cao nhọn được các giám mục đội trong các buổi lễ đặc biệt như một biểu tượng của chức vụ và quyền hạn của họ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a corner joint, formed by two pieces of wood each cut at an angle, as in a picture frame",
+                    "vi": "một khớp góc, được tạo thành bởi hai miếng gỗ, mỗi miếng được cắt theo một góc, như trong khung ảnh"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "49024af62c9f4ad6a703f9efdf6a684a",
+        "word": "mortar board",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈmɔːtə bɔːd/",
+            "us": "/ˈmɔːrtər bɔːrd/"
+        },
+        "nearby": [
+            {
+                "word": "mortar",
+                "pos": "noun"
+            },
+            {
+                "word": "mortar",
+                "pos": "verb"
+            },
+            {
+                "word": "mortar board",
+                "pos": "noun"
+            },
+            {
+                "word": "Le Morte d'Arthur",
+                "pos": ""
+            },
+            {
+                "word": "mortgage",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a black hat with a stiff square top, worn by some university teachers and students at special ceremonies",
+                    "vi": "một số giáo viên và sinh viên đại học đội một chiếc mũ đen có chóp vuông cứng trong các buổi lễ đặc biệt"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "5d80fadf8b6e41f49ff14dc57fde17b5",
+        "word": "nightcap",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈnaɪtkæp/",
+            "us": "/ˈnaɪtkæp/"
+        },
+        "nearby": [
+            {
+                "word": "night",
+                "pos": "noun"
+            },
+            {
+                "word": "The Night Before Christmas",
+                "pos": ""
+            },
+            {
+                "word": "nightcap",
+                "pos": "noun"
+            },
+            {
+                "word": "nightclothes",
+                "pos": "noun"
+            },
+            {
+                "word": "nightclub",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a drink, usually containing alcohol, taken before going to bed",
+                    "vi": "một thức uống, thường có chứa cồn, uống trước khi đi ngủ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "(in the past) a soft cap worn in bed",
+                    "vi": "(trước đây) đội mũ lưỡi trai mềm khi đi ngủ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "0040b87b39284d48a12f9c810cdbc1a7",
+        "word": "panama",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpænəmɑː/",
+            "us": "/ˈpænəmɑː/"
+        },
+        "nearby": [
+            {
+                "word": "panacea",
+                "pos": "noun"
+            },
+            {
+                "word": "panache",
+                "pos": "noun"
+            },
+            {
+                "word": "panama",
+                "pos": "noun"
+            },
+            {
+                "word": "Panama",
+                "pos": "noun"
+            },
+            {
+                "word": "the Panama Canal",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a man’s hat made from fine straw",
+                    "vi": "mũ của một người đàn ông làm từ rơm tốt"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "5059cff8839a4894851efcbe6e58966f",
+        "word": "peak",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/piːk/",
+            "us": "/piːk/"
+        },
+        "nearby": [
+            {
+                "word": "pea-green",
+                "pos": "adjective"
+            },
+            {
+                "word": "peahen",
+                "pos": "noun"
+            },
+            {
+                "word": "peak",
+                "pos": "noun"
+            },
+            {
+                "word": "peak",
+                "pos": "verb"
+            },
+            {
+                "word": "peak",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the point when somebody/something is best, most successful, strongest, etc.",
+                    "vi": "thời điểm ai đó / điều gì đó tốt nhất, thành công nhất, mạnh nhất, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "Traffic reaches its peak between 8 and 9 in the morning.",
+                        "vi": "Giao thông đạt mức cao nhất vào khoảng từ 8 đến 9 giờ sáng."
+                    },
+                    {
+                        "en": "the peaks and troughs of married life",
+                        "vi": "đỉnh cao và đỉnh cao của cuộc sống hôn nhân"
+                    },
+                    {
+                        "en": "at the peak of something She's at the peak of her career.",
+                        "vi": "ở đỉnh cao của cái gì đó Cô ấy đang ở đỉnh cao của sự nghiệp."
+                    },
+                    {
+                        "en": "Membership of the club has fallen from a peak of 600 people in 2006.",
+                        "vi": "Số lượng thành viên của câu lạc bộ đã giảm từ mức đỉnh điểm là 600 người vào năm 2006."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the pointed top of a mountain; a mountain with a pointed top",
+                    "vi": "đỉnh núi nhọn; một ngọn núi có đỉnh nhọn"
+                },
+                "examples": [
+                    {
+                        "en": "a mountain peak",
+                        "vi": "một đỉnh núi"
+                    },
+                    {
+                        "en": "snow-capped/jagged peaks",
+                        "vi": "đỉnh núi tuyết phủ / lởm chởm"
+                    },
+                    {
+                        "en": "The climbers made camp halfway up the peak.",
+                        "vi": "Những người leo núi đã cắm trại ở lưng chừng đỉnh."
+                    },
+                    {
+                        "en": "We looked up at the rocky peaks towering above us.",
+                        "vi": "Chúng tôi nhìn lên những đỉnh núi đá sừng sững phía trên."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "any narrow and pointed shape, edge, etc.",
+                    "vi": "bất kỳ hình dạng hẹp và nhọn, cạnh, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "Whisk the egg whites into stiff peaks.",
+                        "vi": "Đánh bông lòng trắng trứng thành các đỉnh cứng."
+                    },
+                    {
+                        "en": "He combed his hair into a peak.",
+                        "vi": "Anh chải tóc thành đỉnh."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the stiff front part of a cap that sticks out above your eyes",
+                    "vi": "phần trước cứng của một chiếc mũ lưỡi trai nhô ra khỏi mắt bạn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "8670a285b4f244b498577e9b5cffecf7",
+        "word": "pith helmet",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpɪθ helmɪt/",
+            "us": "/ˈpɪθ helmɪt/"
+        },
+        "nearby": [
+            {
+                "word": "pith",
+                "pos": "noun"
+            },
+            {
+                "word": "pithead",
+                "pos": "noun"
+            },
+            {
+                "word": "pith helmet",
+                "pos": "noun"
+            },
+            {
+                "word": "pithily",
+                "pos": "adverb"
+            },
+            {
+                "word": "pithy",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a light hard hat worn to give protection from the sun in very hot countries",
+                    "vi": "đội một chiếc mũ cứng nhẹ để bảo vệ khỏi ánh nắng mặt trời ở các nước rất nóng"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "e7bea61b11f94fc3a5278df3ed7298de",
+        "word": "pork-pie hat",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌpɔːk paɪ ˈhæt/",
+            "us": "/ˌpɔːrk paɪ ˈhæt/"
+        },
+        "nearby": [
+            {
+                "word": "porker",
+                "pos": "noun"
+            },
+            {
+                "word": "pork pie",
+                "pos": "noun"
+            },
+            {
+                "word": "pork-pie hat",
+                "pos": "noun"
+            },
+            {
+                "word": "pork scratchings",
+                "pos": "noun"
+            },
+            {
+                "word": "porky",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a hat with a flat top and a brim that is turned up all the way round",
+                    "vi": "một chiếc mũ có phần trên bằng phẳng và phần vành được quay lên hết cỡ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "3f140492e2314c43aa4ff4b4bb69178e",
+        "word": "skid lid",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈskɪd lɪd/",
+            "us": "/ˈskɪd lɪd/"
+        },
+        "nearby": [
+            {
+                "word": "skid",
+                "pos": "verb"
+            },
+            {
+                "word": "skid",
+                "pos": "noun"
+            },
+            {
+                "word": "skid lid",
+                "pos": "noun"
+            },
+            {
+                "word": "skidpan",
+                "pos": "noun"
+            },
+            {
+                "word": "skid row",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a helmet (= hard hat) worn to protect the head on a bicycle, skateboard, etc.",
+                    "vi": "đội mũ bảo hiểm (= mũ cứng) để bảo vệ đầu khi đi xe đạp, ván trượt, v.v."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "f4f405fa18f045c68de77eaf813ed204",
+        "word": "sola topi",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌsəʊlə ˈtəʊpi/",
+            "us": "/ˌsəʊlə ˈtəʊpi/"
+        },
+        "nearby": [
+            {
+                "word": "solar system",
+                "pos": "noun"
+            },
+            {
+                "word": "solar year",
+                "pos": "noun"
+            },
+            {
+                "word": "sola topi",
+                "pos": "noun"
+            },
+            {
+                "word": "sold",
+                "pos": "verb"
+            },
+            {
+                "word": "solder",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a sun hat made from the stems of a plant, worn in India in the past",
+                    "vi": "một chiếc mũ chống nắng làm từ thân cây, được đội ở Ấn Độ trong quá khứ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "883415c68f2c454ca0e5d7459bbdf89c",
+        "word": "sombrero",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/sɒmˈbreərəʊ/",
+            "us": "/sɑːmˈbrerəʊ/"
+        },
+        "nearby": [
+            {
+                "word": "sombrely",
+                "pos": "adverb"
+            },
+            {
+                "word": "sombreness",
+                "pos": "noun"
+            },
+            {
+                "word": "sombrero",
+                "pos": "noun"
+            },
+            {
+                "word": "some",
+                "pos": "determiner"
+            },
+            {
+                "word": "-some",
+                "pos": "suffix"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a Mexican hat that is tall with a very wide brim, turned up at the edges",
+                    "vi": "một chiếc mũ Mexico cao với vành rất rộng, bị hất lên ở các mép"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "b6ea35ba6f9c4192a9da4bd2cd015e1a",
+        "word": "sou’wester",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌsaʊˈwestə(r)/",
+            "us": "/ˌsaʊˈwestər/"
+        },
+        "nearby": [
+            {
+                "word": "souvenir",
+                "pos": "noun"
+            },
+            {
+                "word": "souvlaki",
+                "pos": "noun"
+            },
+            {
+                "word": "sou'wester",
+                "pos": "noun"
+            },
+            {
+                "word": "sovereign",
+                "pos": "noun"
+            },
+            {
+                "word": "sovereign",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a hat made of shiny material that keeps out the rain, with a long wide piece at the back to protect the neck",
+                    "vi": "mũ làm bằng chất liệu sáng bóng tránh mưa, có bản dài rộng phía sau để bảo vệ cổ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a strong wind or storm coming from the south-west",
+                    "vi": "gió mạnh hoặc bão đến từ phía tây nam"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "2a0e7b5a108d438abd40f91a98ff44a5",
+        "word": "stetson",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈstetsn/",
+            "us": "/ˈstetsn/"
+        },
+        "nearby": [
+            {
+                "word": "steroid",
+                "pos": "noun"
+            },
+            {
+                "word": "stethoscope",
+                "pos": "noun"
+            },
+            {
+                "word": "stetson",
+                "pos": "noun"
+            },
+            {
+                "word": "Steve",
+                "pos": ""
+            },
+            {
+                "word": "stevedore",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a tall hat with a wide brim, worn especially by American cowboys",
+                    "vi": "một chiếc mũ cao với vành rộng, đặc biệt được đội bởi cao bồi Mỹ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "e1de9c3c4b0946df97da79dbb9ba7349",
+        "word": "tam-o’shanter",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌtæm ə ˈʃæntə(r)/",
+            "us": "/ˌtæm ə ˈʃæntər/"
+        },
+        "nearby": [
+            {
+                "word": "Tammany Hall",
+                "pos": "noun"
+            },
+            {
+                "word": "Tam o' Shanter",
+                "pos": ""
+            },
+            {
+                "word": "tam-o'shanter",
+                "pos": "noun"
+            },
+            {
+                "word": "tamoxifen",
+                "pos": "noun"
+            },
+            {
+                "word": "tamp",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a round hat made of wool with a small ball made of wool in the centre, originally worn in Scotland",
+                    "vi": "một chiếc mũ tròn bằng len với một quả bóng nhỏ bằng len ở giữa, ban đầu được đội ở Scotland"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "6c7d1a813d2f4746a599ef1628406d31",
+        "word": "tarboosh",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/tɑːˈbuːʃ/",
+            "us": "/tɑːrˈbuːʃ/"
+        },
+        "nearby": [
+            {
+                "word": "taramasalata",
+                "pos": "noun"
+            },
+            {
+                "word": "tarantula",
+                "pos": "noun"
+            },
+            {
+                "word": "tarboosh",
+                "pos": "noun"
+            },
+            {
+                "word": "tardily",
+                "pos": "adverb"
+            },
+            {
+                "word": "tardiness",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a man’s small red hat with a tassel on the top",
+                    "vi": "một chiếc mũ nhỏ màu đỏ của người đàn ông có tua trên đầu"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "80654d4431c8474e9ab7d904cd27c414",
+        "word": "ten-gallon hat",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌten ˌɡælən ˈhæt/",
+            "us": "/ˌten ˌɡælən ˈhæt/"
+        },
+        "nearby": [
+            {
+                "word": "tenfold",
+                "pos": "adjective, adverb"
+            },
+            {
+                "word": "1040 form",
+                "pos": "noun"
+            },
+            {
+                "word": "ten-gallon hat",
+                "pos": "noun"
+            },
+            {
+                "word": "Ten Green Bottles",
+                "pos": ""
+            },
+            {
+                "word": "tenner",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a large hat with a broad brim, traditionally worn by cowboys",
+                    "vi": "một chiếc mũ lớn với vành rộng, theo truyền thống của những người cao bồi"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "55144d7d3da8442c82ca49a38b4c1aaf",
+        "word": "topee",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtəʊpi/",
+            "us": "/ˈtəʊpi/"
+        },
+        "nearby": [
+            {
+                "word": "top drawer",
+                "pos": "noun"
+            },
+            {
+                "word": "top-drawer",
+                "pos": "adjective"
+            },
+            {
+                "word": "topee",
+                "pos": "noun"
+            },
+            {
+                "word": "Topeka",
+                "pos": ""
+            },
+            {
+                "word": "top-end",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a light, hard hat worn to give protection from the sun in very hot countries",
+                    "vi": "đội mũ nhẹ, cứng để bảo vệ khỏi ánh nắng mặt trời ở các nước rất nóng"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "6be43c4bb6e9413fb9e2d31837a36ccd",
+        "word": "topi",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtəʊpi/",
+            "us": "/ˈtəʊpi/"
+        },
+        "nearby": [
+            {
+                "word": "top-heavy",
+                "pos": "adjective"
+            },
+            {
+                "word": "top-hole",
+                "pos": "adjective"
+            },
+            {
+                "word": "topi",
+                "pos": "noun"
+            },
+            {
+                "word": "topiary",
+                "pos": "noun"
+            },
+            {
+                "word": "topic",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a light, hard hat worn to give protection from the sun in very hot countries",
+                    "vi": "đội mũ nhẹ, cứng để bảo vệ khỏi ánh nắng mặt trời ở các nước rất nóng"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "fb7f8c75987d4d74a748d627d3f3fdae",
+        "word": "toque",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/təʊk/",
+            "us": "/təʊk/"
+        },
+        "nearby": [
+            {
+                "word": "top-up",
+                "pos": "noun"
+            },
+            {
+                "word": "top-up card",
+                "pos": "noun"
+            },
+            {
+                "word": "toque",
+                "pos": "noun"
+            },
+            {
+                "word": "tor",
+                "pos": "noun"
+            },
+            {
+                "word": "Torah",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a woman’s small hat",
+                    "vi": "một chiếc mũ nhỏ của phụ nữ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a close-fitting hat made of wool, sometimes with a ball of wool on the top",
+                    "vi": "nón kết bằng len, có khi đội len bóng trên đầu."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "bb6ac1c8412a41819d03beb160fe21ef",
+        "word": "trilby",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtrɪlbi/",
+            "us": "/ˈtrɪlbi/"
+        },
+        "nearby": [
+            {
+                "word": "trike",
+                "pos": "noun"
+            },
+            {
+                "word": "trilateral",
+                "pos": "adjective"
+            },
+            {
+                "word": "trilby",
+                "pos": "noun"
+            },
+            {
+                "word": "trilingual",
+                "pos": "adjective"
+            },
+            {
+                "word": "trill",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a man’s soft hat with a narrow brim and the top part pushed in from front to back",
+                    "vi": "một chiếc mũ mềm của một người đàn ông có vành hẹp và phần trên được đẩy từ trước ra sau"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "4ea3aff105e94bc0a9ec3d6184779abe",
+        "word": "tuque",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/tuːk/",
+            "us": "/tuːk/"
+        },
+        "nearby": [
+            {
+                "word": "tuppenny",
+                "pos": "adjective"
+            },
+            {
+                "word": "Tupperware",
+                "pos": "noun"
+            },
+            {
+                "word": "tuque",
+                "pos": "noun"
+            },
+            {
+                "word": "turban",
+                "pos": "noun"
+            },
+            {
+                "word": "turbaned",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a close-fitting hat made of wool, sometimes with a ball of wool on the top",
+                    "vi": "nón kết bằng len, có khi đội len bóng trên đầu."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "a167494b79db42e1ad3a70a2f67a7e1e",
+        "word": "turban",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtɜːbən/",
+            "us": "/ˈtɜːrbən/"
+        },
+        "nearby": [
+            {
+                "word": "Tupperware",
+                "pos": "noun"
+            },
+            {
+                "word": "tuque",
+                "pos": "noun"
+            },
+            {
+                "word": "turban",
+                "pos": "noun"
+            },
+            {
+                "word": "turbaned",
+                "pos": "adjective"
+            },
+            {
+                "word": "turbid",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a long piece of cloth wound tightly around the head, worn, for example, by Muslim or Sikh men",
+                    "vi": "một mảnh vải dài quấn chặt quanh đầu, ví dụ như đàn ông theo đạo Hồi hoặc đạo Sikh mặc"
+                },
+                "examples": [
+                    {
+                        "en": "He was dressed all in white except for his red turban.",
+                        "vi": "Anh ta mặc toàn bộ đồ trắng trừ chiếc khăn xếp màu đỏ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a woman’s hat that looks like a turban",
+                    "vi": "mũ của phụ nữ trông giống như khăn xếp"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "f432e8aaee2342f1b83cf1330717918f",
+        "word": "visor",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈvaɪzə(r)/",
+            "us": "/ˈvaɪzər/"
+        },
+        "nearby": [
+            {
+                "word": "visit upon",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "visit with",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "visor",
+                "pos": "noun"
+            },
+            {
+                "word": "vista",
+                "pos": "noun"
+            },
+            {
+                "word": "visual",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a part of a helmet that can be pulled down to protect the eyes and face",
+                    "vi": "một phần của mũ bảo hiểm có thể kéo xuống để bảo vệ mắt và mặt"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a curved piece of plastic, etc. worn on the head above the eyes to protect them from the sun",
+                    "vi": "một miếng nhựa cong, v.v. được đeo trên đầu phía trên mắt để bảo vệ chúng khỏi ánh nắng mặt trời"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a small piece of plastic, etc. inside the front window of a car that can be pulled down to protect the driver’s eyes from the sun",
+                    "vi": "một miếng nhựa nhỏ, v.v. bên trong cửa sổ phía trước của ô tô có thể kéo xuống để bảo vệ mắt của người lái xe khỏi ánh nắng mặt trời"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the stiff front part of a cap that sticks out above your eyes",
+                    "vi": "phần trước cứng của một chiếc mũ lưỡi trai nhô ra khỏi mắt bạn"
+                },
+                "examples": []
+            }
+        ]
+    }
+]

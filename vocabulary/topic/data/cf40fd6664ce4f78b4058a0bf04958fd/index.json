@@ -1,0 +1,5027 @@
+[
+    {
+        "id": "aa3e5a2edda1476db0e2a419eebddc95",
+        "word": "actor",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˈæktə(r)/",
+            "us": "/ˈæktər/"
+        },
+        "nearby": [
+            {
+                "word": "act on",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "act on behalf of",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "actor",
+                "pos": "noun"
+            },
+            {
+                "word": "actor-manager",
+                "pos": "noun"
+            },
+            {
+                "word": "the Actors Studio",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who performs on the stage, on television or in films, especially as a profession",
+                    "vi": "một người biểu diễn trên sân khấu, truyền hình hoặc trong các bộ phim, đặc biệt là với tư cách là một nghề"
+                },
+                "examples": [
+                    {
+                        "en": "Both lead actors (= the ones who play the main parts) are outstanding.",
+                        "vi": "Cả hai diễn viên chính (= những người đóng vai chính) đều rất xuất sắc."
+                    },
+                    {
+                        "en": "She is one of the country’s leading actors.",
+                        "vi": "Cô là một trong những diễn viên hàng đầu của đất nước."
+                    },
+                    {
+                        "en": "a stage/film/movie actor",
+                        "vi": "một diễn viên sân khấu / phim / điện ảnh"
+                    },
+                    {
+                        "en": "a Hollywood actor",
+                        "vi": "một diễn viên Hollywood"
+                    },
+                    {
+                        "en": "The movie starred a bunch of relatively unknown young actors.",
+                        "vi": "Phim có sự tham gia của một loạt diễn viên trẻ tương đối vô danh."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who plays a part, pretending by their behaviour to be a particular kind of person",
+                    "vi": "một người đóng vai, giả vờ bằng hành vi của họ là một loại người cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "I don't know if he really meant the things he said—he was always a good actor.",
+                        "vi": "Tôi không biết liệu anh ấy có thực sự muốn nói những điều anh ấy nói hay không - anh ấy luôn là một diễn viên giỏi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a participant in an action or process",
+                    "vi": "một người tham gia vào một hành động hoặc quá trình"
+                },
+                "examples": [
+                    {
+                        "en": "Employers are key actors within industrial relations.",
+                        "vi": "Người sử dụng lao động là chủ thể chính trong quan hệ lao động."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "d4254f9a5e8a4ee2b4c22264e646058c",
+        "word": "actress",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˈæktrəs/",
+            "us": "/ˈæktrəs/"
+        },
+        "nearby": [
+            {
+                "word": "the Actors Studio",
+                "pos": ""
+            },
+            {
+                "word": "act out",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "actress",
+                "pos": "noun"
+            },
+            {
+                "word": "actual",
+                "pos": "adjective"
+            },
+            {
+                "word": "actual bodily harm",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a woman who performs on the stage, on television or in films, especially as a profession",
+                    "vi": "một người phụ nữ biểu diễn trên sân khấu, trên truyền hình hoặc trong các bộ phim, đặc biệt là với tư cách là một nghề"
+                },
+                "examples": [
+                    {
+                        "en": "The Oscar-winning actress has taken a break from acting.",
+                        "vi": "Nữ diễn viên từng đoạt giải Oscar đã nghỉ diễn."
+                    },
+                    {
+                        "en": "the lead actress from a hit show",
+                        "vi": "nữ diễn viên chính từ một chương trình ăn khách"
+                    },
+                    {
+                        "en": "In 1940 he married actress Jane Wyman.",
+                        "vi": "Năm 1940, ông kết hôn với nữ diễn viên Jane Wyman."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a woman who plays a part, pretending by her behaviour to be a particular kind of person",
+                    "vi": "một người phụ nữ đóng vai, giả vờ bằng hành vi của mình để trở thành một loại người cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "I became a very good actress and they nearly always believed me.",
+                        "vi": "Tôi đã trở thành một nữ diễn viên rất giỏi và họ gần như luôn tin tưởng tôi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "771ede15038148a2ad6db9e61fc9ab53",
+        "word": "film star",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˈfɪlm stɑː(r)/",
+            "us": "/ˈfɪlm stɑːr/"
+        },
+        "nearby": [
+            {
+                "word": "film noir",
+                "pos": "noun"
+            },
+            {
+                "word": "filmography",
+                "pos": "noun"
+            },
+            {
+                "word": "film star",
+                "pos": "noun"
+            },
+            {
+                "word": "filmstrip",
+                "pos": "noun"
+            },
+            {
+                "word": "filmy",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a male or female actor who is famous for being in films",
+                    "vi": "một nam hoặc nữ diễn viên nổi tiếng trong các bộ phim"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "aeb52eb0a11d4aecb7bbbd17fc4618c5",
+        "word": "movie star",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˈmuːvi stɑː(r)/",
+            "us": "/ˈmuːvi stɑːr/"
+        },
+        "nearby": [
+            {
+                "word": "moviegoer",
+                "pos": "noun"
+            },
+            {
+                "word": "movie rating",
+                "pos": ""
+            },
+            {
+                "word": "movie star",
+                "pos": "noun"
+            },
+            {
+                "word": "movie theater",
+                "pos": "noun"
+            },
+            {
+                "word": "moving",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a male or female actor who is famous for being in films",
+                    "vi": "một nam hoặc nữ diễn viên nổi tiếng trong các bộ phim"
+                },
+                "examples": [
+                    {
+                        "en": "I always wanted to be a movie star, even when I was a child.",
+                        "vi": "Tôi luôn muốn trở thành một ngôi sao điện ảnh, ngay cả khi tôi còn nhỏ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6c30a1a8878f4c40a754d906f5eda46a",
+        "word": "star",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/stɑː(r)/",
+            "us": "/stɑːr/"
+        },
+        "nearby": [
+            {
+                "word": "stapler",
+                "pos": "noun"
+            },
+            {
+                "word": "staple remover",
+                "pos": "noun"
+            },
+            {
+                "word": "star",
+                "pos": "noun"
+            },
+            {
+                "word": "star",
+                "pos": "verb"
+            },
+            {
+                "word": "the Star",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a large ball of burning gas in space that we see as a point of light in the sky at night",
+                    "vi": "một quả cầu khí đốt lớn trong không gian mà chúng ta coi như một điểm sáng trên bầu trời vào ban đêm"
+                },
+                "examples": [
+                    {
+                        "en": "There was a big moon and hundreds of stars were shining overhead.",
+                        "vi": "Có một mặt trăng lớn và hàng trăm ngôi sao đang tỏa sáng trên đầu."
+                    },
+                    {
+                        "en": "Sirius is the brightest star in the sky.",
+                        "vi": "Sirius là ngôi sao sáng nhất trên bầu trời."
+                    },
+                    {
+                        "en": "under the stars We camped out under the stars.",
+                        "vi": "dưới các vì sao Chúng tôi cắm trại dưới các vì sao."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an object, a decoration, a mark, etc., usually with five or six points, whose shape represents a star",
+                    "vi": "một đối tượng, một trang trí, một nhãn hiệu, v.v., thường có năm hoặc sáu điểm, có hình dạng đại diện cho một ngôi sao"
+                },
+                "examples": [
+                    {
+                        "en": "a horse with a white star on its forehead",
+                        "vi": "một con ngựa có ngôi sao trắng trên trán"
+                    },
+                    {
+                        "en": "a sheriff’s star",
+                        "vi": "một cảnh sát trưởng ngôi sao"
+                    },
+                    {
+                        "en": "I've put a star by the names of the girls in the class.",
+                        "vi": "Tôi đã đặt một ngôi sao cho tên của các cô gái trong lớp."
+                    },
+                    {
+                        "en": "Liz deserves a gold star for all her hard work.",
+                        "vi": "Liz xứng đáng với một ngôi sao vàng cho tất cả những gì cô ấy làm việc chăm chỉ."
+                    },
+                    {
+                        "en": "a four-star general",
+                        "vi": "một vị tướng bốn sao"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a mark that represents a star and tells you how good something is, especially a hotel or restaurant",
+                    "vi": "một dấu hiệu đại diện cho một ngôi sao và cho bạn biết điều gì đó tốt như thế nào, đặc biệt là khách sạn hoặc nhà hàng"
+                },
+                "examples": [
+                    {
+                        "en": "three-/four-/five-star hotels",
+                        "vi": "khách sạn ba / bốn / năm sao"
+                    },
+                    {
+                        "en": "What star rating does this restaurant have?",
+                        "vi": "Nhà hàng này có xếp hạng sao nào?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a famous and excellent singer, performer, sports player, etc.",
+                    "vi": "một ca sĩ, nghệ sĩ biểu diễn, vận động viên thể thao nổi tiếng và xuất sắc, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "pop/rock/Hollywood/TV stars",
+                        "vi": "ngôi sao nhạc pop / rock / Hollywood / TV"
+                    },
+                    {
+                        "en": "a football/tennis/sports star",
+                        "vi": "một ngôi sao bóng đá / quần vợt / thể thao"
+                    },
+                    {
+                        "en": "She acts well but she hasn't got star quality.",
+                        "vi": "Cô ấy diễn xuất tốt nhưng không có phẩm chất ngôi sao."
+                    },
+                    {
+                        "en": "Get used to her face as she is a rising star.",
+                        "vi": "Hãy làm quen với khuôn mặt của cô ấy vì cô ấy là một ngôi sao đang lên."
+                    },
+                    {
+                        "en": "She's a former child star.",
+                        "vi": "Cô ấy là một cựu ngôi sao nhí."
+                    },
+                    {
+                        "en": "He's so good—I'm sure he'll be a big star.",
+                        "vi": "Anh ấy rất tốt - tôi chắc chắn rằng anh ấy sẽ là một ngôi sao lớn."
+                    },
+                    {
+                        "en": "The best models receive star treatment.",
+                        "vi": "Những người mẫu tốt nhất nhận được sự đối xử của ngôi sao."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who has the main part, or one of the main parts, in a film, play, etc.",
+                    "vi": "một người có phần chính, hoặc một trong các phần chính, trong một bộ phim, vở kịch, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "The star of the show was a young Italian singer.",
+                        "vi": "Ngôi sao của chương trình là một ca sĩ trẻ người Ý."
+                    },
+                    {
+                        "en": "The show has plenty of guest stars appearing each week.",
+                        "vi": "Chương trình có rất nhiều ngôi sao khách mời xuất hiện mỗi tuần."
+                    },
+                    {
+                        "en": "She was the star of many popular television series.",
+                        "vi": "Cô từng là ngôi sao của nhiều bộ phim truyền hình nổi tiếng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person or thing that is the best of a group",
+                    "vi": "một người hoặc một thứ tốt nhất của một nhóm"
+                },
+                "examples": [
+                    {
+                        "en": "a star student",
+                        "vi": "một học sinh ngôi sao"
+                    },
+                    {
+                        "en": "Paula is the star of the class.",
+                        "vi": "Paula là ngôi sao của lớp."
+                    },
+                    {
+                        "en": "He was the star performer at the championships.",
+                        "vi": "Anh ấy là ngôi sao trình diễn tại các giải vô địch."
+                    },
+                    {
+                        "en": "The star prize is a weekend for two in Paris.",
+                        "vi": "Giải thưởng ngôi sao là một ngày cuối tuần cho hai người ở Paris."
+                    },
+                    {
+                        "en": "The monkey was the star attraction (= the best or most popular act) at the show.",
+                        "vi": "Con khỉ là điểm thu hút ngôi sao (= tiết mục hay nhất hoặc được yêu thích nhất) tại chương trình."
+                    },
+                    {
+                        "en": "Through high school he was a track star.",
+                        "vi": "Qua thời trung học, anh ấy đã là một ngôi sao đường đua."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to show that you feel very grateful for something that somebody has done or that you think they are wonderful",
+                    "vi": "được sử dụng để thể hiện rằng bạn cảm thấy rất biết ơn vì điều gì đó mà ai đó đã làm hoặc bạn nghĩ rằng họ thật tuyệt vời"
+                },
+                "examples": [
+                    {
+                        "en": "Thanks! You're a star!",
+                        "vi": "Thanks! Bạn là một ngôi sao!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a description of what somebody thinks is going to happen to somebody in the future, based on the position of the stars and planets when they were born",
+                    "vi": "mô tả về những gì ai đó nghĩ sẽ xảy ra với ai đó trong tương lai, dựa trên vị trí của các ngôi sao và hành tinh khi họ được sinh ra"
+                },
+                "examples": [
+                    {
+                        "en": "Do you read your stars in the paper?",
+                        "vi": "Bạn có đọc những ngôi sao của mình trên báo không?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to try to be successful at something that is difficult",
+                    "vi": "để cố gắng thành công ở một điều gì đó khó khăn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to see flashes of light in front of your eyes, usually because you have been hit on the head",
+                    "vi": "nhìn thấy những tia sáng lóe lên trước mắt bạn, thường là vì bạn đã bị đập vào đầu"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "if somebody has stars in their eyes, they have dreams of becoming famous, especially as an actor, singer, etc.",
+                    "vi": "Nếu ai đó có ngôi sao trong mắt, họ có ước mơ trở nên nổi tiếng, đặc biệt là trở thành một diễn viên, ca sĩ, v.v."
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to feel very grateful and lucky about something",
+                    "vi": "cảm thấy rất biết ơn và may mắn về điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "Just thank your lucky stars you weren’t in the house at the time.",
+                        "vi": "Chỉ cần cảm ơn những ngôi sao may mắn của bạn khi bạn không ở trong nhà vào thời điểm đó."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "b85f1598778347f5ad0775421b9d0bf1",
+        "word": "audience",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/ˈɔːdiəns/",
+            "us": "/ˈɔːdiəns/"
+        },
+        "nearby": [
+            {
+                "word": "audible",
+                "pos": "adjective"
+            },
+            {
+                "word": "audibly",
+                "pos": "adverb"
+            },
+            {
+                "word": "audience",
+                "pos": "noun"
+            },
+            {
+                "word": "audio",
+                "pos": "adjective"
+            },
+            {
+                "word": "audio",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the group of people who have gathered to watch or listen to something (a play, concert, somebody speaking, etc.)",
+                    "vi": "nhóm người tụ tập để xem hoặc nghe thứ gì đó (vở kịch, buổi hòa nhạc, ai đó đang nói, v.v.)"
+                },
+                "examples": [
+                    {
+                        "en": "The audience was/were clapping for 10 minutes.",
+                        "vi": "Khán giả đã / đang vỗ tay trong 10 phút."
+                    },
+                    {
+                        "en": "The museum is trying to attract a wider audience.",
+                        "vi": "Bảo tàng đang cố gắng thu hút một lượng lớn khán giả hơn."
+                    },
+                    {
+                        "en": "The debate was televised in front of a live audience.",
+                        "vi": "Cuộc tranh luận được truyền hình trực tiếp trước sự chứng kiến của khán giả."
+                    },
+                    {
+                        "en": "an audience of 10 000",
+                        "vi": "khán giả là 10 000"
+                    },
+                    {
+                        "en": "Audience members voted on their favorite presentations.",
+                        "vi": "Khán giả đã bình chọn bài thuyết trình yêu thích của họ."
+                    },
+                    {
+                        "en": "We encourage audience participation during our show.",
+                        "vi": "Chúng tôi khuyến khích sự tham gia của khán giả trong suốt chương trình của chúng tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a number of people or a particular group of people who watch, read, or listen to the same thing",
+                    "vi": "một số người hoặc một nhóm người cụ thể xem, đọc hoặc nghe cùng một thứ"
+                },
+                "examples": [
+                    {
+                        "en": "TV/television/cinema/movie audiences",
+                        "vi": "Khán giả truyền hình / truyền hình / điện ảnh / phim"
+                    },
+                    {
+                        "en": "His book reached an even wider audience when it was made into a movie.",
+                        "vi": "Cuốn sách của anh ấy đã tiếp cận được một lượng lớn độc giả hơn khi nó được dựng thành phim."
+                    },
+                    {
+                        "en": "This book will appeal to a broad audience.",
+                        "vi": "Cuốn sách này sẽ thu hút nhiều độc giả."
+                    },
+                    {
+                        "en": "She has generated a massive online audience since uploading her first clip three years ago.",
+                        "vi": "Cô ấy đã thu hút được một lượng lớn khán giả trực tuyến kể từ khi đăng tải clip đầu tiên của mình cách đây ba năm."
+                    },
+                    {
+                        "en": "The target audience for this advertisement was mainly teenagers.",
+                        "vi": "Đối tượng mục tiêu của quảng cáo này chủ yếu là thanh thiếu niên."
+                    },
+                    {
+                        "en": "An audience of millions watched the wedding on TV.",
+                        "vi": "Hàng triệu khán giả đã xem đám cưới trên TV."
+                    },
+                    {
+                        "en": "Most companies now have their own websites which address mass audiences.",
+                        "vi": "Hầu hết các công ty hiện có các trang web riêng của họ để đáp ứng các đối tượng đại chúng."
+                    },
+                    {
+                        "en": "They aim to make art accessible to the widest possible audience.",
+                        "vi": "Họ đặt mục tiêu làm cho nghệ thuật có thể tiếp cận với nhiều đối tượng nhất có thể."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a formal meeting with an important person",
+                    "vi": "một cuộc họp chính thức với một người quan trọng"
+                },
+                "examples": [
+                    {
+                        "en": "an audience with the Pope",
+                        "vi": "một buổi tiếp kiến với Đức Giáo hoàng"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "28f4cc059eb34301905c87673626f164",
+        "word": "director",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/dəˈrektə(r)/",
+            "us": "/dəˈrektər/"
+        },
+        "nearby": [
+            {
+                "word": "directness",
+                "pos": "noun"
+            },
+            {
+                "word": "direct object",
+                "pos": "noun"
+            },
+            {
+                "word": "director",
+                "pos": "noun"
+            },
+            {
+                "word": "directorate",
+                "pos": "noun"
+            },
+            {
+                "word": "director general",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "one of a group of senior managers who run a company",
+                    "vi": "một trong những nhà quản lý cấp cao điều hành một công ty"
+                },
+                "examples": [
+                    {
+                        "en": "a non-executive director",
+                        "vi": "một giám đốc không điều hành"
+                    },
+                    {
+                        "en": "He's on the board of directors.",
+                        "vi": "Anh ấy ở trong ban giám đốc."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person in charge of a film or play who tells the actors and staff what to do",
+                    "vi": "một người phụ trách một bộ phim hoặc một vở kịch nói với các diễn viên và nhân viên phải làm gì"
+                },
+                "examples": [
+                    {
+                        "en": "a famous film director",
+                        "vi": "một đạo diễn phim nổi tiếng"
+                    },
+                    {
+                        "en": "He remained active in the theatre as a playwright and director.",
+                        "vi": "Ông vẫn hoạt động trong nhà hát với tư cách là một nhà viết kịch và đạo diễn."
+                    },
+                    {
+                        "en": "the writer and director of the movie ‘Wind River’",
+                        "vi": "biên kịch kiêm đạo diễn phim 'Wind River'"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who is in charge of a particular activity or department in a company, a college, etc.",
+                    "vi": "một người phụ trách một hoạt động hoặc bộ phận cụ thể trong công ty, trường cao đẳng, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "She was artistic director of the city's photography festival.",
+                        "vi": "Cô là giám đốc nghệ thuật của lễ hội nhiếp ảnh của thành phố."
+                    },
+                    {
+                        "en": "He was musical director at the National Theatre.",
+                        "vi": "Ông là giám đốc âm nhạc tại Nhà hát Quốc gia."
+                    },
+                    {
+                        "en": "the deputy/assistant/associate director",
+                        "vi": "phó / trợ lý / phó giám đốc"
+                    },
+                    {
+                        "en": "the finance/marketing/technical director",
+                        "vi": "giám đốc tài chính / tiếp thị / kỹ thuật"
+                    },
+                    {
+                        "en": "director of something the director of marketing/operations/communications",
+                        "vi": "giám đốc của một cái gì đó giám đốc tiếp thị / hoạt động / truyền thông"
+                    },
+                    {
+                        "en": "He is assistant director of market research for IDFA.",
+                        "vi": "Ông là trợ lý giám đốc nghiên cứu thị trường của IDFA."
+                    },
+                    {
+                        "en": "She recently served as director of the Longwood Arts Project in the Bronx.",
+                        "vi": "Cô ấy gần đây đã từng là giám đốc của Dự án Nghệ thuật Longwood ở Bronx."
+                    },
+                    {
+                        "en": "the company's regional director in North America",
+                        "vi": "giám đốc khu vực của công ty ở Bắc Mỹ"
+                    },
+                    {
+                        "en": "an eminent museum director and curator",
+                        "vi": "một giám đốc và người phụ trách bảo tàng lỗi lạc"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c8c1cd796f7843128bc19cecbed77e43",
+        "word": "agent",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈeɪdʒənt/",
+            "us": "/ˈeɪdʒənt/"
+        },
+        "nearby": [
+            {
+                "word": "agency",
+                "pos": "noun"
+            },
+            {
+                "word": "agenda",
+                "pos": "noun"
+            },
+            {
+                "word": "agent",
+                "pos": "noun"
+            },
+            {
+                "word": "agent general",
+                "pos": "noun"
+            },
+            {
+                "word": "agent noun",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person whose job is to act for, or manage the affairs of, other people in business, politics, etc.",
+                    "vi": "một người có công việc là hành động cho hoặc quản lý công việc của những người khác trong lĩnh vực kinh doanh, chính trị, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "Our agent in New York deals with all US sales.",
+                        "vi": "Đại lý của chúng tôi ở New York giao dịch với tất cả các doanh số bán hàng của Hoa Kỳ."
+                    },
+                    {
+                        "en": "If you're going to rent out your house while you're abroad, you'll need someone to act as your agent here.",
+                        "vi": "Nếu bạn định cho thuê nhà khi ở nước ngoài, bạn sẽ cần một người làm đại lý cho bạn ở đây."
+                    },
+                    {
+                        "en": "an insurance agent",
+                        "vi": "một đại lý bảo hiểm"
+                    },
+                    {
+                        "en": "Typical agent's fees are around 6 percent of the sale price.",
+                        "vi": "Phí của đại lý điển hình là khoảng 6 phần trăm giá bán."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person whose job is to arrange work for an actor, musician, sports player, etc. or to find somebody who will publish a writer’s work",
+                    "vi": "một người có công việc là sắp xếp công việc cho một diễn viên, nhạc sĩ, vận động viên thể thao, v.v. hoặc tìm ai đó sẽ xuất bản tác phẩm của một nhà văn"
+                },
+                "examples": [
+                    {
+                        "en": "a theatrical/literary agent",
+                        "vi": "một tác nhân sân khấu / văn học"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who works secretly to obtain information for a government or other organization",
+                    "vi": "một người hoạt động bí mật để lấy thông tin cho chính phủ hoặc tổ chức khác"
+                },
+                "examples": [
+                    {
+                        "en": "He was arrested by federal agents.",
+                        "vi": "Anh ta đã bị bắt bởi các đặc vụ liên bang."
+                    },
+                    {
+                        "en": "an enemy/undercover agent",
+                        "vi": "kẻ thù / đặc vụ chìm"
+                    },
+                    {
+                        "en": "CIA/FBI agents",
+                        "vi": "Đặc vụ CIA / FBI"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person or thing that has an important effect on a situation",
+                    "vi": "một người hoặc một vật có ảnh hưởng quan trọng đến một tình huống"
+                },
+                "examples": [
+                    {
+                        "en": "The charity has been an agent for social change.",
+                        "vi": "Tổ chức từ thiện đã là một tác nhân cho sự thay đổi xã hội."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a chemical or a substance that produces an effect or a change or is used for a particular purpose",
+                    "vi": "hóa chất hoặc chất tạo ra hiệu ứng hoặc thay đổi hoặc được sử dụng cho một mục đích cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "chemical/biological agents",
+                        "vi": "tác nhân hóa học / sinh học"
+                    },
+                    {
+                        "en": "cleaning/oxidizing agents",
+                        "vi": "chất làm sạch / oxy hóa"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the person or thing that does an action (expressed as the subject of an active verb, or in a ‘by’ phrase with a passive verb)",
+                    "vi": "người hoặc vật thực hiện một hành động (được thể hiện dưới dạng chủ ngữ của động từ chủ động hoặc trong cụm từ 'by' với động từ bị động)"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "f2e40abc93494ce4a0e1559ebe57a236",
+        "word": "cameraman",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈkæmrəmæn/",
+            "us": "/ˈkæmrəmæn/"
+        },
+        "nearby": [
+            {
+                "word": "cameo",
+                "pos": "noun"
+            },
+            {
+                "word": "camera",
+                "pos": "noun"
+            },
+            {
+                "word": "cameraman",
+                "pos": "noun"
+            },
+            {
+                "word": "camera obscura",
+                "pos": "noun"
+            },
+            {
+                "word": "camera operator",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a man whose job is operating a camera for making films or television programmes",
+                    "vi": "một người đàn ông có công việc vận hành máy quay để làm phim hoặc chương trình truyền hình"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "e54971c8121f45a3a3068df3034a58e5",
+        "word": "camerawoman",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈkæmrəwʊmən/",
+            "us": "/ˈkæmrəwʊmən/"
+        },
+        "nearby": [
+            {
+                "word": "camera obscura",
+                "pos": "noun"
+            },
+            {
+                "word": "camera operator",
+                "pos": "noun"
+            },
+            {
+                "word": "camerawoman",
+                "pos": "noun"
+            },
+            {
+                "word": "camerawork",
+                "pos": "noun"
+            },
+            {
+                "word": "Cameron",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a woman whose job is operating a camera for making films or television programmes",
+                    "vi": "một người phụ nữ có công việc là vận hành máy quay để làm phim hoặc chương trình truyền hình"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "4b91ba2bacb642c99167787ccbca1f08",
+        "word": "performer",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/pəˈfɔːmə(r)/",
+            "us": "/pərˈfɔːrmər/"
+        },
+        "nearby": [
+            {
+                "word": "performance review",
+                "pos": "noun"
+            },
+            {
+                "word": "performative",
+                "pos": "adjective"
+            },
+            {
+                "word": "performer",
+                "pos": "noun"
+            },
+            {
+                "word": "the performing arts",
+                "pos": "noun"
+            },
+            {
+                "word": "perfume",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who performs for an audience in a show, concert, etc.",
+                    "vi": "một người biểu diễn cho khán giả trong một chương trình, buổi hòa nhạc, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "a brilliant/polished/seasoned performer",
+                        "vi": "một nghệ sĩ biểu diễn xuất sắc / bóng bẩy / dày dạn"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person or thing that behaves or works in the way mentioned",
+                    "vi": "một người hoặc một vật hành xử hoặc hoạt động theo cách đã đề cập"
+                },
+                "examples": [
+                    {
+                        "en": "He was a poor performer at school and left with no qualifications.",
+                        "vi": "Anh ấy là một học sinh kém cỏi ở trường và không có bằng cấp gì."
+                    },
+                    {
+                        "en": "VW is the star performer of the motor industry this year.",
+                        "vi": "VW là ngôi sao biểu diễn của ngành công nghiệp mô tô năm nay."
+                    },
+                    {
+                        "en": "The star performer of the game was Holly, who scored 26 points.",
+                        "vi": "Ngôi sao của trò chơi là Holly, với 26 điểm."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "0679b77c707c45f687d899d6d6c063d0",
+        "word": "producer",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/prəˈdjuːsə(r)/",
+            "us": "/prəˈduːsər/"
+        },
+        "nearby": [
+            {
+                "word": "produce",
+                "pos": "verb"
+            },
+            {
+                "word": "produce",
+                "pos": "noun"
+            },
+            {
+                "word": "producer",
+                "pos": "noun"
+            },
+            {
+                "word": "product",
+                "pos": "noun"
+            },
+            {
+                "word": "production",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person, a company or a country that grows or makes food, goods or materials",
+                    "vi": "một người, một công ty hoặc một quốc gia phát triển hoặc sản xuất thực phẩm, hàng hóa hoặc vật liệu"
+                },
+                "examples": [
+                    {
+                        "en": "French wine producers",
+                        "vi": "Nhà sản xuất rượu vang Pháp"
+                    },
+                    {
+                        "en": "Libya is a major oil producer.",
+                        "vi": "Libya là một nước sản xuất dầu lớn."
+                    },
+                    {
+                        "en": "regulations imposed on food producers",
+                        "vi": "các quy định áp dụng đối với các nhà sản xuất thực phẩm"
+                    },
+                    {
+                        "en": "the world's largest producer of uranium",
+                        "vi": "nhà sản xuất uranium lớn nhất thế giới"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who is in charge of the practical and financial aspects of making a film or play",
+                    "vi": "một người phụ trách các khía cạnh thực tế và tài chính của việc làm một bộ phim hoặc vở kịch"
+                },
+                "examples": [
+                    {
+                        "en": "Hollywood screenwriters, actors and producers",
+                        "vi": "Các nhà biên kịch, diễn viên và nhà sản xuất Hollywood"
+                    },
+                    {
+                        "en": "a film producer",
+                        "vi": "một nhà sản xuất phim"
+                    },
+                    {
+                        "en": "He is an executive producer of the film.",
+                        "vi": "Anh ấy là nhà sản xuất điều hành của bộ phim."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person or company that arranges for somebody to make a programme for radio or television, or a record, CD, etc.",
+                    "vi": "một người hoặc công ty sắp xếp để ai đó thực hiện một chương trình cho đài phát thanh hoặc truyền hình, hoặc đĩa hát, CD, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "an independent television producer",
+                        "vi": "một nhà sản xuất truyền hình độc lập"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "85b4755652a742d2aeeddcbf3cf8050d",
+        "word": "superstar",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈsuːpəstɑː(r)/",
+            "us": "/ˈsuːpərstɑːr/"
+        },
+        "nearby": [
+            {
+                "word": "supersonic",
+                "pos": "adjective"
+            },
+            {
+                "word": "superspreader",
+                "pos": "noun"
+            },
+            {
+                "word": "superstar",
+                "pos": "noun"
+            },
+            {
+                "word": "superstate",
+                "pos": "noun"
+            },
+            {
+                "word": "superstition",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a very famous performer, for example an actor, a singer or a sports player",
+                    "vi": "một nghệ sĩ biểu diễn rất nổi tiếng, ví dụ như một diễn viên, một ca sĩ hoặc một vận động viên thể thao"
+                },
+                "examples": [
+                    {
+                        "en": "The movie made her an international superstar.",
+                        "vi": "Bộ phim đã đưa cô trở thành siêu sao quốc tế."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "bc382a0e7dfe42f68269f56d3d61a537",
+        "word": "cast",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/kɑːst/",
+            "us": "/kæst/"
+        },
+        "nearby": [
+            {
+                "word": "cassowary",
+                "pos": "noun"
+            },
+            {
+                "word": "cast",
+                "pos": "verb"
+            },
+            {
+                "word": "cast",
+                "pos": "noun"
+            },
+            {
+                "word": "cast about for",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "castanets",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "all the people who act in a play or film",
+                    "vi": "tất cả những người đóng một vở kịch hoặc một bộ phim"
+                },
+                "examples": [
+                    {
+                        "en": "an all-star cast (= including many well-known actors)",
+                        "vi": "một dàn diễn viên toàn sao (= bao gồm nhiều diễn viên nổi tiếng)"
+                    },
+                    {
+                        "en": "the supporting cast (= not the main actors, but the others)",
+                        "vi": "dàn diễn viên phụ (= không phải diễn viên chính mà là những người khác)"
+                    },
+                    {
+                        "en": "The whole cast performs/perform brilliantly.",
+                        "vi": "Toàn bộ dàn diễn viên / diễn xuất xuất sắc."
+                    },
+                    {
+                        "en": "in the cast Everyone in the cast is excellent.",
+                        "vi": "trong dàn diễn viên Mọi người trong dàn diễn viên đều rất xuất sắc."
+                    },
+                    {
+                        "en": "Bonus features include interviews with the cast and crew.",
+                        "vi": "Các tính năng thưởng bao gồm các cuộc phỏng vấn với dàn diễn viên và phi hành đoàn."
+                    },
+                    {
+                        "en": "a play with a large cast of characters",
+                        "vi": "một vở kịch với một dàn nhân vật lớn"
+                    },
+                    {
+                        "en": "None of the other cast members makes much of an impression.",
+                        "vi": "Không ai trong số các diễn viên khác tạo được nhiều ấn tượng."
+                    },
+                    {
+                        "en": "members of the cast",
+                        "vi": "các thành viên của dàn diễn viên"
+                    },
+                    {
+                        "en": "the cast list",
+                        "vi": "danh sách diễn viên"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an object that is made by pouring hot liquid metal, etc. into a mould (= a container with a particular shape)",
+                    "vi": "một vật được làm bằng cách đổ kim loại lỏng nóng, v.v. vào khuôn (= vật chứa có hình dạng cụ thể)"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a container with a particular shape used to make an object",
+                    "vi": "một thùng chứa có hình dạng cụ thể được sử dụng để làm một vật thể"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the way that a person or thing is or appears",
+                    "vi": "cách mà một người hoặc một vật đang hoặc xuất hiện"
+                },
+                "examples": [
+                    {
+                        "en": "He has an unusual cast of mind.",
+                        "vi": "Anh ta có một tâm trí khác thường."
+                    },
+                    {
+                        "en": "I disliked the arrogant cast to her mouth.",
+                        "vi": "Tôi không thích cái kiểu diễn viên ngạo mạn trên miệng của cô ấy."
+                    },
+                    {
+                        "en": "The colours he wore emphasized the olive cast of his skin.",
+                        "vi": "Màu sắc anh ấy mặc làm nổi bật làn da của anh ấy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an act of throwing something, especially a fishing line",
+                    "vi": "hành động ném thứ gì đó, đặc biệt là dây câu"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a case made of plaster of Paris that covers a broken bone and protects it",
+                    "vi": "một cái hộp làm bằng thạch cao của Paris che đi phần xương bị gãy và bảo vệ nó"
+                },
+                "examples": [
+                    {
+                        "en": "in a cast Her leg's in a cast.",
+                        "vi": "trong một bó bột Chân của cô ấy đã được bó bột."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c0ef1d2577a44027b6055fdcbd9e60d4",
+        "word": "double",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈdʌbl/",
+            "us": "/ˈdʌbl/"
+        },
+        "nearby": [
+            {
+                "word": "double",
+                "pos": "verb"
+            },
+            {
+                "word": "double",
+                "pos": "adverb"
+            },
+            {
+                "word": "double",
+                "pos": "noun"
+            },
+            {
+                "word": "double act",
+                "pos": "noun"
+            },
+            {
+                "word": "double-action",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person or thing that looks exactly like another",
+                    "vi": "một người hoặc một vật giống hệt như một người khác"
+                },
+                "examples": [
+                    {
+                        "en": "She's the double of her mother.",
+                        "vi": "Cô ấy là đôi của mẹ cô ấy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an actor who replaces another actor in a film to do dangerous or other special things",
+                    "vi": "một diễn viên thay thế một diễn viên khác trong phim để làm những việc nguy hiểm hoặc đặc biệt khác"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a bedroom for two people",
+                    "vi": "một phòng ngủ cho hai người"
+                },
+                "examples": [
+                    {
+                        "en": "Is that a single or a double you want?",
+                        "vi": "Đó là một đơn hay một đôi bạn muốn?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a glass of strong alcoholic drink containing twice the usual amount",
+                    "vi": "một ly đồ uống có cồn mạnh chứa gấp đôi lượng bình thường"
+                },
+                "examples": [
+                    {
+                        "en": "Two Scotches, please—and make those doubles, will you?",
+                        "vi": "Hai người Scotch, làm ơn — và tạo thành đôi đó, được không?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a game, especially of tennis, in which one pair plays another",
+                    "vi": "một trò chơi, đặc biệt là quần vợt, trong đó một cặp đấu cặp khác"
+                },
+                "examples": [
+                    {
+                        "en": "mixed doubles (= in which each pair consists of a man and a woman)",
+                        "vi": "đôi hỗn hợp (= trong đó mỗi cặp bao gồm một nam và một nữ)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the fact of winning two important competitions or beating the same player or team twice, in the same season or year",
+                    "vi": "thực tế là chiến thắng hai cuộc thi quan trọng hoặc đánh bại cùng một cầu thủ hoặc một đội hai lần, trong cùng một mùa giải hoặc năm"
+                },
+                "examples": [
+                    {
+                        "en": "She’s going for the double this year—the Olympics and the World Championship.",
+                        "vi": "Cô ấy sẽ giành cú đúp trong năm nay — Thế vận hội và Giải vô địch thế giới."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "quickly; hurrying",
+                    "vi": "Mau; vội vàng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a risk in which you could win twice the amount you pay, or you could lose all your money",
+                    "vi": "rủi ro trong đó bạn có thể thắng gấp đôi số tiền bạn trả hoặc bạn có thể mất tất cả tiền của mình"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "3600828999cb4b87ba4489d89639e8af",
+        "word": "editor",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈedɪtə(r)/",
+            "us": "/ˈedɪtər/"
+        },
+        "nearby": [
+            {
+                "word": "Edith",
+                "pos": ""
+            },
+            {
+                "word": "edition",
+                "pos": "noun"
+            },
+            {
+                "word": "editor",
+                "pos": "noun"
+            },
+            {
+                "word": "editorial",
+                "pos": "adjective"
+            },
+            {
+                "word": "editorial",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who is in charge of a newspaper, magazine, etc., or part of one, and who decides what should be included",
+                    "vi": "một người phụ trách một tờ báo, tạp chí, v.v., hoặc một phần của một tờ báo, và người quyết định nội dung nào nên được đưa vào"
+                },
+                "examples": [
+                    {
+                        "en": "the editor of the Washington Post",
+                        "vi": "biên tập viên của Washington Post"
+                    },
+                    {
+                        "en": "a newspaper/magazine editor",
+                        "vi": "một biên tập viên báo / tạp chí"
+                    },
+                    {
+                        "en": "the sports/financial/fashion editor",
+                        "vi": "biên tập viên thể thao / tài chính / thời trang"
+                    },
+                    {
+                        "en": "a contributing/deputy editor",
+                        "vi": "một đóng góp / phó tổng biên tập"
+                    },
+                    {
+                        "en": "She got a job as a web editor on the local paper.",
+                        "vi": "Cô ấy đã nhận được một công việc như một biên tập viên web trên báo địa phương."
+                    },
+                    {
+                        "en": "She was associate editor at the magazine.",
+                        "vi": "Cô ấy là phó tổng biên tập của tạp chí."
+                    },
+                    {
+                        "en": "He is a former editor of the journal.",
+                        "vi": "Ông là một cựu biên tập viên của tạp chí."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who prepares a book or other written material to be published, for example by checking and correcting the text, making improvements, etc.",
+                    "vi": "một người chuẩn bị một cuốn sách hoặc tài liệu viết khác để được xuất bản, chẳng hạn bằng cách kiểm tra và sửa chữa văn bản, cải tiến, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "Jenny Cook is a freelance writer and editor based in New York.",
+                        "vi": "Jenny Cook là một nhà văn và biên tập viên tự do có trụ sở tại New York."
+                    },
+                    {
+                        "en": "He finally got a position as an assistant editor at a small publishing house.",
+                        "vi": "Cuối cùng anh ấy đã nhận được một vị trí như một trợ lý biên tập tại một nhà xuất bản nhỏ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who prepares a film, radio or television programme for being shown or broadcast by deciding what to include, and what order it should be in",
+                    "vi": "một người chuẩn bị một bộ phim, chương trình phát thanh hoặc truyền hình để được trình chiếu hoặc phát sóng bằng cách quyết định những gì sẽ bao gồm và trình tự của nó"
+                },
+                "examples": [
+                    {
+                        "en": "Kazan hired him as cameraman, editor and producer for ‘The Visitors’ (1972).",
+                        "vi": "Kazan đã thuê anh ta làm quay phim, biên tập và sản xuất cho phim 'The Visit' (1972)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who works as a journalist for radio or television reporting on a particular area of news",
+                    "vi": "một người làm việc như một nhà báo cho đài phát thanh hoặc truyền hình đưa tin về một lĩnh vực tin tức cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "our economics editor",
+                        "vi": "biên tập viên kinh tế của chúng tôi"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who chooses texts written by one or by several writers and prepares them to be published in a book",
+                    "vi": "một người chọn các văn bản được viết bởi một hoặc một số nhà văn và chuẩn bị xuất bản chúng trong một cuốn sách"
+                },
+                "examples": [
+                    {
+                        "en": "She's the editor of a new collection of ghost stories.",
+                        "vi": "Cô ấy là biên tập viên của một tuyển tập truyện ma mới."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a program that allows you to change stored text or data",
+                    "vi": "một chương trình cho phép bạn thay đổi văn bản hoặc dữ liệu được lưu trữ"
+                },
+                "examples": [
+                    {
+                        "en": "There are hundreds of different web editors on the market.",
+                        "vi": "Có hàng trăm trình chỉnh sửa web khác nhau trên thị trường."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "de1f761d807e49fb8427b55e5718cd74",
+        "word": "lighting engineer",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈlaɪtɪŋ endʒɪnɪə(r)/",
+            "us": "/ˈlaɪtɪŋ endʒɪnɪr/"
+        },
+        "nearby": [
+            {
+                "word": "light industry",
+                "pos": "noun"
+            },
+            {
+                "word": "lighting",
+                "pos": "noun"
+            },
+            {
+                "word": "lighting engineer",
+                "pos": "noun"
+            },
+            {
+                "word": "lightly",
+                "pos": "adverb"
+            },
+            {
+                "word": "light meter",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who works in television, the theatre, etc. and whose job is to control and take care of the lights",
+                    "vi": "một người làm việc trong truyền hình, nhà hát, v.v. và công việc của họ là điều khiển và chăm sóc đèn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "e6dd59c3886044b7b2b2b61b0ebf3217",
+        "word": "manager",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈmænɪdʒə(r)/",
+            "us": "/ˈmænɪdʒər/"
+        },
+        "nearby": [
+            {
+                "word": "management consultant",
+                "pos": "noun"
+            },
+            {
+                "word": "management summary",
+                "pos": "noun"
+            },
+            {
+                "word": "manager",
+                "pos": "noun"
+            },
+            {
+                "word": "manageress",
+                "pos": "noun"
+            },
+            {
+                "word": "managerial",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who is in charge of running a business, a shop or a similar organization or part of one",
+                    "vi": "một người chịu trách nhiệm điều hành một doanh nghiệp, một cửa hàng hoặc một tổ chức tương tự hoặc một phần của một"
+                },
+                "examples": [
+                    {
+                        "en": "a bank/hotel manager",
+                        "vi": "một giám đốc ngân hàng / khách sạn"
+                    },
+                    {
+                        "en": "the sales/marketing/human resources manager",
+                        "vi": "giám đốc bán hàng / tiếp thị / nhân sự"
+                    },
+                    {
+                        "en": "a fund/portfolio/asset manager",
+                        "vi": "một nhà quản lý quỹ / danh mục đầu tư / tài sản"
+                    },
+                    {
+                        "en": "The company always needs project managers.",
+                        "vi": "Công ty luôn cần những người quản lý dự án."
+                    },
+                    {
+                        "en": "I'm a senior manager in a multinational company.",
+                        "vi": "Tôi là quản lý cấp cao của một công ty đa quốc gia."
+                    },
+                    {
+                        "en": "a meeting of area managers",
+                        "vi": "một cuộc họp của các nhà quản lý khu vực"
+                    },
+                    {
+                        "en": "If you have any questions, speak to your manager.",
+                        "vi": "Nếu bạn có bất kỳ câu hỏi nào, hãy nói chuyện với người quản lý của bạn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who deals with the business affairs of an actor, a musician, etc.",
+                    "vi": "một người giải quyết các công việc kinh doanh của một diễn viên, một nhạc sĩ, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "The comedian is unavailable for comment, according to her manager.",
+                        "vi": "Nữ diễn viên hài không có bình luận gì, theo người quản lý của cô."
+                    },
+                    {
+                        "en": "The band's manager said that the gig sold out in hours.",
+                        "vi": "Người quản lý của ban nhạc nói rằng buổi biểu diễn đã bán hết vé trong vài giờ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who trains and organizes a sports team",
+                    "vi": "một người huấn luyện và tổ chức một đội thể thao"
+                },
+                "examples": [
+                    {
+                        "en": "the new manager of Italy",
+                        "vi": "người quản lý mới của Ý"
+                    },
+                    {
+                        "en": "He will be the club's caretaker manager until a new manager is appointed.",
+                        "vi": "Anh ấy sẽ là người quản lý chăm sóc của câu lạc bộ cho đến khi một người quản lý mới được bổ nhiệm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who is good at managing resources",
+                    "vi": "một người giỏi quản lý tài nguyên"
+                },
+                "examples": [
+                    {
+                        "en": "She's a good manager who never throws any food away.",
+                        "vi": "Cô ấy là một người quản lý tốt, người không bao giờ ném thức ăn đi."
+                    },
+                    {
+                        "en": "TV ads depicted the candidate as a would-be efficient manager of the US economy.",
+                        "vi": "Quảng cáo truyền hình mô tả ứng cử viên như một nhà quản lý hiệu quả của nền kinh tế Hoa Kỳ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f4d8a8c635c74c368bebfef35f2d0fa6",
+        "word": "screenwriter",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈskriːnraɪtə(r)/",
+            "us": "/ˈskriːnraɪtər/"
+        },
+        "nearby": [
+            {
+                "word": "screen time",
+                "pos": "noun"
+            },
+            {
+                "word": "screenwash",
+                "pos": "noun"
+            },
+            {
+                "word": "screenwriter",
+                "pos": "noun"
+            },
+            {
+                "word": "screw",
+                "pos": "verb"
+            },
+            {
+                "word": "screw",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who writes screenplays",
+                    "vi": "một người viết kịch bản phim"
+                },
+                "examples": [
+                    {
+                        "en": "an Oscar-winning screenwriter",
+                        "vi": "một nhà biên kịch từng đoạt giải Oscar"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "bfaa4538500a43499f5223a534636dea",
+        "word": "actor-manager",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌæktə ˈmænɪdʒə(r)/",
+            "us": "/ˌæktər ˈmænɪdʒər/"
+        },
+        "nearby": [
+            {
+                "word": "act on behalf of",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "actor",
+                "pos": "noun"
+            },
+            {
+                "word": "actor-manager",
+                "pos": "noun"
+            },
+            {
+                "word": "the Actors Studio",
+                "pos": ""
+            },
+            {
+                "word": "act out",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an actor who is in charge of a theatre company and acts in the plays that they perform",
+                    "vi": "một diễn viên phụ trách một công ty sân khấu và diễn xuất trong các vở kịch mà họ biểu diễn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "1d4d3055c0014e0dbd0496bc02660699",
+        "word": "art director",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈɑːt dərektə(r)/",
+            "us": "/ˈɑːrt dərektər/"
+        },
+        "nearby": [
+            {
+                "word": "Art",
+                "pos": ""
+            },
+            {
+                "word": "art deco",
+                "pos": "noun"
+            },
+            {
+                "word": "art director",
+                "pos": "noun"
+            },
+            {
+                "word": "artefact",
+                "pos": "noun"
+            },
+            {
+                "word": "arterial",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the person who is responsible for the pictures, photos, etc. in a magazine",
+                    "vi": "người chịu trách nhiệm về hình ảnh, hình ảnh, v.v. trong một tạp chí"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the person who is responsible for the sets and props when a film is being made",
+                    "vi": "người chịu trách nhiệm về bối cảnh và đạo cụ khi làm phim"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "72a8316deead46b39fbcad7a782c660c",
+        "word": "artistic director",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ɑːˌtɪstɪk dəˈrektə(r)/",
+            "us": "/ɑːrˌtɪstɪk dəˈrektər/"
+        },
+        "nearby": [
+            {
+                "word": "artistic",
+                "pos": "adjective"
+            },
+            {
+                "word": "artistically",
+                "pos": "adverb"
+            },
+            {
+                "word": "artistic director",
+                "pos": "noun"
+            },
+            {
+                "word": "artistry",
+                "pos": "noun"
+            },
+            {
+                "word": "artless",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the person in charge of deciding which plays, operas, etc. a theatre company will perform, and the general artistic policy of the company",
+                    "vi": "người chịu trách nhiệm quyết định những vở kịch, vở opera, v.v. mà một công ty rạp hát sẽ biểu diễn, và chính sách nghệ thuật chung của công ty"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "e2a67f363237405abfca219cd675c112",
+        "word": "character actor",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈkærəktər æktə(r)/",
+            "us": "/ˈkærəktər æktər/"
+        },
+        "nearby": [
+            {
+                "word": "charabanc",
+                "pos": "noun"
+            },
+            {
+                "word": "character",
+                "pos": "noun"
+            },
+            {
+                "word": "character actor",
+                "pos": "noun"
+            },
+            {
+                "word": "character code",
+                "pos": "noun"
+            },
+            {
+                "word": "characterful",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an actor who always takes the parts of interesting or unusual people, instead of taking one of the main parts",
+                    "vi": "một diễn viên luôn nhận những phần của những người thú vị hoặc khác thường, thay vì đảm nhận một trong những phần chính"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "b58d202a4eeb4683b1c5f9cddebf9ce0",
+        "word": "cinemagoer",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈsɪnəməɡəʊə(r)/",
+            "us": "/ˈsɪnəməɡəʊər/"
+        },
+        "nearby": [
+            {
+                "word": "cineaste",
+                "pos": "noun"
+            },
+            {
+                "word": "cinema",
+                "pos": "noun"
+            },
+            {
+                "word": "cinemagoer",
+                "pos": "noun"
+            },
+            {
+                "word": "CinemaScope",
+                "pos": "noun"
+            },
+            {
+                "word": "cinematic",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who goes to the cinema, especially when they do it regularly",
+                    "vi": "một người đi xem phim, đặc biệt là khi họ thường xuyên đi xem phim"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "ad19d4529aca477995f182e603904d31",
+        "word": "co-star",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈkəʊ stɑː(r)/",
+            "us": "/ˈkəʊ stɑːr/"
+        },
+        "nearby": [
+            {
+                "word": "the Costa del Crime",
+                "pos": ""
+            },
+            {
+                "word": "costal",
+                "pos": "adjective"
+            },
+            {
+                "word": "co-star",
+                "pos": "noun"
+            },
+            {
+                "word": "Costa Rica",
+                "pos": "noun"
+            },
+            {
+                "word": "Costa Rican",
+                "pos": "noun, adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "one of two or more famous actors who appear together in a film or play",
+                    "vi": "một trong hai hoặc nhiều diễn viên nổi tiếng cùng xuất hiện trong một bộ phim hoặc vở kịch"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "738292907c1c48cbb98554ff649e0289",
+        "word": "doorman",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈdɔːmən/",
+            "us": "/ˈdɔːrmən/"
+        },
+        "nearby": [
+            {
+                "word": "doorknob",
+                "pos": "noun"
+            },
+            {
+                "word": "door knocker",
+                "pos": "noun"
+            },
+            {
+                "word": "doorman",
+                "pos": "noun"
+            },
+            {
+                "word": "doormat",
+                "pos": "noun"
+            },
+            {
+                "word": "doornail",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a man, often in uniform, whose job is to stand at the entrance to a large building such as a hotel or a theatre, and open the door for visitors, find them taxis, etc.",
+                    "vi": "một người đàn ông, thường mặc đồng phục, có công việc là đứng ở lối vào một tòa nhà lớn như khách sạn hoặc nhà hát, mở cửa cho du khách, tìm taxi, v.v."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "99e813bbb0cf48e8bf921be56ac2af8d",
+        "word": "dramatist",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈdræmətɪst/",
+            "us": "/ˈdræmətɪst/"
+        },
+        "nearby": [
+            {
+                "word": "dramatics",
+                "pos": "noun"
+            },
+            {
+                "word": "dramatis personae",
+                "pos": "noun"
+            },
+            {
+                "word": "dramatist",
+                "pos": "noun"
+            },
+            {
+                "word": "dramatization",
+                "pos": "noun"
+            },
+            {
+                "word": "dramatize",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who writes plays for the theatre, television or radio",
+                    "vi": "một người viết kịch cho nhà hát, truyền hình hoặc đài phát thanh"
+                },
+                "examples": [
+                    {
+                        "en": "a TV dramatist",
+                        "vi": "một nhà viết kịch truyền hình"
+                    },
+                    {
+                        "en": "It is a powerful story written by a great dramatist.",
+                        "vi": "Đó là một câu chuyện mạnh mẽ được viết bởi một nhà biên kịch vĩ đại."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "53f4595fe6ac466387d55035e3827e26",
+        "word": "dresser",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈdresə(r)/",
+            "us": "/ˈdresər/"
+        },
+        "nearby": [
+            {
+                "word": "dress down",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "dressed",
+                "pos": "adjective"
+            },
+            {
+                "word": "dresser",
+                "pos": "noun"
+            },
+            {
+                "word": "dressing",
+                "pos": "noun"
+            },
+            {
+                "word": "dressing-down",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a large piece of wooden furniture with shelves in the top part and cupboards below, used for displaying and storing cups, plates, etc.",
+                    "vi": "một món đồ nội thất lớn bằng gỗ với kệ ở phần trên và ngăn tủ ở dưới, dùng để trưng bày và lưu trữ chén, đĩa, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "I put the kettle on and took two cups and saucers down from the dresser.",
+                        "vi": "Tôi đặt cái ấm lên và lấy hai cái chén và cái đĩa từ tủ đựng quần áo xuống."
+                    },
+                    {
+                        "en": "The china display in her dresser was all blue and white.",
+                        "vi": "Đồ sành sứ trong tủ quần áo của cô chỉ toàn màu xanh và trắng."
+                    },
+                    {
+                        "en": "There was a small dresser in the corner of the room.",
+                        "vi": "Có một cái tủ nhỏ ở góc phòng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a piece of furniture with drawers (= parts like boxes built into it with handles on the front for pulling them out) for keeping clothes in",
+                    "vi": "một món đồ nội thất có ngăn kéo (= các bộ phận như hộp được tích hợp sẵn với tay cầm ở mặt trước để kéo chúng ra) để đựng quần áo"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person who dresses in the way mentioned",
+                    "vi": "một người ăn mặc theo cách được đề cập"
+                },
+                "examples": [
+                    {
+                        "en": "a snappy dresser",
+                        "vi": "một người ăn mặc đẹp"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person whose job is to take care of an actor’s clothes for a play and help him/her to get dressed",
+                    "vi": "một người có công việc là chăm sóc quần áo cho một diễn viên trong vở kịch và giúp anh ấy / cô ấy mặc quần áo"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "f776f20bf1c44d62aa996f507e89b00a",
+        "word": "extra",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈekstrə/",
+            "us": "/ˈekstrə/"
+        },
+        "nearby": [
+            {
+                "word": "extortionately",
+                "pos": "adverb"
+            },
+            {
+                "word": "extra",
+                "pos": "adjective"
+            },
+            {
+                "word": "extra",
+                "pos": "noun"
+            },
+            {
+                "word": "extra",
+                "pos": "adverb"
+            },
+            {
+                "word": "extra-",
+                "pos": "prefix"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a thing that is added to something that is not usual, standard or necessary and that costs more",
+                    "vi": "một thứ được thêm vào một cái gì đó không bình thường, tiêu chuẩn hoặc cần thiết và chi phí cao hơn"
+                },
+                "examples": [
+                    {
+                        "en": "The monthly fee is fixed and there are no hidden extras (= unexpected costs).",
+                        "vi": "Phí hàng tháng là cố định và không có phụ phí ẩn (= chi phí không mong muốn)."
+                    },
+                    {
+                        "en": "While I was saving I had no money for little extras or luxuries.",
+                        "vi": "Trong khi tiết kiệm, tôi không có tiền cho những thứ nhỏ nhặt hay xa xỉ."
+                    },
+                    {
+                        "en": "(British English) Metallic paint is an optional extra (= a thing you can choose to have or not, but must pay more for if you have it).",
+                        "vi": "(Tiếng Anh Anh) Sơn kim loại là phụ kiện không bắt buộc (= thứ bạn có thể chọn có hoặc không, nhưng phải trả thêm tiền nếu có)."
+                    },
+                    {
+                        "en": "Regular guests also get added extras like free room service.",
+                        "vi": "Những khách quen cũng được bổ sung thêm các tiện ích như dịch vụ phòng miễn phí."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who is employed to play a very small part in a film, usually as a member of a crowd",
+                    "vi": "một người được tuyển dụng để đóng một vai rất nhỏ trong phim, thường là một thành viên của đám đông"
+                },
+                "examples": [
+                    {
+                        "en": "We need hundreds of extras for the battle scenes.",
+                        "vi": "Chúng tôi cần hàng trăm tính năng bổ sung cho các cảnh chiến đấu."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "676417a69ef3431680a263881c2ca4e5",
+        "word": "filmgoer",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈfɪlmɡəʊə(r)/",
+            "us": "/ˈfɪlmɡəʊər/"
+        },
+        "nearby": [
+            {
+                "word": "film",
+                "pos": "verb"
+            },
+            {
+                "word": "film certificate",
+                "pos": "noun"
+            },
+            {
+                "word": "filmgoer",
+                "pos": "noun"
+            },
+            {
+                "word": "filmi",
+                "pos": "adjective"
+            },
+            {
+                "word": "filmic",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who goes to the cinema, especially when they do it regularly",
+                    "vi": "một người đi xem phim, đặc biệt là khi họ thường xuyên đi xem phim"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "4c962a6d5e974e3988efe56ebf74fb7e",
+        "word": "film-maker",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈfɪlm meɪkə(r)/",
+            "us": "/ˈfɪlm meɪkər/"
+        },
+        "nearby": [
+            {
+                "word": "filmic",
+                "pos": "adjective"
+            },
+            {
+                "word": "filming",
+                "pos": "noun"
+            },
+            {
+                "word": "film-maker",
+                "pos": "noun"
+            },
+            {
+                "word": "film-making",
+                "pos": "noun"
+            },
+            {
+                "word": "film noir",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who directs or produces films",
+                    "vi": "một người đạo diễn hoặc sản xuất phim"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "cd1239de0bc34fee9bc1ce7ea68c7ebd",
+        "word": "lead",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/liːd/",
+            "us": "/liːd/"
+        },
+        "nearby": [
+            {
+                "word": "leach",
+                "pos": "verb"
+            },
+            {
+                "word": "lead1",
+                "pos": "verb"
+            },
+            {
+                "word": "lead1",
+                "pos": "noun"
+            },
+            {
+                "word": "lead2",
+                "pos": "noun"
+            },
+            {
+                "word": "'Leadbelly'",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the position ahead of everyone else in a race or competition",
+                    "vi": "vị trí trước những người khác trong một cuộc đua hoặc cuộc thi"
+                },
+                "examples": [
+                    {
+                        "en": "She took the lead in the second lap.",
+                        "vi": "Cô dẫn đầu ở vòng thứ hai."
+                    },
+                    {
+                        "en": "to hold (onto)/regain the lead",
+                        "vi": "giữ (giữ) / giành lại vị trí dẫn đầu"
+                    },
+                    {
+                        "en": "in the lead The Democrats now appear to be in the lead.",
+                        "vi": "đang dẫn đầu Đảng Dân chủ hiện đang dẫn đầu."
+                    },
+                    {
+                        "en": "into the lead He has gone into the lead.",
+                        "vi": "dẫn đầu Anh ấy đã đi vào dẫn đầu."
+                    },
+                    {
+                        "en": "The lead car is now three minutes ahead of the rest of the field.",
+                        "vi": "Chiếc xe dẫn đầu hiện đã đi trước phần còn lại của sân ba phút."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the amount or distance that somebody/something is in front of somebody/something else",
+                    "vi": "số lượng hoặc khoảng cách mà ai đó / cái gì đó ở phía trước ai đó / cái gì đó khác"
+                },
+                "examples": [
+                    {
+                        "en": "a commanding/comfortable lead",
+                        "vi": "một sự chỉ huy / thoải mái"
+                    },
+                    {
+                        "en": "to extend/stretch/double/increase your lead",
+                        "vi": "để mở rộng / kéo dài / tăng gấp đôi / tăng khách hàng tiềm năng của bạn"
+                    },
+                    {
+                        "en": "lead of something Labour have taken a lead of five points in the polls.",
+                        "vi": "dẫn đầu về thứ gì đó Lao động đã dẫn đầu 5 điểm trong các cuộc thăm dò."
+                    },
+                    {
+                        "en": "lead (of something) over somebody/something He managed to hold a lead of two seconds over his closest rival.",
+                        "vi": "dẫn đầu (của cái gì đó) so với ai đó / cái gì đó Anh ta đã dẫn trước đối thủ gần nhất của mình hai giây."
+                    },
+                    {
+                        "en": "An own goal from United gave Chelsea an early two-goal lead in the 11th minute.",
+                        "vi": "Một bàn phản lưới nhà của United đã giúp Chelsea sớm dẫn trước hai bàn ở phút thứ 11."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an example or action for people to copy",
+                    "vi": "một ví dụ hoặc hành động để mọi người sao chép"
+                },
+                "examples": [
+                    {
+                        "en": "If one bank raises interest rates, all the others will follow their lead.",
+                        "vi": "Nếu một ngân hàng tăng lãi suất, tất cả các ngân hàng khác sẽ tuân theo chỉ đạo của họ."
+                    },
+                    {
+                        "en": "If we take the lead in this (= start to act), others may follow.",
+                        "vi": "Nếu chúng ta đi đầu trong việc này (= bắt đầu hành động), những người khác có thể làm theo."
+                    },
+                    {
+                        "en": "You go first, I'll take my lead from you.",
+                        "vi": "Bạn đi trước, tôi sẽ dẫn đường cho bạn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a piece of information that may help to find out the truth or facts about a situation, especially a crime",
+                    "vi": "một phần thông tin có thể giúp tìm ra sự thật hoặc sự thật về một tình huống, đặc biệt là tội phạm"
+                },
+                "examples": [
+                    {
+                        "en": "The police will follow up all possible leads.",
+                        "vi": "Cảnh sát sẽ theo dõi tất cả các đầu mối có thể."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person or thing that may be useful to you, especially a possible new customer or business opportunity",
+                    "vi": "một người hoặc điều có thể hữu ích cho bạn, đặc biệt là một khách hàng mới hoặc cơ hội kinh doanh"
+                },
+                "examples": [
+                    {
+                        "en": "The marketing campaign generated hundreds of new leads.",
+                        "vi": "Chiến dịch tiếp thị đã tạo ra hàng trăm khách hàng tiềm năng mới."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the main part in a play, film, etc.; the person who plays this part",
+                    "vi": "phần chính trong một vở kịch, bộ phim, v.v.; người đóng phần này"
+                },
+                "examples": [
+                    {
+                        "en": "Who is playing the lead?",
+                        "vi": "Ai đang đóng vai chính?"
+                    },
+                    {
+                        "en": "the male/female lead",
+                        "vi": "nam / nữ chính"
+                    },
+                    {
+                        "en": "Both Christine and Fiona want the lead role.",
+                        "vi": "Cả Christine và Fiona đều muốn đóng vai chính."
+                    },
+                    {
+                        "en": "I always dreamed of becoming the lead singer in a band.",
+                        "vi": "Tôi luôn mơ ước trở thành ca sĩ chính trong một ban nhạc."
+                    },
+                    {
+                        "en": "He played lead guitar on a number of tracks.",
+                        "vi": "Anh ấy đã chơi guitar chính trên một số bản nhạc."
+                    },
+                    {
+                        "en": "the band's lead guitarist",
+                        "vi": "tay guitar chính của ban nhạc"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the person in charge of a project, department, etc.",
+                    "vi": "người phụ trách một dự án, bộ phận, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "Sam is the lead on this project.",
+                        "vi": "Sam là người dẫn đầu trong dự án này."
+                    },
+                    {
+                        "en": "Dr Mary Steadman, clinical lead in Accident and Emergency at the Royal Berkshire Hospital",
+                        "vi": "Tiến sĩ Mary Steadman, trưởng nhóm lâm sàng về Tai nạn và Cấp cứu tại Bệnh viện Hoàng gia Berkshire"
+                    },
+                    {
+                        "en": "Sarah Montague will become the lead presenter of the show from next month.",
+                        "vi": "Sarah Montague sẽ trở thành người dẫn chương trình chính của chương trình từ tháng tới."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the first sentence or paragraph of a news story, giving the most important points of the story",
+                    "vi": "câu đầu tiên hoặc đoạn văn của một câu chuyện tin tức, đưa ra những điểm quan trọng nhất của câu chuyện"
+                },
+                "examples": [
+                    {
+                        "en": "Check out this lead from Monday's front page story:…",
+                        "vi": "Hãy xem khách hàng tiềm năng này từ câu chuyện trên trang nhất hôm thứ Hai:…"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a long piece of leather, chain or rope used for holding and controlling a dog",
+                    "vi": "một miếng da dài, dây xích hoặc dây thừng dùng để giữ và điều khiển một con chó"
+                },
+                "examples": [
+                    {
+                        "en": "on a lead Dogs must be kept on a lead in the park.",
+                        "vi": "dẫn dắt Chó phải được dẫn dắt trong công viên."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a long piece of wire, usually covered in plastic, that is used to connect a piece of electrical equipment to a source of electricity",
+                    "vi": "một đoạn dây dài, thường được bọc bằng nhựa, được sử dụng để nối một thiết bị điện với nguồn điện."
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to give the most important point of a news story near the end instead of at the beginning",
+                    "vi": "để đưa ra điểm quan trọng nhất của một câu chuyện tin tức ở gần cuối thay vì ở đầu"
+                },
+                "examples": [
+                    {
+                        "en": "Unfortunately, he buried the lede in the last paragraph of the story.",
+                        "vi": "Thật không may, anh ta đã chôn con chì trong đoạn cuối của câu chuyện."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "001e706ab5f2480fae44475093314aeb",
+        "word": "leading lady",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌliːdɪŋ ˈleɪdi/",
+            "us": "/ˌliːdɪŋ ˈleɪdi/"
+        },
+        "nearby": [
+            {
+                "word": "leading edge",
+                "pos": "noun"
+            },
+            {
+                "word": "leading-edge",
+                "pos": "adjective"
+            },
+            {
+                "word": "leading lady",
+                "pos": "noun"
+            },
+            {
+                "word": "leading light",
+                "pos": "noun"
+            },
+            {
+                "word": "leading man",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the actor with the main female part in a play or film",
+                    "vi": "diễn viên đóng vai nữ chính trong một vở kịch hoặc một bộ phim"
+                },
+                "examples": [
+                    {
+                        "en": "A lot of leading ladies end up falling in love with their leading men simply because they are working together so intensely.",
+                        "vi": "Rất nhiều phụ nữ hàng đầu cuối cùng phải lòng những người đàn ông hàng đầu của họ chỉ đơn giản là vì họ đang làm việc cùng nhau rất mãnh liệt."
+                    },
+                    {
+                        "en": "Bridget has been signed up as the latest leading lady in the hit comedy ‘Stay Lucky’.",
+                        "vi": "Bridget đã được ghi danh là người phụ nữ chính mới nhất trong bộ phim hài ăn khách \"Stay Lucky\"."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "81902401329949aab3c4ead1706f008e",
+        "word": "M",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/em/",
+            "us": "/em/"
+        },
+        "nearby": [
+            {
+                "word": "the M25",
+                "pos": ""
+            },
+            {
+                "word": "m",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "M",
+                "pos": "noun"
+            },
+            {
+                "word": "M",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "M",
+                "pos": "symbol"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the 13th letter of the English alphabet",
+                    "vi": "chữ cái thứ 13 trong bảng chữ cái tiếng Anh"
+                },
+                "examples": [
+                    {
+                        "en": "‘Milk’ begins with (an) M/‘M’.",
+                        "vi": "Sữa' bắt đầu bằng (an) M / 'M'."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2b2bbaede57546288c6213e31c391ffe",
+        "word": "moviegoer",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈmuːviɡəʊə(r)/",
+            "us": "/ˈmuːviɡəʊər/"
+        },
+        "nearby": [
+            {
+                "word": "mover",
+                "pos": "noun"
+            },
+            {
+                "word": "movie",
+                "pos": "noun"
+            },
+            {
+                "word": "moviegoer",
+                "pos": "noun"
+            },
+            {
+                "word": "movie rating",
+                "pos": ""
+            },
+            {
+                "word": "movie star",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who goes to the cinema, especially when they do it regularly",
+                    "vi": "một người đi xem phim, đặc biệt là khi họ thường xuyên đi xem phim"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "46c916f8915944bab0bf2e7106561ca5",
+        "word": "playgoer",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈpleɪɡəʊə(r)/",
+            "us": "/ˈpleɪɡəʊər/"
+        },
+        "nearby": [
+            {
+                "word": "playfully",
+                "pos": "adverb"
+            },
+            {
+                "word": "playfulness",
+                "pos": "noun"
+            },
+            {
+                "word": "playgoer",
+                "pos": "noun"
+            },
+            {
+                "word": "playground",
+                "pos": "noun"
+            },
+            {
+                "word": "playgroup",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who goes regularly to the theatre",
+                    "vi": "một người thường xuyên đến rạp hát"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "07ad950cfe4541c993eb1dee41952aa5",
+        "word": "playwright",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈpleɪraɪt/",
+            "us": "/ˈpleɪraɪt/"
+        },
+        "nearby": [
+            {
+                "word": "play upon",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "play with",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "playwright",
+                "pos": "noun"
+            },
+            {
+                "word": "play yourself out",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "plaza",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who writes plays for the theatre, television or radio",
+                    "vi": "một người viết kịch cho nhà hát, truyền hình hoặc đài phát thanh"
+                },
+                "examples": [
+                    {
+                        "en": "Which playwright wrote ‘Doctor Faustus’?",
+                        "vi": "Nhà viết kịch nào đã viết \"Bác sĩ Faustus\"?"
+                    },
+                    {
+                        "en": "one of the country's leading playwrights",
+                        "vi": "một trong những nhà viết kịch hàng đầu của đất nước"
+                    },
+                    {
+                        "en": "The famous playwright died in 1616 at the age of 52.",
+                        "vi": "Nhà viết kịch nổi tiếng qua đời năm 1616 ở tuổi 52."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "667ecc204da746e8b56f7695bcf79c01",
+        "word": "promoter",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/prəˈməʊtə(r)/",
+            "us": "/prəˈməʊtər/"
+        },
+        "nearby": [
+            {
+                "word": "promontory",
+                "pos": "noun"
+            },
+            {
+                "word": "promote",
+                "pos": "verb"
+            },
+            {
+                "word": "promoter",
+                "pos": "noun"
+            },
+            {
+                "word": "promotion",
+                "pos": "noun"
+            },
+            {
+                "word": "promotional",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person or company that organizes or provides money for an artistic performance or a sporting event",
+                    "vi": "một người hoặc công ty tổ chức hoặc cung cấp tiền cho một buổi biểu diễn nghệ thuật hoặc một sự kiện thể thao"
+                },
+                "examples": [
+                    {
+                        "en": "The boxing promoter expects a full house when the World Champion defends his title.",
+                        "vi": "Nhà quảng bá quyền anh mong đợi một ngôi nhà đầy đủ khi Nhà vô địch thế giới bảo vệ danh hiệu của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who tries to persuade others about the value or importance of something",
+                    "vi": "một người cố gắng thuyết phục người khác về giá trị hoặc tầm quan trọng của một thứ gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "She became a leading promoter of European integration.",
+                        "vi": "Cô ấy trở thành người thúc đẩy hội nhập châu Âu hàng đầu."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "533a498833564f9f82b7d2925b6d21e1",
+        "word": "stuntman",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈstʌntmæn/",
+            "us": "/ˈstʌntmæn/"
+        },
+        "nearby": [
+            {
+                "word": "stunt",
+                "pos": "verb"
+            },
+            {
+                "word": "stunted",
+                "pos": "adjective"
+            },
+            {
+                "word": "stuntman",
+                "pos": "noun"
+            },
+            {
+                "word": "stuntwoman",
+                "pos": "noun"
+            },
+            {
+                "word": "stupa",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a man whose job is to do dangerous things in place of an actor in a film, etc.; a man who does dangerous things in order to entertain people",
+                    "vi": "một người đàn ông có công việc là làm những việc nguy hiểm thay cho một diễn viên trong phim, v.v ...; một người đàn ông làm những việc nguy hiểm để mua vui cho mọi người"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "7503711213f54c079c980726e2a1570f",
+        "word": "stuntwoman",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈstʌntwʊmən/",
+            "us": "/ˈstʌntwʊmən/"
+        },
+        "nearby": [
+            {
+                "word": "stunted",
+                "pos": "adjective"
+            },
+            {
+                "word": "stuntman",
+                "pos": "noun"
+            },
+            {
+                "word": "stuntwoman",
+                "pos": "noun"
+            },
+            {
+                "word": "stupa",
+                "pos": "noun"
+            },
+            {
+                "word": "stupefaction",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a woman whose job is to do dangerous things in place of an actor in a film, etc.; a woman who does dangerous things in order to entertain people",
+                    "vi": "một người phụ nữ có công việc là làm những việc nguy hiểm thay cho một diễn viên trong phim, v.v ...; một người phụ nữ làm những việc nguy hiểm để mua vui cho mọi người"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "6a2f1384fb53485181163fe60a06c439",
+        "word": "theatregoer",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈθɪətəɡəʊə(r)/",
+            "us": "/ˈθiːətərɡəʊər/"
+        },
+        "nearby": [
+            {
+                "word": "Thea",
+                "pos": ""
+            },
+            {
+                "word": "theatre",
+                "pos": "noun"
+            },
+            {
+                "word": "theatregoer",
+                "pos": "noun"
+            },
+            {
+                "word": "theatre-going",
+                "pos": "adjective"
+            },
+            {
+                "word": "theatre-in-the-round",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who goes regularly to the theatre",
+                    "vi": "một người thường xuyên đến rạp hát"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "10d9effe4eb445bb80fdac5df2bb0881",
+        "word": "theatre-going",
+        "pos": "adjective",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈθɪətə ɡəʊɪŋ/",
+            "us": "/ˈθiːətər ɡəʊɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "theatre",
+                "pos": "noun"
+            },
+            {
+                "word": "theatregoer",
+                "pos": "noun"
+            },
+            {
+                "word": "theatre-going",
+                "pos": "adjective"
+            },
+            {
+                "word": "theatre-in-the-round",
+                "pos": "noun"
+            },
+            {
+                "word": "theatre nurse",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "going regularly to the theatre",
+                    "vi": "thường xuyên đến nhà hát"
+                },
+                "examples": [
+                    {
+                        "en": "the theatregoing public",
+                        "vi": "công chúng chiếu rạp"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e615fda8b3784170b10340e368e1f000",
+        "word": "bit player",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbɪt pleɪə(r)/",
+            "us": "/ˈbɪt pleɪər/"
+        },
+        "nearby": [
+            {
+                "word": "bitonality",
+                "pos": "noun"
+            },
+            {
+                "word": "bit part",
+                "pos": "noun"
+            },
+            {
+                "word": "bit player",
+                "pos": "noun"
+            },
+            {
+                "word": "bitstream",
+                "pos": "noun"
+            },
+            {
+                "word": "bitten",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an actor with a small part in a film",
+                    "vi": "một diễn viên đóng vai nhỏ trong phim"
+                },
+                "examples": [
+                    {
+                        "en": "She was a bit player in a couple of movies.",
+                        "vi": "Cô ấy là một cao thủ trong một vài bộ phim."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person or an organization that is involved in a situation but does not have an important role and has little influence",
+                    "vi": "một người hoặc một tổ chức có liên quan đến một tình huống nhưng không có vai trò quan trọng và có ít ảnh hưởng"
+                },
+                "examples": [
+                    {
+                        "en": "This country needs to be a leading partner in Europe, not a bit player.",
+                        "vi": "Đất nước này cần phải là một đối tác hàng đầu ở châu Âu, chứ không phải là một đối thủ nhỏ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7fb037aa095242fda8c40d2653dc5402",
+        "word": "body double",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbɒdi dʌbl/",
+            "us": "/ˈbɑːdi dʌbl/"
+        },
+        "nearby": [
+            {
+                "word": "body clock",
+                "pos": "noun"
+            },
+            {
+                "word": "body count",
+                "pos": "noun"
+            },
+            {
+                "word": "body double",
+                "pos": "noun"
+            },
+            {
+                "word": "body dysmorphic disorder",
+                "pos": "noun"
+            },
+            {
+                "word": "body fascism",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who takes part in a film in place of an actor when the scene involves wearing no clothes, or using special or dangerous skills",
+                    "vi": "một người tham gia vào một bộ phim thay cho một diễn viên khi cảnh quay liên quan đến việc không mặc quần áo hoặc sử dụng các kỹ năng đặc biệt hoặc nguy hiểm"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "96d212f3b76e46a180517b404d181bb6",
+        "word": "buff",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/bʌf/",
+            "us": "/bʌf/"
+        },
+        "nearby": [
+            {
+                "word": "budgie",
+                "pos": "noun"
+            },
+            {
+                "word": "Budweiser",
+                "pos": "noun"
+            },
+            {
+                "word": "buff",
+                "pos": "noun"
+            },
+            {
+                "word": "buff",
+                "pos": "adjective"
+            },
+            {
+                "word": "buff",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who is very interested in a particular subject or activity and knows a lot about it",
+                    "vi": "một người rất quan tâm đến một chủ đề hoặc hoạt động cụ thể và biết nhiều về nó"
+                },
+                "examples": [
+                    {
+                        "en": "a film/movie/history buff",
+                        "vi": "một người yêu thích phim / phim / lịch sử"
+                    },
+                    {
+                        "en": "an opera buff",
+                        "vi": "một người yêu thích opera"
+                    },
+                    {
+                        "en": "They were a group of computer buffs who used to meet every Thursday evening.",
+                        "vi": "Họ là một nhóm những người yêu thích máy tính thường gặp nhau vào mỗi tối thứ Năm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a pale yellow-brown colour",
+                    "vi": "màu nâu vàng nhạt"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "wearing no clothes",
+                    "vi": "không mặc quần áo"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "6511113ff06d48f2acf2e90f9624f3c7",
+        "word": "cameo",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkæmiəʊ/",
+            "us": "/ˈkæmiəʊ/"
+        },
+        "nearby": [
+            {
+                "word": "Camelot",
+                "pos": ""
+            },
+            {
+                "word": "Camembert",
+                "pos": "noun"
+            },
+            {
+                "word": "cameo",
+                "pos": "noun"
+            },
+            {
+                "word": "camera",
+                "pos": "noun"
+            },
+            {
+                "word": "cameraman",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small part in a film or play for a famous actor",
+                    "vi": "một phần nhỏ trong phim hoặc đóng cho một diễn viên nổi tiếng"
+                },
+                "examples": [
+                    {
+                        "en": "a cameo role/appearance",
+                        "vi": "một vai khách mời / sự xuất hiện"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a short piece of writing that gives a good description of somebody/something",
+                    "vi": "một đoạn văn ngắn mô tả tốt về ai đó / điều gì đó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a piece of jewellery that consists of a raised design, often of a head, on a background of a different colour",
+                    "vi": "một món đồ trang sức có thiết kế nhô cao, thường là đầu, trên nền có màu khác"
+                },
+                "examples": [
+                    {
+                        "en": "a cameo brooch/ring",
+                        "vi": "một chiếc trâm / nhẫn khách mời"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "021c16e42c004a0eb06554ccb5e42e4f",
+        "word": "chorus",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkɔːrəs/",
+            "us": "/ˈkɔːrəs/"
+        },
+        "nearby": [
+            {
+                "word": "chortle",
+                "pos": "noun"
+            },
+            {
+                "word": "chortle",
+                "pos": "verb"
+            },
+            {
+                "word": "chorus",
+                "pos": "noun"
+            },
+            {
+                "word": "chorus",
+                "pos": "verb"
+            },
+            {
+                "word": "chorus girl",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "part of a song that is sung after each verse",
+                    "vi": "một phần của bài hát được hát sau mỗi câu"
+                },
+                "examples": [
+                    {
+                        "en": "Everyone joined in the chorus.",
+                        "vi": "Mọi người cùng hòa mình vào dàn đồng ca."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a piece of music, usually part of a larger work, that is written for a choir (= a group of singers)",
+                    "vi": "một bản nhạc, thường là một phần của tác phẩm lớn hơn, được viết cho một dàn hợp xướng (= một nhóm ca sĩ)"
+                },
+                "examples": [
+                    {
+                        "en": "the Hallelujah Chorus",
+                        "vi": "hợp xướng Hallelujah"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a large group of singers",
+                    "vi": "một nhóm lớn các ca sĩ"
+                },
+                "examples": [
+                    {
+                        "en": "the Bath Festival Chorus",
+                        "vi": "Hợp xướng Lễ hội Tắm"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a group of performers who sing and dance in a musical show",
+                    "vi": "một nhóm biểu diễn hát và nhảy trong một chương trình âm nhạc"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the sound of a lot of people expressing approval or disapproval at the same time",
+                    "vi": "âm thanh của nhiều người bày tỏ sự tán thành hoặc không tán thành cùng một lúc"
+                },
+                "examples": [
+                    {
+                        "en": "a chorus of praise/complaint",
+                        "vi": "một điệp khúc khen ngợi / phàn nàn"
+                    },
+                    {
+                        "en": "a chorus of voices calling for her resignation",
+                        "vi": "một điệp khúc kêu gọi cô ấy từ chức"
+                    },
+                    {
+                        "en": "A chorus of laughter greeted his remark.",
+                        "vi": "Một tràng cười chào đón nhận xét của anh ta."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a group of performers who comment together on the events of the play",
+                    "vi": "một nhóm các nghệ sĩ biểu diễn cùng nhau bình luận về các sự kiện của vở kịch"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "an actor who speaks the opening and closing words of the play",
+                    "vi": "một diễn viên nói lời mở đầu và kết thúc vở kịch"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "all together",
+                    "vi": "tất cả cùng nhau"
+                },
+                "examples": [
+                    {
+                        "en": "‘Thank you,’ they said in chorus.",
+                        "vi": "Cảm ơn, họ nói trong điệp khúc."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "acac021b5309478e81cbe883c0a4806d",
+        "word": "chorus line",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkɔːrəs laɪn/",
+            "us": "/ˈkɔːrəs laɪn/"
+        },
+        "nearby": [
+            {
+                "word": "chorus",
+                "pos": "verb"
+            },
+            {
+                "word": "chorus girl",
+                "pos": "noun"
+            },
+            {
+                "word": "chorus line",
+                "pos": "noun"
+            },
+            {
+                "word": "A Chorus Line",
+                "pos": ""
+            },
+            {
+                "word": "chose",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a group of performers who sing and dance together in a musical show, especially when they stand in a straight line to do this",
+                    "vi": "một nhóm các nghệ sĩ biểu diễn hát và nhảy cùng nhau trong một chương trình âm nhạc, đặc biệt là khi họ đứng trên một đường thẳng để làm điều này"
+                },
+                "examples": [
+                    {
+                        "en": "The dancers form a high-kicking chorus line and the fun begins.",
+                        "vi": "Các vũ công tạo thành một đội đồng ca tung cao và cuộc vui bắt đầu."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "fc25d63e186944ca90c67e9b5eb1551b",
+        "word": "costumier",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/kɒsˈtjuːmiə(r)/",
+            "us": "/kɑːsˈtuːmieɪ/"
+        },
+        "nearby": [
+            {
+                "word": "costume party",
+                "pos": "noun"
+            },
+            {
+                "word": "costumer",
+                "pos": "noun"
+            },
+            {
+                "word": "costumier",
+                "pos": "noun"
+            },
+            {
+                "word": "cosy",
+                "pos": "adjective"
+            },
+            {
+                "word": "cosy",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person or company that makes costumes or has costumes to hire, especially for the theatre",
+                    "vi": "một người hoặc công ty may trang phục hoặc có trang phục để thuê, đặc biệt là cho nhà hát"
+                },
+                "examples": [
+                    {
+                        "en": "a firm of theatrical costumiers",
+                        "vi": "một công ty của các nhà hát kịch"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "67dcdf57b59e4346a56a5a1bc82a1c87",
+        "word": "debutant",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈdebjuːtɑːnt/",
+            "us": "/ˈdebjuːtɑːnt/"
+        },
+        "nearby": [
+            {
+                "word": "debut",
+                "pos": "noun"
+            },
+            {
+                "word": "debut",
+                "pos": "verb"
+            },
+            {
+                "word": "debutant",
+                "pos": "noun"
+            },
+            {
+                "word": "debutante",
+                "pos": "noun"
+            },
+            {
+                "word": "Dec",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who is making their first public appearance, especially in sport or films",
+                    "vi": "một người lần đầu tiên xuất hiện trước công chúng, đặc biệt là trong thể thao hoặc phim"
+                },
+                "examples": [
+                    {
+                        "en": "The manager paid tribute to debutant Ross, after he impressed in the League Cup match.",
+                        "vi": "Người quản lý đã dành sự tôn vinh cho cầu thủ ra mắt Ross, sau khi anh ấy gây ấn tượng trong trận đấu ở League Cup."
+                    },
+                    {
+                        "en": "Being a debutant, she'd hoped to watch others audition, but her name was called first.",
+                        "vi": "Là một người mới ra mắt, cô ấy đã hy vọng được xem những người khác thử giọng, nhưng tên của cô ấy đã được gọi trước."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "78c06313f8f74f998c00428a4e4a5959",
+        "word": "debutante",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈdebjuːtɑːnt/",
+            "us": "/ˈdebjuːtɑːnt/"
+        },
+        "nearby": [
+            {
+                "word": "debut",
+                "pos": "verb"
+            },
+            {
+                "word": "debutant",
+                "pos": "noun"
+            },
+            {
+                "word": "debutante",
+                "pos": "noun"
+            },
+            {
+                "word": "Dec",
+                "pos": ""
+            },
+            {
+                "word": "deca-",
+                "pos": "combining form"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a young, rich or upper-class woman who is going to fashionable social events for the first time",
+                    "vi": "một phụ nữ trẻ, giàu có hoặc thuộc tầng lớp thượng lưu lần đầu tiên tham dự các sự kiện xã hội thời trang"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a woman who is making her first public appearance, especially in sport or films; a female debutant",
+                    "vi": "một phụ nữ lần đầu tiên xuất hiện trước công chúng, đặc biệt là trong thể thao hoặc đóng phim; một nữ giới ra mắt"
+                },
+                "examples": [
+                    {
+                        "en": "The film, released on 15th July, also stars debutante Diana Penty.",
+                        "vi": "Bộ phim được phát hành vào ngày 15 tháng 7, cũng có sự tham gia của nữ diễn viên Diana Penty."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "21ee74c7d77d4551a7a95eadbed92569",
+        "word": "gaffer",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈɡæfə(r)/",
+            "us": "/ˈɡæfər/"
+        },
+        "nearby": [
+            {
+                "word": "gaff",
+                "pos": "noun"
+            },
+            {
+                "word": "gaffe",
+                "pos": "noun"
+            },
+            {
+                "word": "gaffer",
+                "pos": "noun"
+            },
+            {
+                "word": "gaffer tape",
+                "pos": "noun"
+            },
+            {
+                "word": "gag",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who is in charge of a group of people, for example, workers in a factory, a sports team, etc.",
+                    "vi": "một người phụ trách một nhóm người, ví dụ, công nhân trong nhà máy, một đội thể thao, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "The gaffer told us we’re a good team.",
+                        "vi": "Người gaffer nói với chúng tôi rằng chúng tôi là một đội tốt."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the person who is in charge of the electrical work and the lights when a film or television programme is being made",
+                    "vi": "người phụ trách công việc điện và ánh sáng khi phim hoặc chương trình truyền hình đang được thực hiện"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "5e02af7746e04a1a95c2053caad469eb",
+        "word": "grip",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ɡrɪp/",
+            "us": "/ɡrɪp/"
+        },
+        "nearby": [
+            {
+                "word": "gringo",
+                "pos": "noun"
+            },
+            {
+                "word": "griot",
+                "pos": "noun"
+            },
+            {
+                "word": "grip",
+                "pos": "noun"
+            },
+            {
+                "word": "grip",
+                "pos": "verb"
+            },
+            {
+                "word": "gripe",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an act of holding somebody/something tightly; a particular way of doing this",
+                    "vi": "hành động ôm chặt ai đó / cái gì đó; một cách cụ thể để làm điều này"
+                },
+                "examples": [
+                    {
+                        "en": "Keep a tight grip on the rope.",
+                        "vi": "Giữ chặt dây."
+                    },
+                    {
+                        "en": "to loosen/release/relax your grip",
+                        "vi": "nới lỏng / giải phóng / thả lỏng tay cầm của bạn"
+                    },
+                    {
+                        "en": "She tried to get a grip on the icy rock.",
+                        "vi": "Cô cố gắng bám vào tảng đá băng giá."
+                    },
+                    {
+                        "en": "The climber slipped and lost her grip.",
+                        "vi": "Người leo núi bị trượt chân và mất độ bám."
+                    },
+                    {
+                        "en": "She struggled from his grip.",
+                        "vi": "Cô vùng vẫy khỏi sự kìm kẹp của anh."
+                    },
+                    {
+                        "en": "Try adjusting your grip on the racket.",
+                        "vi": "Thử điều chỉnh độ bám của bạn trên vợt."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "control or power over somebody/something",
+                    "vi": "kiểm soát hoặc quyền lực đối với ai đó / cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "The home team took a firm grip on the game.",
+                        "vi": "Đội chủ nhà nắm chắc thế trận."
+                    },
+                    {
+                        "en": "We need to tighten the grip we have on the market.",
+                        "vi": "Chúng ta cần phải thắt chặt sự kìm kẹp mà chúng ta có trên thị trường."
+                    },
+                    {
+                        "en": "The Prime Minister needs to keep a tight grip on his party.",
+                        "vi": "Thủ tướng cần phải giữ chặt đảng của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an understanding of something",
+                    "vi": "sự hiểu biết về một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "I couldn't get a grip on what was going on.",
+                        "vi": "Tôi không thể hiểu được chuyện gì đang xảy ra."
+                    },
+                    {
+                        "en": "You need to keep a good grip on reality in this job.",
+                        "vi": "Bạn cần phải nắm bắt tốt thực tế trong công việc này."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the ability of something to move over a surface without slipping",
+                    "vi": "khả năng của một thứ gì đó di chuyển trên bề mặt mà không bị trượt"
+                },
+                "examples": [
+                    {
+                        "en": "These tyres give the bus better grip in slippery conditions.",
+                        "vi": "Loại lốp này giúp xe bám đường tốt hơn trong điều kiện trơn trượt."
+                    },
+                    {
+                        "en": "This type of sole gives a good grip on snow and ice.",
+                        "vi": "Loại đế này cho cảm giác bám tốt trên băng tuyết."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a part of something that has a special surface so that it can be held without the hands slipping",
+                    "vi": "một bộ phận của vật gì đó có bề mặt đặc biệt để có thể cầm nó mà tay không bị trượt"
+                },
+                "examples": [
+                    {
+                        "en": "the grip on a golf club",
+                        "vi": "tay cầm gậy đánh gôn"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a small thin piece of metal or plastic folded in the middle, used by women for holding their hair in place",
+                    "vi": "một mảnh kim loại hoặc nhựa mỏng nhỏ được gấp lại ở giữa, được phụ nữ sử dụng để giữ nếp tóc của họ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person who prepares and moves the cameras, and sometimes the lighting equipment, when a film is being made",
+                    "vi": "một người chuẩn bị và di chuyển máy ảnh, và đôi khi là thiết bị chiếu sáng, khi làm phim"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a large soft bag, used when travelling",
+                    "vi": "một túi mềm lớn, được sử dụng khi đi du lịch"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to begin to understand and deal with something difficult",
+                    "vi": "để bắt đầu hiểu và đối phó với điều gì đó khó khăn"
+                },
+                "examples": [
+                    {
+                        "en": "I'm slowly getting to grips with the language.",
+                        "vi": "Tôi dần dần hiểu được ngôn ngữ này."
+                    },
+                    {
+                        "en": "They have so far failed to come to grips with the ecological problems.",
+                        "vi": "Cho đến nay, họ vẫn chưa hiểu rõ các vấn đề sinh thái."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to improve your behaviour or control your emotions after being afraid, upset or angry",
+                    "vi": "để cải thiện hành vi của bạn hoặc kiểm soát cảm xúc của bạn sau khi sợ hãi, khó chịu hoặc tức giận"
+                },
+                "examples": [
+                    {
+                        "en": "I have to take a grip on myself, he told himself firmly.",
+                        "vi": "Anh phải tự kiềm chế bản thân mình, anh kiên quyết nói với bản thân."
+                    },
+                    {
+                        "en": "(informal) Get a grip! (= make an effort to control your emotions)",
+                        "vi": "(không chính thức) Hãy nắm lấy! (= cố gắng kiểm soát cảm xúc của bạn)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "experiencing something unpleasant that cannot be stopped",
+                    "vi": "trải qua một cái gì đó khó chịu mà không thể dừng lại"
+                },
+                "examples": [
+                    {
+                        "en": "a country in the grip of recession",
+                        "vi": "một đất nước đang trong vòng suy thoái"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to become unable to understand or control a situation",
+                    "vi": "trở nên không thể hiểu hoặc kiểm soát một tình huống"
+                },
+                "examples": [
+                    {
+                        "en": "Sometimes I feel I'm losing my grip.",
+                        "vi": "Đôi khi tôi cảm thấy mình đang mất dần sự bám víu."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "dc3ce11b2ef84cc8b106b3e504faa043",
+        "word": "ham",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/hæm/",
+            "us": "/hæm/"
+        },
+        "nearby": [
+            {
+                "word": "halwa",
+                "pos": "noun"
+            },
+            {
+                "word": "halyard",
+                "pos": "noun"
+            },
+            {
+                "word": "ham",
+                "pos": "noun"
+            },
+            {
+                "word": "ham",
+                "pos": "verb"
+            },
+            {
+                "word": "hamburger",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "meat from the top part of a pig’s leg that has been cured (= preserved using salt or smoke)",
+                    "vi": "thịt từ phần trên của chân lợn đã được làm sạch (= bảo quản bằng muối hoặc khói)"
+                },
+                "examples": [
+                    {
+                        "en": "a slice of ham",
+                        "vi": "một lát giăm bông"
+                    },
+                    {
+                        "en": "a ham sandwich",
+                        "vi": "một sandwich giăm bông"
+                    },
+                    {
+                        "en": "a breakfast of ham and eggs",
+                        "vi": "bữa sáng gồm giăm bông và trứng"
+                    },
+                    {
+                        "en": "cold ham and salad",
+                        "vi": "thịt nguội và salad"
+                    },
+                    {
+                        "en": "We had boiled ham on the bone for dinner.",
+                        "vi": "Chúng tôi đã luộc thịt giăm bông với xương cho bữa tối."
+                    },
+                    {
+                        "en": "The hams were cooked whole.",
+                        "vi": "Thịt dăm bông đã được nấu chín."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who sends and receives radio messages as a hobby rather than as a job",
+                    "vi": "một người gửi và nhận tin nhắn vô tuyến như một sở thích hơn là một công việc"
+                },
+                "examples": [
+                    {
+                        "en": "a radio ham",
+                        "vi": "ham radio"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an actor who performs badly, especially by exaggerating emotions",
+                    "vi": "một diễn viên thể hiện không tốt, đặc biệt là bằng cách phóng đại cảm xúc"
+                },
+                "examples": [
+                    {
+                        "en": "a ham actor",
+                        "vi": "một diễn viên ham"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the back part of a person’s leg above the knee",
+                    "vi": "phần sau của chân một người trên đầu gối"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "865bba5e54ce4bc2817ca789d62dbcd8",
+        "word": "heart-throb",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈhɑːt θrɒb/",
+            "us": "/ˈhɑːrt θrɑːb/"
+        },
+        "nearby": [
+            {
+                "word": "heart-stopping",
+                "pos": "adjective"
+            },
+            {
+                "word": "heartstrings",
+                "pos": "noun"
+            },
+            {
+                "word": "heart-throb",
+                "pos": "noun"
+            },
+            {
+                "word": "heart-to-heart",
+                "pos": "noun"
+            },
+            {
+                "word": "heart-to-heart",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "(used especially in newspapers) a famous man, usually an actor or a singer, that a lot of women find attractive",
+                    "vi": "(được sử dụng đặc biệt trên báo chí) một người đàn ông nổi tiếng, thường là một diễn viên hoặc ca sĩ, mà nhiều phụ nữ thấy hấp dẫn"
+                },
+                "examples": [
+                    {
+                        "en": "a Hollywood heart-throb",
+                        "vi": "một trái tim Hollywood"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2b1dcc8141f04fd49b502ece6e0c3840",
+        "word": "key grip",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈkiː ɡrɪp/",
+            "us": "/ˈkiː ɡrɪp/"
+        },
+        "nearby": [
+            {
+                "word": "keychain",
+                "pos": "noun"
+            },
+            {
+                "word": "keyed up",
+                "pos": "adjective"
+            },
+            {
+                "word": "key grip",
+                "pos": "noun"
+            },
+            {
+                "word": "keyhole",
+                "pos": "noun"
+            },
+            {
+                "word": "keyhole surgery",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the person in charge of the camera equipment for a film",
+                    "vi": "người phụ trách thiết bị máy ảnh cho một bộ phim"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "d3170a8184be49bc8c5840e6fde380c1",
+        "word": "matinee idol",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈmætɪneɪ aɪdl/",
+            "us": "/ˌmætnˈeɪ aɪdl/"
+        },
+        "nearby": [
+            {
+                "word": "Matilda",
+                "pos": "noun"
+            },
+            {
+                "word": "matinee",
+                "pos": "noun"
+            },
+            {
+                "word": "matinee idol",
+                "pos": "noun"
+            },
+            {
+                "word": "mating",
+                "pos": "noun"
+            },
+            {
+                "word": "matins",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an actor who is popular with women",
+                    "vi": "một diễn viên nổi tiếng với phụ nữ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "278d9cb3b3534a40b00e51a124cd0a4b",
+        "word": "megastar",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈmeɡəstɑː(r)/",
+            "us": "/ˈmeɡəstɑːr/"
+        },
+        "nearby": [
+            {
+                "word": "megaphone",
+                "pos": "noun"
+            },
+            {
+                "word": "megapixel",
+                "pos": "noun"
+            },
+            {
+                "word": "megastar",
+                "pos": "noun"
+            },
+            {
+                "word": "megastore",
+                "pos": "noun"
+            },
+            {
+                "word": "megathermal",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a very famous singer, actor, musician, etc.",
+                    "vi": "một ca sĩ, diễn viên, nhạc sĩ, v.v. rất nổi tiếng."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "24de34e60b6b4ba8bc9f83cbecbf3c04",
+        "word": "player",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpleɪə(r)/",
+            "us": "/ˈpleɪər/"
+        },
+        "nearby": [
+            {
+                "word": "play down",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "played out",
+                "pos": "adjective"
+            },
+            {
+                "word": "player",
+                "pos": "noun"
+            },
+            {
+                "word": "player piano",
+                "pos": "noun"
+            },
+            {
+                "word": "playful",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who takes part in a game or sport",
+                    "vi": "một người tham gia một trò chơi hoặc môn thể thao"
+                },
+                "examples": [
+                    {
+                        "en": "a football/tennis/chess player",
+                        "vi": "một người chơi bóng đá / quần vợt / cờ vua"
+                    },
+                    {
+                        "en": "top/star players",
+                        "vi": "cầu thủ hàng đầu / ngôi sao"
+                    },
+                    {
+                        "en": "a game for four players",
+                        "vi": "một trò chơi cho bốn người chơi"
+                    },
+                    {
+                        "en": "We've lost two key players through injury.",
+                        "vi": "Chúng tôi đã mất hai cầu thủ quan trọng do chấn thương."
+                    },
+                    {
+                        "en": "Celtic have signed four new players.",
+                        "vi": "Celtic đã ký hợp đồng với bốn cầu thủ mới."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a company or person involved in a particular area of business or politics",
+                    "vi": "một công ty hoặc một người liên quan đến một lĩnh vực kinh doanh hoặc chính trị cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "The company has emerged as a major player in the London property market.",
+                        "vi": "Công ty đã nổi lên như một người chơi lớn trong thị trường bất động sản London."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a machine for producing the sound or pictures that have been recorded on CDs, etc.",
+                    "vi": "máy tạo âm thanh hoặc hình ảnh đã được ghi trên đĩa CD, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "a DVD/CD player",
+                        "vi": "đầu đĩa DVD / CD"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who plays a musical instrument",
+                    "vi": "một người chơi nhạc cụ"
+                },
+                "examples": [
+                    {
+                        "en": "a trumpet/bass player",
+                        "vi": "một người chơi kèn / bass"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an actor",
+                    "vi": "một diễn viên"
+                },
+                "examples": [
+                    {
+                        "en": "Phoenix Players present ‘Romeo and Juliet’.",
+                        "vi": "Người chơi Phoenix trình bày 'Romeo và Juliet'."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "63c9c9cc605e420785fc7aa8d9d98d5a",
+        "word": "press agent",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpres eɪdʒənt/",
+            "us": "/ˈpres eɪdʒənt/"
+        },
+        "nearby": [
+            {
+                "word": "press",
+                "pos": "verb"
+            },
+            {
+                "word": "press agency",
+                "pos": "noun"
+            },
+            {
+                "word": "press agent",
+                "pos": "noun"
+            },
+            {
+                "word": "press ahead",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "the Press Association",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person whose job is to supply information and advertising material about a particular actor, musician, theatre, etc. to newspapers, radio or television",
+                    "vi": "một người có công việc là cung cấp thông tin và tài liệu quảng cáo về một diễn viên, nhạc sĩ, nhà hát cụ thể, v.v. cho báo chí, đài phát thanh hoặc truyền hình"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "d62e956cd55e41e897e9795db2464b60",
+        "word": "prima donna",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌpriːmə ˈdɒnə/",
+            "us": "/ˌpriːmə ˈdɑːnə/"
+        },
+        "nearby": [
+            {
+                "word": "prima ballerina",
+                "pos": "noun"
+            },
+            {
+                "word": "primacy",
+                "pos": "noun"
+            },
+            {
+                "word": "prima donna",
+                "pos": "noun"
+            },
+            {
+                "word": "primaeval",
+                "pos": "adjective"
+            },
+            {
+                "word": "prima facie",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the main woman singer in an opera performance or an opera company",
+                    "vi": "nữ ca sĩ chính trong một buổi biểu diễn opera hoặc một vũ đoàn opera"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person who thinks they are very important because they are good at something, and who behaves badly when they do not get what they want",
+                    "vi": "một người nghĩ rằng họ rất quan trọng bởi vì họ giỏi một cái gì đó, và người cư xử tồi tệ khi họ không đạt được điều họ muốn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "d57817bb0ae8464dbf76bb4def620e06",
+        "word": "prompter",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈprɒmptə(r)/",
+            "us": "/ˈprɑːmptər/"
+        },
+        "nearby": [
+            {
+                "word": "prompt",
+                "pos": "noun"
+            },
+            {
+                "word": "prompt",
+                "pos": "adverb"
+            },
+            {
+                "word": "prompter",
+                "pos": "noun"
+            },
+            {
+                "word": "prompting",
+                "pos": "noun"
+            },
+            {
+                "word": "promptly",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who prompts actors in a play (= reminds them what to say if they forget)",
+                    "vi": "một người nhắc các diễn viên trong một vở kịch (= nhắc họ phải nói gì nếu họ quên)"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "1db7363a8cd3418ab152f120c63c2957",
+        "word": "publicist",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpʌblɪsɪst/",
+            "us": "/ˈpʌblɪsɪst/"
+        },
+        "nearby": [
+            {
+                "word": "public house",
+                "pos": "noun"
+            },
+            {
+                "word": "public housing",
+                "pos": "noun"
+            },
+            {
+                "word": "publicist",
+                "pos": "noun"
+            },
+            {
+                "word": "publicity",
+                "pos": "noun"
+            },
+            {
+                "word": "publicize",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person whose job is to make something known to the public, for example a new product, actor, etc.",
+                    "vi": "một người có công việc là làm cho công chúng biết đến điều gì đó, ví dụ như sản phẩm mới, diễn viên, v.v."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "312081a9a73e4bc798ec49a4da2889fb",
+        "word": "scene-shifter",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈsiːn ʃɪftə(r)/",
+            "us": "/ˈsiːn ʃɪftər/"
+        },
+        "nearby": [
+            {
+                "word": "scene-of-crime",
+                "pos": "adjective"
+            },
+            {
+                "word": "scenery",
+                "pos": "noun"
+            },
+            {
+                "word": "scene-shifter",
+                "pos": "noun"
+            },
+            {
+                "word": "scene-shifting",
+                "pos": "noun"
+            },
+            {
+                "word": "scene-stealer",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who moves scenery in a theatre",
+                    "vi": "một người di chuyển khung cảnh trong nhà hát"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "33caa723b83d48cf91187034808f8f74",
+        "word": "stagehand",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈsteɪdʒhænd/",
+            "us": "/ˈsteɪdʒhænd/"
+        },
+        "nearby": [
+            {
+                "word": "stage door",
+                "pos": "noun"
+            },
+            {
+                "word": "stage fright",
+                "pos": "noun"
+            },
+            {
+                "word": "stagehand",
+                "pos": "noun"
+            },
+            {
+                "word": "stage left",
+                "pos": "adverb"
+            },
+            {
+                "word": "stage-manage",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person whose job is to help move scenery, etc. in a theatre, to prepare the stage for the next play or the next part of a play",
+                    "vi": "một người có công việc là giúp di chuyển khung cảnh, v.v. trong nhà hát, để chuẩn bị sân khấu cho vở kịch tiếp theo hoặc phần tiếp theo của vở kịch"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "a6abd479b79f4f4c96ee163257405361",
+        "word": "stage manager",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌsteɪdʒ ˈmænɪdʒə(r)/",
+            "us": "/ˌsteɪdʒ ˈmænɪdʒər/"
+        },
+        "nearby": [
+            {
+                "word": "stage left",
+                "pos": "adverb"
+            },
+            {
+                "word": "stage-manage",
+                "pos": "verb"
+            },
+            {
+                "word": "stage manager",
+                "pos": "noun"
+            },
+            {
+                "word": "stage name",
+                "pos": "noun"
+            },
+            {
+                "word": "stage right",
+                "pos": "adverb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the person who is responsible for the stage, lights, scenery, etc. during the performance of a play in a theatre",
+                    "vi": "người chịu trách nhiệm về sân khấu, ánh sáng, khung cảnh, v.v. trong quá trình biểu diễn vở kịch trong nhà hát"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "43b7702208fa4a3dbc78cbaa6d78fb2f",
+        "word": "stand-in",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈstænd ɪn/",
+            "us": "/ˈstænd ɪn/"
+        },
+        "nearby": [
+            {
+                "word": "stand for",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "stand in",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "stand-in",
+                "pos": "noun"
+            },
+            {
+                "word": "standing",
+                "pos": "adjective"
+            },
+            {
+                "word": "standing",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who does somebody’s job for a short time when they are not available",
+                    "vi": "một người làm công việc của ai đó trong một thời gian ngắn khi họ không có mặt"
+                },
+                "examples": [
+                    {
+                        "en": "I acted as Tom’s stand-in when he was away.",
+                        "vi": "Tôi đã đóng vai trò là người đỡ đầu cho Tom khi anh ấy đi vắng."
+                    },
+                    {
+                        "en": "the stand-in captain",
+                        "vi": "đội trưởng độc lập"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who replaces an actor in some scenes in a film, especially dangerous ones",
+                    "vi": "một người thay thế diễn viên trong một số cảnh trong phim, đặc biệt là những cảnh nguy hiểm"
+                },
+                "examples": [
+                    {
+                        "en": "Most of the stunts are performed by stand-ins.",
+                        "vi": "Hầu hết các pha nguy hiểm được thực hiện bởi người đứng."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a5df9219c21f4fde807784263ef8a093",
+        "word": "starlet",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈstɑːlət/",
+            "us": "/ˈstɑːrlət/"
+        },
+        "nearby": [
+            {
+                "word": "starkness",
+                "pos": "noun"
+            },
+            {
+                "word": "starless",
+                "pos": "adjective"
+            },
+            {
+                "word": "starlet",
+                "pos": "noun"
+            },
+            {
+                "word": "starlight",
+                "pos": "noun"
+            },
+            {
+                "word": "starling",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a young woman actor who plays small parts and hopes to become famous",
+                    "vi": "một diễn viên nữ trẻ đóng vai nhỏ và hy vọng trở nên nổi tiếng"
+                },
+                "examples": [
+                    {
+                        "en": "Hollywood starlets of the 1940s",
+                        "vi": "Những ngôi sao Hollywood của những năm 1940"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a17a5f7f6aba467bbc997b88c1eaa170",
+        "word": "story editor",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈstɔːri edɪtə(r)/",
+            "us": "/ˈstɔːri edɪtər/"
+        },
+        "nearby": [
+            {
+                "word": "storyboarding",
+                "pos": "noun"
+            },
+            {
+                "word": "storybook",
+                "pos": "noun"
+            },
+            {
+                "word": "story editor",
+                "pos": "noun"
+            },
+            {
+                "word": "storyline",
+                "pos": "noun"
+            },
+            {
+                "word": "storyteller",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who makes changes to a script for a film, or helps the writer to make changes",
+                    "vi": "một người thay đổi kịch bản cho một bộ phim hoặc giúp nhà văn thực hiện các thay đổi"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "e8eb3b83aa8845d6bf6c37c7b6809148",
+        "word": "supporting",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/səˈpɔːtɪŋ/",
+            "us": "/səˈpɔːrtɪŋ/"
+        },
+        "nearby": [
+            {
+                "word": "supporter",
+                "pos": "noun"
+            },
+            {
+                "word": "support group",
+                "pos": "noun"
+            },
+            {
+                "word": "supporting",
+                "pos": "adjective"
+            },
+            {
+                "word": "supportive",
+                "pos": "adjective"
+            },
+            {
+                "word": "suppose",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a supporting actor in a play or film has an important part but not the leading one",
+                    "vi": "một diễn viên phụ trong một vở kịch, một bộ phim có vai trò quan trọng nhưng không phải là vai chính"
+                },
+                "examples": [
+                    {
+                        "en": "The movie featured Robert Lindsay in a supporting role.",
+                        "vi": "Phim có sự góp mặt của Robert Lindsay trong một vai phụ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "helping to show that something is true",
+                    "vi": "giúp chứng tỏ rằng điều gì đó là đúng"
+                },
+                "examples": [
+                    {
+                        "en": "There was a wealth of supporting evidence.",
+                        "vi": "Có rất nhiều bằng chứng hỗ trợ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "carrying the weight of something",
+                    "vi": "mang trọng lượng của một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "a supporting wall",
+                        "vi": "một bức tường hỗ trợ"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f3f35663c52446fa82d8efac41cc90fd",
+        "word": "tout",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/taʊt/",
+            "us": "/taʊt/"
+        },
+        "nearby": [
+            {
+                "word": "tousled",
+                "pos": "adjective"
+            },
+            {
+                "word": "tout",
+                "pos": "verb"
+            },
+            {
+                "word": "tout",
+                "pos": "noun"
+            },
+            {
+                "word": "tout court",
+                "pos": "adverb"
+            },
+            {
+                "word": "tow",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who buys tickets for concerts, sports events, etc. and then sells them to other people at a higher price",
+                    "vi": "một người mua vé cho các buổi hòa nhạc, sự kiện thể thao, v.v. và sau đó bán chúng cho người khác với giá cao hơn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "571d37a0d5334c1eb89e87587713d0ec",
+        "word": "tragedian",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/trəˈdʒiːdiən/",
+            "us": "/trəˈdʒiːdiən/"
+        },
+        "nearby": [
+            {
+                "word": "traffic light",
+                "pos": "noun"
+            },
+            {
+                "word": "traffic warden",
+                "pos": "noun"
+            },
+            {
+                "word": "tragedian",
+                "pos": "noun"
+            },
+            {
+                "word": "tragedienne",
+                "pos": "noun"
+            },
+            {
+                "word": "tragedy",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who writes tragedies for the theatre",
+                    "vi": "một người viết bi kịch cho nhà hát"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "an actor in tragedies",
+                    "vi": "một diễn viên trong bi kịch"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "c19e70f56f8340969ffd6a6bcd70b314",
+        "word": "trouper",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈtruːpə(r)/",
+            "us": "/ˈtruːpər/"
+        },
+        "nearby": [
+            {
+                "word": "trounce",
+                "pos": "verb"
+            },
+            {
+                "word": "troupe",
+                "pos": "noun"
+            },
+            {
+                "word": "trouper",
+                "pos": "noun"
+            },
+            {
+                "word": "trouser",
+                "pos": "adjective"
+            },
+            {
+                "word": "trouser",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an actor or other person who has a lot of experience and who you can depend on",
+                    "vi": "một diễn viên hoặc người khác có nhiều kinh nghiệm và bạn có thể phụ thuộc vào ai"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "bf4e6e5684cf4cb89d6be446581341f9",
+        "word": "understudy",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈʌndəstʌdi/",
+            "us": "/ˈʌndərstʌdi/"
+        },
+        "nearby": [
+            {
+                "word": "understood",
+                "pos": "verb"
+            },
+            {
+                "word": "understorey",
+                "pos": "noun"
+            },
+            {
+                "word": "understudy",
+                "pos": "noun"
+            },
+            {
+                "word": "understudy",
+                "pos": "verb"
+            },
+            {
+                "word": "undertake",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an actor who learns the part of another actor in a play so that they can play that part if necessary",
+                    "vi": "một diễn viên học phần của một diễn viên khác trong một vở kịch để họ có thể đóng phần đó nếu cần"
+                },
+                "examples": [
+                    {
+                        "en": "She worked as an understudy to Elaine Page.",
+                        "vi": "Cô ấy đã làm việc như một học viên dưới quyền của Elaine Page."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f758fee3ee124ab5a95cbf45dc35616f",
+        "word": "usher",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈʌʃə(r)/",
+            "us": "/ˈʌʃər/"
+        },
+        "nearby": [
+            {
+                "word": "username",
+                "pos": "noun"
+            },
+            {
+                "word": "use up",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "usher",
+                "pos": "noun"
+            },
+            {
+                "word": "usher",
+                "pos": "verb"
+            },
+            {
+                "word": "usherette",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who shows people where to sit in a church, public hall, etc.",
+                    "vi": "một người chỉ cho mọi người vị trí ngồi trong nhà thờ, sảnh công cộng, v.v."
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "an official who has special responsibilities in court, for example allowing people in and out of the court",
+                    "vi": "một quan chức có trách nhiệm đặc biệt trong tòa án, ví dụ như cho phép mọi người ra vào tòa án"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a friend of the couple at a wedding who helps show people to their seats",
+                    "vi": "một người bạn của cặp đôi trong đám cưới, người giúp chỉ cho mọi người về chỗ ngồi của họ"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "54af866e7a154b0b97032d63d79b8b94",
+        "word": "usherette",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌʌʃəˈret/",
+            "us": "/ˌʌʃəˈret/"
+        },
+        "nearby": [
+            {
+                "word": "usher",
+                "pos": "noun"
+            },
+            {
+                "word": "usher",
+                "pos": "verb"
+            },
+            {
+                "word": "usherette",
+                "pos": "noun"
+            },
+            {
+                "word": "usher in",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "USIA",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a woman whose job is to lead people to their seats in a theatre or cinema",
+                    "vi": "một người phụ nữ có công việc là dẫn mọi người đến chỗ ngồi của họ trong rạp hát hoặc rạp chiếu phim"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "aa2d54209a3f49149c6e00c1e6d72e17",
+        "word": "wardrobe master",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈwɔːdrəʊb mɑːstə(r)/",
+            "us": "/ˈwɔːrdrəʊb mæstər/"
+        },
+        "nearby": [
+            {
+                "word": "Wardour Street",
+                "pos": ""
+            },
+            {
+                "word": "wardrobe",
+                "pos": "noun"
+            },
+            {
+                "word": "wardrobe master",
+                "pos": "noun"
+            },
+            {
+                "word": "wardrobe mistress",
+                "pos": "noun"
+            },
+            {
+                "word": "wardroom",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a man whose job is to take care of the clothes that the actors in a theatre company, etc. wear on stage",
+                    "vi": "một người đàn ông có công việc chăm sóc quần áo mà các diễn viên trong đoàn kịch, v.v. mặc trên sân khấu"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "b24d76ca13984f4bb0e9154f70a57e44",
+        "word": "wardrobe mistress",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈwɔːdrəʊb mɪstrəs/",
+            "us": "/ˈwɔːrdrəʊb mɪstrəs/"
+        },
+        "nearby": [
+            {
+                "word": "wardrobe",
+                "pos": "noun"
+            },
+            {
+                "word": "wardrobe master",
+                "pos": "noun"
+            },
+            {
+                "word": "wardrobe mistress",
+                "pos": "noun"
+            },
+            {
+                "word": "wardroom",
+                "pos": "noun"
+            },
+            {
+                "word": "-wards",
+                "pos": "suffix"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a woman whose job is to take care of the clothes that the actors in a theatre company, etc. wear on stage",
+                    "vi": "một người phụ nữ có công việc chăm sóc quần áo mà các diễn viên trong đoàn kịch, v.v. mặc trên sân khấu"
+                },
+                "examples": []
+            }
+        ]
+    }
+]

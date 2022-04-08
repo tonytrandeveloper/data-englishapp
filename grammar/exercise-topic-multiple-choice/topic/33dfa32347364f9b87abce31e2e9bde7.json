@@ -1,0 +1,234 @@
+{
+    "id": "33dfa32347364f9b87abce31e2e9bde7",
+    "title": "Transitive vs. Intransitive",
+    "exercises": [
+        {
+            "id": "6fa9e82f88f340c99b5c009a784795e6",
+            "title": "Transitive vs. Intransitive",
+            "questions": [
+                {
+                    "question": "She has a pet dog.",
+                    "description": "Object - dog",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "You never give me any help.",
+                    "description": "Objects - me and help",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "The girl talked to the boy.",
+                    "description": "No object",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "I have found the answer.",
+                    "description": "Object - the answer",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "The dog was barking loudly.",
+                    "description": "No object",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "You are barking up the wrong tree.",
+                    "description": "Object - the wrong tree",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "The cat sat on the table.",
+                    "description": "No object",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "She put the books on the table.",
+                    "description": "Object - the books",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Please get the cat off the piano.",
+                    "description": "Object - the cat",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "I learned my lesson the hard way.",
+                    "description": "Object - my lesson",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "He spoke intelligently.",
+                    "description": "No object",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "She danced merrily into the room.",
+                    "description": "No object",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 1
+                }
+            ]
+        },
+        {
+            "id": "e6dd3dc53f9e4b4f9a9317c4c1b61fb6",
+            "title": "Transitive Vs. Intransitive",
+            "questions": [
+                {
+                    "question": "The child slept soundly.",
+                    "description": "Here the verb slept has no object.",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "The girl smiled sweetly.",
+                    "description": "Here the verb smiled has no object. ",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "The lion caught the mouse in his paws.",
+                    "description": "Here the verb caught has an object - the mouse. ",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "The bowler took two wickets.",
+                    "description": "Here the verb took has an object - two wickets",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "They took the child to the doctor.",
+                    "description": "Here the verb took has an object - the child. ",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "I met her on a train.",
+                    "description": "Here the verb met has an object - her.",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "The clever girl solved the puzzle easily.",
+                    "description": "Here the verb solved has an object - the puzzle.",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "The driver stopped the car.",
+                    "description": "Here the verb stopped has an object - the car. ",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Suddenly the car stopped.",
+                    "description": "Here the verb stopped has no object. ",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Tears ran down her cheeks.",
+                    "description": "Here the verb ran has no object. ",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "The cops chased the thief.",
+                    "description": "Here the verb chased has an object - the thief.",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "He admitted his mistake.",
+                    "description": "Here the verb admitted has an object - his mistake. ",
+                    "answers": [
+                        "Transitive",
+                        "Intransitive"
+                    ],
+                    "correct": 0
+                }
+            ]
+        }
+    ]
+}

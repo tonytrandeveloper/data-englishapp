@@ -1,0 +1,4331 @@
+[
+    {
+        "id": "d58e6c8372584062903a1a20480d3669",
+        "word": "class",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/klɑːs/",
+            "us": "/klæs/"
+        },
+        "nearby": [
+            {
+                "word": "clasp",
+                "pos": "verb"
+            },
+            {
+                "word": "clasp",
+                "pos": "noun"
+            },
+            {
+                "word": "class",
+                "pos": "noun"
+            },
+            {
+                "word": "class",
+                "pos": "verb"
+            },
+            {
+                "word": "class",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a group of students who are taught together",
+                    "vi": "một nhóm học sinh được dạy cùng nhau"
+                },
+                "examples": [
+                    {
+                        "en": "in the/your class We were in the same class at school.",
+                        "vi": "in the / your class Chúng tôi học cùng lớp ở trường."
+                    },
+                    {
+                        "en": "She is the youngest in her class.",
+                        "vi": "Cô ấy là người trẻ nhất trong lớp."
+                    },
+                    {
+                        "en": "He came top of the class.",
+                        "vi": "Anh ấy đứng đầu lớp."
+                    },
+                    {
+                        "en": "The whole class was/were told to stay behind after school.",
+                        "vi": "Cả lớp được yêu cầu ở lại sau giờ học."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an occasion when a group of students meets to be taught",
+                    "vi": "một dịp khi một nhóm sinh viên gặp nhau để được dạy"
+                },
+                "examples": [
+                    {
+                        "en": "I have a history class at 9 o'clock.",
+                        "vi": "Tôi có một lớp học lịch sử lúc 9 giờ."
+                    },
+                    {
+                        "en": "I was late for (a) class.",
+                        "vi": "Tôi đã đến muộn cho (a) lớp học."
+                    },
+                    {
+                        "en": "See me after class.",
+                        "vi": "Hẹn gặp tôi sau giờ học."
+                    },
+                    {
+                        "en": "in class She works hard in class (= during the class).",
+                        "vi": "ở lớp Cô ấy làm việc chăm chỉ trong lớp (= trong giờ học)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a series of classes on a particular subject",
+                    "vi": "một loạt các lớp học về một chủ đề cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "Are you still doing your French evening class?",
+                        "vi": "Bạn vẫn đang học lớp tiếng Pháp buổi tối chứ?"
+                    },
+                    {
+                        "en": "class in something I've been taking classes in pottery.",
+                        "vi": "lớp học về một thứ gì đó Tôi đã tham gia các lớp học về đồ gốm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a group of students who finish their studies at school, college or university in a particular year",
+                    "vi": "một nhóm sinh viên hoàn thành việc học ở trường, cao đẳng hoặc đại học trong một năm cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "the class of 2020",
+                        "vi": "lớp của năm 2020"
+                    },
+                    {
+                        "en": "the freshman/sophomore/junior/senior class",
+                        "vi": "sinh viên năm nhất / năm hai / cơ sở / lớp cao cấp"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "one of the groups of people in a society that are thought of as being at the same social or economic level",
+                    "vi": "một trong những nhóm người trong xã hội được coi là ở cùng cấp độ xã hội hoặc kinh tế"
+                },
+                "examples": [
+                    {
+                        "en": "the working/middle/upper class",
+                        "vi": "tầng lớp lao động / trung lưu / thượng lưu"
+                    },
+                    {
+                        "en": "The party tries to appeal to all classes of society.",
+                        "vi": "Đảng cố gắng kêu gọi mọi tầng lớp trong xã hội."
+                    },
+                    {
+                        "en": "His ideas had an appeal among the wealthy, professional classes.",
+                        "vi": "Ý tưởng của ông đã thu hút được sự quan tâm của các tầng lớp giàu có, chuyên nghiệp."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the way that people are divided into different social and economic groups",
+                    "vi": "cách mà mọi người được chia thành các nhóm xã hội và kinh tế khác nhau"
+                },
+                "examples": [
+                    {
+                        "en": "differences of class, race or gender",
+                        "vi": "sự khác biệt về giai cấp, chủng tộc hoặc giới tính"
+                    },
+                    {
+                        "en": "The old class system is not appropriate in a modern age.",
+                        "vi": "Hệ thống giai cấp cũ không thích hợp trong thời đại hiện đại."
+                    },
+                    {
+                        "en": "a society in which class is more important than ability",
+                        "vi": "một xã hội mà giai cấp quan trọng hơn khả năng"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "each of several different levels of comfort that are available to travellers in a plane, etc.",
+                    "vi": "từng mức độ thoải mái khác nhau dành cho khách đi máy bay, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "He always travels business class.",
+                        "vi": "Anh ấy luôn đi hạng thương gia."
+                    },
+                    {
+                        "en": "The first-class compartment is situated at the front of the train.",
+                        "vi": "Khoang hạng nhất nằm ở đầu tàu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a group of people, animals or things that have similar characteristics or qualities",
+                    "vi": "một nhóm người, động vật hoặc những thứ có đặc điểm hoặc phẩm chất tương tự"
+                },
+                "examples": [
+                    {
+                        "en": "It was good accommodation for a hotel of this class.",
+                        "vi": "Đó là chỗ ở tốt cho một khách sạn hạng này."
+                    },
+                    {
+                        "en": "different classes of drugs",
+                        "vi": "các loại thuốc khác nhau"
+                    },
+                    {
+                        "en": "Dickens was in a different class from (= was much better than) most of his contemporaries.",
+                        "vi": "Dickens ở một tầng lớp khác với (= tốt hơn nhiều so với) hầu hết những người cùng thời với ông."
+                    },
+                    {
+                        "en": "As a jazz singer she's in a class of her own (= better than most others).",
+                        "vi": "Là một ca sĩ nhạc jazz, cô ấy thuộc đẳng cấp của riêng mình (= hay hơn hầu hết những người khác)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "one of the different groups in a competition",
+                    "vi": "một trong những nhóm khác nhau trong một cuộc thi"
+                },
+                "examples": [
+                    {
+                        "en": "He came first in his class at every event.",
+                        "vi": "Anh ấy đứng đầu trong lớp ở mọi sự kiện."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an attractive quality or a high level of skill that is impressive",
+                    "vi": "phẩm chất hấp dẫn hoặc trình độ kỹ năng cao gây ấn tượng"
+                },
+                "examples": [
+                    {
+                        "en": "She has class all right—she looks like a model.",
+                        "vi": "Cô ấy có cả lớp - cô ấy trông giống như một người mẫu."
+                    },
+                    {
+                        "en": "There's a real touch of class about this team.",
+                        "vi": "Có một liên hệ thực sự về lớp học về đội này."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "one of the levels of achievement in a British university degree exam",
+                    "vi": "một trong những cấp độ thành tích trong kỳ thi lấy bằng đại học của Anh"
+                },
+                "examples": [
+                    {
+                        "en": "a first-/second-/third-class degree",
+                        "vi": "văn bằng hạng nhất / hạng nhì / hạng ba"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a group into which animals, plants, etc. that have similar characteristics are divided, below a phylum",
+                    "vi": "một nhóm trong đó động vật, thực vật, v.v. có các đặc điểm tương tự được phân chia, bên dưới một ngành"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the people in society who like to give their opinions on political or social issues",
+                    "vi": "những người trong xã hội thích đưa ra ý kiến của họ về các vấn đề chính trị hoặc xã hội"
+                },
+                "examples": [
+                    {
+                        "en": "Constitutional reform is popular among the chattering classes.",
+                        "vi": "Cải cách hiến pháp là phổ biến trong các tầng lớp huyên thuyên."
+                    },
+                    {
+                        "en": "topics being discussed at the breakfast tables of the chattering classes",
+                        "vi": "chủ đề đang được thảo luận trên bàn ăn sáng của các lớp học nói chuyện phiếm"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f06584b1c28146ab8efde0b8ab691bf5",
+        "word": "classmate",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˈklɑːsmeɪt/",
+            "us": "/ˈklæsmeɪt/"
+        },
+        "nearby": [
+            {
+                "word": "classless",
+                "pos": "adjective"
+            },
+            {
+                "word": "classlessness",
+                "pos": "noun"
+            },
+            {
+                "word": "classmate",
+                "pos": "noun"
+            },
+            {
+                "word": "classroom",
+                "pos": "noun"
+            },
+            {
+                "word": "class struggle",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who is or was in the same class as you at school or college",
+                    "vi": "một người đã hoặc đang học cùng lớp với bạn ở trường học hoặc trường đại học"
+                },
+                "examples": [
+                    {
+                        "en": "Are you curious to know where your former classmates are now?",
+                        "vi": "Bạn có tò mò muốn biết những người bạn học cũ của mình bây giờ đang ở đâu không?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "cb05655e45f148959def8551d501047f",
+        "word": "learner",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˈlɜːnə(r)/",
+            "us": "/ˈlɜːrnər/"
+        },
+        "nearby": [
+            {
+                "word": "learn",
+                "pos": "verb"
+            },
+            {
+                "word": "learned",
+                "pos": "adjective"
+            },
+            {
+                "word": "learner",
+                "pos": "noun"
+            },
+            {
+                "word": "learner driver",
+                "pos": "noun"
+            },
+            {
+                "word": "learner's permit",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who is finding out about a subject or how to do something",
+                    "vi": "một người đang tìm hiểu về một chủ đề hoặc cách làm điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "a slow/quick learner",
+                        "vi": "một người học chậm / học nhanh"
+                    },
+                    {
+                        "en": "a dictionary for learners of English",
+                        "vi": "một từ điển cho người học tiếng Anh"
+                    },
+                    {
+                        "en": "learner-centred teaching methods",
+                        "vi": "phương pháp dạy học lấy người học làm trung tâm"
+                    },
+                    {
+                        "en": "young/adult learners",
+                        "vi": "người học trẻ tuổi / người lớn"
+                    },
+                    {
+                        "en": "a language learner",
+                        "vi": "một người học ngôn ngữ"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who is learning to drive a car",
+                    "vi": "một người đang học lái xe ô tô"
+                },
+                "examples": [
+                    {
+                        "en": "Learners are not allowed to drive without a licensed driver in the vehicle.",
+                        "vi": "Người học không được phép lái xe khi chưa có bằng lái trên xe."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "003b12feb1cb4fa884d92a6afef47448",
+        "word": "teacher",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/ˈtiːtʃə(r)/",
+            "us": "/ˈtiːtʃər/"
+        },
+        "nearby": [
+            {
+                "word": "teach",
+                "pos": "verb"
+            },
+            {
+                "word": "teachable",
+                "pos": "adjective"
+            },
+            {
+                "word": "teacher",
+                "pos": "noun"
+            },
+            {
+                "word": "teacher trainer",
+                "pos": "noun"
+            },
+            {
+                "word": "teacher training",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person whose job is teaching, especially in a school",
+                    "vi": "một người có công việc là giảng dạy, đặc biệt là trong một trường học"
+                },
+                "examples": [
+                    {
+                        "en": "an English/a science teacher",
+                        "vi": "một giáo viên tiếng Anh / một giáo viên khoa học"
+                    },
+                    {
+                        "en": "primary/elementary school teachers",
+                        "vi": "giáo viên tiểu học / tiểu học"
+                    },
+                    {
+                        "en": "There is a growing need for qualified teachers of Business English.",
+                        "vi": "Ngày càng có nhiều nhu cầu về các giáo viên có trình độ về Tiếng Anh Thương mại."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "08f27f86491d42728b2d210d227c610a",
+        "word": "coach",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/kəʊtʃ/",
+            "us": "/kəʊtʃ/"
+        },
+        "nearby": [
+            {
+                "word": "Co.",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "co-",
+                "pos": "prefix"
+            },
+            {
+                "word": "coach",
+                "pos": "noun"
+            },
+            {
+                "word": "coach",
+                "pos": "verb"
+            },
+            {
+                "word": "coach house",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who trains a person or team in sport",
+                    "vi": "một người huấn luyện một người hoặc một đội thể thao"
+                },
+                "examples": [
+                    {
+                        "en": "the head/assistant coach",
+                        "vi": "huấn luyện viên trưởng / trợ lý"
+                    },
+                    {
+                        "en": "a basketball/football coach",
+                        "vi": "một huấn luyện viên bóng rổ / bóng đá"
+                    },
+                    {
+                        "en": "the team coach",
+                        "vi": "huấn luyện viên đội"
+                    },
+                    {
+                        "en": "the England coach",
+                        "vi": "huấn luyện viên đội tuyển Anh"
+                    },
+                    {
+                        "en": "Italy’s national coach",
+                        "vi": "Huấn luyện viên đội tuyển quốc gia Ý"
+                    },
+                    {
+                        "en": "Coach Bob Shapiro",
+                        "vi": "Huấn luyện viên Bob Shapiro"
+                    },
+                    {
+                        "en": "the Giants coach Tom Coughlin",
+                        "vi": "huấn luyện viên của Người khổng lồ Tom Coughlin"
+                    },
+                    {
+                        "en": "coach of/with/for somebody/something the coach of the New York Knicks",
+                        "vi": "huấn luyện viên của / với / cho ai đó / một cái gì đó huấn luyện viên của New York Knicks"
+                    },
+                    {
+                        "en": "a coach with the Chicago Cubs",
+                        "vi": "một huấn luyện viên với Chicago Cubs"
+                    },
+                    {
+                        "en": "a coach for the US Olympic team",
+                        "vi": "một huấn luyện viên cho đội Olympic Hoa Kỳ"
+                    },
+                    {
+                        "en": "He is a former college football coach.",
+                        "vi": "Anh ấy là một cựu huấn luyện viên bóng đá của trường đại học."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who gives private lessons to somebody, often to prepare them for an exam",
+                    "vi": "một người thường giảng bài cho ai đó, để chuẩn bị cho kỳ thi"
+                },
+                "examples": [
+                    {
+                        "en": "a maths coach",
+                        "vi": "một huấn luyện viên toán học"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who is employed by somebody to give them advice about how to achieve the things they want in their life and work",
+                    "vi": "một người được ai đó thuê để cho họ lời khuyên về cách đạt được những điều họ muốn trong cuộc sống và công việc của họ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a comfortable bus for carrying passengers over long distances",
+                    "vi": "một chiếc xe buýt thoải mái để chở hành khách trên một quãng đường dài"
+                },
+                "examples": [
+                    {
+                        "en": "to take/get a coach",
+                        "vi": "để lấy / nhận một huấn luyện viên"
+                    },
+                    {
+                        "en": "by coach Travel is by coach overnight to Berlin.",
+                        "vi": "bằng xe khách. Du lịch bằng xe qua đêm đến Berlin."
+                    },
+                    {
+                        "en": "on a coach Four passengers on the coach were seriously injured in the crash.",
+                        "vi": "trên một xe khách Bốn hành khách trên xe bị thương nặng trong vụ va chạm."
+                    },
+                    {
+                        "en": "a coach tour/journey/trip",
+                        "vi": "một chuyến xe du lịch / hành trình / chuyến đi"
+                    },
+                    {
+                        "en": "coach to/for… She was seen boarding a coach to Southampton.",
+                        "vi": "huấn luyện viên đến / cho… Cô ấy đã được nhìn thấy lên một huấn luyện viên đến Southampton."
+                    },
+                    {
+                        "en": "coach from… I got off the coach from London and walked home.",
+                        "vi": "huấn luyện viên từ… Tôi xuống xe từ Luân Đôn và đi bộ về nhà."
+                    },
+                    {
+                        "en": "They went to Italy on a coach tour.",
+                        "vi": "Họ đã đến Ý trong một chuyến du lịch bằng xe khách."
+                    },
+                    {
+                        "en": "a coach driver/passenger/operator",
+                        "vi": "một người lái xe / hành khách / người điều hành"
+                    },
+                    {
+                        "en": "a coach station (= where coaches start and end their journey)",
+                        "vi": "trạm xe buýt (= nơi xe khách bắt đầu và kết thúc hành trình của họ)"
+                    },
+                    {
+                        "en": "a coach party (= a group of people travelling together on a coach)",
+                        "vi": "một bữa tiệc huấn luyện viên (= một nhóm người đi cùng nhau trên một xe huấn luyện viên)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a separate section of a train for carrying passengers",
+                    "vi": "một phần riêng biệt của một đoàn tàu để chở hành khách"
+                },
+                "examples": [
+                    {
+                        "en": "a railway coach",
+                        "vi": "một huấn luyện viên đường sắt"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a large closed vehicle with four wheels, pulled by horses, used in the past for carrying passengers",
+                    "vi": "một loại xe kín lớn có bốn bánh, do ngựa kéo, ngày xưa được dùng để chở khách"
+                },
+                "examples": [
+                    {
+                        "en": "This is the old coach road.",
+                        "vi": "Đây là con đường cũ."
+                    },
+                    {
+                        "en": "a gateway wide enough for a coach and four (= pulled by four horses) to drive through",
+                        "vi": "một cửa ngõ đủ rộng để một huấn luyện viên và bốn (= do bốn con ngựa kéo) lái qua"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the cheapest seats in a plane",
+                    "vi": "ghế rẻ nhất trên máy bay"
+                },
+                "examples": [
+                    {
+                        "en": "to fly coach",
+                        "vi": "huấn luyện viên bay"
+                    },
+                    {
+                        "en": "coach fares/passengers/seats",
+                        "vi": "giá vé xe khách / hành khách / chỗ ngồi"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to cause something to fail, for example a plan",
+                    "vi": "gây ra một cái gì đó không thành công, ví dụ như một kế hoạch"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "378f43a72dd64474996538aa2f0bd0f8",
+        "word": "instructor",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/ɪnˈstrʌktə(r)/",
+            "us": "/ɪnˈstrʌktər/"
+        },
+        "nearby": [
+            {
+                "word": "instructive",
+                "pos": "adjective"
+            },
+            {
+                "word": "instructively",
+                "pos": "adverb"
+            },
+            {
+                "word": "instructor",
+                "pos": "noun"
+            },
+            {
+                "word": "instrument",
+                "pos": "noun"
+            },
+            {
+                "word": "instrumental",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person whose job is to teach somebody a practical skill or sport",
+                    "vi": "một người có công việc là dạy cho ai đó một kỹ năng thực tế hoặc một môn thể thao"
+                },
+                "examples": [
+                    {
+                        "en": "a fitness/driving/ski instructor",
+                        "vi": "một người hướng dẫn thể dục / lái xe / trượt tuyết"
+                    },
+                    {
+                        "en": "a qualified/certified instructor",
+                        "vi": "một người hướng dẫn đủ điều kiện / được chứng nhận"
+                    },
+                    {
+                        "en": "He worked for a time as an aerobics instructor.",
+                        "vi": "Anh ấy đã làm việc trong một thời gian với tư cách là một huấn luyện viên thể dục nhịp điệu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a teacher below the rank of assistant professor at a college or university",
+                    "vi": "một giáo viên dưới cấp phó giáo sư tại một trường cao đẳng hoặc đại học"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "6cfd88f0235e40c0bed7e62d49fd184a",
+        "word": "schoolchild",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/ˈskuːltʃaɪld/",
+            "us": "/ˈskuːltʃaɪld/"
+        },
+        "nearby": [
+            {
+                "word": "schoolbook",
+                "pos": "noun"
+            },
+            {
+                "word": "schoolboy",
+                "pos": "noun"
+            },
+            {
+                "word": "schoolchild",
+                "pos": "noun"
+            },
+            {
+                "word": "school council",
+                "pos": "noun"
+            },
+            {
+                "word": "school day",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a child who attends school",
+                    "vi": "một đứa trẻ đi học"
+                },
+                "examples": [
+                    {
+                        "en": "Younger schoolchildren will receive free milk and fruit.",
+                        "vi": "Học sinh nhỏ tuổi hơn sẽ nhận được sữa và trái cây miễn phí."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9ed131b4730a433d8af60a73fb41f32b",
+        "word": "schoolkid",
+        "pos": "noun",
+        "level": "a2",
+        "phonetic": {
+            "uk": "/ˈskuːlkɪd/",
+            "us": "/ˈskuːlkɪd/"
+        },
+        "nearby": [
+            {
+                "word": "Schoolies Week",
+                "pos": "noun"
+            },
+            {
+                "word": "schooling",
+                "pos": "noun"
+            },
+            {
+                "word": "schoolkid",
+                "pos": "noun"
+            },
+            {
+                "word": "school-leaver",
+                "pos": "noun"
+            },
+            {
+                "word": "school-leaving age",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a schoolchild (= a child who attends school)",
+                    "vi": "a schoolchild (= một đứa trẻ đi học)"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "0d82794369a64083ad67e2041029c712",
+        "word": "coach",
+        "pos": "verb",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/kəʊtʃ/",
+            "us": "/kəʊtʃ/"
+        },
+        "nearby": [
+            {
+                "word": "co-",
+                "pos": "prefix"
+            },
+            {
+                "word": "coach",
+                "pos": "noun"
+            },
+            {
+                "word": "coach",
+                "pos": "verb"
+            },
+            {
+                "word": "coach house",
+                "pos": "noun"
+            },
+            {
+                "word": "coaching",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "to train somebody to play a sport, to do a job better, or to improve a skill",
+                    "vi": "để huấn luyện ai đó chơi một môn thể thao, hoàn thành công việc tốt hơn hoặc cải thiện một kỹ năng"
+                },
+                "examples": [
+                    {
+                        "en": "coach somebody He has coached the team for five years.",
+                        "vi": "huấn luyện ai đó Anh ấy đã huấn luyện đội trong năm năm."
+                    },
+                    {
+                        "en": "She has coached hundreds of young singers.",
+                        "vi": "Cô đã từng huấn luyện cho hàng trăm ca sĩ trẻ."
+                    },
+                    {
+                        "en": "coach somebody for something Her father coached her for the Olympics.",
+                        "vi": "huấn luyện ai đó vì điều gì đó Cha cô ấy đã huấn luyện cô ấy cho Thế vận hội."
+                    },
+                    {
+                        "en": "coach somebody in something Youngsters will be coached in the basics of the game.",
+                        "vi": "huấn luyện ai đó trong một cái gì đó Trẻ sẽ được huấn luyện về những điều cơ bản của trò chơi."
+                    },
+                    {
+                        "en": "coach something He coaches basketball and soccer.",
+                        "vi": "huấn luyện điều gì đó Anh ấy huấn luyện bóng rổ và bóng đá."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to give a student extra teaching in a particular subject especially so that they will pass an exam",
+                    "vi": "dạy thêm đặc biệt cho một học sinh trong một môn học cụ thể để họ vượt qua kỳ thi"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to give somebody special instructions for what they should do or say in a particular situation",
+                    "vi": "để cung cấp cho ai đó hướng dẫn đặc biệt về những gì họ nên làm hoặc nói trong một tình huống cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "coach somebody (in/on something) They believed the witnesses had been coached on what to say.",
+                        "vi": "huấn luyện ai đó (trong / vào điều gì đó) Họ tin rằng các nhân chứng đã được huấn luyện về những gì cần nói."
+                    },
+                    {
+                        "en": "coach somebody to do something The president's advisers coached him to adopt a more serious tone.",
+                        "vi": "huấn luyện ai đó làm điều gì đó Các cố vấn của tổng thống đã huấn luyện anh ta áp dụng một giọng điệu nghiêm túc hơn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f711a71fa2de4e46a9a70d154ce54511",
+        "word": "school-leaver",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈskuːl liːvə(r)/",
+            "us": "/ˈskuːl liːvər/"
+        },
+        "nearby": [
+            {
+                "word": "schooling",
+                "pos": "noun"
+            },
+            {
+                "word": "schoolkid",
+                "pos": "noun"
+            },
+            {
+                "word": "school-leaver",
+                "pos": "noun"
+            },
+            {
+                "word": "school-leaving age",
+                "pos": "noun"
+            },
+            {
+                "word": "schoolmarm",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who has just left school, especially when they are looking for a job",
+                    "vi": "một người vừa rời trường, đặc biệt là khi họ đang tìm việc làm"
+                },
+                "examples": [
+                    {
+                        "en": "the problem of rising unemployment among school-leavers",
+                        "vi": "vấn đề thất nghiệp gia tăng trong số học sinh sắp đi học"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8a4d9136075c4710802ce7c2363801d5",
+        "word": "teaching assistant",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈtiːtʃɪŋ əsɪstənt/",
+            "us": "/ˈtiːtʃɪŋ əsɪstənt/"
+        },
+        "nearby": [
+            {
+                "word": "teach-in",
+                "pos": "noun"
+            },
+            {
+                "word": "teaching",
+                "pos": "noun"
+            },
+            {
+                "word": "teaching assistant",
+                "pos": "noun"
+            },
+            {
+                "word": "teaching hospital",
+                "pos": "noun"
+            },
+            {
+                "word": "teaching practice",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who is not a qualified teacher who helps a teacher in a school",
+                    "vi": "một người không phải là một giáo viên có trình độ chuyên môn giúp một giáo viên trong trường học"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a graduate student who teaches undergraduate classes at a university or college, takes discussion or practical classes, marks written work, etc.",
+                    "vi": "một sinh viên tốt nghiệp giảng dạy các lớp đại học tại một trường đại học hoặc cao đẳng, tham gia các lớp thảo luận hoặc thực hành, chấm bài viết, v.v."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "194afc6e6fe344198f5c7d36bf41a6b2",
+        "word": "tutor",
+        "pos": "noun",
+        "level": "b1",
+        "phonetic": {
+            "uk": "/ˈtjuːtə(r)/",
+            "us": "/ˈtuːtər/"
+        },
+        "nearby": [
+            {
+                "word": "tutee",
+                "pos": "noun"
+            },
+            {
+                "word": "tutelage",
+                "pos": "noun"
+            },
+            {
+                "word": "tutor",
+                "pos": "noun"
+            },
+            {
+                "word": "tutor",
+                "pos": "verb"
+            },
+            {
+                "word": "tutorial",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a private teacher, especially one who teaches an individual student or a very small group",
+                    "vi": "một giáo viên riêng, đặc biệt là một giáo viên dạy một học sinh cá biệt hoặc một nhóm rất nhỏ"
+                },
+                "examples": [
+                    {
+                        "en": "He worked as a tutor to the family's three young children.",
+                        "vi": "Anh làm gia sư cho ba đứa con nhỏ của gia đình."
+                    },
+                    {
+                        "en": "He became tutor to the prince.",
+                        "vi": "Anh trở thành gia sư cho hoàng tử."
+                    },
+                    {
+                        "en": "His father hired a private tutor for him.",
+                        "vi": "Cha anh đã thuê một gia sư riêng cho anh."
+                    },
+                    {
+                        "en": "Children who miss a lot of schoolwork through illness are usually allowed a home tutor.",
+                        "vi": "Trẻ em nghỉ học nhiều do ốm đau thường được phép dạy kèm tại nhà."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a teacher whose job is to pay special attention to the studies or health, etc. of a student or a group of students",
+                    "vi": "một giáo viên có công việc đặc biệt quan tâm đến việc học tập hoặc sức khỏe, v.v. của một học sinh hoặc một nhóm học sinh"
+                },
+                "examples": [
+                    {
+                        "en": "his history tutor",
+                        "vi": "gia sư lịch sử của anh ấy"
+                    },
+                    {
+                        "en": "He was my personal tutor at university.",
+                        "vi": "Anh ấy là gia sư riêng của tôi ở trường đại học."
+                    },
+                    {
+                        "en": "She's in my tutor group at school.",
+                        "vi": "Cô ấy ở trong nhóm gia sư của tôi ở trường."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a teacher, especially one who teaches adults or who has a special role in a school or college",
+                    "vi": "một giáo viên, đặc biệt là người dạy người lớn hoặc người có vai trò đặc biệt trong trường học hoặc trường cao đẳng"
+                },
+                "examples": [
+                    {
+                        "en": "a part-time adult education tutor",
+                        "vi": "một gia sư giáo dục người lớn bán thời gian"
+                    },
+                    {
+                        "en": "advanced students who act as peer tutors",
+                        "vi": "học sinh tiên tiến đóng vai trò như gia sư đồng môn"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an assistant lecturer in a college",
+                    "vi": "một trợ giảng trong một trường cao đẳng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a book of instruction in a particular subject, especially music",
+                    "vi": "một cuốn sách hướng dẫn về một chủ đề cụ thể, đặc biệt là âm nhạc"
+                },
+                "examples": [
+                    {
+                        "en": "a violin tutor",
+                        "vi": "một gia sư violin"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "46fc5f347ce54eafa385b86947ed75af",
+        "word": "head",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/hed/",
+            "us": "/hed/"
+        },
+        "nearby": [
+            {
+                "word": "he",
+                "pos": "noun"
+            },
+            {
+                "word": "HE",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "head",
+                "pos": "noun"
+            },
+            {
+                "word": "-head",
+                "pos": "suffix"
+            },
+            {
+                "word": "head",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the part of the body on top of the neck containing the eyes, nose, mouth and brain",
+                    "vi": "phần cơ thể trên cổ có chứa mắt, mũi, miệng và não"
+                },
+                "examples": [
+                    {
+                        "en": "She nodded her head in agreement.",
+                        "vi": "Cô gật đầu đồng ý."
+                    },
+                    {
+                        "en": "He shook his head in disbelief.",
+                        "vi": "Anh lắc đầu không tin."
+                    },
+                    {
+                        "en": "The boys hung their heads in shame.",
+                        "vi": "Các chàng trai gục đầu xấu hổ."
+                    },
+                    {
+                        "en": "She turned her head to look at him.",
+                        "vi": "Cô quay đầu nhìn anh."
+                    },
+                    {
+                        "en": "They bowed their heads in prayer.",
+                        "vi": "Họ cúi đầu cầu nguyện."
+                    },
+                    {
+                        "en": "She tilted her head back and closed her eyes.",
+                        "vi": "Cô ấy ngửa đầu ra sau và nhắm mắt lại."
+                    },
+                    {
+                        "en": "to raise/lift/lower your head",
+                        "vi": "nâng / nâng / hạ đầu của bạn"
+                    },
+                    {
+                        "en": "He was shot in the head and died ten minutes later.",
+                        "vi": "Anh ta bị bắn vào đầu và chết sau đó mười phút."
+                    },
+                    {
+                        "en": "The driver suffered head injuries.",
+                        "vi": "Tài xế bị thương ở đầu."
+                    },
+                    {
+                        "en": "He still has a good head of hair (= a lot of hair).",
+                        "vi": "Anh ấy vẫn còn đầu tóc tốt (= rất nhiều tóc)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the mind or brain",
+                    "vi": "tâm trí hoặc bộ não"
+                },
+                "examples": [
+                    {
+                        "en": "I sometimes wonder what goes on in that head of yours.",
+                        "vi": "Đôi khi tôi tự hỏi điều gì đang xảy ra trong đầu của bạn."
+                    },
+                    {
+                        "en": "I wish you'd use your head (= think carefully before doing or saying something).",
+                        "vi": "Tôi ước bạn sử dụng cái đầu của mình (= suy nghĩ cẩn thận trước khi làm hoặc nói điều gì đó)."
+                    },
+                    {
+                        "en": "The thought never entered my head.",
+                        "vi": "Ý nghĩ chưa bao giờ lọt vào đầu tôi."
+                    },
+                    {
+                        "en": "His head was spinning (= he felt dizzy or confused) after only one drink.",
+                        "vi": "Đầu anh ấy quay cuồng (= anh ấy cảm thấy chóng mặt hoặc bối rối) chỉ sau một lần uống rượu."
+                    },
+                    {
+                        "en": "in somebody's head I can't work it out in my head—I need a calculator.",
+                        "vi": "trong đầu của ai đó, tôi không thể tìm ra nó trong đầu - tôi cần một chiếc máy tính."
+                    },
+                    {
+                        "en": "She started hearing voices in her head.",
+                        "vi": "Cô ấy bắt đầu nghe thấy những giọng nói trong đầu mình."
+                    },
+                    {
+                        "en": "into somebody's head Who's been putting such weird ideas into your head (= making you believe that)?",
+                        "vi": "vào đầu ai đó Ai đã đưa những ý tưởng kỳ quặc như vậy vào đầu bạn (= khiến bạn tin điều đó)?"
+                    },
+                    {
+                        "en": "out of somebody's head I can't get that tune out of my head.",
+                        "vi": "ra khỏi đầu ai đó Tôi không thể lấy giai điệu đó ra khỏi đầu mình."
+                    },
+                    {
+                        "en": "Try to put the exams out of your head (= stop thinking about them).",
+                        "vi": "Cố gắng gạt các bài kiểm tra ra khỏi đầu bạn (= ngừng nghĩ về chúng)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the size of a person’s or animal’s head, used as a measurement of distance or height",
+                    "vi": "kích thước của đầu người hoặc động vật, được sử dụng để đo khoảng cách hoặc chiều cao"
+                },
+                "examples": [
+                    {
+                        "en": "She's a good head taller than her sister.",
+                        "vi": "Cô ấy cao hơn em gái mình một cái đầu."
+                    },
+                    {
+                        "en": "The favourite won by a short head (= a distance slightly less than the length of a horse's head).",
+                        "vi": "Con thích thắng bằng cái đầu ngắn (= một khoảng cách nhỏ hơn một chút so với chiều dài của đầu con ngựa)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a continuous pain in your head",
+                    "vi": "một cơn đau liên tục trong đầu của bạn"
+                },
+                "examples": [
+                    {
+                        "en": "I woke up with a really bad head this morning.",
+                        "vi": "Tôi thức dậy với một cái đầu thật tồi tệ vào sáng nay."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the person in charge of a group of people or an organization",
+                    "vi": "người phụ trách một nhóm người hoặc một tổ chức"
+                },
+                "examples": [
+                    {
+                        "en": "head of something the heads of government/state",
+                        "vi": "người đứng đầu một cái gì đó những người đứng đầu chính phủ / nhà nước"
+                    },
+                    {
+                        "en": "She resigned as head of department.",
+                        "vi": "Cô từ chức trưởng phòng."
+                    },
+                    {
+                        "en": "I've asked the department head for an appointment.",
+                        "vi": "Tôi đã yêu cầu trưởng bộ phận cho một cuộc hẹn."
+                    },
+                    {
+                        "en": "a former head of the Hong Kong Stock Exchange",
+                        "vi": "một cựu lãnh đạo của Sở giao dịch chứng khoán Hồng Kông"
+                    },
+                    {
+                        "en": "He is deputy head of the National Railway Museum.",
+                        "vi": "Ông là Phó giám đốc Bảo tàng Đường sắt Quốc gia."
+                    },
+                    {
+                        "en": "the crowned heads (= the kings and queens) of Europe",
+                        "vi": "những người đứng đầu được trao vương miện (= các vị vua và nữ hoàng) của Châu Âu"
+                    },
+                    {
+                        "en": "I was head coach of a Little League basketball team in Pittsburgh.",
+                        "vi": "Tôi là huấn luyện viên trưởng của một đội bóng rổ Little League ở Pittsburgh."
+                    },
+                    {
+                        "en": "the head gardener/chef/waiter",
+                        "vi": "người làm vườn / đầu bếp / bồi bàn"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the person in charge of a school or college",
+                    "vi": "người phụ trách một trường học hoặc cao đẳng"
+                },
+                "examples": [
+                    {
+                        "en": "I've been called in to see the Head.",
+                        "vi": "Tôi đã được gọi đến để gặp Thủ trưởng."
+                    },
+                    {
+                        "en": "the deputy head",
+                        "vi": "phó trưởng phòng"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the side of a coin that has a picture of the head of a person on it, used as one choice when a coin is tossed to decide something",
+                    "vi": "mặt của đồng xu có hình ảnh đầu của một người trên đó, được sử dụng như một sự lựa chọn khi tung đồng xu để quyết định điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "I called heads and it came down tails.",
+                        "vi": "Tôi gọi đầu và nó rơi xuống đuôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the end of a long narrow object that is larger or wider than the rest of it",
+                    "vi": "phần cuối của một vật dài hẹp lớn hơn hoặc rộng hơn phần còn lại của nó"
+                },
+                "examples": [
+                    {
+                        "en": "the head of a nail",
+                        "vi": "đầu đinh"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the top or highest part of something",
+                    "vi": "phần trên cùng hoặc phần cao nhất của một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "at the head of the page",
+                        "vi": "ở đầu trang"
+                    },
+                    {
+                        "en": "They finished the season at the head of their league.",
+                        "vi": "Họ đã kết thúc mùa giải ở vị trí dẫn đầu giải đấu của họ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the place where a river begins",
+                    "vi": "nơi bắt đầu của một con sông"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the most important seat at a table",
+                    "vi": "chỗ ngồi quan trọng nhất trên bàn"
+                },
+                "examples": [
+                    {
+                        "en": "The President sat at the head of the table.",
+                        "vi": "Chủ tịch nước ngồi đầu bàn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the position at the front of a line of people",
+                    "vi": "vị trí ở phía trước của một dòng người"
+                },
+                "examples": [
+                    {
+                        "en": "The prince rode at the head of his regiment.",
+                        "vi": "Hoàng tử cưỡi trên đầu trung đoàn của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the mass of leaves or flowers at the end of a stem",
+                    "vi": "khối lượng của lá hoặc hoa ở cuối thân cây"
+                },
+                "examples": [
+                    {
+                        "en": "Remove the dead heads to encourage new growth.",
+                        "vi": "Loại bỏ những phần đầu chết để khuyến khích sự phát triển mới."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the mass of small bubbles on the top of a glass of beer",
+                    "vi": "một khối lượng bọt nhỏ trên đầu của một cốc bia"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the part of a spot on your skin that contains a thick yellow liquid (= pus)",
+                    "vi": "phần trên da của bạn có chứa chất lỏng màu vàng đặc (= mủ)"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "the component of a sound or video recording system that converts data on the disk or tape into digital electronic data (and the other way round)",
+                    "vi": "thành phần của hệ thống ghi âm thanh hoặc video chuyển đổi dữ liệu trên đĩa hoặc băng thành dữ liệu điện tử kỹ thuật số (và ngược lại)"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used to say how many animals of a particular type are on a farm, in a herd, etc.",
+                    "vi": "được sử dụng để nói có bao nhiêu động vật của một loại cụ thể ở trong một trang trại, trong một đàn, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "200 head of sheep",
+                        "vi": "200 đầu cừu"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the pressure produced by steam in a small space",
+                    "vi": "áp suất do hơi nước tạo ra trong một không gian nhỏ"
+                },
+                "examples": [
+                    {
+                        "en": "The old engine still manages to build up a good head of steam.",
+                        "vi": "Động cơ cũ vẫn tạo ra một đầu hơi tốt."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "oral sex (= using the mouth to give somebody sexual pleasure)",
+                    "vi": "quan hệ tình dục bằng miệng (= dùng miệng để mang lại khoái cảm tình dục cho ai đó)"
+                },
+                "examples": [
+                    {
+                        "en": "to give head",
+                        "vi": "đưa ra cái đầu"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the central part of a phrase, which has the same grammatical function as the whole phrase. In the phrase ‘the tall man in a suit’, man is the head.",
+                    "vi": "phần trung tâm của cụm từ, có chức năng ngữ pháp giống như toàn bộ cụm từ. Trong cụm từ 'the high man in a suit', người đàn ông là người đứng đầu."
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to force people to stop arguing and behave in a sensible way",
+                    "vi": "buộc mọi người ngừng tranh cãi và cư xử một cách hợp lý"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to keep trying to do something that will never be successful",
+                    "vi": "tiếp tục cố gắng làm điều gì đó sẽ không bao giờ thành công"
+                },
+                "examples": [
+                    {
+                        "en": "Trying to reason with them was like banging my head against a brick wall.",
+                        "vi": "Cố gắng lý luận với họ giống như đập đầu tôi vào tường gạch."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be much better than other people or things",
+                    "vi": "tốt hơn nhiều so với những người khác hoặc những thứ khác"
+                },
+                "examples": [
+                    {
+                        "en": "His performance stood head and shoulders above the rest.",
+                        "vi": "Màn trình diễn của anh ấy đứng đầu và vai trên phần còn lại."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to shout at somebody in an angry way, especially without reason",
+                    "vi": "hét vào mặt ai đó một cách tức giận, đặc biệt là không có lý do"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "if you bring a situation to a head or if a situation comes to a head, you are forced to deal with it quickly because it suddenly becomes very bad",
+                    "vi": "nếu bạn đưa một tình huống lên đầu hoặc nếu một tình huống xảy ra đối đầu, bạn buộc phải giải quyết nó nhanh chóng vì nó đột nhiên trở nên rất tồi tệ"
+                },
+                "examples": [
+                    {
+                        "en": "The chairman's resignation finally brought matters to a head.",
+                        "vi": "Việc từ chức của chủ tịch cuối cùng đã khiến vấn đề trở nên nhức nhối."
+                    },
+                    {
+                        "en": "The dispute finally came to a head in March that year.",
+                        "vi": "Cuối cùng, tranh chấp đã đi đến hồi kết vào tháng 3 năm đó."
+                    },
+                    {
+                        "en": "Things came to a head when several of the nurses made a formal complaint.",
+                        "vi": "Mọi việc trở nên căng thẳng khi một số y tá đưa ra đơn khiếu nại chính thức."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to refuse to admit that a problem exists or refuse to deal with it",
+                    "vi": "từ chối thừa nhận rằng một vấn đề tồn tại hoặc từ chối giải quyết nó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be unable to understand something",
+                    "vi": "không thể hiểu điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "I couldn't make head nor tail of what he was saying.",
+                        "vi": "Tôi không thể hiểu rõ anh ta đang nói gì."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make somebody feel confused, upset and/or annoyed",
+                    "vi": "làm cho ai đó cảm thấy bối rối, khó chịu và / hoặc khó chịu"
+                },
+                "examples": [
+                    {
+                        "en": "Shut up! You're doing my head in.",
+                        "vi": "Câm miệng! Bạn đang đâm đầu vào của tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be able to do something very easily and without having to think too much",
+                    "vi": "để có thể làm điều gì đó rất dễ dàng và không cần phải suy nghĩ quá nhiều"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to make somebody remember something by repeating it a lot of times",
+                    "vi": "để làm cho ai đó nhớ điều gì đó bằng cách lặp lại nó nhiều lần"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "covering your whole body",
+                    "vi": "che toàn bộ cơ thể của bạn"
+                },
+                "examples": [
+                    {
+                        "en": "We were covered from head to foot in mud.",
+                        "vi": "Chúng tôi ngập từ đầu đến chân trong bùn."
+                    },
+                    {
+                        "en": "She was dressed from head to toe in red.",
+                        "vi": "Cô ấy mặc đồ đỏ từ đầu đến chân."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to sleep",
+                    "vi": "ngủ"
+                },
+                "examples": [
+                    {
+                        "en": "I managed to get my head down for an hour.",
+                        "vi": "Tôi cố gắng để có được đầu của tôi trong một giờ."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to avoid attracting attention to yourself",
+                    "vi": "để tránh thu hút sự chú ý vào bản thân"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be able to understand or accept something",
+                    "vi": "để có thể hiểu hoặc chấp nhận điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "She's dead. I can't get my head round it yet.",
+                        "vi": "Cô ấy chết rồi. Tôi vẫn chưa thể quay đầu lại."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to start to understand or think something",
+                    "vi": "để bắt đầu hiểu hoặc suy nghĩ điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "When will you get it into your head that I don't want to discuss this any more!",
+                        "vi": "Khi nào bạn sẽ hiểu nó vào đầu mà tôi không muốn thảo luận thêm về điều này nữa!"
+                    },
+                    {
+                        "en": "For some reason she's got it into her head that I don't like her.",
+                        "vi": "Vì lý do nào đó mà cô ấy nghĩ rằng tôi không thích cô ấy."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to allow somebody to do what they want without trying to stop them",
+                    "vi": "để cho phép ai đó làm những gì họ muốn mà không cố gắng ngăn cản họ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to give somebody hopes about something that may not be possible or likely; to make somebody act or think in an unreasonable way",
+                    "vi": "để cung cấp cho ai đó hy vọng về một cái gì đó có thể không khả thi hoặc có thể xảy ra; khiến ai đó hành động hoặc suy nghĩ theo cách không hợp lý"
+                },
+                "examples": [
+                    {
+                        "en": "Who's been putting ideas into his head?",
+                        "vi": "Ai đang đưa ý tưởng vào đầu anh ấy?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to deal with somebody in a very direct and determined way",
+                    "vi": "để đối phó với ai đó một cách rất trực tiếp và kiên quyết"
+                },
+                "examples": [
+                    {
+                        "en": "The company will be going head to head with the giant of the pharmaceuticals market.",
+                        "vi": "Công ty sẽ đối đầu với gã khổng lồ của thị trường dược phẩm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make you feel drunk",
+                    "vi": "làm cho bạn cảm thấy say"
+                },
+                "examples": [
+                    {
+                        "en": "That glass of wine has gone straight to my head.",
+                        "vi": "Ly rượu đó đã xộc thẳng vào đầu tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make you feel too proud of yourself in a way that other people find annoying",
+                    "vi": "khiến bạn cảm thấy quá tự hào về bản thân theo cách mà người khác cảm thấy phiền phức"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be aware of everything that is happening around you, even things that seem difficult or impossible to see",
+                    "vi": "nhận thức được mọi thứ đang xảy ra xung quanh bạn, ngay cả những điều có vẻ khó hoặc không thể nhìn thấy"
+                },
+                "examples": [
+                    {
+                        "en": "You can’t get away with anything in her class. She has eyes in the back of her head.",
+                        "vi": "Bạn không thể thoát khỏi bất cứ thứ gì trong lớp của cô ấy. Cô ấy có đôi mắt ở phía sau đầu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be a sensible person",
+                    "vi": "trở thành một người hợp lý"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be good at something",
+                    "vi": "trở nên giỏi hơn về cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "to have a head for figures/business",
+                        "vi": "để có một cái đầu cho các số liệu / kinh doanh"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "if somebody does not have a head for heights, they feel nervous and think they are going to fall when they look down from a high place",
+                    "vi": "nếu ai đó không có đầu cho độ cao, họ cảm thấy lo lắng và nghĩ rằng họ sẽ bị ngã khi từ trên cao nhìn xuống"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be reading",
+                    "vi": "được đọc"
+                },
+                "examples": [
+                    {
+                        "en": "She always has her nose in a book.",
+                        "vi": "Cô ấy luôn chúi mũi vào một cuốn sách."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be thinking about something that is not connected with what you are doing",
+                    "vi": "suy nghĩ về điều gì đó không liên quan đến những gì bạn đang làm"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to have ideas, plans, etc. that are not realistic",
+                    "vi": "có những ý tưởng, kế hoạch, v.v. không thực tế"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be a sensible person",
+                    "vi": "trở thành một người hợp lý"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to have somewhere to live",
+                    "vi": "có một nơi nào đó để sống"
+                },
+                "examples": [
+                    {
+                        "en": "Thanks to Bob’s generosity, I still have a roof over my head.",
+                        "vi": "Cảm ơn sự hào phóng của Bob, tôi vẫn có một mái nhà trên đầu của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "for each person",
+                    "vi": "Cho mỗi người"
+                },
+                "examples": [
+                    {
+                        "en": "The meal worked out at $20 a head.",
+                        "vi": "Bữa ăn tính ra $ 20 một người."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "moving forwards or downwards with your head in front of the rest of your body",
+                    "vi": "di chuyển lên trên hoặc xuống dưới với đầu của bạn ở phía trước phần còn lại của cơ thể"
+                },
+                "examples": [
+                    {
+                        "en": "He fell head first down the stairs.",
+                        "vi": "Anh ấy ngã đầu xuống cầu thang."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "without thinking carefully about something before acting",
+                    "vi": "mà không suy nghĩ kỹ về điều gì đó trước khi hành động"
+                },
+                "examples": [
+                    {
+                        "en": "She got divorced and rushed head first into another marriage.",
+                        "vi": "Cô ấy đã ly hôn và lao đầu vào một cuộc hôn nhân khác."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "your head feels as though it is going round and round and you cannot balance, especially because you are ill or confused or have had a shock; to make you feel like this",
+                    "vi": "đầu của bạn cảm thấy như thể nó quay vòng vòng và bạn không thể giữ thăng bằng, đặc biệt là vì bạn bị ốm hoặc bối rối hoặc bị sốc; để làm cho bạn cảm thấy như thế này"
+                },
+                "examples": [
+                    {
+                        "en": "Her head was spinning from the pain.",
+                        "vi": "Đầu cô quay cuồng vì cơn đau."
+                    },
+                    {
+                        "en": "His theories on economics are enough to make your head spin.",
+                        "vi": "Những lý thuyết của ông về kinh tế học đủ khiến bạn quay cuồng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "loving somebody very much",
+                    "vi": "yêu ai đó rất nhiều"
+                },
+                "examples": [
+                    {
+                        "en": "He's fallen head over heels in love with his boss.",
+                        "vi": "Anh ta say đắm sếp của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to ask somebody which side of a coin they think will be facing upwards when it is tossed in order to decide something by chance",
+                    "vi": "được sử dụng để hỏi ai đó mặt nào của đồng xu mà họ nghĩ sẽ hướng lên trên khi nó được tung ra để quyết định một điều gì đó tình cờ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used to say that some people will be punished because of something that has happened",
+                    "vi": "từng nói rằng một số người sẽ bị trừng phạt vì điều gì đó đã xảy ra"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to say something that is exactly right",
+                    "vi": "nói điều gì đó chính xác là đúng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to force somebody to do something that they do not want to do, by making threats",
+                    "vi": "buộc ai đó làm điều gì đó mà họ không muốn, bằng cách đe dọa"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be proud of or not feel ashamed about something that you have done",
+                    "vi": "tự hào hoặc không cảm thấy xấu hổ về điều gì đó bạn đã làm"
+                },
+                "examples": [
+                    {
+                        "en": "She managed to hold her head high and ignore what people were saying.",
+                        "vi": "Cô ấy cố gắng ngẩng cao đầu và phớt lờ những gì mọi người đang nói."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to threaten somebody that you will hit them",
+                    "vi": "từng đe dọa ai đó rằng bạn sẽ đánh họ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "involved in something that is too difficult for you to deal with",
+                    "vi": "liên quan đến một cái gì đó quá khó đối với bạn"
+                },
+                "examples": [
+                    {
+                        "en": "After a week in the new job, I soon realized that I was in over my head.",
+                        "vi": "Sau một tuần làm việc mới, tôi nhanh chóng nhận ra rằng mình đang làm quá sức."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to remain calm in a difficult situation",
+                    "vi": "giữ bình tĩnh trong một tình huống khó khăn"
+                },
+                "examples": [
+                    {
+                        "en": "She needed to keep a clear head if she was to remain in control.",
+                        "vi": "Cô ấy cần phải giữ một cái đầu tỉnh táo nếu cô ấy muốn tiếp tục kiểm soát."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to deal with a difficult situation, especially one in which you have financial problems, and just manage to survive",
+                    "vi": "để đối phó với một tình huống khó khăn, đặc biệt là một tình huống mà bạn gặp vấn đề tài chính và chỉ cần xoay sở để tồn tại"
+                },
+                "examples": [
+                    {
+                        "en": "I’m not sure how much longer we’ll be able to keep our heads above water.",
+                        "vi": "Tôi không chắc chúng ta sẽ có thể giữ đầu trên mặt nước được bao lâu nữa."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to avoid attracting attention to yourself",
+                    "vi": "để tránh thu hút sự chú ý vào bản thân"
+                },
+                "examples": [
+                    {
+                        "en": "If I were you, I’d keep your head down for a couple of weeks.",
+                        "vi": "Nếu tôi là bạn, tôi sẽ giữ đầu bạn trong vài tuần."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to laugh very loudly and for a long time",
+                    "vi": "cười rất lớn và trong một thời gian dài"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to laugh, etc. a lot and very loudly",
+                    "vi": "cười, v.v. rất nhiều và rất lớn"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to act according to what you feel rather than to what you think is sensible",
+                    "vi": "hành động theo những gì bạn cảm thấy hơn là theo những gì bạn nghĩ là hợp lý"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "in a bad mood; in an angry way",
+                    "vi": "trong một tâm trạng tồi tệ; một cách tức giận"
+                },
+                "examples": [
+                    {
+                        "en": "I should keep out of his way. He’s like a bear with a sore head this morning.",
+                        "vi": "Tôi nên tránh xa anh ta. Sáng nay anh ấy giống như một con gấu bị đau đầu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to become unable to act in a calm or sensible way",
+                    "vi": "trở nên không thể hành động một cách bình tĩnh hoặc hợp lý"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to make somebody feel annoyed, anxious or upset",
+                    "vi": "để làm cho ai đó cảm thấy khó chịu, lo lắng hoặc khó chịu"
+                },
+                "examples": [
+                    {
+                        "en": "When they spend all this time on social media, they are seeing things that mess with their heads.",
+                        "vi": "Khi dành toàn bộ thời gian trên mạng xã hội, họ đang nhìn thấy những thứ rối tung lên trong đầu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be crazy",
+                    "vi": "trở nên điên rồ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to not spend time/effort on something, because it is not important or you are not interested in it",
+                    "vi": "không dành thời gian / nỗ lực cho việc gì đó, vì nó không quan trọng hoặc bạn không quan tâm đến nó"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to not hurt somebody physically in any way",
+                    "vi": "để không làm tổn thương ai đó về mặt thể chất theo bất kỳ cách nào"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "just guessing or using your memory, without taking time to think carefully or check the facts",
+                    "vi": "chỉ cần đoán hoặc sử dụng trí nhớ của bạn mà không mất thời gian suy nghĩ cẩn thận hoặc kiểm tra sự thật"
+                },
+                "examples": [
+                    {
+                        "en": "I can't remember the name off the top of my head, but I can look it up for you.",
+                        "vi": "Tôi không thể nhớ ra cái tên trên đỉnh đầu của mình, nhưng tôi có thể tra cứu nó cho bạn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "used to describe a young person who acts in a more sensible way than you would expect for a person of their age",
+                    "vi": "được sử dụng để mô tả một người trẻ hành động theo cách hợp lý hơn bạn mong đợi đối với một người ở độ tuổi của họ"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used to tell somebody that they will have to accept any unpleasant results of something that they decide to do",
+                    "vi": "được sử dụng để nói với ai đó rằng họ sẽ phải chấp nhận bất kỳ kết quả khó chịu nào của một điều gì đó mà họ quyết định làm"
+                },
+                "examples": [
+                    {
+                        "en": "Tell him the truth if you want to, but on your own head be it!",
+                        "vi": "Hãy nói cho anh ấy biết sự thật nếu bạn muốn, nhưng bạn phải tự quyết định điều đó!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "crazy",
+                    "vi": "khùng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "not knowing what you are saying or doing because of the effects of alcohol or drugs",
+                    "vi": "không biết mình đang nói gì hoặc làm gì vì ảnh hưởng của rượu hoặc ma túy"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "too difficult or complicated for somebody to understand",
+                    "vi": "quá khó hoặc phức tạp để ai đó hiểu"
+                },
+                "examples": [
+                    {
+                        "en": "A lot of the jokes went (= were) right over my head.",
+                        "vi": "Rất nhiều câu chuyện cười đã xảy ra ngay trong đầu tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to a higher position of authority than somebody",
+                    "vi": "lên một vị trí quyền lực cao hơn ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "I couldn't help feeling jealous when she was promoted over my head.",
+                        "vi": "Tôi không khỏi cảm thấy ghen tị khi cô ấy được thăng chức trên đầu tôi."
+                    },
+                    {
+                        "en": "I’m not happy that you went over my head to ask for this time off.",
+                        "vi": "Tôi không hài lòng khi bạn lướt qua đầu tôi để yêu cầu thời gian nghỉ này."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an amount of money that is offered for capturing or killing somebody",
+                    "vi": "một số tiền được cung cấp để bắt hoặc giết ai đó"
+                },
+                "examples": [
+                    {
+                        "en": "Ever since he killed the gang’s leader, there has been a price on his head.",
+                        "vi": "Kể từ khi anh ta giết được thủ lĩnh của băng đảng, đã có một cái giá phải trả trên đầu anh ta."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to risk losing your job, damaging your reputation, etc. by doing or saying something",
+                    "vi": "có nguy cơ mất việc, làm tổn hại danh tiếng của bạn, v.v. bằng cách làm hoặc nói điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "It's not a matter that I'm prepared to put my head on the block for.",
+                        "vi": "Đó không phải là vấn đề mà tôi đã chuẩn bị sẵn sàng để đặt đầu của mình vào khối."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to think about or discuss something as a group",
+                    "vi": "để suy nghĩ hoặc thảo luận về điều gì đó với tư cách một nhóm"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "if something unpleasant rears its head or rears its ugly head, it appears or happens",
+                    "vi": "nếu một cái gì đó khó chịu dựng lên đầu nó hoặc che cái đầu xấu xí của nó, nó sẽ xuất hiện hoặc xảy ra"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to make you feel that you can still hear something",
+                    "vi": "để làm cho bạn cảm thấy rằng bạn vẫn có thể nghe thấy điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "His warning was still ringing in my ears.",
+                        "vi": "Lời cảnh báo của anh ấy vẫn còn văng vẳng bên tai tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to think hard in order to find an answer to something",
+                    "vi": "suy nghĩ kỹ để tìm câu trả lời cho điều gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "Experts have been scratching their heads over the increase in teenage crime.",
+                        "vi": "Các chuyên gia đã phải gãi đầu trước sự gia tăng tội phạm ở lứa tuổi thanh thiếu niên."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make people think about something in a completely different way",
+                    "vi": "để khiến mọi người nghĩ về điều gì đó theo một cách hoàn toàn khác"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to be remembered for a long time",
+                    "vi": "được ghi nhớ trong một thời gian dài"
+                },
+                "examples": [
+                    {
+                        "en": "One of his paintings in particular sticks in my mind.",
+                        "vi": "Một trong những bức tranh của anh ấy đặc biệt ghi nhớ trong tâm trí tôi."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to suddenly start thinking something, especially something that other people think is stupid",
+                    "vi": "đột nhiên bắt đầu nghĩ điều gì đó, đặc biệt là điều gì đó mà người khác nghĩ là ngu ngốc"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to suddenly decide to do something, especially something that other people think is stupid",
+                    "vi": "đột nhiên quyết định làm điều gì đó, đặc biệt là điều mà người khác nghĩ là ngu ngốc"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a physical condition in which your head is painful or you cannot think clearly as a result of an illness or of drinking too much alcohol",
+                    "vi": "một tình trạng thể chất mà đầu của bạn bị đau hoặc bạn không thể suy nghĩ rõ ràng do bệnh tật hoặc uống quá nhiều rượu"
+                },
+                "examples": [
+                    {
+                        "en": "You’re going to have a thick head in the morning!",
+                        "vi": "Bạn sẽ có một cái đầu dày vào buổi sáng!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to make a person feel too proud in a way that other people find annoying",
+                    "vi": "làm cho một người cảm thấy quá tự hào theo cách mà người khác cảm thấy phiền phức"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used to say that two people can achieve more than one person working alone",
+                    "vi": "từng nói rằng hai người có thể đạt được nhiều hơn một người làm việc một mình"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "used to tell somebody to think about something, especially when they have asked for your opinion or said something stupid",
+                    "vi": "được sử dụng để nói với ai đó hãy suy nghĩ về điều gì đó, đặc biệt là khi họ hỏi ý kiến của bạn hoặc nói điều gì đó ngu ngốc"
+                },
+                "examples": [
+                    {
+                        "en": "‘Why don't you want to see him again?’ ‘Oh, use your head!’",
+                        "vi": "Tại sao bạn không muốn gặp lại anh ấy?' 'Ồ, sử dụng cái đầu của bạn!'"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "b987b076898f48cd89604941d2cbb75e",
+        "word": "marker",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈmɑːkə(r)/",
+            "us": "/ˈmɑːrkər/"
+        },
+        "nearby": [
+            {
+                "word": "marked",
+                "pos": "adjective"
+            },
+            {
+                "word": "markedly",
+                "pos": "adverb"
+            },
+            {
+                "word": "marker",
+                "pos": "noun"
+            },
+            {
+                "word": "market",
+                "pos": "noun"
+            },
+            {
+                "word": "market",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an object or a sign that shows the position of something",
+                    "vi": "một đối tượng hoặc một dấu hiệu cho biết vị trí của một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "a boundary marker",
+                        "vi": "một điểm đánh dấu ranh giới"
+                    },
+                    {
+                        "en": "He placed a marker where the ball had landed.",
+                        "vi": "Anh ấy đặt một điểm đánh dấu nơi quả bóng đã hạ cánh."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a sign that something exists or that shows what it is like",
+                    "vi": "một dấu hiệu cho thấy một cái gì đó tồn tại hoặc cho thấy nó như thế nào"
+                },
+                "examples": [
+                    {
+                        "en": "Price is not always an accurate marker of quality.",
+                        "vi": "Giá cả không phải lúc nào cũng là một dấu hiệu chính xác của chất lượng."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a pen with a thick felt tip",
+                    "vi": "một cây bút có đầu nỉ dày"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person who marks students’ work or exam papers",
+                    "vi": "người chấm bài làm hoặc bài thi của học sinh"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a player who stays close to a player on the other team in order to stop them getting the ball",
+                    "vi": "một cầu thủ ở gần một cầu thủ của đội khác để ngăn họ lấy bóng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to do something that sets a standard for your competitors or shows what you intend to do or achieve in the future",
+                    "vi": "để làm điều gì đó đặt ra tiêu chuẩn cho đối thủ cạnh tranh của bạn hoặc cho thấy những gì bạn dự định làm hoặc đạt được trong tương lai"
+                },
+                "examples": [
+                    {
+                        "en": "The reigning champions laid down a marker with a 36–0 defeat of their opponents.",
+                        "vi": "Các nhà đương kim vô địch đã để lại dấu ấn bằng trận thua 36–0 trước đối thủ của họ."
+                    },
+                    {
+                        "en": "The prime minister has put down a marker for a Washington visit in May.",
+                        "vi": "Thủ tướng đã đặt dấu mốc cho chuyến thăm Washington vào tháng Năm."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1bc9ff9cf3bc47c9a6e2bca2f9a940e5",
+        "word": "pupil",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˈpjuːpl/",
+            "us": "/ˈpjuːpl/"
+        },
+        "nearby": [
+            {
+                "word": "pupal",
+                "pos": "adjective"
+            },
+            {
+                "word": "pupate",
+                "pos": "verb"
+            },
+            {
+                "word": "pupil",
+                "pos": "noun"
+            },
+            {
+                "word": "pupillage",
+                "pos": "noun"
+            },
+            {
+                "word": "puppet",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who is being taught, especially a child in a school",
+                    "vi": "một người đang được dạy dỗ, đặc biệt là một đứa trẻ trong trường học"
+                },
+                "examples": [
+                    {
+                        "en": "school pupils",
+                        "vi": "học sinh trường"
+                    },
+                    {
+                        "en": "a former/past pupil",
+                        "vi": "một học trò cũ / quá khứ"
+                    },
+                    {
+                        "en": "How many pupils does the school have?",
+                        "vi": "Trường có bao nhiêu học sinh?"
+                    },
+                    {
+                        "en": "She now teaches only private pupils.",
+                        "vi": "Hiện cô chỉ dạy học sinh tư."
+                    },
+                    {
+                        "en": "Spending per pupil will rise.",
+                        "vi": "Chi tiêu cho mỗi học sinh sẽ tăng lên."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who is taught artistic, musical, etc. skills by an expert",
+                    "vi": "một người được một chuyên gia dạy các kỹ năng nghệ thuật, âm nhạc, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "Charpentier took pupils and taught them composition and accompanying.",
+                        "vi": "Charpentier đã nhận học sinh và dạy chúng sáng tác và đi kèm."
+                    },
+                    {
+                        "en": "pupil of somebody The painting is by a pupil of Rembrandt.",
+                        "vi": "học trò của ai đó Bức tranh là của học trò của Rembrandt."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the small round black area at the centre of the eye",
+                    "vi": "vùng tròn nhỏ màu đen ở giữa mắt"
+                },
+                "examples": [
+                    {
+                        "en": "Her pupils were dilated.",
+                        "vi": "Đồng tử của cô ấy đã giãn ra."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "bb78fa2c033947679785b15ee91713c4",
+        "word": "teacher trainer",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˌtiːtʃə ˈtreɪnə(r)/",
+            "us": "/ˌtiːtʃər ˈtreɪnər/"
+        },
+        "nearby": [
+            {
+                "word": "teachable",
+                "pos": "adjective"
+            },
+            {
+                "word": "teacher",
+                "pos": "noun"
+            },
+            {
+                "word": "teacher trainer",
+                "pos": "noun"
+            },
+            {
+                "word": "teacher training",
+                "pos": "noun"
+            },
+            {
+                "word": "tea chest",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who teaches the skills you need to be a teacher in a school",
+                    "vi": "một người dạy những kỹ năng bạn cần để trở thành một giáo viên trong trường học"
+                },
+                "examples": [
+                    {
+                        "en": "experienced teachers and teacher trainers",
+                        "vi": "giáo viên giàu kinh nghiệm và giảng viên"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1980ffb2792e4b6b88f664c6d34c6d40",
+        "word": "trainee",
+        "pos": "noun",
+        "level": "b2",
+        "phonetic": {
+            "uk": "/ˌtreɪˈniː/",
+            "us": "/ˌtreɪˈniː/"
+        },
+        "nearby": [
+            {
+                "word": "train",
+                "pos": "verb"
+            },
+            {
+                "word": "train at",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "trainee",
+                "pos": "noun"
+            },
+            {
+                "word": "trainer",
+                "pos": "noun"
+            },
+            {
+                "word": "training",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who is being taught how to do a particular job",
+                    "vi": "một người được dạy cách làm một công việc cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "a management trainee",
+                        "vi": "một học viên quản lý"
+                    },
+                    {
+                        "en": "a trainee teacher",
+                        "vi": "một giáo viên thực tập"
+                    },
+                    {
+                        "en": "Many companies recruit graduate trainees to train as managers.",
+                        "vi": "Nhiều công ty tuyển dụng thực tập sinh tốt nghiệp để đào tạo làm quản lý."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "48f67044d61a4933a0094fc7905f536d",
+        "word": "caretaker",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈkeəteɪkə(r)/",
+            "us": "/ˈkerteɪkər/"
+        },
+        "nearby": [
+            {
+                "word": "caress",
+                "pos": "noun"
+            },
+            {
+                "word": "caret",
+                "pos": "noun"
+            },
+            {
+                "word": "caretaker",
+                "pos": "noun"
+            },
+            {
+                "word": "caretaker",
+                "pos": "adjective"
+            },
+            {
+                "word": "caretaker speech",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person whose job is to take care of a building such as a school or a block of flats or an apartment building",
+                    "vi": "một người có công việc là chăm sóc một tòa nhà như trường học hoặc một khu căn hộ hoặc một tòa nhà chung cư"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person who takes care of a house or land while the owner is away",
+                    "vi": "một người chăm sóc nhà hoặc đất khi chủ đi vắng"
+                },
+                "examples": [
+                    {
+                        "en": "(figurative) They believe they are caretakers of the land for future generations.",
+                        "vi": "(nghĩa bóng) Họ tin rằng họ là người chăm sóc đất đai cho các thế hệ mai sau."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person such as a teacher, parent, nurse, etc., who takes care of other people",
+                    "vi": "một người như giáo viên, cha mẹ, y tá, v.v., người chăm sóc người khác"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "5dee2903da904708915aaf7953601c5b",
+        "word": "deputy",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈdepjuti/",
+            "us": "/ˈdepjuti/"
+        },
+        "nearby": [
+            {
+                "word": "depute",
+                "pos": "verb"
+            },
+            {
+                "word": "deputize",
+                "pos": "verb"
+            },
+            {
+                "word": "deputy",
+                "pos": "noun"
+            },
+            {
+                "word": "Thomas De Quincey",
+                "pos": ""
+            },
+            {
+                "word": "deracinate",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who is the next most important person below a business manager, a head of a school, a political leader, etc. and who does that person’s job when they are away",
+                    "vi": "một người là người quan trọng nhất tiếp theo sau giám đốc kinh doanh, người đứng đầu một trường học, một nhà lãnh đạo chính trị, v.v. và người thực hiện công việc của người đó khi họ vắng nhà"
+                },
+                "examples": [
+                    {
+                        "en": "I'm acting as deputy till the manager returns.",
+                        "vi": "Tôi làm phó cho đến khi người quản lý trở lại."
+                    },
+                    {
+                        "en": "She was appointed deputy head of the school.",
+                        "vi": "Cô được bổ nhiệm làm hiệu phó của trường."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the name for a member of parliament in some countries",
+                    "vi": "tên của một thành viên quốc hội ở một số quốc gia"
+                },
+                "examples": [
+                    {
+                        "en": "23 women were among the 77 deputies elected.",
+                        "vi": "23 nữ trong số 77 đại biểu được bầu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "(in the US) a police officer who helps the sheriff of an area",
+                    "vi": "(ở Mỹ) một sĩ quan cảnh sát giúp cảnh sát trưởng của một khu vực"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "e82d7a768e0b4be69c4cb35bc85cecdd",
+        "word": "educator",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈedʒukeɪtə(r)/",
+            "us": "/ˈedʒukeɪtər/"
+        },
+        "nearby": [
+            {
+                "word": "educationally",
+                "pos": "adverb"
+            },
+            {
+                "word": "educative",
+                "pos": "adjective"
+            },
+            {
+                "word": "educator",
+                "pos": "noun"
+            },
+            {
+                "word": "edutainment",
+                "pos": "noun"
+            },
+            {
+                "word": "Edward",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person whose job is to teach or educate people",
+                    "vi": "một người có công việc là dạy hoặc giáo dục mọi người"
+                },
+                "examples": [
+                    {
+                        "en": "adult educators (= who teach adults)",
+                        "vi": "nhà giáo dục người lớn (= người dạy người lớn)"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who is an expert in the theories and methods of education",
+                    "vi": "một người là chuyên gia về lý thuyết và phương pháp giáo dục"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "7d01c42fc82d4210b0e3ab82c4425816",
+        "word": "headmaster",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌhedˈmɑːstə(r)/",
+            "us": "/ˌhedˈmæstər/"
+        },
+        "nearby": [
+            {
+                "word": "headlong",
+                "pos": "adjective"
+            },
+            {
+                "word": "headman",
+                "pos": "noun"
+            },
+            {
+                "word": "headmaster",
+                "pos": "noun"
+            },
+            {
+                "word": "headmistress",
+                "pos": "noun"
+            },
+            {
+                "word": "head-mounted display",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a male teacher who is in charge of a school, especially a private school",
+                    "vi": "nam giáo viên phụ trách trường học, đặc biệt là trường tư thục"
+                },
+                "examples": [
+                    {
+                        "en": "He went on to become headmaster of a school in Bath.",
+                        "vi": "Ông tiếp tục trở thành hiệu trưởng của một trường học ở Bath."
+                    },
+                    {
+                        "en": "He is a retired headmaster, living in Edinburgh.",
+                        "vi": "Ông là một hiệu trưởng đã nghỉ hưu, sống ở Edinburgh."
+                    },
+                    {
+                        "en": "There was a notice board on the wall outside the headmaster's study.",
+                        "vi": "Có một bảng thông báo trên tường bên ngoài phòng làm việc của hiệu trưởng."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "d2ae1ad5d439443a96dbe6da8feba810",
+        "word": "inspector",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ɪnˈspektə(r)/",
+            "us": "/ɪnˈspektər/"
+        },
+        "nearby": [
+            {
+                "word": "inspect",
+                "pos": "verb"
+            },
+            {
+                "word": "inspection",
+                "pos": "noun"
+            },
+            {
+                "word": "inspector",
+                "pos": "noun"
+            },
+            {
+                "word": "inspectorate",
+                "pos": "noun"
+            },
+            {
+                "word": "Inspector Morse",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "an officer of middle rank in the police force",
+                    "vi": "một sĩ quan cấp trung trong lực lượng cảnh sát"
+                },
+                "examples": [
+                    {
+                        "en": "Inspector Maggie Forbes",
+                        "vi": "Thanh tra Maggie Forbes"
+                    },
+                    {
+                        "en": "He reached the rank of inspector.",
+                        "vi": "Ông đã đạt đến ngạch thanh tra."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person whose job is to visit schools, factories, etc. to check that rules are being obeyed and that standards are acceptable",
+                    "vi": "một người có công việc là đến thăm các trường học, nhà máy, v.v. để kiểm tra xem các quy tắc đang được tuân thủ và các tiêu chuẩn đó có được chấp nhận không"
+                },
+                "examples": [
+                    {
+                        "en": "a school/health/safety inspector",
+                        "vi": "thanh tra trường học / sức khỏe / an toàn"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "(in the UK) a person whose job is to check tickets on a bus or train",
+                    "vi": "(ở Anh) một người có công việc là soát vé trên xe buýt hoặc xe lửa"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "3c3aa7b1c03c4eb99a3f5158c6a4d6df",
+        "word": "junior",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈdʒuːniə(r)/",
+            "us": "/ˈdʒuːniər/"
+        },
+        "nearby": [
+            {
+                "word": "jungli",
+                "pos": "adjective"
+            },
+            {
+                "word": "junior",
+                "pos": "adjective"
+            },
+            {
+                "word": "junior",
+                "pos": "noun"
+            },
+            {
+                "word": "junior college",
+                "pos": "noun"
+            },
+            {
+                "word": "junior common room",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a young person below a particular age, rather than an adult",
+                    "vi": "một người trẻ dưới một độ tuổi cụ thể, thay vì một người lớn"
+                },
+                "examples": [
+                    {
+                        "en": "She has coached many of our leading juniors.",
+                        "vi": "Cô ấy đã huấn luyện nhiều đàn em hàng đầu của chúng tôi."
+                    },
+                    {
+                        "en": "At 16, he’s still eligible to play for the juniors.",
+                        "vi": "Ở tuổi 16, anh ấy vẫn đủ điều kiện để chơi cho các đàn em."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a child who goes to junior school",
+                    "vi": "một đứa trẻ đi học trung học cơ sở"
+                },
+                "examples": [
+                    {
+                        "en": "Sam is going to be a junior next year.",
+                        "vi": "Sam sẽ là học sinh năm sau."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a student in the year before the last year at high school or college",
+                    "vi": "một học sinh năm trước năm cuối tại trường trung học hoặc đại học"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person who has a job at a low level within an organization",
+                    "vi": "một người có công việc ở cấp thấp trong một tổ chức"
+                },
+                "examples": [
+                    {
+                        "en": "office juniors",
+                        "vi": "đàn em văn phòng"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person’s young son",
+                    "vi": "con trai nhỏ của một người"
+                },
+                "examples": [
+                    {
+                        "en": "I leave junior with Mom when I'm at work.",
+                        "vi": "Tôi để lại đàn em với mẹ khi tôi đi làm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "to be younger than somebody, by the number of years mentioned",
+                    "vi": "trẻ hơn ai đó, theo số năm đã đề cập"
+                },
+                "examples": [
+                    {
+                        "en": "She's four years his junior.",
+                        "vi": "Cô ấy kém anh bốn tuổi."
+                    },
+                    {
+                        "en": "She's his junior by four years.",
+                        "vi": "Cô ấy là đàn em của anh ấy bốn năm."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5928f55adac74c0aab785ed85cc450e5",
+        "word": "scholar",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈskɒlə(r)/",
+            "us": "/ˈskɑːlər/"
+        },
+        "nearby": [
+            {
+                "word": "schnauzer",
+                "pos": "noun"
+            },
+            {
+                "word": "schnook",
+                "pos": "noun"
+            },
+            {
+                "word": "scholar",
+                "pos": "noun"
+            },
+            {
+                "word": "scholarly",
+                "pos": "adjective"
+            },
+            {
+                "word": "scholarship",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who knows a lot about a particular subject because they have studied it in detail",
+                    "vi": "một người biết nhiều về một chủ đề cụ thể bởi vì họ đã nghiên cứu nó một cách chi tiết"
+                },
+                "examples": [
+                    {
+                        "en": "a classical scholar",
+                        "vi": "một học giả cổ điển"
+                    },
+                    {
+                        "en": "He was the most distinguished scholar in his field.",
+                        "vi": "Ông là học giả xuất sắc nhất trong lĩnh vực của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a student who has been given a scholarship to study at a school, college or university",
+                    "vi": "một sinh viên đã được nhận học bổng để học tại một trường học, cao đẳng hoặc đại học"
+                },
+                "examples": [
+                    {
+                        "en": "a Rhodes scholar",
+                        "vi": "một học giả Rhodes"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a clever person who works hard at school",
+                    "vi": "một người thông minh làm việc chăm chỉ ở trường"
+                },
+                "examples": [
+                    {
+                        "en": "I was never much of a scholar.",
+                        "vi": "Tôi chưa bao giờ là một học giả."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9ef3ec3035764799a3044a73a09241b4",
+        "word": "school council",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌskuːl ˈkaʊnsl/",
+            "us": "/ˌskuːl ˈkaʊnsl/"
+        },
+        "nearby": [
+            {
+                "word": "schoolboy",
+                "pos": "noun"
+            },
+            {
+                "word": "schoolchild",
+                "pos": "noun"
+            },
+            {
+                "word": "school council",
+                "pos": "noun"
+            },
+            {
+                "word": "school day",
+                "pos": "noun"
+            },
+            {
+                "word": "school district",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a group of school students who have been elected by the other students to represent their views about decisions that affect the school",
+                    "vi": "một nhóm học sinh của trường đã được các học sinh khác bầu chọn để đại diện cho quan điểm của họ về các quyết định ảnh hưởng đến trường"
+                },
+                "examples": [
+                    {
+                        "en": "The concept was an innovative idea from students coming out of a school council meeting",
+                        "vi": "Ý tưởng này là một ý tưởng sáng tạo của các sinh viên bước ra từ một cuộc họp hội đồng trường"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a group of people, including parents and teachers, elected or chosen to advise on the management of a school",
+                    "vi": "một nhóm người, bao gồm cả phụ huynh và giáo viên, được bầu hoặc chọn để tư vấn về việc quản lý một trường học"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "a61d60f472264e19beb9f91e98a562c8",
+        "word": "senior",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈsiːniə(r)/",
+            "us": "/ˈsiːniər/"
+        },
+        "nearby": [
+            {
+                "word": "senility",
+                "pos": "noun"
+            },
+            {
+                "word": "senior",
+                "pos": "adjective"
+            },
+            {
+                "word": "senior",
+                "pos": "noun"
+            },
+            {
+                "word": "senior aircraftman",
+                "pos": "noun"
+            },
+            {
+                "word": "senior aircraftwoman",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who is older than somebody else",
+                    "vi": "một người lớn tuổi hơn người khác"
+                },
+                "examples": [
+                    {
+                        "en": "She was ten years his senior.",
+                        "vi": "Cô hơn anh mười tuổi."
+                    },
+                    {
+                        "en": "My brother is my senior by two years.",
+                        "vi": "Anh trai tôi là đàn anh của tôi hai năm."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an older person, especially somebody who has retired from work. People often call somebody a ‘senior citizen’ to avoid saying that they are old or using the expression ‘old-age pensioner’.",
+                    "vi": "một người lớn tuổi, đặc biệt là một số người đã nghỉ việc. Mọi người thường gọi ai đó là 'người cao tuổi' để tránh nói rằng họ đã già hoặc sử dụng cụm từ 'người già hưu trí'."
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person who is higher in rank or status",
+                    "vi": "một người có cấp bậc hoặc địa vị cao hơn"
+                },
+                "examples": [
+                    {
+                        "en": "She felt unappreciated both by her colleagues and her seniors.",
+                        "vi": "Cô cảm thấy không được đánh giá cao bởi cả đồng nghiệp và đàn anh của mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "adults or people who have reached an advanced level",
+                    "vi": "người lớn hoặc những người đã đạt đến trình độ nâng cao"
+                },
+                "examples": [
+                    {
+                        "en": "tennis coaching for juniors and seniors",
+                        "vi": "huấn luyện quần vợt cho đàn em và đàn anh"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a child at a senior school; an older child in a school",
+                    "vi": "một đứa trẻ ở một trường trung học; một đứa trẻ lớn hơn trong một trường học"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "(in the US and some other countries) a student in the last year at a high school or college",
+                    "vi": "(ở Mỹ và một số quốc gia khác) học sinh năm cuối tại một trường trung học hoặc đại học"
+                },
+                "examples": [
+                    {
+                        "en": "high school seniors",
+                        "vi": "Học sinh khóa trên ở trường trung học"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "f1e2d233f38946a0a0f22d6ba16bc872",
+        "word": "truant",
+        "pos": "noun",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˈtruːənt/",
+            "us": "/ˈtruːənt/"
+        },
+        "nearby": [
+            {
+                "word": "truancy",
+                "pos": "noun"
+            },
+            {
+                "word": "truant",
+                "pos": "verb"
+            },
+            {
+                "word": "truant",
+                "pos": "noun"
+            },
+            {
+                "word": "truce",
+                "pos": "noun"
+            },
+            {
+                "word": "truck",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a child who stays away from school without permission",
+                    "vi": "một đứa trẻ bỏ học mà không được phép"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "to stay away from school without permission",
+                    "vi": "nghỉ học mà không được phép"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "bbfff39312d540288fc284dc5ce223a3",
+        "word": "boarder",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈbɔːdə(r)/",
+            "us": "/ˈbɔːrdər/"
+        },
+        "nearby": [
+            {
+                "word": "board",
+                "pos": "noun"
+            },
+            {
+                "word": "board",
+                "pos": "verb"
+            },
+            {
+                "word": "boarder",
+                "pos": "noun"
+            },
+            {
+                "word": "board game",
+                "pos": "noun"
+            },
+            {
+                "word": "boarding",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a child who lives at school and goes home for the holidays",
+                    "vi": "một đứa trẻ sống ở trường và về nhà trong kỳ nghỉ"
+                },
+                "examples": [
+                    {
+                        "en": "boarders and day pupils",
+                        "vi": "nội trú và học sinh ban ngày"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person who pays money to live in a room in somebody else’s house",
+                    "vi": "một người trả tiền để sống trong một căn phòng trong nhà của người khác"
+                },
+                "examples": [
+                    {
+                        "en": "After her father’s death, her mother took in boarders to bring in extra money.",
+                        "vi": "Sau khi cha cô qua đời, mẹ cô nhận nội trú để kiếm thêm tiền."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3740f1f16ee149b0ae9d1aa6e41bd0b5",
+        "word": "custodian",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/kʌˈstəʊdiən/",
+            "us": "/kʌˈstəʊdiən/"
+        },
+        "nearby": [
+            {
+                "word": "General George Custer",
+                "pos": ""
+            },
+            {
+                "word": "custodial",
+                "pos": "adjective"
+            },
+            {
+                "word": "custodian",
+                "pos": "noun"
+            },
+            {
+                "word": "custody",
+                "pos": "noun"
+            },
+            {
+                "word": "custom",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who takes responsibility for taking care of or protecting something",
+                    "vi": "một người chịu trách nhiệm chăm sóc hoặc bảo vệ một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "the museum’s custodians",
+                        "vi": "những người trông coi bảo tàng"
+                    },
+                    {
+                        "en": "a self-appointed custodian of public morals",
+                        "vi": "một người tự chỉ định người giám sát đạo đức công cộng"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person whose job is to take care of a building such as a school or a block of flats or an apartment building",
+                    "vi": "một người có công việc là chăm sóc một tòa nhà như trường học hoặc một khu căn hộ hoặc một tòa nhà chung cư"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "68bb2ec594c84c0b9489cdfdf6b274da",
+        "word": "ELL",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌiː el ˈel/",
+            "us": "/ˌiː el ˈel/"
+        },
+        "nearby": [
+            {
+                "word": "the Elks",
+                "pos": ""
+            },
+            {
+                "word": "ell",
+                "pos": "noun"
+            },
+            {
+                "word": "ELL",
+                "pos": "noun"
+            },
+            {
+                "word": "Ella",
+                "pos": ""
+            },
+            {
+                "word": "Elle",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "English language learner (a student who is learning English as a second or foreign language)",
+                    "vi": "Người học tiếng Anh (một sinh viên đang học tiếng Anh như ngôn ngữ thứ hai hoặc ngoại ngữ)"
+                },
+                "examples": [
+                    {
+                        "en": "There is a growing number of ELLs in Texas classrooms.",
+                        "vi": "Ngày càng có nhiều học sinh ELL trong các lớp học ở Texas."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "09ff4f0c7d0e4de89abe9b26e6b5a3ea",
+        "word": "head boy",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌhed ˈbɔɪ/",
+            "us": "/ˌhed ˈbɔɪ/"
+        },
+        "nearby": [
+            {
+                "word": "headbanging",
+                "pos": "noun"
+            },
+            {
+                "word": "headboard",
+                "pos": "noun"
+            },
+            {
+                "word": "head boy",
+                "pos": "noun"
+            },
+            {
+                "word": "headbutt",
+                "pos": "verb"
+            },
+            {
+                "word": "headbutt",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "(in some British schools) the boy who is chosen each year to represent his school",
+                    "vi": "(ở một số trường học ở Anh) cậu bé được chọn mỗi năm để đại diện cho trường của mình"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "36a5cc29a4c64f988d6cc68a945a91da",
+        "word": "head girl",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌhed ˈɡɜːl/",
+            "us": "/ˌhed ˈɡɜːrl/"
+        },
+        "nearby": [
+            {
+                "word": "header",
+                "pos": "noun"
+            },
+            {
+                "word": "headgear",
+                "pos": "noun"
+            },
+            {
+                "word": "head girl",
+                "pos": "noun"
+            },
+            {
+                "word": "headhunt",
+                "pos": "verb"
+            },
+            {
+                "word": "headhunter",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "(in some British schools) the girl who is chosen each year to represent her school",
+                    "vi": "(ở một số trường học ở Anh) cô gái được chọn mỗi năm để đại diện cho trường của mình"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "5784ea4a1c5541f4a0e075441cfb6c84",
+        "word": "headmistress",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌhedˈmɪstrəs/",
+            "us": "/ˌhedˈmɪstrəs/"
+        },
+        "nearby": [
+            {
+                "word": "headman",
+                "pos": "noun"
+            },
+            {
+                "word": "headmaster",
+                "pos": "noun"
+            },
+            {
+                "word": "headmistress",
+                "pos": "noun"
+            },
+            {
+                "word": "head-mounted display",
+                "pos": "noun"
+            },
+            {
+                "word": "head off",
+                "pos": "phrasal verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a female teacher who is in charge of a school, especially a private school",
+                    "vi": "một nữ giáo viên phụ trách trường học, đặc biệt là trường tư thục"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "95dcc3025bd34b64b88731721a8ea4f8",
+        "word": "housemaster",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈhaʊsmɑːstə(r)/",
+            "us": "/ˈhaʊsmæstər/"
+        },
+        "nearby": [
+            {
+                "word": "houseman",
+                "pos": "noun"
+            },
+            {
+                "word": "house martin",
+                "pos": "noun"
+            },
+            {
+                "word": "housemaster",
+                "pos": "noun"
+            },
+            {
+                "word": "housemate",
+                "pos": "noun"
+            },
+            {
+                "word": "housemistress",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a male teacher in charge of a group of children (called a house) in a school, especially a private school",
+                    "vi": "nam giáo viên phụ trách nhóm trẻ (gọi là nhà) trong trường học, đặc biệt là trường tư thục."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "8090d2a126ce4668b0dc0e7945692b56",
+        "word": "invigilator",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ɪnˈvɪdʒɪleɪtə(r)/",
+            "us": "/ɪnˈvɪdʒɪleɪtər/"
+        },
+        "nearby": [
+            {
+                "word": "invigilate",
+                "pos": "verb"
+            },
+            {
+                "word": "invigilation",
+                "pos": "noun"
+            },
+            {
+                "word": "invigilator",
+                "pos": "noun"
+            },
+            {
+                "word": "invigorate",
+                "pos": "verb"
+            },
+            {
+                "word": "invigorating",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who watches people while they are taking an exam to make sure that they have everything they need, that they keep to the rules, etc.",
+                    "vi": "một người quan sát mọi người khi họ đang làm bài kiểm tra để đảm bảo rằng họ có mọi thứ họ cần, tuân thủ các quy tắc, v.v."
+                },
+                "examples": [
+                    {
+                        "en": "If you have a problem, ask the invigilator.",
+                        "vi": "Nếu bạn có vấn đề, hãy hỏi người giám sát."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9d8bbf8df29b44cdb09ee85115eb316e",
+        "word": "janitor",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈdʒænɪtə(r)/",
+            "us": "/ˈdʒænɪtər/"
+        },
+        "nearby": [
+            {
+                "word": "jangle",
+                "pos": "noun"
+            },
+            {
+                "word": "Janice",
+                "pos": ""
+            },
+            {
+                "word": "janitor",
+                "pos": "noun"
+            },
+            {
+                "word": "January",
+                "pos": "noun"
+            },
+            {
+                "word": "Jap",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person whose job is to take care of a building such as a school or a block of flats or an apartment building",
+                    "vi": "một người có công việc là chăm sóc một tòa nhà như trường học hoặc một khu căn hộ hoặc một tòa nhà chung cư"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "6eac06f256af4f619566054b0249e4c1",
+        "word": "matron",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈmeɪtrən/",
+            "us": "/ˈmeɪtrən/"
+        },
+        "nearby": [
+            {
+                "word": "The Matrix",
+                "pos": ""
+            },
+            {
+                "word": "Matrix Churchill",
+                "pos": ""
+            },
+            {
+                "word": "matron",
+                "pos": "noun"
+            },
+            {
+                "word": "matronly",
+                "pos": "adjective"
+            },
+            {
+                "word": "matron of honour",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a woman who works as a nurse in a school",
+                    "vi": "một người phụ nữ làm việc như một y tá trong một trường học"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a senior female nurse in charge of the other nurses in a hospital",
+                    "vi": "một nữ y tá cao cấp phụ trách các y tá khác trong bệnh viện"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "an older married woman",
+                    "vi": "một người phụ nữ lớn tuổi đã kết hôn"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "7b6cc1e012f647b9943a4b8bcc0da862",
+        "word": "mistress",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈmɪstrəs/",
+            "us": "/ˈmɪstrəs/"
+        },
+        "nearby": [
+            {
+                "word": "mistreat",
+                "pos": "verb"
+            },
+            {
+                "word": "mistreatment",
+                "pos": "noun"
+            },
+            {
+                "word": "mistress",
+                "pos": "noun"
+            },
+            {
+                "word": "mistrial",
+                "pos": "noun"
+            },
+            {
+                "word": "mistrust",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person's (usually a married man’s) mistress is a woman that they have a regular sexual relationship with and who is not their wife",
+                    "vi": "Tình nhân của một người (thường là một người đàn ông đã có gia đình) là một phụ nữ mà họ có quan hệ tình dục thường xuyên và không phải là vợ của họ"
+                },
+                "examples": [
+                    {
+                        "en": "It was considered quite normal for a man to have a mistress.",
+                        "vi": "Việc một người đàn ông có nhân tình được coi là chuyện khá bình thường."
+                    },
+                    {
+                        "en": "When do I cease to be your mistress and become your wife?",
+                        "vi": "Khi nào tôi không còn là tình nhân của anh và trở thành vợ của anh?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a female teacher in a school, especially a private school",
+                    "vi": "một nữ giáo viên trong trường học, đặc biệt là một trường tư thục"
+                },
+                "examples": [
+                    {
+                        "en": "the Biology mistress",
+                        "vi": "tình nhân sinh học"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "(in the past) the female head of a house, especially one who employed servants",
+                    "vi": "(trong quá khứ) nữ chủ nhân của một ngôi nhà, đặc biệt là một người thuê người hầu"
+                },
+                "examples": [
+                    {
+                        "en": "the mistress of the house",
+                        "vi": "bà chủ của ngôi nhà"
+                    },
+                    {
+                        "en": "Lizzie, fetch your mistress her shawl.",
+                        "vi": "Lizzie, lấy khăn choàng cho tình nhân của cô."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the female owner of a dog or other animal",
+                    "vi": "nữ chủ nhân của một con chó hoặc động vật khác"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a woman who is in a position of authority or control, or who has a lot of skill in something",
+                    "vi": "một người phụ nữ nắm quyền hoặc kiểm soát, hoặc người có nhiều kỹ năng trong một lĩnh vực nào đó"
+                },
+                "examples": [
+                    {
+                        "en": "She wants to be mistress of her own affairs (= to organize her own life).",
+                        "vi": "Cô ấy muốn trở thành tình nhân của công việc của riêng mình (= tổ chức cuộc sống của riêng mình)."
+                    },
+                    {
+                        "en": "She is the mistress of plain speech.",
+                        "vi": "Cô ấy là tình nhân của cách nói đơn giản."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a7f08e5c41ee4778a9eb623a2d4aff03",
+        "word": "moderator",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈmɒdəreɪtə(r)/",
+            "us": "/ˈmɑːdəreɪtər/"
+        },
+        "nearby": [
+            {
+                "word": "moderation",
+                "pos": "noun"
+            },
+            {
+                "word": "moderato",
+                "pos": "adverb, adjective"
+            },
+            {
+                "word": "moderator",
+                "pos": "noun"
+            },
+            {
+                "word": "Moderator of the Church of Scotland",
+                "pos": ""
+            },
+            {
+                "word": "modern",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person whose job is to help people or groups who disagree to reach an agreement",
+                    "vi": "một người có công việc là giúp đỡ những người hoặc nhóm không đồng ý để đạt được thỏa thuận"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person whose job is to make sure that a discussion or a debate is fair",
+                    "vi": "một người có công việc đảm bảo rằng một cuộc thảo luận hoặc một cuộc tranh luận là công bằng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person whose job is to make sure that an exam is marked fairly",
+                    "vi": "một người có công việc đảm bảo rằng một kỳ thi được chấm công bằng"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person who is responsible for preventing offensive material from being published on a website",
+                    "vi": "một người chịu trách nhiệm ngăn chặn các tài liệu xúc phạm được xuất bản trên một trang web"
+                },
+                "examples": [
+                    {
+                        "en": "moderators of online discussion groups",
+                        "vi": "người điều hành các nhóm thảo luận trực tuyến"
+                    },
+                    {
+                        "en": "A moderator had removed the message.",
+                        "vi": "Một người kiểm duyệt đã xóa tin nhắn."
+                    },
+                    {
+                        "en": "The moderator will then post the article.",
+                        "vi": "Người kiểm duyệt sau đó sẽ đăng bài viết."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a religious leader in the Presbyterian Church who is in charge of the Church council",
+                    "vi": "một nhà lãnh đạo tôn giáo trong Giáo hội Trưởng lão, người phụ trách hội đồng Giáo hội"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "233426b8b6154c87ae329c316a419f59",
+        "word": "monitor",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈmɒnɪtə(r)/",
+            "us": "/ˈmɑːnɪtər/"
+        },
+        "nearby": [
+            {
+                "word": "moniker",
+                "pos": "noun"
+            },
+            {
+                "word": "monism",
+                "pos": "noun"
+            },
+            {
+                "word": "monitor",
+                "pos": "noun"
+            },
+            {
+                "word": "monitor",
+                "pos": "verb"
+            },
+            {
+                "word": "Monitor and Merrimack",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a screen that shows information from a computer; a television screen used to show particular kinds of information",
+                    "vi": "màn hình hiển thị thông tin từ máy tính; một màn hình tivi được sử dụng để hiển thị các loại thông tin cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "The details of today's flights are displayed on the monitor.",
+                        "vi": "Các chi tiết của các chuyến bay ngày hôm nay được hiển thị trên màn hình."
+                    },
+                    {
+                        "en": "The pages are designed to be viewed on a computer monitor.",
+                        "vi": "Các trang được thiết kế để xem trên màn hình máy tính."
+                    },
+                    {
+                        "en": "We included the costs of monitor, keyboard, mouse and speakers.",
+                        "vi": "Chúng tôi đã bao gồm chi phí của màn hình, bàn phím, chuột và loa."
+                    },
+                    {
+                        "en": "The security staff can see all the outside of the building on their CCTV monitors.",
+                        "vi": "Các nhân viên an ninh có thể nhìn thấy tất cả bên ngoài của tòa nhà trên màn hình CCTV của họ."
+                    },
+                    {
+                        "en": "the display quality on LCD monitors has greatly improved.",
+                        "vi": "chất lượng hiển thị trên màn hình LCD đã được cải thiện rất nhiều."
+                    },
+                    {
+                        "en": "The laboratory is replete with banks of video monitors.",
+                        "vi": "Phòng thí nghiệm được trang bị đầy đủ các ngân hàng màn hình video."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a piece of equipment used to check or record something",
+                    "vi": "một phần của thiết bị được sử dụng để kiểm tra hoặc ghi lại một cái gì đó"
+                },
+                "examples": [
+                    {
+                        "en": "He was lying there hooked up to a heart monitor.",
+                        "vi": "Anh ta đang nằm đó được nối với một máy đo tim."
+                    },
+                    {
+                        "en": "Mia kept a two-way baby monitor in the living room so Harry's cries could be heard.",
+                        "vi": "Mia để một màn hình hai chiều dành cho em bé trong phòng khách để có thể nghe thấy tiếng khóc của Harry."
+                    },
+                    {
+                        "en": "A nurse checked his monitor for changes in ECG rhythms, pulse and oxygen saturation.",
+                        "vi": "Một y tá đã kiểm tra màn hình của anh ta để tìm những thay đổi trong nhịp ECG, mạch và độ bão hòa oxy."
+                    },
+                    {
+                        "en": "The heart monitor shows the strength of your pulse.",
+                        "vi": "Máy theo dõi tim hiển thị cường độ nhịp đập của bạn."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a person whose job is to check that something is done fairly and honestly, especially in a foreign country",
+                    "vi": "một người có công việc là kiểm tra xem điều gì đó được thực hiện một cách công bằng và trung thực, đặc biệt là ở nước ngoài"
+                },
+                "examples": [
+                    {
+                        "en": "UN monitors declared the referendum fair.",
+                        "vi": "Các giám sát viên của LHQ tuyên bố cuộc trưng cầu dân ý là công bằng."
+                    },
+                    {
+                        "en": "The EU has agreed to provide monitors for the crossing.",
+                        "vi": "EU đã đồng ý cung cấp các giám sát cho việc vượt biển."
+                    },
+                    {
+                        "en": "Monitors or observers help to build trust between the two sides.",
+                        "vi": "Người theo dõi hoặc quan sát giúp xây dựng lòng tin giữa hai bên."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a student in a school who performs special duties, such as helping the teacher",
+                    "vi": "một học sinh trong trường thực hiện các nhiệm vụ đặc biệt, chẳng hạn như giúp đỡ giáo viên"
+                },
+                "examples": [
+                    {
+                        "en": "He was a star pupil and the class monitor.",
+                        "vi": "Anh ấy là một học sinh ngôi sao và là người đứng đầu lớp."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a large tropical lizard (= a type of reptile)",
+                    "vi": "thằn lằn nhiệt đới lớn (= một loại bò sát)"
+                },
+                "examples": [
+                    {
+                        "en": "A large monitor lizard, prehistoric in its beauty, stared at us.",
+                        "vi": "Một con thằn lằn màn hình lớn, từ thời tiền sử với vẻ đẹp của nó, đang nhìn chằm chằm vào chúng tôi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "91c11fe5b7b048fab8b2e3500f4f0632",
+        "word": "paraprofessional",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌpærəprəˈfeʃənl/",
+            "us": "/ˌpærəprəˈfeʃənl/"
+        },
+        "nearby": [
+            {
+                "word": "paraplegic",
+                "pos": "noun"
+            },
+            {
+                "word": "paraplegic",
+                "pos": "adjective"
+            },
+            {
+                "word": "paraprofessional",
+                "pos": "noun"
+            },
+            {
+                "word": "paraprofessional",
+                "pos": "adjective"
+            },
+            {
+                "word": "parapsychology",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who has some experience in and training for a particular profession, but who is not yet qualified",
+                    "vi": "một người đã có một số kinh nghiệm và được đào tạo về một nghề cụ thể, nhưng chưa đủ trình độ"
+                },
+                "examples": [
+                    {
+                        "en": "Teachers depend on paraprofessionals to assist with several important tasks.",
+                        "vi": "Giáo viên phụ thuộc vào những người bán chuyên nghiệp để hỗ trợ một số nhiệm vụ quan trọng."
+                    },
+                    {
+                        "en": "veterinary paraprofessionals, known as paravets",
+                        "vi": "nhân viên y tế thú y, được gọi là thú y viên"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3641b96a5075406e87de7f47827a231f",
+        "word": "paraprofessional",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌpærəprəˈfeʃənl/",
+            "us": "/ˌpærəprəˈfeʃənl/"
+        },
+        "nearby": [
+            {
+                "word": "paraplegic",
+                "pos": "adjective"
+            },
+            {
+                "word": "paraprofessional",
+                "pos": "noun"
+            },
+            {
+                "word": "paraprofessional",
+                "pos": "adjective"
+            },
+            {
+                "word": "parapsychology",
+                "pos": "noun"
+            },
+            {
+                "word": "paraquat",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "doing or relating to the work of a paraprofessional",
+                    "vi": "làm hoặc liên quan đến công việc của một người bán chuyên nghiệp"
+                },
+                "examples": [
+                    {
+                        "en": "paraprofessional jobs/roles/educators",
+                        "vi": "công việc / vai trò / nhà giáo dục bán chuyên nghiệp"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3b9d653f87554eaaa62ee0134514f070",
+        "word": "prefect",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈpriːfekt/",
+            "us": "/ˈpriːfekt/"
+        },
+        "nearby": [
+            {
+                "word": "preface",
+                "pos": "verb"
+            },
+            {
+                "word": "prefatory",
+                "pos": "adjective"
+            },
+            {
+                "word": "prefect",
+                "pos": "noun"
+            },
+            {
+                "word": "prefecture",
+                "pos": "noun"
+            },
+            {
+                "word": "prefer",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "(in some British schools) an older student with some authority over younger students and some other responsibilities and advantages",
+                    "vi": "(ở một số trường học ở Anh) một học sinh lớn tuổi hơn có một số quyền hạn đối với học sinh nhỏ tuổi hơn và một số trách nhiệm và lợi thế khác"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "an officer responsible for an area of local government in some countries, for example France, Italy and Japan",
+                    "vi": "một viên chức chịu trách nhiệm về một lĩnh vực của chính quyền địa phương ở một số quốc gia, chẳng hạn như Pháp, Ý và Nhật Bản"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "766d73a5c5e4445699eaa2b29beb1b88",
+        "word": "PTA",
+        "pos": "abbreviation",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌpiː tiː ˈeɪ/",
+            "us": "/ˌpiː tiː ˈeɪ/"
+        },
+        "nearby": [
+            {
+                "word": "pt",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "PT",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "PTA",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "ptarmigan",
+                "pos": "noun"
+            },
+            {
+                "word": "PT boat",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "parent-teacher association (a group run by parents and teachers in a school that organizes social events and helps the school in different ways)",
+                    "vi": "hội phụ huynh-giáo viên (một nhóm do phụ huynh và giáo viên điều hành trong trường học tổ chức các sự kiện xã hội và giúp đỡ nhà trường theo những cách khác nhau)"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "8f2df078f8154ab0b7145aecab3f0d8f",
+        "word": "schoolmistress",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈskuːlmɪstrəs/",
+            "us": "/ˈskuːlmɪstrəs/"
+        },
+        "nearby": [
+            {
+                "word": "schoolmaster",
+                "pos": "noun"
+            },
+            {
+                "word": "schoolmate",
+                "pos": "noun"
+            },
+            {
+                "word": "schoolmistress",
+                "pos": "noun"
+            },
+            {
+                "word": "schoolroom",
+                "pos": "noun"
+            },
+            {
+                "word": "the school run",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a female teacher in a school, especially a private school",
+                    "vi": "một nữ giáo viên trong trường học, đặc biệt là một trường tư thục"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "83df031f91604ea2a25a879fd4f7d748",
+        "word": "staff",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/stɑːf/",
+            "us": "/stæf/"
+        },
+        "nearby": [
+            {
+                "word": "stack up",
+                "pos": "phrasal verb"
+            },
+            {
+                "word": "stadium",
+                "pos": "noun"
+            },
+            {
+                "word": "staff",
+                "pos": "noun"
+            },
+            {
+                "word": "staff",
+                "pos": "verb"
+            },
+            {
+                "word": "Staffa",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "all the workers employed in an organization considered as a group",
+                    "vi": "tất cả những người lao động được tuyển dụng trong một tổ chức được coi là một nhóm"
+                },
+                "examples": [
+                    {
+                        "en": "medical/nursing/teaching/coaching staff",
+                        "vi": "nhân viên y tế / điều dưỡng / giảng dạy / huấn luyện"
+                    },
+                    {
+                        "en": "The hospital staff cared for me so well.",
+                        "vi": "Các nhân viên bệnh viện chăm sóc tôi rất tốt."
+                    },
+                    {
+                        "en": "There are 12 full-time researchers plus technicians and other support staff.",
+                        "vi": "Có 12 nhà nghiên cứu toàn thời gian cộng với các kỹ thuật viên và các nhân viên hỗ trợ khác."
+                    },
+                    {
+                        "en": "female staff members",
+                        "vi": "nhân viên nữ"
+                    },
+                    {
+                        "en": "(British English) part-time members of staff",
+                        "vi": "(Anh Anh) nhân viên bán thời gian"
+                    },
+                    {
+                        "en": "to employ/recruit/hire/train staff",
+                        "vi": "tuyển dụng / tuyển dụng / thuê / đào tạo nhân viên"
+                    },
+                    {
+                        "en": "He joined the editorial staff in 2018.",
+                        "vi": "Anh ấy tham gia ban biên tập vào năm 2018."
+                    },
+                    {
+                        "en": "We are suffering from an IT staff shortage.",
+                        "vi": "Chúng tôi đang bị thiếu hụt nhân viên CNTT."
+                    },
+                    {
+                        "en": "The company has a good reputation for staff training.",
+                        "vi": "Công ty có danh tiếng tốt về đào tạo nhân viên."
+                    },
+                    {
+                        "en": "We have a weekly staff meeting.",
+                        "vi": "Chúng tôi có một cuộc họp nhân viên hàng tuần."
+                    },
+                    {
+                        "en": "(especially British English) on the staff a reporter on the staff of ‘The Times’",
+                        "vi": "(đặc biệt là tiếng Anh Anh) trên nhân viên một phóng viên thuộc nhân viên của 'The Times'"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "the people who work at a school, college or university, but who do not teach students",
+                    "vi": "những người làm việc tại một trường học, cao đẳng hoặc đại học, nhưng không dạy học sinh"
+                },
+                "examples": [
+                    {
+                        "en": "Students, faculty and staff were all men in those days.",
+                        "vi": "Những ngày đó sinh viên, giảng viên và nhân viên đều là nam giới."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a group of senior army officers who help a commanding officer",
+                    "vi": "một nhóm sĩ quan quân đội cấp cao giúp đỡ một sĩ quan chỉ huy"
+                },
+                "examples": [
+                    {
+                        "en": "a staff officer",
+                        "vi": "một nhân viên"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a long stick used as a support when walking or climbing, as a weapon, or as a symbol of authority",
+                    "vi": "một cây gậy dài được sử dụng để hỗ trợ khi đi bộ hoặc leo núi, như một vũ khí hoặc như một biểu tượng của quyền lực"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a set of five lines on which music is written",
+                    "vi": "một bộ năm dòng trên đó viết nhạc"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a basic food, especially bread",
+                    "vi": "một thực phẩm cơ bản, đặc biệt là bánh mì"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "47a0eb08778842e5a48169a92a995ff5",
+        "word": "swot",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/swɒt/",
+            "us": "/swɑːt/"
+        },
+        "nearby": [
+            {
+                "word": "sworn",
+                "pos": "adjective"
+            },
+            {
+                "word": "sworn",
+                "pos": "verb"
+            },
+            {
+                "word": "swot",
+                "pos": "noun"
+            },
+            {
+                "word": "swot",
+                "pos": "verb"
+            },
+            {
+                "word": "SWOT analysis",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a person who spends too much time studying",
+                    "vi": "một người dành quá nhiều thời gian cho việc học"
+                },
+                "examples": []
+            }
+        ]
+    }
+]

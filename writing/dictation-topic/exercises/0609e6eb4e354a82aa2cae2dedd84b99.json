@@ -1,0 +1,107 @@
+{
+    "id": "0609e6eb4e354a82aa2cae2dedd84b99",
+    "title": "Traffic Rules (1)",
+    "questions": [
+        {
+            "id": "783450f0e8af4377a71bd888723f296f",
+            "text": "Sara, you can't park here! It's a bus stop.",
+            "items": [
+                "Sara,",
+                "you",
+                "can't",
+                "park",
+                "here!",
+                "It's",
+                "a",
+                "bus",
+                "stop."
+            ]
+        },
+        {
+            "id": "0735589e7c934b39a5fbaa19a732cd4c",
+            "text": "Oh, we'll be back in a few minutes. It's OK.",
+            "items": [
+                "Oh,",
+                "we'll",
+                "be",
+                "back",
+                "in",
+                "a",
+                "few",
+                "minutes.",
+                "It's",
+                [
+                    "OK.",
+                    "okay"
+                ]
+            ]
+        },
+        {
+            "id": "e541c2dfa05847b7bf31608748e7200d",
+            "text": "Oh, no, it isn't. You'll get a parking ticket if you leave it here.",
+            "items": [
+                "Oh,",
+                "no,",
+                "it",
+                "isn't.",
+                "You'll",
+                "get",
+                "a",
+                "parking",
+                "ticket",
+                "if",
+                "you",
+                "leave",
+                "it",
+                "here."
+            ]
+        },
+        {
+            "id": "18b093a286a64024b1d12e7d38e59bd9",
+            "text": "No, I won't. It's 5:30. All the traffic wardens have gone home.",
+            "items": [
+                "No,",
+                "I",
+                "won't.",
+                "It's",
+                [
+                    "5:30.",
+                    "half past five",
+                    "half past 5"
+                ],
+                "All",
+                "the",
+                "traffic",
+                "wardens",
+                "have",
+                "gone",
+                "home."
+            ]
+        },
+        {
+            "id": "092730cb1f5a4c7488ab5d2c63fc2c02",
+            "text": "Sara!",
+            "items": [
+                "Sara!"
+            ]
+        },
+        {
+            "id": "0225c4accc9744c496539c2f4ff5430f",
+            "text": "Yes?",
+            "items": [
+                "Yes?"
+            ]
+        },
+        {
+            "id": "dd80a645589f4c5cafcca238f31230c7",
+            "text": "Is this your car, ma'am?",
+            "items": [
+                "Is",
+                "this",
+                "your",
+                "car,",
+                "ma'am?"
+            ]
+        }
+    ]
+}

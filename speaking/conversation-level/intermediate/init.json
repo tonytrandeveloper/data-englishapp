@@ -1,0 +1,5426 @@
+[
+    {
+        "id": "9e693cff83554e2dbc90bc73ebd82a1c",
+        "title": "Calling Credit Card Company",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Hi, I would like to know my credit balance."
+            },
+            {
+                "role": "B",
+                "sentence": "Of course. May I have your credit card number?"
+            },
+            {
+                "role": "A",
+                "sentence": "Yes, it's 512879346. My name is John."
+            },
+            {
+                "role": "B",
+                "sentence": "Alright, John. You currently have no dues on your credit card."
+            },
+            {
+                "role": "A",
+                "sentence": "Really? I finally paid it off?"
+            },
+            {
+                "role": "B",
+                "sentence": "Yes, sir. Your balance is officially zero."
+            },
+            {
+                "role": "A",
+                "sentence": "I must admit I am proud of myself!"
+            },
+            {
+                "role": "B",
+                "sentence": "Is there anything else you'd like me to check, sir?"
+            },
+            {
+                "role": "A",
+                "sentence": "Yes, can you change my card status from a college to normal account?"
+            },
+            {
+                "role": "B",
+                "sentence": "Of course, but you'll have to come to the bank to do that."
+            },
+            {
+                "role": "A",
+                "sentence": "Alright, I'll be down first thing tomorrow."
+            },
+            {
+                "role": "B",
+                "sentence": "Sounds good, sir. Have a good day."
+            }
+        ]
+    },
+    {
+        "id": "9a801394e1054fb7b2e77b148178913e",
+        "title": "Disputing a Charge",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Hello, is this the Smith residence?"
+            },
+            {
+                "role": "B",
+                "sentence": "Yes it is, may I ask who is calling?"
+            },
+            {
+                "role": "A",
+                "sentence": "This is your bank calling in regards to an overcharge on your credit card."
+            },
+            {
+                "role": "B",
+                "sentence": "I'm sorry, there must be some mistake."
+            },
+            {
+                "role": "A",
+                "sentence": "It says here that you charged over $500 on it yesterday."
+            },
+            {
+                "role": "B",
+                "sentence": "That can't be right; I have not used it in months!"
+            },
+            {
+                "role": "A",
+                "sentence": "Are you saying you did not make that charge?"
+            },
+            {
+                "role": "B",
+                "sentence": "That's exactly what I am saying."
+            },
+            {
+                "role": "A",
+                "sentence": "Looking closer, this charge was made in a different city."
+            },
+            {
+                "role": "B",
+                "sentence": "I am looking for my card now and I cannot find it."
+            },
+            {
+                "role": "A",
+                "sentence": "This calls for further investigation."
+            },
+            {
+                "role": "B",
+                "sentence": "I assure you I did not make the purchase."
+            }
+        ]
+    },
+    {
+        "id": "059bd8b09c71480f8a21548b31834dce",
+        "title": "Ordering Services",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "I'm interested in signing up for your cable service."
+            },
+            {
+                "role": "B",
+                "sentence": "Alright, please choose the package you'd like."
+            },
+            {
+                "role": "A",
+                "sentence": "Does this package get me all the movie channels?"
+            },
+            {
+                "role": "B",
+                "sentence": "I'm afraid not. This is the basic package."
+            },
+            {
+                "role": "A",
+                "sentence": "How much is it for the movie channels?"
+            },
+            {
+                "role": "B",
+                "sentence": "That package is an extra $20 a month."
+            },
+            {
+                "role": "A",
+                "sentence": "That's going to cost me an arm and a leg!"
+            },
+            {
+                "role": "B",
+                "sentence": "You'll also get the premium sports channels."
+            },
+            {
+                "role": "A",
+                "sentence": "Well, that does sound tempting."
+            },
+            {
+                "role": "B",
+                "sentence": "If you sign up for our email updates, I'll give you a discount."
+            },
+            {
+                "role": "A",
+                "sentence": "Alright, I'll take the premium package."
+            },
+            {
+                "role": "B",
+                "sentence": "You've made a wonderful choice."
+            }
+        ]
+    },
+    {
+        "id": "080bdc95ad3446028ccd4b058ea0ae35",
+        "title": "Making Inquiries",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Hello, how may I help you today?"
+            },
+            {
+                "role": "B",
+                "sentence": "Hi. I would like to increase my Internet data."
+            },
+            {
+                "role": "A",
+                "sentence": "I'll be glad to help you with that. What's your account number?"
+            },
+            {
+                "role": "B",
+                "sentence": "I don't have my account number with me, but my phone number is 310-865-9274."
+            },
+            {
+                "role": "A",
+                "sentence": "Alright. I see you use our mobile service."
+            },
+            {
+                "role": "B",
+                "sentence": "Yes. I also have a landline."
+            },
+            {
+                "role": "A",
+                "sentence": "According to my file, you are eligible for an upgrade to our new service."
+            },
+            {
+                "role": "B",
+                "sentence": "What does this new service include?"
+            },
+            {
+                "role": "A",
+                "sentence": "It makes the Internet connection twice as fast."
+            },
+            {
+                "role": "B",
+                "sentence": "That sounds perfect! Is there a price increase?"
+            },
+            {
+                "role": "A",
+                "sentence": "Yes, that will be $5 more per month."
+            },
+            {
+                "role": "B",
+                "sentence": "Sign me up right away!"
+            }
+        ]
+    },
+    {
+        "id": "46a3b69687ef4c88bfc1ddb77dfa11a5",
+        "title": "Reporting a Service Problem",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Hello, please connect me to Tech Support."
+            },
+            {
+                "role": "B",
+                "sentence": "This is Tech Support, how may I help you?"
+            },
+            {
+                "role": "A",
+                "sentence": "I am having problems with my Internet service."
+            },
+            {
+                "role": "B",
+                "sentence": "What seems to be the problem?"
+            },
+            {
+                "role": "A",
+                "sentence": "None of my wireless devices are connecting to the Wi-Fi."
+            },
+            {
+                "role": "B",
+                "sentence": "I see. Have you tried disconnecting and reconnecting the modem?"
+            },
+            {
+                "role": "A",
+                "sentence": "No, how do I do that?"
+            },
+            {
+                "role": "B",
+                "sentence": "Simply unplug the modem for fifteen seconds."
+            },
+            {
+                "role": "A",
+                "sentence": "Alright. I plugged it in again."
+            },
+            {
+                "role": "B",
+                "sentence": "Are all of the lights back on the modem?"
+            },
+            {
+                "role": "A",
+                "sentence": "Yes, they're all green!"
+            },
+            {
+                "role": "B",
+                "sentence": "Your devices should be able to connect easily now."
+            },
+            {
+                "role": "A",
+                "sentence": "Oh, they're working perfectly! Thank you!"
+            }
+        ]
+    },
+    {
+        "id": "4c16965d51ef42f5bd4d59b781111950",
+        "title": "Asking for Credit",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Hello, is this the Smith residence?"
+            },
+            {
+                "role": "A",
+                "sentence": "Hello, how can I help you today?"
+            },
+            {
+                "role": "B",
+                "sentence": "I am very upset with the quality of your service."
+            },
+            {
+                "role": "A",
+                "sentence": "I'm sorry, what seems to be the problem?"
+            },
+            {
+                "role": "B",
+                "sentence": "My Internet service did not work for three days."
+            },
+            {
+                "role": "A",
+                "sentence": "My records say a technician visited your area yesterday?"
+            },
+            {
+                "role": "B",
+                "sentence": "Yes, he installed a new modem."
+            },
+            {
+                "role": "A",
+                "sentence": "Did it solve the problem?"
+            },
+            {
+                "role": "B",
+                "sentence": "Yes, but I was overcharged for Internet service."
+            },
+            {
+                "role": "A",
+                "sentence": "Sorry about that. I'll give you credit for the three days."
+            },
+            {
+                "role": "B",
+                "sentence": "I was sold a wireless service unavailable in my area."
+            },
+            {
+                "role": "A",
+                "sentence": "I see it here; we charged you $5 extra a month."
+            },
+            {
+                "role": "B",
+                "sentence": "Yes. Kindly return my money, please."
+            }
+        ]
+    },
+    {
+        "id": "723d5c4783a141bfa2b822faf614f22c",
+        "title": "Troubleshooting a Computer Problem",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "How may I help you?"
+            },
+            {
+                "role": "B",
+                "sentence": "My computer is not letting me run JavaScript."
+            },
+            {
+                "role": "A",
+                "sentence": "That can easily be fixed."
+            },
+            {
+                "role": "B",
+                "sentence": "I've tried fixing it myself, but nothing worked."
+            },
+            {
+                "role": "A",
+                "sentence": "If you'd kindly go to our website, I'll fix the problem."
+            },
+            {
+                "role": "B",
+                "sentence": "I've logged in, now what?"
+            },
+            {
+                "role": "A",
+                "sentence": "I will now access your computer from my location."
+            },
+            {
+                "role": "B",
+                "sentence": "Oh, I see what you are doing."
+            },
+            {
+                "role": "A",
+                "sentence": "That should just about fix the problem!"
+            },
+            {
+                "role": "B",
+                "sentence": "Thank you so much! It was such an easy solution."
+            },
+            {
+                "role": "A",
+                "sentence": "I'm happy to help."
+            },
+            {
+                "role": "B",
+                "sentence": "Again, thank you and have a good day!"
+            }
+        ]
+    },
+    {
+        "id": "4893d367165548b28d79db0b83d2b729",
+        "title": "Making an Appointment",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Hello? I'd like to schedule an appointment."
+            },
+            {
+                "role": "B",
+                "sentence": "Hello! What time would you like to come in?"
+            },
+            {
+                "role": "A",
+                "sentence": "Well, I only like Jane cutting my hair."
+            },
+            {
+                "role": "B",
+                "sentence": "Jane comes in to work at 3 p.m. today."
+            },
+            {
+                "role": "A",
+                "sentence": "That sounds perfect! Sign me up."
+            },
+            {
+                "role": "B",
+                "sentence": "You'll be coming in for a haircut, yes?"
+            },
+            {
+                "role": "A",
+                "sentence": "I'd also like to redo my highlights."
+            },
+            {
+                "role": "B",
+                "sentence": "That will be no problem. Can I have your name?"
+            },
+            {
+                "role": "A",
+                "sentence": "My name is Sarah."
+            },
+            {
+                "role": "B",
+                "sentence": "Alright, Sarah, we'll be expecting you!"
+            },
+            {
+                "role": "A",
+                "sentence": "Alright, thank you!"
+            },
+            {
+                "role": "B",
+                "sentence": "See you soon!"
+            }
+        ]
+    },
+    {
+        "id": "669f7991285f4ca888485dccf91ca437",
+        "title": "Making Requests",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Can you cut my hair a little differently this time?"
+            },
+            {
+                "role": "B",
+                "sentence": "Sure! How would you like it cut?"
+            },
+            {
+                "role": "A",
+                "sentence": "Well, last time it was a little too long."
+            },
+            {
+                "role": "B",
+                "sentence": "I see what you mean. How about a bob cut?"
+            },
+            {
+                "role": "A",
+                "sentence": "Can you work some layers into it?"
+            },
+            {
+                "role": "B",
+                "sentence": "Of course! It's easy."
+            },
+            {
+                "role": "A",
+                "sentence": "I would also like to keep some bangs."
+            },
+            {
+                "role": "B",
+                "sentence": "How long would you like them?"
+            },
+            {
+                "role": "A",
+                "sentence": "Maybe down to my eyebrows?"
+            },
+            {
+                "role": "B",
+                "sentence": "Sounds good!"
+            },
+            {
+                "role": "A",
+                "sentence": "I trust you to make me look beautiful."
+            },
+            {
+                "role": "B",
+                "sentence": "Oh, trust me, you'll look gorgeous!"
+            }
+        ]
+    },
+    {
+        "id": "322eac76affd4937b0c06a1b6e389644",
+        "title": "Paying for the Service",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "I love my new hairstyle!"
+            },
+            {
+                "role": "B",
+                "sentence": "Beauty takes work!"
+            },
+            {
+                "role": "A",
+                "sentence": "And this is your best work yet!"
+            },
+            {
+                "role": "B",
+                "sentence": "Thank you, I'm glad you're satisfied!"
+            },
+            {
+                "role": "A",
+                "sentence": "How much do I owe you?"
+            },
+            {
+                "role": "B",
+                "sentence": "Well, there was the haircut, and you also got the highlights."
+            },
+            {
+                "role": "A",
+                "sentence": "Not to mention the lowlights."
+            },
+            {
+                "role": "B",
+                "sentence": "That'll be $45."
+            },
+            {
+                "role": "A",
+                "sentence": "Prices have sure gone up over time!"
+            },
+            {
+                "role": "B",
+                "sentence": "Yes, but beauty is worth it!"
+            },
+            {
+                "role": "A",
+                "sentence": "When I look this good, I guess you're right."
+            },
+            {
+                "role": "B",
+                "sentence": "Thank you for letting me cut your hair."
+            }
+        ]
+    },
+    {
+        "id": "2ed55a65c9554991821772f8d875e6fb",
+        "title": "Making a Complaint",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "What have you done to my hair?"
+            },
+            {
+                "role": "B",
+                "sentence": "I did exactly what you told me to do."
+            },
+            {
+                "role": "A",
+                "sentence": "I asked for a light trim, not for a butchering!"
+            },
+            {
+                "role": "B",
+                "sentence": "I had to cut out all the split ends."
+            },
+            {
+                "role": "A",
+                "sentence": "I look like a grapefruit! My head is too round!"
+            },
+            {
+                "role": "B",
+                "sentence": "It's a short bob, very stylish."
+            },
+            {
+                "role": "A",
+                "sentence": "It looks more like a bowl cut to me!"
+            },
+            {
+                "role": "B",
+                "sentence": "It looks fantastic, don't exaggerate."
+            },
+            {
+                "role": "A",
+                "sentence": "I hate it! I'm not paying for this!"
+            },
+            {
+                "role": "B",
+                "sentence": "You have to pay me for my labor!"
+            },
+            {
+                "role": "A",
+                "sentence": "I'm never coming here ever again!"
+            },
+            {
+                "role": "B",
+                "sentence": "Trust me, you won't be missed."
+            }
+        ]
+    },
+    {
+        "id": "aa96528e7f7d4ab38228dff0ddb61246",
+        "title": "Time To Do Your Laundry",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "I don't have any clean laundry for tomorrow!"
+            },
+            {
+                "role": "B",
+                "sentence": "Well, you should do your laundry then."
+            },
+            {
+                "role": "A",
+                "sentence": "Laundry is such a hassle!"
+            },
+            {
+                "role": "B",
+                "sentence": "Pack the laundry bags and let's go to the Laundromat."
+            },
+            {
+                "role": "A",
+                "sentence": "Oh, alright. I don't have much, though."
+            },
+            {
+                "role": "B",
+                "sentence": "Do you have any quarters?"
+            },
+            {
+                "role": "A",
+                "sentence": "Yes. I have enough for the washer and dryer."
+            },
+            {
+                "role": "B",
+                "sentence": "Alright then, let's get going."
+            },
+            {
+                "role": "A",
+                "sentence": "This is going to take forever."
+            },
+            {
+                "role": "B",
+                "sentence": "The longer you keep complaining, the longer it'll feel."
+            },
+            {
+                "role": "A",
+                "sentence": "I'd rather be playing video games."
+            },
+            {
+                "role": "B",
+                "sentence": "I'd rather you wore a clean shirt to school tomorrow."
+            }
+        ]
+    },
+    {
+        "id": "afa33a2d990f49e9b03b79e86956fbf6",
+        "title": "Operating Washing Machines",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Put your wet clothes into the dryer, please!"
+            },
+            {
+                "role": "B",
+                "sentence": "How long should I put them in for?"
+            },
+            {
+                "role": "A",
+                "sentence": "Put them on low heat for thirty minutes."
+            },
+            {
+                "role": "B",
+                "sentence": "Why low heat?"
+            },
+            {
+                "role": "A",
+                "sentence": "If the air is too hot, the clothes will shrink."
+            },
+            {
+                "role": "B",
+                "sentence": "I need to wash another load of laundry."
+            },
+            {
+                "role": "A",
+                "sentence": "If they're colored, wash them in cold water."
+            },
+            {
+                "role": "B",
+                "sentence": "Does warm water make them fade?"
+            },
+            {
+                "role": "A",
+                "sentence": "Yes. Put the detergent here, and don't use bleach."
+            },
+            {
+                "role": "B",
+                "sentence": "Oh, that's where to put the detergent."
+            },
+            {
+                "role": "A",
+                "sentence": "Don't forget to add fabric softener after the first rinse."
+            },
+            {
+                "role": "B",
+                "sentence": "Okay, I won't. Thanks."
+            }
+        ]
+    },
+    {
+        "id": "fa8d1b7a885248d1b939f4983494bb68",
+        "title": "Fabric Softener",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Excuse me. Can I borrow your fabric softener?"
+            },
+            {
+                "role": "B",
+                "sentence": "Of course, take as much as you need."
+            },
+            {
+                "role": "A",
+                "sentence": "Thank you. You're very kind."
+            },
+            {
+                "role": "B",
+                "sentence": "It's no problem at all."
+            },
+            {
+                "role": "A",
+                "sentence": "I love the subtle smell of this brand!"
+            },
+            {
+                "role": "B",
+                "sentence": "Me too! It's not overpowering or strong."
+            },
+            {
+                "role": "A",
+                "sentence": "I think maybe I'll buy it for myself, too."
+            },
+            {
+                "role": "B",
+                "sentence": "What I like about it is that it's hypoallergenic."
+            },
+            {
+                "role": "A",
+                "sentence": "No kidding? That's really something."
+            },
+            {
+                "role": "B",
+                "sentence": "It's perfect for washing delicate clothing."
+            },
+            {
+                "role": "A",
+                "sentence": "Well, thank you for introducing me to this brand!"
+            },
+            {
+                "role": "B",
+                "sentence": "Anytime, no problem!"
+            }
+        ]
+    },
+    {
+        "id": "d02ce5d66fed44889a84c6f2cc1c7e7e",
+        "title": "Waking Up for School",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Hello, is this the Smith residence?"
+            },
+            {
+                "role": "A",
+                "sentence": "Sarah! Hurry up and get out of bed!"
+            },
+            {
+                "role": "B",
+                "sentence": "I can't, the blankets won't let me go."
+            },
+            {
+                "role": "A",
+                "sentence": "Quit being lazy and get up!"
+            },
+            {
+                "role": "B",
+                "sentence": "No, I have to finish my awesome dream!"
+            },
+            {
+                "role": "A",
+                "sentence": "I can't believe you turned off your alarm this morning."
+            },
+            {
+                "role": "B",
+                "sentence": "Why? I do it every morning."
+            },
+            {
+                "role": "A",
+                "sentence": "If you don't get out of bed, you'll get to school late."
+            },
+            {
+                "role": "B",
+                "sentence": "That's not so bad."
+            },
+            {
+                "role": "A",
+                "sentence": "How is it not so bad?"
+            },
+            {
+                "role": "B",
+                "sentence": "Sleep is good for growing children."
+            },
+            {
+                "role": "A",
+                "sentence": "Yes, but you have a math test this morning!"
+            },
+            {
+                "role": "B",
+                "sentence": "I completely forgot! I'm up, I'm up!"
+            }
+        ]
+    },
+    {
+        "id": "a59752b810da4d898c25dd0cbfb2b015",
+        "title": "Returning a Call",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Hello, is this Mr. Smith? I'm Mrs. Jones."
+            },
+            {
+                "role": "B",
+                "sentence": "Hello, Mrs. Jones. Did you get my message?"
+            },
+            {
+                "role": "A",
+                "sentence": "Yes, I did, I'm returning your call."
+            },
+            {
+                "role": "B",
+                "sentence": "Oh, right, of course."
+            },
+            {
+                "role": "A",
+                "sentence": "What's the problem? Is James in trouble?"
+            },
+            {
+                "role": "B",
+                "sentence": "I caught him copying a classmate's test today."
+            },
+            {
+                "role": "A",
+                "sentence": "Oh, that child is incorrigible!"
+            },
+            {
+                "role": "B",
+                "sentence": "I'm afraid I'll have to give him detention this time."
+            },
+            {
+                "role": "A",
+                "sentence": "It's alright, I understand."
+            },
+            {
+                "role": "B",
+                "sentence": "James certainly is strong-willed."
+            },
+            {
+                "role": "A",
+                "sentence": "Yes, he needs a firm hand and discipline!"
+            },
+            {
+                "role": "B",
+                "sentence": "He's a good boy. Now if only he'd stop cheating!"
+            }
+        ]
+    },
+    {
+        "id": "471205e501ad4e9aadff1ebe0af5eb0f",
+        "title": "Meeting Teachers at School",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Hello, Mr. Smith. It's nice to finally meet you."
+            },
+            {
+                "role": "B",
+                "sentence": "Likewise, Mrs. Jones. Please sit down."
+            },
+            {
+                "role": "A",
+                "sentence": "Is James in trouble again?"
+            },
+            {
+                "role": "B",
+                "sentence": "Actually, no, he's not."
+            },
+            {
+                "role": "A",
+                "sentence": "What's the purpose of this meeting exactly?"
+            },
+            {
+                "role": "B",
+                "sentence": "I just wanted to let you know that James is doing very well."
+            },
+            {
+                "role": "A",
+                "sentence": "Oh, is that right? I'm so proud!"
+            },
+            {
+                "role": "B",
+                "sentence": "He has been staying for tutoring and his marks have skyrocketed!"
+            },
+            {
+                "role": "A",
+                "sentence": "I always knew he had it in him!"
+            },
+            {
+                "role": "B",
+                "sentence": "He behaves better in the classroom, too."
+            },
+            {
+                "role": "A",
+                "sentence": "I do believe my James is growing up!"
+            },
+            {
+                "role": "B",
+                "sentence": "All children need to mature is motivation!"
+            }
+        ]
+    },
+    {
+        "id": "7ed34e00d9a44aa888b526b7791b2512",
+        "title": "An Angry Parent",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "You need to try harder in school!"
+            },
+            {
+                "role": "B",
+                "sentence": "I am doing well in school."
+            },
+            {
+                "role": "A",
+                "sentence": "Then why are your marks in science so low?"
+            },
+            {
+                "role": "B",
+                "sentence": "I don't understand science, that's all."
+            },
+            {
+                "role": "A",
+                "sentence": "Is that the same reasoning you have for math?"
+            },
+            {
+                "role": "B",
+                "sentence": "Yes, and English, too."
+            },
+            {
+                "role": "A",
+                "sentence": "Tell me one single subject you're doing well in."
+            },
+            {
+                "role": "B",
+                "sentence": "Well, I'm doing wonderfully in my music class."
+            },
+            {
+                "role": "A",
+                "sentence": "What about history?"
+            },
+            {
+                "role": "B",
+                "sentence": "Only the parts about Woodstock."
+            },
+            {
+                "role": "A",
+                "sentence": "That's it! You're grounded! No guitar for a month."
+            },
+            {
+                "role": "B",
+                "sentence": "Great, now I'll surely have a low GPA."
+            }
+        ]
+    },
+    {
+        "id": "e456ee56ebe540e9856035c742273b50",
+        "title": "Time for Bed",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Hello, is this the Smith residence?"
+            },
+            {
+                "role": "A",
+                "sentence": "Children, it's time to go to bed!"
+            },
+            {
+                "role": "B",
+                "sentence": "But we're not sleepy yet!"
+            },
+            {
+                "role": "A",
+                "sentence": "If you get into bed right now, I'll read you a fairytale."
+            },
+            {
+                "role": "B",
+                "sentence": "One with a princess and a prince?"
+            },
+            {
+                "role": "A",
+                "sentence": "Of course, and a magical dragon, too."
+            },
+            {
+                "role": "B",
+                "sentence": "Why do we hear fairytales before bed?"
+            },
+            {
+                "role": "A",
+                "sentence": "So that the magic from stories can grow while you're sleeping."
+            },
+            {
+                "role": "B",
+                "sentence": "What does it grow into?"
+            },
+            {
+                "role": "A",
+                "sentence": "Why, magical dreams, of course!"
+            },
+            {
+                "role": "B",
+                "sentence": "Please read us two tonight!"
+            },
+            {
+                "role": "A",
+                "sentence": "Alright, but only if you sleep as soon as I'm done!"
+            },
+            {
+                "role": "B",
+                "sentence": "We will. It's a promise!"
+            }
+        ]
+    },
+    {
+        "id": "d2a09d12f9e643bb9ff554010d837a6d",
+        "title": "Cleaning up the Room",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Hello, is this the Smith residence?"
+            },
+            {
+                "role": "A",
+                "sentence": "David! Clean your room. It's filthy!"
+            },
+            {
+                "role": "B",
+                "sentence": "It's not so bad, mom."
+            },
+            {
+                "role": "A",
+                "sentence": "I don't even remember what color the carpet is!"
+            },
+            {
+                "role": "B",
+                "sentence": "It's blue, I remember."
+            },
+            {
+                "role": "A",
+                "sentence": "Have you no shame?"
+            },
+            {
+                "role": "B",
+                "sentence": "What should I be ashamed of?"
+            },
+            {
+                "role": "A",
+                "sentence": "There are clothes all over the ground!"
+            },
+            {
+                "role": "B",
+                "sentence": "It's just easier to leave them there."
+            },
+            {
+                "role": "A",
+                "sentence": "Your floor is not a gigantic closet."
+            },
+            {
+                "role": "B",
+                "sentence": "I never said it was."
+            },
+            {
+                "role": "A",
+                "sentence": "Clean your room or you can't go out today."
+            },
+            {
+                "role": "B",
+                "sentence": "Fine, fine. I'll clean it now."
+            }
+        ]
+    },
+    {
+        "id": "ecb8c9a99daa44f298adfbf1fd3a80bd",
+        "title": "Caring for Puppies",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "I think these puppies are hungry!"
+            },
+            {
+                "role": "B",
+                "sentence": "They've done nothing but play all day."
+            },
+            {
+                "role": "A",
+                "sentence": "Do you think they're old enough to eat kibble?"
+            },
+            {
+                "role": "B",
+                "sentence": "They're six weeks old; I think they're old enough."
+            },
+            {
+                "role": "A",
+                "sentence": "Look! They're digging right in!"
+            },
+            {
+                "role": "B",
+                "sentence": "Now they're settling for a nap."
+            },
+            {
+                "role": "A",
+                "sentence": "Between keeping them from chewing things and cleaning, they're a hassle."
+            },
+            {
+                "role": "B",
+                "sentence": "Yeah, they are. But look how cute they are while asleep!"
+            },
+            {
+                "role": "A",
+                "sentence": "Suddenly, I don't mind the chores so much."
+            },
+            {
+                "role": "B",
+                "sentence": "Yeah, neither do I."
+            },
+            {
+                "role": "A",
+                "sentence": "These puppies are truly worth it."
+            },
+            {
+                "role": "B",
+                "sentence": "I wouldn't lose a single minute with them."
+            }
+        ]
+    },
+    {
+        "id": "6fa65fcee82a4f2da8cc7e948c7a25b3",
+        "title": "Cooking Dinner",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Hello, is this the Smith residence?"
+            },
+            {
+                "role": "A",
+                "sentence": "What's for dinner?"
+            },
+            {
+                "role": "B",
+                "sentence": "I should be asking you that."
+            },
+            {
+                "role": "A",
+                "sentence": "What? Why do you say that?"
+            },
+            {
+                "role": "B",
+                "sentence": "You're old enough to cook dinner."
+            },
+            {
+                "role": "A",
+                "sentence": "Are you saying it's my turn now?"
+            },
+            {
+                "role": "B",
+                "sentence": "Actually, that's exactly what I'm saying."
+            },
+            {
+                "role": "A",
+                "sentence": "What would you like to eat, then?"
+            },
+            {
+                "role": "B",
+                "sentence": "I'm craving some spaghetti, bread, and even a salad."
+            },
+            {
+                "role": "A",
+                "sentence": "Frozen pizza it is, then!"
+            },
+            {
+                "role": "B",
+                "sentence": "You are so lazy! Can you even cook?"
+            },
+            {
+                "role": "A",
+                "sentence": "Of course I can cook! I choose not to."
+            },
+            {
+                "role": "B",
+                "sentence": "You're having hot pockets for dinner tomorrow."
+            }
+        ]
+    },
+    {
+        "id": "3d2071b5685f46ec92e0703a4bc1ae58",
+        "title": "Greetings (1)",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Hello, how are you doing?"
+            },
+            {
+                "role": "B",
+                "sentence": "I am doing quite well, how are you?"
+            },
+            {
+                "role": "A",
+                "sentence": "I've been better. I'm completely swamped with work."
+            },
+            {
+                "role": "B",
+                "sentence": "I know the feeling. My boss works me hard, too."
+            },
+            {
+                "role": "A",
+                "sentence": "Enough about work. How are the kids?"
+            },
+            {
+                "role": "B",
+                "sentence": "They are good. The oldest is about to graduate from high school."
+            },
+            {
+                "role": "A",
+                "sentence": "You're kidding me! That's great, man."
+            },
+            {
+                "role": "B",
+                "sentence": "The youngest is about to start middle school soon."
+            },
+            {
+                "role": "A",
+                "sentence": "My son is about to start middle school as well."
+            },
+            {
+                "role": "B",
+                "sentence": "Hey, maybe they will be classmates."
+            },
+            {
+                "role": "A",
+                "sentence": "It's a strong possibility."
+            },
+            {
+                "role": "B",
+                "sentence": "Yeah. Well, I want to try and beat the traffic. Good-bye."
+            },
+            {
+                "role": "A",
+                "sentence": "Have a good one."
+            }
+        ]
+    },
+    {
+        "id": "83d0a6b76ca6459e9dd486cdece28831",
+        "title": "Greetings (2)",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Good morning. How are you today?"
+            },
+            {
+                "role": "B",
+                "sentence": "I'm fantastic. How about yourself?"
+            },
+            {
+                "role": "A",
+                "sentence": "That's great! I'm good, but I feel a little sick."
+            },
+            {
+                "role": "B",
+                "sentence": "That's not good. I heard there is a flu going around."
+            },
+            {
+                "role": "A",
+                "sentence": "Well, I have to be sure to take good care of myself."
+            },
+            {
+                "role": "B",
+                "sentence": "Sucks that you aren't feeling well, it's a nice day."
+            },
+            {
+                "role": "A",
+                "sentence": "It is. The sunshine makes me want to go to the beach."
+            },
+            {
+                "role": "B",
+                "sentence": "That's a great idea, but I think you'll get sicker if you go."
+            },
+            {
+                "role": "A",
+                "sentence": "True. Perhaps we can go some other time?"
+            },
+            {
+                "role": "B",
+                "sentence": "For sure. Let's get together next week and go if you're better."
+            },
+            {
+                "role": "A",
+                "sentence": "Sounds like a plan. I'll talk to you later."
+            },
+            {
+                "role": "B",
+                "sentence": "Cool, see you later."
+            }
+        ]
+    },
+    {
+        "id": "24f3dcbc498a481fb375eaea7b8dd6fe",
+        "title": "Weather (1)",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Everything is going wrong today."
+            },
+            {
+                "role": "B",
+                "sentence": "Well, at least the weather is nice."
+            },
+            {
+                "role": "A",
+                "sentence": "Oh, yeah. Imagine if it had rained like they said it would."
+            },
+            {
+                "role": "B",
+                "sentence": "I know, I would have gotten soaked walking home."
+            },
+            {
+                "role": "A",
+                "sentence": "Yeah, I love when the sun is shining, but it's not too hot."
+            },
+            {
+                "role": "B",
+                "sentence": "I do, too. This weather is pretty sweet."
+            },
+            {
+                "role": "A",
+                "sentence": "I guess everything will be okay in the end."
+            },
+            {
+                "role": "B",
+                "sentence": "So all you needed was some sunshine."
+            },
+            {
+                "role": "A",
+                "sentence": "Yeah, I guess you were right – for once."
+            },
+            {
+                "role": "B",
+                "sentence": "Hey! I'm always right."
+            }
+        ]
+    },
+    {
+        "id": "45723feca6ac4a15bb954f7fa4da9b8c",
+        "title": "Weather (2)",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Quick! Get in here and wait out the storm!"
+            },
+            {
+                "role": "B",
+                "sentence": "Oh, my word. Thank you so much."
+            },
+            {
+                "role": "A",
+                "sentence": "It's raining cats and dogs out there."
+            },
+            {
+                "role": "B",
+                "sentence": "More like lions and wolves!"
+            },
+            {
+                "role": "A",
+                "sentence": "I was watching the news."
+            },
+            {
+                "role": "B",
+                "sentence": "What did they say?"
+            },
+            {
+                "role": "A",
+                "sentence": "This is going to be one heck of a storm."
+            },
+            {
+                "role": "B",
+                "sentence": "Should we be worried?"
+            },
+            {
+                "role": "A",
+                "sentence": "I don't think so. The emergency alert system would have gone up."
+            },
+            {
+                "role": "B",
+                "sentence": "True. Well, thank you for saving me from this storm."
+            },
+            {
+                "role": "A",
+                "sentence": "No problem. I'm making some tea; would you like some?"
+            },
+            {
+                "role": "B",
+                "sentence": "Please. Something warm would be great at the moment!"
+            }
+        ]
+    },
+    {
+        "id": "3c856c26770b42649dc90059f60eec02",
+        "title": "Weather (3)",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Heard it's supposed to rain."
+            },
+            {
+                "role": "B",
+                "sentence": "Where did you hear that from?"
+            },
+            {
+                "role": "A",
+                "sentence": "The news. The weatherman said there is a high probability of rain."
+            },
+            {
+                "role": "B",
+                "sentence": "Since when have you started watching the news?"
+            },
+            {
+                "role": "A",
+                "sentence": "I've always watched the news. Well, at least to check out the weather."
+            },
+            {
+                "role": "B",
+                "sentence": "What else did they say about the weekend?"
+            },
+            {
+                "role": "A",
+                "sentence": "I think they said it was going to rain throughout the weekend."
+            },
+            {
+                "role": "B",
+                "sentence": "Throughout the weekend? Don't pull my chain."
+            },
+            {
+                "role": "A",
+                "sentence": "I'm not. They said it, not me. I know you had plans."
+            },
+            {
+                "role": "B",
+                "sentence": "Well, I don't believe it. Just like I don't believe you watch the news."
+            },
+            {
+                "role": "A",
+                "sentence": "Okay, suit yourself. I'd take an umbrella though."
+            },
+            {
+                "role": "B",
+                "sentence": "I won't. I'd rather get wet than listen to you."
+            }
+        ]
+    },
+    {
+        "id": "ae621f8265b84c2cbaa57d16bca226d7",
+        "title": "Calling a Friend",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Why don't you ever answer your phone?"
+            },
+            {
+                "role": "B",
+                "sentence": "I'm usually busy. What's up?"
+            },
+            {
+                "role": "A",
+                "sentence": "I wanted to see if you were down to kick it."
+            },
+            {
+                "role": "B",
+                "sentence": "Where do you want to go? I don't have that much money."
+            },
+            {
+                "role": "A",
+                "sentence": "Let's go for a drink at the bar where we went last week."
+            },
+            {
+                "role": "B",
+                "sentence": "Okay, but I only have enough for three beers."
+            },
+            {
+                "role": "A",
+                "sentence": "It's fine. I'll pay for the rest, but you owe me."
+            },
+            {
+                "role": "B",
+                "sentence": "Screw that, I paid for you last time. You owe me!"
+            },
+            {
+                "role": "A",
+                "sentence": "Well, then we can call it even."
+            },
+            {
+                "role": "B",
+                "sentence": "I guess so. Where should we meet?"
+            },
+            {
+                "role": "A",
+                "sentence": "How about at the train station by the bar?"
+            },
+            {
+                "role": "B",
+                "sentence": "Sounds good. I'll see you in an hour."
+            },
+            {
+                "role": "A",
+                "sentence": "Great. See you then, laters."
+            }
+        ]
+    },
+    {
+        "id": "203b61862bdc4c1a9ec448a8e489f0b0",
+        "title": "Describing People (1)",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Dude, I forgot to tell you – I'm going out with Sarah."
+            },
+            {
+                "role": "B",
+                "sentence": "Which one is Sarah? You date so many girls that I get confused."
+            },
+            {
+                "role": "A",
+                "sentence": "First off, I don't date that many girls, and secondly you're always confused."
+            },
+            {
+                "role": "B",
+                "sentence": "True. So, which one is she? Is she in your class?"
+            },
+            {
+                "role": "A",
+                "sentence": "Nope. She's the girl from the restaurant we go to in downtown."
+            },
+            {
+                "role": "B",
+                "sentence": "From Green Bamboo? Which girl?"
+            },
+            {
+                "role": "A",
+                "sentence": "The cute one. You know the one with the tattoo up her thigh?"
+            },
+            {
+                "role": "B",
+                "sentence": "I think I would have noticed that."
+            },
+            {
+                "role": "A",
+                "sentence": "She's the only one with blonde hair."
+            },
+            {
+                "role": "B",
+                "sentence": "Well, why didn't you just say that? That's Sarah?"
+            },
+            {
+                "role": "A",
+                "sentence": "Well, I know you check her out. I assumed you saw the tattoo."
+            },
+            {
+                "role": "B",
+                "sentence": "I'm not that big of a pervert."
+            }
+        ]
+    },
+    {
+        "id": "03c612b1f5ac4ab49f100ac46ef638c4",
+        "title": "Describing People (2)",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "I have a new co-worker at work. She's pretty."
+            },
+            {
+                "role": "B",
+                "sentence": "Oh, yeah? Is she prettier than your ex-girlfriend?"
+            },
+            {
+                "role": "A",
+                "sentence": "Yeah, she is. She's tall, thin, and wears glasses."
+            },
+            {
+                "role": "B",
+                "sentence": "Oh, boy. What is it with you and girls with glasses?"
+            },
+            {
+                "role": "A",
+                "sentence": "You know what? I don't know."
+            },
+            {
+                "role": "B",
+                "sentence": "Well, tell me about her."
+            },
+            {
+                "role": "A",
+                "sentence": "She likes music. She is always wearing band t-shirts."
+            },
+            {
+                "role": "B",
+                "sentence": "Really? Are they any bands you like?"
+            },
+            {
+                "role": "A",
+                "sentence": "Yeah, actually a lot of them are."
+            },
+            {
+                "role": "B",
+                "sentence": "How does she act? Is she nice?"
+            },
+            {
+                "role": "A",
+                "sentence": "She is. I dropped my wallet, and didn't notice. She took it to me."
+            },
+            {
+                "role": "B",
+                "sentence": "Well, ask her out tomorrow, or somebody will."
+            }
+        ]
+    },
+    {
+        "id": "5abf465b1fa4410ab58e2ae4ca529e5e",
+        "title": "Expressing Concern",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "I heard that your brother is in the hospital."
+            },
+            {
+                "role": "B",
+                "sentence": "Yeah. He's been there since last week."
+            },
+            {
+                "role": "A",
+                "sentence": "Oh, no. What happened? Is he alright?"
+            },
+            {
+                "role": "B",
+                "sentence": "He got in a car accident. He should be alright."
+            },
+            {
+                "role": "A",
+                "sentence": "The doctors told you he would be alright?"
+            },
+            {
+                "role": "B",
+                "sentence": "Yes, but they need to keep him for further tests."
+            },
+            {
+                "role": "A",
+                "sentence": "Oh, okay. I was so worried when I heard this."
+            },
+            {
+                "role": "B",
+                "sentence": "Thanks, but everything should be fine. He was lucky."
+            },
+            {
+                "role": "A",
+                "sentence": "Really lucky. Did anyone else get injured?"
+            },
+            {
+                "role": "B",
+                "sentence": "His girlfriend broke her arm, but that's all."
+            },
+            {
+                "role": "A",
+                "sentence": "Oh, that's not good. Is she at the hospital?"
+            },
+            {
+                "role": "B",
+                "sentence": "Yes, she is taking care of my brother."
+            }
+        ]
+    },
+    {
+        "id": "f39144a706ae4db7bf8bc8fb64ed2035",
+        "title": "Expressing Joy",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "C'mon, guess what?"
+            },
+            {
+                "role": "B",
+                "sentence": "I don't know, chicken butt?"
+            },
+            {
+                "role": "A",
+                "sentence": "Stop playing games. I got the part in the school play!"
+            },
+            {
+                "role": "B",
+                "sentence": "Really? That's great!"
+            },
+            {
+                "role": "A",
+                "sentence": "All this practice is finally paying off."
+            },
+            {
+                "role": "B",
+                "sentence": "Yes, it is. I can't believe it!"
+            },
+            {
+                "role": "A",
+                "sentence": "Same here. I'm going to be the main character!"
+            },
+            {
+                "role": "B",
+                "sentence": "I'm so proud of you. I can't wait to see the play."
+            },
+            {
+                "role": "A",
+                "sentence": "It's going to be a lot of hard work, but I'm glad I got the part."
+            },
+            {
+                "role": "B",
+                "sentence": "When does the play open?"
+            },
+            {
+                "role": "A",
+                "sentence": "It opens in three weeks."
+            },
+            {
+                "role": "B",
+                "sentence": "Great. Get me a ticket. I want to be sitting in the front row."
+            }
+        ]
+    },
+    {
+        "id": "5d66338c844d4330895026dcdd4085d1",
+        "title": "Compliment",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "That's an awesome shirt."
+            },
+            {
+                "role": "B",
+                "sentence": "Thank you. It's so nice of you to say."
+            },
+            {
+                "role": "A",
+                "sentence": "Where did you get it?"
+            },
+            {
+                "role": "B",
+                "sentence": "I got it at a store at the mall."
+            },
+            {
+                "role": "A",
+                "sentence": "The mall? Did it cost a lot? Things are usually overpriced there."
+            },
+            {
+                "role": "B",
+                "sentence": "Actually, it was quite cheap. I got it for $15.99."
+            },
+            {
+                "role": "A",
+                "sentence": "That is pretty cheap. Do they have it in other colors?"
+            },
+            {
+                "role": "B",
+                "sentence": "You want to go get one?"
+            },
+            {
+                "role": "A",
+                "sentence": "Yeah, I like how it looks. Would you want to come with me?"
+            },
+            {
+                "role": "B",
+                "sentence": "We can go after school, if you want?"
+            },
+            {
+                "role": "A",
+                "sentence": "That would be great. I need new clothes, but I don't know what to buy."
+            },
+            {
+                "role": "B",
+                "sentence": "I'll help you pick out something cute."
+            }
+        ]
+    },
+    {
+        "id": "215d9da49d014930a7c67416c3a0fb9a",
+        "title": "Leisure Activities",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "I'm bored. Do you want to do something?"
+            },
+            {
+                "role": "B",
+                "sentence": "What did you have in mind?"
+            },
+            {
+                "role": "A",
+                "sentence": "Do you want to go drink?"
+            },
+            {
+                "role": "B",
+                "sentence": "No, I have work tomorrow, and I don't want to be hung over."
+            },
+            {
+                "role": "A",
+                "sentence": "You don't have to get wasted."
+            },
+            {
+                "role": "B",
+                "sentence": "I know you. You won't shut your mouth until I get wasted."
+            },
+            {
+                "role": "A",
+                "sentence": "Fine. Let's go to the record store. I hear they have new vinyl."
+            },
+            {
+                "role": "B",
+                "sentence": "I'm down to go to the record store. I haven't been there in a while."
+            },
+            {
+                "role": "A",
+                "sentence": "Actually, I don't feel like going to the record store."
+            },
+            {
+                "role": "B",
+                "sentence": "Well, what do you want to do?"
+            },
+            {
+                "role": "A",
+                "sentence": "Let's go to the movies instead?"
+            },
+            {
+                "role": "B",
+                "sentence": "Yeah, that new movie that I want to see is out. Let's go."
+            }
+        ]
+    },
+    {
+        "id": "bf1585d15ac24f748e2c18077abed059",
+        "title": "Favorite Movie",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "What's your favorite movie?"
+            },
+            {
+                "role": "B",
+                "sentence": "\"The Grand Budapest Hotel.\" Why do you ask?"
+            },
+            {
+                "role": "A",
+                "sentence": "I was wondering what types of movies you liked."
+            },
+            {
+                "role": "B",
+                "sentence": "Well, that's my favorite movie, but I like all sorts of movies."
+            },
+            {
+                "role": "A",
+                "sentence": "Oh, okay, but why do you like that movie so much?"
+            },
+            {
+                "role": "B",
+                "sentence": "Because it has action, adventure, comedy, and wonderful acting."
+            },
+            {
+                "role": "A",
+                "sentence": "How many times would you say you have seen it?"
+            },
+            {
+                "role": "B",
+                "sentence": "Too many to say. I watch it at least twice a month."
+            },
+            {
+                "role": "A",
+                "sentence": "Really, you like it that much?"
+            },
+            {
+                "role": "B",
+                "sentence": "It's a really good movie. You should watch it."
+            },
+            {
+                "role": "A",
+                "sentence": "Could I borrow it? I don't have money to buy it."
+            },
+            {
+                "role": "B",
+                "sentence": "Yes, I could lend you the movie, but be careful with it."
+            }
+        ]
+    },
+    {
+        "id": "062d8f7550a045c9af4eb361af91287b",
+        "title": "Favorite Music",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Do you have a favorite genre of music?"
+            },
+            {
+                "role": "B",
+                "sentence": "No, but I have favorite bands."
+            },
+            {
+                "role": "A",
+                "sentence": "What bands would you consider your favorites?"
+            },
+            {
+                "role": "B",
+                "sentence": "The Beatles are the first. Edward Sharpe and the Magnetic Zeros are the second."
+            },
+            {
+                "role": "A",
+                "sentence": "Is that all?"
+            },
+            {
+                "role": "B",
+                "sentence": "No, I really like The Clash. They are third."
+            },
+            {
+                "role": "A",
+                "sentence": "I've only heard of The Beatles."
+            },
+            {
+                "role": "B",
+                "sentence": "You should check out the other two bands. They are good."
+            },
+            {
+                "role": "A",
+                "sentence": "Do you have any of their music that you could show me?"
+            },
+            {
+                "role": "B",
+                "sentence": "Sure, come over to my house after school, and I will show you their music."
+            },
+            {
+                "role": "A",
+                "sentence": "Great! I've been looking for new music to listen to."
+            },
+            {
+                "role": "B",
+                "sentence": "Don't worry; I will get you into a lot of new stuff."
+            }
+        ]
+    },
+    {
+        "id": "ad517b2fd8d94d949226604498b30544",
+        "title": "Sports (1)",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Do you know who won against the Dodgers and the Cubs?"
+            },
+            {
+                "role": "B",
+                "sentence": "I'm sorry, but I don't follow baseball."
+            },
+            {
+                "role": "A",
+                "sentence": "Oh, really? Why not?"
+            },
+            {
+                "role": "B",
+                "sentence": "I've never really got into baseball. I like basketball better."
+            },
+            {
+                "role": "A",
+                "sentence": "Oh, okay. Do you have a cell phone?"
+            },
+            {
+                "role": "B",
+                "sentence": "Yes, why do you ask?"
+            },
+            {
+                "role": "A",
+                "sentence": "Could you check to see who won the baseball game?"
+            },
+            {
+                "role": "B",
+                "sentence": "Sure, let me check. It'll take one minute. It looks like the Chicago Cubs won seven to three."
+            },
+            {
+                "role": "A",
+                "sentence": "Yes! I was rooting for the Cubs."
+            },
+            {
+                "role": "B",
+                "sentence": "Well, they won. Glad I could be of some service."
+            },
+            {
+                "role": "A",
+                "sentence": "Thanks again. Have a nice day."
+            }
+        ]
+    },
+    {
+        "id": "5629785053ed499da1d2025d34960f44",
+        "title": "Sports (2)",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "My baseball game starts at 2 p.m. today. Will you be there?"
+            },
+            {
+                "role": "B",
+                "sentence": "Yes, I will definitely be there."
+            },
+            {
+                "role": "A",
+                "sentence": "Great! I will tell my family to save you a seat."
+            },
+            {
+                "role": "B",
+                "sentence": "What position will you be playing?"
+            },
+            {
+                "role": "A",
+                "sentence": "I will be playing first base, but the coach may switch me."
+            },
+            {
+                "role": "B",
+                "sentence": "If he switches you, what position will you play?"
+            },
+            {
+                "role": "A",
+                "sentence": "I think he wants me to pitch."
+            },
+            {
+                "role": "B",
+                "sentence": "You are a pitcher as well?"
+            },
+            {
+                "role": "A",
+                "sentence": "Yes, I am. I'm still training, but I can throw."
+            },
+            {
+                "role": "B",
+                "sentence": "I didn't know that about you."
+            },
+            {
+                "role": "A",
+                "sentence": "Well, hopefully you can see me pitch today."
+            },
+            {
+                "role": "B",
+                "sentence": "Awesome! I can't wait."
+            }
+        ]
+    },
+    {
+        "id": "bbdad618684b48fc83c660d6765652e7",
+        "title": "Sports (3)",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Can you explain baseball to me?"
+            },
+            {
+                "role": "B",
+                "sentence": "I can try to explain the basics. What do you want to know?"
+            },
+            {
+                "role": "A",
+                "sentence": "What are strikes?"
+            },
+            {
+                "role": "B",
+                "sentence": "Every batter has three strikes. When they get three strikes, they are out."
+            },
+            {
+                "role": "A",
+                "sentence": "Okay, but what about when the umpire calls a ball?"
+            },
+            {
+                "role": "B",
+                "sentence": "Once an umpire calls four balls, then the batter goes to first base."
+            },
+            {
+                "role": "A",
+                "sentence": "What happens when a pitcher hits a batter with the ball?"
+            },
+            {
+                "role": "B",
+                "sentence": "The batter goes to first base."
+            },
+            {
+                "role": "A",
+                "sentence": "What if someone is on first base?"
+            },
+            {
+                "role": "B",
+                "sentence": "Then whoever was on first base goes to second base."
+            },
+            {
+                "role": "A",
+                "sentence": "Oh, okay. What's a no-hitter?"
+            },
+            {
+                "role": "B",
+                "sentence": "A no-hitter is when a team doesn't get a hit throughout the game."
+            },
+            {
+                "role": "A",
+                "sentence": "So, that's a good thing for the pitcher?"
+            },
+            {
+                "role": "B",
+                "sentence": "Yes, because that means he pitched really well."
+            }
+        ]
+    },
+    {
+        "id": "758018601dbc4f0f97a8cf4a7644adce",
+        "title": "Invitation",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Would you like to go see a movie tomorrow night?"
+            },
+            {
+                "role": "B",
+                "sentence": "I am busy tomorrow night, but I am free the night after."
+            },
+            {
+                "role": "A",
+                "sentence": "That's great! What time should I pick you up?"
+            },
+            {
+                "role": "B",
+                "sentence": "8 p.m. would be great."
+            },
+            {
+                "role": "A",
+                "sentence": "Well, 8 p.m. it is. What movie would you like to see?"
+            },
+            {
+                "role": "B",
+                "sentence": "I'm not sure. Which movies are out right now?"
+            },
+            {
+                "role": "A",
+                "sentence": "I actually don't know. How about we choose when we get there?"
+            },
+            {
+                "role": "B",
+                "sentence": "Sure thing, that sounds great."
+            },
+            {
+                "role": "A",
+                "sentence": "Okay, should I pick you up at your house? Or do you want to meet somewhere?"
+            },
+            {
+                "role": "B",
+                "sentence": "I live by school; if you want, we could meet there."
+            },
+            {
+                "role": "A",
+                "sentence": "Sure. I drive a white Nissan Sentra. I'll text you later on, okay?"
+            },
+            {
+                "role": "B",
+                "sentence": "That sounds great. I'll be waiting for your text."
+            }
+        ]
+    },
+    {
+        "id": "da764375a606480aba6528f9b5a9f3f4",
+        "title": "Asking for Donation",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Would you like to donate money for Christopher?"
+            },
+            {
+                "role": "B",
+                "sentence": "Wait, what happened to Christopher?"
+            },
+            {
+                "role": "A",
+                "sentence": "He was hit by a car after school the other day."
+            },
+            {
+                "role": "B",
+                "sentence": "What? That was terrible!"
+            },
+            {
+                "role": "A",
+                "sentence": "That day I was going to walk home with him, but I decided to go to the library."
+            },
+            {
+                "role": "B",
+                "sentence": "I can't believe it. Is he okay?"
+            },
+            {
+                "role": "A",
+                "sentence": "He broke some bones, but other than that, he is okay."
+            },
+            {
+                "role": "B",
+                "sentence": "Oh, great! So, why are you collecting money for him?"
+            },
+            {
+                "role": "A",
+                "sentence": "The hospital bills are sort of steep. His parents can't afford it."
+            },
+            {
+                "role": "B",
+                "sentence": "Oh, wow! Well, here is my last $10. Please send my best to Chris."
+            },
+            {
+                "role": "A",
+                "sentence": "Thank you. Every dollar counts."
+            },
+            {
+                "role": "B",
+                "sentence": "Bless your heart for helping him out."
+            }
+        ]
+    },
+    {
+        "id": "45e3d91933e14332a613569b9180bb38",
+        "title": "Sharing News",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Did you hear about Joseph and Michelle?"
+            },
+            {
+                "role": "B",
+                "sentence": "No, what happened? Did they have a divorce?"
+            },
+            {
+                "role": "A",
+                "sentence": "Oh, no. They are pregnant."
+            },
+            {
+                "role": "B",
+                "sentence": "Really? How far along is Michelle?"
+            },
+            {
+                "role": "A",
+                "sentence": "Joseph told me that she is four months."
+            },
+            {
+                "role": "B",
+                "sentence": "Oh, okay. How is he handling the news?"
+            },
+            {
+                "role": "A",
+                "sentence": "He was a mess the last time I saw him."
+            },
+            {
+                "role": "B",
+                "sentence": "How is he now? Is he still crazy?"
+            },
+            {
+                "role": "A",
+                "sentence": "Actually, he seems relaxed and collected."
+            },
+            {
+                "role": "B",
+                "sentence": "I can't believe Joseph is going to be a father."
+            },
+            {
+                "role": "A",
+                "sentence": "It's trippy, huh? He is our age."
+            },
+            {
+                "role": "B",
+                "sentence": "This is making me feel really old."
+            }
+        ]
+    },
+    {
+        "id": "1633bfdb30e0403c8db0675d73c8d107",
+        "title": "Changing the Subject",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Can I ask you a question?"
+            },
+            {
+                "role": "B",
+                "sentence": "Sure, go ahead."
+            },
+            {
+                "role": "A",
+                "sentence": "How is your relationship with your parents?"
+            },
+            {
+                "role": "B",
+                "sentence": "It's good. I get along with my father more than I do with my mother."
+            },
+            {
+                "role": "A",
+                "sentence": "If I may ask, why is that?"
+            },
+            {
+                "role": "B",
+                "sentence": "I'm not comfortable answering that. Why are you asking?"
+            },
+            {
+                "role": "A",
+                "sentence": "It's for a class project. Why don't you get along with your mother?"
+            },
+            {
+                "role": "B",
+                "sentence": "What class are you doing this for?"
+            },
+            {
+                "role": "A",
+                "sentence": "It's for my psychology class. Do you live with your dad or mom?"
+            },
+            {
+                "role": "B",
+                "sentence": "I live with my dad."
+            },
+            {
+                "role": "A",
+                "sentence": "Do you think that's why you don't get along with your mom?"
+            },
+            {
+                "role": "B",
+                "sentence": "I said I'm not comfortable talking about that. Change the subject."
+            }
+        ]
+    },
+    {
+        "id": "5996c1ba7449483ba8de43a6df349c1a",
+        "title": "Receiving Visitors",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Come in, please. Take a seat wherever you like."
+            },
+            {
+                "role": "B",
+                "sentence": "Thank you. It's been a long and hot day."
+            },
+            {
+                "role": "A",
+                "sentence": "It has been a hot one. Would you like something to drink?"
+            },
+            {
+                "role": "B",
+                "sentence": "What do you have?"
+            },
+            {
+                "role": "A",
+                "sentence": "We have soda, juice, and bottled water."
+            },
+            {
+                "role": "B",
+                "sentence": "I'll take bottled water, and my wife would like one, too."
+            },
+            {
+                "role": "A",
+                "sentence": "Sounds good. Would you like it in a glass with ice?"
+            },
+            {
+                "role": "B",
+                "sentence": "Yes, that sounds wonderful."
+            },
+            {
+                "role": "A",
+                "sentence": "We also have some slices of pineapple. Would you like some?"
+            },
+            {
+                "role": "B",
+                "sentence": "Pineapple would hit the spot. I would love some."
+            },
+            {
+                "role": "A",
+                "sentence": "Does your wife want some as well?"
+            },
+            {
+                "role": "B",
+                "sentence": "Actually, she doesn't like pineapple. Thanks, anyway."
+            }
+        ]
+    },
+    {
+        "id": "1d34aefef7d243228651fe6d5e649164",
+        "title": "Ending a Conversation",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "I didn't like the way you sang tonight."
+            },
+            {
+                "role": "B",
+                "sentence": "Oh, wow. Well, thanks for coming out."
+            },
+            {
+                "role": "A",
+                "sentence": "You didn't put in all your effort. That's all I'm saying."
+            },
+            {
+                "role": "B",
+                "sentence": "Okay, well I'm going to leave now."
+            },
+            {
+                "role": "A",
+                "sentence": "Why are you in a rush to leave?"
+            },
+            {
+                "role": "B",
+                "sentence": "Because you are being rude, and I don't want to speak to you."
+            },
+            {
+                "role": "A",
+                "sentence": "Well, now I know you can't take criticism."
+            },
+            {
+                "role": "B",
+                "sentence": "It's not that I can't take criticism; it's that I don't like jerks."
+            },
+            {
+                "role": "A",
+                "sentence": "How am I a jerk? I'm just giving you my honest opinion."
+            },
+            {
+                "role": "B",
+                "sentence": "Well, in my honest opinion, I don't care what you think."
+            },
+            {
+                "role": "A",
+                "sentence": "Now, that was rude. I don't want to talk to you anymore."
+            },
+            {
+                "role": "B",
+                "sentence": "Great. Believe me; I won't be losing any sleep."
+            }
+        ]
+    },
+    {
+        "id": "aa2a5f2b35e9424cbc78046409855d33",
+        "title": "Leave-taking",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "It's 4 a.m. already? I have to be getting home."
+            },
+            {
+                "role": "B",
+                "sentence": "You can stay over if you want. I have an extra bed."
+            },
+            {
+                "role": "A",
+                "sentence": "I appreciate the gesture, but I must get home."
+            },
+            {
+                "role": "B",
+                "sentence": "Do you want to hang out tomorrow night?"
+            },
+            {
+                "role": "A",
+                "sentence": "I would love that. I will call you after I get out of work."
+            },
+            {
+                "role": "B",
+                "sentence": "What time do you get out?"
+            },
+            {
+                "role": "A",
+                "sentence": "If my boss isn't there, I should be getting out at around 8:00 p.m."
+            },
+            {
+                "role": "B",
+                "sentence": "And if your boss is there?"
+            },
+            {
+                "role": "A",
+                "sentence": "Then I will be getting out sometime around 10:00 p.m."
+            },
+            {
+                "role": "B",
+                "sentence": "Great. We could go grab a drink after you get out of work."
+            },
+            {
+                "role": "A",
+                "sentence": "That sounds lovely, good night."
+            },
+            {
+                "role": "B",
+                "sentence": "Good night. Drive home safely."
+            }
+        ]
+    },
+    {
+        "id": "722e2b6716d645949fed638a448fd7aa",
+        "title": "Easy or Hard?",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "I don't know which class to register for."
+            },
+            {
+                "role": "B",
+                "sentence": "You should pick the class you need."
+            },
+            {
+                "role": "A",
+                "sentence": "I know I need a science class."
+            },
+            {
+                "role": "B",
+                "sentence": "I would take biology with Mr. Green."
+            },
+            {
+                "role": "A",
+                "sentence": "It's a challenging yet fun class."
+            },
+            {
+                "role": "B",
+                "sentence": "I don't like challenges."
+            },
+            {
+                "role": "A",
+                "sentence": "Why are you in college then?"
+            },
+            {
+                "role": "B",
+                "sentence": "My mom forced me to enroll."
+            },
+            {
+                "role": "A",
+                "sentence": "You should go to a vocational school instead."
+            },
+            {
+                "role": "B",
+                "sentence": "I don't think you understand. My mom is scary."
+            },
+            {
+                "role": "A",
+                "sentence": "Okay, fine. I recommend Earth Science 125 with Mr. Anderson."
+            },
+            {
+                "role": "B",
+                "sentence": "Thanks for the recommendation!"
+            }
+        ]
+    },
+    {
+        "id": "cda63f1a20174b429834d52f8ff15a85",
+        "title": "A Restriction",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "I am so upset."
+            },
+            {
+                "role": "B",
+                "sentence": "Oh, no. Talk to me about it."
+            },
+            {
+                "role": "A",
+                "sentence": "I can't register for a class I really need."
+            },
+            {
+                "role": "B",
+                "sentence": "Is it full?"
+            },
+            {
+                "role": "A",
+                "sentence": "I have a hold on my record, because my library books were overdue."
+            },
+            {
+                "role": "B",
+                "sentence": "Can't you just pay the overdue fees?"
+            },
+            {
+                "role": "A",
+                "sentence": "I can't afford it. I'm totally broke."
+            },
+            {
+                "role": "B",
+                "sentence": "How much do you need?"
+            },
+            {
+                "role": "A",
+                "sentence": "I need $50."
+            },
+            {
+                "role": "B",
+                "sentence": "Wow, you must have kept those books long past the due date."
+            },
+            {
+                "role": "A",
+                "sentence": "Yes, I know I am horrible."
+            },
+            {
+                "role": "B",
+                "sentence": "I'll lend you the money."
+            }
+        ]
+    },
+    {
+        "id": "7c54b97dd4b2478db84dfa0187deb094",
+        "title": "The Quiet Student",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Hi, I'm James. What's your name?"
+            },
+            {
+                "role": "B",
+                "sentence": "Hi James. My name is Lisa."
+            },
+            {
+                "role": "A",
+                "sentence": "I'm taking this class because it seems interesting. Why are you?"
+            },
+            {
+                "role": "B",
+                "sentence": "I'm taking this class because it's a requirement."
+            },
+            {
+                "role": "A",
+                "sentence": "We should get to know each other."
+            },
+            {
+                "role": "B",
+                "sentence": "I don't think so. I like keeping to myself."
+            },
+            {
+                "role": "A",
+                "sentence": "So you don't like meeting new students?"
+            },
+            {
+                "role": "B",
+                "sentence": "Nope. I would rather just be alone."
+            },
+            {
+                "role": "A",
+                "sentence": "That is so sad!"
+            },
+            {
+                "role": "B",
+                "sentence": "It's not. It's really peaceful and self-empowering."
+            },
+            {
+                "role": "A",
+                "sentence": "Can we at least study together?"
+            },
+            {
+                "role": "B",
+                "sentence": "Nope, we can't do that."
+            }
+        ]
+    },
+    {
+        "id": "e6667f02763948e7a4d717b392b6b459",
+        "title": "Finding the Classroom",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "It takes me hours to find my classroom."
+            },
+            {
+                "role": "B",
+                "sentence": "I might be able to help you."
+            },
+            {
+                "role": "A",
+                "sentence": "Really? That would be great!"
+            },
+            {
+                "role": "B",
+                "sentence": "What's your classroom number?"
+            },
+            {
+                "role": "A",
+                "sentence": "My classroom number is A21."
+            },
+            {
+                "role": "B",
+                "sentence": "So the \"A\" is the building type."
+            },
+            {
+                "role": "A",
+                "sentence": "Okay, but I don't know where that is."
+            },
+            {
+                "role": "B",
+                "sentence": "Do you know where the gym is?"
+            },
+            {
+                "role": "A",
+                "sentence": "Yeah, I do."
+            },
+            {
+                "role": "B",
+                "sentence": "Okay, your classroom is behind the gym."
+            },
+            {
+                "role": "A",
+                "sentence": "That's really helpful! Thank you."
+            },
+            {
+                "role": "B",
+                "sentence": "No problem, and the \"21\" means it's upstairs."
+            }
+        ]
+    },
+    {
+        "id": "de3cece8b2c442f383f55512ecf0b155",
+        "title": "Buying Textbooks",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "I can't spend anymore money after I buy my English textbook."
+            },
+            {
+                "role": "B",
+                "sentence": "How much is your English textbook?"
+            },
+            {
+                "role": "A",
+                "sentence": "It's $198. I'm not kidding."
+            },
+            {
+                "role": "B",
+                "sentence": "That's ridiculously expensive! What's the title of the textbook?"
+            },
+            {
+                "role": "A",
+                "sentence": "It's called How to Write Well."
+            },
+            {
+                "role": "B",
+                "sentence": "Dude, someone is selling that book for $30."
+            },
+            {
+                "role": "A",
+                "sentence": "No way. What edition is it?"
+            },
+            {
+                "role": "B",
+                "sentence": "I think it was the 10th edition."
+            },
+            {
+                "role": "A",
+                "sentence": "Oh, no wonder he or she is selling it for only $30."
+            },
+            {
+                "role": "B",
+                "sentence": "What edition do you need?"
+            },
+            {
+                "role": "A",
+                "sentence": "I need the 21st edition."
+            },
+            {
+                "role": "B",
+                "sentence": "The publisher seems to be really making money, considering the number of editions."
+            }
+        ]
+    },
+    {
+        "id": "11330298dfd647cd9c6920a22d514650",
+        "title": "Professor Hernandez",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "I hate Professor Hernandez!"
+            },
+            {
+                "role": "B",
+                "sentence": "Me too! He keeps calling me stupid!"
+            },
+            {
+                "role": "A",
+                "sentence": "You think that's bad? He gave me an F, because I double spaced my essay!"
+            },
+            {
+                "role": "B",
+                "sentence": "But every professor wants essays double spaced. He's crazy!"
+            },
+            {
+                "role": "A",
+                "sentence": "Professor Hernandez is weird. He wants essays triple spaced."
+            },
+            {
+                "role": "B",
+                "sentence": "That's just a waste of paper. Why does he like triple spacing?"
+            },
+            {
+                "role": "A",
+                "sentence": "He says it's because he has to make a lot of corrections, because we're stupid."
+            },
+            {
+                "role": "B",
+                "sentence": "We should start a petition, and get him fired!"
+            },
+            {
+                "role": "A",
+                "sentence": "We should, but he can find out."
+            },
+            {
+                "role": "B",
+                "sentence": "I know. If he found out, he would ruin everyone's life."
+            },
+            {
+                "role": "A",
+                "sentence": "He is so evil."
+            },
+            {
+                "role": "B",
+                "sentence": "That's why this petition has to work!"
+            }
+        ]
+    },
+    {
+        "id": "2e571c99bbe9485681bdea33c904313f",
+        "title": "A Busy Professor",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Hey, Professor Hill."
+            },
+            {
+                "role": "B",
+                "sentence": "What is it?"
+            },
+            {
+                "role": "A",
+                "sentence": "I've been having trouble with derivatives."
+            },
+            {
+                "role": "B",
+                "sentence": "That's not good. There's a test on derivatives next week."
+            },
+            {
+                "role": "A",
+                "sentence": "I know. Can I make an appointment with you for some help?"
+            },
+            {
+                "role": "B",
+                "sentence": "I'm a busy man."
+            },
+            {
+                "role": "A",
+                "sentence": "You didn't even check your schedule yet!"
+            },
+            {
+                "role": "B",
+                "sentence": "I know I'm busy, because many people already made appointments."
+            },
+            {
+                "role": "A",
+                "sentence": "So I'm hopeless?"
+            },
+            {
+                "role": "B",
+                "sentence": "Of course not! There's the tutoring center."
+            },
+            {
+                "role": "A",
+                "sentence": "But the tutors are not professors. They're just students."
+            },
+            {
+                "role": "B",
+                "sentence": "They might surprise you."
+            }
+        ]
+    },
+    {
+        "id": "72037ca255394c6aaa6d82d888901dca",
+        "title": "Turning Homework in Late",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "May I turn in my homework tomorrow?"
+            },
+            {
+                "role": "B",
+                "sentence": "It's due today."
+            },
+            {
+                "role": "A",
+                "sentence": "I know, but I don't have it right now."
+            },
+            {
+                "role": "B",
+                "sentence": "How come? Your dog ate it?"
+            },
+            {
+                "role": "A",
+                "sentence": "No! I left it at home."
+            },
+            {
+                "role": "B",
+                "sentence": "I can't take your word for it."
+            },
+            {
+                "role": "A",
+                "sentence": "Why not? I'm an A+ student."
+            },
+            {
+                "role": "B",
+                "sentence": "How do I know if you even did the homework?"
+            },
+            {
+                "role": "A",
+                "sentence": "I'll ask my mom to take a picture of it and send it to me."
+            },
+            {
+                "role": "B",
+                "sentence": "That's fair enough."
+            },
+            {
+                "role": "A",
+                "sentence": "Thanks. Also, you should try trusting students more. We're not all that bad."
+            },
+            {
+                "role": "B",
+                "sentence": "I'll try, but I can't promise anything."
+            }
+        ]
+    },
+    {
+        "id": "11c7ed0979114f60bbf0ca7edf2bfb16",
+        "title": "An Honest Student",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "I have to tell you something."
+            },
+            {
+                "role": "B",
+                "sentence": "What is it?"
+            },
+            {
+                "role": "A",
+                "sentence": "You graded my test incorrectly. I got this wrong, but you didn't mark it."
+            },
+            {
+                "role": "B",
+                "sentence": "Wow! I have never met a more honest student."
+            },
+            {
+                "role": "A",
+                "sentence": "I just felt wrong."
+            },
+            {
+                "role": "B",
+                "sentence": "Just keep the score you have."
+            },
+            {
+                "role": "A",
+                "sentence": "Really? That's awesome."
+            },
+            {
+                "role": "B",
+                "sentence": "Yes. I have to ask, why did you decide to tell me?"
+            },
+            {
+                "role": "A",
+                "sentence": "I'm really bad at lying."
+            },
+            {
+                "role": "B",
+                "sentence": "That's a good thing! Your honesty is praiseworthy."
+            },
+            {
+                "role": "A",
+                "sentence": "Thanks. Want to give me extra credit?"
+            },
+            {
+                "role": "B",
+                "sentence": "Don't push it."
+            }
+        ]
+    },
+    {
+        "id": "27432fcb63af47c5b0f7ee648aad803e",
+        "title": "Borrowing Class Notes",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Can I borrow your class notes from yesterday's lecture?"
+            },
+            {
+                "role": "B",
+                "sentence": "Heck no! You're so lazy."
+            },
+            {
+                "role": "A",
+                "sentence": "What are you talking about? I was sick yesterday."
+            },
+            {
+                "role": "B",
+                "sentence": "I don't care. Ask someone else."
+            },
+            {
+                "role": "A",
+                "sentence": "You're so mean!"
+            },
+            {
+                "role": "B",
+                "sentence": "I can't let anyone borrow my class notes."
+            },
+            {
+                "role": "A",
+                "sentence": "Why not? They're just notes."
+            },
+            {
+                "role": "B",
+                "sentence": "I let a classmate borrow my notes once, and she sold copies to people."
+            },
+            {
+                "role": "A",
+                "sentence": "That's crazy! For how much?"
+            },
+            {
+                "role": "B",
+                "sentence": "She sold each class note set for $5."
+            },
+            {
+                "role": "A",
+                "sentence": "Don't worry, I promise not to sell your notes."
+            },
+            {
+                "role": "B",
+                "sentence": "I can't take your word for it."
+            }
+        ]
+    },
+    {
+        "id": "a0f4ac42cfcf44baa54f83028c6b72f0",
+        "title": "90% Is a B",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "I think your grading policy is unfair."
+            },
+            {
+                "role": "B",
+                "sentence": "I beg your pardon?!"
+            },
+            {
+                "role": "A",
+                "sentence": "Why is a 90% a B?"
+            },
+            {
+                "role": "B",
+                "sentence": "I'm trying to challenge you guys."
+            },
+            {
+                "role": "A",
+                "sentence": "That's not a challenge, that's a punishment."
+            },
+            {
+                "role": "B",
+                "sentence": "I've had this policy since I started teaching."
+            },
+            {
+                "role": "A",
+                "sentence": "It's time for a change."
+            },
+            {
+                "role": "B",
+                "sentence": "I'm not changing my policy because you don't like it."
+            },
+            {
+                "role": "A",
+                "sentence": "Put yourself in my shoes."
+            },
+            {
+                "role": "B",
+                "sentence": "I have been a student once, and I think my policy is fair."
+            },
+            {
+                "role": "A",
+                "sentence": "I'm going to drop your class!"
+            },
+            {
+                "role": "B",
+                "sentence": "Go ahead! Less for me to grade!"
+            }
+        ]
+    },
+    {
+        "id": "5994fa4a1c3d43b89519baf2c0a00d0a",
+        "title": "Rounding It Up",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "I have a 89.5%."
+            },
+            {
+                "role": "B",
+                "sentence": "Okay, so what?"
+            },
+            {
+                "role": "A",
+                "sentence": "It's really close to an A."
+            },
+            {
+                "role": "B",
+                "sentence": "You know I don't round up."
+            },
+            {
+                "role": "A",
+                "sentence": "But I really need a 4.0 GPA."
+            },
+            {
+                "role": "B",
+                "sentence": "You get what you deserve."
+            },
+            {
+                "role": "A",
+                "sentence": "I know I deserve an A. I always do great work and participate."
+            },
+            {
+                "role": "B",
+                "sentence": "I can't change it."
+            },
+            {
+                "role": "A",
+                "sentence": "Please? I'll wash your car."
+            },
+            {
+                "role": "B",
+                "sentence": "Are you bribing me?"
+            },
+            {
+                "role": "A",
+                "sentence": "I just want an A."
+            },
+            {
+                "role": "B",
+                "sentence": "I'll give you a C if you don't leave now."
+            }
+        ]
+    },
+    {
+        "id": "c771a8d07d86431dbd07545dc6c4abb7",
+        "title": "Being Absent",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Why were you absent yesterday?"
+            },
+            {
+                "role": "B",
+                "sentence": "Why do you care?"
+            },
+            {
+                "role": "A",
+                "sentence": "You should be thankful I care so much about your education."
+            },
+            {
+                "role": "B",
+                "sentence": "The truth is, I didn't hear the alarm clock."
+            },
+            {
+                "role": "A",
+                "sentence": "You missed out on a very important lecture."
+            },
+            {
+                "role": "B",
+                "sentence": "It happens. I'll just ask my friend what was on the lecture."
+            },
+            {
+                "role": "A",
+                "sentence": "Is she a good note taker?"
+            },
+            {
+                "role": "B",
+                "sentence": "I don't know. I guess?"
+            },
+            {
+                "role": "A",
+                "sentence": "If you were in class, you wouldn't have to rely on anyone's notes."
+            },
+            {
+                "role": "B",
+                "sentence": "I can't change the past."
+            },
+            {
+                "role": "A",
+                "sentence": "I know. Anyways, you should increase the volume on your alarm clock."
+            },
+            {
+                "role": "B",
+                "sentence": "I suppose I could do that."
+            }
+        ]
+    },
+    {
+        "id": "8640c6d3bcab43aebbcdb8a064a9fb40",
+        "title": "Leaving School",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "I have to leave class early tomorrow."
+            },
+            {
+                "role": "B",
+                "sentence": "I don't like that. Just don't come to class."
+            },
+            {
+                "role": "A",
+                "sentence": "Don't be like that, Professor! I have to attend my mom's funeral."
+            },
+            {
+                "role": "B",
+                "sentence": "I'm sorry for your loss."
+            },
+            {
+                "role": "A",
+                "sentence": "It's okay. I'm going to miss her."
+            },
+            {
+                "role": "B",
+                "sentence": "I lost my mom when I was in college, too."
+            },
+            {
+                "role": "A",
+                "sentence": "Saddest thing ever, right?"
+            },
+            {
+                "role": "B",
+                "sentence": "Yes. You know what? Take a week off school."
+            },
+            {
+                "role": "A",
+                "sentence": "I can't do that. I have too many responsibilities."
+            },
+            {
+                "role": "B",
+                "sentence": "Take my advice."
+            },
+            {
+                "role": "A",
+                "sentence": "I'll think about it."
+            },
+            {
+                "role": "B",
+                "sentence": "If you ever need to talk, my door is open."
+            }
+        ]
+    },
+    {
+        "id": "060c9d08d14f4c8bb0920b153253cbbd",
+        "title": "In Need of a Counselor",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "I would like to see my counselor now."
+            },
+            {
+                "role": "B",
+                "sentence": "Sorry, she doesn't have any time today."
+            },
+            {
+                "role": "A",
+                "sentence": "Are you serious?"
+            },
+            {
+                "role": "B",
+                "sentence": "Yes, I am. Please make an appointment for next week."
+            },
+            {
+                "role": "A",
+                "sentence": "I really need to see her."
+            },
+            {
+                "role": "B",
+                "sentence": "I'm sorry, but you really can't."
+            },
+            {
+                "role": "A",
+                "sentence": "I swear, I will bang on her door and scream."
+            },
+            {
+                "role": "B",
+                "sentence": "Don't make a scene."
+            },
+            {
+                "role": "A",
+                "sentence": "If you don't want me to make a scene, tell the counselor I'm here."
+            },
+            {
+                "role": "B",
+                "sentence": "Fine! You can only talk to her for five minutes, though."
+            },
+            {
+                "role": "A",
+                "sentence": "That's all I need."
+            },
+            {
+                "role": "B",
+                "sentence": "Next time, you'd better make an appointment."
+            }
+        ]
+    },
+    {
+        "id": "77d22dc2cf694afbbbfd176f62197324",
+        "title": "Talking to a Counselor",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "I'm glad you came to talk to me today."
+            },
+            {
+                "role": "B",
+                "sentence": "You kind of forced me to."
+            },
+            {
+                "role": "A",
+                "sentence": "That's because I'm worried."
+            },
+            {
+                "role": "B",
+                "sentence": "What are you worried about?"
+            },
+            {
+                "role": "A",
+                "sentence": "You withdrew from 4 of your 5 classes last semester."
+            },
+            {
+                "role": "B",
+                "sentence": "I was doing poorly!"
+            },
+            {
+                "role": "A",
+                "sentence": "And why was that exactly?"
+            },
+            {
+                "role": "B",
+                "sentence": "It was just too hard."
+            },
+            {
+                "role": "A",
+                "sentence": "You're really behind now. You might have to spend 6 years here."
+            },
+            {
+                "role": "B",
+                "sentence": "Can't I just take summer classes?"
+            },
+            {
+                "role": "A",
+                "sentence": "Yes, but you don't want to stress yourself out."
+            },
+            {
+                "role": "B",
+                "sentence": "I don't really have a choice."
+            }
+        ]
+    },
+    {
+        "id": "445dcc50f578478f8fda4791305bd372",
+        "title": "Adding a Class",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "I'm thinking of adding another class."
+            },
+            {
+                "role": "B",
+                "sentence": "Another one? You already have 7 classes."
+            },
+            {
+                "role": "A",
+                "sentence": "I know, but I really want to add Psychology 101. It seems interesting."
+            },
+            {
+                "role": "B",
+                "sentence": "You're going to be so stressed out."
+            },
+            {
+                "role": "A",
+                "sentence": "I think I can handle 8 classes."
+            },
+            {
+                "role": "B",
+                "sentence": "Seriously? You're going to be constantly in class or studying."
+            },
+            {
+                "role": "A",
+                "sentence": "I know, but it's worth it."
+            },
+            {
+                "role": "B",
+                "sentence": "Tell me that when I'm partying and you're not."
+            },
+            {
+                "role": "A",
+                "sentence": "How many classes are you taking? Two?"
+            },
+            {
+                "role": "B",
+                "sentence": "Haha! You're funny. I'm taking three."
+            },
+            {
+                "role": "A",
+                "sentence": "That's so little. Don't you feel like an underachiever?"
+            },
+            {
+                "role": "B",
+                "sentence": "Remind me again why we're friends."
+            }
+        ]
+    },
+    {
+        "id": "d612191eeb5b4b37b0673f676f2bd1ff",
+        "title": "Writing Workshop",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Want to go to the writing workshop with me today?"
+            },
+            {
+                "role": "B",
+                "sentence": "Nah man, my writing skills is tight."
+            },
+            {
+                "role": "A",
+                "sentence": "You mean \"are\" instead of \"is,\" right?"
+            },
+            {
+                "role": "B",
+                "sentence": "Yeah, of course!"
+            },
+            {
+                "role": "A",
+                "sentence": "You should come with me. Our college has great workshops."
+            },
+            {
+                "role": "B",
+                "sentence": "I don't want to look stupid."
+            },
+            {
+                "role": "A",
+                "sentence": "You won't. You look stupid using incorrect grammar."
+            },
+            {
+                "role": "B",
+                "sentence": "Fine. How long is the workshop?"
+            },
+            {
+                "role": "A",
+                "sentence": "It's about an hour."
+            },
+            {
+                "role": "B",
+                "sentence": "I don't think my attention span is more than 5 minutes."
+            },
+            {
+                "role": "A",
+                "sentence": "Don't worry, I'll pinch you to wake you up."
+            },
+            {
+                "role": "B",
+                "sentence": "That's a clever idea."
+            }
+        ]
+    },
+    {
+        "id": "742c8746945945c29d749b966b6aaf7b",
+        "title": "Studying Abroad",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "I'm planning to study abroad this summer."
+            },
+            {
+                "role": "B",
+                "sentence": "Cool! Where are you going?"
+            },
+            {
+                "role": "A",
+                "sentence": "I'm going to Italy."
+            },
+            {
+                "role": "B",
+                "sentence": "What are you studying there?"
+            },
+            {
+                "role": "A",
+                "sentence": "I'm taking a cooking class."
+            },
+            {
+                "role": "B",
+                "sentence": "That sounds interesting."
+            },
+            {
+                "role": "A",
+                "sentence": "I'm excited to learn in a totally new environment."
+            },
+            {
+                "role": "B",
+                "sentence": "Italy seems beautiful."
+            },
+            {
+                "role": "A",
+                "sentence": "It's beautiful in the pictures I've seen."
+            },
+            {
+                "role": "B",
+                "sentence": "Take a lot when you're there."
+            },
+            {
+                "role": "A",
+                "sentence": "I will, and I'll study hard, too."
+            },
+            {
+                "role": "B",
+                "sentence": "Also, learn some Italian while you're there."
+            }
+        ]
+    },
+    {
+        "id": "05449682774b40b3ac74d7a7877ba1dc",
+        "title": "Job Fair",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "I hope I can find a job after graduation."
+            },
+            {
+                "role": "B",
+                "sentence": "What is your major?"
+            },
+            {
+                "role": "A",
+                "sentence": "My major is geology."
+            },
+            {
+                "role": "B",
+                "sentence": "Geology majors aren't very high in demand, but you'll do fine."
+            },
+            {
+                "role": "A",
+                "sentence": "What makes you say that?"
+            },
+            {
+                "role": "B",
+                "sentence": "You're smart and likeable. Don't worry."
+            },
+            {
+                "role": "A",
+                "sentence": "Thanks, but I'm still scared."
+            },
+            {
+                "role": "B",
+                "sentence": "Oh, hey! You should go to the job fair."
+            },
+            {
+                "role": "A",
+                "sentence": "We have that here?"
+            },
+            {
+                "role": "B",
+                "sentence": "Yes. Take advantage of it."
+            },
+            {
+                "role": "A",
+                "sentence": "Have you ever been there?"
+            },
+            {
+                "role": "B",
+                "sentence": "Yes, and it's really helpful. Dress nicely!"
+            }
+        ]
+    },
+    {
+        "id": "5c6821dac1ab409daf24bc6a8a9083e5",
+        "title": "A Restaurant by the College",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "I am so sick of dining hall food."
+            },
+            {
+                "role": "B",
+                "sentence": "Me too! It's so unhealthy."
+            },
+            {
+                "role": "A",
+                "sentence": "We should go to a restaurant nearby."
+            },
+            {
+                "role": "B",
+                "sentence": "Want to go to Health Nut?"
+            },
+            {
+                "role": "A",
+                "sentence": "What a funny name!"
+            },
+            {
+                "role": "B",
+                "sentence": "I like it!"
+            },
+            {
+                "role": "A",
+                "sentence": "Do they sell nuts?"
+            },
+            {
+                "role": "B",
+                "sentence": "I'm not sure. Anyways, I want to try their organic tofu."
+            },
+            {
+                "role": "A",
+                "sentence": "I'm allergic to tofu."
+            },
+            {
+                "role": "B",
+                "sentence": "That's okay! They serve a wide variety of food."
+            },
+            {
+                "role": "A",
+                "sentence": "Great! I'm just glad we're not eating dining hall food."
+            },
+            {
+                "role": "B",
+                "sentence": "Me too. Let's go!"
+            }
+        ]
+    },
+    {
+        "id": "e4c6e1b486af49bbb904f418e7fbd7ff",
+        "title": "Vending Machine Problems",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Why are you taking so long? Is something wrong?"
+            },
+            {
+                "role": "B",
+                "sentence": "Sorry, my bag of chips got stuck."
+            },
+            {
+                "role": "A",
+                "sentence": "Vending machines suck, huh?"
+            },
+            {
+                "role": "B",
+                "sentence": "They're the worst, but the food is great."
+            },
+            {
+                "role": "A",
+                "sentence": "It might come out if someone buys an item from the same column yours is on."
+            },
+            {
+                "role": "B",
+                "sentence": "Can you be that \"someone?\""
+            },
+            {
+                "role": "A",
+                "sentence": "Sure, why not? I could use some chips."
+            },
+            {
+                "role": "B",
+                "sentence": "Thanks! Hey, what is your name?"
+            },
+            {
+                "role": "A",
+                "sentence": "My name is Charlie."
+            },
+            {
+                "role": "B",
+                "sentence": "Nice to meet you, Charlie."
+            },
+            {
+                "role": "A",
+                "sentence": "What is your name?"
+            },
+            {
+                "role": "B",
+                "sentence": "Hater of Vending Machines."
+            }
+        ]
+    },
+    {
+        "id": "756b2bd2b8004a8a965b2dc69a75547e",
+        "title": "Forgetting Your Student ID",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "I would like to purchase the book for Sociology 130."
+            },
+            {
+                "role": "B",
+                "sentence": "May I see your student ID?"
+            },
+            {
+                "role": "A",
+                "sentence": "I didn't know we needed it."
+            },
+            {
+                "role": "B",
+                "sentence": "Please go get your ID, and get in line again."
+            },
+            {
+                "role": "A",
+                "sentence": "But I waited in line for two hours!"
+            },
+            {
+                "role": "B",
+                "sentence": "I'm sorry, but you need a student ID to purchase textbooks here."
+            },
+            {
+                "role": "A",
+                "sentence": "Are there any other options?"
+            },
+            {
+                "role": "B",
+                "sentence": "Show me proof that you're a student at this college, and you'll be good."
+            },
+            {
+                "role": "A",
+                "sentence": "I have my report card. Here it is."
+            },
+            {
+                "role": "B",
+                "sentence": "This will do. Nice grades by the way."
+            },
+            {
+                "role": "A",
+                "sentence": "Thanks! I worked very hard for them."
+            },
+            {
+                "role": "B",
+                "sentence": "Good luck with this semester."
+            }
+        ]
+    },
+    {
+        "id": "0d5344869e5d409f806f9175640d7728",
+        "title": "The Overdue Hold",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Wow! Your books are over the due date by one month."
+            },
+            {
+                "role": "B",
+                "sentence": "It would have been longer if there wasn't a hold on my record."
+            },
+            {
+                "role": "A",
+                "sentence": "What kind of hold is on your record?"
+            },
+            {
+                "role": "B",
+                "sentence": "A hold that won't let me go to the college football game."
+            },
+            {
+                "role": "A",
+                "sentence": "Oh, that's tough."
+            },
+            {
+                "role": "B",
+                "sentence": "Yeah. My girlfriend is actually a cheerleader, and so I have to go."
+            },
+            {
+                "role": "A",
+                "sentence": "You're not going to like what I'm going to say."
+            },
+            {
+                "role": "B",
+                "sentence": "What is it?"
+            },
+            {
+                "role": "A",
+                "sentence": "I can't remove the hold even if you pay the overdue fee."
+            },
+            {
+                "role": "B",
+                "sentence": "Is it a technical error?"
+            },
+            {
+                "role": "A",
+                "sentence": "I don't know! I just can't remove it!"
+            },
+            {
+                "role": "B",
+                "sentence": "If my girlfriend breaks up with me, I'm blaming you."
+            }
+        ]
+    },
+    {
+        "id": "9899dd94942144e0b4813c8f0cc7197c",
+        "title": "Post-Undergraduate Plans",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "What do you plan to do after you graduate from here?"
+            },
+            {
+                "role": "B",
+                "sentence": "I'm planning to go to medical school. You?"
+            },
+            {
+                "role": "A",
+                "sentence": "I'm planning to teach English in underprivileged countries."
+            },
+            {
+                "role": "B",
+                "sentence": "That's really kind of you."
+            },
+            {
+                "role": "A",
+                "sentence": "Thanks. The first country I'm teaching in is Kenya."
+            },
+            {
+                "role": "B",
+                "sentence": "While you're at Kenya, I'll be studying for medical school."
+            },
+            {
+                "role": "A",
+                "sentence": "What kind of doctor do you want to be?"
+            },
+            {
+                "role": "B",
+                "sentence": "I want to be a pediatrician."
+            },
+            {
+                "role": "A",
+                "sentence": "Because you like kids?"
+            },
+            {
+                "role": "B",
+                "sentence": "I don't really have a good reason. I just think I'll be good at it."
+            },
+            {
+                "role": "A",
+                "sentence": "You should do what you love, not necessarily what you're good at."
+            },
+            {
+                "role": "B",
+                "sentence": "That is very cheesy advice."
+            }
+        ]
+    },
+    {
+        "id": "a86f6091d1234d39913f8a5b285c8a20",
+        "title": "Purchasing a Parking Permit",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "The parking permit is $200 per semester, right?"
+            },
+            {
+                "role": "B",
+                "sentence": "It's actually $300."
+            },
+            {
+                "role": "A",
+                "sentence": "Why?! That's ridiculous."
+            },
+            {
+                "role": "B",
+                "sentence": "It's because of the budget cuts."
+            },
+            {
+                "role": "A",
+                "sentence": "That's a terrible excuse."
+            },
+            {
+                "role": "B",
+                "sentence": "It's the truth."
+            },
+            {
+                "role": "A",
+                "sentence": "Give me something better than that."
+            },
+            {
+                "role": "B",
+                "sentence": "Miss, if you don't want to pay, then don't."
+            },
+            {
+                "role": "A",
+                "sentence": "This is so stressful."
+            },
+            {
+                "role": "B",
+                "sentence": "I advise writing a letter to the dean."
+            },
+            {
+                "role": "A",
+                "sentence": "I bet he'll just throw it away."
+            },
+            {
+                "role": "B",
+                "sentence": "You would be surprised."
+            }
+        ]
+    },
+    {
+        "id": "1b1898fd56ce462da2ef2a7911b46afb",
+        "title": "Parking Issue",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Do you have a car on campus?"
+            },
+            {
+                "role": "B",
+                "sentence": "No, because it's hard to find parking here."
+            },
+            {
+                "role": "A",
+                "sentence": "How do you get to places then?"
+            },
+            {
+                "role": "B",
+                "sentence": "I walk or take the bus."
+            },
+            {
+                "role": "A",
+                "sentence": "That's crazy! I could never do that."
+            },
+            {
+                "role": "B",
+                "sentence": "You should. It's great for the environment."
+            },
+            {
+                "role": "A",
+                "sentence": "That's true. What do you do for fun then?"
+            },
+            {
+                "role": "B",
+                "sentence": "There's a lot of stuff to do around campus."
+            },
+            {
+                "role": "A",
+                "sentence": "I never realized."
+            },
+            {
+                "role": "B",
+                "sentence": "You should do some exploring."
+            },
+            {
+                "role": "A",
+                "sentence": "You convinced me. I won't bring my car this semester."
+            },
+            {
+                "role": "B",
+                "sentence": "We can walk to places together now!"
+            }
+        ]
+    },
+    {
+        "id": "8582066512df456c9b31501ad5c5e5b7",
+        "title": "Fighting a Parking Ticket",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "You know you can't park here, right?"
+            },
+            {
+                "role": "B",
+                "sentence": "Listen, I had to talk to my friend really quickly, and there was no parking spaces."
+            },
+            {
+                "role": "A",
+                "sentence": "I'm going to have to give you a ticket."
+            },
+            {
+                "role": "B",
+                "sentence": "I'm a broke college student."
+            },
+            {
+                "role": "A",
+                "sentence": "And I'm a broke police officer. Deal with it."
+            },
+            {
+                "role": "B",
+                "sentence": "Can't you just let me off with a warning?"
+            },
+            {
+                "role": "A",
+                "sentence": "No way. I have to be firm with you."
+            },
+            {
+                "role": "B",
+                "sentence": "I'll buy you a box of donuts."
+            },
+            {
+                "role": "A",
+                "sentence": "You have got to be kidding me."
+            },
+            {
+                "role": "B",
+                "sentence": "I thought all cops liked donuts."
+            },
+            {
+                "role": "A",
+                "sentence": "That's a stereotype. You should really learn to be quiet."
+            },
+            {
+                "role": "B",
+                "sentence": "I'll stay quiet if you let me off with a warning."
+            }
+        ]
+    },
+    {
+        "id": "c2f747f1caea419fa515de9d99b9a315",
+        "title": "Sports",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "I'm thinking of joining a sports club on campus."
+            },
+            {
+                "role": "B",
+                "sentence": "You should! It takes away the stress of studying."
+            },
+            {
+                "role": "A",
+                "sentence": "What sport do you play?"
+            },
+            {
+                "role": "B",
+                "sentence": "I actually play on our university's baseball team."
+            },
+            {
+                "role": "A",
+                "sentence": "That's cool! You must be really good."
+            },
+            {
+                "role": "B",
+                "sentence": "Yeah, I have a baseball scholarship."
+            },
+            {
+                "role": "A",
+                "sentence": "No wonder you're in such great shape!"
+            },
+            {
+                "role": "B",
+                "sentence": "You'll be in great shape too after joining a sports club."
+            },
+            {
+                "role": "A",
+                "sentence": "I'm thinking of joining the tennis club."
+            },
+            {
+                "role": "B",
+                "sentence": "I wouldn't if I were you. The members don't even play tennis."
+            },
+            {
+                "role": "A",
+                "sentence": "What do they do then?"
+            },
+            {
+                "role": "B",
+                "sentence": "They just talk about tennis. They never even touched a racket, though."
+            }
+        ]
+    },
+    {
+        "id": "2917287510274d13b431f6726f6f76d2",
+        "title": "Clubs",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "College is so boring. All I do is go to class."
+            },
+            {
+                "role": "B",
+                "sentence": "You should join some clubs."
+            },
+            {
+                "role": "A",
+                "sentence": "Are you a part of any clubs?"
+            },
+            {
+                "role": "B",
+                "sentence": "Yes! I am currently in the Animal Lovers Club and the Knitting Club."
+            },
+            {
+                "role": "A",
+                "sentence": "What do you do in the Animal Lovers Club?"
+            },
+            {
+                "role": "B",
+                "sentence": "We do a lot of things! Last week, we walked dogs."
+            },
+            {
+                "role": "A",
+                "sentence": "That sounds fun. What's the wildest animal you ever interacted with?"
+            },
+            {
+                "role": "B",
+                "sentence": "I touched a dodo bird a couple weeks ago."
+            },
+            {
+                "role": "A",
+                "sentence": "Dodo birds are extinct."
+            },
+            {
+                "role": "B",
+                "sentence": "I'm just messing with you!"
+            },
+            {
+                "role": "A",
+                "sentence": "You're silly! Okay, I'll join the Animal Lovers Club."
+            },
+            {
+                "role": "B",
+                "sentence": "Great! We always welcome new members."
+            }
+        ]
+    },
+    {
+        "id": "b267131fbdf74959ad3a37a0438bfcfd",
+        "title": "Early Morning Class",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "I have to go to bed early."
+            },
+            {
+                "role": "B",
+                "sentence": "Why? The night is still young!"
+            },
+            {
+                "role": "A",
+                "sentence": "I have a class at 7 a.m."
+            },
+            {
+                "role": "B",
+                "sentence": "That's tough! My earliest class is at 9 a.m."
+            },
+            {
+                "role": "A",
+                "sentence": "That sounds amazing to me."
+            },
+            {
+                "role": "B",
+                "sentence": "How do you stay awake in that class?"
+            },
+            {
+                "role": "A",
+                "sentence": "Before I go to class, I drink four cups of coffee and take a cold shower."
+            },
+            {
+                "role": "B",
+                "sentence": "Interesting routine. Does it work?"
+            },
+            {
+                "role": "A",
+                "sentence": "Kind of. It's better than not doing it at all."
+            },
+            {
+                "role": "B",
+                "sentence": "Why are you taking that class?"
+            },
+            {
+                "role": "A",
+                "sentence": "It's only offered once a year, so I have to take it now."
+            },
+            {
+                "role": "B",
+                "sentence": "I hope the class is interesting, at least."
+            }
+        ]
+    },
+    {
+        "id": "323e7d3dddc949db926e5f0d04f6daef",
+        "title": "A Bad Roommate",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "I hate my roommate."
+            },
+            {
+                "role": "B",
+                "sentence": "I'm sorry to hear that. What's wrong with her?"
+            },
+            {
+                "role": "A",
+                "sentence": "A lot of things. First of all, she snores so loudly!"
+            },
+            {
+                "role": "B",
+                "sentence": "That's not really her fault. What else?"
+            },
+            {
+                "role": "A",
+                "sentence": "She never takes a shower."
+            },
+            {
+                "role": "B",
+                "sentence": "That's disgusting! You should tell her to take a shower."
+            },
+            {
+                "role": "A",
+                "sentence": "I did! She got mad at me and then proceeded to slap me."
+            },
+            {
+                "role": "B",
+                "sentence": "Ouch! Did you try to get a new roommate?"
+            },
+            {
+                "role": "A",
+                "sentence": "I tried, but I could not. No one was willing to switch."
+            },
+            {
+                "role": "B",
+                "sentence": "I guess you can get a new room by yourself."
+            },
+            {
+                "role": "A",
+                "sentence": "I can't afford it. Ugh, I hate her so much."
+            },
+            {
+                "role": "B",
+                "sentence": "It's okay. The year will be over before you know it."
+            }
+        ]
+    },
+    {
+        "id": "eb2602332af8425e8d1d348874bdcf6d",
+        "title": "Homesick",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Are you okay? You look really sad."
+            },
+            {
+                "role": "B",
+                "sentence": "I'm homesick. I feel so out of place here."
+            },
+            {
+                "role": "A",
+                "sentence": "But this college is so awesome."
+            },
+            {
+                "role": "B",
+                "sentence": "I know, but I really miss home."
+            },
+            {
+                "role": "A",
+                "sentence": "How far do you live?"
+            },
+            {
+                "role": "B",
+                "sentence": "Far. Let's just say I need an airplane to get there."
+            },
+            {
+                "role": "A",
+                "sentence": "It's almost winter break. Hang in there."
+            },
+            {
+                "role": "B",
+                "sentence": "I don't think I can handle it anymore."
+            },
+            {
+                "role": "A",
+                "sentence": "Try calling your friends and family from your hometown."
+            },
+            {
+                "role": "B",
+                "sentence": "I don't want them to worry about me."
+            },
+            {
+                "role": "A",
+                "sentence": "Just call them. Don't you want to stop feeling sad?"
+            },
+            {
+                "role": "B",
+                "sentence": "Okay, I'll call them now."
+            }
+        ]
+    },
+    {
+        "id": "36b0dbfa7afd4299b1f16fa16a154400",
+        "title": "Changing Majors",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "I was wondering if I could change my major from biology to political science."
+            },
+            {
+                "role": "B",
+                "sentence": "Those majors are very different from each other."
+            },
+            {
+                "role": "A",
+                "sentence": "I know, but I hate biology. I can't see myself studying it anymore."
+            },
+            {
+                "role": "B",
+                "sentence": "You can change it, but you'll have to take more classes."
+            },
+            {
+                "role": "A",
+                "sentence": "I don't mind. Political science is really interesting to me."
+            },
+            {
+                "role": "B",
+                "sentence": "You would be graduating a year late."
+            },
+            {
+                "role": "A",
+                "sentence": "Oh, no. I have to think a little more about this then."
+            },
+            {
+                "role": "B",
+                "sentence": "I think you should change it, since you hate biology."
+            },
+            {
+                "role": "A",
+                "sentence": "Yeah, you're right. I'm sorry I am so indecisive."
+            },
+            {
+                "role": "B",
+                "sentence": "A lot of people change majors. It's normal."
+            },
+            {
+                "role": "A",
+                "sentence": "But not as late as I did. I hate that I'm graduating after all my friends."
+            },
+            {
+                "role": "B",
+                "sentence": "You're making the right choice."
+            }
+        ]
+    },
+    {
+        "id": "7b7b171603d74377b4d19877a8c235bd",
+        "title": "Dropping Out",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "I have decided to drop out of college."
+            },
+            {
+                "role": "B",
+                "sentence": "You're making the worst decision of your life."
+            },
+            {
+                "role": "A",
+                "sentence": "I just don't get the point of college. It's just memorizing."
+            },
+            {
+                "role": "B",
+                "sentence": "What are you going to do then?"
+            },
+            {
+                "role": "A",
+                "sentence": "I'm going to get a job!"
+            },
+            {
+                "role": "B",
+                "sentence": "As what? A burger flipper?"
+            },
+            {
+                "role": "A",
+                "sentence": "Don't be mean. I'm going to be rich and successful when I'm older."
+            },
+            {
+                "role": "B",
+                "sentence": "It's almost impossible to be rich and successful without a college degree."
+            },
+            {
+                "role": "A",
+                "sentence": "Look at Steve Jobs! He dropped out of college."
+            },
+            {
+                "role": "B",
+                "sentence": "He's a rare case."
+            },
+            {
+                "role": "A",
+                "sentence": "Watch me prove you wrong."
+            },
+            {
+                "role": "B",
+                "sentence": "I'd like to see you try."
+            }
+        ]
+    },
+    {
+        "id": "34b971a3d36146448f723326a500a6d1",
+        "title": "Freshman 15",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "I gained so much weight because my college dining hall is all-you-can-eat."
+            },
+            {
+                "role": "B",
+                "sentence": "It's called the \"freshman 15.\""
+            },
+            {
+                "role": "A",
+                "sentence": "What is that exactly?"
+            },
+            {
+                "role": "B",
+                "sentence": "It's an expression to refer to the observation that many college freshmen gain weight."
+            },
+            {
+                "role": "A",
+                "sentence": "Oh, I see. I definitely got the freshman 15 then."
+            },
+            {
+                "role": "B",
+                "sentence": "You should use your college's gym."
+            },
+            {
+                "role": "A",
+                "sentence": "I never have time."
+            },
+            {
+                "role": "B",
+                "sentence": "Oh, please! You just have to make time."
+            },
+            {
+                "role": "A",
+                "sentence": "I guess I should set an hour to work out."
+            },
+            {
+                "role": "B",
+                "sentence": "That's the attitude I like to hear!"
+            },
+            {
+                "role": "A",
+                "sentence": "Did you gain any weight?"
+            },
+            {
+                "role": "B",
+                "sentence": "Yeah, I just wear big clothes to hide my fat."
+            }
+        ]
+    },
+    {
+        "id": "413d34d77f19493e8fe15af7993f5e68",
+        "title": "A Special Library",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Hi, I'm here to apply for a library card."
+            },
+            {
+                "role": "B",
+                "sentence": "Is this your first time applying for one?"
+            },
+            {
+                "role": "A",
+                "sentence": "It's my first time applying for a card here."
+            },
+            {
+                "role": "B",
+                "sentence": "Do you have cards with any other libraries?"
+            },
+            {
+                "role": "A",
+                "sentence": "Yes, I have one with my college and one with my local library."
+            },
+            {
+                "role": "B",
+                "sentence": "What college do you go to?"
+            },
+            {
+                "role": "A",
+                "sentence": "UCLA. They have over 10 libraries!"
+            },
+            {
+                "role": "B",
+                "sentence": "That's one of the great perks of higher education."
+            },
+            {
+                "role": "A",
+                "sentence": "Even though I have library cards, I really like this library."
+            },
+            {
+                "role": "B",
+                "sentence": "What do you like about it?"
+            },
+            {
+                "role": "A",
+                "sentence": "I like the foreign language books. That's rare for any library."
+            },
+            {
+                "role": "B",
+                "sentence": "Yes, it is! We get people all over the world because of that section."
+            }
+        ]
+    },
+    {
+        "id": "ae44ed4ea6b94de298d6611971771565",
+        "title": "Where Is the Book",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "I really need a book, but I didn't see it on the shelf."
+            },
+            {
+                "role": "B",
+                "sentence": "According to the computer, it's not checked out yet."
+            },
+            {
+                "role": "A",
+                "sentence": "Then why isn't it on the proper shelf?"
+            },
+            {
+                "role": "B",
+                "sentence": "It means that someone in this library is holding it right now."
+            },
+            {
+                "role": "A",
+                "sentence": "So someone else has the book and plans on checking it out?"
+            },
+            {
+                "role": "B",
+                "sentence": "Either that or someone took it out of the shelf and misplaced it."
+            },
+            {
+                "role": "A",
+                "sentence": "I really need that book."
+            },
+            {
+                "role": "B",
+                "sentence": "You're going to have to look everywhere for it."
+            },
+            {
+                "role": "A",
+                "sentence": "Can't you just make an announcement asking whoever has the book to come forward?"
+            },
+            {
+                "role": "B",
+                "sentence": "You are not that special. When it comes to books, it's first come, first serve."
+            },
+            {
+                "role": "A",
+                "sentence": "But I need it for school."
+            },
+            {
+                "role": "B",
+                "sentence": "I'm sorry, but I can't do anything for you."
+            }
+        ]
+    },
+    {
+        "id": "10055638fc3949eeaab8d20c7d020b4d",
+        "title": "Tiger Books",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Hi, can you help me find a book on tigers?"
+            },
+            {
+                "role": "B",
+                "sentence": "Yes, of course. Is it for a school project?"
+            },
+            {
+                "role": "A",
+                "sentence": "Yes, I'm doing an essay on the life of a tiger."
+            },
+            {
+                "role": "B",
+                "sentence": "You're going to want one with a lot of words and less pictures."
+            },
+            {
+                "role": "A",
+                "sentence": "But I want the one with pictures!"
+            },
+            {
+                "role": "B",
+                "sentence": "Pictures are pretty, but they won't help you with your essay that much."
+            },
+            {
+                "role": "A",
+                "sentence": "Fine, I admit you're right."
+            },
+            {
+                "role": "B",
+                "sentence": "You can borrow the book with pictures for your own pleasure."
+            },
+            {
+                "role": "A",
+                "sentence": "Yay! I love tigers."
+            },
+            {
+                "role": "B",
+                "sentence": "I have a book that isn't hard to understand, but still has great information."
+            },
+            {
+                "role": "A",
+                "sentence": "Great! You're so helpful."
+            },
+            {
+                "role": "B",
+                "sentence": "It's my job to be helpful."
+            }
+        ]
+    },
+    {
+        "id": "9fecc5062b6f4ab2a253110ea9055dde",
+        "title": "Reserving a Book",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "I would like to reserve The Hunger Games."
+            },
+            {
+                "role": "B",
+                "sentence": "Everyone wants to reserve that book these days."
+            },
+            {
+                "role": "A",
+                "sentence": "It's really popular, because the movie just came out."
+            },
+            {
+                "role": "B",
+                "sentence": "You have to pay $1 to reserve the book."
+            },
+            {
+                "role": "A",
+                "sentence": "What?! That's ridiculous."
+            },
+            {
+                "role": "B",
+                "sentence": "Like you said, it's popular."
+            },
+            {
+                "role": "A",
+                "sentence": "I have to think about it then."
+            },
+            {
+                "role": "B",
+                "sentence": "I personally think $1 is nothing. It's cheaper than buying the book."
+            },
+            {
+                "role": "A",
+                "sentence": "How much is the book?"
+            },
+            {
+                "role": "B",
+                "sentence": "On the back, it says it's $15. It depends on the bookstore you go to though."
+            },
+            {
+                "role": "A",
+                "sentence": "Fine, I'll give you a $1."
+            },
+            {
+                "role": "B",
+                "sentence": "You won't regret it! The book is really good."
+            }
+        ]
+    },
+    {
+        "id": "ad74ba3cb4d0425db996e8025a61aaff",
+        "title": "Late Fees",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "I'm sorry, but you can't borrow this book."
+            },
+            {
+                "role": "B",
+                "sentence": "What do you mean?"
+            },
+            {
+                "role": "A",
+                "sentence": "You have not paid your late fees for your overdue books."
+            },
+            {
+                "role": "B",
+                "sentence": "I never had any overdue books!"
+            },
+            {
+                "role": "A",
+                "sentence": "The computer doesn't lie."
+            },
+            {
+                "role": "B",
+                "sentence": "What books do I have late fees for?"
+            },
+            {
+                "role": "A",
+                "sentence": "They're all math books, and according to the system, you still have them."
+            },
+            {
+                "role": "B",
+                "sentence": "Oh yeah, I do! I totally forgot about them and left them on my bed."
+            },
+            {
+                "role": "A",
+                "sentence": "Once you return them and pay the fee, you can borrow books again."
+            },
+            {
+                "role": "B",
+                "sentence": "But I really need to borrow those books now."
+            },
+            {
+                "role": "A",
+                "sentence": "I can put them on hold for you."
+            },
+            {
+                "role": "B",
+                "sentence": "Yes! You are the best."
+            }
+        ]
+    },
+    {
+        "id": "7587d3981710495bb8102d4d67f064f5",
+        "title": "Borrowing a Book from Another Library",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "I'm so frustrated. I can't find any books on my research topic at my library."
+            },
+            {
+                "role": "B",
+                "sentence": "Why don't you try a different library?"
+            },
+            {
+                "role": "A",
+                "sentence": "I don't want to waste gas money."
+            },
+            {
+                "role": "B",
+                "sentence": "But you might find your book."
+            },
+            {
+                "role": "A",
+                "sentence": "What library do you suggest?"
+            },
+            {
+                "role": "B",
+                "sentence": "I suggest the one near my house."
+            },
+            {
+                "role": "A",
+                "sentence": "That is way too far for me."
+            },
+            {
+                "role": "B",
+                "sentence": "They have a lot of books. That library has never disappointed me."
+            },
+            {
+                "role": "A",
+                "sentence": "I have an idea! Why don't you borrow them for me?"
+            },
+            {
+                "role": "B",
+                "sentence": "I don't know about that. What if you lose the books?"
+            },
+            {
+                "role": "A",
+                "sentence": "I won't. I swear on my life."
+            },
+            {
+                "role": "B",
+                "sentence": "Wow, you're so serious."
+            }
+        ]
+    },
+    {
+        "id": "b8492e9e564b428daedb5c99d443ec15",
+        "title": "Checking Out a Book",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "This is a great book you're checking out."
+            },
+            {
+                "role": "B",
+                "sentence": "You have read it?"
+            },
+            {
+                "role": "A",
+                "sentence": "Read it? I memorized it! It's one of my favorites."
+            },
+            {
+                "role": "B",
+                "sentence": "That's good to know."
+            },
+            {
+                "role": "A",
+                "sentence": "You should check out more books."
+            },
+            {
+                "role": "B",
+                "sentence": "I can check out more than one?"
+            },
+            {
+                "role": "A",
+                "sentence": "Of course! It would be crazy if you could only get one book."
+            },
+            {
+                "role": "B",
+                "sentence": "That's awesome! I'll be back."
+            },
+            {
+                "role": "A",
+                "sentence": "Don't go crazy now. The limit is 15 books."
+            },
+            {
+                "role": "B",
+                "sentence": "Don't worry. I'll probably come back with 5 more books."
+            },
+            {
+                "role": "A",
+                "sentence": "It's great to see a kid excited about reading."
+            },
+            {
+                "role": "B",
+                "sentence": "Yeah, most kids hate reading. They're more into television."
+            }
+        ]
+    },
+    {
+        "id": "042e0f330cea440c8677535b8eb4b63d",
+        "title": "Checking Out a Magazine",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Now, you can only check out this magazine for one week."
+            },
+            {
+                "role": "B",
+                "sentence": "Why one week? I thought the borrowing time was two weeks."
+            },
+            {
+                "role": "A",
+                "sentence": "That's for books only."
+            },
+            {
+                "role": "B",
+                "sentence": "Oh, that's weird."
+            },
+            {
+                "role": "A",
+                "sentence": "Well, it doesn't take that long to finish a magazine."
+            },
+            {
+                "role": "B",
+                "sentence": "I know, but I like to take my time."
+            },
+            {
+                "role": "A",
+                "sentence": "I don't make the rules. Would you like to check it out?"
+            },
+            {
+                "role": "B",
+                "sentence": "Yes, I'd like to check it out."
+            },
+            {
+                "role": "A",
+                "sentence": "Interesting magazine choice. Reading about celebrities is not really smart of you."
+            },
+            {
+                "role": "B",
+                "sentence": "Don't judge me. I can't read educational stuff all the time."
+            },
+            {
+                "role": "A",
+                "sentence": "I do! I read Time and National Geographic."
+            },
+            {
+                "role": "B",
+                "sentence": "Everyone's taste is different."
+            }
+        ]
+    },
+    {
+        "id": "373a5bbd845443de8bcb4f7cacebe400",
+        "title": "Checking Out a Video",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "How long do you want to check that video out for?"
+            },
+            {
+                "role": "B",
+                "sentence": "One week would be nice."
+            },
+            {
+                "role": "A",
+                "sentence": "That will be $5."
+            },
+            {
+                "role": "B",
+                "sentence": "What?! I thought I could check out videos for free."
+            },
+            {
+                "role": "A",
+                "sentence": "You can check out educational videos for free."
+            },
+            {
+                "role": "B",
+                "sentence": "This is bogus."
+            },
+            {
+                "role": "A",
+                "sentence": "It's still not a bad price."
+            },
+            {
+                "role": "B",
+                "sentence": "Okay, what if I only borrow it for a day?"
+            },
+            {
+                "role": "A",
+                "sentence": "It will be $2."
+            },
+            {
+                "role": "B",
+                "sentence": "Okay, here's $2. So much for a library that services the public."
+            },
+            {
+                "role": "A",
+                "sentence": "I hope you enjoy the movie."
+            },
+            {
+                "role": "B",
+                "sentence": "For 2 bucks, I'd better love the movie."
+            }
+        ]
+    },
+    {
+        "id": "ba3ef23dd2b74fe5a0f0d01dbd9b9d5e",
+        "title": "Checking Books for Damage",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "There's a huge rip here."
+            },
+            {
+                "role": "B",
+                "sentence": "But there's tape on it!"
+            },
+            {
+                "role": "A",
+                "sentence": "Did you put the tape there?"
+            },
+            {
+                "role": "B",
+                "sentence": "No, it was there before."
+            },
+            {
+                "role": "A",
+                "sentence": "I know you're lying to me."
+            },
+            {
+                "role": "B",
+                "sentence": "If you know, then why did you ask if I put the tape on?"
+            },
+            {
+                "role": "A",
+                "sentence": "I wanted to see if you were a liar or not."
+            },
+            {
+                "role": "B",
+                "sentence": "How did you know I'm lying?"
+            },
+            {
+                "role": "A",
+                "sentence": "Before you check out the book, the librarian checks it for damage."
+            },
+            {
+                "role": "B",
+                "sentence": "Wow, you guys think of everything."
+            },
+            {
+                "role": "A",
+                "sentence": "Yes. Anyways, you owe $10."
+            },
+            {
+                "role": "B",
+                "sentence": "Fine, here you go."
+            }
+        ]
+    },
+    {
+        "id": "8d23e25f19ff4d2597dfe1b54f6b6bb1",
+        "title": "Barely Late",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Here are the books I'm returning."
+            },
+            {
+                "role": "B",
+                "sentence": "Looks like they're late. The late fee is $5."
+            },
+            {
+                "role": "A",
+                "sentence": "Okay, I'm only one minute late."
+            },
+            {
+                "role": "B",
+                "sentence": "One minute late, one month late, one year late, it doesn't matter."
+            },
+            {
+                "role": "A",
+                "sentence": "Are you kidding me? There's a big difference between one minute and one month."
+            },
+            {
+                "role": "B",
+                "sentence": "Look, the point is - they're late."
+            },
+            {
+                "role": "A",
+                "sentence": "Screw you! I ain't payin $5."
+            },
+            {
+                "role": "B",
+                "sentence": "I guess you'll never borrow another book, magazine, or video here ever again."
+            },
+            {
+                "role": "A",
+                "sentence": "It's okay, because I don't even like this library."
+            },
+            {
+                "role": "B",
+                "sentence": "This library doesn't like you either!"
+            },
+            {
+                "role": "A",
+                "sentence": "I am leaving! You are plain rude."
+            },
+            {
+                "role": "B",
+                "sentence": "Leave! Nobody wants to see you."
+            }
+        ]
+    },
+    {
+        "id": "cfcb89df1925477c98b14006fefe8bd0",
+        "title": "Computer Limit",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Miss, you have been using the computer for over an hour now."
+            },
+            {
+                "role": "B",
+                "sentence": "I know, I'm sorry."
+            },
+            {
+                "role": "A",
+                "sentence": "Are you looking for something?"
+            },
+            {
+                "role": "B",
+                "sentence": "I'm researching for my project."
+            },
+            {
+                "role": "A",
+                "sentence": "Can you come back tomorrow? Your daily computer limit time is up."
+            },
+            {
+                "role": "B",
+                "sentence": "I don't have a computer at home."
+            },
+            {
+                "role": "A",
+                "sentence": "I'm sorry to hear that, but other people need to use the computer, too."
+            },
+            {
+                "role": "B",
+                "sentence": "My project is due very soon. I need to research."
+            },
+            {
+                "role": "A",
+                "sentence": "How about books? This is a library after all."
+            },
+            {
+                "role": "B",
+                "sentence": "I looked for books on my project. They're not good at all."
+            },
+            {
+                "role": "A",
+                "sentence": "Maybe you don't know how to look for good books. I'll help you."
+            },
+            {
+                "role": "B",
+                "sentence": "Thank you. I appreciate it."
+            }
+        ]
+    },
+    {
+        "id": "fca3c8aae29f467591e1ec70f1d04924",
+        "title": "Using a Copier",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "How much do I need to insert here to make one copy?"
+            },
+            {
+                "role": "B",
+                "sentence": "It depends. Do you want your copy in color or black and white?"
+            },
+            {
+                "role": "A",
+                "sentence": "I want it in color."
+            },
+            {
+                "role": "B",
+                "sentence": "Then it will be 20 cents per page."
+            },
+            {
+                "role": "A",
+                "sentence": "That's kind of expensive."
+            },
+            {
+                "role": "B",
+                "sentence": "Yeah, but most of us don't have a copy machine of our own."
+            },
+            {
+                "role": "A",
+                "sentence": "I have one, but it's broken."
+            },
+            {
+                "role": "B",
+                "sentence": "That sucks. Well, if money's an issue, you can copy your stuff in black and white."
+            },
+            {
+                "role": "A",
+                "sentence": "No, it has to be color."
+            },
+            {
+                "role": "B",
+                "sentence": "Do you really not have 20 cents?"
+            },
+            {
+                "role": "A",
+                "sentence": "I do, but I'm really cheap."
+            },
+            {
+                "role": "B",
+                "sentence": "Well, you don't really have a choice at this point."
+            }
+        ]
+    },
+    {
+        "id": "fee5c254f3cc4df88d9a88dc526eb32f",
+        "title": "People at the Printer",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Why is the printer line so long?"
+            },
+            {
+                "role": "B",
+                "sentence": "It's finals week."
+            },
+            {
+                "role": "A",
+                "sentence": "Oh yeah, you're right."
+            },
+            {
+                "role": "B",
+                "sentence": "This happens every year, so I got smarter."
+            },
+            {
+                "role": "A",
+                "sentence": "What do you mean?"
+            },
+            {
+                "role": "B",
+                "sentence": "I printed my stuff for finals at home."
+            },
+            {
+                "role": "A",
+                "sentence": "Oh, that is smart. I have to get in line now."
+            },
+            {
+                "role": "B",
+                "sentence": "What do you have to print?"
+            },
+            {
+                "role": "A",
+                "sentence": "I have to print some notes."
+            },
+            {
+                "role": "B",
+                "sentence": "Good luck. You'll be waiting here for a long time."
+            },
+            {
+                "role": "A",
+                "sentence": "I bet the ink and paper will go out."
+            },
+            {
+                "role": "B",
+                "sentence": "If that happens, you're in trouble."
+            }
+        ]
+    },
+    {
+        "id": "17d99bb7335743be9e50e2825c67b214",
+        "title": "Be Quiet",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Can you please shut up?"
+            },
+            {
+                "role": "B",
+                "sentence": "Maybe if you ask nicely, I will!"
+            },
+            {
+                "role": "A",
+                "sentence": "This is a library, so you have to shut up."
+            },
+            {
+                "role": "B",
+                "sentence": "I didn't know laughing was a crime."
+            },
+            {
+                "role": "A",
+                "sentence": "It's a crime in the library."
+            },
+            {
+                "role": "B",
+                "sentence": "You're just jealous, because I'm having a good time, and you're not."
+            },
+            {
+                "role": "A",
+                "sentence": "No, that's not it at all."
+            },
+            {
+                "role": "B",
+                "sentence": "I'll shut up if you say you're sorry."
+            },
+            {
+                "role": "A",
+                "sentence": "Sorry for what? If anything, you should say sorry."
+            },
+            {
+                "role": "B",
+                "sentence": "Okay, fine. I'm sorry that your parents didn't teach you how to be nice."
+            },
+            {
+                "role": "A",
+                "sentence": "That does it. I'm getting a librarian."
+            },
+            {
+                "role": "B",
+                "sentence": "Go get one!"
+            }
+        ]
+    },
+    {
+        "id": "f74a25fadee64f4fae8ad0c4fd8d9f13",
+        "title": "The Library Restroom",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "Do you have a restroom?"
+            },
+            {
+                "role": "B",
+                "sentence": "Only for employees."
+            },
+            {
+                "role": "A",
+                "sentence": "But I really need to go."
+            },
+            {
+                "role": "B",
+                "sentence": "I can't let you go. There's a restroom in the market across from us though."
+            },
+            {
+                "role": "A",
+                "sentence": "That restroom is really dirty. It smells like someone died in there."
+            },
+            {
+                "role": "B",
+                "sentence": "Fine, I'll take you to our restroom."
+            },
+            {
+                "role": "A",
+                "sentence": "Yay! Thank you so much."
+            },
+            {
+                "role": "B",
+                "sentence": "We have to go secretly. If anyone sees you use the restroom, I'll be fired."
+            },
+            {
+                "role": "A",
+                "sentence": "Don't worry. I will be small and quiet as a mouse."
+            },
+            {
+                "role": "B",
+                "sentence": "Okay, good. The password is 595. Go quickly before anyone sees you."
+            },
+            {
+                "role": "A",
+                "sentence": "Thank you for your kindness."
+            },
+            {
+                "role": "B",
+                "sentence": "You owe me if we ever see each other again."
+            }
+        ]
+    },
+    {
+        "id": "09432ecb464545498282721ccc0998cf",
+        "title": "Volunteering at the Library",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "You should volunteer at the library with me!"
+            },
+            {
+                "role": "B",
+                "sentence": "What's so good about volunteering there?"
+            },
+            {
+                "role": "A",
+                "sentence": "It's fun, and you feel good about yourself."
+            },
+            {
+                "role": "B",
+                "sentence": "What do you do there?"
+            },
+            {
+                "role": "A",
+                "sentence": "Everyone does different things. I organize events."
+            },
+            {
+                "role": "B",
+                "sentence": "What kind of events?"
+            },
+            {
+                "role": "A",
+                "sentence": "Movies, art and crafts, magic shows, and more."
+            },
+            {
+                "role": "B",
+                "sentence": "That does sound fun!"
+            },
+            {
+                "role": "A",
+                "sentence": "Do you want to sign up?"
+            },
+            {
+                "role": "B",
+                "sentence": "Yeah, how do I sign up?"
+            },
+            {
+                "role": "A",
+                "sentence": "I'll get you an application."
+            }
+        ]
+    },
+    {
+        "id": "4ffcf43b469e4bbc93f76960414133d9",
+        "title": "Studying at the Library",
+        "sentences": [
+            {
+                "role": "A",
+                "sentence": "I can't study at home, because my family talks so loudly."
+            },
+            {
+                "role": "B",
+                "sentence": "Study at the library."
+            },
+            {
+                "role": "A",
+                "sentence": "Can you focus in there?"
+            },
+            {
+                "role": "B",
+                "sentence": "Yes, it's always really quiet."
+            },
+            {
+                "role": "A",
+                "sentence": "I'll go today."
+            },
+            {
+                "role": "B",
+                "sentence": "Make sure you get a good seat."
+            },
+            {
+                "role": "A",
+                "sentence": "Are there not enough seats for everyone?"
+            },
+            {
+                "role": "B",
+                "sentence": "It depends on when you go."
+            },
+            {
+                "role": "A",
+                "sentence": "I'm going at 1:00 a.m."
+            },
+            {
+                "role": "B",
+                "sentence": "Dude, it's not even open that late."
+            },
+            {
+                "role": "A",
+                "sentence": "But that's the best time for me."
+            },
+            {
+                "role": "B",
+                "sentence": "You can always try a cafe. They tend to close late or not at all."
+            }
+        ]
+    }
+]

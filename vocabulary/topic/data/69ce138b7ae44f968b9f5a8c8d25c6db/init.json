@@ -1,0 +1,823 @@
+[
+    {
+        "id": "0965c90ca7114be396212df8893ac0d7",
+        "word": "date",
+        "pos": "noun",
+        "level": "a1",
+        "phonetic": {
+            "uk": "/deɪt/",
+            "us": "/deɪt/"
+        },
+        "nearby": [
+            {
+                "word": "data warehouse",
+                "pos": "noun"
+            },
+            {
+                "word": "data warehousing",
+                "pos": "noun"
+            },
+            {
+                "word": "date",
+                "pos": "noun"
+            },
+            {
+                "word": "date",
+                "pos": "verb"
+            },
+            {
+                "word": "dateable",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a particular day of the month, sometimes in a particular year, given in numbers and words",
+                    "vi": "một ngày cụ thể trong tháng, đôi khi trong một năm cụ thể, được đưa ra bằng số và từ"
+                },
+                "examples": [
+                    {
+                        "en": "‘What's the date today?’ ‘The 10th.’",
+                        "vi": "Hôm nay là ngày mấy?' 'Ngày 10.'"
+                    },
+                    {
+                        "en": "Write today's date at the top of the page.",
+                        "vi": "Viết ngày hôm nay ở đầu trang."
+                    },
+                    {
+                        "en": "They haven't set a date for the wedding yet.",
+                        "vi": "Họ vẫn chưa ấn định ngày tổ chức đám cưới."
+                    },
+                    {
+                        "en": "We need to fix a date for the next meeting.",
+                        "vi": "Chúng ta cần ấn định một ngày cho cuộc họp tiếp theo."
+                    },
+                    {
+                        "en": "I can't come on that date.",
+                        "vi": "Tôi không thể đến vào ngày đó."
+                    },
+                    {
+                        "en": "Please give your name, address and date of birth.",
+                        "vi": "Vui lòng cho biết tên, địa chỉ và ngày sinh của bạn."
+                    },
+                    {
+                        "en": "(especially North American English) name, address and birth date",
+                        "vi": "(đặc biệt là tiếng Anh Bắc Mỹ) tên, địa chỉ và ngày sinh"
+                    },
+                    {
+                        "en": "There's no word yet on a UK release date for the film.",
+                        "vi": "Vẫn chưa có thông tin nào về ngày phát hành tại Vương quốc Anh cho bộ phim."
+                    },
+                    {
+                        "en": "a start/launch/completion date",
+                        "vi": "ngày bắt đầu / ra mắt / hoàn thành"
+                    },
+                    {
+                        "en": "There's no date on this letter.",
+                        "vi": "Không có ngày tháng trên lá thư này."
+                    },
+                    {
+                        "en": "Anyone who knows of the vehicle’s whereabouts from that date until 31 October is asked to contact Bangor police station.",
+                        "vi": "Bất cứ ai biết về nơi ở của chiếc xe từ ngày đó cho đến ngày 31 tháng 10 được yêu cầu liên hệ với đồn cảnh sát Bangor."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a particular day or year when a particular event happened or will happen",
+                    "vi": "một ngày hoặc năm cụ thể khi một sự kiện cụ thể đã xảy ra hoặc sẽ xảy ra"
+                },
+                "examples": [
+                    {
+                        "en": "1066 is the most famous date in English history.",
+                        "vi": "1066 là ngày nổi tiếng nhất trong lịch sử nước Anh."
+                    },
+                    {
+                        "en": "the biggest date in the country music calendar",
+                        "vi": "ngày lớn nhất trong lịch âm nhạc quốc gia"
+                    },
+                    {
+                        "en": "I hated history at school—I could never remember all those dates.",
+                        "vi": "Tôi ghét môn lịch sử ở trường — tôi không bao giờ có thể nhớ được tất cả những ngày tháng đó."
+                    },
+                    {
+                        "en": "What were Beethoven's dates (= the years of his birth and death)?",
+                        "vi": "Ngày sinh của Beethoven (= năm sinh và mất của ông) là gì?"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a time in the past or future that is not a particular day",
+                    "vi": "một thời điểm trong quá khứ hoặc tương lai không phải là một ngày cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "The details can be added at a later date.",
+                        "vi": "Các chi tiết có thể được thêm vào một ngày sau đó."
+                    },
+                    {
+                        "en": "The work will be carried out at a future date.",
+                        "vi": "Công việc sẽ được thực hiện vào một ngày trong tương lai."
+                    },
+                    {
+                        "en": "This was an important trade route from an early date.",
+                        "vi": "Đây là một con đường thương mại quan trọng ngay từ ngày đầu."
+                    },
+                    {
+                        "en": "a building of late Roman date",
+                        "vi": "một tòa nhà có niên đại La Mã muộn"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "an arrangement to meet somebody at a particular time",
+                    "vi": "một sự sắp xếp để gặp ai đó vào một thời điểm cụ thể"
+                },
+                "examples": [
+                    {
+                        "en": "Call me next week and we'll try and make a date.",
+                        "vi": "Hãy gọi cho tôi vào tuần tới và chúng tôi sẽ thử và hẹn ngày."
+                    },
+                    {
+                        "en": "Next Friday? Fine—it's a date!",
+                        "vi": "Thứ Sáu tới? Tốt thôi — đó là một buổi hẹn hò!"
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a meeting that you have arranged with a boyfriend or girlfriend or with somebody who might become a boyfriend or girlfriend",
+                    "vi": "một cuộc gặp mà bạn đã sắp xếp với bạn trai hoặc bạn gái hoặc với ai đó có thể trở thành bạn trai hoặc bạn gái"
+                },
+                "examples": [
+                    {
+                        "en": "a date with somebody I've got a date with Lucy tomorrow night.",
+                        "vi": "hẹn hò với ai đó. Tôi đã hẹn hò với Lucy vào tối mai."
+                    },
+                    {
+                        "en": "on a date We agreed to go out on a date.",
+                        "vi": "vào một buổi hẹn Chúng tôi đã đồng ý hẹn hò."
+                    },
+                    {
+                        "en": "Do you think I should ask him out on a date?",
+                        "vi": "Bạn có nghĩ tôi nên hẹn anh ấy đi chơi không?"
+                    },
+                    {
+                        "en": "Paul's not coming. He's got a hot date (= an exciting one).",
+                        "vi": "Paul sẽ không đến. Anh ấy có một buổi hẹn hò hấp dẫn (= một buổi hẹn hò thú vị)."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a boyfriend or girlfriend with whom you have arranged a date",
+                    "vi": "bạn trai hoặc bạn gái mà bạn đã sắp xếp một buổi hẹn hò"
+                },
+                "examples": [
+                    {
+                        "en": "My date is meeting me at seven.",
+                        "vi": "Tôi hẹn gặp tôi lúc bảy giờ."
+                    },
+                    {
+                        "en": "I need to find a date for Friday.",
+                        "vi": "Tôi cần tìm một ngày cho thứ sáu."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a sweet sticky brown fruit that grows on a tree called a date palm, common in North Africa and West Asia",
+                    "vi": "một loại quả màu nâu dính ngọt mọc trên cây gọi là cây chà là, phổ biến ở Bắc Phi và Tây Á"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "until now",
+                    "vi": "cho đến bây giờ"
+                },
+                "examples": [
+                    {
+                        "en": "To date, we have received over 200 replies.",
+                        "vi": "Đến nay, chúng tôi đã nhận được hơn 200 thư trả lời."
+                    },
+                    {
+                        "en": "The exhibition contains some of his best work to date.",
+                        "vi": "Triển lãm có một số tác phẩm hay nhất của anh ấy cho đến nay."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8e82c4cbc6a547b7846a2f5deae55d6a",
+        "word": "AD",
+        "pos": "abbreviation",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌeɪ ˈdiː/",
+            "us": "/ˌeɪ ˈdiː/"
+        },
+        "nearby": [
+            {
+                "word": "acyclovir",
+                "pos": "noun"
+            },
+            {
+                "word": "ad",
+                "pos": "noun"
+            },
+            {
+                "word": "AD",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "adage",
+                "pos": "noun"
+            },
+            {
+                "word": "adagio",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "used in the Christian calendar to show a particular number of years since the year when Christ was believed to have been born (from Latin ‘Anno Domini’)",
+                    "vi": "được sử dụng trong lịch Kitô giáo để hiển thị một số năm cụ thể kể từ năm mà người ta tin rằng Chúa Kitô đã được sinh ra (từ tiếng Latinh 'Anno Domini')"
+                },
+                "examples": [
+                    {
+                        "en": "in (the year) AD 55",
+                        "vi": "vào (năm) năm 55 sau Công nguyên"
+                    },
+                    {
+                        "en": "in 55 AD",
+                        "vi": "vào năm 55 sau Công Nguyên"
+                    },
+                    {
+                        "en": "in the fifth century AD",
+                        "vi": "vào thế kỷ thứ năm sau Công nguyên"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5226bca5f2d84ddca3928217422601b9",
+        "word": "BC",
+        "pos": "abbreviation",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌbiː ˈsiː/",
+            "us": "/ˌbiː ˈsiː/"
+        },
+        "nearby": [
+            {
+                "word": "BB gun",
+                "pos": "noun"
+            },
+            {
+                "word": "BBQ",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "BC",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "bcc",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "bcc",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "before Christ (used in the Christian calendar to show a particular number of years before the year when Christ is believed to have been born)",
+                    "vi": "trước Chúa Kitô (được sử dụng trong lịch Kitô giáo để hiển thị một số năm cụ thể trước năm mà Chúa Kitô được cho là đã được sinh ra)"
+                },
+                "examples": [
+                    {
+                        "en": "in (the year) 2000 BC",
+                        "vi": "vào (năm) 2000 trước Công nguyên"
+                    },
+                    {
+                        "en": "the third century BC",
+                        "vi": "thế kỷ thứ ba trước Công nguyên"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "01bfa4d10350491cb0d1da8f80126131",
+        "word": "BCE",
+        "pos": "abbreviation",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌbiː siː ˈiː/",
+            "us": "/ˌbiː siː ˈiː/"
+        },
+        "nearby": [
+            {
+                "word": "bcc",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "bcc",
+                "pos": "verb"
+            },
+            {
+                "word": "BCE",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "BDD",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "be",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "before the Common Era (before the birth of Christ, when the Christian calendar starts counting years. BCE can be used to give dates in the same way as BC)",
+                    "vi": "trước Công nguyên (trước khi Chúa giáng sinh, khi lịch Cơ đốc bắt đầu đếm năm. BCE có thể được dùng để đưa ra ngày tháng giống như trước Công nguyên)"
+                },
+                "examples": [
+                    {
+                        "en": "in (the year) 2 000 BCE",
+                        "vi": "trong (năm) 2000 TCN"
+                    },
+                    {
+                        "en": "the third century BCE",
+                        "vi": "thế kỷ thứ ba trước công nguyên"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e2b0d4dc2aa543b19ace20738a72b63a",
+        "word": "CE",
+        "pos": "abbreviation",
+        "level": "c1",
+        "phonetic": {
+            "uk": "/ˌsiː ˈiː/",
+            "us": "/ˌsiː ˈiː/"
+        },
+        "nearby": [
+            {
+                "word": "CDT",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "CD writer",
+                "pos": "noun"
+            },
+            {
+                "word": "CE",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "cease",
+                "pos": "verb"
+            },
+            {
+                "word": "cease-and-desist",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "Church of England",
+                    "vi": "Nhà thờ nước Anh"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "Common Era (the period since the birth of Christ when the Christian calendar starts counting years). CE can be used to give dates in the same way as AD.",
+                    "vi": "Thời đại chung (khoảng thời gian kể từ khi Chúa giáng sinh khi lịch Cơ đốc bắt đầu tính năm). CE có thể được sử dụng để cung cấp ngày tháng giống như AD."
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "4f8ea7ce8ca443fe8ac6b2194e6ce45d",
+        "word": "AH",
+        "pos": "abbreviation",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌeɪ ˈeɪtʃ/",
+            "us": "/ˌeɪ ˈeɪtʃ/"
+        },
+        "nearby": [
+            {
+                "word": "ague",
+                "pos": "noun"
+            },
+            {
+                "word": "ah",
+                "pos": "exclamation"
+            },
+            {
+                "word": "AH",
+                "pos": "abbreviation"
+            },
+            {
+                "word": "aha",
+                "pos": "exclamation"
+            },
+            {
+                "word": "Captain Ahab",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "used in the Muslim calendar to show a particular number of years since the year when Muhammad left Mecca in AD 622 (from Latin ‘Anno Hegirae’)",
+                    "vi": "được sử dụng trong lịch Hồi giáo để hiển thị một số năm cụ thể kể từ năm Muhammad rời Mecca vào năm 622 sau Công nguyên (từ tiếng Latinh 'Anno Hegirae')"
+                },
+                "examples": [
+                    {
+                        "en": "a Koran dated 556 AH",
+                        "vi": "một kinh Koran ngày 556 AH"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1041672d2a284b34883a6c485f53968c",
+        "word": "bicentenary",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌbaɪsenˈtiːnəri/",
+            "us": "/ˌbaɪsenˈtenəri/"
+        },
+        "nearby": [
+            {
+                "word": "bicarbonate",
+                "pos": "noun"
+            },
+            {
+                "word": "bicarbonate of soda",
+                "pos": "noun"
+            },
+            {
+                "word": "bicentenary",
+                "pos": "noun"
+            },
+            {
+                "word": "bicentenary",
+                "pos": "adjective"
+            },
+            {
+                "word": "bicentennial",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the year, or the day, when you celebrate an important event that happened exactly 200 years earlier",
+                    "vi": "năm hoặc ngày mà bạn kỷ niệm một sự kiện quan trọng đã xảy ra đúng 200 năm trước đó"
+                },
+                "examples": [
+                    {
+                        "en": "Mozart’s bicentenary",
+                        "vi": "Nhị thập niên của Mozart"
+                    },
+                    {
+                        "en": "to celebrate/mark the bicentenary of somebody/something",
+                        "vi": "kỷ niệm / đánh dấu kỷ niệm hai năm của ai đó / điều gì đó"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ffec54dbe85248febef23a486db2eb0e",
+        "word": "bicentenary",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌbaɪsenˈtiːnəri/",
+            "us": "/ˌbaɪsenˈtenəri/"
+        },
+        "nearby": [
+            {
+                "word": "bicarbonate of soda",
+                "pos": "noun"
+            },
+            {
+                "word": "bicentenary",
+                "pos": "noun"
+            },
+            {
+                "word": "bicentenary",
+                "pos": "adjective"
+            },
+            {
+                "word": "bicentennial",
+                "pos": "noun"
+            },
+            {
+                "word": "bicentennial",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "connected with the year, or the day, when you celebrate an important event that happened exactly 200 years earlier",
+                    "vi": "được kết nối với năm hoặc ngày khi bạn kỷ niệm một sự kiện quan trọng đã xảy ra chính xác 200 năm trước đó"
+                },
+                "examples": [
+                    {
+                        "en": "bicentenary celebrations",
+                        "vi": "lễ kỷ niệm hai năm"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e14bf8e96e334b8999c58816dca52b29",
+        "word": "bicentennial",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌbaɪsenˈteniəl/",
+            "us": "/ˌbaɪsenˈteniəl/"
+        },
+        "nearby": [
+            {
+                "word": "bicentenary",
+                "pos": "noun"
+            },
+            {
+                "word": "bicentenary",
+                "pos": "adjective"
+            },
+            {
+                "word": "bicentennial",
+                "pos": "noun"
+            },
+            {
+                "word": "bicentennial",
+                "pos": "adjective"
+            },
+            {
+                "word": "biceps",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the year, or the day, when you celebrate an important event that happened exactly 200 years earlier",
+                    "vi": "năm hoặc ngày mà bạn kỷ niệm một sự kiện quan trọng đã xảy ra đúng 200 năm trước đó"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "cadfc03aa5e64883827976bde30508de",
+        "word": "bicentennial",
+        "pos": "adjective",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌbaɪsenˈteniəl/",
+            "us": "/ˌbaɪsenˈteniəl/"
+        },
+        "nearby": [
+            {
+                "word": "bicentenary",
+                "pos": "adjective"
+            },
+            {
+                "word": "bicentennial",
+                "pos": "noun"
+            },
+            {
+                "word": "bicentennial",
+                "pos": "adjective"
+            },
+            {
+                "word": "biceps",
+                "pos": "noun"
+            },
+            {
+                "word": "bicker",
+                "pos": "verb"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "connected with the year, or the day, when you celebrate an important event that happened exactly 200 years earlier",
+                    "vi": "được kết nối với năm hoặc ngày khi bạn kỷ niệm một sự kiện quan trọng đã xảy ra chính xác 200 năm trước đó"
+                },
+                "examples": [
+                    {
+                        "en": "bicentennial celebrations",
+                        "vi": "lễ kỷ niệm hai năm một lần"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "52898c4f39324e71b3f29d4a0ff4b705",
+        "word": "centenary",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/senˈtiːnəri/",
+            "us": "/senˈtenəri/"
+        },
+        "nearby": [
+            {
+                "word": "CENTCOM",
+                "pos": ""
+            },
+            {
+                "word": "centenarian",
+                "pos": "noun"
+            },
+            {
+                "word": "centenary",
+                "pos": "noun"
+            },
+            {
+                "word": "centennial",
+                "pos": "noun"
+            },
+            {
+                "word": "center",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the 100th anniversary of an event",
+                    "vi": "kỷ niệm 100 năm của một sự kiện"
+                },
+                "examples": [
+                    {
+                        "en": "The club will celebrate its centenary next year.",
+                        "vi": "Câu lạc bộ sẽ kỷ niệm một trăm năm thành lập vào năm tới."
+                    },
+                    {
+                        "en": "the centenary year",
+                        "vi": "năm trăm năm"
+                    },
+                    {
+                        "en": "centenary celebrations",
+                        "vi": "lễ kỷ niệm trăm năm"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "321eb2271afa46b684d1689cab196205",
+        "word": "Gregorian calendar",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ɡrɪˌɡɔːriən ˈkælɪndə(r)/",
+            "us": "/ɡrɪˌɡɔːriən ˈkælɪndər/"
+        },
+        "nearby": [
+            {
+                "word": "gregariously",
+                "pos": "adverb"
+            },
+            {
+                "word": "gregariousness",
+                "pos": "noun"
+            },
+            {
+                "word": "Gregorian calendar",
+                "pos": "noun"
+            },
+            {
+                "word": "Gregorian chant",
+                "pos": "noun"
+            },
+            {
+                "word": "Gregory",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the system used since 1582 in Western countries of arranging the months in the year and the days in the months and of counting the years from the birth of Christ",
+                    "vi": "Hệ thống được sử dụng từ năm 1582 ở các nước phương Tây để sắp xếp các tháng trong năm và các ngày trong tháng và đếm các năm kể từ khi Chúa giáng sinh"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "ab64a7b9b0224fbf9e6079269a72535b",
+        "word": "Julian calendar",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˌdʒuːliən ˈkælɪndə(r)/",
+            "us": "/ˌdʒuːliən ˈkælɪndər/"
+        },
+        "nearby": [
+            {
+                "word": "Julia",
+                "pos": ""
+            },
+            {
+                "word": "Julian",
+                "pos": ""
+            },
+            {
+                "word": "Julian calendar",
+                "pos": "noun"
+            },
+            {
+                "word": "Julie",
+                "pos": ""
+            },
+            {
+                "word": "julienne",
+                "pos": "adjective"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the system of arranging days and months in the year introduced by Julius Caesar, and used in Western countries until the Gregorian calendar replaced it",
+                    "vi": "hệ thống sắp xếp ngày và tháng trong năm do Julius Caesar đưa ra và được sử dụng ở các nước phương Tây cho đến khi lịch Gregorian thay thế nó"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "7d59081ed1b04bc19c1cbc99219217ec",
+        "word": "the noughties",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ðə ˈnɔːtiz/",
+            "us": "/ðə ˈnɔːtiz/"
+        },
+        "nearby": [
+            {
+                "word": "nought",
+                "pos": "noun"
+            },
+            {
+                "word": "noughth week",
+                "pos": ""
+            },
+            {
+                "word": "the noughties",
+                "pos": "noun"
+            },
+            {
+                "word": "noughts and crosses",
+                "pos": "noun"
+            },
+            {
+                "word": "noun",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "the years from 2000 to 2009",
+                    "vi": "những năm từ 2000 đến 2009"
+                },
+                "examples": []
+            }
+        ]
+    }
+]

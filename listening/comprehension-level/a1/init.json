@@ -1,0 +1,2728 @@
+[
+    {
+        "id": "c95e4960b01d425f814abfa6e55f0a0e",
+        "name": "A good night's sleep",
+        "transcript": "Host: At exam time it is important to sleep well. Today we have Doctor Baker with us in the studio and he is going to give us five top tips for getting a good night’s sleep. Welcome to the show, Doctor Baker. \nDr Baker: Thank you. It’s great to be here. Let’s start with tip one. Don’t go to bed with the television on. Some people think they can sleep well with the TV on, but the noise and lights mean you don’t really sleep well, so turn it off!\nTip two: Don’t think too much before bedtime. Do your hardest homework earlier in the evening. Do easier homework later. If your brain is too busy and full of ideas it takes longer to get to sleep.\nTip three: Don’t play video games for an hour before you go to sleep. They also make your brain too busy and active. \nTip four: Turn off your cell phone when you go to bed. What is so important that it can’t wait until the morning? If possible, leave your phone in another room. \nTip five: Play music if you like. But don’t play it too loud. Turn the sound down low.\nHost: Thank you, Doctor. That is very useful advice for our young listeners.",
+        "questions": [
+            {
+                "id": "2610c119da44489686cf9cb79e87aa00",
+                "text": "The guest in the studio is a teacher.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "5d9868e5ddbd426083f7e2bd5368b3a5",
+                "text": "Some people can sleep well with a television on.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "baffa97d5fa24eaf8f3ba22e8d8a04ca",
+                "text": "It is bad to think a lot before going to bed.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "e0f28d0072144735a176aa576f016ba4",
+                "text": "It is good to play video games before bed.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "5e12cd325ac8454ab5bc61903d3b1b58",
+                "text": "It is good to turn your mobile off when you go to bed.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "e16f81d805e140c9af90340150fc6f17",
+                "text": "It is bad to play loud music while you sleep.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    {
+        "id": "b72327c641b04188a522c13580d843a9",
+        "name": "At the library - giving personal information",
+        "transcript": "Lucy: Hello.\nSchool librarian: Hello, what’s your name?\nLucy: My name's Lucy.\nSchool librarian: And what's your surname, Lucy?\nLucy: Moore.\nSchool librarian: Can you spell that?\nLucy: M-O-O-R-E.\nSchool librarian: Thank you. What class are you in?\nLucy: Class 1B.\nSchool librarian: Class 1B. And how old are you, Lucy?\nLucy: I'm 13.\nSchool librarian: Have you got a photo?\nLucy: Yes, here you are.\nSchool librarian: Thank you ... OK, thank you, Lucy. Here's your school library card.\nLucy: Thanks. Bye.\nSchool librarian: Goodbye.",
+        "questions": [
+            {
+                "id": "ed052f5fa9034f06b71ca7c75f7e7752",
+                "text": "Lucy's surname is ...",
+                "answers": [
+                    "More",
+                    "Moor",
+                    "Moore"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "7bd482ea35204f68b374349712e8fdd8",
+                "text": "She's in class ...",
+                "answers": [
+                    "1C",
+                    "1B",
+                    "4B"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "0886122fa1144914aa4f94a71bbed88d",
+                "text": "Lucy is ...",
+                "answers": [
+                    "13",
+                    "14",
+                    "15"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "ec21733b81ae4ab2a20c35e60ec3f5bd",
+                "text": "The librarian asks for Lucy's ...",
+                "answers": [
+                    "address",
+                    "photo",
+                    "passport"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "a27221bce3784c5a9c5a2b5a530edafe",
+        "name": "Band auditions",
+        "transcript": "Boy: Ah, band auditions. Great! I’d love to be in a band! ... Hi. Is this the band audition?\nGirl: Hello. Yes. So, you'd like to be in our band?\nBoy: Yes, I love music.\nGirl: Well, we need a singer, a guitarist and a drummer.\nBoy: Oh, I love singing!\nGirl: OK, so you can sing. Let’s sing the beginning of this song.\nBoy: (singing) Tonight I'm going to have myself a real good time. I feel alive ...\nGirl: Right, OK, mmm, maybe not. Can you play an instrument?\nBoy: Er, well, I can play the guitar a little.\nGirl: OK, let's hear you. What can you play? ... That's it?\nBoy: Er, yeah. I can't remember any more.\nGirl: Erm, can you play the drums?\nBoy: Yeah, sure.\nGirl: OK! OK! STOP! That's enough. Erm, what about the maracas? Can you play the maracas?\nBoy: Yes, I can. (singing) Young and strong and ... er ...\nGirl: Great, great! Hmm ... thanks for coming. I’ll call you next week.",
+        "questions": [
+            {
+                "id": "40b096c6aae647ff887f93da98338f66",
+                "text": "The boy wants to be in the band.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "5f374e0005504a689eaa69d70d1eeb6d",
+                "text": "He doesn't like singing.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "2e4b6ea62a72491f8a903c6b0a34ec3d",
+                "text": "He can't remember the song on the guitar.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "8e2723d59fce47c1be4bdca4bdc73bc0",
+                "text": "The boy is good at the drums.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "47d183fe42bb45789c4def5ec1ea9412",
+                "text": "The girl says she will call him the next day.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "b348a0d2b1b2490bb14eb6061252ce40",
+        "name": "Describing people",
+        "transcript": "Aurelia: Who’s that boy over there, Hannah?\n\nHannah: That? Er, that’s my brother, Jem.\n\nAurelia: Your brother?\n\nHannah: Yes, and that’s his girlfriend Lucy. The pretty girl with the long, brown hair.\n\nAurelia: Oh right. So, you’ve got a brother?\n\nHannah: No, I’ve got two brothers. Jem and Alex.\n\nAurelia: Really? ... and ... how old is Alex?\n\nHannah: Alex and Jem are twins, they’re both 15.\n\nAurelia: 15, mmm ... and does Alex look like Jem?\n\nHannah: They’re exactly the same! They’re both tall and thin. They’ve both got short brown hair, green eyes and big ears!\n\nAurelia: They’re not big, I think they’re cute. And ... has Alex got a girlfriend?",
+        "questions": [
+            {
+                "id": "f87575286cb94ec29d847e3a90ec6df9",
+                "text": "Aurelia is asking about Hannah’s ...",
+                "answers": [
+                    "boyfriend",
+                    "brother",
+                    "friend"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "9d87efe2015a484b98cf2c574e0c306c",
+                "text": "Hannah’s brother, Jem, has ...",
+                "answers": [
+                    "long, brown hair",
+                    "a girlfriend",
+                    "a twin sister"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "6469d142801547e7b0054838e2ea60f1",
+                "text": "Hannah has ...",
+                "answers": [
+                    "one brother",
+                    "two brothers",
+                    "a brother and a sister"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "230bd4a8d07d45a199566548376865b6",
+                "text": "Alex and Jem ...",
+                "answers": [
+                    "look different",
+                    "look the same",
+                    "have the same hair but different eyes"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "f5abe83a96b0406f8480f62e3ca61560",
+        "name": "First day at school",
+        "transcript": "Tania: Hi. I’m Tania. What’s your name?\nJing: Hello. My name’s Jing.\nTania: Nice to meet you, Jing. What class are you in?\nJing: I’m in class 1B. And you?\nTania: Me too. I’m in Class 1B too.\nJing: Who’s our teacher?\nTania: Mr Smith.\nJing: And where’s our classroom?\nTania: This way. Come with me.\nJing: OK. Great.",
+        "questions": [
+            {
+                "id": "68be2c1337204f518c55318f674af5fc",
+                "text": "Jing and Tania are in the same class.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "f309d0e02a8f4acf9d2bd62634aae23d",
+                "text": "Their teacher is a man.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "69639cbc19484577b43422fee3e94052",
+                "text": "Jing knows where the classroom is.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "7e2e244dd6b843e489adab7b6880dc3e",
+        "name": "Getting an ID card",
+        "transcript": "Admin worker: International Student ID card?\nStudent: Yes, that’s right.\nAdmin worker: Have you got the form?\nStudent: Yes, here it is.\nAdmin worker: OK, let’s see. Name – Ahmed, surname – Saeed, age 14, address ... (pause) ... oh, what’s your address?\nStudent: 14 Spring Avenue …\nAdmin worker: 14 Spring Avenue ...\nStudent: Leicester.\nAdmin worker: Can you spell that, please?\nStudent: L-E-I-C-E-S-T-E-R.\nAdmin worker: What’s your postcode?\nStudent: LE 14 2GZ.\nAdmin worker: LE 14 2GS.\nStudent: No, 2GZ.\nAdmin worker: OK, 2GZ. And what’s your nationality?\nStudent: I’m British.\nAdmin worker: What’s your school?\nStudent: Newtown Secondary School. N-E-W-T-O-W-N.\nAdmin worker: And what’s your date of birth?\nStudent: The 2nd of June 1998.\nAdmin worker: 02/06/1998 (the second of the sixth, 1998). Have you got a photo?\nStudent: Yes, here you are.\nAdmin worker: Thank you. One moment, please ... (pause) ... and here’s your card.\nStudent: Thanks. Bye.",
+        "questions": [
+            {
+                "id": "499146542070477a8f82c5e613c8a914",
+                "text": "The student’s name is ...",
+                "answers": [
+                    "Abdul Surimani",
+                    "Ahmed Saeed",
+                    "Ashraf Suri"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "40e8b5848bba40fdb8f7ca74787d1507",
+                "text": "He's ...",
+                "answers": [
+                    "14",
+                    "15",
+                    "16"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "4c68c6c6f5d04632875dbc60a5181e47",
+                "text": "His address is ...",
+                "answers": [
+                    "14 Spring Avenue, Leicester",
+                    "40 Spring Avenue, Lester",
+                    "40 Spring Avenue, Lemster"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "8e1c06d93d20437eb0ec26ca45a8f987",
+                "text": "He's ...",
+                "answers": [
+                    "Chinese",
+                    "Russian",
+                    "British"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "120cd1e080f64dfa9b7a14bff43d1c00",
+                "text": "He goes to ...",
+                "answers": [
+                    "Newtown Secondary School",
+                    "Newtown Secondary College",
+                    "Newton Secondary School"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "0328414bffc84bebbde125e40873eaf8",
+                "text": "His date of birth is ...",
+                "answers": [
+                    "2nd July 1997",
+                    "2nd June 1998",
+                    "22nd June 1998"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "3912be27a6524b8eaecad990db89e2b5",
+        "name": "Interview with a swimmer",
+        "transcript": "Interviewer: Hello, Dan.\n\nDan: Hi.\n\nInterviewer: Can you tell me about a typical day in your life for the school magazine?\n\nDan: Yeah, sure.\n\nInterviewer: So, what time do you get up?\n\nDan: Oh, I get up very early. I get up every day at 5 o’clock and go to the pool. Then I swim from 6 o’clock to 8 o’clock.\n\nInterviewer: You get up at 5 o’clock? Wow, that’s early!\n\nDan: Yeah. Then at 8 o’clock I have a shower, I get dressed and I have breakfast. I have a big breakfast: cereals, toast, bacon and eggs and orange juice.\n\nInterviewer: What do you do after breakfast?\n\nDan: At 11 o’clock I go to university. I’m studying sports science and I have classes from 11 o’clock to 4 o’clock.\n\nInterviewer: When do you have lunch?\n\nDan: I have lunch at about 2 o’clock at the university.\n\nInterviewer: What do you do after classes?\n\nDan: Sometimes I go to the gym and sometimes I meet my friends at a café.\n\nInterviewer: What time do you have dinner?\n\nDan: I have dinner at 7 o’clock, then I watch TV or go online and I usually go to bed at 10 o’clock.\n\nInterviewer: Thanks, Dan. That’s a busy day!",
+        "questions": [
+            {
+                "id": "f3b885ba66b2468dac0b181c491a6127",
+                "text": "Dan gets up early.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "ab586dc33f4e497eb824cf1940d52725",
+                "text": "He has a small breakfast.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "a549e9bb725b4f299c324caf86c7564c",
+                "text": "He's a student.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "17a1c75572ad4db2a1101eae29cdeddf",
+                "text": "Dan has lunch at home.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "edb19035a6784dfab0f314a8afc00156",
+                "text": "He goes swimming after classes.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "5edfa5a30ede454cbff253907d291391",
+                "text": "Dan watches TV or goes on the internet before bed.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    {
+        "id": "36eb0296cbbf418c96555a5a9a5d755b",
+        "name": "Inviting someone to the cinema",
+        "transcript": "Jack: Hi, Ismael. How are you?\nIsmael: Hi, Jack. I'm OK but I’ve got loads of homework.\nJack: Me too, but would you like to come with us to the cinema tonight?\nIsmael: Who's 'us'?\nJack: Me, Jamie, Nicola and Selina.\nIsmael: OK, and what's the film?\nJack: We don't know. We can't decide. There's that new horror film, 'Light and Dark'.\nIsmael: No, no, no! I don't like horror films.\nJack: OK, well, there's a comedy about a school.\nIsmael: Oh, no more school, please! What about a romcom?\nJack: Romcom?\nIsmael: You know, romantic comedy, boy meets girl ...\nJack: What? Really? No, I hate romantic films. I like action.\nIsmael: Well, there's a new science fiction film, 'Alien attacks'.\nJack: OK, I like science fiction. Let's see that.\nIsmael: OK, I'll ask the others if they like sci-fi.\nJack: What time is the film?\nIsmael: At 8 o'clock. Let’s meet at 7:30 outside the cinema.\nJack: OK. See you later.\nIsmael: Bye.",
+        "questions": [
+            {
+                "id": "34d89436bf374c1ea553923d6c1cde31",
+                "text": "Ismael is ...",
+                "answers": [
+                    "OK, but a bit ill.",
+                    "OK, but has a lot of homework",
+                    "OK, but a bit bored"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "ea9d0c230c884d239af07c5b8682cd31",
+                "text": "'Light and dark' is ...",
+                "answers": [
+                    "a horror film",
+                    "a science fiction film",
+                    "a romantic comedy"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "122e71ac3aa44b65bd4ed8e8d3aa504d",
+                "text": "The comedy film is about a ...",
+                "answers": [
+                    "family",
+                    "shop",
+                    "school"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "aceaedfc967546d0b2df53c549f2bed9",
+                "text": "Jack hates ...",
+                "answers": [
+                    "horror films",
+                    "romantic films",
+                    "science fiction films."
+                ],
+                "correct": 1
+            },
+            {
+                "id": "be26ddb6c6f748998c8476d2c16899e7",
+                "text": "They decide to see a ...",
+                "answers": [
+                    "romcom",
+                    "horror film",
+                    "science fiction film"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "efa8207dc6464877898fa56524856848",
+                "text": "They decide to meet at ...",
+                "answers": [
+                    "7 o'clock",
+                    "half past seven",
+                    "8 o'clock"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "ffd64d44b44742acac2bc0533b2862c3",
+        "name": "Online safety conversation",
+        "transcript": "Charlie: Mum! That's my computer!\n\nMum: I know, I know. Don't worry, I'm changing your privacy settings.\n\nCharlie: Privacy settings?\n\nMum: Yes. There are privacy settings on your social networking sites. Your account is totally public at the moment, and you're logged in!\n\nCharlie: Oh. What are the privacy settings for?\n\nMum: To make you safe online. You want to be safe, don't you? And for the right people to see your information, not EVERYONE.\n\nCharlie: Everyone?\n\nMum: Yes. If you don't change your privacy settings, when you upload a photo, anyone can see it. It's important to change them so only your friends can see them. You don't want everyone to see everything, do you?\n\nCharlie: No! But I can delete things, can't I?\n\nMum: Well, you can, but it's very difficult. Some things stay there forever.\n\nCharlie: That's really scary, Mum.\n\nMum: Don't worry, but you must learn how to stay safe. You mustn't tell anyone your password!\n\nCharlie: I won't!\n\nMum: Crazy Charlie one two one, isn't it?\n\nCharlie: Mum! Yes, it is. How …\n\nMum: It's on your notebook. Right there. On your desk. It isn't a very secret place, is it?\n\nCharlie: No, it isn't.",
+        "questions": [
+            {
+                "id": "c92f7ee4f21746c79f3a291f3bac9ed8",
+                "text": "Charlie’s mother is doing something with his computer.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "24a18f657bb4406887c04854349550c0",
+                "text": "Charlie isn’t logged in at the moment.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "8d3fbf379ffb48248ec19827c4f0df44",
+                "text": "If you don't change your privacy settings, everyone can see your information.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "317384b40bae43119b57239b86be1efc",
+                "text": "It is easy to delete everything you put online.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "390ca1fe6d6a442787ad7f97747672ee",
+                "text": "Charlie’s mother knows his password.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "cdb2bc30e35843b4aa6afe041feda4fb",
+                "text": "Charlie’s notebook is in a secret place.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "efabe9175420460abc5a7aac694855d6",
+        "name": "Ordering food in a café",
+        "transcript": "Café worker: Next, please! What would you like?\nAndi: Can I have a burger, please?\nCafé worker: A cheese burger or double cheese burger?\nAndi: Double cheese burger, please.\nCafé worker: Anything else?\nAndi: Yeah, I'd like some banana cake.\nCafé worker: Would you like a drink?\nAndi: Yes, can I have an apple juice, please?\nCafé worker: OK, so that’s one double cheese burger, one banana cake and an apple juice. What’s your table number?\nAndi: Table 3. How much is that?\nCafé worker: That’s £8.37, please.\nAndi: Here you are.\nCafé worker: Thank you ... that’s £10.00 ... and £1.63 change. Next, please ...",
+        "questions": [
+            {
+                "id": "8fcf7e8789c1448a97a80d136568d9d5",
+                "text": "For his main course, Andi chooses ...",
+                "answers": [
+                    "a normal cheese burger",
+                    "a double cheese burger",
+                    "a burger with chips"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "42893c32042b43a4b08f07f34d4851c3",
+                "text": "For dessert, Andi chooses ...",
+                "answers": [
+                    "ice cream",
+                    "chocolate cake",
+                    "banana cake"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "34a1f3f9bd584e378a738b5204292a21",
+                "text": "To drink, Andi chooses ...",
+                "answers": [
+                    "apple juice",
+                    "fizzy water",
+                    "still water"
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    {
+        "id": "67190ce3fd704bbb80838a4f563319c4",
+        "name": "Study tips",
+        "transcript": "Ben: You always get good marks at school. You’re lucky! I study but I don’t always get good marks.\nKaty: I’m not lucky! I know how to study. I always do three things. Do you want to know them?\nBen: Yeah, please!\nKaty: OK, number one. Always study in a quiet place.\nBen: I usually study in my bedroom. It’s very quiet.\nKaty: Number two. Have a clear desk!\nBen: Right. A clear desk. My desk isn’t clear. There are lots of papers and books and pens on it.\nKaty: Well, that isn’t very good!\nBen: What’s tip number three?\nKaty: Have lots of breaks. I always study for thirty minutes. Then I have a break for five minutes. I move my arms and legs and drink some water. Then I study again for thirty minutes.\nBen: I never have a break. I sometimes study for two or three hours. \nKaty: That isn’t a good idea! It’s important to get up and move your body. \nBen: OK. Thanks. Next time I think I can get good marks!",
+        "questions": [
+            {
+                "id": "48bdbeaf1e5c4a0e863e146240e8564e",
+                "text": "Ben …",
+                "answers": [
+                    "doesn’t study",
+                    "studies and does well",
+                    "studies but doesn’t do well"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "9a4e02dd27544a34a0c7502bd68faf9f",
+                "text": "Ben usually studies …",
+                "answers": [
+                    "in the library",
+                    "at home",
+                    "in his friend’s house"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "2e8425ca9e5847aa9387811e38044d8b",
+                "text": "On Ben’s desk there are …",
+                "answers": [
+                    "papers, books and pens",
+                    "pencils, books and pens",
+                    "a pencil case and pens"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "616f940604ce468fb394c2e8c12d63a2",
+                "text": "Katy ...",
+                "answers": [
+                    "has a break for thirty minutes",
+                    "exercises for thirty minutes",
+                    "studies for thirty minutes"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "93ad1605368647ecb032f1349a2d3703",
+                "text": "When Ben studies …",
+                "answers": [
+                    "he doesn’t take breaks",
+                    "he has a break for two or three hours",
+                    "he has two or three breaks each hour"
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    {
+        "id": "84b469509e1e49caa804d5d0c102bbd1",
+        "name": "A voicemail message",
+        "transcript": "John: Hi, this is John. Thanks for calling. I'm not here at the moment, so please leave a message and I'll call you back.\n\nMarina: Hi, John, this is Marina Silva calling from Old Time Toys. Your colleague Alex gave me your phone number. She said you can help me.\n\nI need some information on your new products. Could you please call me when you are back in the office? My phone number is 0-2-0-8, 6-5-5-7-6-2-1.\n\nAlso, can you please email me your new brochure and information about your prices? My email address is Marina, that's M-A-R-I-N-A, dot Silva, S-I-L-V-A, at O-L-D-T-I-M-E hyphen toys dot com.\n\nThanks a lot. I look forward to hearing from you.",
+        "questions": [
+            {
+                "id": "75f9a99d7edc4475a48455a09310d309",
+                "text": "John works at Old Time Toys.",
+                "answers": [
+                    "Yes",
+                    "No"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "dbcdaccdb4674d878dcf9ffeffcf8215",
+                "text": "Marina wants ...",
+                "answers": [
+                    "product information, a brochure and prices.",
+                    "to call John again later."
+                ],
+                "correct": 0
+            },
+            {
+                "id": "82448ee1305e493b92e874285d11c517",
+                "text": "Marina's number is ...",
+                "answers": [
+                    "0208 6557621",
+                    "0208 6656721"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "69a52ef7985f4f74a94c19a3f35e2b1c",
+                "text": "Marina's email address is ...",
+                "answers": [
+                    "marina.silva@oldtime_toys.com",
+                    "marina.silva@oldtime-toys.com"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "826027d72ba84b30a314fbadc26808c9",
+        "name": "Booking a table",
+        "transcript": "Staff: Hello, Gino's.\n\nJamie: Hi. Can I book a table for tomorrow night, please?\n\nStaff: How many people is it for?\n\nJamie: Four.\n\nStaff: And what time would you like?\n\nJamie: About eight, eight thirty maybe?\n\nStaff: Let's see ... We're pretty busy tomorrow, so I can do half past seven or nine.\n\nJamie: Oh. OK, then. Half seven, please.\n\nStaff: What name is it?\n\nJamie: Jamie.\n\nStaff: J-A- ...?\n\nJamie: M-I-E\n\nStaff: OK, so that's a table for four at half past seven tomorrow evening.\n\nJamie: Great. Thanks! Bye.\n\nStaff: Bye.\n\nStaff: Hello, Gino's.\n\nJamie: Hi, I called earlier to book a table for four and I was wondering if I can make it for six instead?\n\nStaff: Ah, what name was it?\n\nJamie: It's Jamie.\n\nStaff: Table for four at half past seven. So you want to change it to 6 o'clock?\n\nJamie: No, sorry. Can I make it for six people?\n\nStaff: Oh, I see. Sorry! That shouldn't be a problem. I can move you to a bigger table but it will be nearer the kitchen. Is that OK?\n\nJamie: No problem. Is it possible to change the time as well? Make it a little bit later?\n\nStaff: Ah ... yeah, we can. Is eight OK for you?\n\nJamie: Perfect, thanks!\n\nStaff: Lovely. See you tomorrow, then.\n\nJamie: Thanks! Bye!\n\nStaff: Thanks. Ciao!",
+        "questions": [
+            {
+                "id": "c8c67cb0a37f42a885e5ee5f7da228c3",
+                "text": "When is the table booked for?",
+                "answers": [
+                    "Tonight",
+                    "Tomorrow morning",
+                    "Tomorrow night"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "447f64e3453b4c93a3cc3122b3068279",
+                "text": "When the woman says 'about eight, eight thirty', what does she mean?",
+                "answers": [
+                    "At eight o'clock",
+                    "At half past eight",
+                    "Between eight o'clock and half past eight"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "32feab7fcc694c35aed4e3dff7235b77",
+                "text": "What time is the first booking?",
+                "answers": [
+                    "7.30",
+                    "8.30",
+                    "9.00"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "173fd83c3646427c96e0f002bf2ce9af",
+                "text": "How do you spell the person's name?",
+                "answers": [
+                    "Jamei",
+                    "Jamie",
+                    "Janie"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "fda6a51b46174425943b215d461f8758",
+                "text": "Where will the table be now?",
+                "answers": [
+                    "By the door",
+                    "Close to the kitchen",
+                    "In the corner"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "5387dbe8d72142b3a73b5de1443ca9a5",
+                "text": "What time is the new booking?",
+                "answers": [
+                    "6.00",
+                    "7.30",
+                    "8.00"
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "3bb1e2da61c24fe6be8ecbee984ab7f7",
+        "name": "Business cards",
+        "transcript": "A\nA: Hello, Doctor Miller. It's nice to meet you. \n\nB: Please call me Peter.\n\nA: OK. Are you a medical doctor? It must be helpful when you sell medical equipment.\n\nB: Actually, no. My doctorate was in electronic engineering, but it's still helpful for me when I sell our equipment.\n\nB\nGood morning, everyone. I'm happy to be here today to tell you about our new project. My name is Alessandro Rossi. I'm the project leader on the Starlight programming project.\n\nC\nPleased to meet you. Here's my card. My real name is Megumi Tanaka, but people who are not from my country think it's difficult to say my name, so I use another name, Meg, when I'm working internationally.\n\nD\nHello, everyone. My name's Andres Mulligan. I'm very happy to be joining this team for the next few months and learning more about research and development.",
+        "questions": [
+            {
+                "id": "9629db0cc5104086b969d5ab179ef8da",
+                "text": "Peter Miller is not a medical doctor.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "af68c221c49f4f9cbb475b62fcf60cb2",
+                "text": "Peter sells machines for hospitals and doctors.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "25adc17be4de49a8bed326fcfea5caf1",
+                "text": "Starlight is the name of Alessandro's company.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "b4de27c2c46c406a81d79de1f31a0189",
+                "text": "Alessandro is the manager of the company.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "22fef6e9c3124790a9b8d20ba0879e24",
+                "text": "Megumi thinks her real name is difficult to say.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "f6237850c6264887ae1be22db8451c4c",
+                "text": "Andres is a not permanent member of the team.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    {
+        "id": "f71c16ed0c834ffb839a35be4a0dccc8",
+        "name": "Meeting a new team member",
+        "transcript": "Peter: Hi, my name's Peter. What's your name?\n\nCarla: Hi, Peter. I'm Carla. I'm new here.\n\nPeter: Welcome to the company, Carla.\n\nCarla: Thanks, Peter. I'm happy to be here and it's nice to meet you.\n\nPeter: It's nice to meet you too.\n\nCarla: Where do you work?\n\nPeter: I work in the design team. We sit over there. \n\nCarla: I'm in the marketing team. I started last week.\n\nPeter: You work in marketing? That's very interesting.\n\nCarla: Yes, it is. I'm enjoying it. But there are a lot of new things to learn.\n\nPeter: I'm sure there are. I'm happy to help you if I can.\n\nCarla: Thank you, Peter. What do you do in the design department?\n\nPeter: I design new products. \n\nCarla: That sounds interesting. I plan marketing events for new products. So I think we'll work together sometimes.\n\nPeter: That would be great. So, where are you from, Carla?\n\nCarla: Brazil. And you?\n\nPeter: I'm from the UK.\n\nCarla: How long have you been here?\n\nPeter: I've worked here for three years but I actually moved here from the UK five years ago, to study.",
+        "questions": [
+            {
+                "id": "af50a46b81b340798947107666fed7d2",
+                "text": "Peter is new in the company.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "42dce50d851146eaa594bc120fcefe1d",
+                "text": "Peter is a designer.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "1f243a7d277a4160b858cc03d4d550f8",
+                "text": "Carla works in marketing.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "86ac20290a0c4cc2b710ba105d3dd76d",
+                "text": "Peter plans events for new products.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "33832598173341798c4f6d6711f22991",
+                "text": "Carla is Brazilian.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "756b6f299e6c441a9b4882cbe1594513",
+                "text": "Peter started his job five years ago.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "f521adfdd80d4c46afeaad3a0b761619",
+        "name": "Meeting people at a dinner",
+        "transcript": "Charles: Hello, Julian.\n\nJulian: Hello, Charles. How are you?\n\nCharles: I'm fine. Fine. Julian, do you remember Alyssa?\n\nJulian: No, I don't.\n\nCharles: She's Ben's sister. Do you remember? We were all at Ben's wedding together.\n\nJulian: Ah, yes, I do – in that old castle. Was it in January?\n\nCharles: Yes, it was! Alyssa was there.\n\nAlyssa: Hello. Nice to meet you ... again.\n\nJulian: Hello, nice to meet you too, Alison.\n\nAlyssa: I'm not Alison.\n\nJulian: What?\n\nAlyssa: My name isn't Alison. It's Alyssa.\n\nJulian: I'm sorry. Nice to meet you, Alyssa.\n\nCharles: Good. Would you like a drink?\n\nJulian: Good idea.\n\nAlyssa: Yes, please.\n\nCharles: Here you are.\n\nAlyssa and Julian: Thanks!",
+        "questions": [
+            {
+                "id": "4256212df54e4d1680fe87539a24dd81",
+                "text": "Julian remembers Alyssa.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "42bb8322dcbd4cf2a4ca259c6e808bf2",
+                "text": "Ben is Alyssa's brother.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "1f94fa3a39584ff197dab555bcc24319",
+                "text": "They were at Ben's wedding.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "599e73744c1946eb90d9ab371792a862",
+                "text": "The wedding was in February.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "d830eb58c4b64cceaf28b8eb25da2fcb",
+                "text": "Julian says the wrong name.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "19dd50af22d64f1d9f53cd9608857072",
+                "text": "Alyssa doesn't want a drink.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "60dcd0946eb944c08591bd98815721f4",
+        "name": "Ordering in a café",
+        "transcript": "Customer 1: Can I have an orange juice, please?\n\nServer: Regular or large?\n\nCustomer 1: How big is a large?\n\nServer: This is a large. This is a regular.\n\nCustomer 1: I'll have a large, then, please. Without ice.\n\nServer: OK, coming up.\n\nCustomer 1: Sorry, I wanted freshly squeezed orange juice.\n\nServer: I'm afraid we only have bottled juices.\n\nCustomer 1: Oh, then I'll have an apple juice instead, please.\n\nServer: Here you go. That's £3.50, please.\n\nCustomer: Thanks.\n\nServer: Thank you.\n\nServer: Can I help anyone?\n\nCustomer 2: Who's next?\n\nCustomer 3: You were first, I think.\n\nCustomer 2: What teas do you have?\n\nServer: Breakfast tea, mint and green tea.\n\nCustomer 2: A mint tea and a slice of lemon cake, please.\n\nServer: To eat in or take away?\n\nCustomer 2: Take away, please.\n\nServer: There you go. That'll be £4.20, please.\n\nCustomer 2: Sorry, I've only got a fifty.\n\nServer: That's OK. Here's your change … 5, 10, 30, 50.\n\nServer: Who's next?\n\nCustomer 4: Can I have a ...\n\nCustomer 3: Sorry, I think I was in front of you. \n\nCustomer 4: Oh, sorry! \n\nCustomer 3: Can I have a chocolate chip cookie, please?\n\nServer: Would you like a drink with that?\n\nCustomer 3: No, thanks. Just the cookie.\n\nServer: OK, then. That's 95p, please.\n\nCustomer 3: Thanks. I think that's right.\n\nServer: 50, 70, 80, 85, 90, 92, 94, yep, 95. Thank you.",
+        "questions": [
+            {
+                "id": "4180a66cd6694f8fbc278530b34dedb4",
+                "text": "Customer 1 orders a large bottle of orange juice.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "ab64f73d9dd54a969225f005999b4a33",
+                "text": "The apple juice costs £3.15.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "f14897a0b7854c72801ebbf76b6e0e4e",
+                "text": "Customer 2 is not going to have their tea and cake inside the café.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "f652f718bd5c42abb18395e52609a3c5",
+                "text": "Customer 2 pays with a twenty pound note.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "c6f60373e52a4890828a98885c428147",
+                "text": "Customer 3 orders something to drink.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "d13286bb8b9940bbadcad6fdfc9a7482",
+                "text": "The cookie costs 85p.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "c52513122c994d54b8891b6083461d9f",
+        "name": "Organising a group project",
+        "transcript": "Cara: So for our group project, do you want to start this week?\n\nSelim: Yeah, I want to start early so we have enough time.\n\nRobert: Me too, but I've got a big maths project too.\n\nCara: How about we meet first to plan what we're going to do? Just for an hour.\n\nRobert: Good idea, Cara.\n\nCara: When are you free?\n\nRobert: I can always do mornings before 10.\n\nCara: Robert … Uh …\n\nSelim: I'm sleeping before 10!\n\nRobert: OK! OK, so when are you two free?\n\nCara: Wednesdays are good for me. But not very early, please!\n\nSelim: I can't do the mornings on Wednesdays but I have 3 till 5 free.\n\nRobert: I can do 4 o'clock, just before my maths class.\n\nCara: Great, 4 then. Where shall we meet?\n\nSelim: The library?\n\nRobert: I don't know. The library isn't a good place for a planning meeting as we can't talk in there.\n\nCara: How about the university café? It's near the library. We can talk in there. And eat cake.\n\nSelim: Cake is good.\n\nRobert: OK, so Wednesday at the café. I need to leave at ten to five to go to my maths class.\n\nCara: No problem. Planning will take less than an hour.\n\nSelim: OK! See you Wednesday for cake.\n\nRobert and Cara: See you, Selim!",
+        "questions": [
+            {
+                "id": "9a47f8695b164051a6b95eed6d300bef",
+                "text": "They want to start the project soon.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "406fe3640bf444b0bdda2b7d9a14ba13",
+                "text": "The first meeting will be for two hours.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "a7215d932b094d7db0309614f3f4925e",
+                "text": "Mornings before ten are good for everyone.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "f71f1aea973c4c9d8a8eda18b4065286",
+                "text": "Everyone is free at four.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "0ebd62c822b64da387fd93ec28cf0e00",
+                "text": "They're going to have the meeting in the library.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "5c0594ed06fd417e9926123ba2a27b98",
+                "text": "Robert will leave before 5 p.m.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    {
+        "id": "c45393f94a934a3a82447344fc7449d0",
+        "name": "The first English class",
+        "transcript": "Hello, everyone. Hello! It's nice to see you all here. Welcome to British Life and Language. I am your teacher. My name is Lindsay Black. That's L-I-N-D-S-A-Y Black. Before we begin, some information about the class.\n\nOur class is in room 13, on the first floor. When you go upstairs, turn left to find the room. Again, that's room 13.\n\nWe have class twice a week, on Monday and Wednesday. Our class begins at 4.30 p.m. and lasts 90 minutes, so we finish at 6 p.m. That's 4.30 to 6. Please arrive on time, OK?\n\nAlso, I have an office hour if you have questions. I'm in office 7B on the second floor. My office hour is Friday at 6 p.m. So, if you have any questions or problems or want to talk to me, it's Friday at 6 p.m. in office 7B.\n\nWe begin next week, on March the 13th. That's Monday, March the 13th. The course ends on May the 20th. May the 20th is the last day.\n\nI think that's all ... Oh, one more thing. For this course you need the book. Here it is: British Life and Language Level 1 Student's Book. So, please get a copy of the book. I don't want to see any photocopies of the book, thank you! Remember, it's level 1 student's book. Don't buy the teacher's book.\n\nI think that's all, everyone. I look forward to working with you. See you next Monday!",
+        "questions": [
+            {
+                "id": "bff0bbc2a20a4e4ab508cc4b7c3c9e07",
+                "text": "This is an English course.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "f7c94e6445fa4d658ba6f2d5ec96f2e2",
+                "text": "There are three classes every week.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "07a834dca4cf48a7b5ea14650c35fb89",
+                "text": "The class begins in May.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "a3ed848564154aa1aca8ed1b01dd6dc6",
+                "text": "There is a book for the course.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "942c17262d044233b8e79d6cec065b0b",
+                "text": "The students need the teacher's book.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "be35418ff9a04cb195c48989363cba96",
+                "text": "Photocopies of the book are not allowed.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "6a18bb1830044b9d91018df2b021c601",
+                "text": "The first class is next Monday.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "a449874e4f294fc89873c145264887d1",
+                "text": "The next class is on Tuesday.",
+                "answers": [
+                    "True",
+                    "False"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "86bac42615c5462d9472a583390f8cb7",
+                "text": "What is the teacher's name?",
+                "answers": [
+                    "Lindsay Black",
+                    "Lindsey Black",
+                    "Linsey Black"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "bf9a6245f52a4e2eab591d190c5794f0",
+                "text": "What room is the class in?",
+                "answers": [
+                    "Room 13",
+                    "Room 30",
+                    "Room 33"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "d8b0f66057bd4c30a12b4686c1d43f47",
+                "text": "What days is the class?",
+                "answers": [
+                    "Monday and Tuesday",
+                    "Monday and Wednesday",
+                    "Monday and Thursday"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "dee50107680244748e1c9a134c72fb50",
+                "text": "How long is the class?",
+                "answers": [
+                    "One hour",
+                    "One hour and a half",
+                    "Two and a half hours"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "86d178736f4040fabb8e235f3e49532e",
+                "text": "When is the teacher's office hour?",
+                "answers": [
+                    "On Monday and Wednesday",
+                    "Room 7B",
+                    "Friday at 18.00"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "877feeb7a89a4ea3afd3cf4dea67facc",
+                "text": "What date does the course begin?",
+                "answers": [
+                    "Monday 13 March",
+                    "Monday 30 March",
+                    "Monday 13 May"
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    {
+        "id": "ec672aa3f8474e4da124162e36b416f3",
+        "name": "Meet the Teachers",
+        "transcript": "Aimee: So Todd, where are you from?\n\nTodd: I am from the U.S., I am from San Francisco. It's on the west coast.\n\nAimee: And what do you do?\n\n\nGet the Free Book\nTodd: I'm an English teacher. Also, I create Elllo. I work on Elllo a lot.\n\nAimee: Okay. How old are you?\n\nTodd: I am 47. Yeah. I am old.\n\nAimee: No. That's not old. Who is your best friend?\n\nTodd: My best friend is Don, he is a teacher too. He lives in America.\n\nAimee: And are you married?\n\nTodd: No, I am not married. I am still single.\n\nAimee: Where is your mum from?\n\nTodd: My mom is from California, she is from Los Angeles.\n\nAimee: And what does she do?\n\nTodd: She is a manager, she works in a clothing store.\n\nAimee: Where is your dad from?\n\nTodd: My dad is from San Francisco. He is not from Los Angeles, but he met my mother in Los Angeles.\n\nAimee: And what does he do?\n\nTodd: He is also a manager, he works for a tree cutting company. They cut trees.\n\nAimee: Wow. That sounds exciting.\n\nTodd: Yeah, cool job.\n\nAimee: Is it dangerous?\n\nTodd: It is, a little dangerous. A little. And Aimee, what about you? Where are you from?\n\nAimee: I'm from Glasgow, on the west coast of Scotland in the United Kingdom.\n\nTodd: Nice. And what do you do?\n\nAimee: I'm also a teacher.\n\nTodd: Nice. What do you teach?\n\nAimee: I teach English.\n\nTodd: Oh, me too.\n\nAimee: It's fun, isn't it?\n\nTodd: It is. It is very fun. Excuse me, can I ask, how old are you?\n\nAimee: Of course, you can ask. I'm 34.\n\nTodd: Okay. Very young. Very young. Where is your mom from?\n\nAimee: My mum is also from Glasgow.\n\nTodd: Oh, nice. What does she do?\n\nAimee: Well, she's retired now, but she was a nurse.\n\nTodd: Oh nice. And is your dad from Glasgow?\n\nAimee: Yes, he is.\n\nTodd: What does he do?\n\nAimee: He's also retired, but he used to be a teacher.\n\nTodd: Oh wow. Many teachers.\n\nAimee: Yes. Looks like it.\n\nTodd: Well, thanks Aimee. Nice talking to you.\n\nAimee: You too, Todd.",
+        "questions": [
+            {
+                "id": "6ad7b8f3d0b74e3f98611629fae3e98e",
+                "text": "Where is he from?",
+                "answers": [
+                    "The east coast",
+                    "The west coast",
+                    "The south coast"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "92b7afdf27174465b5943d868e65765d",
+                "text": "How old is he?",
+                "answers": [
+                    "45",
+                    "46",
+                    "47"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "22f5f967691c47dc832a0e0b02053e50",
+                "text": "Where is she from?",
+                "answers": [
+                    "Edinburgh",
+                    "Aberdeen",
+                    "Glasgow"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "b1ffdec6562642ce9a08bd3e17507b27",
+                "text": "Who is a teacher?",
+                "answers": [
+                    "Her mom",
+                    "Her dad",
+                    "Her aunt"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "31f9d3cc5a4a45a3a8cb47ece167e768",
+        "name": "Likes and Favorites",
+        "transcript": "Todd: Natalie, let's talk about our favorite things.\n\nNatalie: Sure.\n\nTodd: First, what is your favorite color?\n\nNatalie: My favorite color is purple.\n\n\nGet the Free Book\nTodd: Really? My favorite color is purple too.\n\nNatalie: Oh, really?\n\nTodd: Yeah, but I don't have purple clothing. I love the color purple, but I don't have purple clothes.\n\nNatalie: Oh, well, everything I wear is purple.\n\nTodd: No kidding?\n\nNatalie: Yeah, really.\n\nTodd: That's so cool. So what about food? What's your favorite food?\n\nNatalie: Good question. My favorite food is pizza. I love pizza, but I don't like really big pizzas.\n\nTodd: I love pizza too. What is your favorite topping on pizza?\n\nNatalie: I like really spicy toppings, so salami or pepperoni, chilies, and sometimes bell peppers too.\n\nTodd: Do you like thick pizza or thin pizza?\n\nNatalie: No, I don't like thick pizza, because I can't eat too much. The thin pizzas, I get lots of toppings and I don't feel so full.\n\nTodd: Yeah, I agree. What about seasons? What is your favorite season?\n\nNatalie: My favorite season is winter.\n\nTodd: Winter?\n\nNatalie: Yeah, I love winter, don't you?\n\nTodd: No, I hate winter. Why do you like winter?\n\nNatalie: I love the snow.\n\nTodd: Oh, I hate the snow. Well, I like the snow a little bit, but I hate cold weather.\n\nNatalie: Yeah, I guess the cold is kind of annoying, but the snow is so much fun. I go skiing and I play snowball fights and I build snowmen.\n\nTodd: Yeah, that sounds fun. What about sports? What's your favorite sport?\n\nNatalie: I'd say my favorite sport is tennis.\n\nTodd: That's interesting. Do you play tennis?\n\nNatalie: Yeah, but I'm not very good.\n\nTodd: Do you like singles or doubles?\n\nNatalie: At the moment I'm having singles lessons. They're really fun.\n\nTodd: Oh, now you are taking tennis lessons?\n\nNatalie: Yes, about twice a week.\n\nTodd: Do you watch tennis on TV?\n\nNatalie: Yes, I watch it all the time.\n\nTodd: Who is your favorite tennis player?\n\nNatalie: I really like Roger Federer.\n\nTodd: Yeah. He's really good. Okay, last question. What is your favorite movie?\n\nNatalie: I don't have a favorite movie, but I really like comedies.\n\nTodd: So what is your favorite comedy?\n\nNatalie: My favorite comedy is Ace Ventura.\n\nTodd: Ace Ventura is very funny, but that movie is really old.\n\nNatalie: It is, but it's a classic, Todd.\n\nTodd: It's like 20 years old, I think, maybe more.\n\nNatalie: I know. I've seen it a hundred times.\n\nTodd: Yeah. I like it a lot too.",
+        "questions": [
+            {
+                "id": "b71cf566e2b04347a288fc7cac1250fb",
+                "text": "What is purple?",
+                "answers": [
+                    "Her clothes",
+                    "Her hair",
+                    "Her car"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "8fa5884d1e5047948aab4102e02c9228",
+                "text": "What doesn’t she like on her pizza?",
+                "answers": [
+                    "salami",
+                    "pepperroni",
+                    "pineapple"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "af2aabee793b4e6cb87e8ea3dba1b4ed",
+                "text": "What does she like about winter?",
+                "answers": [
+                    "The clothes",
+                    "The food",
+                    "The snow"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "5a34c9bf026c4b9babc6d71c3bca3669",
+                "text": "What does she say about tennis?",
+                "answers": [
+                    "She plays every day",
+                    "She hates it",
+                    "She takes lessons"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "35191354896745e3b6be0ff356075b98",
+                "text": "What kind of movie does she like?",
+                "answers": [
+                    "Dramas",
+                    "Comedies",
+                    "Horror"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "cb1da7e1fbff49a69598354d582885b5",
+        "name": "My Weekend",
+        "transcript": "Todd: Hey, Shantel, what do you do on the weekend?\n\nShantel: On the weekend, I wake up and, first, I make breakfast.\n\nTodd: Oh, what do you make?\n\n\nGet the Free Book\nShantel: I like to make toast.\n\nTodd: All right. I often eat toast, too.\n\nShantel: Do you put butter on your toast?\n\nTodd: I do. I put butter and jam.\n\nShantel: Ew, I love butter and jam on my toast.\n\nTodd: Do you eat cereal?\n\nShantel: No. I used to, but not anymore.\n\nTodd: On the weekend, I don't eat cereal. On the weekend, I cook a nice breakfast, but I eat cereal during the week. What else do you do on the weekend?\n\nShantel: Let's see. After I eat breakfast, I clean the kitchen and make my bed. What about you?\n\nTodd: I also clean my house. I clean my rooms. I vacuum. I wash the windows. I wash the dishes. I do my laundry. I do that on Saturday, but on Sunday, I have fun.\n\nShantel: What do you do for fun?\n\nTodd: I go to the park. I play sports. I play soccer at the park. Sometimes, I ride my bike. Sometimes, I go hiking. I do lots on Sunday. On Sunday, I relax. I don't study. I don't work, and I don't clean my house.\n\nShantel: Nice.\n\nTodd: What do you do on Sunday?\n\nShantel: I also enjoy my time on Sunday. I really like to meet my friends and, sometimes, we go to festivals or visit new cities, and we eat a lot of really good food.\n\nTodd: Oh, that sounds fun.\n\nShantel: Actually, we also really enjoy camping. Do you like camping?\n\nTodd: I love camping. I love the outdoors. I go hiking often.\n\nShantel: Oh, me, too.\n\nTodd: Oh, that's cool. What about Sunday evening?\n\nShantel: Oh, Sunday evening, I relax. I cook a big dinner, and I listen to music, and, sometimes, I read my book, but, often, I go to sleep very early on Sunday.\n\nTodd: Oh, wow.\n\nShantel: And you?\n\nTodd: Well, on Sunday, I don't cook. I usually order food. I order pizza or maybe I eat at a restaurant, and then, later in the evening, on Sunday, I always watch TV. My favorite TV show is on Sunday night.\n\nShantel: What's your favorite TV show?\n\nTodd: My favorite TV show is called Billions.\n\nShantel: Billions?\n\nTodd: Yeah. It's about money and power in New York. It's very interesting.\n\nShantel: Nice. Maybe I should watch it.\n\nTodd: Oh, you should, but you go to bed early.\n\nShantel: Yes, around nine o'clock.\n\nTodd: Oh, okay, maybe you can see it.\n\nShantel: Okay.",
+        "questions": [
+            {
+                "id": "a4ef1e6a8d72448d881776cbfd5ca52b",
+                "text": "What doesn’t she put on her toast?",
+                "answers": [
+                    "Jam",
+                    "Butter",
+                    "Veggie Mite"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "6049b5d681ed4174aee2c35389b8f42a",
+                "text": "What doesn’t he do on Saturday?",
+                "answers": [
+                    "Vacuum",
+                    "Wash his car",
+                    "Wash his clothes"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "050105dd056b4dcdb25935709aa67170",
+                "text": "What doesn’t she do on the Sunday night?",
+                "answers": [
+                    "Read a book",
+                    "Go the gym",
+                    "Listen to music"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "e92ef72254414ed8b97c4438af162504",
+                "text": "What isn't his favorite show about?",
+                "answers": [
+                    "Money",
+                    "Sports",
+                    "People in New York"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "cdb35acaf2214b0aa10d216efdddbef1",
+                "text": "When does she go to bed?",
+                "answers": [
+                    "8",
+                    "9",
+                    "12"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "f665ff2ab4a44fc681b599c98f8451ea",
+        "name": "Colors",
+        "transcript": "Meg: Hey, Todd. Let's talk about colors.\n\nTodd: All right.\n\nMeg: What is blue?\n\nTodd: The ocean is blue. The sky is blue. During the day, the sky is blue. And my eyes are blue.\n\n\nGet the Free Book\nMeg: Oh, mine too. What is red?\n\nTodd: Red. Let's see. Well, tomatoes are red. Strawberries are red, and ...\n\nMeg: And roses are red.\n\nTodd: Roses are red. That's right.\n\nMeg: Yeah. What is green?\n\nTodd: Well, lots of vegetables are green. Lettuce is green. Cabbage is green or purple. And asparagus is green.\n\nMeg: Asparagus, right. Also, grass is green.\n\nTodd: That's right. Grass is green.\n\nMeg: What is yellow?\n\nTodd: Well, lemons are yellow. The sun is yellow, sometimes, or orange.\n\nMeg: Or red.\n\nTodd: What else is yellow?\n\nMeg: Sunflowers are yellow.\n\nTodd: Sunflowers are yellow. That's nice.\n\nMeg: What is orange?\n\nTodd: Also, sometimes the sun is orange. Oranges are orange.\n\nMeg: Of course.\n\nTodd: And persimmons are orange.\n\nMeg: Yes.\n\nTodd: Oh, I know.\n\nMeg: What?\n\nTodd: Carrots.\n\nMeg: Carrots.\n\nTodd: Carrots are orange.\n\nMeg: Of course. Carrots are orange. What is black?\n\nTodd: Sometimes dirt is black. The night sky is black.\n\nMeg: Right. And your shirt is black.\n\nTodd: Yes. I like my black shirt.\n\nMeg: What is white?\n\nTodd: Vanilla Ice Cream is white. The snow is white.\n\nMeg: Yes. And clouds are white.\n\nTodd: Clouds are white. And sometimes clouds are black.\n\nMeg: Yes, when it's going to rain.\n\nTodd: Or gray.\n\nMeg: Right. What is pink?\n\nTodd: Some flowers are pink. Cotton candy is pink.\n\nMeg: Yes.\n\nTodd: And, sometimes lollipops are pink.\n\nMeg: Yeah. A lot of candy is pink, sometimes.\n\nTodd: Now, sometimes women's clothing is pink.\n\nMeg: Or men's.\n\nTodd: Or men's. Do you like pink shirts?\n\nMeg: I don't usually wear pink shirts. What about you?\n\nTodd: I don't like pink shirts. I don't like pink, actually.\n\nMeg: Oh, that's too bad.\n\nTodd: What is your favorite color?\n\nMeg: My favorite color is orange.\n\nTodd: Really? Orange?\n\nMeg: Yeah, I love orange. It's so bright. What about you?\n\nTodd: I have three. I like the same. I know I like green. I love green, I love blue, I love purple.\n\nMeg: You like the cool colors.\n\nTodd: Right. I don't like orange, I don't like yellow, and I don't like pink.\n\nMeg: You don't like the warm colors.\n\nTodd: Yes. Bright colors, not so much.\n\nMeg: I see.\n\nTodd: What about red? Do you like red?\n\nMeg: I don't especially like red. I like red poppies, a type of flower.\n\nTodd: All right, yeah.\n\nMeg: But I don't like to wear red.\n\nTodd: Yeah, me too. Do you dislike any colors?\n\nMeg: Actually, I don't like brown. I think it's a boring color.\n\nTodd: Yeah, that's true. But often dogs are brown and I love dogs.\n\nMeg: I also like dogs, so a brown dog is okay. But a brown shirt, no, thank you.",
+        "questions": [
+            {
+                "id": "1fd3f68d6da542f6afca713ddc24b893",
+                "text": "What doesn’t he say is blue?",
+                "answers": [
+                    "The sky",
+                    "The ocean",
+                    "Blueberries"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "88f066bc9cb343a7b9364e3152e731d7",
+                "text": "What doesn’t he say is green?",
+                "answers": [
+                    "Grass",
+                    "Cabbage",
+                    "Asparagus"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "243d3652424242129306526c34a02ded",
+                "text": "What does she say is yellow?",
+                "answers": [
+                    "The sun",
+                    "Lemons",
+                    "Sunflowers"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "207b375bb2b0444e95455face4e70e38",
+                "text": "What does she say is white?",
+                "answers": [
+                    "The clouds",
+                    "Ice cream",
+                    "Snow"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "22d8431c428648f29de099cb7835a74b",
+                "text": "What does she say is pink?",
+                "answers": [
+                    "Her shirt",
+                    "Flowers",
+                    "Candy"
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "fa1cbb2a01d947c090c7ed08c0a2b1cd",
+        "name": "My Hometown",
+        "transcript": "Meg: Hey Todd, what is your hometown?\n\nTodd: My hometown is San Francisco.\n\nMeg: Oh, nice. Is your town beautiful?\n\nTodd: Yes. San Francisco is very beautiful. It has a nice view of the ocean.\n\n\nGet the Free Book\nMeg: Sounds nice. Is your town clean?\n\nTodd: It's pretty clean. Sometimes, it's dirty. Some places are dirty, but usually, the city is clean.\n\nMeg: Oh. Is San Francisco dangerous?\n\nTodd: No, it's not too dangerous. Sometimes, we have crime, but it's safe.\n\nMeg: Great. Is your town expensive?\n\nTodd: Yes. San Francisco is very expensive. Everything is expensive. Food is expensive. Housing is expensive. Shopping is expensive. Everything.\n\nMeg: Oh, really? Is San Francisco famous?\n\nTodd: Yes. It's very famous. In America, it's famous for its bridge. We have the Golden Gate Bridge. It's the world's most famous bridge, I think.\n\nMeg: I know that bridge. Is your town hot?\n\nTodd: Never. San Francisco is never hot. It's never super cold, but it's never hot. It's always warm or cool.\n\nMeg: Sounds great. Is San Francisco interesting?\n\nTodd: I think so. It's a very interesting city. We have people from everywhere, and we have good food. We have nature nearby, and we have interesting buildings.\n\nMeg: Wow. I'd like to go there.\n\nTodd: Ooh, you should. What about your city? What's your city?\n\nMeg: My city is Chicago.\n\nTodd: Ooh, Chicago. Chicago. Is your city beautiful?\n\nMeg: Yes. It's very beautiful, with lots of tall buildings and a big lake.\n\nTodd: Ooh, nice. Is Chicago clean?\n\nMeg: Some parts of Chicago are clean, and other parts are a little dirty.\n\nTodd: How about dangerous? Is Chicago dangerous?\n\nMeg: Similarly, some parts are dangerous and some parts are safe.\n\nTodd: Yeah. San Francisco is the same. I think every American city is the same.\n\nMeg: I think that's true.\n\nTodd: Most places are safe, but some places are dangerous.\n\nMeg: Right.\n\nTodd: Is Chicago expensive?\n\nMeg: Yes. Because it's such a big city, almost everything is expensive.\n\nTodd: Oh.\n\nMeg: Food, attractions, parking, entertainment, everything.\n\nTodd: Sounds like San Francisco.\n\nMeg: I think so, a little similar.\n\nTodd: Is it hot?\n\nMeg: It can be hot in the summer. Usually July or August, it gets hot sometimes.\n\nTodd: Is it interesting?\n\nMeg: Yes, of course. Chicago is very interesting. We have many museums, and things to do, and we also have nature. At the lake, you can go and enjoy a day on the beach.\n\nTodd: Oh, nice.\n\nMeg: Yeah.\n\nTodd: Is Chicago by the ocean?\n\nMeg: It's not by the ocean. It's by a really big lake called Lake Michigan. What about San Francisco? Is it by the ocean?\n\nTodd: Yeah, San Francisco is on the ocean. It's on the Pacific Ocean.\n\nMeg: Right.\n\nTodd: o we have really nice beaches.\n\nMeg: Do you like the beach?\n\nTodd: I do, but the beaches in San Francisco are a little cold.\n\nMeg: Oh.\n\nTodd: In Los Angeles, they're warm, but Los Angeles is not interesting, and it's expensive, and it's not beautiful, so I don't like Los Angeles.\n\nMeg: So we should stick with San Francisco.\n\nTodd: Or Chicago.\n\nMeg: Yeah.\n\nTodd: Okay.",
+        "questions": [
+            {
+                "id": "bb17170611e5450bb982af10a7f51380",
+                "text": "Is his city clean?",
+                "answers": [
+                    "Yes",
+                    "Usually",
+                    "No"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "d7714a62810c491d82f298b1d20a901d",
+                "text": "Is his city dangerous?",
+                "answers": [
+                    "Yes, very dangerous",
+                    "No, not really",
+                    "No, it is very safe"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "8c65ac6598094714a1900259d5f1efde",
+                "text": "Is his city expensive?",
+                "answers": [
+                    "Yes, very expensive",
+                    "In some places",
+                    "No, not at all"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "6fc12f1ac62c4667b2eeec5863e988b5",
+                "text": "What is expensive about her city?",
+                "answers": [
+                    "The food",
+                    "Nothing"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "a80cdd6f68a647bebca8c70a2f26b578",
+                "text": "What isn’t interesting about her city?",
+                "answers": [
+                    "The nature",
+                    "The food",
+                    "The weather"
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "38ee3efb1bb642a687300d46f78981c9",
+        "name": "Days of the Week",
+        "transcript": "Todd: So, Meg, are you busy? Do you have a busy week?\n\nMeg: Yes. I usually have a busy week.\n\nTodd: Yeah, me too. So what day is your busiest day?\n\n\nGet the Free Book\nMeg: My busiest day is Thursday.\n\nTodd: Why?\n\nMeg: On Thursday, I have to work from early in the morning until around 6:00 p.m. I have to teach classes. And then after that, I need to do my shopping at the supermarket.\n\nTodd: Okay. I do my shopping on Saturday.\n\nMeg: Oh, really?\n\nTodd: Yeah, always on Saturday.\n\nMeg: What else do you do on Saturday?\n\nTodd: On Saturday, I do all my boring activities.\n\nMeg: Like what?\n\nTodd: I do my shopping. I do my laundry. I run errands. I clean my apartment. I do boring stuff because on Sunday, I like to have fun.\n\nMeg: What do you like to do on Sunday?\n\nTodd: On Sunday, I often go hiking or I go to the park or I go to the beach. I go to the beach almost every Sunday.\n\nMeg: Wow, that sounds really fun.\n\nTodd: Yeah, the beach is beautiful. Nobody is there. It's really nice.\n\nMeg: Yeah, it sounds great.\n\nTodd: How about you? What do you do on Sunday?\n\nMeg: On Sunday, I always go to church in the morning, and sometimes I'll have lunch with friends after church.\n\nTodd: Oh, cool.\n\nMeg: And then, I usually clean as well, Sunday evening before the new week starts.\n\nTodd: Now, do you work Monday through Friday?\n\nMeg: Yes, I work every weekday. What about you?\n\nTodd: I work Monday, Tuesday, Thursday, Friday. I don't work Wednesday.\n\nMeg: Oh, what's your schedule like on Wednesdays?\n\nTodd: On Wednesdays, I usually stay at home and I relax. Sometimes, I go shopping. Sometimes, I go to the park. Sometimes, I prepare lessons because I'm a teacher.\n\nMeg: So, sometimes you do a little work on Wednesdays?\n\nTodd: Yes, but I do work at my house.\n\nMeg: Oh, right.\n\nTodd: I never go to school on Wednesday.\n\nMeg: Why not?\n\nTodd: Because it's a day off. So, how about Monday? Are you busy on Monday?\n\nMeg: I'm usually busy on Monday because my schedule is similar to Thursday, so I have to teach class until around 6:00 p.m.\n\nTodd: Yeah, Mondays are busy for me too. Mondays are busy. Thursdays also are busy. Tuesday and Friday are not so busy.\n\nMeg: Your schedule sounds a little similar to mine.\n\nTodd: Yeah. Well, we're both teachers.\n\nMeg: That's true.\n\nTodd: What about activities? Do you do any activities during the week?\n\nMeg: During the week, if I have free time, sometimes I will watch a TV show or a movie and I also go to Japanese language class.\n\nTodd: Oh, nice.\n\nMeg: Yeah, so sometimes I have homework so I have to do my Japanese language homeworks some nights. What about you?\n\nTodd: I play futsal on Tuesday nights. Every Tuesday, I play futsal with my friends for two hours and that's fun. And then, sometimes on Friday, I meet my friends for dinner.\n\nMeg: That sounds good.\n\nTodd: And I also like sports so I usually watch sports on TV on Monday.\n\nMeg: What sports do you usually watch on Monday?\n\nTodd: I watch everything. I watch baseball. I watch basketball. I watch American football and I watch soccer. So I come home and I watch a video of a game from Saturday or Sunday. I don't watch sports on Saturday or Sunday. I watch the video later on Monday night.\n\nMeg: Is it better that way?\n\nTodd: Yeah. Usually, I don't check the internet, so I don't know the score.\n\nMeg: Well, it sounds like you have a busy schedule.\n\nTodd: You too.",
+        "questions": [
+            {
+                "id": "ad37b18d781b482d9ebf991cdba9830e",
+                "text": "On what day is she busy?",
+                "answers": [
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "497e1216c45141dc9af740b6674c96bf",
+                "text": "What day does he go shopping?",
+                "answers": [
+                    "Friday",
+                    "Saturday",
+                    "Sunday"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "c6e0bb4d6c0b4e79a483ba936ff6d891",
+                "text": "What does she do on Sunday?",
+                "answers": [
+                    "Eat with friends",
+                    "Go to the gym",
+                    "Stay home all day"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "89f1710919d34a44935802ee306b0717",
+                "text": "What days doesn’t he work?",
+                "answers": [
+                    "Monday",
+                    "Wednesday",
+                    "Friday"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "63f3586f1fde456b88f2684542dcddab",
+                "text": "What does does she do in her free time?",
+                "answers": [
+                    "Study language",
+                    "Go to the gym",
+                    "Surf the net"
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    {
+        "id": "5cb57c48b8c14e9298d52ee5dd1a6358",
+        "name": "What languages do you speak?",
+        "transcript": "Todd: So, Abidemi, let's talk about languages.\n\nAbidemi: Sure.\n\nTodd: You are from Nigeria and Nigeria has many languages, correct?\n\n\nGet the Free Book\nAbidemi: That's true, yes.\n\nTodd: How many languages can you speak?\n\nAbidemi: I would say that I can speak one language very well.\n\nTodd: Me too.\n\nAbidemi: And that would be English. But, I speak other languages fairly well. Yoruba, which is a Nigerian language, French, and a little bit of Japanese as well.\n\nTodd: You are Canadian also, and in Canada, students study French, correct?\n\nAbidemi: That's true, yes.\n\nTodd: Do you speak French often in Canada?\n\nAbidemi: While I was living there I spoke it a lot more, yes.\n\nTodd: Do you like French?\n\nAbidemi: I love French. I love learning languages.\n\nTodd: French, I think, is very hard for some people, myself included, because the pronunciation of some words is very different than the pronunciation of American English. I think it's funny that there are some words in French that look exactly the same as words in English but we pronounce them completely differently. For example, I will say the word in English, and you say the same word in French. Okay?\n\nAbidemi: I will try.\n\nTodd: For example. Impossible.\n\nAbidemi: [French 00:01:46].\n\nTodd: Right, so that is so interesting. Again, impossible.\n\nAbidemi: [French 00:01:49].\n\nTodd: And they're spelled the same, correct?\n\nAbidemi: That's true.\n\nTodd: Yeah, how about reservation?\n\nAbidemi: [French 00:01:56].\n\nTodd: That's so cool.\n\nAbidemi: I have never thought of it like that before, Todd, but you're right. They look the same but the pronunciations are different.\n\nTodd: I think it's a trick because we see the word, and we know how to say it one way, but we have to say it a different way.\n\nAbidemi: That's true.\n\nTodd: We just can't do that well.\n\nAbidemi: That's true.\n\nTodd: So, you can speak Yoruba.\n\nAbidemi: Yoruba, yes.\n\nTodd: Yoruba. How do you say, \"How are you?\" In Yoruba.\n\nAbidemi: [Yoruba 00:02:33].\n\nTodd: Oh, that's so cool. Again?\n\nAbidemi: [Yoruba 00:02:35].\n\nTodd: [Yoruba 00:02:37]?\n\nAbidemi: [Yoruba 00:02:38].\n\nTodd: Oh wow. That's so cool.\n\nAbidemi: Thank you.\n\nTodd: Have you ever taught that language?\n\nAbidemi: No, never. I don't think too many people want to learn it outside of Nigeria.\n\nTodd: I think, in the future, more people will want to learn unique languages.\n\nAbidemi: I hope you're right.\n\nTodd: Yeah, maybe.\n\nAbidemi: Maybe.\n\nTodd: What language do you want to learn in the future?\n\nAbidemi: I have many that, if I had more time, I would like to learn. I'm interested in Japanese, of course. I live in Japan now, so I would like to speak it better. I would also like to learn Mandarin, Russian, Hausa, another Nigerian language, Spanish, and maybe a couple of others.\n\nTodd: Yeah, there's so many languages I want to learn. I want to learn Spanish too. I can speak some Thai and Japanese because I lived as a teacher in both countries. But, I want to learn a language that has the same alphabet. I can read Thai but not very well. I can read Japanese but not very well. I want to learn a language where it's easy to read and see what the word is. In Thai, you can't do that. In Japanese, you can't do that.\n\nAbidemi: I know what you mean. It would make it easier to learn the language.\n\nTodd: But in Russian, you can't do that.\n\nAbidemi: That's true.\n\nTodd: It's completely different.\n\nAbidemi: That's true, but they have alphabets that are the same. You just have to decode them.\n\nTodd: A little bit, yeah. We have the phrase, it's all Greek to me, which means you have no idea. Anyway, thanks a lot, Abidemi.\n\nAbidemi: Thank you, Todd.",
+        "questions": [
+            {
+                "id": "ea7861bca51e446eb9ce9d601f389ca3",
+                "text": "How many languages does she speak?",
+                "answers": [
+                    "Two",
+                    "Three",
+                    "Four"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "c57258192ac84663ab630a6916bd3cb5",
+                "text": "What is similar about French and English?",
+                "answers": [
+                    "Spelling of words",
+                    "Pronunciation of words",
+                    "Word stress"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "e7362b8a6198425ebfb472b61385953c",
+                "text": "What does she teach him to say in Yoruba?",
+                "answers": [
+                    "How are you?",
+                    "Thank you.",
+                    "Good bye."
+                ],
+                "correct": 0
+            },
+            {
+                "id": "883f9fd015084125ae2a355557478439",
+                "text": "What language does she want to learn?",
+                "answers": [
+                    "Thai",
+                    "Mandarin",
+                    "Vietnam"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "1f7f3ad1af2540a99fffd8465a1bb95a",
+                "text": "What language does he want to learn?",
+                "answers": [
+                    "Thai",
+                    "Spanish",
+                    "Russian"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "564ba1495f0748aab98bdbf0def20672",
+        "name": "What is a typical day for you?",
+        "transcript": "Todd: So Natalie, what is a typical day for you? For example, what is a typical morning?\n\nNatalie: Well, I wake up at about 7.00 a.m.\n\nTodd: Oh that's early.\n\nNatalie: Yes, I really am a morning person.\n\n\nGet the Free Book\nTodd: I think you are a morning person. I'm not a morning person at all.\n\nNatalie: Well, I don't actually get out of bed until about 7.30.\n\nTodd: Okay, so what do you do?\n\nNatalie: Well, I play on my phone, I check my emails, I check Facebook, and I read the news.\n\nTodd: Do you eat breakfast at home?\n\nNatalie: I usually prepare breakfast at home, yeah.\n\nTodd: What do you eat?\n\nNatalie: Oh, just the simple stuff, eggs, bacon, sausages, sometimes I'll have toast.\n\nTodd: Do you drink coffee or tea?\n\nNatalie: No, I don't like coffee or tea.\n\nTodd: Oh, what do you drink?\n\nNatalie: Actually, I like hot chocolate in the morning.\n\nTodd: Yeah, I like hot chocolate too. So what about your day?\n\nNatalie: Well, I'm a teacher. I teach at a school. Lessons start at about 9.00 a.m. and we have lunch at noon.\n\nTodd: How many classes do you have in the morning?\n\nNatalie: Each class lasts an hour, so I have three classes.\n\nTodd: Do you eat lunch at school?\n\nNatalie: Yes, we have a huge canteen.\n\nTodd: Is the food good?\n\nNatalie: The food is great and it's so much fun eating with the students too.\n\nTodd: Is the food cheap or expensive?\n\nNatalie: It's pretty cheap. I'd say maybe $3 for lunch.\n\nTodd: Oh that's really good.\n\nNatalie: Yeah, and for that you get a lot of food.\n\nTodd: What do you do in the afternoon?\n\nNatalie: In the afternoon I have more lessons, usually taking me till about 4.00 p.m.\n\nTodd: Oh and do you have big classes?\n\nNatalie: Yes, so I teach English, that means I teach the whole year, so I have really big classes. We have about 200 students at the school.\n\nTodd: That's a lot.\n\nNatalie: Yes it is.\n\nTodd: What about the evening? What do you do in the evening?\n\nNatalie: When I get home I'm usually really tired, so I get changed into my pajamas and I watch TV for about two hours. After that, I'll maybe have some dinner, maybe get a pizza and then read a book or play on my phone again.\n\nTodd: What do you watch on TV?\n\nNatalie: I really like watching Korean drama.\n\nTodd: Korean dramas are cool.\n\nNatalie: I know, the characters are so much fun.\n\nTodd: Do you listen to K-pop?\n\nNatalie: A little bit but I think it's a little bit boring. I prefer American pop.\n\nTodd: Oh so you like Korean dramas and American music?\n\nNatalie: That's right. I also like game shows.\n\nTodd: Oh, what game shows?\n\nNatalie: Well actually my favorite one is Busted, and that's also Korean.\n\nTodd: Okay, I need to see that. So when do you go to bed?\n\nNatalie: Most nights I go to bed at around 10.00 p.m. but at the weekend, sometimes it's later, maybe around midnight.\n\nTodd: Well I think you have an interesting and long day.\n\nNatalie: That's right, I'm usually very tired.",
+        "questions": [
+            {
+                "id": "f6702fdc549f48308fe991063d3a4a0e",
+                "text": "When does she get out of bed?",
+                "answers": [
+                    "Before six",
+                    "Before seven",
+                    "Before eight"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "c882212634e24c48b0b3379ac5eb2637",
+                "text": "What does she do in the morning in bed?",
+                "answers": [
+                    "Read books",
+                    "Check her phone",
+                    "Go back to sleep"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "7aaadf3ecb414cc78051f572f329cb22",
+                "text": "What does she like to eat in the morning?",
+                "answers": [
+                    "toast",
+                    "cereal"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "528471e19ade46f49dffa21f78165596",
+                "text": "What does she drink in the morning?",
+                "answers": [
+                    "tea",
+                    "coffee",
+                    "hot chocolate"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "c404b30ee06245b983de5041694ca568",
+                "text": "What does she do in the evening?",
+                "answers": [
+                    "do yoga",
+                    "watch TV"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "e396f63d289e42788f23fc5885f2f118",
+        "name": "Subject Pronouns",
+        "transcript": "Todd: Hello, Shantel.\n\nShantel: Hello.\n\nTodd: Let's play a game.\n\nShantel: Okay.\n\n\nGet the Free Book\nTodd: Can you guess the famous person?\n\nShantel: Let's play.\n\nTodd: Okay, person number one. She is American, she is a singer, she is young, she is about 25 years old, and now she is very famous. Her hair is blonde and she is very cute and very pretty.\n\nShantel: Hmm. Is it Taylor Swift?\n\nTodd: Yes, correct. Ding-ding-ding-ding-ding.\n\nShantel: Woo!\n\nTodd: Okay, so the next person is also very famous, he is from Argentina. He is a soccer player, he is very good at sports, and he is on a team in Spain.\n\nShantel: On a team in Spain?\n\nTodd: Yeah, he is very good. He is a little short, but he is quick, he is very fast.\n\nShantel: Hmm. I don't watch soccer so much, but is it Cristiano Ronaldi?\n\nTodd: No. It is Lionel Messi.\n\nShantel: Ooh, I don't know who he is.\n\nTodd: Oh no. Ronaldo is the rival of Lionel Messi.\n\nShantel: I see.\n\nTodd: Okay, so 1-1. Alright, ready? Next one. This person is from Hong Kong, he is older, he is my age, about 50, maybe older. He is good at martial arts, he is in many movies.\n\nShantel: Okay.\n\nTodd: Oh, also he is funny, he is very funny.\n\nShantel: Is it Jackie Chan?\n\nTodd: Yes, correct. Ding-ding-ding.\n\nShantel: Yay!\n\nTodd: Okay, so now let's switch. You ask me.\n\nShantel: Okay. This person is a woman, she is American, and she is a very famous singer in the United States and in the world. She is married to a very famous rapper. Do you know who she is?\n\nTodd: Is she Beyonce?\n\nShantel: Yes, very good.\n\nTodd: Bing-bing-bing-bing.\n\nShantel: She is Beyonce.\n\nTodd: Oh, nice.\n\nShantel: Okay, are you ready for the next person?\n\nTodd: I'm ready.\n\nShantel: He is a Jamaican and he runs really fast.\n\nTodd: Okay, he is fast, he's from Jamaica.\n\nShantel: Mm-hmm (affirmative), and he is so fast he joined the Olympics and won many times.\n\nTodd: Is he a gold medal winner?\n\nShantel: He is a gold medal winner.\n\nTodd: Oh, I know.\n\nShantel: Who is it?\n\nTodd: It is Usian Bolt.\n\nShantel: Correct.\n\nTodd: Yay!\n\nShantel: Ding-ding-ding.\n\nTodd: Thanks, Shantel.",
+        "questions": [
+            {
+                "id": "68b9f1ad112d42e9b627e97d178124ce",
+                "text": "Who is the first person?",
+                "answers": [
+                    "A singer",
+                    "An athlete",
+                    "An actress"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "88b8785f1a1e47198632ea00efbcc418",
+                "text": "Who is the second person?",
+                "answers": [
+                    "A singer",
+                    "An athlete",
+                    "An actor"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "5f2a8888c94c47e39885e781b2f5641b",
+                "text": "Who is the third person?",
+                "answers": [
+                    "A singer",
+                    "An athlete",
+                    "An actor"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "88300e5c9d98435289632acb3023dfd8",
+                "text": "Who does she talk about first?",
+                "answers": [
+                    "A model",
+                    "A rapper",
+                    "A singer"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "0ee014c164a74a0c97b84223aad209a7",
+                "text": "Who famous man does she talk about?",
+                "answers": [
+                    "An American",
+                    "A Jamaican",
+                    "An Australian"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "4595091c87b14c37b0aaf339b2000e42",
+        "name": "Object Pronouns",
+        "transcript": "Shantel: So Todd, you live in Japan. Do you see your family often?\n\nTodd: Yes. I see them often. I see them usually once a year, but I write to them often, and I call them sometimes.\n\n\nGet the Free Book\nShantel: Okay. And when you see them, do you go to the United States to visit them, or do they come to Japan?\n\nTodd: I go to America, and then everyone goes to my mom's house, and everybody meets me at my mom's house, which is nice. I see my sister, and we talk a lot, and it's good.\n\nShantel: Does your mother miss you?\n\nTodd: Yes. She misses me and I miss her a lot, so it's very nice to see her, and also, I miss my dad. I miss him a lot, so I'm always happy to see him.\n\nShantel: Nice. What about your sister? When you're in the United States, do you have some activities you like to do together?\n\nTodd: Yeah, sometimes we do stuff together. Maybe I will meet her at a café, or I will go shopping with her, so we do something fun each time I go back.\n\nShantel: Nice.\n\nTodd: Also, when I go home, I see my best friend, and that's always nice. I usually meet him for dinner, and of course I call him, and it's always nice to see my best friend. How about your family?\n\nShantel: Well, since I live in Japan, I also call them and write them, but usually, we only Skype about once a month.\n\nTodd: Oh. So, who do you Skype with the most, your mom or your dad?\n\nShantel: I Skype the most with my father, because he wakes up very early, so his time and his schedule match my schedule, so it is easy for us to Skype.\n\nTodd: Do you call him or does he call you?\n\nShantel: I usually call him, but sometimes he calls me. Usually, if he calls me, it's because I haven't called in a long time.\n\nTodd: Uh-oh.\n\nShantel: Mm-hmm (affirmative).\n\nTodd: So sometimes, you make him mad.\n\nShantel: A little angry.\n\nTodd: Right. That's nice.\n\nShantel: But-\n\nTodd: You have a brother too, right?\n\nShantel: I do have a brother, and I call him less frequently, because he is so busy with his job, so we speak about once or twice a month, by messages or by phone.\n\nTodd: Oh, that's nice. Do you follow your family on social media?\n\nShantel: Yes. I use Facebook.\n\nTodd: Oh, I use it too.\n\nShantel: It is a really easy way to keep in contact with them.\n\nTodd: Yeah, I agree. What about other social media? Do you use Twitter?\n\nShantel: No. I don't use Twitter, and I don't use other social media either, only Facebook.\n\nTodd: Ah, that's good, I think. Too much is too bad.\n\nShantel: I agree, but I do love Facebook, because I can speak with my brother, and my mother, and my father anytime.\n\nTodd: So, with Facebook, do you check it every day?\n\nShantel: I do check it every day. Maybe it's a bad habit, but I do like to check it every day. Do you check your Facebook every day?\n\nTodd: Not every day. I check it maybe three times a week.\n\nShantel: hree times a week?\n\nTodd: Yeah, I don't use it much, and I don't use it on my phone.\n\nShantel: Oh. That's a good idea.\n\nTodd: Yeah. I like my free time.\n\nShantel: Do you use other social media, such as Twitter or Instagram?\n\nTodd: I do use Twitter, but I don't use it on my phone. I only use it on the computer.\n\nShantel: Okay. What about Instagram?\n\nTodd: Oh, I don't use it at all. Do you use it?\n\nShantel: No, I don't use it.\n\nTodd: Oh, that's right. You only use Facebook.\n\nShantel: I only use Facebook.\n\nTodd: Oh, interesting. Well, that's nice that we can talk to our family on Skype and Facebook, because Japan is so far from America.\n\nShantel: Yes, and I think they are very happy too.\n\nTodd: Yeah, I think they are happy.",
+        "questions": [
+            {
+                "id": "b4f6652f703b4d4ebd26d606a455eb05",
+                "text": "How often does he see his family?",
+                "answers": [
+                    "Every year",
+                    "Twice a year",
+                    "Once every two years"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "d6bd5a109c0746fc97f50ded2e47c48f",
+                "text": "Where does he usually meet them?",
+                "answers": [
+                    "America",
+                    "Japan",
+                    "Both places"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "623de7ed039946eb843ff4a5ccd37d9f",
+                "text": "Who doesn’t he meet?",
+                "answers": [
+                    "His sister",
+                    "His mother",
+                    "His brother"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "4b775a809c9544e58b3d0c88bf2587f0",
+                "text": "Who doesn’t she meet?",
+                "answers": [
+                    "Her father",
+                    "Her brother",
+                    "Her sister"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "6cb76f2aa0d24f50873f8eb1770982be",
+                "text": "What doesn’t she use to contact family?",
+                "answers": [
+                    "Skype",
+                    "Twitter",
+                    "Facebook"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "effe5398067b4a01b846eecf9107c2a2",
+        "name": "I like that and those!",
+        "transcript": "Todd: Hey, Natalie, I like your outfit. It looks really cute.\n\nNatalie: Oh, hey Todd. Thank you.\n\nTodd: So, that shirt looks expensive. Did it cost a lot?\n\nNatalie: Oh, this one? Yeah. It was about $50.\n\nTodd: $50? That's a lot.\n\n\nGet the Free Book\nNatalie: I know. It's an American brand.\n\nTodd: Ah. Do they have that shirt in different colors?\n\nNatalie: Yes, so I actually have this top in six colors.\n\nTodd: Really? What colors?\n\nNatalie: I have it in purple, blue, red, gray, white, and black. Actually, I have two black ones, so that's seven.\n\nTodd: You have two shirts in black? Why?\n\nNatalie: Well, black is such a good color to wear. It matches everything.\n\nTodd: Yeah. So true, so true. What about your pants? Those pants are pretty cool too.\n\nNatalie: Oh, these? Yeah. These were much cheaper than the tops. I bought these in San Francisco. They cost about $40.\n\nTodd: Ooh. Those are cheap. That's a good price.\n\nNatalie: It is, and I only have one pair of these.\n\nTodd: And your shoes? Did you buy those shoes in San Francisco too?\n\nNatalie: No, I didn't buy these in San Francisco. These, I bought online.\n\nTodd: You bought them online?\n\nNatalie: Yes. These sandals are really hard to find, so I had to buy them through Amazon.\n\nTodd: Oh, I like Amazon. I buy lots of things on Amazon. For example, I bought this watch on Amazon.\n\nNatalie: How much did it cost?\n\nTodd: Well, this watch was really cheap. This watch only cost about $20.\n\nNatalie: Whoa.\n\nTodd: Yeah, but I have two watches, and I also bought a nice, gold watch on Amazon. That watch was very expensive. It cost $200.\n\nNatalie: Whoa, $200 on a watch? I think my watch only cost maybe $70, but I really like this watch. It's an Apple Watch. I bought it in Malaysia. I've had it for about two years now, but I think now that I have an Apple Watch, I'll always have Apple Watches.\n\nTodd: Yeah, that is a nice watch. I want an Apple Watch too.\n\nNatalie: Yeah, they're so cool. I spend so much time on my phone, and the watch works really well with my phone. I definitely recommend it.\n\nTodd: Yeah, I like this cheap watch, because if it rains, or if I play sports, or if I am traveling, I can take my cheap watch, because this watch is not important. I can break it. I can lose it. I can do anything. But my gold watch, that watch is expensive, so I keep it at home. I only wear it on nice occasions.\n\nNatalie: Oh, well it's nice to have something a little more expensive, but my watch can tell me what the weather's like, my watch can tell me how many calories I've burned, and my watch can tell me what the time is anywhere in the world.\n\nTodd: You know, I think I need to get a watch like that.\n\nNatalie: This is the greatest watch.",
+        "questions": [
+            {
+                "id": "9afa335dc5fc4083bbdb0fed29b855a1",
+                "text": "How many shirts does she have of the same top?",
+                "answers": [
+                    "three",
+                    "five",
+                    "seven"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "ef7c9dd16a69418a8348ef307df8151c",
+                "text": "What clothing items does she discuss?",
+                "answers": [
+                    "shoes",
+                    "socks",
+                    "a jacket"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "14d294078585401580efb3c65d08f987",
+                "text": "How much were the pants?",
+                "answers": [
+                    "40 dollars",
+                    "50 dollars",
+                    "80 dollars"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "471c83a1f7b14b5fa06ab4251d5869ae",
+                "text": "Where did she buy the pants?",
+                "answers": [
+                    "London",
+                    "San Francisco",
+                    "Online"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "f12cc9fcc5954d5293cfe258aa2713a4",
+                "text": "Who has a smart watch?",
+                "answers": [
+                    "Just him",
+                    "Just her",
+                    "Both of them"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "cad0429795c34a3bab19fa115800bc0e",
+        "name": "Japan vs Thailand",
+        "transcript": "Natalie: Hey, Todd. Let's talk about countries.\n\nTodd: All right. Let's do it.\n\nNatalie: You live in Japan right now.\n\nTodd: Yes. That's right. I live in Japan. I teach English in Japan.\n\nNatalie: Oh, cool. Tell me, what's expensive in Japan?\n\nTodd: Well, Japan is a very, very expensive country. Transportation is very expensive in Japan. Train tickets are expensive. Also, sometimes, taxis are expensive. Even buses are expensive.\n\n\nGet the Free Book\nNatalie: Wait. You don't have a car in Japan?\n\nTodd: Actually, I do have a car. That's funny because in Japan, cars are very cheap. Cars are cheap but taxis are expensive. It's crazy.\n\nNatalie: That's so weird. In the U.K., where I'm from, taxis are really cheap, but to have your own car, it's so expensive.\n\nTodd: Wow. That's strange.\n\nNatalie: I'm really interested in Japan. Tell me, what's beautiful in Japan?\n\nTodd: Oh, Japan has lots of beautiful things. The temples are very, very beautiful. The nature and the scenery are beautiful as well. There are beautiful forests, beautiful lakes, beautiful beaches, and even beautiful buildings.\n\nNatalie: Cool. What is difficult about living in Japan?\n\nTodd: Well, Japanese is difficult. Reading Japanese is very difficult. Writing Japanese is difficult because Kanji is difficult. Kanji is the Japanese character.\n\nNatalie: How many characters are there in Kanji?\n\nTodd: There are about 2,000 characters. It's difficult to learn all the characters, all the Kanji. It's very hard.\n\nNatalie: Wow. I bet that's really tough. Tell me, what's fun about living in Japan?\n\nTodd: Well, there's many things that are fun about Japan. The people are fun. They're very nice. Teaching English in Japan is fun. The students are very nice. Day-to-day life in Japan is fun and exciting. I live in Japan, but you live in Thailand. What about Thailand? What is expensive in Thailand?\n\nNatalie: Well, Thailand is a really cheap place to live, but some restaurants are really expensive. For example, if you go to a American restaurant, that's very expensive, but if you go to street food carts, they're really cheap.\n\nTodd: Yeah. The street food is very delicious.\n\nNatalie: It's amazing.\n\nTodd: Speaking of food, what Thai foods are really delicious?\n\nNatalie: My favorites are Pad Ka Prao. This is pork. It's spicy with rice and chili. I also like Tom Yum Goong. This is like a soup, but it's very spicy. It usually comes with shrimp and mushrooms, ginger. I usually get some rice.\n\nTodd: Yeah. I love Tom Yum Goong. It's really, really good. What is difficult about living in Thailand?\n\nNatalie: I think that transport is a very difficult part of living in Thailand. If you have a car, the roads are very busy. It takes a long time to get anywhere in the city. I usually use the subway or the skytrain system, but these get really busy in the morning. When I'm taking the train to work, there's usually so many people on the train at the same time. Sometimes, it actually makes me late for work.\n\nTodd: Yeah. The trains in Japan are really busy too. What is fun about life in Thailand?\n\nNatalie: Good question. I really like the people here. Thai people are so friendly. They're very fun. They always like to hang out.\n\nTodd: Yeah. Thailand sounds like a nice place to live.\n\nNatalie: Yeah. It's a great place to live, actually.",
+        "questions": [
+            {
+                "id": "fe4e5db7ef4649ffad91ae64aafd81a5",
+                "text": "What is expensive in Japan?",
+                "answers": [
+                    "cars",
+                    "taxis",
+                    "food"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "884ff15e33394421b9f534f0cd09ccd4",
+                "text": "What is cheap in the UK?",
+                "answers": [
+                    "food",
+                    "taxis",
+                    "food"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "72d853542e2c4aef897d3bc6d59d1461",
+                "text": "What is difficult in Japan?",
+                "answers": [
+                    "eating",
+                    "meeting people",
+                    "reading characters"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "42a8ce40a1984d2196096701e99d8ba1",
+                "text": "She says the roads are _____ in Thailand.",
+                "answers": [
+                    "busy",
+                    "dangerous",
+                    "fun"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "12740765989541e3a9925d822a8ad2e1",
+                "text": "The trains in Japan and Thailand are _____ .",
+                "answers": [
+                    "busy",
+                    "cheap",
+                    "on time"
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    {
+        "id": "72c9f4bf392a474d8f7df141b8a92839",
+        "name": "Months and Holidays",
+        "transcript": "Meg: Hey Todd, let's talk about months and American holidays.\n\nTodd: All right, let's do it.\n\nMeg: Great. What holiday is in January?\n\nTodd: Well, on January 1st, we have New Year's Day.\n\nMeg: Right.\n\nTodd: That's very fun.\n\n\nGet the Free Book\nMeg: Of course.\n\nTodd: I love New Year's Day.\n\nMeg: Me too.\n\nTodd: What about February?\n\nMeg: In February, we have Valentine's Day on February 14th.\n\nTodd: That's right, so romantic.\n\nMeg: Yes.\n\nTodd: I don't like Valentine's Day.\n\nMeg: Why not?\n\nTodd: I never have a girlfriend.\n\nMeg: Oh, sorry. What about March? What holiday is in March?\n\nTodd: March has St. Patrick's Day.\n\nMeg: Right.\n\nTodd: On March 17th?\n\nMeg: Yes. Do you usually celebrate St. Patrick's Day?\n\nTodd: I do. I love green. Green is my favorite color.\n\nMeg: Me too.\n\nTodd: Oh, nice.\n\nMeg: What about April?\n\nTodd: April has April fool's Day, but that's not a holiday.\n\nMeg: Not really, but it's still fun to celebrate on April 1st.\n\nTodd: Right. Oh, usually Easter is in April.\n\nMeg: Usually yes, but the day changes every year.\n\nTodd: Right. Sometimes it's March though.\n\nMeg: True.\n\nTodd: Right, okay.\n\nMeg: What about in May? What holidays are in May?\n\nTodd: In May, I think a lot of countries have a holiday on May 1st, but America doesn't have a holiday on May 1st, but we do like to have fun celebrations for Cinco de Mayo, May 5th.\n\nMeg: Right. What do you usually do for Cinco de Mayo?\n\nTodd: We usually eat Mexican food.\n\nMeg: Same.\n\nTodd: I hear that in Mexico they don't celebrate Cinco de Mayo.\n\nMeg: Really?\n\nTodd: Yeah, it's only in America.\n\nMeg: That's funny.\n\nTodd: Yeah, funny. I actually heard that St. Patrick's Day also is not popular in Ireland.\n\nMeg: Oh, that's surprising.\n\nTodd: Yeah, I don't know. Maybe.\n\nMeg: Maybe.\n\nTodd: Okay, what about June?\n\nMeg: In June, we have the first day of summer.\n\nTodd: What day is that?\n\nMeg: I think it's on June 21st.\n\nTodd: I think so.\n\nMeg: The longest day of the year.\n\nTodd: I love that day.\n\nMeg: Me too.\n\nTodd: It's the best.\n\nMeg: Yeah.\n\nTodd: In July?\n\nMeg: In July, in America of course, we have July 4th, Independence Day.\n\nTodd: Yeah. What do you do on July 4th, Independence Day?\n\nMeg: Usually, I would have a barbecue with friends and family and watch fireworks.\n\nTodd: Yeah, me too. The same.\n\nMeg: It's fun.\n\nTodd: What about August? Is there a holiday in August?\n\nMeg: I can't think of a holiday in August, but my brother's birthday is August 15th.\n\nTodd: That's great.\n\nMeg: Yeah, my younger brother.\n\nTodd: Oh wow.\n\nMeg: Do you know of any holidays in August?\n\nTodd: I don't, but usually school is out in August, so for the whole month there's no school.\n\nMeg: Yeah, vacation time. What about September?\n\nTodd: Well, September has Labor Day, but I don't remember the day. Is it September 1st?\n\nMeg: I'm not sure.\n\nTodd: I think it's September 1st, 2nd, 3rd, or 4th.\n\nMeg: I think it changes every year.\n\nTodd: Maybe it's the first Monday.\n\nMeg: I think so. Let's see, after September, what holiday is in October?\n\nTodd: The best holiday, Halloween.\n\nMeg: Yes, I love Halloween.\n\nTodd: Halloween is October 31st.\n\nMeg: Right. Every year.\n\nTodd: Plus, October has my birthday.\n\nMeg: Oh, what day is your birthday.\n\nTodd: October 2nd.\n\nMeg: Nice.\n\nTodd: Yeah. When is your birthday?\n\nMeg: Not until December.\n\nTodd: Coming up.\n\nMeg: Yes.\n\nTodd: Okay, so what holiday is in November?\n\nMeg: November, we have Thanksgiving Day.\n\nTodd: Yes. Actually, Thanksgiving is my favorite holiday.\n\nMeg: Oh, you said Halloween.\n\nTodd: I know, I change, I changed it.\n\nMeg: What day is Thanksgiving?\n\nTodd: It changes, like Easter. It's on the third Thursday.\n\nMeg: Is it the third or the fourth Thursday?\n\nTodd: It's the fourth Thursday.\n\nMeg: Oh, okay.\n\nTodd: You're right. It's on the fourth Thursday of every November.\n\nMeg: Right. How do you usually celebrate Thanksgiving?\n\nTodd: I have dinner with my family-\n\nMeg: Me too.\n\nTodd:... and I watch football.\n\nMeg: Yes, it's tradition.\n\nTodd: I watch football on [inaudible 00:04:55].\n\nMeg: Right. What about December?\n\nTodd: Well, December has Christmas, which is December 25th.\n\nMeg: Yes.\n\nTodd: We also have New Year's Eve, which is December 31st.\n\nMeg: Right, both fun holidays.\n\nTodd: Yeah, really good holidays. I like it because you get lots of time off work or school.\n\nMeg: Yeah, it's good to spend time with friends and family.\n\nTodd: And to get presents.\n\nMeg: Of course.\n\nTodd: When is your birthday?\n\nMeg: December 14th.\n\nTodd: Nice. I have to remember.\n\nMeg: Yes. You could give me a gift.\n\nTodd: What is your favorite holiday?\n\nMeg: My favorite holiday is actually Halloween.\n\nTodd: Okay, I change again, me too.",
+        "questions": [
+            {
+                "id": "c580bed1921f47b681e8d6ceefbc17e0",
+                "text": "When is Valentine's Day?",
+                "answers": [
+                    "January",
+                    "February",
+                    "March"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "25f47d348620456f84c5b3feb3c98998",
+                "text": "When is Saint Patrick's Day?",
+                "answers": [
+                    "March",
+                    "April",
+                    "May"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "dbdd1853cc734bfba862ca8c0c65ac7d",
+                "text": "When is Independence Day in America?",
+                "answers": [
+                    "May",
+                    "June",
+                    "July"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "f8066fef26354c5ca91c13697fc0fb14",
+                "text": "What day is popular in May?",
+                "answers": [
+                    "May Day",
+                    "Cinco de Mayo",
+                    "Thanksgiving"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "61d79b27ebd04d509f016221fc4a5256",
+                "text": "When is Labor Day?",
+                "answers": [
+                    "May",
+                    "September",
+                    "November"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "6843fb883ca4400092741d89e1d39009",
+        "name": "Class Schedule",
+        "transcript": "Todd: Hello. Are you the new teacher?\n\nNatalie: I am, yes. My name's Natalie. What's your name?\n\nTodd: I'm Todd. Nice to meet you.\n\nNatalie: Nice to meet you, too.\n\nTodd: Welcome to the school.\n\nNatalie: Thank you.\n\n\nGet the Free Book\nTodd: What is your morning schedule?\n\nNatalie: First period, I teach Math.\n\nTodd: So do I. I teach Math first period, too.\n\nNatalie: Oh, cool. After that, for second period, I teach French.\n\nTodd: You speak French?\n\nNatalie: I do. Oui Oui.\n\nTodd: That's great. Well, I speak some Japanese, so I teach Japanese second period.\n\nNatalie: Oh, that's so cool. I wish I spoke Japanese.\n\nTodd: Yeah, but my Japanese is not very good.\n\nNatalie: Oh.\n\nTodd: But I'm the only teacher that speaks Japanese, so I teach Japanese.\n\nNatalie: Maybe you could teach me one day.\n\nTodd: Maybe, but I don't know much. How about third period? What do you teach third period?\n\nNatalie: Third period, I teach English.\n\nTodd: Ah. I teach English, too. Our schedules are very similar.\n\nNatalie: I know, although it is my first day. I'm a little nervous.\n\nTodd: What about the afternoon schedule? What do you teach fourth period?\n\nNatalie: Fourth period, I think I have Physics.\n\nTodd: Oh, you teach Physics?\n\nNatalie: Yeah. I love Physics. Do you teach Physics?\n\nTodd: No, I don't teach Physics, but I teach Math. I teach Math fourth period.\n\nNatalie: Oh. What do you teach in fifth period?\n\nTodd: In fifth period, that's the sports period. I am the cross-country coach.\n\nNatalie: Oh. I have sports, too, but I'm the coach for swimming.\n\nTodd: Oh, really? Are you a good swimmer?\n\nNatalie: I think I'm a really good swimmer. How about you?\n\nTodd: I can swim, but I'm not a good swimmer. I like running.\n\nNatalie: Oh, I hate running. How far do you run?\n\nTodd: Well, for the class, usually we run 5K every day.\n\nNatalie: Wow! 5K. Sixth period, I hear that's our teaching hours.\n\nTodd: Yeah. Sixth period, we are in the classroom, but the students are free. They can do what they want. But students can come to class and ask questions.\n\nNatalie: Oh, cool. Do lots of students come and ask questions?\n\nTodd: Yeah. Some students come, but not too many.\n\nNatalie: Oh, okay.\n\nTodd: Well, this is your first day and your first week, so maybe the job will be a little crazy. But I think after your second or third week, the job will be very, very easy.\n\nNatalie: I hope so. I'm really excited to meet the students. They seem great.\n\nTodd: Oh, I think the students will like you a lot.\n\nNatalie: Oh, I hope so, too. Maybe if you have some time, you could give me a tour of the school?\n\nTodd: Sure. I'd love to.\n\nNatalie: Great. Thanks.",
+        "questions": [
+            {
+                "id": "ee7653e4c03b443abf57e55ff545d26d",
+                "text": "What does she teach first period?",
+                "answers": [
+                    "Math",
+                    "Science",
+                    "English"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "c01062edd5be46bbbcfa42fb45081758",
+                "text": "What does she teach first period?",
+                "answers": [
+                    "Japanese",
+                    "French",
+                    "English"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "4f31cc86aba0407f903c49e9d80da369",
+                "text": "What does she teach Third period?",
+                "answers": [
+                    "art",
+                    "history",
+                    "language"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "75966ef4adc842e2870f1e212c7a54f5",
+                "text": "What does she teach fourth period?",
+                "answers": [
+                    "physics",
+                    "biology",
+                    "chemistry"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "7f8128615dd241319d2fdcab8a1a23b4",
+                "text": "What does she coach fifth period?",
+                "answers": [
+                    "running",
+                    "swimming",
+                    "gymnastics"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "4bcf856fa9cf47db882f6be780e5eb34",
+        "name": "Favorites",
+        "transcript": "Todd: Hey Aimee, how are you today?\n\nAimee: I'm good, thanks Todd. And you?\n\nTodd: I'm good. Pretty good. Let's talk about your favorite things.\n\nAimee: OK.\n\nTodd: What is your favorite food?\n\nAimee: Ooh! My favorite food is avocado.\n\nTodd: Avocado?\n\nAimee: Honestly.\n\nTodd: Wow!\n\nAimee: How about you?\n\nTodd: My favorite food is pizza, I think. I love pizza.\n\nAimee: Oh, me too!\n\nTodd: It's so good.\n\nAimee: It's so delicious.\n\nTodd: Yeah.\n\nAimee: And what is your favorite movie?\n\nTodd: Well, my favorite movie is Star Wars.\n\nAimee: Classic!\n\nTodd: I know. And you? What is your favorite movie?\n\nAimee: Well, I do love Star Wars too, but my favorite movie Ferris Beuller's Day Off.\n\nTodd: Ooh! I like that movie a lot. Very good. Very good. So I was in high school the same time as the movie\n\nAimee: Were you?\n\nTodd: Yeah!\n\nAimee: Great!\n\nTodd: So cool. Who is your favorite actor?\n\nAimee: My favorite actor is Jean Reno.\n\nTodd: Hmm, the Frenchmen.\n\nAimee: Yes. Yes, he's French, but he's been in a lot of American movies too.\n\nTodd: Yeah, I like the movie Leon.\n\nAimee: Love it!\n\nTodd: It's very cool.\n\nAimee: Yes, I agree. How about you?\n\nTodd: My favorite actor is Brad Pitt, so I like Brad Pitt a lot.\n\nAimee: He's great.\n\nTodd: Yeah, he is good.\n\nAimee: Very talented.\n\nTodd: Ah, who ... I'm sorry ... what is your favorite season?\n\nAimee: My favorite season is probably Spring. I think. It's ... the cool of winter has passed and it's not too hot yet, so I think Spring. How about you? What's your favorite season?\n\nTodd: Oh, my favorite season is the Fall or Autumn. I love the Fall. I love the colors. It is not hot. It is not cold, and they are many holidays, and my birthday is in the Fall.\n\nAimee: They are great reasons to love Autumn.\n\nTodd: So, when is your birthday?\n\nAimee: Actually, my birthday is also in Autumn. My birthday is in October.\n\nTodd: Oh, wow! Me too. My birthday is also in October. What day?\n\nAimee: 14th!\n\nTodd: 14th!\n\nAimee: And you?\n\nTodd: The second. Cool! So next year let's have a birthday party together.\n\nAimee: OK.\n\nTodd: October birthday party.\n\nAimee: Good idea.\n\nTodd: So what is your favorite city?\n\nAimee: My favorite city is probably Osaka.\n\nTodd: Oh, in Japan.\n\nAimee: Yes, yes. So far. Yes, Osaka is very noisy and colorful and the people are very open and talkative, so I really enjoy Osaka.\n\nTodd: Nice.\n\nAimee: How about you? What's your favorite city?\n\nTodd: I think my favorite city is Barcelona.\n\nAimee: Ooh, in Spain.\n\nTodd: Yeah, it's very nice.\n\nAimee: It is.\n\nTodd: It's warm. It's beautiful. The food is delicious.\n\nAimee: Yes.\n\nTodd: People are nice.\n\nAimee: Yes.\n\nTodd: But it's expensive.\n\nAimee: Right.\n\nTodd: A little bit.\n\nAimee: Yeah.\n\nTodd: But Osaka is expensive.\n\nAimee: That's true.\n\nTodd: Very expensive.\n\nAimee: Yeah.\n\nTodd: OK, thanks.\n\nAimee: Thanks, Todd.\n\nTodd: Bye.\n\nAimee: Bye.",
+        "questions": [
+            {
+                "id": "f018de832e994443b6b05d014b18a429",
+                "text": "Her favorite food is _____ .",
+                "answers": [
+                    "abalone",
+                    "avocado",
+                    "pizza"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "e8dc433dfb5d4bd5b27cdd19b7a2b5f6",
+                "text": "Who really likes Star Wars?",
+                "answers": [
+                    "Only him",
+                    "Only her",
+                    "Both of them"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "eb72c8c641f4422a9b4783fd0ee0f6d5",
+                "text": "Her favorite actor is _____ .",
+                "answers": [
+                    "American",
+                    "British",
+                    "French"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "6fd4dde1bf7144c2bf40b6a84b931a48",
+                "text": "What is her favorite season?",
+                "answers": [
+                    "Winter",
+                    "Spring",
+                    "Fall"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "0fba33477e7c4110a41e2fb92f0ece13",
+                "text": "Their birthday is the same _____ .",
+                "answers": [
+                    "day",
+                    "month",
+                    "year"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "95053e6dba054fbebdcd3726b4bc88b8",
+                "text": "Her favorite city and his favorite city are both _____ .",
+                "answers": [
+                    "in Asia",
+                    "warm all year",
+                    "expensive"
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "51fcf0996619468eb5bacf2a670261ca",
+        "name": "Morning Routine",
+        "transcript": "Sarah: John, tell me about your day. What time do you wake-up?\n\nJohn: Well, let's see. Some days I wake up early. Maybe about 6 o'clock. Yeah, sometimes I wake up at 6 o'clock.\n\nWhen I get up early, I like to get ready for the day, take a shower and have breakfast. But other days, I don't like getting up early. Maybe I'll sleep in until 10:00 or 11:00.\n\nSarah: Wow.\n\nJohn: Yeah. I like sleeping in late. So sometimes, I wake up at 11:00. On those days, if I know I won't wake up until 11:00, I'll take a shower the night before, before I go to bed. How about you, Sarah? When do you usually wake up?\n\nSarah: Well, I like everyday to be the same. So I wake up everyday at 8 o'clock.\n\nJohn: 8:00.\n\nSarah: 8:00. And I always do the same thing. First, I make coffee right away. Then I wake up my kids and we have breakfast together at about 8:30.\n\nJohn: Really?\n\nSarah: Yes. We usually have something easy like bread and yogurt and fruit.\n\nJohn: I like to have coffee every morning whether I wake up at 6:00 or at 10:00. I'm still going to have coffee. But I often skip breakfast. Do you always eat breakfast everyday?\n\nSarah: Yes. If I don't eat breakfast, I'm so hungry. What about lunch? What time do you have lunch?\n\nJohn: Lunch is the same everyday for me. I always eat lunch at 12:30 PM. So whenever I wake up, I do some things and then I always have lunch at 12:30 PM, just half past noon. And I always have a simple lunch. Maybe some soup or spaghetti or a sandwich. Something light, and it's always at half past noon. What time do you eat lunch?\n\nSarah: That's interesting. I have breakfast at the same time everyday but lunch is always at a different time.\n\nJohn: Really?\n\nSarah: Because I'm busy in the morning. I go out, maybe I go shopping. Sometimes, I clean the house. So I might have lunch at 11 o'clock or 12 o'clock. Sometimes as late as 2:30.\n\nJohn: Oh, that's getting late.\n\nSarah: Yes. But it's always easy lunch like you. Maybe crackers and cheese or a sandwich or a baked potato.\n\nJohn: I see.",
+        "questions": [
+            {
+                "id": "99754aefd6b84d1cbf0e8d473899db76",
+                "text": "Who wakes up at 6?",
+                "answers": [
+                    "He does.",
+                    "She does.",
+                    "They both do."
+                ],
+                "correct": 0
+            },
+            {
+                "id": "4fad55e090fb472e9593174f2e90888d",
+                "text": "Who sometimes sleeps in?",
+                "answers": [
+                    "He does.",
+                    "She does.",
+                    "They both do."
+                ],
+                "correct": 0
+            },
+            {
+                "id": "88155fb3b2264f49b5598c6918a542dc",
+                "text": "She gets up at what time?",
+                "answers": [
+                    "6",
+                    "7",
+                    "8"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "c715a8ccbd664a40999c992343a0f28c",
+                "text": "Who usually eats breakfast?",
+                "answers": [
+                    "He does.",
+                    "She does.",
+                    "They both do."
+                ],
+                "correct": 1
+            },
+            {
+                "id": "11357acee33c41569e82c23fe99ea5a2",
+                "text": "Who usually has a different lunch every day?",
+                "answers": [
+                    "He does.",
+                    "She does.",
+                    "They both do."
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "403bd6311b2d4db08217048e9d9d711b",
+        "name": "Sandwich!",
+        "transcript": "Todd: Hey, Meg. Let's talk about sandwiches.\n\nMeg: Yum.\n\nTodd: How do you make your favorite sandwich?\n\nMeg: Well, my favorite sandwich is called a BLT. Bacon, lettuce, and tomato.\n\nTodd: Ooh, that's so good.\n\nMeg: Yeah, isn't it? It's very easy to make. First, slice the tomatoes, then toast the bread. Next, spread the mayonnaise on the toast. After that, fry the bacon. Then put everything together and add lettuce. Finally, cut the sandwich in half, and serve it with chips or fruit.\n\nTodd: Okay. That sounds great. Let me check. First, slice some tomatoes.\n\nMeg: Right.\n\nTodd: Then get some lettuce.\n\nMeg: You do need to get the lettuce, but after slicing the tomatoes, you should toast the bread.\n\nTodd: Okay. So, slice the tomatoes, toast the bread.\n\nMeg: Right.\n\nTodd: And then spread mayonnaise on the bread, on the toast.\n\nMeg: Uh-huh. Yup.\n\nTodd: And then add the tomato and lettuce.\n\nMeg: Mm-hmm.\n\nTodd: And then, oh. Fry the bacon ...\n\nMeg: Right.\n\nTodd: ... and put the bacon on the lettuce and tomato.\n\nMeg: And the toast.\n\nTodd: And the toast.\n\nMeg: Yes.\n\nTodd: I think I can do it.\n\nMeg: You can do it. What about you? What's your favorite sandwich?\n\nTodd: Oh, my favorite sandwich is really easy but a little unhealthy. It's a peanut butter and banana sandwich.\n\nMeg: Ooh, sounds delicious.\n\nTodd: So, similarly, first, toast some bread.\n\nMeg: Mm-hmm.\n\nTodd: And then spread peanut butter on one piece of toast.\n\nMeg: Uh-huh.\n\nTodd: Then cut up a banana into big slices.\n\nMeg: Big slices.\n\nTodd: Then put the slices of banana on the peanut butter.\n\nMeg: Mm-hmm.\n\nTodd: And then put the other toast over the bananas.\n\nMeg: Okay.\n\nTodd: So, put the sandwich together.\n\nMeg: Right.\n\nTodd: It's so delicious.\n\nMeg: Wow, it sounds pretty easy. Let's see if I can remember. So first, toast the bread?\n\nTodd: Yes.\n\nMeg: Then spread peanut butter on one slice of toast.\n\nTodd: Yes.\n\nMeg: After that was cut the banana into big slices.\n\nTodd: Mm-hmm.\n\nMeg: And finally, put the second piece of toast on top of the sandwich.\n\nTodd: Got it.\n\nMeg: That's it?\n\nTodd: That's it.\n\nMeg: Great.\n\nTodd: It's so good.\n\nMeg: I can't wait to try it.\n\nTodd: And I can't wait to try the BLT.",
+        "questions": [
+            {
+                "id": "1157e94470244a0093b94cb23c70e970",
+                "text": "Spread the _______.",
+                "answers": [
+                    "bread",
+                    "bacon",
+                    "mayonnaise"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "89b10aa3dee64ce1be04243d44588d0f",
+                "text": "Slice the _______ .",
+                "answers": [
+                    "bread",
+                    "cheese",
+                    "tomatoes"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "3c8441fa917e45fea92c054b49d38fce",
+                "text": "Fry the ________ .",
+                "answers": [
+                    "bread",
+                    "bacon",
+                    "both of them"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "ef57f4dcbe184045936843eec0522a5d",
+                "text": "Cut the ______ .",
+                "answers": [
+                    "bacon",
+                    "bananas",
+                    "bread"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "25e14c62322246aa89ef71d5a8eba94a",
+                "text": "On both sandwiches, _____ the bread.",
+                "answers": [
+                    "spread",
+                    "toast",
+                    "slice"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "8ade3d62f6c54f1eb61ab01eb46ddf68",
+        "name": "House and Things",
+        "transcript": "Aimee: So, Todd, do you like your house?\n\nTodd: I do. It's a nice house, but it's an old house. It's very old.\n\nAimee: How many rooms are in your house?\n\nTodd: My house has four rooms, a living room, a sleeping room, a study room, and a kitchen.\n\nAimee: That sounds big. How about bathrooms? How many bathrooms do you have?\n\nTodd: I have two bathrooms or toilets, and then I have one washing room to take a shower.\n\nAimee: Oh, nice. Do you have a TV?\n\nTodd: I do have a TV in the living room, and I have a big couch and a nice table, and I have cable TV.\n\nAimee: Wow.\n\nTodd: I have cable, but I don't watch TV much.\n\nAimee: Oh, well, what about your kitchen. Do you have a kitchen?\n\nTodd: I do. I have a very small kitchen. My kitchen has one stove, a small stove, a table, and a refrigerator, and a microwave. I can cook, but it's not easy.\n\nAimee: Oh, how many chairs do you have in the kitchen.\n\nTodd: We only have two chairs. It's very, very small.\n\nAimee: Do you have a kettle?\n\nTodd: I do have a kettle. Do you want coffee?\n\nAimee: No. It's an important, important kitchen appliance.\n\nTodd: It is. It is. I like that kettle. I think, in American English, we say \"Coffee pot.\"\n\nAimee: Really?\n\nTodd: Yeah. Do we say, \"Kettle?\" Maybe. I don't know. I don't know American English. I need to learn.\n\nAimee: For me, a kettle is something you use to boil water, so you could be making tea or coffee.\n\nTodd: True.\n\nAimee: It doesn't matter.\n\nTodd: Maybe we do say kettle. We say kettle. Sorry.\n\nAimee: How about books, Todd? Do you have many books?\n\nTodd: No. I have a rule. I only keep two books.\n\nAimee: What?\n\nTodd: Yeah. If I want a new book, I must get rid of a book.\n\nAimee: Wow.\n\nTodd: Only two. Never three. I don't like having three, four-\n\nAimee: hat is so strict.\n\nTodd: It is. It is very strict. My rule, strange rule.\n\nAimee: How about clothes? Do you have a lot of clothes?\n\nTodd: No. I am a minimalist. That means I have few items of clothing. I think I have maybe five shirts and three pairs of pants-\n\nAimee: Wow.\n\nTodd: And two pairs of shoes.\n\nAimee: Wow. It sounds great.\n\nTodd: It is, kind of, but I'm 47. I'm old, so it's okay. I can wear the same clothes every day. It's okay.\n\nAimee: In your house, do you have a patio?\n\nTodd: I do, but it's really old, and it's not safe. It can fall. It's old, so I don't use it, but I have a small area to go outside, a small garden. It's nice.\n\nAimee: Sounds nice. Sounds like a great house.\n\nTodd: It is, it is. Old, but nice.",
+        "questions": [
+            {
+                "id": "c6e9d4bdb7e84caab7ec6a15f05b8df7",
+                "text": "How many bathrooms are in his house?",
+                "answers": [
+                    "One",
+                    "Two",
+                    "Three"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "e0c69afd10bd409fb13b1d00815d691a",
+                "text": "How many chairs are in the kitchen?",
+                "answers": [
+                    "None",
+                    "Two",
+                    "Four"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "185ae24df4654b7b8840d215bdc7b70f",
+                "text": "Does he have many shoes?",
+                "answers": [
+                    "Yes, he does.",
+                    "No, he does not.",
+                    "He does not say."
+                ],
+                "correct": 1
+            },
+            {
+                "id": "6ec6e5e659604e9f80e6e6425b47a2f5",
+                "text": "What does he have outside?",
+                "answers": [
+                    "A car",
+                    "A garden",
+                    "A pool"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "7c1b4db2e302416cae588eee8a2ec9fa",
+                "text": "What items does he mention?",
+                "answers": [
+                    "Cups",
+                    "Pictures",
+                    "Books"
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "ae14bf936c534fa7b4cfb24eaa388e8a",
+        "name": "Eating Habits",
+        "transcript": "Daniel: So Hana, tell me, do you cook much?\n\nHana: Yes, I always cook. I often cook with my roommate, and we always make Chinese of Japanese food. How about you?\n\nDaniel: Well, I don’t really cook that often. I’m really busy during the week. So, I always just get something at the shop and get that. But, during the weekends, I always cook during the weekends because I really like making food. That’s what I do.\n\nHana: So, do you ever eat out?\n\nDaniel: Only occasionally, because I’m really busy during the week, and I prefer cooking, so not really often. I don’t go out really often to eat. Whenever I’m tired, and I don’t have time to cook during the week, I go and eat out with a friend, so! And you?\n\nHana: Well, I always , so I normally go and eat out during the weekend with my friends or family.\n\nDaniel: So do you ever buy take-away?\n\nHana: No, I never. Normally when I go out to eat, I like to sit and enjoy my food. How about you?\n\nDaniel: Well, that's really nice. Of course, I do like to sit and enjoy my food, but I have to admit that occasionally I have to buy take-away, especially when I'm coming late from work, and I'm driving. I'm so hungry that, most of the time, I don't really make it home, so I have to buy something on my way, and that's a shame, so that's the way it is.\n\nAnd do you usually have people over for dinner?\n\nHana: Yes, I sometimes do. I really like cooking so occasionally I invite my friends over and cook for them or we all cook together. How about you?\n\nDaniel: Not really. I do love cooking, but the problem is my place is really small, so even though I want to invite my friends. I never do it, because my place would only fit one or two people. So unfortunately, I never have my friends over for dinner.",
+        "questions": [
+            {
+                "id": "9ea6a4f5c6a54462830246a699c385c6",
+                "text": "When does he usually cook?",
+                "answers": [
+                    "Every night",
+                    "Weekdays",
+                    "Weekends"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "0f0c06ca84954163ae9278119519838a",
+                "text": "What does she usually do?",
+                "answers": [
+                    "Buy dinner",
+                    "Cook dinner",
+                    "Eat at work"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "fc0ff0c47a904c12b0b1bf766212b9d9",
+                "text": "When does she eat out?",
+                "answers": [
+                    "Every night",
+                    "Weekends",
+                    "Never"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "d3214af9d1ce4a0b95dd7a6a6ea5fedc",
+                "text": "Who does she cook for?",
+                "answers": [
+                    "Family",
+                    "Friends",
+                    "Both of them"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "1e358d75e97a4d46bf7f24fa60bde259",
+                "text": "How often does he cook for friends?",
+                "answers": [
+                    "Often",
+                    "Sometimes",
+                    "Never"
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "b27c7c6f07874a8c8494df79480d6761",
+        "name": "My Abilities",
+        "transcript": "Todd: So, Abidemi, let's talk about abilities.\n\nAbidemi: Sure.\n\nTodd: You seem to be very talented.\n\nAbidemi: Well, thank you.\n\nTodd: Can you sing well?\n\nAbidemi: No. I don't consider myself a good singer.\n\nTodd: No, I can't sing well.\n\nAbidemi: No, I can't sing well.\n\nTodd: No? Not at all?\n\nAbidemi: Not really.\n\nTodd: Do you sing often? Do you sing at karaoke? Do you sing at church?\n\nAbidemi: I sing once in a while, but I don't really like it so much.\n\nTodd: Do you ever sing to yourself at home? Like, sing in the shower? Sing while cleaning the house?\n\nAbidemi: Yes, I do. I enjoy music a lot. I listen to a lot of music, and sometimes I sing along.\n\nTodd: Yeah, I don't think I do that. I don't like singing. I can't sing. I have a terrible, terrible voice.\n\nAbidemi: Really?\n\nTodd: Yeah. People say I'm tone deaf, so when I sing my voice is flat. (singing). Very bad.\n\nAbidemi: I see.\n\nTodd: Yeah. I want to sing. I really do, but I have a bad voice.\n\nAbidemi: I'm sure there are plenty of other things that you do very well.\n\nTodd: Yeah, maybe. How about cooking? Can you cook well?\n\nAbidemi: Cooking is another activity that I'm not so good at.\n\nTodd: No.\n\nAbidemi: Maybe I should say that again. I'm not very good at cooking.\n\nTodd: You can't cook?\n\nAbidemi: I have a few dishes that I cook really well, but I think I'm too lazy. I don't learn new ones.\n\nTodd: Yeah, I'm the same. I don't cook, so I can't cook. Right? We say, \"Practice makes perfect,\" but I never cook, so I can't cook.\n\nAbidemi: I see what you mean.\n\nTodd: Yeah.\n\nAbidemi: One thing that I do do well, and really enjoy, is dancing.\n\nTodd: You're a good dancer?\n\nAbidemi: Some people have said that I'm good.\n\nTodd: Nice. What style of dancing do you like?\n\nAbidemi: I like hip-hop, dance music. When I was younger, I took some jazz classes, and I really enjoyed those as well.\n\nTodd: There's jazz dancing?\n\nAbidemi: Yes, there is.\n\nTodd: Oh wow. What about salsa dancing? Or tango dancing?\n\nAbidemi: I like those too, but usually you need a partner for those, so unless my husband wants to dance, but my husband doesn't really like dancing.\n\nTodd: I understand. I'm the same. I can relate.",
+        "questions": [
+            {
+                "id": "55162e27d7594be5a0c58e20ae381622",
+                "text": "Can Abidemi sing well?",
+                "answers": [
+                    "Yes, she can.",
+                    "Not really.",
+                    "She does not say."
+                ],
+                "correct": 1
+            },
+            {
+                "id": "38f5097d0722430d8add209c7dec0745",
+                "text": "Can Todd sing well?",
+                "answers": [
+                    "Yes, he can.",
+                    "No, not at all.",
+                    "He does not say."
+                ],
+                "correct": 1
+            },
+            {
+                "id": "47ef9347bb0b4ed2a316c3e543bb9e9d",
+                "text": "What can she cook well?",
+                "answers": [
+                    "Nothing",
+                    "Everything",
+                    "She does not say."
+                ],
+                "correct": 2
+            },
+            {
+                "id": "57189df5deef42109d189f311a75977c",
+                "text": "What can she do well?",
+                "answers": [
+                    "Dance",
+                    "Play guitar",
+                    "Play piano"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "1bf60400da8949deaaed937fb2e5c198",
+                "text": "Can she play the piano?",
+                "answers": [
+                    "Yes, she can.",
+                    "No, she cannot.",
+                    "She does not say."
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "3f8315119e894b54b9807d7e073b6d30",
+        "name": "Life History",
+        "transcript": "Todd: Hey Meg, so let's talk about our life history.\n\nMeg: Okay, let's do it.\n\nTodd: So first, when were you born?\n\nMeg: I was born in 1984. What about you?\nTodd: I was born way before that. I was born in 1969.\n\nMeg: Oh!\n\nTodd: Yeah, a ways ago.\n\nMeg: Not too long ago.\n\nTodd: Yeah, 47 years ago, but yeah.\n\nMeg: Okay, a long time ago.\n\nTodd: Okay, so when did you graduate high school?\n\nMeg: I graduated high school in 2003.\n\nTodd: Oh my gosh. Really!\n\nMeg: What about you?\n\nTodd: Wow, I graduated high school in 1987.\n\nMeg: Ah, when I was three years old.\n\nTodd: Wow, yeah! Ah, we were probably about the same intelligence level about that time.\nMeg: No, that's not true.\n\nTodd: And when did you graduate from college?\n\nMeg: I graduated from college in 2010. When did you graduate from college?\n\nTodd: I graduated from college in 1993, so like you I took a little extra time to graduate.\n\nMeg: Yeah, I took more time than normal.\n\nTodd: And when did you get your first job?\n\nMeg: I got my first job when I was 17 years old, I think. When I was still in high school.\n\nTodd: What did you do?\n\nMeg: I worked at a wedding shop, a wedding dress shop, so I helped to assist the customers and clean the dresses.\n\nTodd: That's a cool job.\n\nMeg: Ah, it wasn't so great actually.\n\nTodd: Why?\n\nMeg: Because brides can get a little crazy.\n\nTodd: I can imagine.\n\nMeg: What about you? When was your first job?\n\nTodd: Well, my first unofficial job was when I was 13. I was a dishwasher.\n\nMeg: Oh, at a restaurant?\n\nTodd: Yeah, and I think it was illegal because I was 13. But yeah, I was a dishwasher. But then my first official job was at McDonald's.\n\nMeg: Oh, what did you do there?\n\nTodd: I made the filet-o-fish. But I got fired.\n\nMeg: Oh, why?\n\nTodd: Also, again I lied about my age. So actually wait, I was 14, and I lied and said I was 15 and they fired me, but I worked there for three months.\n\nMeg: Oh, and you got paid?\n\nTodd: And I got paid.\n\nMeg: Well, that's good at least.\n\nTodd: It was good times. Good times.\n\nMeg: (Laughter)\n\nTodd: OK, so when did you meet your best friend?\n\nMeg: I met my best friend in 2007, so about 10 years ago. What about you?\n\nTodd: Oh gosh, I met my best friend in high school, so I was a sophomore, a second year student, so that was 1984 or 1985.\n\nMeg: Wow! So you've been best friends for a long time.\n\nTodd: A long time, yeah, yep. So how about phones? When did you get your first phone?\n\nMeg: Hmm! I think I got my first phone when I was also 17, the same year I had my first job. It was my first cell-phone, was that year. What about you?\n\nTodd: Well, I got my first phone also when I was 17, but it was a real phone. My parents gave me my own phone line in my house, so I had a phone in my room. Back then that was common in the 80s, so young high school people would have their own phone in their house.\n\nMeg: Yeah, some of my friends had that when I was growing up also, but I wasn't lucky enough to get my own phone until I could pay for it myself.",
+        "questions": [
+            {
+                "id": "f547d5b9a9044c40aafb910599981158",
+                "text": "Who got fired?",
+                "answers": [
+                    "He did",
+                    "She did",
+                    "Neither of them"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "83a22bb6b16e45e1a029b373b3d54254",
+                "text": "Who was a babysitter?",
+                "answers": [
+                    "He was",
+                    "She was",
+                    "Neither of them"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "3953804a4b544025ade106d709194eb6",
+                "text": "What happened in 1984?",
+                "answers": [
+                    "She was born",
+                    "He finished high school",
+                    "He met his friend"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "857ace063d514d7ea3ae863da32ecd22",
+                "text": "Who got a phone at age 17?",
+                "answers": [
+                    "Just him",
+                    "Just her",
+                    "Both of them"
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "4991b25a2f224066a3208ff787f2d9fb",
+        "name": "Fruity Fans",
+        "transcript": "Todd: So Meg, you look like a healthy person. Do you eat lots of fruits and vegetables?\n\nMeg: I do eat lots of fruits and vegetables, especially fruit. I love to eat fruit because it's so sweet.\n\nTodd: Yeah? What fruits do you like?\n\nMeg: I love bananas because they're so healthy for you. And so usually, in the morning for breakfast, I'll have a banana. I also love blueberries. Blueberries are my favorite fruit. But sometimes, they're expensive so I can't often eat blueberries.\n\nTodd: Oh, I agree. Blueberries are so good. I love blueberries in oatmeal.\n\nMeg: That's a good idea. I love to have blueberries in muffins.\n\nTodd: Oh, that's nice. Well, you bake. Do you bake blueberry muffins?\n\nMeg: I do bake blueberry muffins, and also blueberry bread, blueberry pancakes, many blueberry things.\n\nTodd: Wow. That's great. So are there any fruits you don't like?\n\nMeg: I don't like kiwi actually because the flavor is okay but the fruits is too soft. So usually, I don't want to eat kiwi.\n\nTodd: Oh well, I love kiwi. I love kiwi and bananas. It's very good.\n\nMeg: Hmm, sounds okay but maybe I'll just have the banana.\n\nTodd: So what about vegetables? Are you a person who eats lots of salad?\n\nMeg: I don't eat a lot of salad but I do like to eat vegetables with my meals, usually lunch and dinner.\n\nTodd: So you cook vegetables.\n\nMeg: I cook vegetables or I eat vegetables fresh. For example, usually with my lunch, I'll cut up a cucumber, and put some salt or pepper on the cucumber and eat with my lunch.\n\nTodd: Oh great. I love vegetable sticks, so I love carrot sticks, cucumber sticks, radish sticks. It's very good.\n\nMeg: Do you like to dip vegetable sticks into any dressing?\n\nTodd: I do but it's not healthy, right?\n\nMeg: No.\n\nTodd: But yeah, I love the dressing like the ranch dressing with carrot sticks or the ranch dressing with cucumber sticks. It's very nice.\n\nMeg: Yeah. It's pretty delicious. But you're right. Not so healthy.\n\nTodd: No. So what vegetables do you cook?\n\nMeg: Sometimes I cook broccoli. I actually like to roast broccoli, which is when you put broccoli into the oven and cook it a few minutes. So it's really delicious. You can add some salt or seasonings and it's easy to make. You can cook some meat or rice while the broccoli is in the oven and then it's ready for your dinner.\n\nTodd: That's great. Yeah. You see some vegetables like on a kebab that are roasted. I guess onions are roasted, peppers are roasted.\n\nMeg: Right, right.\n\nTodd: Do you roast other vegetables besides broccoli?\n\nMeg: Sometimes tomatoes, and sometimes potatoes although, it's that a vegetable.\n\nTodd: It is but it's not a very healthy vegetable.\n\nMeg: So maybe I shouldn't eat potatoes.\n\nTodd: I love potatoes though. So you roast vegetables, do you cook vegetables any other way? Do you boil vegetables or fry vegetables?\n\nMeg: Sometimes I boil vegetables. For example, I like to boil carrots because they're soft and you can add some spices again to have some flavor when you eat carrots with your meal.\n\nTodd: Yeah. Actually, I love carrots but I only like raw carrots.\n\nMeg: Oh really?\n\nTodd: And I hate cooked carrots.\n\nMeg: Oh well, I'll try to remember that if ever you come over for dinner.\n\nTodd: Yeah. Carrots sticks please.\n\nMeg: Okay.",
+        "questions": [
+            {
+                "id": "9b4caaa88cf34d648471d5e918f3b5e5",
+                "text": "Who eats blueberries with oatmeal?",
+                "answers": [
+                    "Todd",
+                    "Meg"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "bafddc284dba444fb52710d305790ddd",
+                "text": "Meg puts blueberries in _____ .",
+                "answers": [
+                    "muffins",
+                    "smoothies"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "ab92264e131942b5bca65ebec4ffd932",
+                "text": "Meg does not like _____ .",
+                "answers": [
+                    "Oranges",
+                    "Pineapple",
+                    "Kiwi"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "b241173466a840b8bd73fe4135975468",
+                "text": "She eats vegetable _____ for lunch.",
+                "answers": [
+                    "salad",
+                    "sticks",
+                    "soup"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "3a01fa3ff22e4cefa36a6a9cea123045",
+                "text": "She likes to _____ broccoli.",
+                "answers": [
+                    "fry",
+                    "boil",
+                    "roast"
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "a01cad13a23c4c6d985341503fbafce1",
+        "name": "What looks good? What tastes goods?",
+        "transcript": "Todd: Hey, Darcy. Let’s talk about stative verbs.\n\nDarcy: Okay.\n\nTodd: So I will ask you five questions or questions about stative verbs and you answer them.\n\nDarcy: Sure.\n\nTodd: Okay. First, what smells good?\n\nDarcy: Sweet things smell good.\n\nTodd: Yes, that’s true. I think fresh coffee smells good. I love fresh coffee.\n\nDarcy: I hate the smell of fresh coffee.\n\nTodd: Oh, really? It doesn’t smell good for you?\n\nDarcy: No, it’s so like bitter.\n\nTodd: Oh, really? Oh, wow. I think it smells so good. You don’t think it smells good.\n\nDarcy: No. I think hot chocolate smells good.\n\nTodd: Okay. Okay, there we go. Alright. So next, what feels good?\n\nDarcy: A hot bath feels good.\n\nTodd: That’s true. A hot bath feels really good. I think a warm sweater on a cold day feels really good. Like right after the sweater comes from the dryer, it feels really nice.\n\nDarcy: Yes, I love that warm feeling you get when it comes out.\n\nTodd: It’s so nice. Also, puppies. Puppies feel really nice, right, when you pet puppies?\n\nDarcy: Yeah, I like the fluffy ones. They feel really nice.\n\nTodd: They do. They feel really, really nice. Okay. So now, how about taste? What foods taste really good?\n\nDarcy: Um, I think spicy food tastes really good.\n\nTodd: Oh, really?\n\nDarcy: Yes, I love… Like Thai food tastes really good because it can clear your sinuses and it just gives you like a kick on your tongue.\n\nTodd: That’s true. It does taste good. I have a sweet tooth so ice cream tastes really good. I love the taste of ice cream. Also, I love pizza, so pizza tastes good.\n\nDarcy: That’s because cheese taste the best.\n\nTodd: That’s right.\n\nDarcy: Something nice and melty.\n\nTodd: That’s true. How about foods that don’t taste good? What food doesn’t taste good?\n\nDarcy: Natto definitely does not taste good.\n\nTodd: So natto is a Japanese food that’s bitter, right, so it tastes bitter?\n\nDarcy: Yeah.\n\nTodd: That’s true. I think… Actually, pineapple doesn’t taste good.\n\nDarcy: I think pineapple taste great. I mean, it’s nice and sweet, but then the taste kind of burns the back of your mouth eventually.\n\nTodd: A little bit, yeah. I just like it on pizza. Anything on pizza taste good.\n\nDarcy: I love pineapple on pizza. It gives it that sweet flavor.\n\nTodd: True, so true. Okay. So we’ve done tastes, we’ve done smells, uh, feel. Okay. Now how about look? So who looks good? Who looks beautiful? What famous person looks gorgeous?\n\nDarcy: I think anyone that’s over six feet tall looks gorgeous.\n\nTodd: So everybody in the NBA looks gorgeous.\n\nDarcy: Between 6’ and 6’5” looks good.\n\nTodd: Really?! Oh, man. I’m bombed. I’m 5’10”. I’m too short.\n\nDarcy: Just a little. I always notice, like my eyes peels to people that are about six feet tall. I’m like, “Oh, they look nice. They look good.”\n\nTodd: So tall people look good, they look handsome.\n\nDarcy: Yes, I think so.\n\nTodd: How about celebrities? Any celebrities that looks beautiful, over six feet tall?\n\nDarcy: I don’t know how tall they are. They all look tall in the movies.\n\nTodd: Right.\n\nDarcy: Tom Cruise looks handsome but he is not actually that tall.\n\nTodd: No, he’s not six feet.\n\nDarcy: He looks taller in the movies.\n\nTodd: Right. That’s true. All actors look taller in movies. Okay. So then we have one more and that would be, what sounds fun? So when you think of an activity, something you want to try, what looks fun or sounds fun?\n\nDarcy: I think like a big musical festival sounds fun. Like going out to a dance party sounds really fun.\n\nTodd: Oh, that sounds fun. I think bicycle trips sound fun. So you do a bicycle trip across country for maybe one week or two weeks.\n\nDarcy: That sounds not fun. That sounds very tiring and exhausting.\n\nTodd: Oh, really? I think that sounds energizing and exciting, and adventurous and healthy.\n\nDarcy: It sounds like I need to take a nap and take a hot bath to restore myself.\n\nTodd: Well, we definitely have different interests.\n\nDarcy: Yes!",
+        "questions": [
+            {
+                "id": "5b7c587c45de44419a8ebafa3ec32ee3",
+                "text": "What smells good for him?",
+                "answers": [
+                    "coffee",
+                    "perfume",
+                    "sweets"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "87cda1bce04848f38d7f37d8a7466b43",
+                "text": "What feels good for her?",
+                "answers": [
+                    "warm gloves",
+                    "smooth leather",
+                    "hot bath water"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "1c45f08aca76447187c5c57909eaddda",
+                "text": "What looks good for her?",
+                "answers": [
+                    "tall men",
+                    "muscular men",
+                    "handsome men"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "0845d38cb26a4524b158982f05486512",
+                "text": "What tastes food for her?",
+                "answers": [
+                    "spicy food",
+                    "sour candy",
+                    "sweet potatoes"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "36be2dc9e9f54169b32d0be21d2763d7",
+                "text": "What sounds food for her?",
+                "answers": [
+                    "music festival",
+                    "bike trip",
+                    "yoga class"
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    {
+        "id": "52486c0ccb4f4ae38e3dc6256d641051",
+        "name": "My Hometown - There",
+        "transcript": "John: So Sarah, what can you tell me about your hometown?\n\nSarah: My hometown. Well, my hometown is called Eau Claire, Wisconsin. And it's a really great city.\n\nThere are about 80,000 people. There are lots of things to do. There are three movie theatres. I love to watch movies.\n\nJohn: Me too.\n\nSarah: There's lots of shopping. You can find anything you want there. There are a lot of malls and stores.\n\nJohn: Are there many restaurants?\n\nSarah: Yes. The thing I like is you can eat any type of food. There are Chinese restaurants and Korean restaurants, Italian restaurants. There is a big variety of restaurants, and they're all good.\n\nJohn: That sounds great. What about parks? Are there many places to see nature in your town?\n\nSarah: Yes. We have a lot of rivers, and lakes and hills. My hometown has four seasons. So in summer, it's great because there are lots of lakes to swim in, lots of forests to play in. In winter, there is a lot of snow. So you can go ice skating or ice fishing or even skiing.\n\nJohn: Wow. That sounds really fun.\n\nSarah: Yeah. It's a really nice city. It's also really safe. There are lots of nice people there.\n\nJohn: Good. Is there much to do at night?\n\nSarah: Well, maybe, maybe not. There's not many things to do at night. There aren't any nightclubs. There aren't many bars. So actually, maybe there isn't much night life.\n\nJohn: That's okay. It sounds like a nice place to have a family.\n\nSarah: Yeah. It is. It's a great place to have a family. There's lots of good schools and libraries.\n\nSarah: So John, where are you from?\n\nJohn: My hometown is very small. It's a little town in the countryside, in Wisconsin. There are only 5,000 people there.\n\nSarah: Wow. There aren't very many people.\n\nJohn: No, it's very small. There aren't very many businesses. There isn't a shopping mall. There are a lot of grocery stores. And there are a lot of gas stations. But there isn't much to do there.\n\nSarah: Oh really? Are there any movie theaters?\n\nJohn: Well, there is one movie theater. So that's a nice thing to do. In fact, there are many screens in the theater. There are eight different movies showing.\n\nSarah: How about at night? What's fun to do – how about at night? Is there very much night life?\n\nJohn: Yeah, there is not so much. But there is a bowling alley. It's fun to go bowling with friends. There's a bowling alley and the movie theater. There is one restaurant where you can go for tacos and burritos. And there's one more restaurant for pizza and spaghetti.\n\nBut during the daytime, you can go to the park. There's a river that goes through the town. So in the middle of town, there's a river. And there's a park that goes along both sides of the river. And at the park, there is a tennis court and a disc golf course.\n\nSarah: Disc golf?\n\nJohn: Yeah. I like to play disc golf with my friends. It's really fun. And after we finish playing disc golf, we usually go to the pizza restaurant.\n\nSarah: Oh, I see. How about schools? Are there very many schools?\n\nJohn: Let's see. No, there aren't very many. There is only one elementary school, one junior high school and one high school. That's it.\n\nSarah: Interesting.\n\nJohn: Yeah. There aren't very many schools but the town doesn't need more schools because there aren't very many people there.\n\nSarah: I see. Are there any mountains?\n\nJohn: No. The whole area is very flat. There are no mountains but there are a lot of trees. In fact, there are trees on my town's sign because my town is famous for all the trees on every street.\n\nSarah: Oh wow. It sounds like a great city.",
+        "questions": [
+            {
+                "id": "4cbc7dee70614ba59ae62c1fa7e85244",
+                "text": "What does she do in her town?",
+                "answers": [
+                    "Go to the gym",
+                    "Go to the park",
+                    "Go to the movies"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "bf5b9d427b16459f9fdf273d30d08184",
+                "text": "Is there lots of nature in her town?",
+                "answers": [
+                    "Yes, there is.",
+                    "No, there is not.",
+                    "She does not say."
+                ],
+                "correct": 0
+            },
+            {
+                "id": "d06cbf27e5a8466c86d965a1ff5c5384",
+                "text": "How many people are in his town?",
+                "answers": [
+                    "5,000",
+                    "80,000",
+                    "He does not say"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "d046d670a88a401dafd2d23d0640a0b3",
+                "text": "What is there in his town?",
+                "answers": [
+                    "A bowling ally",
+                    "A health club",
+                    "A night club"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "5613932749ac4b22b0625d40be02dce6",
+                "text": "What else is there in his town?",
+                "answers": [
+                    "Mountains",
+                    "A big lake",
+                    "A park"
+                ],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "06dccee6395b4257b62e894d61a39e34",
+        "name": "Weekend Talk",
+        "transcript": "Todd: Key, Katie. How was your weekend?\n\nKatie: It was really great.\n\nTodd: What did you do on Saturday?\n\nKatie: On Saturday, I went to the library with my friends.\n\nTodd: Okay.\n\nKatie: I read lots of books and I had a really, really relaxing time.\n\nTodd: Wow. Sounds like you took it easy.\n\nKatie: Yeah, I did.\n\nTodd: Yeah, we need to take a break sometimes.\n\nKatie: For sure.\n\nTodd: Did you do anything else on Saturday?\n\nKatie: On Saturday evening, I went to a restaurant with my co-workers.\n\nTodd: Oh, nice. What kind of restaurant?\n\nKatie: It was a restaurant that sells only chicken wings.\n\nTodd: Really?\n\nKatie: Mm-hmm (affirmative).\n\nTodd: Was it good chicken?\n\nKatie: It was so good. It was very delicious.\n\nTodd: Oh, okay. I think I know that place.\n\nKatie: Yeah?\n\nTodd: Yeah, it has the very spicy chicken.\n\nKatie: Mm-hmm (affirmative).\n\nTodd: Oh, that place is crazy.\n\nKatie: It's my favorite.\n\nTodd: I ate there once. The chicken was too spicy.\n\nKatie: Too spicy.\n\nTodd: Yeah.\n\nKatie: Did you eat it?\n\nTodd: I did and it hurt. It burned my mouth.\n\nKatie: Oh, no.\n\nTodd: Yeah. I definitely burned my mouth. So what about Sunday? Did you do anything on Sunday?\n\nKatie: On Sunday I went shopping with my friends.\n\nTodd: Oh, did you buy anything?\n\nKatie: Oh, I bought lots of stuff.\n\nTodd: Yeah, what did you buy?\n\nKatie: I bought some new shoes and I bought a new dress?\n\nTodd: Oh. Why did you buy a new dress?\n\nKatie: It was cheap.\n\nTodd: Okay.\n\nKatie: It was on sale.\n\nTodd: No special plans?\n\nKatie: No, I just like buying clothes.\n\nTodd: Oh, that's good. Yeah, I'm the opposite. I don't like buying clothes. So did you do anything else on Sunday?\n\nKatie: After I went shopping, I went to a café with my friend.\n\nTodd: Okay. Oh, cool. Nice.\n\nKatie: And we drank some coffee.\n\nTodd: What café did you go to?\n\nKatie: I went to Starbucks.\n\nTodd: Oh, everybody goes to Starbucks.\n\nKatie: I love Starbucks.\n\nTodd: Yeah, I love Starbucks too.\n\nKatie: How about you though, what did you do this weekend?\n\nTodd: Well, I had a great weekend. I took it easy also. I didn't do too much. I saw a movie on Saturday night, that was fun.\n\nKatie: Oh, really? What movie did you watch?\n\nTodd: I finally saw the new Star Wars movie, Rogue One.\n\nKatie: You saw the new Star Wars movie.\n\nTodd: Yeah, I loved it. It's so good.\n\nKatie: Wow, sounds good. I haven't seen it yet.\n\nTodd: Oh, it's really good. I hated the first Star Wars movie, the last one, The Force Awakens.\n\nKatie: Oh, really?\n\nTodd: No, I didn't like it.\n\nKatie: Why?\n\nTodd: It's just boring. It wasn't that interesting. But the next one Rogue One was so good.\n\nKatie: Oh, I see. Why did you think so?\n\nTodd: I just liked the characters. The story was interesting. It was fun, it was a good movie.\n\nKatie: I see. Did you go with anybody?\n\nTodd: No, I went alone.\n\nKatie: Oh, really?\n\nTodd: Yeah. I often go to movies alone. So I like to go to movies alone, actually.\n\nKatie: Oh, why?\n\nTodd: Because I rarely see movies and if I see a movie, I just want to watch the movie.\n\nKatie: I see.\n\nTodd: Yeah, I know, it sounds boring, hm?\n\nKatie: I don't like it when people eat popcorn in movies either.\n\nTodd: Oh, I know. Yeah.\n\nKatie: : I don't like the noise that people make.\n\nTodd: Oh, I know, it's so annoying.\n\nKatie: So I can understand why you want to see movies by yourself.\n\nTodd: Yeah.\n\nKatie: How about Sunday? Did you do anything on Sunday?\n\nTodd: Yeah, I had a good time. I went to the park. There's a beautiful park down by the bay and I went jogging. And I took a bunch of photos because the weather was beautiful.\n\nKatie: What did you take photos of?\n\nTodd: Oh, I just took photos of the water, of people at the park, of the mountains. It was a clear day and the sky was really, really beautiful.\n\nKatie: Sounds nice.\n\nTodd: Yeah.\n\nKatie: You'll have to show me afterwards.\n\nTodd: Oh, yeah, you have to go there. It's a great, great park. Well, it sounds like you had a good weekend.\n\nKatie: You too.",
+        "questions": [
+            {
+                "id": "1b69c2afcdfb4261bc3fb2dadf825f58",
+                "text": "What did she do?",
+                "answers": [
+                    "rent a movie",
+                    "read some books",
+                    "cook for friends"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "a4b500c856a248478935af0045d16896",
+                "text": "What did she buy?",
+                "answers": [
+                    "shoes",
+                    "pants",
+                    "nothing"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "d80c975378e34c1d81a30fdd6ffda638",
+                "text": "What did she do Sunday?",
+                "answers": [
+                    "stay home",
+                    "meet a friend",
+                    "go to the park"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "aaabbf1fc50344da810a9c62b84551a4",
+                "text": "What did he do on Saturday?",
+                "answers": [
+                    "go to a cafe",
+                    "order pizza",
+                    "watch a movie"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "b6f42d842622466fa6c18f531193f3e4",
+                "text": "What did he do on Sunday?",
+                "answers": [
+                    "watch a movie",
+                    "take pictures",
+                    "go to the gym"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "6f7f3582b1a14d6ba7cbd652b518ec83",
+        "name": "Family Habits",
+        "transcript": "Todd: Okay, Katie, let's talk about your family.\n\nKatie: Sure.\n\nTodd: In your family, who gets up early?\n\nKatie: My mom gets up early every day.\n\nTodd: What time does she get up?\n\nKatie: My mom gets up at 4:00 in the morning.\n\nTodd: What?\n\nKatie: Yes.\n\nTodd: That's crazy.\n\nKatie: But she also goes to bed very early.\n\nTodd: What time?\n\nKatie: She goes to bed at 7:00.\n\nTodd: Wow, at 7:00?\n\nKatie: At 7:00 every day.\n\nTodd: Is everyone quiet in the family?\n\nKatie: Oh, no. No, no, no.\n\nTodd: Wow, that's amazing. Okay, so who stays up late?\n\nKatie: Probably, me and my brother. We always stay up late.\n\nTodd: Yeah? How late?\n\nKatie: Well, when we were younger, we stayed up until 11:00. Which when you're a five or six-year-old, that's very late.\n\nTodd: That is very late. Wow. What about TV? Who watches a lot of TV?\n\nKatie: My dad. My dad watches a lot of TV.\n\nTodd: Oh yeah, what does he watch?\n\nKatie: He watches sports TV programs. He watches comedy programs. He watches everything.\n\nTodd: Okay, yeah. Sounds like my dad. Now my dad falls asleep in front of the TV a lot.\n\nKatie: Mine too.\n\nTodd: Really?\n\nKatie: Yeah.\n\nTodd: Yeah. Okay, who cleans the house?\n\nKatie: Sometimes, me and my brother will help clean the house. But mostly, it's my mom.\n\nTodd: Oh right. Same. I think it's the same in everybody's house.\n\nKatie: I think so too.\n\nTodd: I know, poor mom.\n\nKatie: Yeah.\n\nTodd: Well, similarly, who cooks for the family? I bet it's your mom.\n\nKatie: Nope. Actually, it's my dad.\n\nTodd: Really? Oh great.\n\nKatie: My dad is a chef.\n\nTodd: Oh nice.\n\nKatie: So he is very good at cooking meals.\n\nTodd: Oh, what does he cook?\n\nKatie: Lots and lots of stuff. Lots of British food, so a roast beef or fish and chips. Lots of British food.\n\nTodd: I lived in England for one year. And I love Sunday roast.\n\nKatie: Oh, me too.\n\nTodd: It's so good.\n\nKatie: I wish it was Sunday roast every day.\n\nTodd: I know. Okay, in your family, who does the shopping?\n\nKatie: Who do you think does the shopping in my family?\n\nTodd: Your mother.\n\nKatie: Of course. Yeah.\n\nTodd: Oh wow.\n\nKatie: I don't think my mother would be happy if my dad did the shopping.\n\nTodd: Why?\n\nKatie: My dad buys too many silly things that we don't need.\n\nTodd: Ah, okay, I gotcha. All right, who makes you laugh?\n\nKatie: Definitely, my dad makes me laugh.\n\nTodd: Oh yeah, how?\n\nKatie: My dad makes me laugh a lot. His sense of humor is very different to mine, so when he says a joke and nobody laughs, that makes me laugh.\n\nTodd: Oh, right, yeah, that's funny. So sometimes, we argue with people. Who argues with you sometimes?\n\nKatie: Not sometimes. All the time, I argue with my brother.\n\nTodd: Oh really?\n\nKatie: Yes.\n\nTodd: What do you argue about?\n\nKatie: Everything. Everything. We're very different people.\n\nTodd: Okay, for example?\n\nKatie: Can be even small things like the color T-shirt that someone is wearing, we will argue about it.\n\nTodd: Right. That sounds like my sisters. So I have two older sisters, I never fight with either sister. Never. But my sisters fight all the time. Yeah. They love fighting.\n\nKatie: I love fighting my brother.\n\nTodd: Okay, so in your family, who helps you out a lot?\n\nKatie: I hoped that we help each other out a lot. I don't think one person helps a lot of people. We all help each other.\n\nTodd: Oh, wow, that sounds great. Thanks Katie.\n\nKatie: Thanks.",
+        "questions": [
+            {
+                "id": "2970fb08fb514ca0818e85ccac34a9bc",
+                "text": "When does her mom get up?",
+                "answers": [
+                    "4",
+                    "6",
+                    "7"
+                ],
+                "correct": 0
+            },
+            {
+                "id": "b07837f7bb8848f7a909a384ae0790e5",
+                "text": "Who watches a lot of TV?",
+                "answers": [
+                    "Her mom",
+                    "Her dad",
+                    "Her brother"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "41f78242dfb14bfab3a17621392c5341",
+                "text": "Who cooks for the family?",
+                "answers": [
+                    "Her mom",
+                    "Her dad",
+                    "Her brother"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "f31ff00c32fb4de99af77fd7732149ce",
+                "text": "Who argues with her?",
+                "answers": [
+                    "Her mom",
+                    "Her dad",
+                    "Her brother"
+                ],
+                "correct": 2
+            },
+            {
+                "id": "e3f49284e32745759ba02386aa6f2ddb",
+                "text": "Who makes her laugh?",
+                "answers": [
+                    "Her mom",
+                    "Her dad",
+                    "Her brother"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "67747fb0a85e41c68386548130dc8823",
+        "name": "Making Breakfast",
+        "transcript": "Katie: So, I want to make breakfast for everybody. Do we have anything to make breakfast with?\n\nTodd: We do, but not much. I think we need to go to the store. Let's make a list, and I'll buy some stuff today and bring it back for breakfast.\n\nKatie: Okay. Well, how about eggs? Do we have eggs?\n\nTodd: Oh, yeah. We have plenty of eggs. We have maybe two dozen eggs. I bought eggs yesterday, so we have enough eggs.\n\nKatie: Okay. How about pancake mix? Do we have pancake mix?\n\nTodd: I don't think so. I think we have some, but it's not enough, so I will buy more.\n\nKatie: Okay.\n\nTodd: How much do we need?\n\nKatie: Maybe two packets.\n\nTodd: Two packets? Okay. Two big boxes?\n\nKatie: Yeah, maybe two big boxes of pancake mix.\n\nTodd: Okay.\n\nKatie: Do we have any sugar?\n\nTodd: I don't think so. We have some, but again, I think it's not enough, so I'll buy-\n\nKatie: I like to make a lot of pancakes.\n\nTodd: Okay, so I'll buy a lot of sugar.\n\nKatie: Okay.\n\nTodd: I'll buy a big bag of sugar.\n\nKatie: That sounds good. Do we have any milk?\n\nTodd: We do have a little, but it's not enough, so I'll buy some more. Maybe two cartons of milk? Two liters?\n\nKatie: Sounds good.\n\nTodd: Okay.\n\nKatie: Do we have any bacon?\n\nTodd: We don't have any bacon.\n\nKatie: No bacon?\n\nTodd: No, but we have ham. We have lots of ham. Can we have ham instead of bacon?\n\nKatie: No. It's got to be bacon.\n\nTodd: Okay, so I'll buy some bacon. How much?\n\nKatie: How about six rashers of bacon?\n\nTodd: Okay.\n\nKatie: Or six packets of bacon.\n\nTodd: Six packets? Okay.\n\nKatie: Sounds good. Do we have any coffee?\nTodd: We do, but probably not enough, so I'll buy a big can of coffee.\n\nKatie: Okay. Everyone needs to drink coffee.\n\nTodd: Yeah. Plus, we need coffee for us.\n\nKatie: Of course. How about juice? Do we have any juice?\n\nTodd: We do. We actually have lots of juice. I bought juice two days ago, and it was on sale, so I bought three cartons of juice.\n\nKatie: Three cartons?\n\nTodd: Yeah. We need to drink the juice.\n\nKatie: Okay. That's not a problem, then.\n\nTodd: Yeah, we have enough juice.\n\nKatie: Do we have any syrup?\n\nTodd: I think we also have a lot of syrup because we had breakfast a while ago, and we didn't use that much, so there's enough syrup.\n\nKatie: Okay. How about when it's time for washing up? Do we have any dish soap?\n\nTodd: I think there's some, but not enough, so we need to buy some more.\n\nKatie: We're going to have lots of washing up to do.\n\nTodd: Okay. I'll put that on the list.\n\nKatie: Okay.\n\nTodd: All right. I think the list is complete. We should be okay.\n\nKatie: Okay.\n\nTodd: I'll buy everything, and then we should have enough of everything for breakfast tomorrow.\n\nKatie: You buy it, and I'll make it.\n\nTodd: Oh, sounds good.",
+        "questions": [
+            {
+                "id": "7464bfc828044ee191346ac8ee9ceb41",
+                "text": "Do they need to buy eggs?",
+                "answers": [
+                    "Yes, they need some more.",
+                    "No, they have enough.",
+                    "They do not say"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "f9e3686c0d4046479e99cd181474d6fe",
+                "text": "Do you they need some pancake mix?",
+                "answers": [
+                    "Yes, they need some more.",
+                    "No, they have enough.",
+                    "They do not say."
+                ],
+                "correct": 0
+            },
+            {
+                "id": "83691a7bcba4485f996756c48c2d291b",
+                "text": "What do they say about milk?",
+                "answers": [
+                    "They have enough.",
+                    "They need some more.",
+                    "They are not sure."
+                ],
+                "correct": 1
+            },
+            {
+                "id": "14ff462a04c94ce0b921d6254a6765e6",
+                "text": "Do they need some tea?",
+                "answers": [
+                    "Yes, they do.",
+                    "No, they do not.",
+                    "They do not say."
+                ],
+                "correct": 2
+            },
+            {
+                "id": "1614ed7f187a4855a2a98812676adfc8",
+                "text": "What do they need to buy?",
+                "answers": [
+                    "syrup",
+                    "dish soap",
+                    "juice"
+                ],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "bcace953a6494889b57e7f1fe2de4c77",
+        "name": "Making Breakfast - Any, Some",
+        "transcript": "Katie: So, I want to make breakfast for everybody. Do we have anything to make breakfast with?\n\nTodd: We do, but not much. I think we need to go to the store. Let's make a list, and I'll buy some stuff today and bring it back for breakfast.\n\nKatie: Okay. Well, how about eggs? Do we have eggs?\n\nTodd: Oh, yeah. We have plenty of eggs. We have maybe two dozen eggs. I bought eggs yesterday, so we have enough eggs.\n\nKatie: Okay. How about pancake mix? Do we have pancake mix?\n\nTodd: I don't think so. I think we have some, but it's not enough, so I will buy more.\n\nKatie: Okay.\n\nTodd: How much do we need?\n\nKatie: Maybe two packets.\n\nTodd: Two packets? Okay. Two big boxes?\n\nKatie: Yeah, maybe two big boxes of pancake mix.\n\nTodd: Okay.\n\nKatie: Do we have any sugar?\n\nTodd: I don't think so. We have some, but again, I think it's not enough, so I'll buy-\n\nKatie: I like to make a lot of pancakes.\n\nTodd: Okay, so I'll buy a lot of sugar.\n\nKatie: Okay.\n\nTodd: I'll buy a big bag of sugar.\n\nKatie: That sounds good. Do we have any milk?\n\nTodd: We do have a little, but it's not enough, so I'll buy some more. Maybe two cartons of milk? Two liters?\n\nKatie: Sounds good.\n\nTodd: Okay.\n\nKatie: Do we have any bacon?\n\nTodd: We don't have any bacon.\n\nKatie: No bacon?\n\nTodd: No, but we have ham. We have lots of ham. Can we have ham instead of bacon?\n\nKatie: No. It's got to be bacon.\n\nTodd: Okay, so I'll buy some bacon. How much?\n\nKatie: How about six rashers of bacon?\n\nTodd: Okay.\n\nKatie: Or six packets of bacon.\n\nTodd: Six packets? Okay.\n\nKatie: Sounds good. Do we have any coffee?\nTodd: We do, but probably not enough, so I'll buy a big can of coffee.\n\nKatie: Okay. Everyone needs to drink coffee.\n\nTodd: Yeah. Plus, we need coffee for us.\n\nKatie: Of course. How about juice? Do we have any juice?\n\nTodd: We do. We actually have lots of juice. I bought juice two days ago, and it was on sale, so I bought three cartons of juice.\n\nKatie: Three cartons?\n\nTodd: Yeah. We need to drink the juice.\n\nKatie: Okay. That's not a problem, then.\n\nTodd: Yeah, we have enough juice.\n\nKatie: Do we have any syrup?\n\nTodd: I think we also have a lot of syrup because we had breakfast a while ago, and we didn't use that much, so there's enough syrup.\n\nKatie: Okay. How about when it's time for washing up? Do we have any dish soap?\n\nTodd: I think there's some, but not enough, so we need to buy some more.\n\nKatie: We're going to have lots of washing up to do.\n\nTodd: Okay. I'll put that on the list.\n\nKatie: Okay.\n\nTodd: All right. I think the list is complete. We should be okay.\n\nKatie: Okay.\n\nTodd: I'll buy everything, and then we should have enough of everything for breakfast tomorrow.\n\nKatie: You buy it, and I'll make it.\n\nTodd: Oh, sounds good.",
+        "questions": [
+            {
+                "id": "7f219025023040a79df3c9a923dd8be7",
+                "text": "Do they need to buy eggs?",
+                "answers": [
+                    "Yes, they need some more.",
+                    "No, they have enough.",
+                    "They do not say"
+                ],
+                "correct": 1
+            },
+            {
+                "id": "dd750aa6fde0435eb81d3aac4690197d",
+                "text": "Do you they need some pancake mix?",
+                "answers": [
+                    "Yes, they need some more.",
+                    "No, they have enough.",
+                    "They do not say."
+                ],
+                "correct": 0
+            },
+            {
+                "id": "73ab94137cb640a288d9e170c669a348",
+                "text": "What do they say about milk?",
+                "answers": [
+                    "They have enough.",
+                    "They need some more.",
+                    "They are not sure."
+                ],
+                "correct": 1
+            },
+            {
+                "id": "8caca9932ac84c2b8a99dbe49bc52f1c",
+                "text": "Do they need some tea?",
+                "answers": [
+                    "Yes, they do.",
+                    "No, they do not.",
+                    "They do not say."
+                ],
+                "correct": 2
+            },
+            {
+                "id": "2be6085b49194092bd686db7fb3d3a1d",
+                "text": "What do they need to buy?",
+                "answers": [
+                    "syrup",
+                    "dish soap",
+                    "juice"
+                ],
+                "correct": 1
+            }
+        ]
+    }
+]

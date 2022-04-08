@@ -1,0 +1,418 @@
+{
+    "id": "af4d6d612856494099cf0ff3a36f6c91",
+    "title": "A favorite movie",
+    "questions": [
+        {
+            "id": "061a9de0bcff4bf6a413a6f1004337d3",
+            "text": "Do you usually watch movies at home or at a movie theater?",
+            "items": [
+                "Do",
+                "you",
+                "usually",
+                "watch",
+                "movies",
+                "at",
+                "home",
+                "or",
+                "at",
+                "a",
+                "movie",
+                [
+                    "theater?",
+                    "theatre"
+                ]
+            ]
+        },
+        {
+            "id": "f12e2a11905f4be6a3be49f68805c96b",
+            "text": "I usually watch movies on my laptop, sometimes I go to the movie theater.",
+            "items": [
+                "I",
+                "usually",
+                "watch",
+                "movies",
+                "on",
+                "my",
+                "laptop,",
+                "sometimes",
+                "I",
+                "go",
+                "to",
+                "the",
+                "movie",
+                [
+                    "theater.",
+                    "theatre"
+                ]
+            ]
+        },
+        {
+            "id": "7f6effa66fb04acc99526901e67bd827",
+            "text": "Is watching movies at the theater more interesting than watching movies at home?",
+            "items": [
+                "Is",
+                "watching",
+                "movies",
+                "at",
+                "the",
+                [
+                    "theater",
+                    "theatre"
+                ],
+                "more",
+                "interesting",
+                "than",
+                "watching",
+                "movies",
+                "at",
+                "home?"
+            ]
+        },
+        {
+            "id": "603eb82fed884b7cb1982567a4753df9",
+            "text": "Yes, definitely, because you can watch vivid images on a large screen with lively sound effects.",
+            "items": [
+                "Yes,",
+                "definitely,",
+                "because",
+                "you",
+                "can",
+                "watch",
+                "vivid",
+                "images",
+                "on",
+                "a",
+                "large",
+                "screen",
+                "with",
+                "lively",
+                "sound",
+                "effects."
+            ]
+        },
+        {
+            "id": "9ac895e7fdf24bde9459f4431daffecf",
+            "text": "How often do you go to the movie theater?",
+            "items": [
+                "How",
+                "often",
+                "do",
+                "you",
+                "go",
+                "to",
+                "the",
+                "movie",
+                [
+                    "theater?",
+                    "theatre"
+                ]
+            ]
+        },
+        {
+            "id": "41895574d35b4c89a963a3978f3d50c2",
+            "text": "I often go to the movie theater every weekend.",
+            "items": [
+                "I",
+                "often",
+                "go",
+                "to",
+                "the",
+                "movie",
+                [
+                    "theater",
+                    "theatre"
+                ],
+                "every",
+                "weekend."
+            ]
+        },
+        {
+            "id": "5f31ae29caba4581a35d2303bbc7fd92",
+            "text": "What's your favorite type of movie?",
+            "items": [
+                "What's",
+                "your",
+                [
+                    "favorite",
+                    "favourite"
+                ],
+                "type",
+                "of",
+                "movie?"
+            ]
+        },
+        {
+            "id": "77e782dda5de4decbcf92d8318fbe57c",
+            "text": "What movie of that type do you like?",
+            "items": [
+                "What",
+                "movie",
+                "of",
+                "that",
+                "type",
+                "do",
+                "you",
+                "like?"
+            ]
+        },
+        {
+            "id": "c81fe1e7059a446d8171d860fee0549f",
+            "text": "My favorite type is comedy because whenever I watch one, I feel like there are no more worries in the world.",
+            "items": [
+                "My",
+                [
+                    "favorite",
+                    "favourite"
+                ],
+                "type",
+                "is",
+                "comedy",
+                "because",
+                "whenever",
+                "I",
+                "watch",
+                [
+                    "one,",
+                    "i,",
+                    "1"
+                ],
+                "I",
+                "feel",
+                "like",
+                "there",
+                "are",
+                "no",
+                "more",
+                "worries",
+                "in",
+                "the",
+                "world."
+            ]
+        },
+        {
+            "id": "1565b059e540459e85707eb8698bab42",
+            "text": "I love the Mr. Bean movie series.",
+            "items": [
+                "I",
+                "love",
+                "the",
+                "Mr.",
+                "Bean",
+                "movie",
+                "series."
+            ]
+        },
+        {
+            "id": "8237080b8d4b4120a18e27f97016f50f",
+            "text": "Was that movie adapted from a book?",
+            "items": [
+                "Was",
+                "that",
+                "movie",
+                "adapted",
+                "from",
+                "a",
+                "book?"
+            ]
+        },
+        {
+            "id": "3e09a12982054be1842522babec9111b",
+            "text": "No, the story is derived from funny situations in real life.",
+            "items": [
+                "No,",
+                "the",
+                "story",
+                "is",
+                "derived",
+                "from",
+                "funny",
+                "situations",
+                "in",
+                "real",
+                "life."
+            ]
+        },
+        {
+            "id": "b86f3e51201a4c4a824512db88008d9e",
+            "text": "Who are the actors or actresses in the movie?",
+            "items": [
+                "Who",
+                "are",
+                "the",
+                "actors",
+                "or",
+                "actresses",
+                "in",
+                "the",
+                "movie?"
+            ]
+        },
+        {
+            "id": "557a78d1f2e04368b957736036196536",
+            "text": "Mr. Bean is the main character, he is played by Rowan Atkinson who is from England.",
+            "items": [
+                "Mr.",
+                "Bean",
+                "is",
+                "the",
+                "main",
+                "character,",
+                "he",
+                "is",
+                "played",
+                "by",
+                "Rowan",
+                "Atkinson",
+                "who",
+                "is",
+                "from",
+                "England."
+            ]
+        },
+        {
+            "id": "09ffbf8c136b4e9d9b113f9cf25e3f33",
+            "text": "Was it recommended by your friend, teacher or family?",
+            "items": [
+                "Was",
+                "it",
+                "recommended",
+                "by",
+                "your",
+                "friend,",
+                "teacher",
+                "or",
+                "family?"
+            ]
+        },
+        {
+            "id": "126884eca26344b6ab34e3d1da4f6749",
+            "text": "It was recommended by my classmate.",
+            "items": [
+                "It",
+                "was",
+                "recommended",
+                "by",
+                "my",
+                "classmate."
+            ]
+        },
+        {
+            "id": "20c9e9a960924b9f912fc04bfd3cf96c",
+            "text": "Was the movie in your mother language or in English?",
+            "items": [
+                "Was",
+                "the",
+                "movie",
+                "in",
+                "your",
+                "mother",
+                "language",
+                "or",
+                "in",
+                "English?"
+            ]
+        },
+        {
+            "id": "32a5ac7f288f489194a25212c9e2a2c6",
+            "text": "It was in English, but I can also watch it with subtitles.",
+            "items": [
+                "It",
+                "was",
+                "in",
+                "English,",
+                "but",
+                "I",
+                "can",
+                "also",
+                "watch",
+                "it",
+                "with",
+                "subtitles."
+            ]
+        },
+        {
+            "id": "5b6357a8ecc64f968eaa772a84d2076c",
+            "text": "Should children watch violent movies?",
+            "items": [
+                "Should",
+                "children",
+                "watch",
+                "violent",
+                "movies?"
+            ]
+        },
+        {
+            "id": "0c245172ab7346578d12560a0dd1ea04",
+            "text": "I don't believe so.",
+            "items": [
+                "I",
+                "don't",
+                "believe",
+                "so."
+            ]
+        },
+        {
+            "id": "4ae3040982e54d7780147152214078ee",
+            "text": "Young children are very impressionable and it could lead them to wanting to imitate the behavior.",
+            "items": [
+                "Young",
+                "children",
+                "are",
+                "very",
+                "impressionable",
+                "and",
+                "it",
+                "could",
+                "lead",
+                "them",
+                "to",
+                "wanting",
+                "to",
+                "imitate",
+                "the",
+                [
+                    "behavior.",
+                    "behaviour"
+                ]
+            ]
+        },
+        {
+            "id": "31cbdf6c45074133ac37af2042e33160",
+            "text": "What's the most important factor of a great movie?",
+            "items": [
+                "What's",
+                "the",
+                "most",
+                "important",
+                "factor",
+                "of",
+                "a",
+                "great",
+                "movie?"
+            ]
+        },
+        {
+            "id": "fef3f9ff417446acb8341bc6e4665f6e",
+            "text": "I believe that plot and actors are among the factors which decide the success of a movie.",
+            "items": [
+                "I",
+                "believe",
+                "that",
+                "plot",
+                "and",
+                "actors",
+                "are",
+                "among",
+                "the",
+                "factors",
+                "which",
+                "decide",
+                "the",
+                "success",
+                "of",
+                "a",
+                "movie."
+            ]
+        }
+    ]
+}

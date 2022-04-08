@@ -1,0 +1,160 @@
+[
+    {
+        "id": "eb1b27b7e9b248cc8ff38394e21fded4",
+        "word": "tug",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/tʌɡ/",
+            "us": "/tʌɡ/"
+        },
+        "nearby": [
+            {
+                "word": "tufted",
+                "pos": "adjective"
+            },
+            {
+                "word": "tug",
+                "pos": "verb"
+            },
+            {
+                "word": "tug",
+                "pos": "noun"
+            },
+            {
+                "word": "tug of love",
+                "pos": "noun"
+            },
+            {
+                "word": "tug of war",
+                "pos": "noun"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a small powerful boat for pulling ships, especially into a harbour or up a river",
+                    "vi": "một chiếc thuyền nhỏ mạnh mẽ để kéo tàu, đặc biệt là vào bến cảng hoặc lên sông"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a sudden, hard pull",
+                    "vi": "một sự kéo mạnh, đột ngột"
+                },
+                "examples": [
+                    {
+                        "en": "I felt a tug at my sleeve.",
+                        "vi": "Tôi cảm thấy tay áo bị giật mạnh."
+                    },
+                    {
+                        "en": "She gave her sister's hair a sharp tug.",
+                        "vi": "Cô giật mạnh mái tóc của em gái mình."
+                    }
+                ]
+            },
+            {
+                "define": {
+                    "en": "a sudden, strong emotional feeling",
+                    "vi": "một cảm xúc đột ngột, mạnh mẽ"
+                },
+                "examples": [
+                    {
+                        "en": "a tug of attraction",
+                        "vi": "một sự lôi cuốn"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7aeacd99555641e58cb0fab0ef321e02",
+        "word": "U-boat",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈjuː bəʊt/",
+            "us": "/ˈjuː bəʊt/"
+        },
+        "nearby": [
+            {
+                "word": "ubiquitously",
+                "pos": "adverb"
+            },
+            {
+                "word": "ubiquity",
+                "pos": "noun"
+            },
+            {
+                "word": "U-boat",
+                "pos": "noun"
+            },
+            {
+                "word": "ubuntu",
+                "pos": "noun"
+            },
+            {
+                "word": "u.c.",
+                "pos": "abbreviation"
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a German submarine (= a ship that can travel underwater)",
+                    "vi": "tàu ngầm Đức (= tàu có thể đi dưới nước)"
+                },
+                "examples": []
+            }
+        ]
+    },
+    {
+        "id": "43086fbc32bb4588ad23badc4587f8db",
+        "word": "whaler",
+        "pos": "noun",
+        "level": "c2",
+        "phonetic": {
+            "uk": "/ˈweɪlə(r)/",
+            "us": "/ˈweɪlər/"
+        },
+        "nearby": [
+            {
+                "word": "whale",
+                "pos": "noun"
+            },
+            {
+                "word": "whalebone",
+                "pos": "noun"
+            },
+            {
+                "word": "whaler",
+                "pos": "noun"
+            },
+            {
+                "word": "whaling",
+                "pos": "noun"
+            },
+            {
+                "word": "Wham!",
+                "pos": ""
+            }
+        ],
+        "means": [
+            {
+                "define": {
+                    "en": "a ship used for hunting whales",
+                    "vi": "một con tàu dùng để săn cá voi"
+                },
+                "examples": []
+            },
+            {
+                "define": {
+                    "en": "a person who hunts whales",
+                    "vi": "một người săn cá voi"
+                },
+                "examples": []
+            }
+        ]
+    }
+]
